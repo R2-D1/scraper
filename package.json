@@ -1,0 +1,23 @@
+{
+  "name": "mediascrapper-iconify",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "iconify:pull": "ts-node --project tsconfig.json src/iconify/pull-collection.ts",
+    "iconify:update-translations": "ts-node --project tsconfig.json src/iconify/update-translations.ts",
+    "translations:cleanup": "ts-node --project tsconfig.json src/scripts/fix-icon-name-translations.ts",
+    "translations:cleanup:keys": "ts-node --project tsconfig.json src/scripts/fix-icon-key-translations.ts",
+    "synonyms:cleanup-missing": "ts-node --project tsconfig.json src/scripts/cleanup-missing-synonyms.ts",
+    "unsplash:pull": "ts-node --project tsconfig.json src/unsplash/pull-media.ts"
+  },
+  "dependencies": {
+    "@iconify/json": "^2.2.255",
+    "@iconify/tools": "^4.0.3",
+    "sharp": "^0.34.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.18.1",
+    "ts-node": "^10.9.2",
+    "typescript": "~5.9.2"
+  }
+}
