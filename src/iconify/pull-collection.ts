@@ -175,6 +175,8 @@ async function writeMetadataFile(
     slug: string;
     category: string;
     source: string;
+    tags: string[];
+    keys: string[];
     authorName?: string;
     authorUrl?: string;
     licenseName?: string;
@@ -184,6 +186,8 @@ async function writeMetadataFile(
     slug,
     category: 'Іконки',
     source: `https://icon-sets.iconify.design/${slug}/`,
+    tags: [],
+    keys: [],
   };
 
   const authorName = info?.author?.name?.trim();

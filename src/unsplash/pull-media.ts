@@ -75,9 +75,7 @@ type MediaMetadata = {
   source: string;
   authorName?: string;
   authorUrl?: string;
-  authorPortfolioUrl?: string;
   description?: string;
-  blurHash?: string;
   keys: string[];
   tags: string[];
   licenseName: string;
@@ -400,7 +398,7 @@ function buildKeysFromTags(
   return Array.from(result).sort((a, b) => a.localeCompare(b, 'uk'));
 }
 
-function buildMetadata(photo: UnsplashPhoto, keys: string[]): MediaMetadata {
+function buildMetadata(photo: UnsplashPhoto, tags: string[]): MediaMetadata {
   const name =
     photo.description?.trim() ||
     photo.alt_description?.trim() ||
@@ -414,11 +412,9 @@ function buildMetadata(photo: UnsplashPhoto, keys: string[]): MediaMetadata {
     source: photo.links.html,
     authorName: photo.user.name?.trim(),
     authorUrl: photo.user.links?.html,
-    authorPortfolioUrl: photo.user.portfolio_url ?? undefined,
     description: photo.description ?? undefined,
-    blurHash: photo.blur_hash ?? undefined,
-    keys,
-    tags: [],
+    keys: [],
+    tags,
     licenseName: 'Unsplash License',
     licenseUrl: 'https://unsplash.com/license',
   };
@@ -452,8 +448,8 @@ async function main(): Promise<void> {
 
     const file = await downloadMedia(downloadUrl, outputDir, slug);
     const rawTags = collectTags(photo);
-    const keys = buildKeysFromTags(rawTags, keyStore, synonymStore);
-    const meta = buildMetadata(photo, keys);
+    buildKeysFromTags(rawTags, keyStore, synonymStore);
+    const meta = buildMetadata(photo, rawTags);
     const metaPath = path.join(outputDir, 'media-meta.json');
     await fs.writeFile(metaPath, `${JSON.stringify(meta, null, 2)}\n`, 'utf-8');
 

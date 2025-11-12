@@ -8,6 +8,7 @@
     "translations:cleanup": "ts-node --project tsconfig.json src/scripts/fix-icon-name-translations.ts",
     "translations:cleanup:keys": "ts-node --project tsconfig.json src/scripts/fix-icon-key-translations.ts",
     "synonyms:cleanup-missing": "ts-node --project tsconfig.json src/scripts/cleanup-missing-synonyms.ts",
+    "translations:promote-missing": "ts-node --project tsconfig.json src/scripts/promote-missing-translations.ts",
     "unsplash:pull": "ts-node --project tsconfig.json src/unsplash/pull-media.ts"
   },
   "dependencies": {
