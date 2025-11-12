@@ -144,7 +144,7 @@
 - [ ] `simple-icons` — 3 370 іконок — ліцензія: CC0 1.0 (CC0-1.0)
 - [ ] `simple-line-icons` — 189 іконок — ліцензія: MIT
 - [ ] `skill-icons` — 397 іконок — ліцензія: MIT
-- [ ] `solar` — 7 401 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `solar` — 7 401 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [ ] `stash` — 982 іконок — ліцензія: MIT
 - [ ] `streamline` — 3 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [ ] `streamline-block` — 300 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
