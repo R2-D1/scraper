@@ -1,209 +1,708 @@
 {
   "absorber": [
+    "амортизатор",
+    "поглинач",
+    "демпфер",
+    "аморт",
+    "підвіска",
+    "гаситель удару",
+    "shock absorber",
     "absorber"
   ],
   "academic": [
-    "academic"
+    "академік",
+    "академічний стиль",
+    "професор",
+    "університет",
+    "академія",
+    "учений",
+    "студентство",
+    "наука",
+    "academic",
+    "scholar",
+    "education"
   ],
   "accumulator": [
-    "accumulator"
+    "акумулятор",
+    "АКБ",
+    "батарея",
+    "автоакум",
+    "powerbank",
+    "живлення",
+    "battery",
+    "accumulator",
+    "battery pack"
   ],
   "adhesive": [
-    "adhesive"
+    "клей",
+    "липучка",
+    "клейстер",
+    "скотч",
+    "липка стрічка",
+    "adhesive",
+    "glue",
+    "sticky tape"
   ],
   "airbuds": [
-    "airbuds"
+    "навушники",
+    "навушники вкладиші",
+    "наушники",
+    "airpods",
+    "airbuds",
+    "earbuds",
+    "блютуз гарнітура",
+    "true wireless"
   ],
   "astronomy": [
-    "astronomy"
+    "астрономія",
+    "зоряне небо",
+    "планети",
+    "космос",
+    "спостереження",
+    "телескоп",
+    "галактика",
+    "космічна карта",
+    "astronomy",
+    "space",
+    "stargazing"
   ],
   "bedside": [
-    "bedside"
+    "приліжкова тумба",
+    "тумбочка",
+    "нічна тумба",
+    "нічна шафка",
+    "bedside table",
+    "nightstand",
+    "bedside",
+    "night cabinet"
   ],
   "benzene": [
-    "benzene"
+    "бензол",
+    "ароматичне кільце",
+    "органічна хімія",
+    "формула C6H6",
+    "хімічна структура",
+    "benzene",
+    "aromatic ring"
   ],
   "bicycling": [
-    "bicycling"
+    "велосипед",
+    "велопрогулянка",
+    "велоспорт",
+    "кататись на ровері",
+    "ровер",
+    "cycling",
+    "bike ride",
+    "bicycling",
+    "biker"
   ],
   "bitten": [
-    "bitten"
+    "надкушений",
+    "надкус",
+    "відкушений",
+    "слід зубів",
+    "кусняк",
+    "bite mark",
+    "bitten",
+    "chomp"
   ],
   "branching": [
-    "branching"
+    "розгалуження",
+    "гілкування",
+    "гілки",
+    "форк",
+    "дерево рішень",
+    "branch",
+    "branching",
+    "tree split",
+    "forking"
   ],
   "cardholder": [
-    "cardholder"
+    "картхолдер",
+    "тримач карт",
+    "гаманець для карток",
+    "портмоне",
+    "cardholder",
+    "card holder",
+    "card wallet"
   ],
   "colour": [
-    "colour"
+    "колір",
+    "барва",
+    "фарба",
+    "тон",
+    "відтінок",
+    "color",
+    "colour",
+    "hue",
+    "palette",
+    "spectrum"
+  ],
+  "colourful": [
+    "colourful"
   ],
   "condicioner": [
+    "кондиціонер",
+    "кондер",
+    "охолодження",
+    "повітряне охолодження",
+    "air conditioner",
+    "AC unit",
+    "climate control",
     "condicioner"
   ],
   "corkscrew": [
-    "corkscrew"
+    "штопор",
+    "відкривачка для вина",
+    "спіральний штопор",
+    "corkscrew",
+    "wine opener",
+    "винний ключ"
   ],
   "corrupted": [
-    "corrupted"
+    "пошкоджений файл",
+    "зіпсована інформація",
+    "биті дані",
+    "глюк",
+    "error",
+    "buggy",
+    "corrupted",
+    "data glitch"
   ],
   "cosmetic": [
-    "cosmetic"
+    "косметика",
+    "косметичка",
+    "макіяж",
+    "beauty",
+    "makeup",
+    "beauty kit",
+    "cosmetic",
+    "cosmetics",
+    "makeup bag"
   ],
   "diskette": [
-    "diskette"
+    "дискета",
+    "флопі",
+    "флопік",
+    "floppy disk",
+    "save icon",
+    "diskette",
+    "3.5 inch"
   ],
   "dropped": [
-    "dropped"
+    "впало",
+    "скинуто",
+    "впущено",
+    "опущений предмет",
+    "drop down",
+    "dropped",
+    "fallen",
+    "let go"
   ],
   "dumbbells": [
-    "dumbbells"
+    "гантелі",
+    "гантелька",
+    "тренування",
+    "силові вправи",
+    "спортзал",
+    "dumbbells",
+    "weights",
+    "gym gear",
+    "fitness"
   ],
   "ecommerce": [
-    "ecommerce"
+    "онлайн магазин",
+    "інтернет торгівля",
+    "е-комерція",
+    "шопінг",
+    "маркетплейс",
+    "ecommerce",
+    "e-commerce",
+    "online store",
+    "digital sales"
   ],
   "economy": [
-    "economy"
+    "економіка",
+    "економія",
+    "бюджет",
+    "фінанси",
+    "макроекономіка",
+    "ринок",
+    "economy",
+    "finance",
+    "economics"
   ],
   "emotions": [
-    "emotions"
+    "емоції",
+    "почуття",
+    "настрій",
+    "вираз обличчя",
+    "емоушн",
+    "emotions",
+    "feelings",
+    "mood",
+    "emoji vibes"
   ],
   "essentional": [
-    "essentional"
+    "необхідне",
+    "потрібне",
+    "основне",
+    "база",
+    "важливе",
+    "essentials",
+    "essential",
+    "basic",
+    "core"
   ],
   "fine": [
-    "fine"
+    "ок",
+    "добре",
+    "все норм",
+    "штраф",
+    "penalty",
+    "fine",
+    "all good",
+    "approval",
+    "ticket"
   ],
   "funny": [
-    "funny"
+    "смішно",
+    "прикол",
+    "жарт",
+    "lol",
+    "funny",
+    "comic",
+    "haha",
+    "humor"
   ],
   "globus": [
-    "globus"
+    "глобус",
+    "земна куля",
+    "планета",
+    "earth",
+    "atlas",
+    "map",
+    "globus",
+    "world"
   ],
   "happly": [
+    "щасливо",
+    "радісно",
+    "усмішка",
+    "good vibes",
+    "happy",
+    "joy",
+    "delight",
     "happly"
   ],
+  "holographic": [
+    "holographic"
+  ],
   "horizonta": [
+    "горизонтальний",
+    "лежачий формат",
+    "горизонт",
+    "в ряд",
+    "horizontal",
+    "landscape",
+    "flat",
     "horizonta"
   ],
   "magnifer": [
-    "magnifer"
+    "лупа",
+    "збільшувач",
+    "пошук",
+    "зум",
+    "magnifier",
+    "magnifer",
+    "search icon",
+    "zoom glass"
   ],
   "minimalistic": [
-    "minimalistic"
+    "мінімалістичний",
+    "мінімал",
+    "простий",
+    "чистий дизайн",
+    "легкі лінії",
+    "minimalistic",
+    "minimal",
+    "simple",
+    "clean"
   ],
   "minimlistic": [
-    "minimlistic"
+    "мінімалізм",
+    "мінімалістична форма",
+    "простота",
+    "акуратний",
+    "мінім стиль",
+    "minimalist",
+    "minimlistic",
+    "flat",
+    "sleek"
   ],
   "mitts": [
-    "mitts"
+    "рукавиці",
+    "варішки",
+    "рукавички",
+    "перчатки",
+    "теплі ручки",
+    "mittens",
+    "mitts",
+    "gloves"
   ],
   "parts": [
-    "parts"
+    "деталі",
+    "частини",
+    "запчастини",
+    "комплект",
+    "модулі",
+    "parts",
+    "components",
+    "spare parts"
   ],
   "paths": [
-    "paths"
+    "шляхи",
+    "доріжки",
+    "маршрут",
+    "контур",
+    "paths",
+    "routes",
+    "lanes",
+    "pathways"
   ],
   "pipette": [
-    "pipette"
+    "піпетка",
+    "крапельниця",
+    "піпєтка",
+    "pipette",
+    "dropper",
+    "lab tool",
+    "sample pipette"
   ],
   "plaaylist": [
-    "plaaylist"
+    "плейлист",
+    "плейка",
+    "добірка треків",
+    "music queue",
+    "playlist",
+    "plaaylist",
+    "tracklist",
+    "mix"
   ],
   "plain": [
-    "plain"
+    "простий",
+    "звичайний",
+    "плаский",
+    "мінімальний",
+    "plain",
+    "flat",
+    "basic",
+    "simple"
   ],
   "plaster": [
-    "plaster"
+    "пластир",
+    "лейкопластир",
+    "хрестик",
+    "bandage",
+    "plaster",
+    "patch",
+    "medical tape"
   ],
   "playback": [
-    "playback"
+    "відтворення",
+    "програвання",
+    "перемотка",
+    "контроль медіа",
+    "playback",
+    "media controls",
+    "rewind",
+    "play"
   ],
   "posts": [
-    "posts"
+    "пости",
+    "допис",
+    "стрічка",
+    "блог",
+    "контент",
+    "posts",
+    "feed",
+    "updates"
   ],
   "quit": [
-    "quit"
+    "вийти",
+    "закрити",
+    "вихід",
+    "завершити",
+    "quit",
+    "exit",
+    "log off",
+    "leave"
   ],
   "recive": [
-    "recive"
+    "отримати",
+    "прийняти",
+    "вхідне",
+    "receive",
+    "recive",
+    "inbox",
+    "download",
+    "incoming"
   ],
   "reel": [
-    "reel"
+    "котушка",
+    "бобіна",
+    "плівка",
+    "film reel",
+    "insta reel",
+    "reel",
+    "spool",
+    "video loop"
   ],
   "refueling": [
-    "refueling"
+    "заправка",
+    "паливо",
+    "підлити бак",
+    "АЗС",
+    "refuel",
+    "refueling",
+    "gas station",
+    "tank up"
   ],
   "revote": [
-    "revote"
+    "переголосування",
+    "повторне голосування",
+    "ще раз голосуємо",
+    "revote",
+    "vote again",
+    "repeat poll",
+    "second vote"
   ],
   "ribbons": [
-    "ribbons"
+    "стрічки",
+    "банти",
+    "ленти",
+    "декор",
+    "нагорода",
+    "ribbons",
+    "award ribbon",
+    "bow"
   ],
   "routing": [
-    "routing"
+    "маршрутизація",
+    "роутинг",
+    "навігація",
+    "шлях",
+    "routing",
+    "route planning",
+    "network path",
+    "directions"
   ],
   "seconds": [
-    "seconds"
+    "секунди",
+    "таймер",
+    "стрілка",
+    "відлік",
+    "seconds",
+    "clock",
+    "time",
+    "second hand"
   ],
   "shock": [
-    "shock"
+    "шок",
+    "удар",
+    "струс",
+    "розряд",
+    "surprise",
+    "shock",
+    "electric",
+    "jolt"
   ],
   "siderbar": [
+    "бічна панель",
+    "сайдбар",
+    "меню",
+    "навігаційна панель",
+    "drawer",
+    "sidebar",
+    "side menu",
     "siderbar"
   ],
   "skirt": [
-    "skirt"
+    "спідниця",
+    "юбка",
+    "одяг",
+    "жіноче",
+    "skirt",
+    "outfit",
+    "fashion",
+    "apparel"
   ],
   "sledgehammer": [
-    "sledgehammer"
+    "кувалда",
+    "важкий молот",
+    "демонтаж",
+    "sledgehammer",
+    "big hammer",
+    "breaker",
+    "heavy tool"
   ],
   "snowfall": [
-    "snowfall"
+    "снігопад",
+    "сніжинки",
+    "зима",
+    "замети",
+    "snowfall",
+    "snow",
+    "winter",
+    "flakes"
   ],
   "spedometer": [
-    "spedometer"
+    "спідометр",
+    "швидкість",
+    "панель приладів",
+    "приладова шкала",
+    "speedometer",
+    "gauge",
+    "dashboard",
+    "meter"
   ],
   "streets": [
-    "streets"
+    "вулиці",
+    "дороги",
+    "місто",
+    "street map",
+    "streets",
+    "urban",
+    "city roads",
+    "avenues"
   ],
   "ticker": [
-    "ticker"
+    "тікер",
+    "біржова стрічка",
+    "біжучий рядок",
+    "стрічка новин",
+    "stock ticker",
+    "ticker",
+    "scroll text",
+    "market tape"
   ],
   "transport": [
-    "transport"
+    "транспорт",
+    "перевезення",
+    "машини",
+    "логістика",
+    "vehicle",
+    "transport",
+    "transit",
+    "delivery"
   ],
   "trellis": [
-    "trellis"
+    "шпалера",
+    "садова решітка",
+    "ліани",
+    "опора для рослин",
+    "trellis",
+    "garden lattice",
+    "vine support"
   ],
   "tuneing": [
-    "tuneing"
+    "тюнінг",
+    "тюнинг",
+    "кастом",
+    "підлаштування",
+    "налаштування",
+    "tuneing",
+    "tuning",
+    "custom mod"
   ],
   "tuning": [
-    "tuning"
+    "налаштування",
+    "тонке налаштування",
+    "регулювання",
+    "тюнінг",
+    "tuning",
+    "fine tune",
+    "adjustment",
+    "setup"
   ],
   "turntable": [
-    "turntable"
+    "програвач",
+    "вертушка",
+    "вініл",
+    "dj deck",
+    "turntable",
+    "record player",
+    "vinyl player",
+    "spin table"
   ],
   "twice": [
-    "twice"
+    "двічі",
+    "два рази",
+    "double",
+    "повторно",
+    "twice",
+    "two times",
+    "again",
+    "repeat"
   ],
   "wad": [
-    "wad"
+    "пачка",
+    "купа",
+    "згорток",
+    "рол",
+    "wad",
+    "bundle",
+    "roll of cash",
+    "stack"
   ],
   "waterdrop": [
-    "waterdrop"
+    "крапля",
+    "вода",
+    "роса",
+    "сльоза",
+    "waterdrop",
+    "drip",
+    "droplet",
+    "liquid"
   ],
   "waterdrops": [
-    "waterdrops"
+    "краплі",
+    "бризки",
+    "росинки",
+    "дощик",
+    "waterdrops",
+    "drops",
+    "splashes",
+    "moisture"
   ],
   "weigher": [
-    "weigher"
+    "ваги",
+    "терези",
+    "вагова платформа",
+    "зважування",
+    "weigher",
+    "scale",
+    "weighing machine",
+    "balance"
   ],
   "wineglass": [
-    "wineglass"
+    "келих",
+    "вино",
+    "бокал",
+    "cheers",
+    "дегустація",
+    "wineglass",
+    "wine glass",
+    "drinkware"
   ],
   "winrar": [
-    "winrar"
+    "winrar",
+    "архіватор",
+    "rar",
+    "zip",
+    "compress",
+    "архів",
+    "RAR архів",
+    "unpack"
   ]
 }

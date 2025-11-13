@@ -402,7 +402,7 @@ function buildMetadata(photo: UnsplashPhoto, tags: string[]): MediaMetadata {
   const name =
     photo.description?.trim() ||
     photo.alt_description?.trim() ||
-    photo.slug?.replace(/-/g, ' ') ||
+    photo.slug?.trim() ||
     photo.id;
 
   return {
