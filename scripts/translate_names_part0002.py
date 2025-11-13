@@ -13,6 +13,9 @@ STYLE_MAP = {
     'filled': 'заповнена',
     'fill': 'заповнена',
     'outline': 'контурна',
+    'line': 'контурна',
+    'o': 'контурна',
+    'alt': 'альтернативна',
     'rounded': 'закруглена',
     'sharp': 'гостра',
     'simple': 'проста',
@@ -21,6 +24,10 @@ STYLE_MAP = {
     'circle': 'кругла',
     'square': 'квадратна',
     'wavy': 'хвиляста',
+    'solid': 'суцільна',
+    'remix': 'Remix',
+    'dark': 'темна',
+    'double': 'подвійна',
 }
 
 DIR_MAP = {
@@ -36,6 +43,47 @@ BRANDS = {
     'codesandbox': 'CodeSandbox',
     'discord': 'Discord',
     'dev': 'DEV',
+    'britishairways': 'British Airways',
+    'browserlist': 'Browserslist',
+    'bsd': 'BSD',
+    'bspwm': 'bspwm',
+    'bugatti': 'Bugatti',
+    'bugcrowd': 'Bugcrowd',
+    'budibase': 'Budibase',
+    'buefy': 'Buefy',
+    'bungie': 'Bungie',
+    'bunnydotnet': 'Bunny.net',
+    'bunq': 'Bunq',
+    'burgerking': 'Burger King',
+    'bucklescript': 'BuckleScript',
+    'buymeacoffee': 'Buy Me a Coffee',
+    'bvg': 'BVG',
+    'byjus': "BYJU'S",
+    'bt': 'BT',
+    'cadillac': 'Cadillac',
+    'cairographics': 'Cairo Graphics',
+    'cairometro': 'Cairo Metro',
+    'caixabank': 'CaixaBank',
+    'calendly': 'Calendly',
+    'calibreweb': 'Calibre Web',
+    'camunda': 'Camunda',
+    'canonical': 'Canonical',
+    'caprover': 'CapRover',
+    'cardmarket': 'Cardmarket',
+    'carlsberggroup': 'Carlsberg Group',
+    'carrd': 'Carrd',
+    'carrefour': 'Carrefour',
+    'carthrottle': 'Car Throttle',
+    'carto': 'Carto',
+    'comsol': 'Comsol',
+    'condaforge': 'Conda Forge',
+    'conduct': 'Conduct',
+    'contabo': 'Contabo',
+    'construct3': 'Construct 3',
+    'containerd': 'containerd',
+    'caldotcom': 'Cal.com',
+    'capnp': "Cap'n Proto",
+    'daze': 'Daze',
 }
 
 # Спеціальні фразові відповідники (довші шаблони спершу)
@@ -54,6 +102,12 @@ PHRASE_MAP = {
     'camera-slash': 'Камера перекреслена',
     'camera-plus': 'Камера плюс',
     'campfire': 'Вогнище',
+    'cloud-sun-rain': 'Хмара, сонце і дощ',
+    'cloud-sun': 'Хмара і сонце',
+    'cloud-wind': 'Хмара з вітром',
+    'cloud-unlock': 'Хмара розблокована',
+    'cloud-times': 'Хмара з хрестиком',
+    'cobb-angle': 'Кут Кобба',
     'car-battery': 'Акумулятор авто',
     'car-profile': 'Профіль авто',
     'car-simple': 'Спрощене авто',
@@ -190,6 +244,22 @@ PHRASE_MAP = {
     'currency-kzt': 'Тенге',
     'currency-ngn': 'Найра',
     'currency-rub': 'Рубль',
+    # Додаткові фразові зіставлення
+    'brickwall': 'Цегляна стіна',
+    'burrito-fastfood': 'Буріто фастфуд',
+    'candy-cane': 'Цукрова тростина',
+    'camera-film-roll': 'Камера плівка',
+    'light-bulb': 'Лампочка',
+    'jump-to-date': 'Перехід до дати',
+    'camera-user': 'Камера користувача',
+    'calendar-jump-to-date': 'Календар перехід до дати',
+    'cannabis-leaf': 'Лист конопель',
+    'cam-video': 'Відеокамера',
+    'cam-web': 'Вебкамера',
+    'camera-night': 'Нічна камера',
+    'car-allert': 'Сповіщення авто',
+    'car-lifter': 'Підіймач авто',
+    'car-print': 'Друк авто',
 }
 
 # Базове відображення токенів (fallback, коли PHRASE_MAP не спрацював)
@@ -216,8 +286,53 @@ TOKEN_MAP = {
     'calendar': 'календар',
     'call': 'дзвінок',
     'camera': 'камера',
+    'cam': 'камера',
+    'web': 'веб',
+    'video': 'відео',
+    'disabled': 'вимкнена',
+    'loading': 'завантаження',
+    'night': 'ніч',
+    'polaroid': 'Polaroid',
+    'slr': 'SLR',
+    'film': 'плівка',
+    'roll': 'рулон',
     'campfire': 'вогнище',
     'captioning': 'субтитри',
+    'calculator': 'калькулятор',
+    'calendar': 'календар',
+    'camping': 'кемпінг',
+    'gas': 'газ',
+    'campsite': 'кемпінг',
+    'can': 'банка',
+    'canceled': 'скасовано',
+    'candy': 'цукерка',
+    'cane': 'тростина',
+    'alt': 'альт',
+    'cannabis': 'канабіс',
+    'leaf': 'лист',
+    'capitol': 'Капітолій',
+    'lifter': 'підіймач',
+    'shipping': 'доставка',
+    'market': 'ринок',
+    'carpet': 'килим',
+    'cart': 'кошик',
+    'print': 'друк',
+    'off': 'вимкнено',
+    'edit': 'редагувати',
+    'end': 'кінець',
+    'nine': 'дев’ять',
+    'jump': 'перехід',
+    'date': 'дата',
+    'star': 'зірка',
+    'bright': 'яскравий',
+    'briefcase': 'портфель',
+    'burger': 'бургер',
+    'classic': 'класичний',
+    'burrito': 'буріто',
+    'fastfood': 'фастфуд',
+    'arrow': 'стрілка',
+    'deal': 'угода',
+    'megaphone': 'мегафон',
     'car': 'авто',
     'cardholder': 'тримач картки',
     'cards': 'картки',
@@ -287,9 +402,74 @@ TOKEN_MAP = {
     'cow': 'корова',
     'cowboy': 'ковбой',
     'cpu': 'процесор',
+    'screen': 'екран',
+    'device': 'пристрій',
+    'electronics': 'електроніка',
+    'monitor': 'монітор',
+    'display': 'дисплей',
+    'imac': 'iMac',
+    'download': 'завантаження',
+    'tv': 'телевізор',
+    'movies': 'фільми',
+    'television': 'телебачення',
+    'cathode': 'катодний',
+    'crt': 'CRT',
+    'ray': 'променевий',
+    'tube': 'трубка',
+    'vintage': 'ретро',
+    'smart': 'розумний',
+    'watch': 'годинник',
+    'timepiece': 'годинник',
+    'face': 'циферблат',
+    'blank': 'порожній',
+    'storage': 'накопичувач',
+    'floppy': 'дискета',
+    'hard': 'жорсткий',
+    'disk': 'диск',
+    'drive': 'диск',
+    'virtual': 'віртуальна',
+    'reality': 'реальність',
+    'gaming': 'ігрова',
+    'gear': 'пристрій',
+    'controller': 'контролер',
+    'games': 'ігри',
+    'headset': 'гарнітура',
+    'technology': 'технологія',
+    'vr': 'VR',
+    'eyewear': 'окуляри',
+    'voice': 'голосова',
+    'mail': 'пошта',
+    'mic': 'мікрофон',
+    'audio': 'аудіо',
+    'mike': 'мікрофон',
+    'music': 'музика',
+    'microphone': 'мікрофон',
+    'flash': 'спалах',
+    'mute': 'без звуку',
+    'webcam': 'вебкамера',
+    'future': 'майбутнє',
+    'tech': 'тех',
+    'skype': 'Skype',
+    'contact': 'контакт',
+    'contactlesspayment': 'безконтактна оплата',
+    'container': 'контейнер',
+    'image': 'зображення',
+    'content': 'контент',
+    'add': 'додати',
+    'file': 'файл',
+    'folder': 'тека',
+    'bookmark': 'закладка',
+    'box': 'блок',
+    'cone': 'конус',
+    'geometric': 'геометричний',
+    'shape': 'форма',
     'crane': 'кран',
     'cricket': 'крикет',
     'crop': 'кадрування',
+    'confectionery': 'кондитерська',
+    'camrecorder': 'відеокамера',
+    'alert': 'сповіщення',
+    'allert': 'сповіщення',
     'cross': 'хрест',
     'crosshair': 'приціл',
     'crown': 'корона',
@@ -614,6 +794,14 @@ def translate_generic(tokens, styles):
     # Бренд на початку
     if tokens and tokens[0] in BRANDS:
         return BRANDS[tokens[0]] + join_styles(styles)
+    # Перенесемо форму/контейнер у стилі, якщо зустрічається в середині
+    kept = []
+    for t in tokens:
+        if t in ('circle', 'square'):
+            styles.append(STYLE_MAP[t])
+        else:
+            kept.append(t)
+    tokens = kept
     # Побудова з токенів
     words = [TOKEN_MAP.get(t, t) for t in tokens]
     name = ' '.join(words)
@@ -626,6 +814,31 @@ def translate_key(key: str) -> str:
         return ''
 
     head = tokens[0]
+    # Спеціальна логіка для псевдографіки (box-drawing)
+    if head == 'box':
+        return translate_box(tokens, styles)
+    if head == 'burger':
+        return translate_burger(tokens, styles)
+    if head == 'breast':
+        return translate_breast(tokens, styles)
+    if head == 'browser':
+        return translate_browser(tokens, styles)
+    if head == 'brightness':
+        return translate_brightness(tokens, styles)
+    if head == 'bubble':
+        return translate_bubble(tokens, styles)
+    if head == 'computer':
+        return translate_computer(tokens, styles)
+    if head == 'bug':
+        return translate_bug(tokens, styles)
+    if head == 'business':
+        return translate_business(tokens, styles)
+    if head == 'button':
+        return translate_button(tokens, styles)
+    if head == 'bullet' or head == 'bulletin':
+        return translate_bullet(tokens, styles)
+    if head == 'content':
+        return translate_content(tokens, styles)
     if head == 'caret':
         return translate_caret(tokens[1:], styles)
     if head == 'cell' and len(tokens) >= 2 and tokens[1] == 'signal':
@@ -642,6 +855,414 @@ def translate_key(key: str) -> str:
         return translate_cloud(tokens, styles)
 
     return translate_generic(tokens, styles)
+
+
+def translate_box(tokens, styles):
+    # box-* — елементи ліній/кутів/перетинів псевдографіки
+    # Зустрічаються маркери стилю всередині назви (light/double/round/dashed/stipple...)
+    rest = tokens[1:]
+
+    # Зібрати стилі незалежно від позиції в ключі
+    style_terms = []
+    extras = []  # не-стилі, які краще дати у дужках, напр. "з колом"
+    def add_style(term):
+        if term in STYLE_MAP:
+            style_terms.append(STYLE_MAP[term])
+
+    for t in rest:
+        if t in ('light', 'thin'):
+            add_style('light')
+        elif t in ('bold', 'fat'):
+            add_style('fat')
+        elif t in ('double', 'rounded', 'outline', 'filled', 'fill', 'sharp', 'simple'):
+            add_style(t)
+        elif t == 'dashed':
+            # Відрізняємо від stipple
+            style_terms.append('штрихова')
+        elif t == 'stipple':
+            style_terms.append('пунктирна')
+        elif t == 'inner':
+            style_terms.append('внутрішня')
+        elif t == 'outer':
+            style_terms.append('зовнішня')
+        elif t == 'round':
+            # Для кутів: закруглена
+            style_terms.append('закруглена')
+        elif t == 'circle':
+            extras.append('з колом')
+
+    # База (сутність): кут / Т‑перетин / перехрестя / горизонтальна / вертикальна / меню / згин
+    has_vert = 'vertical' in rest
+    has_horz = 'horizontal' in rest
+    has_menu = 'menu' in rest
+    has_fold = 'fold' in rest
+
+    # Побудова напрямків, що присутні у ключі
+    def dir_phrase(ts):
+        return build_direction(ts)
+
+    name = None
+
+    if has_menu:
+        if has_horz:
+            name = 'Горизонтальне меню' + dir_phrase(rest)
+        elif has_vert:
+            name = 'Вертикальне меню' + dir_phrase(rest)
+        else:
+            name = 'Меню' + dir_phrase(rest)
+    elif has_vert and has_horz:
+        # повне перехрестя
+        name = 'Перехрестя' + dir_phrase(rest)
+    else:
+        # Кути: комбінації up/down з left/right
+        has_up = 'up' in rest
+        has_down = 'down' in rest
+        has_left = 'left' in rest
+        has_right = 'right' in rest
+
+        if (has_up or has_down) and (has_left or has_right):
+            # Кут з уточненням напряму: "вниз ліворуч" тощо
+            dir_parts = []
+            if has_up:
+                dir_parts.append(DIR_MAP['up'])
+            if has_down and not has_up:
+                dir_parts.append(DIR_MAP['down'])
+            # ліво/право
+            if has_left:
+                dir_parts.append(DIR_MAP['left'])
+            if has_right and not has_left:
+                dir_parts.append(DIR_MAP['right'])
+            name = 'Кут ' + ' '.join(dir_parts)
+        elif has_horz:
+            # Горизонтальні лінії або Т‑перетини вгору/вниз
+            if has_up or has_down:
+                name = 'Т‑перетин' + dir_phrase(rest)
+            else:
+                name = 'Горизонтальна'
+        elif has_vert:
+            if has_left or has_right:
+                name = 'Т‑перетин' + dir_phrase(rest)
+            else:
+                name = 'Вертикальна'
+        elif has_fold:
+            name = 'Згин' + dir_phrase(rest)
+        else:
+            # загальний елемент
+            name = 'Елемент рамки' + dir_phrase(rest)
+
+    # Формування стилів у дужках
+    # Злиття стилів, переданих із кінця ключа (styles) і з середини (style_terms)
+    merged_styles = list(dict.fromkeys(styles + style_terms + extras))
+    return cap(name) + join_styles(merged_styles)
+
+
+def translate_burger(tokens, styles):
+    # burger-...
+    rest = tokens[1:]
+    name = 'Бургер'
+    parts = []
+    for t in rest:
+        if t in ('duotone', 'light', 'bold', 'thin', 'solid', 'remix'):
+            continue
+        parts.append(TOKEN_MAP.get(t, t))
+    if parts:
+        name += ' ' + ' '.join(parts)
+    return cap(name) + join_styles(styles)
+
+
+def translate_computer(tokens, styles):
+    # computer-* → стислі назви за головним предметом
+    rest = tokens[1:]
+    # перенесемо форму у стилі
+    kept = []
+    for t in rest:
+        if t in ('circle', 'square'):
+            styles.append(STYLE_MAP[t])
+        else:
+            kept.append(t)
+    tset = set(kept)
+
+    def has(*words):
+        return all(w in tset for w in words)
+
+    # Пріоритети
+    if 'pc' in tset:
+        return 'ПК' + join_styles(styles)
+    if 'printer' in tset:
+        return 'Принтер' + join_styles(styles)
+    if 'ram' in tset:
+        return 'Оперативна пам’ять' + join_styles(styles)
+    if 'webcam' in tset:
+        return 'Вебкамера' + join_styles(styles)
+    if has('screen', 'curve') or has('screen', 'curved'):
+        return 'Вигнутий екран' + join_styles(styles)
+    if has('screen', 'imac'):
+        base = 'Екран iMac'
+        if 'download' in tset:
+            base += ' завантаження'
+        return base + join_styles(styles)
+    if 'screen' in tset:
+        return 'Екран' + join_styles(styles)
+    if 'tv' in tset or 'television' in tset:
+        return 'Телевізор' + join_styles(styles)
+    if has('smart', 'watch'):
+        return 'Розумний годинник' + join_styles(styles)
+    if has('storage', 'floppy') or has('floppy', 'disk'):
+        return 'Дискета' + join_styles(styles)
+    if has('storage', 'hard') or has('hard', 'disk') or has('hard', 'drive'):
+        return 'Жорсткий диск' + join_styles(styles)
+    if has('virtual', 'reality') or 'vr' in tset:
+        return 'VR гарнітура' + join_styles(styles)
+    if has('voice', 'mail'):
+        base = 'Голосова пошта'
+        if 'off' in tset or 'mute' in tset:
+            base += ' вимкнено'
+        return base + join_styles(styles)
+    if 'robot' in tset or 'android' in tset:
+        return 'Робот' + join_styles(styles)
+
+    # загальний випадок
+    return 'Комп’ютер' + join_styles(styles)
+
+
+def translate_breast(tokens, styles):
+    # breast-feeding-toneX
+    phrase = 'Грудне вигодовування'
+    rest = tokens[1:]
+    for t in rest:
+        if t.startswith('tone'):
+            num = t.replace('tone', '')
+            if num:
+                phrase += f' (тон {num})'
+            break
+    return cap(phrase) + join_styles(styles)
+
+
+def translate_browser(tokens, styles):
+    # browser-...-(line|solid|remix)
+    rest = tokens[1:]
+    tail_styles = []
+    name = 'Браузер'
+    action_map = {
+        'add': 'додати',
+        'block': 'блок',
+        'check': 'галочка',
+        'cookie': 'куки',
+        'delete': 'видалити',
+        'hash': 'хеш',
+        'lock': 'замок',
+        'remove': 'видалити',
+        'wifi': 'Wi‑Fi',
+        'ltr': 'LTR',
+        'rtl': 'RTL',
+        'line': None,
+        'solid': None,
+        'remix': None,
+    }
+    for t in rest:
+        if t in ('line', 'solid', 'remix'):
+            if t == 'line':
+                tail_styles.append('контурна')
+            elif t == 'solid':
+                tail_styles.append('суцільна')
+            else:
+                tail_styles.append('Remix')
+        elif t in action_map and action_map[t]:
+            name += ' ' + action_map[t]
+    merged_styles = list(dict.fromkeys(styles + tail_styles))
+    return cap(name) + join_styles(merged_styles)
+
+
+def translate_brightness(tokens, styles):
+    # brightness [N] (line|solid|remix)
+    rest = tokens[1:]
+    name = 'Яскравість'
+    tail_styles = []
+    for t in rest:
+        if t.isdigit():
+            name += f' {t}'
+        elif t == 'line':
+            tail_styles.append('контурна')
+        elif t == 'solid':
+            tail_styles.append('суцільна')
+        elif t == 'remix':
+            tail_styles.append('Remix')
+    merged = list(dict.fromkeys(styles + tail_styles))
+    return cap(name) + join_styles(merged)
+
+
+def translate_bubble(tokens, styles):
+    # bubble chat ... → коротше як «Чат …»
+    rest = tokens[1:]
+    name = 'Чат'
+    tail = []
+    style_terms = []
+    mapping = {
+        'check': 'галочка',
+        'text': 'текст',
+        'quote': 'цитата',
+        'like': 'лайк',
+        'typing': 'друк',
+        'smiley': 'смайлик',
+        # 'face' опускаємо для стислості
+        'double': None,
+        'forward': 'вперед',
+        'setting': 'налаштування',
+    }
+    if 'double' in rest:
+        style_terms.append('подвійна')
+    for t in rest:
+        if t in mapping and mapping[t]:
+            tail.append(mapping[t])
+    if tail:
+        name += ' ' + ' '.join(tail)
+    merged = list(dict.fromkeys(styles + style_terms))
+    return cap(name) + join_styles(merged)
+
+
+def translate_bug(tokens, styles):
+    # bug antivirus debugging / bug virus ... (remix|solid)
+    rest = tokens[1:]
+    name = 'Баг'
+    parts = []
+    for t in rest:
+        if t in ('remix', 'solid', 'line'):
+            continue
+        parts.append({
+            'antivirus': 'антивірус',
+            'debugging': 'налагодження',
+            'virus': 'вірус',
+            'document': 'документ',
+            'folder': 'тека',
+        }.get(t, t))
+    if parts:
+        name += ' ' + ' '.join(parts)
+    return cap(name) + join_styles(styles)
+
+
+def translate_business(tokens, styles):
+    # business ...
+    rest = tokens[1:]
+    name = 'Бізнес'
+    parts_map = {
+        'card': 'картка',
+        'chart': 'діаграма',
+        'chat': 'чат',
+        'dual': 'подвійний',
+        'screen': 'екран',
+        'window': 'вікно',
+        'female': 'жінка',
+        'male': 'чоловік',
+        'handshake': 'рукостискання',
+        'hierarchy': 'ієрархія',
+        'idea': 'ідея',
+        'laptop': 'ноутбук',
+        'magic': 'магія',
+        'rabbit': 'кролик',
+        'network': 'мережа',
+        'pick': 'вибір',
+        'profession': 'професія',
+        'home': 'дім',
+        'office': 'офіс',
+        'question': 'питання',
+        'scale': 'ваги',
+        'startup': 'стартап',
+        'mobile': 'мобільний',
+        'suitcase': 'валіза',
+        'target': 'мішень',
+        'user': 'користувач',
+        'curriculum': 'резюме',
+        'work': 'робоча',
+        'station': 'станція',
+        'print': 'друк',
+        'circle': 'коло',
+        'off': 'вимкнено',
+        'dollar': 'долар',
+    }
+    parts = []
+    i = 0
+    while i < len(rest):
+        t = rest[i]
+        if t in ('remix', 'solid', 'line'):
+            i += 1
+            continue
+        # комбінація light bulb → лампочка
+        if t == 'light' and i + 1 < len(rest) and rest[i+1] == 'bulb':
+            parts.append('лампочка')
+            i += 2
+            continue
+        parts.append(parts_map.get(t, t))
+        i += 1
+    if parts:
+        name += ' ' + ' '.join(parts)
+    return cap(name) + join_styles(styles)
+
+
+def translate_button(tokens, styles):
+    # button play/stop/next/previous/... (remix|solid)
+    rest = tokens[1:]
+    name = 'Кнопка'
+    parts_map = {
+        'play': 'відтворити',
+        'stop': 'зупинити',
+        'pause': 'пауза',
+        'record': 'запис',
+        'next': 'далі',
+        'previous': 'назад',
+        'rewind': 'перемотка',
+        'fast': 'швидка',
+        'forward': 'перемотка вперед',
+    }
+    parts = []
+    for t in rest:
+        if t in ('remix', 'solid', 'line'):
+            continue
+        parts.append(parts_map.get(t, t))
+    if parts:
+        name += ' ' + ' '.join(parts)
+    return cap(name) + join_styles(styles)
+
+
+def translate_bullet(tokens, styles):
+    # bullet / bulletin ...
+    head = tokens[0]
+    rest = tokens[1:]
+    if head == 'bulletin':
+        base = 'Оголошення'
+    else:
+        base = 'Маркер'
+    parts_map = {
+        'notice': 'повідомлення',
+        'circle': 'коло',
+        'off': 'вимкнено',
+        'square': 'квадрат',
+        'text': 'текст',
+    }
+    parts = []
+    for t in rest:
+        if t in ('remix', 'solid', 'line'):
+            continue
+        parts.append(parts_map.get(t, t))
+    name = base
+    if parts:
+        name += ' ' + ' '.join(parts)
+    return cap(name) + join_styles(styles)
+
+
+def translate_content(tokens, styles):
+    # content-... → короткі дії без слова «контент»
+    rest = tokens[1:]
+    if rest[:2] == ['add', 'file']:
+        return 'Додати файл' + join_styles(styles)
+    if rest[:2] == ['add', 'folder']:
+        return 'Додати теку' + join_styles(styles)
+    if rest and rest[0] == 'bookmark':
+        return 'Закладка' + join_styles(styles)
+    if rest and rest[0] == 'box':
+        return 'Блок' + join_styles(styles)
+    # загальний випадок
+    words = [TOKEN_MAP.get(t, t) for t in rest]
+    return cap(' '.join(words)) + join_styles(styles)
 
 
 def main():

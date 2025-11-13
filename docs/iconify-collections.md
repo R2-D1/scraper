@@ -2,12 +2,6 @@
 
 Перелік зібраний на основі пакета `@iconify/json` та оновлюється вручну за потреби. Ідентифікатори можна використовувати у команді `pnpm run iconify:pull -- --collection <id>`.
 
-Усього колекцій: 220
-Доступні колекції: 181
-Заборонені колекції: 39
-
-## Доступні колекції
-
 - [3] `akar-icons` — 454 іконок — ліцензія: MIT
 - [3] `ant-design` — 830 іконок — ліцензія: MIT
 - [3] `basil` — 493 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
@@ -17,7 +11,7 @@
 - [1] `bxl` — 155 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [1] `bxs` — 665 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [1] `bytesize` — 101 іконок — ліцензія: MIT
-- [ ] `carbon` — 2 392 іконок — ліцензія: Apache 2.0 (Apache-2.0)
+- [1] `carbon` — 2 392 іконок — ліцензія: Apache 2.0 (Apache-2.0)
 - [1] `catppuccin` — 656 іконок — ліцензія: MIT
 - [3] `charm` — 261 іконок — ліцензія: MIT
 - [1] `ci` — 442 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
@@ -72,12 +66,12 @@
 - [1] `guidance` — 360 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [1] `healthicons` — 2 024 іконок — ліцензія: MIT
 - [1] `heroicons` — 1 288 іконок — ліцензія: MIT
-- [ ] `heroicons-outline` — 230 іконок — ліцензія: MIT
-- [ ] `heroicons-solid` — 230 іконок — ліцензія: MIT
+- [1] `heroicons-outline` — 230 іконок — ліцензія: MIT
+- [1] `heroicons-solid` — 230 іконок — ліцензія: MIT
 - [1] `hugeicons` — 4 556 іконок — ліцензія: MIT
-- [ ] `humbleicons` — 278 іконок — ліцензія: MIT
+- [1] `humbleicons` — 278 іконок — ліцензія: MIT
 - [1] `ic` — 10 955 іконок — ліцензія: Apache 2.0 (Apache-2.0)
-- [ ] `icon-park` — 2 658 іконок — ліцензія: Apache 2.0 (Apache-2.0)
+- [1] `icon-park` — 2 658 іконок — ліцензія: Apache 2.0 (Apache-2.0)
 - [1] `icon-park-outline` — 2 658 іконок — ліцензія: Apache 2.0 (Apache-2.0)
 - [1] `icon-park-solid` — 1 947 іконок — ліцензія: Apache 2.0 (Apache-2.0)
 - [1] `icon-park-twotone` — 1 944 іконок — ліцензія: Apache 2.0 (Apache-2.0)
@@ -97,36 +91,36 @@
 - [1] `lsicon` — 716 іконок — ліцензія: MIT
 - [1] `lucide` — 1 641 іконок — ліцензія: ISC
 - [1] `lucide-lab` — 373 іконок — ліцензія: ISC
-- [ ] `mage` — 1 042 іконок — ліцензія: Apache 2.0 (Apache-2.0)
-- [ ] `majesticons` — 760 іконок — ліцензія: MIT
-- [ ] `maki` — 215 іконок — ліцензія: CC0 (CC0-1.0)
-- [ ] `marketeq` — 590 іконок — ліцензія: MIT
-- [ ] `material-icon-theme` — 1 124 іконок — ліцензія: MIT
+- [1] `mage` — 1 042 іконок — ліцензія: Apache 2.0 (Apache-2.0)
+- [1] `majesticons` — 760 іконок — ліцензія: MIT
+- [1] `maki` — 215 іконок — ліцензія: CC0 (CC0-1.0)
+- [1] `marketeq` — 590 іконок — ліцензія: MIT
+- [1] `material-icon-theme` — 1 124 іконок — ліцензія: MIT
 - [1] `material-symbols` — 15 009 іконок — ліцензія: Apache 2.0 (Apache-2.0)
 - [1] `material-symbols-light` — 15 082 іконок — ліцензія: Apache 2.0 (Apache-2.0)
 - [1] `mdi` — 7 447 іконок — ліцензія: Apache 2.0 (Apache-2.0)
 - [ ] `medical-icon` — 144 іконок — ліцензія: MIT
-- [ ] `memory` — 651 іконок — ліцензія: Apache 2.0 (Apache-2.0)
+- [1] `memory` — 651 іконок — ліцензія: Apache 2.0 (Apache-2.0)
 - [ ] `meteocons` — 447 іконок — ліцензія: MIT
-- [ ] `meteor-icons` — 321 іконок — ліцензія: MIT
-- [ ] `mi` — 180 іконок — ліцензія: MIT
-- [ ] `mingcute` — 3 098 іконок — ліцензія: Apache 2.0 (Apache-2.0)
-- [ ] `mono-icons` — 180 іконок — ліцензія: MIT
-- [ ] `mynaui` — 2 544 іконок — ліцензія: MIT
-- [ ] `nimbus` — 140 іконок — ліцензія: MIT
-- [ ] `nonicons` — 69 іконок — ліцензія: MIT
-- [ ] `noto` — 3 710 іконок — ліцензія: Apache 2.0 (Apache-2.0)
-- [ ] `noto-v1` — 2 162 іконок — ліцензія: Apache 2.0 (Apache-2.0)
-- [ ] `nrk` — 236 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `octicon` — 670 іконок — ліцензія: MIT
-- [ ] `oi` — 223 іконок — ліцензія: MIT
-- [ ] `ooui` — 370 іконок — ліцензія: MIT
-- [ ] `oui` — 437 іконок — ліцензія: Apache 2.0 (Apache-2.0)
-- [ ] `pajamas` — 410 іконок — ліцензія: MIT
-- [ ] `pepicons` — 428 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `pepicons-pencil` — 1 275 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `pepicons-pop` — 1 275 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `pepicons-print` — 1 275 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `meteor-icons` — 321 іконок — ліцензія: MIT
+- [1] `mi` — 180 іконок — ліцензія: MIT
+- [1] `mingcute` — 3 098 іконок — ліцензія: Apache 2.0 (Apache-2.0)
+- [1] `mono-icons` — 180 іконок — ліцензія: MIT
+- [1] `mynaui` — 2 544 іконок — ліцензія: MIT
+- [1] `nimbus` — 140 іконок — ліцензія: MIT
+- [1] `nonicons` — 69 іконок — ліцензія: MIT
+- [1] `noto` — 3 710 іконок — ліцензія: Apache 2.0 (Apache-2.0)
+- [1] `noto-v1` — 2 162 іконок — ліцензія: Apache 2.0 (Apache-2.0)
+- [1] `nrk` — 236 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `octicon` — 670 іконок — ліцензія: MIT
+- [1] `oi` — 223 іконок — ліцензія: MIT
+- [1] `ooui` — 370 іконок — ліцензія: MIT
+- [1] `oui` — 437 іконок — ліцензія: Apache 2.0 (Apache-2.0)
+- [1] `pajamas` — 410 іконок — ліцензія: MIT
+- [1] `pepicons` — 428 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `pepicons-pencil` — 1 275 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `pepicons-pop` — 1 275 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `pepicons-print` — 1 275 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [ ] `ph` — 9 072 іконок — ліцензія: MIT
 - [1] `pixel` — 450 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [1] `pixelarticons` — 486 іконок — ліцензія: MIT
@@ -139,18 +133,18 @@
 - [1] `ri` — 3 135 іконок — ліцензія: Apache 2.0 (Apache-2.0)
 - [1] `rivet-icons` — 210 іконок — ліцензія: BSD 3-Clause (BSD-3-Clause)
 - [1] `roentgen` — 514 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `si` — 1 269 іконок — ліцензія: MIT
-- [ ] `sidekickicons` — 224 іконок — ліцензія: MIT
-- [ ] `simple-icons` — 3 370 іконок — ліцензія: CC0 1.0 (CC0-1.0)
-- [ ] `simple-line-icons` — 189 іконок — ліцензія: MIT
-- [ ] `skill-icons` — 397 іконок — ліцензія: MIT
+- [1] `si` — 1 269 іконок — ліцензія: MIT
+- [1] `sidekickicons` — 224 іконок — ліцензія: MIT
+- [1] `simple-icons` — 3 370 іконок — ліцензія: CC0 1.0 (CC0-1.0)
+- [1] `simple-line-icons` — 189 іконок — ліцензія: MIT
+- [1] `skill-icons` — 397 іконок — ліцензія: MIT
 - [1] `solar` — 7 401 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `stash` — 982 іконок — ліцензія: MIT
-- [ ] `streamline` — 3 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-block` — 300 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `stash` — 982 іконок — ліцензія: MIT
+- [1] `streamline` — 3 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-block` — 300 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [1] `streamline-color` — 2 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-cyber` — 500 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-cyber-color` — 500 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-cyber` — 500 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-cyber-color` — 500 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [1] `streamline-emojis` — 787 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [1] `streamline-flex` — 1 500 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [1] `streamline-flex-color` — 1 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
@@ -177,14 +171,14 @@
 - [3] `token-branded` — 2 002 іконок — ліцензія: MIT
 - [3] `topcoat` — 89 іконок — ліцензія: Apache 2.0 (Apache-2.0)
 - [1] `twemoji` — 3 668 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `uil` — 1 215 іконок — ліцензія: Apache 2.0 (Apache-2.0)
-- [ ] `uim` — 298 іконок — ліцензія: Apache 2.0 (Apache-2.0)
+- [1] `uil` — 1 215 іконок — ліцензія: Apache 2.0 (Apache-2.0)
+- [1] `uim` — 298 іконок — ліцензія: Apache 2.0 (Apache-2.0)
 - [3] `uis` — 190 іконок — ліцензія: Apache 2.0 (Apache-2.0)
 - [3] `uit` — 216 іконок — ліцензія: Apache 2.0 (Apache-2.0)
 - [3] `uiw` — 214 іконок — ліцензія: MIT
 - [3] `unjs` — 63 іконок — ліцензія: Apache 2.0 (Apache-2.0)
-- [ ] `vaadin` — 636 іконок — ліцензія: Apache 2.0 (Apache-2.0)
+- [1] `vaadin` — 636 іконок — ліцензія: Apache 2.0 (Apache-2.0)
 - [ ] `vscode-icons` — 1 414 іконок — ліцензія: MIT
 - [3] `weui` — 162 іконок — ліцензія: MIT
 - [3] `wpf` — 200 іконок — ліцензія: MIT
-- [ ] `zondicons` — 297 іконок — ліцензія: MIT
+- [1] `zondicons` — 297 іконок — ліцензія: MIT
