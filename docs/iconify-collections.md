@@ -49,29 +49,29 @@
 - [1] `file-icons` — 930 іконок — ліцензія: ISC
 - [ ] `flag` — 542 іконок — ліцензія: MIT
 - [ ] `flagpack` — 255 іконок — ліцензія: MIT
-- [ ] `flat-color-icons` — 329 іконок — ліцензія: MIT
-- [ ] `flat-ui` — 100 іконок — ліцензія: MIT
-- [ ] `flowbite` — 751 іконок — ліцензія: MIT
+- [1] `flat-color-icons` — 329 іконок — ліцензія: MIT
+- [1] `flat-ui` — 100 іконок — ліцензія: MIT
+- [1] `flowbite` — 751 іконок — ліцензія: MIT
 - [1] `fluent` — 18 648 іконок — ліцензія: MIT
-- [ ] `fluent-color` — 890 іконок — ліцензія: MIT
-- [ ] `fluent-emoji` — 3 126 іконок — ліцензія: MIT
-- [ ] `fluent-emoji-flat` — 3 145 іконок — ліцензія: MIT
-- [ ] `fluent-emoji-high-contrast` — 1 595 іконок — ліцензія: MIT
-- [ ] `fluent-mdl2` — 1 735 іконок — ліцензія: MIT
-- [ ] `fontisto` — 615 іконок — ліцензія: MIT
-- [ ] `formkit` — 144 іконок — ліцензія: MIT
-- [ ] `foundation` — 283 іконок — ліцензія: MIT
-- [ ] `fxemoji` — 1 034 іконок — ліцензія: Apache 2.0 (Apache-2.0)
-- [ ] `game-icons` — 4 123 іконок — ліцензія: CC BY 3.0 (CC-BY-3.0)
-- [ ] `garden` — 908 іконок — ліцензія: Apache 2.0 (Apache-2.0)
-- [ ] `geo` — 30 іконок — ліцензія: MIT
-- [ ] `gg` — 704 іконок — ліцензія: MIT
-- [ ] `gis` — 367 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `gravity-ui` — 744 іконок — ліцензія: MIT
-- [ ] `grommet-icons` — 636 іконок — ліцензія: Apache 2.0 (Apache-2.0)
-- [ ] `guidance` — 360 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `healthicons` — 2 024 іконок — ліцензія: MIT
-- [ ] `heroicons` — 1 288 іконок — ліцензія: MIT
+- [1] `fluent-color` — 890 іконок — ліцензія: MIT
+- [1] `fluent-emoji` — 3 126 іконок — ліцензія: MIT
+- [1] `fluent-emoji-flat` — 3 145 іконок — ліцензія: MIT
+- [1] `fluent-emoji-high-contrast` — 1 595 іконок — ліцензія: MIT
+- [1] `fluent-mdl2` — 1 735 іконок — ліцензія: MIT
+- [1] `fontisto` — 615 іконок — ліцензія: MIT
+- [1] `formkit` — 144 іконок — ліцензія: MIT
+- [1] `foundation` — 283 іконок — ліцензія: MIT
+- [1] `fxemoji` — 1 034 іконок — ліцензія: Apache 2.0 (Apache-2.0)
+- [1] `game-icons` — 4 123 іконок — ліцензія: CC BY 3.0 (CC-BY-3.0)
+- [1] `garden` — 908 іконок — ліцензія: Apache 2.0 (Apache-2.0)
+- [1] `geo` — 30 іконок — ліцензія: MIT
+- [1] `gg` — 704 іконок — ліцензія: MIT
+- [1] `gis` — 367 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `gravity-ui` — 744 іконок — ліцензія: MIT
+- [1] `grommet-icons` — 636 іконок — ліцензія: Apache 2.0 (Apache-2.0)
+- [1] `guidance` — 360 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `healthicons` — 2 024 іконок — ліцензія: MIT
+- [1] `heroicons` — 1 288 іконок — ліцензія: MIT
 - [ ] `heroicons-outline` — 230 іконок — ліцензія: MIT
 - [ ] `heroicons-solid` — 230 іконок — ліцензія: MIT
 - [1] `hugeicons` — 4 556 іконок — ліцензія: MIT
@@ -152,27 +152,27 @@
 - [ ] `streamline-cyber` — 500 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [ ] `streamline-cyber-color` — 500 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [1] `streamline-emojis` — 787 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-flex` — 1 500 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-flex-color` — 1 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-freehand` — 1 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-freehand-color` — 1 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-kameleon-color` — 400 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-flex` — 1 500 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-flex-color` — 1 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-freehand` — 1 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-freehand-color` — 1 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-kameleon-color` — 400 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [1] `streamline-logos` — 1 362 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-pixel` — 662 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-plump` — 1 499 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-plump-color` — 1 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-sharp` — 1 500 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-sharp-color` — 1 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-stickies-color` — 200 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-ultimate` — 1 999 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `streamline-ultimate-color` — 998 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
-- [ ] `subway` — 306 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-pixel` — 662 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-plump` — 1 499 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-plump-color` — 1 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-sharp` — 1 500 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-sharp-color` — 1 000 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-stickies-color` — 200 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-ultimate` — 1 999 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `streamline-ultimate-color` — 998 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
+- [1] `subway` — 306 іконок — ліцензія: CC BY 4.0 (CC-BY-4.0)
 - [3] `svg-spinners` — 46 іконок — ліцензія: MIT
-- [ ] `system-uicons` — 430 іконок — ліцензія: Unlicense
+- [1] `system-uicons` — 430 іконок — ліцензія: Unlicense
 - [3] `tabler` — 5 963 іконок — ліцензія: MIT
 - [3] `tdesign` — 2 130 іконок — ліцензія: MIT
-- [ ] `teenyicons` — 1 200 іконок — ліцензія: MIT
-- [ ] `temaki` — 542 іконок — ліцензія: CC0 (CC0-1.0)
+- [1] `teenyicons` — 1 200 іконок — ліцензія: MIT
+- [1] `temaki` — 542 іконок — ліцензія: CC0 (CC0-1.0)
 - [3] `token` — 1 748 іконок — ліцензія: MIT
 - [3] `token-branded` — 2 002 іконок — ліцензія: MIT
 - [3] `topcoat` — 89 іконок — ліцензія: Apache 2.0 (Apache-2.0)

@@ -3,3 +3,7 @@ node_modules
 dist
 .DS_Store
 library
+__pycache__/
+*.pyc
+tmp/*
+!tmp/README.md
