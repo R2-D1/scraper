@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "iconify:pull": "ts-node --project tsconfig.json src/iconify/pull-collection.ts",
+    "iconify:extract-collections": "ts-node --project tsconfig.json src/iconify/extract-collections.ts",
+    "iconify:pull-all": "ts-node --project tsconfig.json src/iconify/pull-all.ts",
     "iconify:update-translations": "ts-node --project tsconfig.json src/iconify/update-translations.ts",
     "translations:cleanup": "ts-node --project tsconfig.json src/scripts/fix-icon-name-translations.ts",
     "translations:cleanup:keys": "ts-node --project tsconfig.json src/scripts/fix-icon-key-translations.ts",

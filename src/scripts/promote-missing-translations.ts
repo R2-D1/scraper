@@ -99,8 +99,14 @@ function mergeSynonymEntries(target: SynonymDictionary, additions: SynonymDictio
     if (values.length === 0) {
       continue;
     }
+    const hasEntry = Object.prototype.hasOwnProperty.call(target, token);
+    if (!hasEntry) {
+      target[token] = [...values];
+      appended += values.length;
+      continue;
+    }
     const current = target[token];
-    if (!current) {
+    if (!Array.isArray(current)) {
       target[token] = [...values];
       appended += values.length;
       continue;
