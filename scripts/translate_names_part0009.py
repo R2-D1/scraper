@@ -3,9 +3,9 @@
 
 """
 Одноразовий скрипт перекладу назв іконок для файла:
-  translations/missing-translations/names/part-0009.json
+  translations/icons/missing-translations/names/part-0009.json
 
-Підхід і правила узгоджені з docs/names-translation-instruction.md:
+Підхід і правила узгоджені з translations/icons/names-translation-instruction.md:
  - Коротка зрозуміла назва українською, що описує видиме
  - Стилі/варіанти/контейнер — у дужках (жіночий рід):
      контурна, заповнена, тонка, двотонова, закруглена, гостра,
@@ -22,7 +22,7 @@ import json
 import re
 from pathlib import Path
 
-FILE = Path("translations/missing-translations/names/part-0009.json")
+FILE = Path("translations/icons/missing-translations/names/part-0009.json")
 
 # Вагові стилі (узгоджені як у «іконка» — ж. р.)
 WEIGHT_STYLES = {

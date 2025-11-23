@@ -3,7 +3,7 @@ import json
 import re
 from pathlib import Path
 
-PATH = Path('translations/missing-synonyms/part-0001.json')
+PATH = Path('translations/icons/missing-synonyms/part-0001.json')
 
 
 def dot_domain_variant(key: str):

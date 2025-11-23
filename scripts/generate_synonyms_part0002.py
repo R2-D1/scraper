@@ -2,7 +2,7 @@
 import json
 from pathlib import Path
 
-SRC = Path('translations/missing-synonyms/part-0002.json')
+SRC = Path('translations/icons/missing-synonyms/part-0002.json')
 
 
 def uniq(seq):

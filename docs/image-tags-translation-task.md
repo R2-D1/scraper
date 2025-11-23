@@ -1,0 +1,1 @@
+Потрібно перекласти теги для зображень у файлі translations/images/missing-tag-translations/part-0001.json. Для перекладу використовувати інструкцію translations/images/tag-translation-rules.md

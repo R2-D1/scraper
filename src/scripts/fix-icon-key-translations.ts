@@ -5,9 +5,9 @@ type Dictionary = Record<string, string>;
 type SynonymDictionary = Record<string, string[]>;
 
 const rootDir = resolve(__dirname, '..', '..');
-const keyTranslationsPath = resolve(rootDir, 'translations/icon-translations/key-translations.json');
-const synonymsPath = resolve(rootDir, 'translations/icon-translations/synonyms.json');
-const nameTranslationsPath = resolve(rootDir, 'translations/icon-translations/name-translations.json');
+const keyTranslationsPath = resolve(rootDir, 'translations/icons/icon-translations/key-translations.json');
+const synonymsPath = resolve(rootDir, 'translations/icons/icon-translations/synonyms.json');
+const nameTranslationsPath = resolve(rootDir, 'translations/icons/icon-translations/name-translations.json');
 
 const keyTranslations: Dictionary = JSON.parse(readFileSync(keyTranslationsPath, 'utf8'));
 const synonyms: SynonymDictionary = JSON.parse(readFileSync(synonymsPath, 'utf8'));

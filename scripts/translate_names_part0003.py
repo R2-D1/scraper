@@ -3,7 +3,7 @@
 
 """
 Одноразовий скрипт для перекладу назв іконок у файлі:
-  translations/missing-translations/names/part-0003.json
+  translations/icons/missing-translations/names/part-0003.json
 
 Підхід:
 - Короткі, змістовні українські назви.
@@ -16,7 +16,7 @@ import json
 import re
 from pathlib import Path
 
-SRC = Path('translations/missing-translations/names/part-0003.json')
+SRC = Path('translations/icons/missing-translations/names/part-0003.json')
 
 # Стилі (жіночий рід, щоб узгоджуватися з «іконка»)
 STYLE_WEIGHTS = {

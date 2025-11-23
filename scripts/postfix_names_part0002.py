@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 import re
 
-SRC = Path('translations/missing-translations/names/part-0002.json')
+SRC = Path('translations/icons/missing-translations/names/part-0002.json')
 
 # Стилі, які треба оформляти у дужках наприкінці
 STYLE_TERMS = {

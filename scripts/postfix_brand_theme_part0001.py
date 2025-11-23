@@ -3,7 +3,7 @@ import json
 import re
 from pathlib import Path
 
-SRC = Path("translations/missing-translations/names/part-0001.json")
+SRC = Path("translations/icons/missing-translations/names/part-0001.json")
 
 RE_THEME = re.compile(r"^([a-z0-9][a-z0-9 ]*[a-z0-9])\s+(dark|light)$")
 RE_STYLE = re.compile(r"^([a-z0-9][a-z0-9 ]*[a-z0-9])\s+(solid|remix)$")

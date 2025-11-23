@@ -1,0 +1,1 @@
+потрібно перекласти  імена зображень Unsplash translations/images/missing-name-translations/part-0001.json. Використовувати інструкцію translations/images/name-translation-rules.md.

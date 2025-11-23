@@ -4,7 +4,7 @@ from typing import Dict, List, Set
 
 
 def main() -> None:
-    source = Path("/Users/taras/HOLE/Projects/scraper/translations/missing-synonyms/part-0002.json")
+    source = Path("/Users/taras/HOLE/Projects/scraper/translations/icons/missing-synonyms/part-0002.json")
     data = json.loads(source.read_text(encoding="utf-8"))
 
     synonyms: Dict[str, List[str]] = {

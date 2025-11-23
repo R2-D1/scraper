@@ -3,7 +3,7 @@
 
 """
 Переклад назв іконок для файла:
-  translations/missing-translations/names/part-0004.json
+  translations/icons/missing-translations/names/part-0004.json
 
 Правила:
  - Коротко, по суті, без зайвого опису
@@ -15,7 +15,7 @@
 import json
 from pathlib import Path
 
-FILE = Path("translations/missing-translations/names/part-0004.json")
+FILE = Path("translations/icons/missing-translations/names/part-0004.json")
 
 # Стилі (жіночий рід)
 WEIGHT = {

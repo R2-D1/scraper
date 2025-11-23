@@ -3,7 +3,7 @@
 
 """
 Одноразовий скрипт перекладу назв іконок для файла:
-  translations/missing-translations/names/part-0005.json
+  translations/icons/missing-translations/names/part-0005.json
 
 Принципи:
 - Коротко і по суті, передаємо візуальний сенс.
@@ -15,7 +15,7 @@
 import json
 from pathlib import Path
 
-FILE = Path("translations/missing-translations/names/part-0005.json")
+FILE = Path("translations/icons/missing-translations/names/part-0005.json")
 
 # Стилі ваги/варіанти (жіночий рід)
 WEIGHT_STYLES = {

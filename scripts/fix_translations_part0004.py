@@ -4,7 +4,7 @@ import re
 from pathlib import Path
 
 
-SRC = Path('translations/missing-translations/names/part-0004.json')
+SRC = Path('translations/icons/missing-translations/names/part-0004.json')
 
 
 # Style tokens mapped to Ukrainian (shown in parentheses)

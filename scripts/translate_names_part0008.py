@@ -694,7 +694,14 @@ def translate_entry(key: str, value: str) -> str:
     return translate_generic(pseudo)
 
 def main():
-    path = Path(__file__).parent.parent / 'translations' / 'missing-translations' / 'names' / 'part-0008.json'
+    path = (
+        Path(__file__).parent.parent
+        / 'translations'
+        / 'icons'
+        / 'missing-translations'
+        / 'names'
+        / 'part-0008.json'
+    )
     data = json.loads(path.read_text())
     out = {}
     for k, v in data.items():

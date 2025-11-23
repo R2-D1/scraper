@@ -2,7 +2,7 @@
 import json
 from pathlib import Path
 
-ROOT = Path('translations/missing-synonyms')
+ROOT = Path('translations/icons/missing-synonyms')
 
 
 def uniq(seq):

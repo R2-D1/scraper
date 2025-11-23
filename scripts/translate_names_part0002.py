@@ -2,7 +2,7 @@
 import json
 from pathlib import Path
 
-SRC = Path('translations/missing-translations/names/part-0002.json')
+SRC = Path('translations/icons/missing-translations/names/part-0002.json')
 
 # Стилі (жіночий рід, як у прикладах інструкції)
 STYLE_MAP = {

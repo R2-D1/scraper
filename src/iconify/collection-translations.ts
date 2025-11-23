@@ -196,27 +196,45 @@ export function collectIconTokens(raw: RawCollection, iconNames: string[]): Map<
   return metadataMap;
 }
 
-export function collectNamePhrases(iconNames: string[]): Map<string, string> {
-  const phrases = new Map<string, string>();
+export type NamePhraseCollection = {
+  basePhrases: Map<string, string>;
+  iconToBase: Map<string, string>;
+};
+
+export function collectNamePhrases(iconNames: string[]): NamePhraseCollection {
+  const basePhrases = new Map<string, string>();
+  const iconToBase = new Map<string, string>();
+
   for (const iconName of iconNames) {
     const base = stripIconStyleSuffix(iconName);
-    if (!phrases.has(base)) {
+    if (!basePhrases.has(base)) {
       const phrase = slugToPhrase(base);
-      phrases.set(base, phrase);
+      basePhrases.set(base, phrase);
     }
+    iconToBase.set(iconName, base);
   }
-  return phrases;
+
+  return { basePhrases, iconToBase };
 }
 
 export function buildIconNames(
-  phrases: Map<string, string>,
+  phrases: NamePhraseCollection,
   translations: TranslationStore<string>
 ): Record<string, string> {
   const iconNames: Record<string, string> = {};
-  for (const [iconName, phrase] of phrases.entries()) {
-    const translated = translations.resolve(iconName, phrase);
-    iconNames[iconName] = toDisplayCase(translated);
+  const baseTranslations = new Map<string, string>();
+
+  for (const [base, phrase] of phrases.basePhrases.entries()) {
+    const translated = toDisplayCase(translations.resolve(base, phrase));
+    baseTranslations.set(base, translated);
   }
+
+  for (const [iconName, base] of phrases.iconToBase.entries()) {
+    const fallback = baseTranslations.get(base) ?? toDisplayCase(slugToPhrase(base));
+    const translated = toDisplayCase(translations.resolve(iconName, fallback));
+    iconNames[iconName] = translated;
+  }
+
   return sortRecord(iconNames);
 }
 

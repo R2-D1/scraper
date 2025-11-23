@@ -311,7 +311,7 @@ def replace_words(text: str) -> str:
 
 
 def main() -> None:
-    path = Path("translations/missing-translations/names/part-0001.json")
+    path = Path("translations/icons/missing-translations/names/part-0001.json")
     data = json.loads(path.read_text())
     needs_change = False
     alpha = re.compile(r"[A-Za-z]")

@@ -3,7 +3,7 @@
 
 """
 Одноразовий скрипт перекладу назв іконок для файла:
-  translations/missing-translations/names/part-0006.json
+  translations/icons/missing-translations/names/part-0006.json
 
 Правила:
 - Стилі виносимо в дужки: (жирна | двоколірна | тонка | суцільна | контурна)
@@ -15,7 +15,7 @@
 import json
 from pathlib import Path
 
-FILE = Path("translations/missing-translations/names/part-0006.json")
+FILE = Path("translations/icons/missing-translations/names/part-0006.json")
 
 # Стилі (жіночий рід для узгодження з «іконка»)
 WEIGHT_STYLES = {

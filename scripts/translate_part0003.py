@@ -274,7 +274,7 @@ def normalize_key(key: str):
 
 
 def main():
-    path = Path("translations/missing-translations/names/part-0003.json")
+    path = Path("translations/icons/missing-translations/names/part-0003.json")
     data = json.loads(path.read_text(encoding="utf-8"))
 
     missing = []

@@ -3,7 +3,7 @@
 
 """
 Одноразовий скрипт перекладу назв іконок для файла:
-  translations/missing-translations/names/part-0007.json
+  translations/icons/missing-translations/names/part-0007.json
 
 Підхід:
 - Беремо ключ як джерело змісту (розбиваємо за - та _).
@@ -15,7 +15,7 @@
 import json
 from pathlib import Path
 
-FILE = Path("translations/missing-translations/names/part-0007.json")
+FILE = Path("translations/icons/missing-translations/names/part-0007.json")
 
 # Стилі та їх українські відповідники (жіночий рід — «іконка»)
 STYLE_MAP_GENERAL = {

@@ -2,16 +2,26 @@
   "name": "mediascrapper-iconify",
   "version": "1.0.0",
   "private": true,
+  "bin": {
+    "unsplash": "./tools/unsplash-cli.js",
+    "usp": "./tools/unsplash-cli.js"
+  },
   "scripts": {
     "iconify:pull": "ts-node --project tsconfig.json src/iconify/pull-collection.ts",
     "iconify:extract-collections": "ts-node --project tsconfig.json src/iconify/extract-collections.ts",
     "iconify:pull-all": "ts-node --project tsconfig.json src/iconify/pull-all.ts",
     "iconify:update-translations": "ts-node --project tsconfig.json src/iconify/update-translations.ts",
+    "translations:duplicate-style-names": "ts-node --project tsconfig.json src/scripts/duplicate-style-name-translations.ts",
     "translations:cleanup": "ts-node --project tsconfig.json src/scripts/fix-icon-name-translations.ts",
     "translations:cleanup:keys": "ts-node --project tsconfig.json src/scripts/fix-icon-key-translations.ts",
     "synonyms:cleanup-missing": "ts-node --project tsconfig.json src/scripts/cleanup-missing-synonyms.ts",
     "translations:promote-missing": "ts-node --project tsconfig.json src/scripts/promote-missing-translations.ts",
-    "unsplash:pull": "ts-node --project tsconfig.json src/unsplash/pull-media.ts"
+    "unsplash:pull": "ts-node --project tsconfig.json src/unsplash/pull-media.ts",
+    "unsplash:pull-library": "ts-node --project tsconfig.json src/unsplash/pull-library.ts",
+    "unsplash:replace-downloads": "ts-node --project tsconfig.json src/unsplash/replace-with-downloads.ts",
+    "images:update-translations": "ts-node --project tsconfig.json src/scripts/update-unsplash-translations.ts",
+    "images:promote-missing": "ts-node --project tsconfig.json src/scripts/promote-image-translations.ts",
+    "cli:link": "pnpm link --global"
   },
   "dependencies": {
     "@iconify/json": "^2.2.255",

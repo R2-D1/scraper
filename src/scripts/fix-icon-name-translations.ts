@@ -5,7 +5,7 @@ type Dictionary = Record<string, string>;
 type Replacement = [RegExp, string | ((substring: string, ...matches: string[]) => string)];
 
 const rootDir = resolve(__dirname, '..', '..');
-const translationsPath = resolve(rootDir, 'translations/icon-translations/name-translations.json');
+const translationsPath = resolve(rootDir, 'translations/icons/icon-translations/name-translations.json');
 
 const raw = readFileSync(translationsPath, 'utf8');
 const translations: Dictionary = JSON.parse(raw);

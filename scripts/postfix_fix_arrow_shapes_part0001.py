@@ -3,7 +3,7 @@ import json
 import re
 from pathlib import Path
 
-SRC = Path("translations/missing-translations/names/part-0001.json")
+SRC = Path("translations/icons/missing-translations/names/part-0001.json")
 
 def fix_value(v: str) -> str:
     if not v.startswith("Стрілка"):

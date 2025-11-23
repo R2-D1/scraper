@@ -4,10 +4,10 @@ import re
 from pathlib import Path
 
 # This script performs a controlled, rule-based translation of icon names
-# in translations/missing-translations/names/part-0004.json into Ukrainian,
-# following translations/names-translation-instruction.md.
+# in translations/icons/missing-translations/names/part-0004.json into Ukrainian,
+# following translations/icons/names-translation-instruction.md.
 
-SRC = Path('translations/missing-translations/names/part-0004.json')
+SRC = Path('translations/icons/missing-translations/names/part-0004.json')
 
 # Style markers to Ukrainian (appear as suffix tokens)
 STYLE_MAP = {

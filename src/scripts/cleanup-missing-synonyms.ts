@@ -1,7 +1,7 @@
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
-const TARGET_DIR = path.resolve(__dirname, '../../translations/missing-synonyms');
+const TARGET_DIR = path.resolve(__dirname, '../../translations/icons/missing-synonyms');
 const FILES = ['part-0001.json', 'part-0002.json', 'part-0003.json', 'part-0004.json'];
 const BAN_LIST = new Set(['гаманець', 'обмін', 'гроші', 'дефі', 'defi', 'money', 'payment']);
 
