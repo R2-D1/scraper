@@ -3,7 +3,6 @@ import path from 'node:path';
 
 import { UNSPLASH_LIBRARY_ROOT } from '../config/paths';
 import {
-  buildOriginalImageKeys,
   cleanupImageTagTranslations,
   createImageNameStore,
   createImageTagStore,
@@ -12,11 +11,18 @@ import {
   translateImageTags,
 } from '../unsplash/translation-stores';
 import type { MediaMetadata } from '../unsplash/pull-media';
+import { getPhotoIdentifierCandidates } from '../unsplash/utils';
 
 const MEDIA_META_FILE = 'media-meta.json';
+const NON_LATIN_RE = /[^\u0000-\u007f]/;
 
 type CliOptions = {
   slug?: string;
+};
+
+type NapiPhoto = {
+  tags?: Array<{ title?: string }>;
+  tags_preview?: Array<{ title?: string }>;
 };
 
 function dedupeStrings(values: string[], normalize: (value: string) => string = value => value): string[] {
@@ -60,7 +66,7 @@ function showUsage(): void {
       'Використання:',
       '  pnpm run images:update-translations [--slug <media-slug>]',
       '',
-      'Оновлює медіа-файли в library/unsplash за останніми перекладами і перегенеровує списки missing.',
+      'Оновлює медіа-файли в library/unsplash за останніми перекладами (теги, ключі, синоніми) і перегенеровує списки missing.',
     ].join('\n')
   );
 }
@@ -100,6 +106,46 @@ function normalizeKeyList(source: unknown): string[] {
   return Array.from(new Set(normalized));
 }
 
+function buildImageKeys(tokens: string[], translatedSet: Set<string>): string[] {
+  const result = new Set<string>();
+  for (const token of tokens) {
+    if (translatedSet.has(token.toLowerCase())) {
+      continue;
+    }
+    result.add(token);
+  }
+  return Array.from(result).sort((a, b) => a.localeCompare(b, 'uk'));
+}
+
+function collectTagsFromResponse(photo: NapiPhoto | null): string[] {
+  if (!photo) return [];
+  const buckets = [
+    photo.tags?.map(tag => tag.title ?? '').filter(Boolean) ?? [],
+    photo.tags_preview?.map(tag => tag.title ?? '').filter(Boolean) ?? [],
+  ];
+  const merged = buckets.flat().map(tag => tag.trim()).filter(tag => tag.length > 0);
+  return Array.from(new Set(merged));
+}
+
+async function fetchTagsFromSource(candidates: string[]): Promise<string[] | null> {
+  for (const candidate of candidates) {
+    try {
+      const res = await fetch(`https://unsplash.com/napi/photos/${candidate}`);
+      if (!res.ok) {
+        continue;
+      }
+      const data = (await res.json()) as NapiPhoto;
+      const tags = collectTagsFromResponse(data);
+      if (tags.length > 0) {
+        return tags;
+      }
+    } catch {
+      // ignore and try next
+    }
+  }
+  return null;
+}
+
 async function processMetaFile(
   filePath: string,
   nameStore: Awaited<ReturnType<typeof createImageNameStore>>,
@@ -109,21 +155,29 @@ async function processMetaFile(
   const raw = await fs.readFile(filePath, 'utf-8');
   const meta = JSON.parse(raw) as MediaMetadata;
   const slug = meta.slug || path.basename(path.dirname(filePath));
-  let keys = normalizeKeyList(meta.keys);
-  if (keys.length === 0) {
-    keys = normalizeKeyList(meta.tags);
-  }
-  const filteredKeys = filterBlacklistedTags(keys, blacklist);
-  const uniqueFilteredKeys = dedupeStrings(filteredKeys, value => value.toLowerCase());
-  const translatedTags = translateImageTags(uniqueFilteredKeys, tagStore);
+  const candidates = getPhotoIdentifierCandidates(meta.source ?? slug);
+  const apiTags = await fetchTagsFromSource(candidates);
+  const baseTokens =
+    (apiTags && apiTags.length > 0
+      ? apiTags
+      : normalizeKeyList(meta.keys).length > 0
+        ? normalizeKeyList(meta.keys)
+        : normalizeKeyList(meta.tags));
+
+  const translatedTags = translateImageTags(filterBlacklistedTags(baseTokens, blacklist), tagStore);
   const uniqueTranslatedTags = dedupeStrings(translatedTags, value => value.toLowerCase());
+  const translatedSet = new Set(uniqueTranslatedTags.map(tag => tag.toLowerCase()));
   const translatedName = nameStore.resolve(slug, meta.name ?? slug);
+  const keys = buildImageKeys(
+    baseTokens.flatMap(tag => [tag, tagStore.resolve(tag, tag)]),
+    translatedSet
+  );
   const updated: MediaMetadata = {
     ...meta,
     slug,
     name: translatedName,
-    keys: buildOriginalImageKeys(uniqueFilteredKeys),
     tags: uniqueTranslatedTags,
+    keys,
   };
 
   const serialized = `${JSON.stringify(updated, null, 2)}\n`;
@@ -138,31 +192,34 @@ async function processMetaFile(
 async function main(): Promise<void> {
   try {
     const options = parseArgs(process.argv.slice(2));
-    const blacklist = await readImageTagBlacklist();
-    const cleanupResult = await cleanupImageTagTranslations(blacklist);
-    if (cleanupResult.masterRemoved > 0 || cleanupResult.missingRemoved > 0) {
-      console.log(
-        `Видалено заблоковані теги (master: ${cleanupResult.masterRemoved}, missing: ${cleanupResult.missingRemoved}).`
-      );
-    }
-    const [tagStore, nameStore] = await Promise.all([createImageTagStore(), createImageNameStore()]);
-    const metaFiles = await listMetaFiles(options.slug);
-    if (metaFiles.length === 0) {
-      console.log('Не знайдено жодного media-meta.json для оновлення.');
-      return;
-    }
+  const blacklist = await readImageTagBlacklist();
+  const cleanupResult = await cleanupImageTagTranslations(blacklist);
+  if (cleanupResult.masterRemoved > 0 || cleanupResult.missingRemoved > 0) {
+    console.log(
+      `Видалено заблоковані теги (master: ${cleanupResult.masterRemoved}, missing: ${cleanupResult.missingRemoved}).`
+    );
+  }
+  const [tagStore, nameStore] = await Promise.all([
+    createImageTagStore(),
+    createImageNameStore(),
+  ]);
+  const metaFiles = await listMetaFiles(options.slug);
+  if (metaFiles.length === 0) {
+    console.log('Не знайдено жодного media-meta.json для оновлення.');
+    return;
+  }
 
-    let updatedCount = 0;
-    for (const filePath of metaFiles) {
-      const updated = await processMetaFile(filePath, nameStore, tagStore, blacklist);
-      if (updated) {
-        updatedCount += 1;
-        console.log(`Оновлено ${filePath}`);
-      }
+  let updatedCount = 0;
+  for (const filePath of metaFiles) {
+    const updated = await processMetaFile(filePath, nameStore, tagStore, blacklist);
+    if (updated) {
+      updatedCount += 1;
+      console.log(`Оновлено ${filePath}`);
     }
+  }
 
-    await Promise.all([tagStore.writeMissingRecords(), nameStore.writeMissingRecords()]);
-    console.log(`Готово. Оновлено файлів: ${updatedCount}/${metaFiles.length}.`);
+  await Promise.all([tagStore.writeMissingRecords(), nameStore.writeMissingRecords()]);
+  console.log(`Готово. Оновлено файлів: ${updatedCount}/${metaFiles.length}.`);
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error);
     console.error(`Помилка: ${message}`);

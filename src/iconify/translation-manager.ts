@@ -41,6 +41,8 @@ function isNumericToken(token: string): boolean {
   return /^\d+$/.test(token);
 }
 
+const NON_LATIN_RE = /[^\u0000-\u007f]/;
+
 async function writeShardedRecords<T>(dir: string, data: Map<string, T>, chunkSize: number): Promise<void> {
   await fs.rm(dir, { recursive: true, force: true });
   await fs.mkdir(dir, { recursive: true });
@@ -100,6 +102,11 @@ export class TranslationStore<T> {
     }
 
     const normalizedFallback = this.normalizeValue(fallback, normalizedToken) ?? fallback;
+    // Не додаємо в missing уже перекладені (нелатинські) значення,
+    // щоб не засмічувати списки тегами/ключами, що прийшли локалізованими.
+    if (typeof normalizedFallback === 'string' && NON_LATIN_RE.test(normalizedFallback)) {
+      return normalizedFallback;
+    }
     this.mergeMissingValue(normalizedToken, normalizedFallback);
     return normalizedFallback;
   }

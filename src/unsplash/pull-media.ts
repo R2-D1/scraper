@@ -5,7 +5,6 @@ import sharp from 'sharp';
 
 import { getUnsplashMediaDir, UNSPLASH_MISSING_DOWNLOADS_PATH } from '../config/paths';
 import {
-  buildOriginalImageKeys,
   createImageNameStore,
   createImageTagStore,
   filterBlacklistedTags,
@@ -647,12 +646,17 @@ async function main(): Promise<void> {
       }
     }
 
-  const rawTags = collectTags(photo);
+  const rawTags = dedupeStrings(collectTags(photo), tag => tag.toLowerCase());
   const filteredTags = filterBlacklistedTags(rawTags, tagBlacklist);
-  const uniqueFilteredTags = dedupeStrings(filteredTags, tag => tag.toLowerCase());
-  const translatedTags = translateImageTags(uniqueFilteredTags, tagStore);
+  const translatedTags = filteredTags.map(tag => tagStore.resolve(tag, tag));
   const uniqueTranslatedTags = dedupeStrings(translatedTags, tag => tag.toLowerCase());
-  const keys = buildOriginalImageKeys(uniqueFilteredTags);
+  const translatedTagSet = new Set(uniqueTranslatedTags.map(tag => tag.toLowerCase()));
+  const keys = dedupeStrings(
+    rawTags
+      .flatMap(tag => [tag, tagStore.resolve(tag, tag)])
+      .filter(tag => !translatedTagSet.has(tag.toLowerCase())),
+    val => val.toLowerCase()
+  ).sort((a, b) => a.localeCompare(b, 'uk'));
   const defaultName = buildDefaultName(photo);
   const translatedName = nameStore.resolve(slug, defaultName);
   const category = isIllustration ? 'Ілюстрації' : 'Зображення';
