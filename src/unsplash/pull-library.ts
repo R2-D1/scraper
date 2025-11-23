@@ -80,9 +80,15 @@ function normalizeUrl(input: string): string {
   return parsed.toString();
 }
 
-function parseList(content: string): UrlEntry[] {
+type ParseResult = {
+  entries: UrlEntry[];
+  duplicates: Array<{ original: string; slug: string }>;
+};
+
+function parseList(content: string): ParseResult {
   const lines = content.split(/\r?\n/);
   const entries: UrlEntry[] = [];
+  const duplicates: Array<{ original: string; slug: string }> = [];
   const seenSlugs = new Set<string>();
   for (const rawLine of lines) {
     const line = rawLine.trim();
@@ -93,7 +99,7 @@ function parseList(content: string): UrlEntry[] {
       const normalized = normalizeUrl(line);
       const slug = sanitizeSegment(extractPhotoSlugFromUrl(normalized));
       if (seenSlugs.has(slug)) {
-        console.warn(`⚠️  Дублікат "${line}" (slug ${slug}) пропущено.`);
+        duplicates.push({ original: line, slug });
         continue;
       }
       seenSlugs.add(slug);
@@ -102,7 +108,7 @@ function parseList(content: string): UrlEntry[] {
       console.warn(`⚠️  Пропущено рядок "${line}": ${(error as Error).message}`);
     }
   }
-  return entries;
+  return { entries, duplicates };
 }
 
 function parseMissing(content: string): UrlEntry[] {
@@ -131,7 +137,13 @@ function parseMissing(content: string): UrlEntry[] {
 
 async function readUrlEntries(filePath: string): Promise<UrlEntry[]> {
   const content = await fs.readFile(filePath, 'utf-8');
-  return parseList(content);
+  const parsed = parseList(content);
+  if (parsed.duplicates.length > 0) {
+    const cleanedContent = `${parsed.entries.map(entry => entry.original).join('\n')}\n`;
+    await fs.writeFile(filePath, cleanedContent, 'utf-8');
+    console.log(`  Очищено дублікати у списку (${parsed.duplicates.length}).`);
+  }
+  return parsed.entries;
 }
 
 async function readMissingEntries(): Promise<UrlEntry[]> {

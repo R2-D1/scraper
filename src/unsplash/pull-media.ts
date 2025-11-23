@@ -18,7 +18,7 @@ const DEFAULT_UNSPLASH_ACCESS_KEY = 'FbJ_V9wfIxoSvB634Ls9akSrYcmJpHMduY5J3J14AoY
 const DEFAULT_UNSPLASH_SECRET_KEY = 'Flm3oVCDQV5xCjqDbJC7_dNENLNQlb7_mv55u6ODN4c';
 const DEFAULT_BINARY_MIME_TYPE = 'application/octet-stream';
 const DEFAULT_DOWNLOADS_DIR = path.resolve(process.env.HOME ?? '~', 'Downloads');
-const IMAGE_EXTENSIONS = new Set(['.jpg', '.jpeg', '.png', '.webp', '.avif']);
+const IMAGE_EXTENSIONS = new Set(['.jpg', '.jpeg', '.png', '.webp', '.avif', '.svg']);
 
 type CliOptions = {
   url: string;
@@ -516,12 +516,13 @@ function buildMetadata(
   tags: string[],
   keys: string[],
   tier: Tier,
-  downloadSource: DownloadSource
+  downloadSource: DownloadSource,
+  category: string
 ): MediaMetadata {
   return {
     slug: sanitizeSegment(photo.slug || photo.id),
     name,
-    category: 'Зображення',
+    category,
     source: photo.links.html,
     authorName: photo.user.name?.trim(),
     authorUrl: photo.user.links?.html,
@@ -646,15 +647,16 @@ async function main(): Promise<void> {
       }
     }
 
-    const rawTags = collectTags(photo);
-    const filteredTags = filterBlacklistedTags(rawTags, tagBlacklist);
-    const uniqueFilteredTags = dedupeStrings(filteredTags, tag => tag.toLowerCase());
-    const translatedTags = translateImageTags(uniqueFilteredTags, tagStore);
-    const uniqueTranslatedTags = dedupeStrings(translatedTags, tag => tag.toLowerCase());
-    const keys = buildOriginalImageKeys(uniqueFilteredTags);
-    const defaultName = buildDefaultName(photo);
-    const translatedName = nameStore.resolve(slug, defaultName);
-    const meta = buildMetadata(photo, translatedName, uniqueTranslatedTags, keys, tier, downloadSource);
+  const rawTags = collectTags(photo);
+  const filteredTags = filterBlacklistedTags(rawTags, tagBlacklist);
+  const uniqueFilteredTags = dedupeStrings(filteredTags, tag => tag.toLowerCase());
+  const translatedTags = translateImageTags(uniqueFilteredTags, tagStore);
+  const uniqueTranslatedTags = dedupeStrings(translatedTags, tag => tag.toLowerCase());
+  const keys = buildOriginalImageKeys(uniqueFilteredTags);
+  const defaultName = buildDefaultName(photo);
+  const translatedName = nameStore.resolve(slug, defaultName);
+  const category = isIllustration ? 'Ілюстрації' : 'Зображення';
+  const meta = buildMetadata(photo, translatedName, uniqueTranslatedTags, keys, tier, downloadSource, category);
     const metaPath = path.join(outputDir, 'media-meta.json');
     await fs.writeFile(metaPath, `${JSON.stringify(meta, null, 2)}\n`, 'utf-8');
 
