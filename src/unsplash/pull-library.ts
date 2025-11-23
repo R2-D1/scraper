@@ -6,6 +6,7 @@ import {
   getUnsplashMediaDir,
   UNSPLASH_LIBRARY_LIST_PATH,
   UNSPLASH_LIBRARY_ROOT,
+  UNSPLASH_MISSING_DOWNLOADS_PATH,
 } from '../config/paths';
 import { extractPhotoSlugFromUrl, sanitizeSegment } from './utils';
 
@@ -29,6 +30,11 @@ type UrlEntry = {
 type MediaMeta = {
   tier?: 'free' | 'plus';
   downloadSource?: 'api' | 'downloads';
+};
+
+type MissingEntry = {
+  url: string;
+  slug: string;
 };
 
 function showUsage(): void {
@@ -99,9 +105,45 @@ function parseList(content: string): UrlEntry[] {
   return entries;
 }
 
+function parseMissing(content: string): UrlEntry[] {
+  const lines = content.split(/\r?\n/);
+  const entries: UrlEntry[] = [];
+  const seenSlugs = new Set<string>();
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    if (!line || line.startsWith('#')) {
+      continue;
+    }
+    try {
+      const normalized = normalizeUrl(line);
+      const slug = sanitizeSegment(extractPhotoSlugFromUrl(normalized));
+      if (seenSlugs.has(slug)) {
+        continue;
+      }
+      seenSlugs.add(slug);
+      entries.push({ original: line, normalized, slug });
+    } catch {
+      continue;
+    }
+  }
+  return entries;
+}
+
 async function readUrlEntries(filePath: string): Promise<UrlEntry[]> {
   const content = await fs.readFile(filePath, 'utf-8');
   return parseList(content);
+}
+
+async function readMissingEntries(): Promise<UrlEntry[]> {
+  try {
+    const content = await fs.readFile(UNSPLASH_MISSING_DOWNLOADS_PATH, 'utf-8');
+    return parseMissing(content);
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
+      return [];
+    }
+    throw error;
+  }
 }
 
 async function readMediaMeta(slug: string): Promise<MediaMeta | null> {
@@ -117,10 +159,13 @@ async function readMediaMeta(slug: string): Promise<MediaMeta | null> {
   }
 }
 
-async function mediaAlreadyComplete(slug: string): Promise<{ complete: boolean; reason?: string }> {
+async function mediaAlreadyComplete(slug: string, missingSlugs: Set<string>): Promise<{ complete: boolean; reason?: string }> {
   const meta = await readMediaMeta(slug);
   if (!meta) {
     return { complete: false };
+  }
+  if (missingSlugs.has(slug)) {
+    return { complete: false, reason: 'У списку несинхронізованих (missing-downloads).' };
   }
   if (meta.tier === 'plus' && meta.downloadSource !== 'downloads') {
     return { complete: false, reason: 'Plus без локального файлу, повторна спроба.' };
@@ -190,6 +235,8 @@ async function main(): Promise<void> {
   try {
     const options = parseArgs(process.argv.slice(2));
     const entries = await readUrlEntries(options.file);
+    const missingEntries = await readMissingEntries();
+    const missingSlugs = new Set(missingEntries.map(entry => entry.slug));
     const keepSlugs = new Set(entries.map(entry => entry.slug));
     const removedSlugs = await removeUnlistedMedia(keepSlugs);
     if (removedSlugs.length > 0) {
@@ -213,7 +260,7 @@ async function main(): Promise<void> {
       const position = `${index + 1}/${entries.length}`;
       process.stdout.write(`\n[${position}] ${entry.normalized}\n`);
 
-      const completion = await mediaAlreadyComplete(entry.slug);
+      const completion = await mediaAlreadyComplete(entry.slug, missingSlugs);
       if (completion.complete) {
         console.log(`  → Пропущено: ${completion.reason ?? 'вже завантажено.'}`);
         skipped += 1;

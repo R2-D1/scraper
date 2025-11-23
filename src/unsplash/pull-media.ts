@@ -40,6 +40,9 @@ type UnsplashPhoto = {
   blur_hash?: string | null;
   created_at?: string;
   updated_at?: string;
+  asset_type?: string;
+  premium?: boolean;
+  plus?: boolean;
   urls: {
     raw?: string;
     full?: string;
@@ -221,6 +224,14 @@ async function fetchPhoto(photoId: string, accessKey: string): Promise<UnsplashP
 
   const data = (await response.json()) as UnsplashPhoto;
   return data;
+}
+
+async function fetchPhotoNapi(identifier: string): Promise<UnsplashPhoto> {
+  const response = await fetch(`https://unsplash.com/napi/photos/${identifier}`);
+  if (!response.ok) {
+    throw new Error(`Unsplash napi повернув ${response.status} ${response.statusText} для ${identifier}.`);
+  }
+  return (await response.json()) as UnsplashPhoto;
 }
 
 function withClientId(urlString: string, accessKey: string): string {
@@ -460,6 +471,13 @@ async function tryReplaceWithManualDownload(
   return true;
 }
 
+function decideTier(photo: UnsplashPhoto, fallbackTier: Tier): Tier {
+  if (photo.premium || photo.plus) {
+    return 'plus';
+  }
+  return fallbackTier;
+}
+
 function collectTags(photo: UnsplashPhoto): string[] {
   const buckets = [
     photo.tags?.map(tag => tag.title ?? '').filter(Boolean) ?? [],
@@ -518,8 +536,10 @@ function buildMetadata(
 }
 
 async function main(): Promise<void> {
+  let lastUrl = '';
   try {
     const options = parseArgs(process.argv.slice(2));
+    lastUrl = options.url;
     const accessKey = ensureAccessKey();
     ensureSecretKey();
     const identifierCandidates = getPhotoIdentifierCandidates(options.url);
@@ -534,6 +554,14 @@ async function main(): Promise<void> {
         break;
       } catch (error) {
         lastError = error instanceof Error ? error : new Error(String(error));
+        try {
+          photo = await fetchPhotoNapi(candidate);
+          usedIdentifier = candidate;
+          console.log('  ↳ Метадані отримано через napi (без API доступу).');
+          break;
+        } catch (napiError) {
+          lastError = napiError instanceof Error ? napiError : new Error(String(napiError));
+        }
       }
     }
 
@@ -553,45 +581,69 @@ async function main(): Promise<void> {
     const tagStore = await createImageTagStore();
     const nameStore = await createImageNameStore();
     const tagBlacklist = await readImageTagBlacklist();
+    const isIllustration = photo.asset_type === 'illustration' || photo.links.html.includes('/illustrations/');
 
-    const downloadAttempt = await registerDownload(photo.links.download_location, accessKey);
-    let tier: Tier = 'free';
+    let tier: Tier = decideTier(photo, 'free');
     let downloadSource: DownloadSource = 'api';
     let usedFallback = false;
-    let downloadUrl = downloadAttempt.ok ? downloadAttempt.url : null;
+    let file: DownloadedFile | null = null;
 
-    if (!downloadUrl) {
-      tier = 'plus';
-      usedFallback = true;
-      if (!downloadAttempt.ok) {
-        console.log(
-          `Основний download_location недоступний (${downloadAttempt.status ?? 'невідомо'}), переходимо у фолбек.`
-        );
-      }
-      downloadUrl =
-        photo.urls.raw ??
-        photo.urls.full ??
-        photo.urls.regular ??
-        photo.links.download;
-    }
-
-    if (!downloadUrl) {
-      throw new Error('Не вдалося визначити URL для завантаження зображення.');
-    }
-
-    const file = await downloadMedia(downloadUrl, outputDir, slug);
-    if (usedFallback) {
-      const targetPath = path.join(outputDir, file.relativePath);
-      const replaced = await tryReplaceWithManualDownload(photo, downloadUrl, downloadsDir, targetPath, slug);
-      if (!replaced) {
-        console.log('  ↳ Фолбек: локальний файл не знайдено, залишено копію з API (можливо з водяним знаком).');
+    if (isIllustration) {
+      const needles = [photo.slug, photo.id, slug].filter(Boolean) as string[];
+      const match = await findDownloadedFile(needles, downloadsDir);
+      if (!match) {
+        console.log('  ↳ Ілюстрація: локальний файл у Downloads не знайдено — пропущено.');
         await appendMissingDownload(options.url);
+        throw new Error('Ілюстрація потребує локальний файл у Downloads.');
+      }
+      const ext = path.extname(match.name) || '.svg';
+      const targetName = `${slug}${ext}`;
+      const targetPath = path.join(outputDir, targetName);
+      await fs.copyFile(match.path, targetPath);
+      downloadSource = 'downloads';
+      file = {
+        relativePath: targetName,
+        size: (await fs.stat(targetPath)).size,
+        mimeType: DEFAULT_BINARY_MIME_TYPE,
+      };
+      await removeMissingDownload(options.url);
+    } else {
+      const downloadAttempt = await registerDownload(photo.links.download_location, accessKey);
+      let downloadUrl = downloadAttempt.ok ? downloadAttempt.url : null;
+
+      if (!downloadUrl) {
+        tier = 'plus';
+        usedFallback = true;
+        if (!downloadAttempt.ok) {
+          console.log(
+            `Основний download_location недоступний (${downloadAttempt.status ?? 'невідомо'}), переходимо у фолбек.`
+          );
+        }
+        downloadUrl =
+          photo.urls.raw ??
+          photo.urls.full ??
+          photo.urls.regular ??
+          photo.links.download;
+      }
+
+      if (!downloadUrl) {
+        throw new Error('Не вдалося визначити URL для завантаження зображення.');
+      }
+
+      file = await downloadMedia(downloadUrl, outputDir, slug);
+      if (usedFallback) {
+        const targetPath = path.join(outputDir, file.relativePath);
+        const replaced = await tryReplaceWithManualDownload(photo, downloadUrl, downloadsDir, targetPath, slug);
+        if (!replaced) {
+          console.log('  ↳ Фолбек: локальний файл не знайдено, залишено копію з API (можливо з водяним знаком).');
+          await appendMissingDownload(options.url);
+        } else {
+          downloadSource = 'downloads';
+          await removeMissingDownload(options.url);
+        }
       } else {
-        downloadSource = 'downloads';
         await removeMissingDownload(options.url);
       }
-    } else {
-      await removeMissingDownload(options.url);
     }
 
     const rawTags = collectTags(photo);
@@ -613,6 +665,13 @@ async function main(): Promise<void> {
     );
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error);
+    if (lastUrl) {
+      try {
+        await appendMissingDownload(lastUrl);
+      } catch {
+        // ignore logging failure
+      }
+    }
     console.error(`Помилка: ${message}`);
     showUsage();
     process.exit(1);

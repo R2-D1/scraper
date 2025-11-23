@@ -18,7 +18,13 @@ export function extractPhotoSlugFromUrl(rawUrl: string): string {
   }
 
   const segments = parsed.pathname.split('/').filter(Boolean);
-  const photosIndex = segments.findIndex(segment => segment === 'photos' || segment === 'photo');
+  const anchorIndex = segments.findIndex(segment =>
+    segment === 'photos' ||
+    segment === 'photo' ||
+    segment === 'illustrations' ||
+    segment === 'illustration'
+  );
+  const photosIndex = anchorIndex;
   if (photosIndex === -1 || photosIndex === segments.length - 1) {
     throw new Error('Не вдалося визначити slug фото з URL.');
   }
