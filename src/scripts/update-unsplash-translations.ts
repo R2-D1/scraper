@@ -175,6 +175,7 @@ async function processMetaFile(
     ...meta,
     slug,
     name: translatedName,
+    sourceName: meta.sourceName ?? 'Unsplash',
     tags: uniqueTranslatedTags,
     keys,
   };

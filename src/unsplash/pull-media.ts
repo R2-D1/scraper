@@ -76,6 +76,7 @@ export type MediaMetadata = {
   name: string;
   category: string;
   source: string;
+  sourceName?: string;
   authorName?: string;
   authorUrl?: string;
   description?: string;
@@ -523,6 +524,7 @@ function buildMetadata(
     name,
     category,
     source: photo.links.html,
+    sourceName: 'Unsplash',
     authorName: photo.user.name?.trim(),
     authorUrl: photo.user.links?.html,
     description: photo.description ?? undefined,
