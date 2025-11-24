@@ -1,16 +1,11 @@
-import { promises as fs, Dirent } from 'node:fs';
+import { promises as fs } from 'node:fs';
 import path from 'node:path';
 import { spawn } from 'node:child_process';
 
-import {
-  getUnsplashMediaDir,
-  UNSPLASH_LIBRARY_LIST_PATH,
-  UNSPLASH_LIBRARY_ROOT,
-  UNSPLASH_MISSING_DOWNLOADS_PATH,
-} from '../config/paths';
+import { UNSPLASH_LIBRARY_LIST_PATH, UNSPLASH_MISSING_DOWNLOADS_PATH } from '../config/paths';
+import { MEDIA_META_FILE, findMediaDir, listLibraryEntries } from './library-paths';
 import { extractPhotoSlugFromUrl, sanitizeSegment } from './utils';
 
-const MEDIA_META_FILE = 'media-meta.json';
 const DEFAULT_LIST_PATH = UNSPLASH_LIBRARY_LIST_PATH;
 const PROJECT_ROOT = path.resolve(__dirname, '..', '..');
 const TS_NODE_REGISTER = require.resolve('ts-node/register/transpile-only');
@@ -158,21 +153,25 @@ async function readMissingEntries(): Promise<UrlEntry[]> {
   }
 }
 
-async function readMediaMeta(slug: string): Promise<MediaMeta | null> {
-  const metaPath = path.join(getUnsplashMediaDir(slug), MEDIA_META_FILE);
+async function readMediaMeta(slug: string): Promise<{ meta: MediaMeta | null; dir: string | null }> {
+  const located = await findMediaDir(slug);
+  if (!located) {
+    return { meta: null, dir: null };
+  }
+  const metaPath = path.join(located.dir, MEDIA_META_FILE);
   try {
     const raw = await fs.readFile(metaPath, 'utf-8');
-    return JSON.parse(raw) as MediaMeta;
+    return { meta: JSON.parse(raw) as MediaMeta, dir: located.dir };
   } catch (error) {
     if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
-      return null;
+      return { meta: null, dir: located.dir };
     }
     throw error;
   }
 }
 
 async function mediaAlreadyComplete(slug: string, missingSlugs: Set<string>): Promise<{ complete: boolean; reason?: string }> {
-  const meta = await readMediaMeta(slug);
+  const { meta } = await readMediaMeta(slug);
   if (!meta) {
     return { complete: false };
   }
@@ -186,38 +185,15 @@ async function mediaAlreadyComplete(slug: string, missingSlugs: Set<string>): Pr
 }
 
 async function removeUnlistedMedia(keepSlugs: Set<string>): Promise<string[]> {
-  let entries: Dirent[];
-  try {
-    entries = await fs.readdir(UNSPLASH_LIBRARY_ROOT, { withFileTypes: true });
-  } catch (error) {
-    if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
-      return [];
-    }
-    throw error;
-  }
-
   const removed: string[] = [];
+  const entries = await listLibraryEntries();
   for (const entry of entries) {
-    if (!entry.isDirectory()) {
+    if (keepSlugs.has(entry.slug)) {
       continue;
-    }
-    const slug = entry.name;
-    if (keepSlugs.has(slug)) {
-      continue;
-    }
-    const mediaDir = getUnsplashMediaDir(slug);
-    const metaPath = path.join(mediaDir, MEDIA_META_FILE);
-    try {
-      await fs.access(metaPath);
-    } catch (error) {
-      if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
-        continue;
-      }
-      throw error;
     }
 
-    await fs.rm(mediaDir, { recursive: true, force: true });
-    removed.push(slug);
+    await fs.rm(entry.dir, { recursive: true, force: true });
+    removed.push(entry.slug);
   }
 
   removed.sort();

@@ -571,8 +571,10 @@ async function main(): Promise<void> {
 
     console.log(`Фото: ${usedIdentifier ?? photo.slug ?? photo.id}`);
 
+    const isIllustration = photo.asset_type === 'illustration' || photo.links.html.includes('/illustrations/');
     const slug = sanitizeSegment(photo.slug || photo.id);
-    const outputDir = path.resolve(options.outputDir ?? getUnsplashMediaDir(slug));
+    const mediaKind = (isIllustration ? 'illustration' : 'image') as const;
+    const outputDir = path.resolve(options.outputDir ?? getUnsplashMediaDir(slug, mediaKind));
 
     console.log(`Цільовий каталог: ${outputDir}`);
     await ensureDirectory(outputDir, options.clean);
@@ -581,7 +583,6 @@ async function main(): Promise<void> {
     const tagStore = await createImageTagStore();
     const nameStore = await createImageNameStore();
     const tagBlacklist = await readImageTagBlacklist();
-    const isIllustration = photo.asset_type === 'illustration' || photo.links.html.includes('/illustrations/');
 
     let tier: Tier = decideTier(photo, 'free');
     let downloadSource: DownloadSource = 'api';

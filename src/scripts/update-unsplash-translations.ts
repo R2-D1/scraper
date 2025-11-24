@@ -1,9 +1,8 @@
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
-import { UNSPLASH_LIBRARY_ROOT } from '../config/paths';
+import { MEDIA_META_FILE, findMediaDir, listLibraryEntries } from '../unsplash/library-paths';
 import {
-  cleanupImageTagTranslations,
   createImageNameStore,
   createImageTagStore,
   filterBlacklistedTags,
@@ -13,7 +12,6 @@ import {
 import type { MediaMetadata } from '../unsplash/pull-media';
 import { getPhotoIdentifierCandidates } from '../unsplash/utils';
 
-const MEDIA_META_FILE = 'media-meta.json';
 const NON_LATIN_RE = /[^\u0000-\u007f]/;
 
 type CliOptions = {
@@ -73,18 +71,19 @@ function showUsage(): void {
 
 async function listMetaFiles(slug?: string): Promise<string[]> {
   if (slug) {
-    const filePath = path.join(UNSPLASH_LIBRARY_ROOT, slug, MEDIA_META_FILE);
+    const located = await findMediaDir(slug);
+    if (!located) {
+      throw new Error(`Не знайдено медіа для slug "${slug}".`);
+    }
+    const filePath = path.join(located.dir, MEDIA_META_FILE);
     await fs.access(filePath);
     return [filePath];
   }
 
-  const entries = await fs.readdir(UNSPLASH_LIBRARY_ROOT, { withFileTypes: true });
+  const entries = await listLibraryEntries();
   const files: string[] = [];
   for (const entry of entries) {
-    if (!entry.isDirectory()) {
-      continue;
-    }
-    const filePath = path.join(UNSPLASH_LIBRARY_ROOT, entry.name, MEDIA_META_FILE);
+    const filePath = path.join(entry.dir, MEDIA_META_FILE);
     try {
       await fs.access(filePath);
       files.push(filePath);
@@ -192,34 +191,28 @@ async function processMetaFile(
 async function main(): Promise<void> {
   try {
     const options = parseArgs(process.argv.slice(2));
-  const blacklist = await readImageTagBlacklist();
-  const cleanupResult = await cleanupImageTagTranslations(blacklist);
-  if (cleanupResult.masterRemoved > 0 || cleanupResult.missingRemoved > 0) {
-    console.log(
-      `Видалено заблоковані теги (master: ${cleanupResult.masterRemoved}, missing: ${cleanupResult.missingRemoved}).`
-    );
-  }
-  const [tagStore, nameStore] = await Promise.all([
-    createImageTagStore(),
-    createImageNameStore(),
-  ]);
-  const metaFiles = await listMetaFiles(options.slug);
-  if (metaFiles.length === 0) {
-    console.log('Не знайдено жодного media-meta.json для оновлення.');
-    return;
-  }
-
-  let updatedCount = 0;
-  for (const filePath of metaFiles) {
-    const updated = await processMetaFile(filePath, nameStore, tagStore, blacklist);
-    if (updated) {
-      updatedCount += 1;
-      console.log(`Оновлено ${filePath}`);
+    const blacklist = await readImageTagBlacklist();
+    const [tagStore, nameStore] = await Promise.all([
+      createImageTagStore(),
+      createImageNameStore(),
+    ]);
+    const metaFiles = await listMetaFiles(options.slug);
+    if (metaFiles.length === 0) {
+      console.log('Не знайдено жодного media-meta.json для оновлення.');
+      return;
     }
-  }
 
-  await Promise.all([tagStore.writeMissingRecords(), nameStore.writeMissingRecords()]);
-  console.log(`Готово. Оновлено файлів: ${updatedCount}/${metaFiles.length}.`);
+    let updatedCount = 0;
+    for (const filePath of metaFiles) {
+      const updated = await processMetaFile(filePath, nameStore, tagStore, blacklist);
+      if (updated) {
+        updatedCount += 1;
+        console.log(`Оновлено ${filePath}`);
+      }
+    }
+
+    await Promise.all([tagStore.writeMissingRecords(), nameStore.writeMissingRecords()]);
+    console.log(`Готово. Оновлено файлів: ${updatedCount}/${metaFiles.length}.`);
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error);
     console.error(`Помилка: ${message}`);

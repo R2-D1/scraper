@@ -1,14 +1,10 @@
 import { promises as fs, Dirent, Stats } from 'node:fs';
 import path from 'node:path';
 
-import {
-  getUnsplashMediaDir,
-  UNSPLASH_LIBRARY_ROOT,
-} from '../config/paths';
+import { MEDIA_META_FILE, findMediaDir, listLibraryEntries } from './library-paths';
 import { getPhotoIdentifierCandidates } from './utils';
 
 const DEFAULT_UNSPLASH_ACCESS_KEY = 'FbJ_V9wfIxoSvB634Ls9akSrYcmJpHMduY5J3J14AoY';
-const MEDIA_META_FILE = 'media-meta.json';
 const DEFAULT_DOWNLOADS_DIR = path.resolve(process.env.HOME ?? '~', 'Downloads');
 const IMAGE_EXTENSIONS = new Set(['.jpg', '.jpeg', '.png', '.webp', '.avif']);
 
@@ -132,17 +128,9 @@ async function readMeta(mediaDir: string): Promise<MediaMeta | null> {
   }
 }
 
-async function listLibraryDirs(): Promise<string[]> {
-  let entries: Dirent[];
-  try {
-    entries = await fs.readdir(UNSPLASH_LIBRARY_ROOT, { withFileTypes: true });
-  } catch (error) {
-    if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
-      return [];
-    }
-    throw error;
-  }
-  return entries.filter(entry => entry.isDirectory()).map(entry => entry.name);
+async function listLibraryDirs(): Promise<Array<{ slug: string; dir: string }>> {
+  const entries = await listLibraryEntries();
+  return entries.map(entry => ({ slug: entry.slug, dir: entry.dir }));
 }
 
 async function walkDownloads(root: string): Promise<IndexedFile[]> {
@@ -222,6 +210,7 @@ async function copyFileWithLogging(source: string, destination: string, apply: b
 
 async function processEntry(
   slug: string,
+  mediaDir: string,
   meta: MediaMeta,
   downloadFiles: IndexedFile[],
   accessKey: string,
@@ -262,9 +251,9 @@ async function processEntry(
     return;
   }
 
-  const existingFile = findExistingMediaFile(getUnsplashMediaDir(slug));
+  const existingFile = findExistingMediaFile(mediaDir);
   const targetName = existingFile ? path.basename(existingFile) : `${slug}${match.ext}`;
-  const targetPath = path.join(getUnsplashMediaDir(slug), targetName);
+  const targetPath = path.join(mediaDir, targetName);
 
   console.log(`• ${slug}: знайдено ${match.name} (розмір ${match.size} байт), заміна ${path.basename(targetPath)}.`);
   await copyFileWithLogging(match.path, targetPath, apply);
@@ -281,23 +270,25 @@ async function main(): Promise<void> {
       process.exit(0);
     }
 
-    const slugs = await listLibraryDirs();
-    if (slugs.length === 0) {
+    const entries = await listLibraryDirs();
+    if (entries.length === 0) {
       console.log('Бібліотека пуста, нічого обробляти.');
       return;
     }
 
-    for (const slug of slugs) {
+    for (const entry of entries) {
+      const { slug, dir } = entry;
       if (options.onlySlug && options.onlySlug !== slug) {
         continue;
       }
-      const mediaDir = getUnsplashMediaDir(slug);
+      const located = await findMediaDir(slug);
+      const mediaDir = located?.dir ?? dir;
       const meta = await readMeta(mediaDir);
       if (!meta) {
         console.log(`• ${slug}: пропущено (немає валідного media-meta.json).`);
         continue;
       }
-      await processEntry(slug, meta, downloadFiles, accessKey, options.apply);
+      await processEntry(slug, mediaDir, meta, downloadFiles, accessKey, options.apply);
     }
 
     if (!options.apply) {

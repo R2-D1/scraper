@@ -5,6 +5,8 @@ const projectRoot = path.resolve(__dirname, '..', '..');
 export const LIBRARY_ROOT = path.join(projectRoot, 'library');
 export const ICONIFY_LIBRARY_ROOT = path.join(LIBRARY_ROOT, 'iconify');
 export const UNSPLASH_LIBRARY_ROOT = path.join(LIBRARY_ROOT, 'unsplash');
+export const UNSPLASH_IMAGES_ROOT = path.join(UNSPLASH_LIBRARY_ROOT, 'images');
+export const UNSPLASH_ILLUSTRATIONS_ROOT = path.join(UNSPLASH_LIBRARY_ROOT, 'Illustration');
 export const UNSPLASH_LIBRARY_LIST_PATH = path.join(LIBRARY_ROOT, 'unsplash-library.txt');
 export const UNSPLASH_MISSING_DOWNLOADS_PATH = path.join(LIBRARY_ROOT, 'unsplash-missing-downloads.txt');
 
@@ -27,6 +29,9 @@ export function getIconifyCollectionDir(slug: string): string {
   return path.join(ICONIFY_LIBRARY_ROOT, slug);
 }
 
-export function getUnsplashMediaDir(identifier: string): string {
-  return path.join(UNSPLASH_LIBRARY_ROOT, identifier);
+export type UnsplashMediaKind = 'image' | 'illustration';
+
+export function getUnsplashMediaDir(identifier: string, kind: UnsplashMediaKind = 'image'): string {
+  const base = kind === 'illustration' ? UNSPLASH_ILLUSTRATIONS_ROOT : UNSPLASH_IMAGES_ROOT;
+  return path.join(base, identifier);
 }
