@@ -1,9 +1,8 @@
+import { randomUUID } from 'node:crypto';
 import { promises as fs, Dirent } from 'node:fs';
 import path from 'node:path';
 
-import sharp from 'sharp';
-
-import { getUnsplashMediaDir, UNSPLASH_MISSING_DOWNLOADS_PATH } from '../config/paths';
+import { getUnsplashMediaDir, UNSPLASH_MISSING_DOWNLOADS_PATH, UnsplashMediaKind } from '../config/paths';
 import {
   createImageNameStore,
   createImageTagStore,
@@ -11,13 +10,17 @@ import {
   readImageTagBlacklist,
   translateImageTags,
 } from './translation-stores';
+import { resolveForcedLibraryKind } from './library-overrides';
 import { getPhotoIdentifierCandidates, sanitizeSegment } from './utils';
 
-const DEFAULT_UNSPLASH_ACCESS_KEY = 'FbJ_V9wfIxoSvB634Ls9akSrYcmJpHMduY5J3J14AoY';
-const DEFAULT_UNSPLASH_SECRET_KEY = 'Flm3oVCDQV5xCjqDbJC7_dNENLNQlb7_mv55u6ODN4c';
 const DEFAULT_BINARY_MIME_TYPE = 'application/octet-stream';
 const DEFAULT_DOWNLOADS_DIR = path.resolve(process.env.HOME ?? '~', 'Downloads');
 const IMAGE_EXTENSIONS = new Set(['.jpg', '.jpeg', '.png', '.webp', '.avif', '.svg']);
+const CATEGORY_BY_KIND: Record<UnsplashMediaKind, string> = {
+  image: 'Зображення',
+  illustration: 'Ілюстрації',
+  pattern: 'Патерни',
+};
 
 type CliOptions = {
   url: string;
@@ -69,11 +72,13 @@ type DownloadedFile = {
   mimeType: string;
 };
 
-type DownloadSource = 'api' | 'downloads';
+type DownloadSource = 'downloads';
 
 export type MediaMetadata = {
   slug: string;
+  mediaKey: string;
   name: string;
+  seriesId?: string;
   category: string;
   source: string;
   sourceName?: string;
@@ -88,29 +93,16 @@ export type MediaMetadata = {
   downloadSource: DownloadSource;
 };
 
-type DownloadRegistrationResult = {
-  ok: boolean;
-  status: number | null;
-  url: string | null;
-};
-
-const MIME_EXTENSION_MAP: Record<string, string> = {
-  'image/jpeg': 'jpg',
-  'image/png': 'png',
-  'image/webp': 'webp',
-  'image/avif': 'avif',
-};
-
 function showUsage(): void {
   console.log(
     [
-      'Використання:',
-      '  pnpm run unsplash:pull -- --url <https://unsplash.com/photos/...> [--out <шлях>] [--downloads <шлях>] [--keep]',
+      'Використання (внутрішній скрипт unsplash:pull-library):',
+      '  ts-node src/unsplash/pull-media.ts -- --url <https://unsplash.com/photos/...> [--out <шлях>] [--downloads <шлях>] [--keep]',
       '',
       'Параметри:',
       '  --url, -u          Повний URL фото на Unsplash.',
       '  --out, -o          Каталог призначення. За замовчуванням library/unsplash/<slug>.',
-      '  --downloads, -d    Каталог, де шукати ручні завантаження (дефолт — ~/Downloads).',
+      '  --downloads, -d    Каталог з вже завантаженими вручну файлами (дефолт — ~/Downloads).',
       '  --keep             Не очищати теку перед експортом (файли будуть перезаписані).',
     ].join('\n')
   );
@@ -184,89 +176,12 @@ function parseArgs(argv: string[]): CliOptions {
   return { url, outputDir, downloadsDir, clean };
 }
 
-function ensureAccessKey(): string {
-  const key = process.env.UNSPLASH_ACCESS_KEY?.trim() || DEFAULT_UNSPLASH_ACCESS_KEY;
-  if (!key) {
-    throw new Error('Не задано доступ до Unsplash API. Додайте UNSPLASH_ACCESS_KEY до середовища виконання.');
-  }
-  return key;
-}
-
-function ensureSecretKey(): string {
-  const key = process.env.UNSPLASH_SECRET_KEY?.trim() || DEFAULT_UNSPLASH_SECRET_KEY;
-  if (!key) {
-    throw new Error('Не задано секрет Unsplash API. Додайте UNSPLASH_SECRET_KEY до середовища виконання.');
-  }
-  return key;
-}
-
-async function fetchPhoto(photoId: string, accessKey: string): Promise<UnsplashPhoto> {
-  const response = await fetch(`https://api.unsplash.com/photos/${photoId}`, {
-    headers: {
-      Authorization: `Client-ID ${accessKey}`,
-      'Accept-Version': 'v1',
-    },
-  });
-  if (!response.ok) {
-    let details = '';
-    try {
-      const bodyText = await response.text();
-      if (bodyText) {
-        details = ` Деталі: ${bodyText}`;
-      }
-    } catch {
-      // ignore
-    }
-    throw new Error(
-      `Unsplash API повернув ${response.status} ${response.statusText} для photo ${photoId}.${details}`
-    );
-  }
-
-  const data = (await response.json()) as UnsplashPhoto;
-  return data;
-}
-
 async function fetchPhotoNapi(identifier: string): Promise<UnsplashPhoto> {
   const response = await fetch(`https://unsplash.com/napi/photos/${identifier}`);
   if (!response.ok) {
     throw new Error(`Unsplash napi повернув ${response.status} ${response.statusText} для ${identifier}.`);
   }
   return (await response.json()) as UnsplashPhoto;
-}
-
-function withClientId(urlString: string, accessKey: string): string {
-  const parsed = new URL(urlString);
-  parsed.searchParams.set('client_id', accessKey);
-  return parsed.toString();
-}
-
-async function registerDownload(downloadLocation: string, accessKey: string): Promise<DownloadRegistrationResult> {
-  try {
-    const response = await fetch(withClientId(downloadLocation, accessKey));
-    const status = response.status;
-    if (!response.ok) {
-      return { ok: false, status, url: null };
-    }
-    const payload = (await response.json()) as { url?: string };
-    return { ok: true, status, url: typeof payload.url === 'string' ? payload.url : null };
-  } catch {
-    return { ok: false, status: null, url: null };
-  }
-}
-
-function guessExtension(mime: string | null, fallbackUrl: string): string {
-  if (mime) {
-    const normalized = mime.split(';')[0]?.trim().toLowerCase();
-    if (normalized && normalized in MIME_EXTENSION_MAP) {
-      return MIME_EXTENSION_MAP[normalized];
-    }
-  }
-  const urlWithoutQuery = fallbackUrl.split('?')[0];
-  const match = urlWithoutQuery.match(/\.([a-z0-9]+)$/i);
-  if (match) {
-    return match[1].toLowerCase();
-  }
-  return 'jpg';
 }
 
 function resolveDownloadsDir(customDir?: string): string {
@@ -300,15 +215,6 @@ function extractAssetId(urlString?: string | null): string | null {
   } catch {
     return null;
   }
-}
-
-function pickAssetId(photo: UnsplashPhoto, downloadUrl: string): string | null {
-  return (
-    extractAssetId(photo.urls.raw) ||
-    extractAssetId(photo.urls.full) ||
-    extractAssetId(photo.urls.regular) ||
-    extractAssetId(downloadUrl)
-  );
 }
 
 async function findDownloadedFile(
@@ -422,55 +328,6 @@ async function removeMissingDownload(url: string): Promise<void> {
   }
 }
 
-async function downloadMedia(url: string, targetDir: string, slug: string): Promise<DownloadedFile> {
-  const response = await fetch(url);
-  if (!response.ok) {
-    throw new Error(`Не вдалося завантажити медіа-файл (${response.status} ${response.statusText}).`);
-  }
-
-  const buffer = Buffer.from(await response.arrayBuffer());
-  const mimeType = response.headers.get('content-type');
-  const extension = guessExtension(mimeType, url);
-  const safeSlug = sanitizeSegment(slug);
-  const fileName = `${safeSlug}.${extension}`;
-  const destination = path.join(targetDir, fileName);
-  await fs.writeFile(destination, buffer);
-
-  return {
-    relativePath: fileName,
-    size: buffer.length,
-    mimeType: mimeType ?? DEFAULT_BINARY_MIME_TYPE,
-  };
-}
-
-async function tryReplaceWithManualDownload(
-  photo: UnsplashPhoto,
-  downloadUrl: string,
-  downloadsDir: string,
-  targetPath: string,
-  slug: string
-): Promise<boolean> {
-  const assetId = pickAssetId(photo, downloadUrl);
-  const needles = [assetId, photo.slug, photo.id, slug].filter(Boolean) as string[];
-
-  if (needles.length === 0) {
-    console.log('  ↳ Фолбек: не вдалося визначити жоден ідентифікатор для пошуку у Downloads.');
-    return false;
-  }
-
-  const match = await findDownloadedFile(needles, downloadsDir);
-  if (!match) {
-    console.log(
-      `  ↳ Фолбек: у ${downloadsDir} немає файлів, що містять ${needles.map(n => `"${n}"`).join(', ')} у назві.`
-    );
-    return false;
-  }
-
-  await fs.copyFile(match.path, targetPath);
-  console.log(`  ↳ Фолбек: замінено на локальний файл із Downloads (${match.name}, ${match.size} байт).`);
-  return true;
-}
-
 function decideTier(photo: UnsplashPhoto, fallbackTier: Tier): Tier {
   if (photo.premium || photo.plus) {
     return 'plus';
@@ -510,6 +367,19 @@ function buildDefaultName(photo: UnsplashPhoto): string {
   );
 }
 
+async function readExistingMetadata(dir: string): Promise<MediaMetadata | null> {
+  const metaPath = path.join(dir, 'media-meta.json');
+  try {
+    const raw = await fs.readFile(metaPath, 'utf-8');
+    return JSON.parse(raw) as MediaMetadata;
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
+      return null;
+    }
+    throw error;
+  }
+}
+
 function buildMetadata(
   photo: UnsplashPhoto,
   name: string,
@@ -517,10 +387,13 @@ function buildMetadata(
   keys: string[],
   tier: Tier,
   downloadSource: DownloadSource,
-  category: string
+  category: string,
+  existingMediaKey?: string,
+  existingSeriesId?: string
 ): MediaMetadata {
-  return {
+  const meta: MediaMetadata = {
     slug: sanitizeSegment(photo.slug || photo.id),
+    mediaKey: existingMediaKey ?? randomUUID(),
     name,
     category,
     source: photo.links.html,
@@ -535,6 +408,10 @@ function buildMetadata(
     tier,
     downloadSource,
   };
+  if (existingSeriesId) {
+    meta.seriesId = existingSeriesId;
+  }
+  return meta;
 }
 
 async function main(): Promise<void> {
@@ -542,8 +419,6 @@ async function main(): Promise<void> {
   try {
     const options = parseArgs(process.argv.slice(2));
     lastUrl = options.url;
-    const accessKey = ensureAccessKey();
-    ensureSecretKey();
     const identifierCandidates = getPhotoIdentifierCandidates(options.url);
     let photo: UnsplashPhoto | null = null;
     let usedIdentifier: string | null = null;
@@ -551,19 +426,11 @@ async function main(): Promise<void> {
 
     for (const candidate of identifierCandidates) {
       try {
-        photo = await fetchPhoto(candidate, accessKey);
+        photo = await fetchPhotoNapi(candidate);
         usedIdentifier = candidate;
         break;
-      } catch (error) {
-        lastError = error instanceof Error ? error : new Error(String(error));
-        try {
-          photo = await fetchPhotoNapi(candidate);
-          usedIdentifier = candidate;
-          console.log('  ↳ Метадані отримано через napi (без API доступу).');
-          break;
-        } catch (napiError) {
-          lastError = napiError instanceof Error ? napiError : new Error(String(napiError));
-        }
+      } catch (napiError) {
+        lastError = napiError instanceof Error ? napiError : new Error(String(napiError));
       }
     }
 
@@ -575,8 +442,10 @@ async function main(): Promise<void> {
 
     const isIllustration = photo.asset_type === 'illustration' || photo.links.html.includes('/illustrations/');
     const slug = sanitizeSegment(photo.slug || photo.id);
-    const mediaKind = (isIllustration ? 'illustration' : 'image') as const;
-    const outputDir = path.resolve(options.outputDir ?? getUnsplashMediaDir(slug, mediaKind));
+    const forcedKind = await resolveForcedLibraryKind(slug);
+    const libraryKind: UnsplashMediaKind = forcedKind ?? (isIllustration ? 'illustration' : 'image');
+    const outputDir = path.resolve(options.outputDir ?? getUnsplashMediaDir(slug, libraryKind));
+    const previousMeta = await readExistingMetadata(outputDir);
 
     console.log(`Цільовий каталог: ${outputDir}`);
     await ensureDirectory(outputDir, options.clean);
@@ -586,84 +455,58 @@ async function main(): Promise<void> {
     const nameStore = await createImageNameStore();
     const tagBlacklist = await readImageTagBlacklist();
 
-    let tier: Tier = decideTier(photo, 'free');
-    let downloadSource: DownloadSource = 'api';
-    let usedFallback = false;
-    let file: DownloadedFile | null = null;
-
-    if (isIllustration) {
-      const needles = [photo.slug, photo.id, slug].filter(Boolean) as string[];
-      const match = await findDownloadedFile(needles, downloadsDir);
-      if (!match) {
-        console.log('  ↳ Ілюстрація: локальний файл у Downloads не знайдено — пропущено.');
-        await appendMissingDownload(options.url);
-        throw new Error('Ілюстрація потребує локальний файл у Downloads.');
-      }
-      const ext = path.extname(match.name) || '.svg';
-      const targetName = `${slug}${ext}`;
-      const targetPath = path.join(outputDir, targetName);
-      await fs.copyFile(match.path, targetPath);
-      downloadSource = 'downloads';
-      file = {
-        relativePath: targetName,
-        size: (await fs.stat(targetPath)).size,
-        mimeType: DEFAULT_BINARY_MIME_TYPE,
-      };
-      await removeMissingDownload(options.url);
-    } else {
-      const downloadAttempt = await registerDownload(photo.links.download_location, accessKey);
-      let downloadUrl = downloadAttempt.ok ? downloadAttempt.url : null;
-
-      if (!downloadUrl) {
-        tier = 'plus';
-        usedFallback = true;
-        if (!downloadAttempt.ok) {
-          console.log(
-            `Основний download_location недоступний (${downloadAttempt.status ?? 'невідомо'}), переходимо у фолбек.`
-          );
-        }
-        downloadUrl =
-          photo.urls.raw ??
-          photo.urls.full ??
-          photo.urls.regular ??
-          photo.links.download;
-      }
-
-      if (!downloadUrl) {
-        throw new Error('Не вдалося визначити URL для завантаження зображення.');
-      }
-
-      file = await downloadMedia(downloadUrl, outputDir, slug);
-      if (usedFallback) {
-        const targetPath = path.join(outputDir, file.relativePath);
-        const replaced = await tryReplaceWithManualDownload(photo, downloadUrl, downloadsDir, targetPath, slug);
-        if (!replaced) {
-          console.log('  ↳ Фолбек: локальний файл не знайдено, залишено копію з API (можливо з водяним знаком).');
-          await appendMissingDownload(options.url);
-        } else {
-          downloadSource = 'downloads';
-          await removeMissingDownload(options.url);
-        }
-      } else {
-        await removeMissingDownload(options.url);
-      }
+    const tier: Tier = decideTier(photo, 'free');
+    const downloadSource: DownloadSource = 'downloads';
+    const needles = [
+      extractAssetId(photo.urls.raw),
+      extractAssetId(photo.urls.full),
+      extractAssetId(photo.urls.regular),
+      photo.slug,
+      photo.id,
+      slug,
+    ].filter(Boolean) as string[];
+    const match = await findDownloadedFile(needles, downloadsDir);
+    if (!match) {
+      console.log('  ↳ Локальний файл у Downloads не знайдено — пропущено.');
+      await appendMissingDownload(options.url);
+      throw new Error('Потрібен локальний файл у Downloads.');
     }
+    const ext = path.extname(match.name) || '.jpg';
+    const targetName = `${slug}${ext}`;
+    const targetPath = path.join(outputDir, targetName);
+    await fs.copyFile(match.path, targetPath);
+    const file: DownloadedFile = {
+      relativePath: targetName,
+      size: (await fs.stat(targetPath)).size,
+      mimeType: DEFAULT_BINARY_MIME_TYPE,
+    };
+    await removeMissingDownload(options.url);
 
-  const rawTags = dedupeStrings(collectTags(photo), tag => tag.toLowerCase());
-  const filteredTags = filterBlacklistedTags(rawTags, tagBlacklist);
-  const translatedTags = filteredTags.map(tag => tagStore.resolve(tag, tag));
-  const uniqueTranslatedTags = dedupeStrings(translatedTags, tag => tag.toLowerCase());
-  const translatedTagSet = new Set(uniqueTranslatedTags.map(tag => tag.toLowerCase()));
-  const keys = dedupeStrings(
-    rawTags
-      .flatMap(tag => [tag, tagStore.resolve(tag, tag)])
-      .filter(tag => !translatedTagSet.has(tag.toLowerCase())),
-    val => val.toLowerCase()
-  ).sort((a, b) => a.localeCompare(b, 'uk'));
-  const defaultName = buildDefaultName(photo);
-  const translatedName = nameStore.resolve(slug, defaultName);
-  const category = isIllustration ? 'Ілюстрації' : 'Зображення';
-  const meta = buildMetadata(photo, translatedName, uniqueTranslatedTags, keys, tier, downloadSource, category);
+    const rawTags = dedupeStrings(collectTags(photo), tag => tag.toLowerCase());
+    const filteredTags = filterBlacklistedTags(rawTags, tagBlacklist);
+    const translatedTags = filteredTags.map(tag => tagStore.resolve(tag, tag));
+    const uniqueTranslatedTags = dedupeStrings(translatedTags, tag => tag.toLowerCase());
+    const translatedTagSet = new Set(uniqueTranslatedTags.map(tag => tag.toLowerCase()));
+    const keys = dedupeStrings(
+      rawTags
+        .flatMap(tag => [tag, tagStore.resolve(tag, tag)])
+        .filter(tag => !translatedTagSet.has(tag.toLowerCase())),
+      val => val.toLowerCase()
+    ).sort((a, b) => a.localeCompare(b, 'uk'));
+    const defaultName = buildDefaultName(photo);
+    const translatedName = nameStore.resolve(slug, defaultName);
+    const category = CATEGORY_BY_KIND[libraryKind];
+    const meta = buildMetadata(
+      photo,
+      translatedName,
+      uniqueTranslatedTags,
+      keys,
+      tier,
+      downloadSource,
+      category,
+      previousMeta?.mediaKey,
+      previousMeta?.seriesId
+    );
     const metaPath = path.join(outputDir, 'media-meta.json');
     await fs.writeFile(metaPath, `${JSON.stringify(meta, null, 2)}\n`, 'utf-8');
 

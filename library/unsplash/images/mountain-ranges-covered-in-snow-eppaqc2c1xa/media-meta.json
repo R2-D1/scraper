@@ -1,8 +1,10 @@
 {
   "slug": "mountain-ranges-covered-in-snow-eppaqc2c1xa",
+  "mediaKey": "766b38b8-6431-4780-8f6c-2c76cdeb9ba0",
   "name": "Засніжені гірські хребти",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/mountain-ranges-covered-in-snow-ePpaQC2c1xA",
+  "sourceName": "Unsplash",
   "authorName": "Jerry Zhang",
   "authorUrl": "https://unsplash.com/@z734923105",
   "keys": [
@@ -10,10 +12,11 @@
     "mountain view"
   ],
   "tags": [
-    "вид на гори",
-    "сірий"
+    "сірий",
+    "вид на гори"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

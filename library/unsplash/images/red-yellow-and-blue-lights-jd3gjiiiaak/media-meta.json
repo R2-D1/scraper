@@ -1,12 +1,13 @@
 {
   "slug": "red-yellow-and-blue-lights-jd3gjiiiaak",
+  "mediaKey": "390e4248-1f1a-4a27-9c9a-24765ac37119",
   "name": "Червоні, жовті та сині вогні",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/red-yellow-and-blue-lights-jD3gJIIIAak",
+  "sourceName": "Unsplash",
   "authorName": "Nick Fox",
   "authorUrl": "https://unsplash.com/@nickfox",
   "keys": [
-    "патерн",
     "flare",
     "fractal",
     "laser",
@@ -18,16 +19,18 @@
     "urban"
   ],
   "tags": [
-    "дощ",
-    "світло",
-    "місто",
-    "віддзеркалення",
+    "патерн",
+    "спалах",
     "фрактал",
     "лазер",
+    "світло",
     "орнамент",
-    "спалах"
+    "дощ",
+    "віддзеркалення",
+    "місто"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

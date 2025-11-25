@@ -5,6 +5,7 @@ import {
   UNSPLASH_ILLUSTRATIONS_ROOT,
   UNSPLASH_IMAGES_ROOT,
   UNSPLASH_LIBRARY_ROOT,
+  UNSPLASH_PATTERNS_ROOT,
   UnsplashMediaKind,
   getUnsplashMediaDir,
 } from '../config/paths';
@@ -38,6 +39,7 @@ export async function findMediaDir(slug: string): Promise<{ dir: string; kind: L
   const candidates: Array<{ dir: string; kind: LibraryEntryKind }> = [
     { dir: getUnsplashMediaDir(slug, 'image'), kind: 'image' },
     { dir: getUnsplashMediaDir(slug, 'illustration'), kind: 'illustration' },
+    { dir: getUnsplashMediaDir(slug, 'pattern'), kind: 'pattern' },
     { dir: path.join(UNSPLASH_LIBRARY_ROOT, slug), kind: 'legacy' },
   ];
 
@@ -61,6 +63,7 @@ export async function listLibraryEntries(): Promise<Array<{ slug: string; dir: s
   const categoryRoots: Array<{ root: string; kind: UnsplashMediaKind }> = [
     { root: UNSPLASH_IMAGES_ROOT, kind: 'image' },
     { root: UNSPLASH_ILLUSTRATIONS_ROOT, kind: 'illustration' },
+    { root: UNSPLASH_PATTERNS_ROOT, kind: 'pattern' },
   ];
 
   for (const { root, kind } of categoryRoots) {

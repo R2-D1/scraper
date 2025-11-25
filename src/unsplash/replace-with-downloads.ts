@@ -175,11 +175,12 @@ async function walkDownloads(root: string): Promise<IndexedFile[]> {
   return results;
 }
 
-function findExistingMediaFile(mediaDir: string): string | null {
+async function findExistingMediaFile(mediaDir: string): Promise<string | null> {
   try {
-    const entries = fs.readdirSync(mediaDir, { withFileTypes: true });
+    const entries = await fs.readdir(mediaDir, { withFileTypes: true });
     const file = entries.find(
-      entry => entry.isFile() && entry.name !== MEDIA_META_FILE && IMAGE_EXTENSIONS.has(path.extname(entry.name).toLowerCase())
+      entry =>
+        entry.isFile() && entry.name !== MEDIA_META_FILE && IMAGE_EXTENSIONS.has(path.extname(entry.name).toLowerCase())
     );
     return file ? path.join(mediaDir, file.name) : null;
   } catch {
@@ -251,7 +252,7 @@ async function processEntry(
     return;
   }
 
-  const existingFile = findExistingMediaFile(mediaDir);
+  const existingFile = await findExistingMediaFile(mediaDir);
   const targetName = existingFile ? path.basename(existingFile) : `${slug}${match.ext}`;
   const targetPath = path.join(mediaDir, targetName);
 

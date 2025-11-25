@@ -1,0 +1,7207 @@
+{
+  "ableton-dark": {
+    "name": "Ableton (темна)",
+    "mediaKey": "daea8090-ec37-4b89-a261-02603fcf42a4",
+    "keys": [
+      "звуки",
+      "музика",
+      "ніч",
+      "темний",
+      "тьма",
+      "ableton",
+      "audio",
+      "dark",
+      "daw",
+      "production",
+      "shadow"
+    ]
+  },
+  "ableton-light": {
+    "name": "Ableton (світла)",
+    "mediaKey": "d848d7b3-1432-40f4-9834-e35286d93fa3",
+    "keys": [
+      "💡",
+      "звуки",
+      "ліґхт",
+      "музика",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "ableton",
+      "audio",
+      "brightness",
+      "daw",
+      "illumination",
+      "light",
+      "light icon",
+      "production"
+    ]
+  },
+  "activitypub-dark": {
+    "name": "ActivityPub (темна)",
+    "mediaKey": "b5e1fbbb-a701-45b8-84fe-69b0d99b7ef1",
+    "keys": [
+      "ніч",
+      "протокол",
+      "соціальна мережа",
+      "темний",
+      "тьма",
+      "федерація",
+      "федіверс",
+      "activitypub",
+      "dark",
+      "fediverse",
+      "shadow"
+    ]
+  },
+  "activitypub-light": {
+    "name": "ActivityPub (світла)",
+    "mediaKey": "c0c94c50-8904-4c62-b176-620c1071d8f4",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "протокол",
+      "світло",
+      "соціальна мережа",
+      "сяйво",
+      "федерація",
+      "федіверс",
+      "activitypub",
+      "brightness",
+      "fediverse",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "actix-dark": {
+    "name": "Actix (темна)",
+    "mediaKey": "0fa3a45b-c829-4957-9307-821ae2c84d55",
+    "keys": [
+      "бренд",
+      "логотип",
+      "ніч",
+      "темний",
+      "тьма",
+      "actix",
+      "dark",
+      "shadow"
+    ]
+  },
+  "actix-light": {
+    "name": "Actix (світла)",
+    "mediaKey": "db712b73-787e-4a82-bcdd-164e575eb8ca",
+    "keys": [
+      "💡",
+      "бренд",
+      "ліґхт",
+      "логотип",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "actix",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "adonis": {
+    "name": "Adonis",
+    "mediaKey": "fb99e2ea-b72b-418a-b40d-f8a3e3905c02",
+    "keys": [
+      "адоніс",
+      "адоніс міф",
+      "бог краси",
+      "красень",
+      "міфічний герой",
+      "adonis"
+    ]
+  },
+  "aftereffects": {
+    "name": "Aftereffects",
+    "mediaKey": "e309ebe1-2fd2-402e-9dbb-4a728da18a53",
+    "keys": [
+      "відеоефекти",
+      "композитинг",
+      "adobe ae",
+      "adobe after effects",
+      "after effects",
+      "after effects cc",
+      "aftereffects",
+      "motion graphics"
+    ]
+  },
+  "aiscript-dark": {
+    "name": "Aiscript (темна)",
+    "mediaKey": "087fd4ff-aa99-47d3-b5f4-1e13d3db5451",
+    "keys": [
+      "бренд",
+      "логотип",
+      "ніч",
+      "темний",
+      "тьма",
+      "aiscript",
+      "dark",
+      "shadow"
+    ]
+  },
+  "aiscript-light": {
+    "name": "Aiscript (світла)",
+    "mediaKey": "0c225dc2-580e-428b-b326-fa6072093d3f",
+    "keys": [
+      "💡",
+      "бренд",
+      "ліґхт",
+      "логотип",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "aiscript",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "alpinejs-dark": {
+    "name": "Alpine.js (темна)",
+    "mediaKey": "b17e499f-f742-43ad-874e-750cf99177e6",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "alpinejs",
+      "dark",
+      "shadow"
+    ]
+  },
+  "alpinejs-light": {
+    "name": "Alpine.js (світла)",
+    "mediaKey": "edb908d3-3aa2-4a50-9ed1-7384a35bfd72",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "alpinejs",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "anaconda-dark": {
+    "name": "Anaconda (темна)",
+    "mediaKey": "005f5ef2-bd12-4581-ae19-7b0e1b962a7a",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "anaconda",
+      "dark",
+      "shadow"
+    ]
+  },
+  "anaconda-light": {
+    "name": "Anaconda (світла)",
+    "mediaKey": "9c1b9d8e-d248-4b2a-81cf-7ea99dc37660",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "anaconda",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "androidstudio-dark": {
+    "name": "Android Studio (темна)",
+    "mediaKey": "229cbf9c-c2b9-49a5-9135-7a5f5eba7e46",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "androidstudio",
+      "dark",
+      "shadow"
+    ]
+  },
+  "androidstudio-light": {
+    "name": "Android Studio (світла)",
+    "mediaKey": "d8a76e46-d3a5-431c-bc95-eea04b6b22a1",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "androidstudio",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "angular-dark": {
+    "name": "Angular (темна)",
+    "mediaKey": "9a8c54aa-78b9-4ab4-b4ad-1b7ab97a4229",
+    "keys": [
+      "анґулар",
+      "гугл ангуляр",
+      "кутовий",
+      "ніч",
+      "темний",
+      "тьма",
+      "angular",
+      "Angular",
+      "angular logo",
+      "dark",
+      "ng",
+      "shadow",
+      "spa framework"
+    ]
+  },
+  "angular-light": {
+    "name": "Angular (світла)",
+    "mediaKey": "85fdd4d2-8788-4e67-a6f1-87c6eb7ed217",
+    "keys": [
+      "💡",
+      "анґулар",
+      "гугл ангуляр",
+      "кутовий",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "angular",
+      "Angular",
+      "angular logo",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "ng",
+      "spa framework"
+    ]
+  },
+  "ansible": {
+    "name": "Ansible",
+    "mediaKey": "ff635f5f-e6f8-4f66-b00b-7b101d9d6684",
+    "keys": [
+      "автоматизація devops",
+      "анзибль",
+      "ансібле",
+      "інфраструктурні плейбуки",
+      "ansible",
+      "Ansible",
+      "ansible logo",
+      "ansible tower"
+    ]
+  },
+  "apollo": {
+    "name": "Apollo",
+    "mediaKey": "cf3c17f2-6979-4baf-8419-d5aebfa86de5",
+    "keys": [
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "монета",
+      "токен",
+      "apollo",
+      "blockchain",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "token"
+    ]
+  },
+  "apple-dark": {
+    "name": "Apple (темна)",
+    "mediaKey": "2b778764-09ac-4a98-a345-a7db1d28e994",
+    "keys": [
+      "🍎",
+      "аппле",
+      "купертінівці",
+      "ніч",
+      "темний",
+      "тьма",
+      "яблуко",
+      "яблучко",
+      "apple",
+      "Apple",
+      "apple inc",
+      "apple logo",
+      "dark",
+      "shadow"
+    ]
+  },
+  "apple-light": {
+    "name": "Apple (світла)",
+    "mediaKey": "0d79f305-7922-48e7-93aa-cbd9c3e35907",
+    "keys": [
+      "🍎",
+      "💡",
+      "аппле",
+      "купертінівці",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "яблуко",
+      "яблучко",
+      "apple",
+      "Apple",
+      "apple inc",
+      "apple logo",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "appwrite": {
+    "name": "Appwrite",
+    "mediaKey": "9f240401-a27d-4b76-870a-5f5bfb79f3f2",
+    "keys": [
+      "appwrite"
+    ]
+  },
+  "arch-dark": {
+    "name": "Arch (темна)",
+    "mediaKey": "567c73a5-48df-4e9c-96f9-d9b9b2f49db8",
+    "keys": [
+      "арка",
+      "арочний",
+      "арх",
+      "архітектура",
+      "арч",
+      "ніч",
+      "темний",
+      "тьма",
+      "arch",
+      "arched doorway",
+      "dark",
+      "shadow"
+    ]
+  },
+  "arch-light": {
+    "name": "Arch (світла)",
+    "mediaKey": "5b64fa01-04c5-4361-9f6b-df2f219ba9b3",
+    "keys": [
+      "💡",
+      "арка",
+      "арочний",
+      "арх",
+      "архітектура",
+      "арч",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "arch",
+      "arched doorway",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "arduino": {
+    "name": "Arduino",
+    "mediaKey": "b83c12a8-22c3-4b71-9e84-ccfba7af9069",
+    "keys": [
+      "мікроконтролер",
+      "arduino",
+      "arduino плата",
+      "arduino проект",
+      "arduino board",
+      "arduino electronics",
+      "arduino microcontroller",
+      "arduino uno"
+    ]
+  },
+  "astro": {
+    "name": "Astro",
+    "mediaKey": "33f188bf-b424-4ec3-afd8-f3af2f1bd0b5",
+    "keys": [
+      "астро",
+      "статичний сайт",
+      "astro",
+      "Astro",
+      "astro build",
+      "astro framework",
+      "astro logo"
+    ]
+  },
+  "atom": {
+    "name": "Символ атома",
+    "mediaKey": "8db0b0cd-a561-4516-b6af-7a3e9e78faff",
+    "keys": [
+      "атом",
+      "частинка",
+      "ядерце",
+      "atom",
+      "atom editor"
+    ]
+  },
+  "audition": {
+    "name": "Audition",
+    "mediaKey": "b8c3e542-cbe2-4f8f-a2eb-d9bde9e4c675",
+    "keys": [
+      "аудіоредактор audition",
+      "adobe audition",
+      "adobe audition cc",
+      "audio mixing",
+      "audition",
+      "audition cc",
+      "post production audio",
+      "sound design"
+    ]
+  },
+  "autocad-dark": {
+    "name": "Autocad (темна)",
+    "mediaKey": "4d8f9a9d-8f65-48aa-9648-2ff85f8e5955",
+    "keys": [
+      "3d",
+      "креслення",
+      "ніч",
+      "темний",
+      "тьма",
+      "auto cad",
+      "autocad",
+      "cad",
+      "dark",
+      "drafting",
+      "shadow"
+    ]
+  },
+  "autocad-light": {
+    "name": "Autocad (світла)",
+    "mediaKey": "c90d7e42-41d1-4100-8cc4-d2a09cdae76e",
+    "keys": [
+      "💡",
+      "3d",
+      "креслення",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "auto cad",
+      "autocad",
+      "brightness",
+      "cad",
+      "drafting",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "aws-dark": {
+    "name": "Aws (темна)",
+    "mediaKey": "976577a2-ea2e-4a5e-87d3-1e60fdd8cda6",
+    "keys": [
+      "авс",
+      "ніч",
+      "темний",
+      "тьма",
+      "amazon web services",
+      "aws",
+      "AWS",
+      "aws cloud",
+      "aws logo",
+      "dark",
+      "lambda",
+      "shadow"
+    ]
+  },
+  "aws-light": {
+    "name": "Aws (світла)",
+    "mediaKey": "a897243b-3895-49e5-95c2-a325a413db2e",
+    "keys": [
+      "💡",
+      "авс",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "amazon web services",
+      "aws",
+      "AWS",
+      "aws cloud",
+      "aws logo",
+      "brightness",
+      "illumination",
+      "lambda",
+      "light",
+      "light icon"
+    ]
+  },
+  "azul": {
+    "name": "Azul",
+    "mediaKey": "37bab0f9-c3f9-44c2-84ed-de4738baf749",
+    "keys": [
+      "бренд",
+      "логотип",
+      "azul"
+    ]
+  },
+  "azure-dark": {
+    "name": "Azure (темна)",
+    "mediaKey": "0baa5a74-5551-479f-bb39-d8217e44d2da",
+    "keys": [
+      "азуре",
+      "блакитний",
+      "ніч",
+      "темний",
+      "тьма",
+      "azure",
+      "Azure",
+      "azure cloud",
+      "azure logo",
+      "azure portal",
+      "dark",
+      "microsoft azure",
+      "shadow"
+    ]
+  },
+  "azure-light": {
+    "name": "Azure (світла)",
+    "mediaKey": "9b0ca394-60ee-4923-af99-debc50b6be0c",
+    "keys": [
+      "💡",
+      "азуре",
+      "блакитний",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "azure",
+      "Azure",
+      "azure cloud",
+      "azure logo",
+      "azure portal",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "microsoft azure"
+    ]
+  },
+  "babel": {
+    "name": "Babel",
+    "mediaKey": "b4184a35-1fca-4ed9-8565-ad01ae4ea2f9",
+    "keys": [
+      "babel",
+      "babel транспайлер",
+      "babel compiler",
+      "babel js",
+      "babel tool",
+      "babeljs",
+      "es6 transpile",
+      "javascript babel"
+    ]
+  },
+  "bash-dark": {
+    "name": "Bash (темна)",
+    "mediaKey": "09544267-1904-4c07-8eee-99dad65f1d13",
+    "keys": [
+      "командний рядок",
+      "ніч",
+      "скрипт",
+      "темний",
+      "термінал",
+      "тьма",
+      "bash",
+      "bash shell",
+      "cli",
+      "console",
+      "dark",
+      "shadow",
+      "shell",
+      "unix"
+    ]
+  },
+  "bash-light": {
+    "name": "Bash (світла)",
+    "mediaKey": "0a495997-b7ea-47ea-9641-5b64de315fb2",
+    "keys": [
+      "💡",
+      "командний рядок",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "скрипт",
+      "сяйво",
+      "термінал",
+      "bash",
+      "bash shell",
+      "brightness",
+      "cli",
+      "console",
+      "illumination",
+      "light",
+      "light icon",
+      "shell",
+      "unix"
+    ]
+  },
+  "bevy-dark": {
+    "name": "Bevy (темна)",
+    "mediaKey": "b6c67fbb-954c-45f8-a966-a47a0aad566e",
+    "keys": [
+      "бренд",
+      "зграя",
+      "логотип",
+      "ніч",
+      "темний",
+      "тьма",
+      "bevy",
+      "dark",
+      "shadow"
+    ]
+  },
+  "bevy-light": {
+    "name": "Bevy (світла)",
+    "mediaKey": "b50f9cb4-239f-4590-a48d-5ad14448001a",
+    "keys": [
+      "💡",
+      "бренд",
+      "зграя",
+      "ліґхт",
+      "логотип",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "bevy",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "bitbucket-dark": {
+    "name": "Bitbucket (темна)",
+    "mediaKey": "f4e24b2e-5b8a-4729-8df3-90b1109d768b",
+    "keys": [
+      "бітбакет",
+      "бітбуккет",
+      "ніч",
+      "репозиторій",
+      "темний",
+      "тьма",
+      "atlassian",
+      "bitbucket",
+      "Bitbucket",
+      "bitbucket logo",
+      "dark",
+      "git hosting",
+      "shadow"
+    ]
+  },
+  "bitbucket-light": {
+    "name": "Bitbucket (світла)",
+    "mediaKey": "63d012a9-ed3a-4feb-98d3-28fc170c9790",
+    "keys": [
+      "💡",
+      "бітбакет",
+      "бітбуккет",
+      "ліґхт",
+      "освітлення",
+      "репозиторій",
+      "світло",
+      "сяйво",
+      "atlassian",
+      "bitbucket",
+      "Bitbucket",
+      "bitbucket logo",
+      "brightness",
+      "git hosting",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "blender-dark": {
+    "name": "Blender (темна)",
+    "mediaKey": "593c323f-cd45-4327-97e1-62a7416ab03d",
+    "keys": [
+      "3d редактор",
+      "блендер",
+      "ніч",
+      "темний",
+      "тьма",
+      "blender",
+      "Blender",
+      "blender 3d",
+      "blender logo",
+      "dark",
+      "open source 3d",
+      "shadow"
+    ]
+  },
+  "blender-light": {
+    "name": "Blender (світла)",
+    "mediaKey": "dc497bfe-c4e0-43b4-93aa-dbcb53c00f09",
+    "keys": [
+      "💡",
+      "3d редактор",
+      "блендер",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "blender",
+      "Blender",
+      "blender 3d",
+      "blender logo",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "open source 3d"
+    ]
+  },
+  "bootstrap": {
+    "name": "Bootstrap",
+    "mediaKey": "04a64ed3-222b-49bf-b5d9-37dfd2dacce9",
+    "keys": [
+      "бооцтрап",
+      "bootstrap",
+      "Bootstrap",
+      "bootstrap logo",
+      "css фреймворк",
+      "twitter bootstrap",
+      "ui kit"
+    ]
+  },
+  "bsd-dark": {
+    "name": "BSD (темна)",
+    "mediaKey": "a18dba9d-0001-43f5-aa6c-0392804c0961",
+    "keys": [
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "монета",
+      "ніч",
+      "темний",
+      "токен",
+      "тьма",
+      "blockchain",
+      "bsd",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "dark",
+      "shadow",
+      "token"
+    ]
+  },
+  "bsd-light": {
+    "name": "BSD (тонка)",
+    "mediaKey": "fecd4046-7eef-4374-9bd0-ae19a8379580",
+    "keys": [
+      "💡",
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "ліґхт",
+      "монета",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "токен",
+      "blockchain",
+      "brightness",
+      "bsd",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "illumination",
+      "light",
+      "light icon",
+      "token"
+    ]
+  },
+  "bun-dark": {
+    "name": "Bun (темна)",
+    "mediaKey": "1814866b-2cc1-4ebf-a050-cf68c91ac2d3",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "bun",
+      "bun сервер",
+      "bun install",
+      "bun js",
+      "bun node alternative",
+      "bun package manager",
+      "bun runtime",
+      "bun toolchain",
+      "dark",
+      "shadow"
+    ]
+  },
+  "bun-light": {
+    "name": "Bun (тонка)",
+    "mediaKey": "f833294c-56ee-49f5-8358-7d291691a759",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "bun",
+      "bun сервер",
+      "bun install",
+      "bun js",
+      "bun node alternative",
+      "bun package manager",
+      "bun runtime",
+      "bun toolchain",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "c": {
+    "name": "C",
+    "mediaKey": "eb34f1fd-55c0-4ccf-b9b5-9b0fb76209ca",
+    "keys": [
+      "буква c",
+      "кирилична с",
+      "латиниця c",
+      "символ c",
+      "c",
+      "C",
+      "letter sea"
+    ]
+  },
+  "cassandra-dark": {
+    "name": "Cassandra (темна)",
+    "mediaKey": "d1504e36-62e5-42bd-bfe5-db93f28cd7ff",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "cassandra",
+      "dark",
+      "shadow"
+    ]
+  },
+  "cassandra-light": {
+    "name": "Cassandra (тонка)",
+    "mediaKey": "c6dc9f42-e1e0-46b6-88d4-24f2ae363fe5",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "cassandra",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "clion-dark": {
+    "name": "Clion (темна)",
+    "mediaKey": "cf0d2226-6e8d-4f78-8c9b-d8dbcb0d78f7",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "clion",
+      "dark",
+      "shadow"
+    ]
+  },
+  "clion-light": {
+    "name": "Clion (тонка)",
+    "mediaKey": "fbd1e6a1-ce65-4eef-999d-7faeed05dd47",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "clion",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "clojure-dark": {
+    "name": "Clojure (темна)",
+    "mediaKey": "032a58da-f75a-4c0a-84db-a0418de0f010",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "clojure",
+      "clojure code",
+      "clojure dev",
+      "clojure functional",
+      "clojure jvm",
+      "clojure language",
+      "clojure lisp",
+      "clojure programming",
+      "dark",
+      "shadow"
+    ]
+  },
+  "clojure-light": {
+    "name": "Clojure (тонка)",
+    "mediaKey": "0ed726d3-c9db-4127-a716-29ec8e8de960",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "clojure",
+      "clojure code",
+      "clojure dev",
+      "clojure functional",
+      "clojure jvm",
+      "clojure language",
+      "clojure lisp",
+      "clojure programming",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "cloudflare-dark": {
+    "name": "Cloudflare (темна)",
+    "mediaKey": "38a7e253-f64d-404e-8be4-370768efe2b9",
+    "keys": [
+      "клоудфларе",
+      "ніч",
+      "темний",
+      "тьма",
+      "cdn",
+      "cloudflare",
+      "Cloudflare",
+      "cloudflare logo",
+      "dark",
+      "dns",
+      "orange cloud",
+      "shadow"
+    ]
+  },
+  "cloudflare-light": {
+    "name": "Cloudflare (тонка)",
+    "mediaKey": "232638b1-988d-40e6-81f8-d1fcc5fbec8c",
+    "keys": [
+      "💡",
+      "клоудфларе",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "cdn",
+      "cloudflare",
+      "Cloudflare",
+      "cloudflare logo",
+      "dns",
+      "illumination",
+      "light",
+      "light icon",
+      "orange cloud"
+    ]
+  },
+  "cmake-dark": {
+    "name": "Cmake (темна)",
+    "mediaKey": "7ac18192-538a-4a23-be25-adde4f81b1e5",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "cmake",
+      "cmake build",
+      "cmake c++",
+      "cmake configure",
+      "cmake generator",
+      "cmake project",
+      "cmake script",
+      "cmake tool",
+      "dark",
+      "shadow"
+    ]
+  },
+  "cmake-light": {
+    "name": "Cmake (тонка)",
+    "mediaKey": "1a460d38-1745-4878-830b-b4c70b5707b6",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "cmake",
+      "cmake build",
+      "cmake c++",
+      "cmake configure",
+      "cmake generator",
+      "cmake project",
+      "cmake script",
+      "cmake tool",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "codepen-dark": {
+    "name": "CodePen (темна)",
+    "mediaKey": "f6437bb7-519d-4ce6-a01c-6699a1f10aea",
+    "keys": [
+      "кодепен",
+      "ніч",
+      "темний",
+      "тьма",
+      "code pen",
+      "codepen",
+      "CodePen",
+      "codepen logo",
+      "dark",
+      "frontend playground",
+      "pens",
+      "shadow"
+    ]
+  },
+  "codepen-light": {
+    "name": "CodePen (тонка)",
+    "mediaKey": "a301efc2-8066-4251-9493-f854ec555ad4",
+    "keys": [
+      "💡",
+      "кодепен",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "code pen",
+      "codepen",
+      "CodePen",
+      "codepen logo",
+      "frontend playground",
+      "illumination",
+      "light",
+      "light icon",
+      "pens"
+    ]
+  },
+  "coffeescript-dark": {
+    "name": "Coffeescript (темна)",
+    "mediaKey": "46cf10b8-9cb7-4560-a000-8556d378da39",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "coffee script",
+      "coffee syntax",
+      "coffeescript",
+      "coffeescript compiler",
+      "coffeescript dev",
+      "coffeescript js",
+      "coffeescript language",
+      "coffeescript to javascript",
+      "dark",
+      "shadow"
+    ]
+  },
+  "coffeescript-light": {
+    "name": "Coffeescript (тонка)",
+    "mediaKey": "3dba3e7a-f086-4cda-9339-280e047210d5",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "coffee script",
+      "coffee syntax",
+      "coffeescript",
+      "coffeescript compiler",
+      "coffeescript dev",
+      "coffeescript js",
+      "coffeescript language",
+      "coffeescript to javascript",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "cpp": {
+    "name": "C++",
+    "mediaKey": "14415a70-37f3-4fba-8007-690019656441",
+    "keys": [
+      "кпп",
+      "мова програмування",
+      "c++",
+      "C++",
+      "cplusplus",
+      "cpp",
+      "cpp code"
+    ]
+  },
+  "crystal-dark": {
+    "name": "Кристал (темна)",
+    "mediaKey": "b036e842-401f-4bae-a844-ac39b3dd6cf9",
+    "keys": [
+      "кристал",
+      "крйстал",
+      "ніч",
+      "темний",
+      "тьма",
+      "crystal",
+      "dark",
+      "diamond",
+      "gem",
+      "shadow",
+      "sparkle"
+    ]
+  },
+  "crystal-light": {
+    "name": "Кристал (тонка)",
+    "mediaKey": "a4f163d8-8a63-48f6-8ced-3f678fb6f3a7",
+    "keys": [
+      "💡",
+      "кристал",
+      "крйстал",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "crystal",
+      "diamond",
+      "gem",
+      "illumination",
+      "light",
+      "light icon",
+      "sparkle"
+    ]
+  },
+  "cs": {
+    "name": "Cs",
+    "mediaKey": "ce0ada91-8555-4b48-b485-474876ee8cb0",
+    "keys": [
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "монета",
+      "токен",
+      "blockchain",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "cs",
+      "token"
+    ]
+  },
+  "css": {
+    "name": "CSS",
+    "mediaKey": "f88fc3ea-134c-4f96-aba1-dd974d1d17c9",
+    "keys": [
+      "ксс",
+      "стилі",
+      "cascading style sheets",
+      "css",
+      "frontend"
+    ]
+  },
+  "cypress-dark": {
+    "name": "Cypress (темна)",
+    "mediaKey": "4ecc704e-d5c0-4b30-909e-b7e4d23e03ad",
+    "keys": [
+      "кипарис",
+      "кйпресс",
+      "ніч",
+      "темний",
+      "тьма",
+      "cypress",
+      "Cypress",
+      "cypress logo",
+      "dark",
+      "e2e testing",
+      "qa framework",
+      "shadow"
+    ]
+  },
+  "cypress-light": {
+    "name": "Cypress (тонка)",
+    "mediaKey": "f16915f7-98ee-4469-b4fb-a127653aa456",
+    "keys": [
+      "💡",
+      "кипарис",
+      "кйпресс",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "cypress",
+      "Cypress",
+      "cypress logo",
+      "e2e testing",
+      "illumination",
+      "light",
+      "light icon",
+      "qa framework"
+    ]
+  },
+  "d3-dark": {
+    "name": "D3 (темна)",
+    "mediaKey": "8d6b1ee5-e09b-491a-8f46-6bdacffcc391",
+    "keys": [
+      "д3",
+      "ніч",
+      "темний",
+      "тьма",
+      "charts",
+      "d3",
+      "D3",
+      "d3 library",
+      "d3.js",
+      "dark",
+      "data viz",
+      "shadow"
+    ]
+  },
+  "d3-light": {
+    "name": "D3 (тонка)",
+    "mediaKey": "63e10dc3-ed42-419f-b7ef-ee60693d7e57",
+    "keys": [
+      "💡",
+      "д3",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "charts",
+      "d3",
+      "D3",
+      "d3 library",
+      "d3.js",
+      "data viz",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "dart-dark": {
+    "name": "Dart (темна)",
+    "mediaKey": "d0d9e454-a64f-45d3-b2a9-cfcb45f12edb",
+    "keys": [
+      "дротик",
+      "мішень",
+      "ніч",
+      "приціл",
+      "темний",
+      "тьма",
+      "dark",
+      "dart",
+      "shadow",
+      "target dart"
+    ]
+  },
+  "dart-light": {
+    "name": "Dart (тонка)",
+    "mediaKey": "a3981a1a-28ac-443a-aa1a-513c29f51b69",
+    "keys": [
+      "💡",
+      "дротик",
+      "ліґхт",
+      "мішень",
+      "освітлення",
+      "приціл",
+      "світло",
+      "сяйво",
+      "brightness",
+      "dart",
+      "illumination",
+      "light",
+      "light icon",
+      "target dart"
+    ]
+  },
+  "debian-dark": {
+    "name": "Debian (темна)",
+    "mediaKey": "abc252c8-a053-40cc-a7f9-9bb54ba522fe",
+    "keys": [
+      "дебіан",
+      "дистрибутив",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "debian",
+      "Debian",
+      "debian logo",
+      "debian spiral",
+      "linux",
+      "shadow"
+    ]
+  },
+  "debian-light": {
+    "name": "Debian (тонка)",
+    "mediaKey": "691fdb2b-c540-461f-8fbb-be3cef8260f0",
+    "keys": [
+      "💡",
+      "дебіан",
+      "дистрибутив",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "debian",
+      "Debian",
+      "debian logo",
+      "debian spiral",
+      "illumination",
+      "light",
+      "light icon",
+      "linux"
+    ]
+  },
+  "deno-dark": {
+    "name": "Deno (темна)",
+    "mediaKey": "f200f3de-71ee-4b8c-a09c-e722e95bbe8b",
+    "keys": [
+      "дено",
+      "дено платформа",
+      "дено рантайм",
+      "дено js",
+      "ніч",
+      "серверний javascript",
+      "темний",
+      "тьма",
+      "dark",
+      "deno",
+      "Deno",
+      "deno cli",
+      "deno deploy",
+      "deno logo",
+      "deno runtime",
+      "denoland",
+      "edge runtime",
+      "javascript runtime",
+      "node alternative",
+      "secure runtime",
+      "shadow",
+      "typescript runtime"
+    ]
+  },
+  "deno-light": {
+    "name": "Deno (тонка)",
+    "mediaKey": "5bdc937b-52fa-4c92-a7ca-ac3b923e1ba1",
+    "keys": [
+      "💡",
+      "дено",
+      "дено платформа",
+      "дено рантайм",
+      "дено js",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "серверний javascript",
+      "сяйво",
+      "brightness",
+      "deno",
+      "Deno",
+      "deno cli",
+      "deno deploy",
+      "deno logo",
+      "deno runtime",
+      "denoland",
+      "edge runtime",
+      "illumination",
+      "javascript runtime",
+      "light",
+      "light icon",
+      "node alternative",
+      "secure runtime",
+      "typescript runtime"
+    ]
+  },
+  "devto-dark": {
+    "name": "DEV.to (темна)",
+    "mediaKey": "a1a734eb-97e4-4a44-acd4-22c1f6321912",
+    "keys": [
+      "бренд",
+      "логотип",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "devto",
+      "shadow"
+    ]
+  },
+  "devto-light": {
+    "name": "DEV.to (тонка)",
+    "mediaKey": "16742996-f764-4ec6-b926-0b43efc2a635",
+    "keys": [
+      "💡",
+      "бренд",
+      "ліґхт",
+      "логотип",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "devto",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "discord": {
+    "name": "Discord",
+    "mediaKey": "27a77d03-4cab-445a-92aa-f68d30597245",
+    "keys": [
+      "геймерський чат",
+      "діскорд",
+      "розбрат",
+      "чат платформа",
+      "discord",
+      "Discord",
+      "discord чат",
+      "discord app",
+      "discord channels",
+      "discord community",
+      "discord icon",
+      "discord logo",
+      "discord mascot",
+      "discord server",
+      "discord voice",
+      "gaming server"
+    ]
+  },
+  "discordbots": {
+    "name": "Discord Bots",
+    "mediaKey": "b2d2b9e0-ead6-42e0-9841-9c6ba37b7c63",
+    "keys": [
+      "база даних",
+      "бренд",
+      "логотип",
+      "database",
+      "discordbots",
+      "sql"
+    ]
+  },
+  "discordjs-dark": {
+    "name": "Discord.js (темна)",
+    "mediaKey": "2fc5431e-b423-49b6-8580-0607ee666bb1",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "discordjs",
+      "shadow"
+    ]
+  },
+  "discordjs-light": {
+    "name": "Discord.js (тонка)",
+    "mediaKey": "29ee42ea-0527-46ed-9835-034c24c50389",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "discordjs",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "django": {
+    "name": "Django",
+    "mediaKey": "3edb6a53-9c00-479c-ae46-b15239d4d71c",
+    "keys": [
+      "бекенд фреймворк",
+      "дджанґо",
+      "django",
+      "Django",
+      "django admin",
+      "django app",
+      "django cms",
+      "django framework",
+      "django icon",
+      "django logo",
+      "django project",
+      "django rest",
+      "django server",
+      "python backend",
+      "python framework",
+      "web framework"
+    ]
+  },
+  "docker": {
+    "name": "Docker",
+    "mediaKey": "c3a88fb4-c85d-4970-ba7f-18ba9df86643",
+    "keys": [
+      "докер",
+      "доккер",
+      "контейнери",
+      "контейнеризація",
+      "cloud native",
+      "devops",
+      "docker",
+      "Docker",
+      "docker compose",
+      "docker container",
+      "docker containers",
+      "docker daemon",
+      "docker icon",
+      "docker image",
+      "docker whale",
+      "shipping whale"
+    ]
+  },
+  "dotnet": {
+    "name": "Dotnet",
+    "mediaKey": "809536c3-ae60-4b22-9262-c7a7d942f09d",
+    "keys": [
+      "dotnet"
+    ]
+  },
+  "dynamodb-dark": {
+    "name": "Dynamodb (темна)",
+    "mediaKey": "aa59e523-485d-401e-aa9c-ffe7d631c10a",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "dynamodb",
+      "shadow"
+    ]
+  },
+  "dynamodb-light": {
+    "name": "Dynamodb (тонка)",
+    "mediaKey": "9bbf5b93-ddb3-40bf-9a86-0dfe7dfa8b5a",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "dynamodb",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "eclipse-dark": {
+    "name": "Eclipse (темна)",
+    "mediaKey": "b42aed53-be98-440d-a906-cb11eabd36fb",
+    "keys": [
+      "астрономія",
+      "затемнення",
+      "космос",
+      "місячне затемнення",
+      "ніч",
+      "сонячне затемнення",
+      "темний",
+      "тьма",
+      "celestial",
+      "dark",
+      "eclipse",
+      "shadow"
+    ]
+  },
+  "eclipse-light": {
+    "name": "Eclipse (тонка)",
+    "mediaKey": "4a0404e1-1117-4a21-9308-8af1cec149cf",
+    "keys": [
+      "💡",
+      "астрономія",
+      "затемнення",
+      "космос",
+      "ліґхт",
+      "місячне затемнення",
+      "освітлення",
+      "світло",
+      "сонячне затемнення",
+      "сяйво",
+      "brightness",
+      "celestial",
+      "eclipse",
+      "illumination",
+      "light",
+      "light icon",
+      "shadow"
+    ]
+  },
+  "elasticsearch-dark": {
+    "name": "Elasticsearch (темна)",
+    "mediaKey": "a956fa67-d2ce-435b-8873-7af1ccb37f00",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "elasticsearch",
+      "shadow"
+    ]
+  },
+  "elasticsearch-light": {
+    "name": "Elasticsearch (тонка)",
+    "mediaKey": "a6889613-b1be-4db3-8c2e-8b2cb4f539cd",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "elasticsearch",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "electron": {
+    "name": "Electron",
+    "mediaKey": "0f855c0a-148d-4f5c-81be-b210b47e31cc",
+    "keys": [
+      "cross platform desktop",
+      "desktop js",
+      "electron",
+      "electron app",
+      "electron chromium",
+      "electron framework",
+      "electron js",
+      "electron node"
+    ]
+  },
+  "elixir-dark": {
+    "name": "Elixir (темна)",
+    "mediaKey": "ab0869cc-00af-4687-b8e1-6351c60de2b9",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "elixir",
+      "elixir beam",
+      "elixir code",
+      "elixir erlang",
+      "elixir functional",
+      "elixir lang",
+      "elixir language",
+      "phoenix elixir",
+      "shadow"
+    ]
+  },
+  "elixir-light": {
+    "name": "Elixir (тонка)",
+    "mediaKey": "12fc6e79-f218-4f36-8651-09be645240fe",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "elixir",
+      "elixir beam",
+      "elixir code",
+      "elixir erlang",
+      "elixir functional",
+      "elixir lang",
+      "elixir language",
+      "illumination",
+      "light",
+      "light icon",
+      "phoenix elixir"
+    ]
+  },
+  "elysia-dark": {
+    "name": "Elysia (темна)",
+    "mediaKey": "cb6c348e-2de7-4ac6-be9b-f4eec93bb86d",
+    "keys": [
+      "бренд",
+      "логотип",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "elysia",
+      "shadow"
+    ]
+  },
+  "elysia-light": {
+    "name": "Elysia (тонка)",
+    "mediaKey": "4a1ce7f4-90ba-4051-87f7-6bbe4bdd37d1",
+    "keys": [
+      "💡",
+      "бренд",
+      "ліґхт",
+      "логотип",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "elysia",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "emacs": {
+    "name": "Emacs",
+    "mediaKey": "8b772382-4de3-4ea9-93ec-f32b2a303a83",
+    "keys": [
+      "doom emacs",
+      "emacs",
+      "emacs config",
+      "emacs editor",
+      "emacs lisp",
+      "gnu emacs",
+      "spacemacs",
+      "text editor"
+    ]
+  },
+  "ember": {
+    "name": "Ember",
+    "mediaKey": "8469c9df-1bd0-4be2-9c35-445f47559849",
+    "keys": [
+      "вуглинка",
+      "ембер",
+      "ember",
+      "Ember",
+      "ember app",
+      "ember cli",
+      "ember community",
+      "ember dev",
+      "ember flame",
+      "ember flame icon",
+      "ember logo",
+      "ember octane",
+      "ember red",
+      "ember.js",
+      "emberjs logo",
+      "javascript framework"
+    ]
+  },
+  "emotion-dark": {
+    "name": "Emotion (темна)",
+    "mediaKey": "45f08517-5b43-4ab9-a2da-e2e8adb4c4b5",
+    "keys": [
+      "емоушн",
+      "емоція",
+      "настрій",
+      "ніч",
+      "почуття",
+      "темний",
+      "тьма",
+      "dark",
+      "emoji",
+      "emotion",
+      "feelings",
+      "mood",
+      "reaction",
+      "shadow",
+      "vibes"
+    ]
+  },
+  "emotion-light": {
+    "name": "Emotion (тонка)",
+    "mediaKey": "a5b385bf-ff9a-49a4-a5e5-56fb0df9c229",
+    "keys": [
+      "💡",
+      "емоушн",
+      "емоція",
+      "ліґхт",
+      "настрій",
+      "освітлення",
+      "почуття",
+      "світло",
+      "сяйво",
+      "brightness",
+      "emoji",
+      "emotion",
+      "feelings",
+      "illumination",
+      "light",
+      "light icon",
+      "mood",
+      "reaction",
+      "vibes"
+    ]
+  },
+  "expressjs-dark": {
+    "name": "Expressjs (темна)",
+    "mediaKey": "4d3c4698-49a3-4805-8277-56eeb82bad7a",
+    "keys": [
+      "ніч",
+      "серверний js",
+      "темний",
+      "тьма",
+      "backend",
+      "dark",
+      "express",
+      "expressjs",
+      "node.js framework",
+      "rest",
+      "server",
+      "shadow",
+      "web api"
+    ]
+  },
+  "expressjs-light": {
+    "name": "Expressjs (тонка)",
+    "mediaKey": "44e5b41c-563f-4257-a63f-5c766767b597",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "серверний js",
+      "сяйво",
+      "backend",
+      "brightness",
+      "express",
+      "expressjs",
+      "illumination",
+      "light",
+      "light icon",
+      "node.js framework",
+      "rest",
+      "server",
+      "web api"
+    ]
+  },
+  "fastapi": {
+    "name": "Fastapi",
+    "mediaKey": "abe40852-1ab5-4c18-aaf0-1b93a2bba92e",
+    "keys": [
+      "fastapi"
+    ]
+  },
+  "fediverse-dark": {
+    "name": "Fediverse (темна)",
+    "mediaKey": "94a3810d-94d6-4e1e-b1d1-688692a10810",
+    "keys": [
+      "децентралізована мережа",
+      "ніч",
+      "соцмережа",
+      "темний",
+      "тьма",
+      "феді платформа",
+      "федіверс",
+      "activitypub",
+      "dark",
+      "fedi",
+      "fedi network",
+      "fediverse",
+      "mastodon",
+      "shadow",
+      "tootverse"
+    ]
+  },
+  "fediverse-light": {
+    "name": "Fediverse (тонка)",
+    "mediaKey": "06426f52-fe24-454d-ad91-e880579de6f3",
+    "keys": [
+      "💡",
+      "децентралізована мережа",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "соцмережа",
+      "сяйво",
+      "феді платформа",
+      "федіверс",
+      "activitypub",
+      "brightness",
+      "fedi",
+      "fedi network",
+      "fediverse",
+      "illumination",
+      "light",
+      "light icon",
+      "mastodon",
+      "tootverse"
+    ]
+  },
+  "figma-dark": {
+    "name": "Figma (темна)",
+    "mediaKey": "820f2020-b996-4a73-a3e6-9ce7adb6e0d8",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "фігма",
+      "фіґма",
+      "collaborative design",
+      "dark",
+      "design tool",
+      "figma",
+      "Figma",
+      "figma app",
+      "figma logo",
+      "figma prototype",
+      "product design",
+      "shadow",
+      "ui design",
+      "vector design"
+    ]
+  },
+  "figma-light": {
+    "name": "Figma (тонка)",
+    "mediaKey": "05447565-cc2a-4fa1-ae78-4eef5031b9dc",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "фігма",
+      "фіґма",
+      "brightness",
+      "collaborative design",
+      "design tool",
+      "figma",
+      "Figma",
+      "figma app",
+      "figma logo",
+      "figma prototype",
+      "illumination",
+      "light",
+      "light icon",
+      "product design",
+      "ui design",
+      "vector design"
+    ]
+  },
+  "flask-dark": {
+    "name": "Флакон",
+    "mediaKey": "3da34736-04c8-4fbc-b74d-79965c2da212",
+    "keys": [
+      "колба",
+      "колба з рідиною",
+      "лабораторна колба",
+      "ніч",
+      "темний",
+      "тьма",
+      "фласк",
+      "chemistry flask",
+      "dark",
+      "erlenmeyer",
+      "flask",
+      "flask bottle",
+      "flask icon",
+      "lab glass",
+      "science beaker",
+      "shadow"
+    ]
+  },
+  "flask-light": {
+    "name": "Колба (тонка)",
+    "mediaKey": "120e1d8c-cf10-489a-964f-737f4a73730f",
+    "keys": [
+      "💡",
+      "колба",
+      "колба з рідиною",
+      "лабораторна колба",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "фласк",
+      "brightness",
+      "chemistry flask",
+      "erlenmeyer",
+      "flask",
+      "flask bottle",
+      "flask icon",
+      "illumination",
+      "lab glass",
+      "light",
+      "light icon",
+      "science beaker"
+    ]
+  },
+  "flutter-dark": {
+    "name": "Flutter (темна)",
+    "mediaKey": "704eb9fe-dfeb-417b-8ff8-a147c03e5e42",
+    "keys": [
+      "ніч",
+      "темний",
+      "тріпотіння",
+      "тьма",
+      "флуттер",
+      "dark",
+      "dart ui",
+      "flutter",
+      "Flutter",
+      "flutter app",
+      "flutter framework",
+      "flutter logo",
+      "flutter sdk",
+      "google flutter",
+      "shadow"
+    ]
+  },
+  "flutter-light": {
+    "name": "Flutter (світла)",
+    "mediaKey": "f10ab58d-197a-4b39-bf97-4b2dbe1f3e5b",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "тріпотіння",
+      "флуттер",
+      "brightness",
+      "dart ui",
+      "flutter",
+      "Flutter",
+      "flutter app",
+      "flutter framework",
+      "flutter logo",
+      "flutter sdk",
+      "google flutter",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "forth": {
+    "name": "Forth",
+    "mediaKey": "9f6e9b79-60e1-42bd-b234-e4fcad239a13",
+    "keys": [
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "монета",
+      "токен",
+      "blockchain",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "forth",
+      "token"
+    ]
+  },
+  "fortran": {
+    "name": "Fortran",
+    "mediaKey": "6da58c2c-728b-4552-bddd-1691e7f75f18",
+    "keys": [
+      "fortran",
+      "fortran code",
+      "fortran compiler",
+      "fortran language",
+      "fortran legacy",
+      "fortran numeric",
+      "fortran programming",
+      "fortran science"
+    ]
+  },
+  "gamemakerstudio": {
+    "name": "GameMaker Studio",
+    "mediaKey": "5c24687c-6e98-4d40-b244-a3fc1eb5d467",
+    "keys": [
+      "бренд",
+      "геймінг",
+      "гра",
+      "ігри",
+      "логотип",
+      "gamemakerstudio"
+    ]
+  },
+  "gatsby": {
+    "name": "Gatsby",
+    "mediaKey": "95ff7524-290a-4b5e-ba0e-8abc5ebd7251",
+    "keys": [
+      "гетсбі",
+      "ґацбй",
+      "gatsby",
+      "Gatsby",
+      "gatsby framework",
+      "gatsby js",
+      "gatsby logo",
+      "react static site"
+    ]
+  },
+  "gcp-dark": {
+    "name": "GCP (темна)",
+    "mediaKey": "0f0a9aa0-b6da-4e0a-8367-8625436add35",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "gcp",
+      "gcp платформа",
+      "gcp cloud",
+      "gcp infra",
+      "gcp services",
+      "google cloud",
+      "google cloud console",
+      "google cloud platform",
+      "shadow"
+    ]
+  },
+  "gcp-light": {
+    "name": "Gcp light (тонка)",
+    "mediaKey": "aaf4ceb0-6a28-494b-981b-8776e88a59b4",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "gcp",
+      "gcp платформа",
+      "gcp cloud",
+      "gcp infra",
+      "gcp services",
+      "google cloud",
+      "google cloud console",
+      "google cloud platform",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "gherkin-dark": {
+    "name": "Gherkin (темна)",
+    "mediaKey": "36d31d96-bea3-4d48-baee-b88874a8e3e3",
+    "keys": [
+      "бренд",
+      "корнішон",
+      "логотип",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "gherkin",
+      "shadow"
+    ]
+  },
+  "gherkin-light": {
+    "name": "Gherkin light (тонка)",
+    "mediaKey": "0260fad1-90cd-44b9-8e05-98a6ff068d54",
+    "keys": [
+      "💡",
+      "бренд",
+      "корнішон",
+      "ліґхт",
+      "логотип",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "gherkin",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "git": {
+    "name": "Git",
+    "mediaKey": "cb49b1d2-6350-4206-9583-162a78a24d38",
+    "keys": [
+      "ґіт",
+      "git",
+      "Git",
+      "git icon",
+      "git repo",
+      "git vcs",
+      "version control"
+    ]
+  },
+  "github-dark": {
+    "name": "GitHub (темна)",
+    "mediaKey": "feb23a8f-4585-4f4a-ba66-e1bd6dba1f20",
+    "keys": [
+      "ґітуб",
+      "ніч",
+      "темний",
+      "тьма",
+      "code hosting",
+      "dark",
+      "github",
+      "GitHub",
+      "github icon",
+      "github repo",
+      "octocat",
+      "shadow"
+    ]
+  },
+  "github-light": {
+    "name": "Github light (тонка)",
+    "mediaKey": "bbbc612a-a1dc-44f3-ba75-d30b97b610a7",
+    "keys": [
+      "💡",
+      "ґітуб",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "code hosting",
+      "github",
+      "GitHub",
+      "github icon",
+      "github repo",
+      "illumination",
+      "light",
+      "light icon",
+      "octocat"
+    ]
+  },
+  "githubactions-dark": {
+    "name": "GitHub Actions (темна)",
+    "mediaKey": "e426d47e-5281-4b76-8df5-258553ecbbb4",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "githubactions",
+      "shadow"
+    ]
+  },
+  "githubactions-light": {
+    "name": "Githubactions light (тонка)",
+    "mediaKey": "ace0a852-4086-4091-885a-ad8a7be3e8f4",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "githubactions",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "gitlab-dark": {
+    "name": "GitLab (темна)",
+    "mediaKey": "ccbc2d53-2148-4f5b-b855-9687552fcfb0",
+    "keys": [
+      "ґітлаб",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "devops platform",
+      "gitlab",
+      "GitLab",
+      "gitlab ci",
+      "gitlab logo",
+      "gitlab repo",
+      "shadow"
+    ]
+  },
+  "gitlab-light": {
+    "name": "Gitlab light (тонка)",
+    "mediaKey": "dc0de8f9-7e31-42ee-bc63-da7006e9f245",
+    "keys": [
+      "💡",
+      "ґітлаб",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "devops platform",
+      "gitlab",
+      "GitLab",
+      "gitlab ci",
+      "gitlab logo",
+      "gitlab repo",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "gmail-dark": {
+    "name": "Gmail (темна)",
+    "mediaKey": "fe202426-fadd-44b9-a672-e973c52578c8",
+    "keys": [
+      "ґмаіл",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "gmail",
+      "Gmail",
+      "gmail envelope",
+      "gmail inbox",
+      "gmail logo",
+      "google mail",
+      "shadow"
+    ]
+  },
+  "gmail-light": {
+    "name": "Gmail (тонка)",
+    "mediaKey": "f1b5db52-8303-40f9-b51d-98136ff72622",
+    "keys": [
+      "💡",
+      "ґмаіл",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "gmail",
+      "Gmail",
+      "gmail envelope",
+      "gmail inbox",
+      "gmail logo",
+      "google mail",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "godot-dark": {
+    "name": "Godot (темна)",
+    "mediaKey": "ee51c315-49e4-4561-ac08-d7fdcf1bb47d",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "godot",
+      "godot 2d",
+      "godot рушій",
+      "godot editor",
+      "godot engine",
+      "godot game dev",
+      "godot gdscripts",
+      "godot open source",
+      "shadow"
+    ]
+  },
+  "godot-light": {
+    "name": "Godot light (тонка)",
+    "mediaKey": "248f0ad7-b224-4af9-b60a-2e3d96fececb",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "godot",
+      "godot 2d",
+      "godot рушій",
+      "godot editor",
+      "godot engine",
+      "godot game dev",
+      "godot gdscripts",
+      "godot open source",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "golang": {
+    "name": "Go (мова)",
+    "mediaKey": "844396a1-118f-4f67-b6fc-ade7eddbfd07",
+    "keys": [
+      "ґоланґ",
+      "go language",
+      "go programming",
+      "golang",
+      "Golang",
+      "golang logo",
+      "gopher"
+    ]
+  },
+  "gradle-dark": {
+    "name": "Gradle (темна)",
+    "mediaKey": "a2a5c66b-02b8-46b3-8ea5-9b1dff141347",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "gradle",
+      "gradle build",
+      "gradle groovy",
+      "gradle java",
+      "gradle plugin",
+      "gradle project",
+      "gradle tasks",
+      "gradle wrapper",
+      "shadow"
+    ]
+  },
+  "gradle-light": {
+    "name": "Gradle light (тонка)",
+    "mediaKey": "1b8088c6-5bad-468f-8ca5-7bacb5cb8d18",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "gradle",
+      "gradle build",
+      "gradle groovy",
+      "gradle java",
+      "gradle plugin",
+      "gradle project",
+      "gradle tasks",
+      "gradle wrapper",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "grafana-dark": {
+    "name": "Grafana (темна)",
+    "mediaKey": "15fb0b3e-1edf-4067-b35a-cb6017266937",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "grafana",
+      "shadow"
+    ]
+  },
+  "grafana-light": {
+    "name": "Grafana light (тонка)",
+    "mediaKey": "e87f519c-b40d-45d7-a35d-b7c290faf48a",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "grafana",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "graphql-dark": {
+    "name": "GraphQL (темна)",
+    "mediaKey": "15b0b48c-4eac-4400-9264-8537b5c567c7",
+    "keys": [
+      "ґрафкл",
+      "ніч",
+      "темний",
+      "тьма",
+      "api schema",
+      "dark",
+      "graph query",
+      "graphql",
+      "Graphql",
+      "graphql api",
+      "graphql logo",
+      "shadow"
+    ]
+  },
+  "graphql-light": {
+    "name": "Graphql light (тонка)",
+    "mediaKey": "b48ba82c-ca0f-4c66-bdf1-4f8b13cea988",
+    "keys": [
+      "💡",
+      "ґрафкл",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "api schema",
+      "brightness",
+      "graph query",
+      "graphql",
+      "Graphql",
+      "graphql api",
+      "graphql logo",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "gtk-dark": {
+    "name": "GTK (темна)",
+    "mediaKey": "b3799049-5c3d-4ad6-8472-2a1bbf098918",
+    "keys": [
+      "інтерфейс",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "gnome",
+      "gtk",
+      "gtk+",
+      "shadow",
+      "toolkit",
+      "widgets"
+    ]
+  },
+  "gtk-light": {
+    "name": "Gtk light (тонка)",
+    "mediaKey": "269cd171-a9ed-4f1c-beed-cbd2e83b7b53",
+    "keys": [
+      "💡",
+      "інтерфейс",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "gnome",
+      "gtk",
+      "gtk+",
+      "illumination",
+      "light",
+      "light icon",
+      "toolkit",
+      "widgets"
+    ]
+  },
+  "gulp": {
+    "name": "Gulp",
+    "mediaKey": "a60a41bb-d151-44fa-8167-30a1d68e673e",
+    "keys": [
+      "gulp",
+      "gulp таскраннер",
+      "gulp automation",
+      "gulp build",
+      "gulp pipelines",
+      "gulp streaming",
+      "gulp watch",
+      "gulpfile"
+    ]
+  },
+  "haskell-dark": {
+    "name": "Haskell (темна)",
+    "mediaKey": "1af382b2-1b7b-4745-9b31-7105c38d689f",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "функціональна haskell",
+      "dark",
+      "ghc",
+      "haskell",
+      "haskell мова",
+      "haskell cabal",
+      "haskell code",
+      "haskell stack",
+      "lazy fp",
+      "shadow"
+    ]
+  },
+  "haskell-light": {
+    "name": "Haskell light (тонка)",
+    "mediaKey": "15838bcb-6575-4dd1-9167-97e1fad0527a",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "функціональна haskell",
+      "brightness",
+      "ghc",
+      "haskell",
+      "haskell мова",
+      "haskell cabal",
+      "haskell code",
+      "haskell stack",
+      "illumination",
+      "lazy fp",
+      "light",
+      "light icon"
+    ]
+  },
+  "haxe-dark": {
+    "name": "Haxe (темна)",
+    "mediaKey": "ec40a34c-fda2-4e12-9d35-74517f1db4ae",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "crossplatform haxe",
+      "dark",
+      "haxe",
+      "haxe мова",
+      "haxe code",
+      "haxe compiler",
+      "haxe game dev",
+      "haxe language",
+      "haxe toolkit",
+      "shadow"
+    ]
+  },
+  "haxe-light": {
+    "name": "Haxe light (тонка)",
+    "mediaKey": "686fb8d4-f542-4e3c-9aff-2e9c98e094d2",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "crossplatform haxe",
+      "haxe",
+      "haxe мова",
+      "haxe code",
+      "haxe compiler",
+      "haxe game dev",
+      "haxe language",
+      "haxe toolkit",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "haxeflixel-dark": {
+    "name": "HaxeFlixel (темна)",
+    "mediaKey": "b2e30545-4479-4088-b709-9eb2f4a559bb",
+    "keys": [
+      "бренд",
+      "логотип",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "haxeflixel",
+      "shadow"
+    ]
+  },
+  "haxeflixel-light": {
+    "name": "Haxeflixel light (тонка)",
+    "mediaKey": "6aa8b01a-d35c-4f4c-b767-748dcb4745d9",
+    "keys": [
+      "💡",
+      "бренд",
+      "ліґхт",
+      "логотип",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "haxeflixel",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "heroku": {
+    "name": "Heroku",
+    "mediaKey": "c247984a-72c1-4fb6-8612-e68b06d37a50",
+    "keys": [
+      "хмарний хостинг heroku",
+      "deploy heroku",
+      "heroku",
+      "heroku платформа",
+      "heroku cloud",
+      "heroku logo",
+      "paas",
+      "platform as service"
+    ]
+  },
+  "hibernate-dark": {
+    "name": "Hibernate (темна)",
+    "mediaKey": "74abab01-324c-456b-ba86-5e390c69f21c",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "hibernate",
+      "shadow"
+    ]
+  },
+  "hibernate-light": {
+    "name": "Hibernate (світла)",
+    "mediaKey": "e1ffe22a-e48e-40a9-8d3c-fdf281ba6b74",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "hibernate",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "html": {
+    "name": "Позначка HTML",
+    "mediaKey": "fbc4f0f0-4891-4478-b771-148b3f600090",
+    "keys": [
+      "веб сторінка",
+      "код",
+      "розмітка html",
+      "хтмл",
+      "front-end",
+      "html",
+      "html code",
+      "html tag",
+      "html3",
+      "hypertext",
+      "markup",
+      "web language"
+    ]
+  },
+  "htmx-dark": {
+    "name": "HTMX (темна)",
+    "mediaKey": "e2063ede-b368-4902-a692-0d32a18ceb73",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "htmx",
+      "shadow"
+    ]
+  },
+  "htmx-light": {
+    "name": "HTMX (світла)",
+    "mediaKey": "429574b1-5113-494f-9c73-7c7acd5f71ce",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "htmx",
+      "illumination",
+      "light",
+      "light icon"
+    ]
+  },
+  "idea-dark": {
+    "name": "Ідея",
+    "mediaKey": "9919855c-085c-4bad-b81c-d3a3954cb36e",
+    "keys": [
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "монета",
+      "ніч",
+      "темний",
+      "токен",
+      "тьма",
+      "blockchain",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "dark",
+      "idea",
+      "shadow",
+      "token"
+    ]
+  },
+  "idea-light": {
+    "name": "Ідея (тонка)",
+    "mediaKey": "67f3f0e2-5147-49f6-90f0-ac26986f9964",
+    "keys": [
+      "💡",
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "ліґхт",
+      "монета",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "токен",
+      "blockchain",
+      "brightness",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "idea",
+      "illumination",
+      "light",
+      "light icon",
+      "token"
+    ]
+  },
+  "illustrator": {
+    "name": "Illustrator",
+    "mediaKey": "46db58ac-c730-400c-a5e7-e2ae02e4fb56",
+    "keys": [
+      "іллустратор",
+      "ілюстратор",
+      "adobe illustrator",
+      "ai file",
+      "illustrator",
+      "illustrator logo",
+      "vector editor"
+    ]
+  },
+  "instagram": {
+    "name": "Instagram",
+    "mediaKey": "8b377c7c-c8af-4ab1-96b3-741deda01df4",
+    "keys": [
+      "інста",
+      "інстаґрам",
+      "ig",
+      "instagram",
+      "Instagram",
+      "instagram logo",
+      "instagram stories"
+    ]
+  },
+  "ipfs-dark": {
+    "name": "IPFS (темна)",
+    "mediaKey": "aa691575-bcf8-4b5f-881f-e77e5cf30a52",
+    "keys": [
+      "бренд",
+      "логотип",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "ipfs",
+      "shadow"
+    ]
+  },
+  "ipfs-light": {
+    "name": "Ipfs (тонка)",
+    "mediaKey": "92889318-ddf1-4382-b2b2-bcf455b06a15",
+    "keys": [
+      "💡",
+      "бренд",
+      "ліґхт",
+      "логотип",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "ipfs",
+      "light",
+      "light icon"
+    ]
+  },
+  "java-dark": {
+    "name": "Java (темна)",
+    "mediaKey": "78790d71-c130-4168-bed0-5b4b40f1b501",
+    "keys": [
+      "кава java",
+      "ніч",
+      "програмування java",
+      "темний",
+      "тьма",
+      "dark",
+      "java",
+      "java мова",
+      "java coffee",
+      "java icon",
+      "java logo",
+      "programming language",
+      "shadow"
+    ]
+  },
+  "java-light": {
+    "name": "Java (тонка)",
+    "mediaKey": "7ad30efb-1cb9-4f1a-8fd8-69f2c0d2d6b6",
+    "keys": [
+      "💡",
+      "кава java",
+      "ліґхт",
+      "освітлення",
+      "програмування java",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "java",
+      "java мова",
+      "java coffee",
+      "java icon",
+      "java logo",
+      "light",
+      "light icon",
+      "programming language"
+    ]
+  },
+  "javascript": {
+    "name": "JavaScript",
+    "mediaKey": "9ef61da7-acee-4cb2-b2e7-452b5b9d444d",
+    "keys": [
+      "джаваскріпт",
+      "ecmascript",
+      "javascript",
+      "Javascript",
+      "js language",
+      "js logo",
+      "web script"
+    ]
+  },
+  "jenkins-dark": {
+    "name": "Jenkins (темна)",
+    "mediaKey": "82fa1624-d448-4aca-8583-9db74724308d",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "jenkins",
+      "jenkins automation",
+      "jenkins build",
+      "jenkins ci",
+      "jenkins job",
+      "jenkins master",
+      "jenkins pipeline",
+      "jenkins server",
+      "shadow"
+    ]
+  },
+  "jenkins-light": {
+    "name": "Jenkins (тонка)",
+    "mediaKey": "938881e2-39f0-4cbc-a5bb-1f81be5e3843",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "jenkins",
+      "jenkins automation",
+      "jenkins build",
+      "jenkins ci",
+      "jenkins job",
+      "jenkins master",
+      "jenkins pipeline",
+      "jenkins server",
+      "light",
+      "light icon"
+    ]
+  },
+  "jest": {
+    "name": "Jest",
+    "mediaKey": "79efe8cf-e4c6-46d4-a576-e6dc25894c27",
+    "keys": [
+      "facebook jest",
+      "jest",
+      "jest тести",
+      "jest framework",
+      "jest runner",
+      "jest snapshots",
+      "jest unit testing",
+      "jest watch"
+    ]
+  },
+  "jquery": {
+    "name": "JQuery",
+    "mediaKey": "1b478d1f-8499-494d-87f6-6aa60db1361d",
+    "keys": [
+      "javascript jquery",
+      "jquery",
+      "jquery бібліотека",
+      "jquery логотип",
+      "jquery icon",
+      "jquery js",
+      "jquery logo",
+      "js library"
+    ]
+  },
+  "julia-dark": {
+    "name": "Julia (темна)",
+    "mediaKey": "3340c73e-a14b-4667-b347-8a6c25e4fa2d",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "julia",
+      "julia мова",
+      "julia data science",
+      "julia language",
+      "julia numerics",
+      "julia packages",
+      "julia repl",
+      "julia scientific",
+      "shadow"
+    ]
+  },
+  "julia-light": {
+    "name": "Julia (тонка)",
+    "mediaKey": "36d7eb3b-c403-4a30-b31b-9a6eda5e7788",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "julia",
+      "julia мова",
+      "julia data science",
+      "julia language",
+      "julia numerics",
+      "julia packages",
+      "julia repl",
+      "julia scientific",
+      "light",
+      "light icon"
+    ]
+  },
+  "kafka": {
+    "name": "Kafka",
+    "mediaKey": "aaa75ede-a894-499b-8235-536003a63c79",
+    "keys": [
+      "стрім даних",
+      "черга повідомлень",
+      "apache kafka",
+      "data pipeline",
+      "event streaming",
+      "kafka",
+      "message broker"
+    ]
+  },
+  "kali-dark": {
+    "name": "Kali (темна)",
+    "mediaKey": "ca28d749-79cf-4717-b052-1b5880a48316",
+    "keys": [
+      "безпека",
+      "дистрибутив",
+      "ніч",
+      "пентест",
+      "темний",
+      "тьма",
+      "хакер",
+      "dark",
+      "kali",
+      "kali linux",
+      "shadow"
+    ]
+  },
+  "kali-light": {
+    "name": "Kali (тонка)",
+    "mediaKey": "5325605e-6364-457a-9a11-8a3e7f299bd5",
+    "keys": [
+      "💡",
+      "безпека",
+      "дистрибутив",
+      "ліґхт",
+      "освітлення",
+      "пентест",
+      "світло",
+      "сяйво",
+      "хакер",
+      "brightness",
+      "illumination",
+      "kali",
+      "kali linux",
+      "light",
+      "light icon"
+    ]
+  },
+  "kotlin-dark": {
+    "name": "Kotlin (темна)",
+    "mediaKey": "1ec9066f-68ab-43b2-96aa-63b1b0ff4d1a",
+    "keys": [
+      "котлін",
+      "ніч",
+      "темний",
+      "тьма",
+      "android dev",
+      "dark",
+      "jetbrains",
+      "kotlin",
+      "Kotlin",
+      "kotlin language",
+      "kotlin logo",
+      "shadow"
+    ]
+  },
+  "kotlin-light": {
+    "name": "Kotlin (тонка)",
+    "mediaKey": "07617053-a21f-4abc-87a2-036a9387e1ee",
+    "keys": [
+      "💡",
+      "котлін",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "android dev",
+      "brightness",
+      "illumination",
+      "jetbrains",
+      "kotlin",
+      "Kotlin",
+      "kotlin language",
+      "kotlin logo",
+      "light",
+      "light icon"
+    ]
+  },
+  "ktor-dark": {
+    "name": "Ktor (темна)",
+    "mediaKey": "3917bb9e-ff97-45b0-8cc9-f50c0c4571be",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "ktor",
+      "shadow"
+    ]
+  },
+  "ktor-light": {
+    "name": "Ktor (тонка)",
+    "mediaKey": "9938ade6-506a-44ed-bb70-82b02a4737c9",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "ktor",
+      "light",
+      "light icon"
+    ]
+  },
+  "kubernetes": {
+    "name": "Kubernetes",
+    "mediaKey": "cb304b35-33b2-44ed-8c0f-03febea99905",
+    "keys": [
+      "контейнери",
+      "cloud native",
+      "container orchestration",
+      "k8s",
+      "k8s icon",
+      "kubernetes",
+      "kubernetes cluster",
+      "kubernetes logo"
+    ]
+  },
+  "laravel-dark": {
+    "name": "Laravel (темна)",
+    "mediaKey": "1890660f-5b15-4717-8b89-ccf7f7bb08ca",
+    "keys": [
+      "ларавел",
+      "ніч",
+      "темний",
+      "тьма",
+      "фреймворк Laravel",
+      "dark",
+      "laravel",
+      "Laravel",
+      "laravel artisan",
+      "laravel blade",
+      "laravel logo",
+      "php framework",
+      "shadow"
+    ]
+  },
+  "laravel-light": {
+    "name": "Laravel (тонка)",
+    "mediaKey": "35bb55d0-31dd-4ff0-a036-0eefa9021892",
+    "keys": [
+      "💡",
+      "ларавел",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "фреймворк Laravel",
+      "brightness",
+      "illumination",
+      "laravel",
+      "Laravel",
+      "laravel artisan",
+      "laravel blade",
+      "laravel logo",
+      "light",
+      "light icon",
+      "php framework"
+    ]
+  },
+  "latex-dark": {
+    "name": "LaTeX (темна)",
+    "mediaKey": "494f1479-bb0b-4d6a-bc02-9736ea19a08a",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "latex",
+      "latex верстка",
+      "latex формули",
+      "latex doc",
+      "latex math",
+      "latex typesetting",
+      "pdflatex",
+      "shadow",
+      "tex latex"
+    ]
+  },
+  "latex-light": {
+    "name": "LaTeX (тонка)",
+    "mediaKey": "cd1fff6d-36cb-4aa7-a9aa-f4559fc656f2",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "latex",
+      "latex верстка",
+      "latex формули",
+      "latex doc",
+      "latex math",
+      "latex typesetting",
+      "light",
+      "light icon",
+      "pdflatex",
+      "tex latex"
+    ]
+  },
+  "less-dark": {
+    "name": "LESS (темна)",
+    "mediaKey": "e1db8385-13cc-470f-96c3-9fb114762729",
+    "keys": [
+      "зменшити",
+      "менше",
+      "мінус",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "less",
+      "reduce",
+      "shadow"
+    ]
+  },
+  "less-light": {
+    "name": "Less (тонка)",
+    "mediaKey": "7cd83ecd-06b1-44fc-91f3-a58d9f92ce73",
+    "keys": [
+      "💡",
+      "зменшити",
+      "ліґхт",
+      "менше",
+      "мінус",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "less",
+      "light",
+      "light icon",
+      "reduce"
+    ]
+  },
+  "linkedin": {
+    "name": "LinkedIn",
+    "mediaKey": "9357225d-e4ab-4ace-add4-249aa51aed86",
+    "keys": [
+      "кар'єрна мережа LinkedIn",
+      "лінкедін",
+      "професійна мережа LinkedIn",
+      "job network",
+      "linkedin",
+      "LinkedIn",
+      "linkedin icon",
+      "linkedin profile",
+      "professional network"
+    ]
+  },
+  "linux-dark": {
+    "name": "Linux (темна)",
+    "mediaKey": "cff40a6d-602d-480c-aea2-bdac38d823f0",
+    "keys": [
+      "лінукс",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "gnu/linux",
+      "linux",
+      "linux penguin",
+      "open source",
+      "os linux",
+      "shadow",
+      "tux",
+      "unix"
+    ]
+  },
+  "linux-light": {
+    "name": "Linux (тонка)",
+    "mediaKey": "44dee3b9-d2c3-4271-b9d7-ebe7144dba05",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "лінукс",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "gnu/linux",
+      "illumination",
+      "light",
+      "light icon",
+      "linux",
+      "linux penguin",
+      "open source",
+      "os linux",
+      "tux",
+      "unix"
+    ]
+  },
+  "lit-dark": {
+    "name": "Lit (темна)",
+    "mediaKey": "685aa9e3-5095-44d8-94a0-93f285589c5d",
+    "keys": [
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "монета",
+      "ніч",
+      "темний",
+      "токен",
+      "тьма",
+      "blockchain",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "dark",
+      "lit",
+      "shadow",
+      "token"
+    ]
+  },
+  "lit-light": {
+    "name": "Lit (тонка)",
+    "mediaKey": "3d087112-9c43-4d67-a1df-1914ef54b35a",
+    "keys": [
+      "💡",
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "ліґхт",
+      "монета",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "токен",
+      "blockchain",
+      "brightness",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "illumination",
+      "light",
+      "light icon",
+      "lit",
+      "token"
+    ]
+  },
+  "lua-dark": {
+    "name": "Lua (темна)",
+    "mediaKey": "ab6449d5-1c8b-46e6-8fd4-281832fd0e44",
+    "keys": [
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "монета",
+      "ніч",
+      "темний",
+      "токен",
+      "тьма",
+      "blockchain",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "dark",
+      "lua",
+      "shadow",
+      "token"
+    ]
+  },
+  "lua-light": {
+    "name": "Lua (тонка)",
+    "mediaKey": "e652d1f0-1f89-450b-8c64-c35065a60849",
+    "keys": [
+      "💡",
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "ліґхт",
+      "монета",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "токен",
+      "blockchain",
+      "brightness",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "illumination",
+      "light",
+      "light icon",
+      "lua",
+      "token"
+    ]
+  },
+  "markdown-dark": {
+    "name": "Markdown (темна)",
+    "mediaKey": "b4095452-ff23-4f87-a8f9-b994f644dbb9",
+    "keys": [
+      "маркдовн",
+      "ніч",
+      "розмітка markdown",
+      "темний",
+      "тьма",
+      "уцінка",
+      "dark",
+      "markdown",
+      "markdown syntax",
+      "md файл",
+      "shadow"
+    ]
+  },
+  "markdown-light": {
+    "name": "Markdown (тонка)",
+    "mediaKey": "7a4a0963-ed11-4b03-98aa-57151410bf4b",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "маркдовн",
+      "освітлення",
+      "розмітка markdown",
+      "світло",
+      "сяйво",
+      "уцінка",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "markdown",
+      "markdown syntax",
+      "md файл"
+    ]
+  },
+  "mastodon-dark": {
+    "name": "Mastodon (темна)",
+    "mediaKey": "e6731dca-2024-45fa-9a8c-c9bdbd40260c",
+    "keys": [
+      "мастодон",
+      "мастодонт",
+      "ніч",
+      "соцмережа Mastodon",
+      "темний",
+      "тьма",
+      "dark",
+      "fediverse",
+      "mastodon",
+      "Mastodon",
+      "Mastodon app",
+      "shadow"
+    ]
+  },
+  "mastodon-light": {
+    "name": "Mastodon (тонка)",
+    "mediaKey": "511af6bb-0918-4f3d-8395-849ce42bbe80",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "мастодон",
+      "мастодонт",
+      "освітлення",
+      "світло",
+      "соцмережа Mastodon",
+      "сяйво",
+      "brightness",
+      "fediverse",
+      "illumination",
+      "light",
+      "light icon",
+      "mastodon",
+      "Mastodon",
+      "Mastodon app"
+    ]
+  },
+  "materialui-dark": {
+    "name": "Material UI (темна)",
+    "mediaKey": "a84520f0-3552-4c78-8a54-dbc983152781",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "materialui",
+      "shadow"
+    ]
+  },
+  "materialui-light": {
+    "name": "Materialui (тонка)",
+    "mediaKey": "8c412ea2-7d3e-44ec-8cca-06ba85d06ca5",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "materialui"
+    ]
+  },
+  "matlab-dark": {
+    "name": "MATLAB (темна)",
+    "mediaKey": "abef866b-6c58-4c0d-9881-1b193be4c713",
+    "keys": [
+      "інженерні обчислення",
+      "матлаб",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "matlab",
+      "MATLAB",
+      "matlab programming",
+      "matlab scripts",
+      "matrix laboratory",
+      "shadow",
+      "simulink matlab"
+    ]
+  },
+  "matlab-light": {
+    "name": "Matlab (тонка)",
+    "mediaKey": "696761a4-29ac-4496-8932-7726c6dbdf02",
+    "keys": [
+      "💡",
+      "інженерні обчислення",
+      "ліґхт",
+      "матлаб",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "matlab",
+      "MATLAB",
+      "matlab programming",
+      "matlab scripts",
+      "matrix laboratory",
+      "simulink matlab"
+    ]
+  },
+  "maven-dark": {
+    "name": "Maven (темна)",
+    "mediaKey": "451b7147-7d3a-47aa-9494-e6fceefc4964",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "maven",
+      "shadow"
+    ]
+  },
+  "maven-light": {
+    "name": "Maven (тонка)",
+    "mediaKey": "c948f190-66f9-4f9a-9c41-40ed62f5199e",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "maven"
+    ]
+  },
+  "mint-dark": {
+    "name": "Mint (темна)",
+    "mediaKey": "d1bcebf9-7c5c-41aa-a507-d0ad1576f49b",
+    "keys": [
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "монета",
+      "ніч",
+      "темний",
+      "токен",
+      "тьма",
+      "blockchain",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "dark",
+      "mint",
+      "shadow",
+      "token"
+    ]
+  },
+  "mint-light": {
+    "name": "Mint (тонка)",
+    "mediaKey": "b0be7e97-e961-4f8f-9868-0994bd3cb981",
+    "keys": [
+      "💡",
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "ліґхт",
+      "монета",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "токен",
+      "blockchain",
+      "brightness",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "illumination",
+      "light",
+      "light icon",
+      "mint",
+      "token"
+    ]
+  },
+  "misskey-dark": {
+    "name": "Misskey (темна)",
+    "mediaKey": "ec9acaf3-0a33-4130-95b5-b4a655a65b08",
+    "keys": [
+      "мікроблог",
+      "ніч",
+      "соцмережа",
+      "темний",
+      "тьма",
+      "федіверс",
+      "activitypub",
+      "dark",
+      "fediverse",
+      "misskey",
+      "shadow"
+    ]
+  },
+  "misskey-light": {
+    "name": "Misskey (тонка)",
+    "mediaKey": "c13d96ff-af56-4168-af3a-dd1aa44fb866",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "мікроблог",
+      "освітлення",
+      "світло",
+      "соцмережа",
+      "сяйво",
+      "федіверс",
+      "activitypub",
+      "brightness",
+      "fediverse",
+      "illumination",
+      "light",
+      "light icon",
+      "misskey"
+    ]
+  },
+  "mongodb": {
+    "name": "MongoDB",
+    "mediaKey": "42b2b2d2-125d-4f0d-8480-db13f1045809",
+    "keys": [
+      "документна база",
+      "монґодб",
+      "mongodb",
+      "Mongodb",
+      "MongoDB database",
+      "NoSQL Mongo"
+    ]
+  },
+  "mysql-dark": {
+    "name": "MySQL (темна)",
+    "mediaKey": "7ece9c44-5198-41a7-83d0-8e2d03089aef",
+    "keys": [
+      "мйскл",
+      "ніч",
+      "реляційна БД",
+      "темний",
+      "тьма",
+      "dark",
+      "mysql",
+      "Mysql",
+      "MySQL database",
+      "shadow",
+      "SQL сервер"
+    ]
+  },
+  "mysql-light": {
+    "name": "MySQL (світла)",
+    "mediaKey": "742aeead-4a61-4edc-a355-d4a530aa6337",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "мйскл",
+      "освітлення",
+      "реляційна БД",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "mysql",
+      "Mysql",
+      "MySQL database",
+      "SQL сервер"
+    ]
+  },
+  "neovim-dark": {
+    "name": "Neovim (темна)",
+    "mediaKey": "f37cef23-6483-48bc-91be-ed2006f83e1d",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "neovim",
+      "shadow"
+    ]
+  },
+  "neovim-light": {
+    "name": "Neovim (світла)",
+    "mediaKey": "cd7fe4ed-f486-4329-9632-e4eb1c912bd1",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "neovim"
+    ]
+  },
+  "nestjs-dark": {
+    "name": "NestJS (темна)",
+    "mediaKey": "8b06d90c-fb1c-4d55-bc04-a3e3dee717c5",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "nestjs",
+      "NestJS",
+      "nestjs api",
+      "nestjs backend",
+      "nestjs framework",
+      "nestjs module",
+      "nestjs server",
+      "node nest",
+      "shadow"
+    ]
+  },
+  "nestjs-light": {
+    "name": "NestJS (світла)",
+    "mediaKey": "7ba1f391-9624-426d-a6a8-f19314c333b4",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "nestjs",
+      "NestJS",
+      "nestjs api",
+      "nestjs backend",
+      "nestjs framework",
+      "nestjs module",
+      "nestjs server",
+      "node nest"
+    ]
+  },
+  "netlify-dark": {
+    "name": "Netlify (темна)",
+    "mediaKey": "76ba9247-b502-4520-b93c-dce610941349",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "хостинг статичних сайтів",
+      "dark",
+      "deploy",
+      "hosting platform",
+      "jamstack",
+      "netlify",
+      "netlify логотип",
+      "netlify icon",
+      "netlify logo",
+      "shadow"
+    ]
+  },
+  "netlify-light": {
+    "name": "Netlify (світла)",
+    "mediaKey": "317ffd36-15f0-45c6-810f-683808ddf970",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "хостинг статичних сайтів",
+      "brightness",
+      "deploy",
+      "hosting platform",
+      "illumination",
+      "jamstack",
+      "light",
+      "light icon",
+      "netlify",
+      "netlify логотип",
+      "netlify icon",
+      "netlify logo"
+    ]
+  },
+  "nextjs-dark": {
+    "name": "Next.js (темна)",
+    "mediaKey": "93a95b96-de8e-49bb-8a87-c0d22e8854c2",
+    "keys": [
+      "некстджс",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "Next framework",
+      "Next.js",
+      "nextjs",
+      "Nextjs",
+      "React Next",
+      "shadow"
+    ]
+  },
+  "nextjs-light": {
+    "name": "Next.js (світла)",
+    "mediaKey": "7f6c3fc9-12fd-4f22-be0f-c92db23fc8ec",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "некстджс",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "Next framework",
+      "Next.js",
+      "nextjs",
+      "Nextjs",
+      "React Next"
+    ]
+  },
+  "nginx": {
+    "name": "Nginx",
+    "mediaKey": "4ab312c8-bb72-486a-99b6-44a99291f64c",
+    "keys": [
+      "вебсервер nginx",
+      "engine x",
+      "load balancer",
+      "nginx",
+      "NGINX",
+      "nginx config",
+      "nginx http",
+      "reverse proxy"
+    ]
+  },
+  "nim-dark": {
+    "name": "Nim (темна)",
+    "mediaKey": "cf26ec2d-4f28-4013-b788-77e5463fc80c",
+    "keys": [
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "монета",
+      "ніч",
+      "темний",
+      "токен",
+      "тьма",
+      "blockchain",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "dark",
+      "nim",
+      "shadow",
+      "token"
+    ]
+  },
+  "nim-light": {
+    "name": "Nim (світла)",
+    "mediaKey": "569ccf95-1bc5-45b5-b76c-089cd901856c",
+    "keys": [
+      "💡",
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "ліґхт",
+      "монета",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "токен",
+      "blockchain",
+      "brightness",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "illumination",
+      "light",
+      "light icon",
+      "nim",
+      "token"
+    ]
+  },
+  "nix-dark": {
+    "name": "Nix (темна)",
+    "mediaKey": "40d063a5-f25a-439c-bed4-e16fa0d0c6ca",
+    "keys": [
+      "декларативні пакети",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "nix",
+      "nix config",
+      "nix flakes",
+      "Nix package manager",
+      "nix shell",
+      "nix store",
+      "nixos",
+      "shadow"
+    ]
+  },
+  "nix-light": {
+    "name": "Nix (світла)",
+    "mediaKey": "dabd27ec-82e5-4e73-a4c2-d2e64b944af6",
+    "keys": [
+      "💡",
+      "декларативні пакети",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "nix",
+      "nix config",
+      "nix flakes",
+      "Nix package manager",
+      "nix shell",
+      "nix store",
+      "nixos"
+    ]
+  },
+  "nodejs-dark": {
+    "name": "Node.js (темна)",
+    "mediaKey": "79eb8ee9-d0d2-4eca-85b1-6654cee90643",
+    "keys": [
+      "ніч",
+      "нодеджс",
+      "серверний JavaScript",
+      "темний",
+      "тьма",
+      "dark",
+      "Node runtime",
+      "Node.js",
+      "nodejs",
+      "Nodejs",
+      "shadow"
+    ]
+  },
+  "nodejs-light": {
+    "name": "Node.js (світла)",
+    "mediaKey": "f362f49b-9cda-48fc-8f2a-8f8db2bdb028",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "нодеджс",
+      "освітлення",
+      "світло",
+      "серверний JavaScript",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "Node runtime",
+      "Node.js",
+      "nodejs",
+      "Nodejs"
+    ]
+  },
+  "notion-dark": {
+    "name": "Notion (темна)",
+    "mediaKey": "4427fb0f-db84-4b3a-9617-88325773c483",
+    "keys": [
+      "ніч",
+      "нотіон",
+      "ноушн",
+      "поняття",
+      "темний",
+      "тьма",
+      "dark",
+      "notion",
+      "Notion",
+      "Notion app",
+      "shadow",
+      "workspace"
+    ]
+  },
+  "notion-light": {
+    "name": "Notion (світла)",
+    "mediaKey": "2a0c1f2a-43a9-431a-a380-c4ee6105c0cc",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "нотіон",
+      "ноушн",
+      "освітлення",
+      "поняття",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "notion",
+      "Notion",
+      "Notion app",
+      "workspace"
+    ]
+  },
+  "npm-dark": {
+    "name": "Npm (темна)",
+    "mediaKey": "9c6cacc8-85c8-4a1a-bca2-45a7f48405b5",
+    "keys": [
+      "ніч",
+      "нпм",
+      "темний",
+      "тьма",
+      "dark",
+      "Node package manager",
+      "npm",
+      "Npm",
+      "npm logo",
+      "npm registry",
+      "shadow"
+    ]
+  },
+  "npm-light": {
+    "name": "Npm (світла)",
+    "mediaKey": "f54b47ea-76ef-4a10-9b44-7ac035c8dee7",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "нпм",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "Node package manager",
+      "npm",
+      "Npm",
+      "npm logo",
+      "npm registry"
+    ]
+  },
+  "nuxtjs-dark": {
+    "name": "Nuxt.js (темна)",
+    "mediaKey": "30b2823e-6594-4c4c-9680-56071b2a3cb1",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "nuxtjs",
+      "shadow"
+    ]
+  },
+  "nuxtjs-light": {
+    "name": "Nuxt.js (світла)",
+    "mediaKey": "64461689-aa74-42d7-b5a6-311681123516",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "nuxtjs"
+    ]
+  },
+  "obsidian-dark": {
+    "name": "Obsidian (темна)",
+    "mediaKey": "1fa88dcc-bdb0-4fe1-ac3d-76fea4d2d5d4",
+    "keys": [
+      "бренд obsidian",
+      "іконка obsidian",
+      "логотип obsidian",
+      "ніч",
+      "сервіс obsidian",
+      "темний",
+      "тьма",
+      "dark",
+      "obsidian",
+      "obsidian іконка",
+      "obsidian логотип",
+      "obsidian brand",
+      "obsidian icon",
+      "obsidian logo",
+      "shadow"
+    ]
+  },
+  "obsidian-light": {
+    "name": "Obsidian (світла)",
+    "mediaKey": "851f912f-3225-43cb-9214-1b20dd7932fc",
+    "keys": [
+      "💡",
+      "бренд obsidian",
+      "іконка obsidian",
+      "ліґхт",
+      "логотип obsidian",
+      "освітлення",
+      "світло",
+      "сервіс obsidian",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "obsidian",
+      "obsidian іконка",
+      "obsidian логотип",
+      "obsidian brand",
+      "obsidian icon",
+      "obsidian logo"
+    ]
+  },
+  "ocaml": {
+    "name": "OCaml",
+    "mediaKey": "758103f5-9859-4f21-a69a-95be0fc6a4bf",
+    "keys": [
+      "мова OCaml",
+      "functional ocaml",
+      "ocaml",
+      "OCaml",
+      "ocaml code",
+      "ocaml compiler",
+      "ocaml lang",
+      "ocaml programming"
+    ]
+  },
+  "octave-dark": {
+    "name": "GNU Octave (темна)",
+    "mediaKey": "63dc1abc-626b-4d3d-9bbd-d19e0dbab759",
+    "keys": [
+      "математичний octave",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "GNU Octave",
+      "matlab alternative",
+      "numerical octave",
+      "octave",
+      "octave cli",
+      "octave math",
+      "octave scripts",
+      "shadow"
+    ]
+  },
+  "octave-light": {
+    "name": "GNU Octave (світла)",
+    "mediaKey": "44cf7a97-a865-4b4e-a1b7-43a6c39ed975",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "математичний octave",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "GNU Octave",
+      "illumination",
+      "light",
+      "light icon",
+      "matlab alternative",
+      "numerical octave",
+      "octave",
+      "octave cli",
+      "octave math",
+      "octave scripts"
+    ]
+  },
+  "opencv-dark": {
+    "name": "OpenCV (темна)",
+    "mediaKey": "3d265960-d572-4486-adcc-422da8be5f68",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "computer vision",
+      "cv2",
+      "dark",
+      "image processing",
+      "opencv",
+      "OpenCV",
+      "opencv c++",
+      "opencv library",
+      "opencv python",
+      "shadow"
+    ]
+  },
+  "opencv-light": {
+    "name": "OpenCV (світла)",
+    "mediaKey": "1ec4a1e6-efc5-4e3d-8bfb-c65d4ca23d4b",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "computer vision",
+      "cv2",
+      "illumination",
+      "image processing",
+      "light",
+      "light icon",
+      "opencv",
+      "OpenCV",
+      "opencv c++",
+      "opencv library",
+      "opencv python"
+    ]
+  },
+  "openshift": {
+    "name": "OpenShift",
+    "mediaKey": "33495ef9-7093-4427-af21-3013c7c157e4",
+    "keys": [
+      "бренд openshift",
+      "іконка openshift",
+      "логотип openshift",
+      "сервіс openshift",
+      "openshift",
+      "openshift іконка",
+      "openshift логотип",
+      "openshift brand",
+      "openshift icon",
+      "openshift logo"
+    ]
+  },
+  "openstack-dark": {
+    "name": "OpenStack (темна)",
+    "mediaKey": "eb291a15-1248-4d9e-b456-037ffa805b2c",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "хмарна платформа",
+      "dark",
+      "infrastructure as a service",
+      "nova neutron",
+      "openstack",
+      "OpenStack",
+      "openstack cloud",
+      "openstack cluster",
+      "openstack dashboard",
+      "shadow"
+    ]
+  },
+  "openstack-light": {
+    "name": "OpenStack (світла)",
+    "mediaKey": "f485663a-01ca-4930-85aa-7d0e18ba814b",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "хмарна платформа",
+      "brightness",
+      "illumination",
+      "infrastructure as a service",
+      "light",
+      "light icon",
+      "nova neutron",
+      "openstack",
+      "OpenStack",
+      "openstack cloud",
+      "openstack cluster",
+      "openstack dashboard"
+    ]
+  },
+  "p5js": {
+    "name": "P5js",
+    "mediaKey": "a74e0161-1158-4037-964b-1c88962175b8",
+    "keys": [
+      "p5js"
+    ]
+  },
+  "perl": {
+    "name": "Perl",
+    "mediaKey": "2e8bfd54-da01-46ce-9d9f-4325fa174079",
+    "keys": [
+      "perl",
+      "Perl",
+      "perl 5",
+      "perl code",
+      "perl interpreter",
+      "perl language",
+      "perl programming",
+      "perl scripts"
+    ]
+  },
+  "photoshop": {
+    "name": "Photoshop",
+    "mediaKey": "8205ab6f-e353-462b-8c79-01284a83b0d4",
+    "keys": [
+      "фотошоп",
+      "Adobe Photoshop",
+      "photoshop",
+      "psd editor"
+    ]
+  },
+  "php-dark": {
+    "name": "PHP (темна)",
+    "mediaKey": "f777c9ad-8195-46ec-ae35-65317af80dda",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "фп",
+      "backend php",
+      "dark",
+      "php",
+      "PHP",
+      "PHP language",
+      "php logo",
+      "shadow"
+    ]
+  },
+  "php-light": {
+    "name": "PHP (тонка)",
+    "mediaKey": "71ca9559-9526-4b9f-8d5a-439b4b2b6b52",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "фп",
+      "backend php",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "php",
+      "PHP",
+      "PHP language",
+      "php logo"
+    ]
+  },
+  "phpstorm-dark": {
+    "name": "PhpStorm (темна)",
+    "mediaKey": "a350d87a-a044-4130-bd6c-a863cd537bf3",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "phpstorm",
+      "shadow"
+    ]
+  },
+  "phpstorm-light": {
+    "name": "PhpStorm (тонка)",
+    "mediaKey": "b7577db0-b516-4c88-84b7-2cbeff621e1e",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "phpstorm"
+    ]
+  },
+  "pinia-dark": {
+    "name": "Pinia (темна)",
+    "mediaKey": "0c507493-22d0-4479-ae37-dd1de7836f22",
+    "keys": [
+      "бренд pinia",
+      "іконка pinia",
+      "логотип pinia",
+      "ніч",
+      "сервіс pinia",
+      "темний",
+      "тьма",
+      "dark",
+      "pinia",
+      "pinia іконка",
+      "pinia логотип",
+      "pinia brand",
+      "pinia icon",
+      "pinia logo",
+      "shadow"
+    ]
+  },
+  "pinia-light": {
+    "name": "Pinia (світла)",
+    "mediaKey": "28ba4629-9e60-43f3-a211-e149b24bf6bd",
+    "keys": [
+      "💡",
+      "бренд pinia",
+      "іконка pinia",
+      "ліґхт",
+      "логотип pinia",
+      "освітлення",
+      "світло",
+      "сервіс pinia",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "pinia",
+      "pinia іконка",
+      "pinia логотип",
+      "pinia brand",
+      "pinia icon",
+      "pinia logo"
+    ]
+  },
+  "pkl-dark": {
+    "name": "PKL (темна)",
+    "mediaKey": "897e8efb-64d2-476b-a311-05a3a56863a9",
+    "keys": [
+      "конфіг",
+      "конфігурації",
+      "мова",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "google",
+      "pkl",
+      "shadow",
+      "tool"
+    ]
+  },
+  "pkl-light": {
+    "name": "PKL (світла)",
+    "mediaKey": "fb3a27da-afa7-4a50-bf61-a415c51408aa",
+    "keys": [
+      "💡",
+      "конфіг",
+      "конфігурації",
+      "ліґхт",
+      "мова",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "google",
+      "illumination",
+      "light",
+      "light icon",
+      "pkl",
+      "tool"
+    ]
+  },
+  "plan9-dark": {
+    "name": "Plan 9 (темна)",
+    "mediaKey": "cbe60b2e-1f40-4627-b275-a7583c61f255",
+    "keys": [
+      "9p",
+      "дослідження",
+      "ніч",
+      "ос",
+      "система",
+      "темний",
+      "тьма",
+      "bell labs",
+      "dark",
+      "plan 9",
+      "plan9",
+      "shadow"
+    ]
+  },
+  "plan9-light": {
+    "name": "Plan 9 (тонка)",
+    "mediaKey": "58fb5a2a-75db-4c10-9ded-c92573a9a4d9",
+    "keys": [
+      "💡",
+      "9p",
+      "дослідження",
+      "ліґхт",
+      "ос",
+      "освітлення",
+      "світло",
+      "система",
+      "сяйво",
+      "bell labs",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "plan 9",
+      "plan9"
+    ]
+  },
+  "planetscale-dark": {
+    "name": "PlanetScale (темна)",
+    "mediaKey": "e232eb68-1481-4f6a-9bbd-871a5ccae7d1",
+    "keys": [
+      "масштаб",
+      "ніч",
+      "планетарний",
+      "планетарний масштаб",
+      "планецкале",
+      "темний",
+      "тьма",
+      "dark",
+      "planetscale",
+      "Planetscale",
+      "PlanetScale DB",
+      "PlanetScale logo",
+      "serverless MySQL",
+      "shadow"
+    ]
+  },
+  "planetscale-light": {
+    "name": "PlanetScale (світла)",
+    "mediaKey": "00c62dee-1c69-40c5-af79-78244cb3c1e5",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "масштаб",
+      "освітлення",
+      "планетарний",
+      "планетарний масштаб",
+      "планецкале",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "planetscale",
+      "Planetscale",
+      "PlanetScale DB",
+      "PlanetScale logo",
+      "serverless MySQL"
+    ]
+  },
+  "pnpm-dark": {
+    "name": "PNPM (темна)",
+    "mediaKey": "979156e6-f294-41f0-a783-662cca1ab5ce",
+    "keys": [
+      "ніч",
+      "пнпм",
+      "темний",
+      "тьма",
+      "dark",
+      "Node pnpm",
+      "pnpm",
+      "Pnpm",
+      "pnpm cli",
+      "pnpm package manager",
+      "shadow"
+    ]
+  },
+  "pnpm-light": {
+    "name": "PNPM (світла)",
+    "mediaKey": "54580e26-4dc5-4ed2-a2b9-4816b83cb3c8",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "пнпм",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "Node pnpm",
+      "pnpm",
+      "Pnpm",
+      "pnpm cli",
+      "pnpm package manager"
+    ]
+  },
+  "postgresql-dark": {
+    "name": "PostgreSQL (темна)",
+    "mediaKey": "d0cabe00-aebd-4698-a1f0-676d872c0f2f",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "database",
+      "elephant db",
+      "pgsql",
+      "postgres база",
+      "postgres icon",
+      "postgres logo",
+      "postgresql",
+      "shadow",
+      "sql database"
+    ]
+  },
+  "postgresql-light": {
+    "name": "PostgreSQL (світла)",
+    "mediaKey": "08711cc3-7f13-41e1-9653-41dc57d66343",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "database",
+      "elephant db",
+      "illumination",
+      "light",
+      "light icon",
+      "pgsql",
+      "postgres база",
+      "postgres icon",
+      "postgres logo",
+      "postgresql",
+      "sql database"
+    ]
+  },
+  "postman": {
+    "name": "Postman",
+    "mediaKey": "e64f30c0-be12-4b77-b5ac-88260e2219e2",
+    "keys": [
+      "postman"
+    ]
+  },
+  "powershell-dark": {
+    "name": "PowerShell (темна)",
+    "mediaKey": "6950ec99-2a86-4886-9e23-c2edc2928d24",
+    "keys": [
+      "ніч",
+      "повершелл",
+      "темний",
+      "тьма",
+      "dark",
+      "powershell",
+      "Powershell",
+      "PowerShell console",
+      "ps script",
+      "shadow",
+      "Windows shell"
+    ]
+  },
+  "powershell-light": {
+    "name": "PowerShell (світла)",
+    "mediaKey": "f53bb0a2-34fe-41a6-946b-f73ea944cac6",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "повершелл",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "powershell",
+      "Powershell",
+      "PowerShell console",
+      "ps script",
+      "Windows shell"
+    ]
+  },
+  "premiere": {
+    "name": "Premiere",
+    "mediaKey": "088df66a-cbb6-444f-8d25-12e942f3e7f8",
+    "keys": [
+      "відеомонтаж",
+      "adobe pr",
+      "adobe premiere",
+      "premiere",
+      "premiere icon",
+      "premiere logo",
+      "premiere pro",
+      "video editing"
+    ]
+  },
+  "prisma": {
+    "name": "Prisma",
+    "mediaKey": "efeee1a6-f742-4127-9cda-a460e16bd8f9",
+    "keys": [
+      "призма",
+      "прісма",
+      "database prisma",
+      "prisma",
+      "Prisma",
+      "Prisma ORM",
+      "Prisma schema"
+    ]
+  },
+  "processing-dark": {
+    "name": "Processing (темна)",
+    "mediaKey": "14ab9784-2ab6-4b24-bf14-9a88a6fd64e2",
+    "keys": [
+      "ніч",
+      "обробка",
+      "темний",
+      "тьма",
+      "creative coding",
+      "dark",
+      "processing",
+      "Processing",
+      "processing art",
+      "processing IDE",
+      "processing java",
+      "processing sketches",
+      "shadow",
+      "visual arts code"
+    ]
+  },
+  "processing-light": {
+    "name": "Processing (світла)",
+    "mediaKey": "b462cb65-3231-4009-a600-c7b0102c1ba1",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "обробка",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "creative coding",
+      "illumination",
+      "light",
+      "light icon",
+      "processing",
+      "Processing",
+      "processing art",
+      "processing IDE",
+      "processing java",
+      "processing sketches",
+      "visual arts code"
+    ]
+  },
+  "prometheus": {
+    "name": "Prometheus",
+    "mediaKey": "bda77600-de15-4107-a3e0-d33ec7d7f50e",
+    "keys": [
+      "prometheus"
+    ]
+  },
+  "pug-dark": {
+    "name": "Pug (темна)",
+    "mediaKey": "ff0905eb-8a6d-4411-b6da-063fd820b52c",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "jade pug",
+      "node pug",
+      "pug",
+      "Pug шаблон",
+      "pug engine",
+      "pug html",
+      "pug mixins",
+      "pug template",
+      "shadow"
+    ]
+  },
+  "pug-light": {
+    "name": "Pug (світла)",
+    "mediaKey": "bf2858be-3d65-42e3-8ea3-a8c79cb0c329",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "jade pug",
+      "light",
+      "light icon",
+      "node pug",
+      "pug",
+      "Pug шаблон",
+      "pug engine",
+      "pug html",
+      "pug mixins",
+      "pug template"
+    ]
+  },
+  "pycharm-dark": {
+    "name": "PyCharm (темна)",
+    "mediaKey": "27300c97-b7f6-4521-9ca6-37c720dd6e79",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "pycharm",
+      "shadow"
+    ]
+  },
+  "pycharm-light": {
+    "name": "PyCharm (світла)",
+    "mediaKey": "01456563-0eff-4d46-9cfa-218b1dab4213",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "pycharm"
+    ]
+  },
+  "python-dark": {
+    "name": "Python (темна)",
+    "mediaKey": "8c3d7cee-99f5-41e9-bb7e-2e1973b4beb8",
+    "keys": [
+      "ніч",
+      "пітон",
+      "пйтон",
+      "темний",
+      "тьма",
+      "dark",
+      "python",
+      "Python",
+      "Python мова",
+      "python logo",
+      "shadow"
+    ]
+  },
+  "python-light": {
+    "name": "Python (світла)",
+    "mediaKey": "590c9b72-394c-4826-b511-a5b9aac0cfe0",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "пітон",
+      "пйтон",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "python",
+      "Python",
+      "Python мова",
+      "python logo"
+    ]
+  },
+  "pytorch-dark": {
+    "name": "PyTorch (темна)",
+    "mediaKey": "666b7a54-6f1c-4b50-a076-9e332c0466d8",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "pytorch",
+      "shadow"
+    ]
+  },
+  "pytorch-light": {
+    "name": "PyTorch (світла)",
+    "mediaKey": "da92e5af-620b-437b-958e-1f2de643ee8b",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "pytorch"
+    ]
+  },
+  "qt-dark": {
+    "name": "Qt (темна)",
+    "mediaKey": "7dadc8cf-c8f6-47b7-bd22-85b3962601d7",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "qt",
+      "qt c++",
+      "qt creator",
+      "Qt framework",
+      "qt gui",
+      "qt quick",
+      "qt toolkit",
+      "qt widgets",
+      "shadow"
+    ]
+  },
+  "qt-light": {
+    "name": "Qt (світла)",
+    "mediaKey": "82b28736-c7a0-4d9c-80cc-6083c35bc753",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "qt",
+      "qt c++",
+      "qt creator",
+      "Qt framework",
+      "qt gui",
+      "qt quick",
+      "qt toolkit",
+      "qt widgets"
+    ]
+  },
+  "r-dark": {
+    "name": "R (темна)",
+    "mediaKey": "d9737225-f12c-41e2-a2d7-255cf83946de",
+    "keys": [
+      "буква ер",
+      "ніч",
+      "р",
+      "темний",
+      "тьма",
+      "dark",
+      "letter r",
+      "r",
+      "shadow",
+      "symbol r"
+    ]
+  },
+  "r-light": {
+    "name": "R (світла)",
+    "mediaKey": "eb754101-b090-4699-9480-f9b75347d806",
+    "keys": [
+      "💡",
+      "буква ер",
+      "ліґхт",
+      "освітлення",
+      "р",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "letter r",
+      "light",
+      "light icon",
+      "r",
+      "symbol r"
+    ]
+  },
+  "rabbitmq-dark": {
+    "name": "RabbitMQ (темна)",
+    "mediaKey": "18de4039-0792-4c93-904b-6b132e367c0e",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "rabbitmq",
+      "shadow"
+    ]
+  },
+  "rabbitmq-light": {
+    "name": "RabbitMQ (світла)",
+    "mediaKey": "9bcbdaca-fe7c-4eb1-b54d-787fb24faa16",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "rabbitmq"
+    ]
+  },
+  "rails": {
+    "name": "Rails",
+    "mediaKey": "7519fcc4-fc3c-4e66-bb02-3a17ec2283c7",
+    "keys": [
+      "rails"
+    ]
+  },
+  "raspberrypi-dark": {
+    "name": "Raspberry Pi (темна)",
+    "mediaKey": "dec9093c-9151-4cad-8314-932e16ac7a34",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "raspberrypi",
+      "shadow"
+    ]
+  },
+  "raspberrypi-light": {
+    "name": "Raspberry Pi (світла)",
+    "mediaKey": "ce4e08ee-8dba-450e-82da-1c0c7bbfa098",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "raspberrypi"
+    ]
+  },
+  "react-dark": {
+    "name": "React (темна)",
+    "mediaKey": "61c605e6-cb07-4704-9883-c4b3aac4a5fd",
+    "keys": [
+      "ніч",
+      "реагувати",
+      "реакт",
+      "темний",
+      "тьма",
+      "dark",
+      "Facebook React",
+      "react",
+      "React",
+      "React logo",
+      "React.js",
+      "shadow"
+    ]
+  },
+  "react-light": {
+    "name": "React (світла)",
+    "mediaKey": "6207fb58-a66d-4297-a58a-1b6027858079",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "реагувати",
+      "реакт",
+      "світло",
+      "сяйво",
+      "brightness",
+      "Facebook React",
+      "illumination",
+      "light",
+      "light icon",
+      "react",
+      "React",
+      "React logo",
+      "React.js"
+    ]
+  },
+  "reactivex-dark": {
+    "name": "ReactiveX (темна)",
+    "mediaKey": "740d5fb4-b6de-41c7-a2f9-1903d21440ca",
+    "keys": [
+      "бренд reactivex",
+      "іконка reactivex",
+      "логотип reactivex",
+      "ніч",
+      "сервіс reactivex",
+      "темний",
+      "тьма",
+      "dark",
+      "reactivex",
+      "reactivex іконка",
+      "reactivex логотип",
+      "reactivex brand",
+      "reactivex icon",
+      "reactivex logo",
+      "shadow"
+    ]
+  },
+  "reactivex-light": {
+    "name": "ReactiveX (світла)",
+    "mediaKey": "2f12bee8-7dd7-4f44-b17e-53fcb897819f",
+    "keys": [
+      "💡",
+      "бренд reactivex",
+      "іконка reactivex",
+      "ліґхт",
+      "логотип reactivex",
+      "освітлення",
+      "світло",
+      "сервіс reactivex",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "reactivex",
+      "reactivex іконка",
+      "reactivex логотип",
+      "reactivex brand",
+      "reactivex icon",
+      "reactivex logo"
+    ]
+  },
+  "redhat-dark": {
+    "name": "Red Hat (темна)",
+    "mediaKey": "b43bee0a-0f9e-4231-a9b7-1c3babf39276",
+    "keys": [
+      "ніч",
+      "редхат",
+      "темний",
+      "тьма",
+      "dark",
+      "linux redhat",
+      "Red Hat",
+      "redhat",
+      "Redhat",
+      "RedHat logo",
+      "shadow"
+    ]
+  },
+  "redhat-light": {
+    "name": "Red Hat (світла)",
+    "mediaKey": "21634c24-09bf-4819-983d-1be564f98fff",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "редхат",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "linux redhat",
+      "Red Hat",
+      "redhat",
+      "Redhat",
+      "RedHat logo"
+    ]
+  },
+  "redis-dark": {
+    "name": "Redis (темна)",
+    "mediaKey": "ad4052c4-ea71-4eda-8cf3-358b4551af18",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "redis",
+      "shadow"
+    ]
+  },
+  "redis-light": {
+    "name": "Redis (світла)",
+    "mediaKey": "23483491-c73d-4e84-a680-a751a484b966",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "redis"
+    ]
+  },
+  "redux": {
+    "name": "Redux",
+    "mediaKey": "ef299235-7e0f-4c97-b18d-5e217bad52a2",
+    "keys": [
+      "зменшити",
+      "редукс",
+      "redux",
+      "Redux",
+      "Redux logo",
+      "Redux store",
+      "state manager"
+    ]
+  },
+  "regex-dark": {
+    "name": "RegEx (темна)",
+    "mediaKey": "644b3f63-bf6e-451f-af5c-4d52d7e5e48e",
+    "keys": [
+      "вираз",
+      "ніч",
+      "регулярний",
+      "регулярний вираз",
+      "реґекс",
+      "темний",
+      "тьма",
+      "dark",
+      "pattern match",
+      "regex",
+      "regexp",
+      "shadow"
+    ]
+  },
+  "regex-light": {
+    "name": "RegEx (світла)",
+    "mediaKey": "ee2aafe4-8af5-4082-b721-edaf03d52e39",
+    "keys": [
+      "💡",
+      "вираз",
+      "ліґхт",
+      "освітлення",
+      "регулярний",
+      "регулярний вираз",
+      "реґекс",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "pattern match",
+      "regex",
+      "regexp"
+    ]
+  },
+  "remix-dark": {
+    "name": "Темний",
+    "mediaKey": "bc757d80-986e-4c40-a977-0da436ada588",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "react remix",
+      "remix",
+      "remix framework",
+      "remix fullstack",
+      "remix loader",
+      "remix routes",
+      "Remix Run",
+      "remix server",
+      "shadow"
+    ]
+  },
+  "remix-light": {
+    "name": "(тонка)",
+    "mediaKey": "35f8aa53-7c72-4b60-9355-4d313f27db12",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "react remix",
+      "remix",
+      "remix framework",
+      "remix fullstack",
+      "remix loader",
+      "remix routes",
+      "Remix Run",
+      "remix server"
+    ]
+  },
+  "replit-dark": {
+    "name": "Replit (темна)",
+    "mediaKey": "75c32a0a-94d7-46ef-949f-8bf7aa85d9e9",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "replit",
+      "shadow"
+    ]
+  },
+  "replit-light": {
+    "name": "Replit (світла)",
+    "mediaKey": "7e2740d1-e232-4fad-83d1-6c4c4756e059",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "replit"
+    ]
+  },
+  "rider-dark": {
+    "name": "Rider (темна)",
+    "mediaKey": "d30967d3-6455-4f7f-a4dc-2ed7591ad1aa",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "rider",
+      "shadow"
+    ]
+  },
+  "rider-light": {
+    "name": "Rider (світла)",
+    "mediaKey": "224565d6-8862-4e64-99f7-ae5b95e2af46",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "rider"
+    ]
+  },
+  "robloxstudio": {
+    "name": "Robloxstudio",
+    "mediaKey": "b3c8a651-8c18-4c49-a1d7-c017f6014e5f",
+    "keys": [
+      "гра",
+      "ігри",
+      "конструктор",
+      "логотип",
+      "редактор ігор",
+      "roblox",
+      "roblox studio",
+      "robloxstudio"
+    ]
+  },
+  "rocket": {
+    "name": "Ракета",
+    "mediaKey": "66b2efe8-5a9a-4206-9799-6b6243383fc3",
+    "keys": [
+      "🚀",
+      "ракета",
+      "роккет",
+      "launch",
+      "rocket"
+    ]
+  },
+  "rollupjs-dark": {
+    "name": "Rollupjs темний",
+    "mediaKey": "3d20f3c1-e379-469c-bc2e-caa5a91238c9",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "bundler tool",
+      "dark",
+      "javascript bundler",
+      "js build",
+      "module bundler",
+      "rollup build",
+      "rollup.js",
+      "rollupjs",
+      "shadow"
+    ]
+  },
+  "rollupjs-light": {
+    "name": "Rollupjs (тонка)",
+    "mediaKey": "c6e04d5d-8ccd-4ec3-ba51-1d5c5df54dc6",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "bundler tool",
+      "illumination",
+      "javascript bundler",
+      "js build",
+      "light",
+      "light icon",
+      "module bundler",
+      "rollup build",
+      "rollup.js",
+      "rollupjs"
+    ]
+  },
+  "ros-dark": {
+    "name": "Ros темний",
+    "mediaKey": "8b6e3cdc-6fda-4d2e-925b-ad1121971cb5",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "ros",
+      "shadow"
+    ]
+  },
+  "ros-light": {
+    "name": "Ros (тонка)",
+    "mediaKey": "93942468-111d-4eac-b500-03bc3b15b882",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "ros"
+    ]
+  },
+  "ruby": {
+    "name": "Ruby",
+    "mediaKey": "d9a25ca8-4fc8-43bb-ad83-c6c7ed5a2a28",
+    "keys": [
+      "програмування",
+      "рубі",
+      "code",
+      "gem",
+      "language",
+      "red",
+      "ruby",
+      "ruby on rails",
+      "stone"
+    ]
+  },
+  "rust": {
+    "name": "Rust",
+    "mediaKey": "ca9a3638-57ac-4d06-a039-e762b78674d1",
+    "keys": [
+      "іржа",
+      "руст",
+      "rust",
+      "Rust",
+      "Rust language",
+      "rustlang"
+    ]
+  },
+  "sass": {
+    "name": "Sass",
+    "mediaKey": "9c500ff8-f061-4b6f-abcb-93d5b976fc40",
+    "keys": [
+      "зухвалий",
+      "сасс",
+      "sass",
+      "Sass",
+      "Sass препроцесор",
+      "Sass logo",
+      "SCSS"
+    ]
+  },
+  "scala-dark": {
+    "name": "Scala темний",
+    "mediaKey": "eea58367-4bf6-4110-836d-f6375f176e0c",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "scala",
+      "Scala",
+      "scala code",
+      "scala compiler",
+      "scala functional",
+      "scala JVM",
+      "scala language",
+      "scala programming",
+      "shadow"
+    ]
+  },
+  "scala-light": {
+    "name": "Scala (тонка)",
+    "mediaKey": "a3f78b1c-cdc4-4926-9ea9-8cdbf06e480e",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "scala",
+      "Scala",
+      "scala code",
+      "scala compiler",
+      "scala functional",
+      "scala JVM",
+      "scala language",
+      "scala programming"
+    ]
+  },
+  "scikitlearn-dark": {
+    "name": "Scikitlearn темний",
+    "mediaKey": "f3a37cd7-a8c6-4694-ad40-256b5dea4488",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "scikitlearn",
+      "shadow"
+    ]
+  },
+  "scikitlearn-light": {
+    "name": "Scikitlearn (тонка)",
+    "mediaKey": "f11f66a6-7e2a-4ef4-9eed-4c3bc7933817",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "scikitlearn"
+    ]
+  },
+  "selenium": {
+    "name": "Selenium",
+    "mediaKey": "46fae017-e7ec-43d6-af8e-69ecf260ba71",
+    "keys": [
+      "selenium"
+    ]
+  },
+  "sentry": {
+    "name": "Sentry",
+    "mediaKey": "50219080-c704-4bea-a2c9-6ef88c95f169",
+    "keys": [
+      "вартовий",
+      "сентрі",
+      "сентрй",
+      "сторожовий пост",
+      "трекер помилок",
+      "error tracking",
+      "sentry",
+      "Sentry",
+      "Sentry логування"
+    ]
+  },
+  "sequelize-dark": {
+    "name": "Sequelize темний",
+    "mediaKey": "e51691a9-1edb-4d43-b999-4a4a05727a06",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "node sequelize",
+      "sequelize",
+      "Sequelize",
+      "sequelize migrations",
+      "sequelize models",
+      "sequelize orm",
+      "sequelize postgres",
+      "sequelize sequelize",
+      "shadow"
+    ]
+  },
+  "sequelize-light": {
+    "name": "Sequelize (тонка)",
+    "mediaKey": "ea6b2475-3788-47e3-a82f-7df6de361162",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "node sequelize",
+      "sequelize",
+      "Sequelize",
+      "sequelize migrations",
+      "sequelize models",
+      "sequelize orm",
+      "sequelize postgres",
+      "sequelize sequelize"
+    ]
+  },
+  "sketchup-dark": {
+    "name": "Sketchup темний",
+    "mediaKey": "6ba9671d-3a00-4bb6-a9f5-1c598f6c8aac",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "shadow",
+      "sketchup",
+      "SketchUp",
+      "sketchup 3d",
+      "sketchup drawing",
+      "sketchup modeling",
+      "sketchup pro",
+      "sketchup warehouse",
+      "trimble sketchup"
+    ]
+  },
+  "sketchup-light": {
+    "name": "Sketchup (тонка)",
+    "mediaKey": "3b33767f-8495-4269-864a-5b56bd6c744b",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "sketchup",
+      "SketchUp",
+      "sketchup 3d",
+      "sketchup drawing",
+      "sketchup modeling",
+      "sketchup pro",
+      "sketchup warehouse",
+      "trimble sketchup"
+    ]
+  },
+  "solidity": {
+    "name": "Solidity",
+    "mediaKey": "484f7537-e919-442f-8a39-8eb7952b400c",
+    "keys": [
+      "ethereum smart contracts",
+      "solidity",
+      "Solidity",
+      "solidity abi",
+      "solidity code",
+      "solidity compiler",
+      "solidity dapp",
+      "solidity language"
+    ]
+  },
+  "solidjs-dark": {
+    "name": "SolidJS (темна)",
+    "mediaKey": "6fb35f59-7ab3-4e65-8658-b7ef3d960073",
+    "keys": [
+      "компоненти",
+      "ніч",
+      "реактивний фреймворк",
+      "солідджс",
+      "темний",
+      "тьма",
+      "фронтенд бібліотека",
+      "dark",
+      "shadow",
+      "Solid JS",
+      "solidjs",
+      "Solidjs",
+      "SolidJS",
+      "UI framework"
+    ]
+  },
+  "solidjs-light": {
+    "name": "SolidJS (світла)",
+    "mediaKey": "d50cc725-2e9a-40a6-b937-596357da1c3f",
+    "keys": [
+      "💡",
+      "компоненти",
+      "ліґхт",
+      "освітлення",
+      "реактивний фреймворк",
+      "світло",
+      "солідджс",
+      "сяйво",
+      "фронтенд бібліотека",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "Solid JS",
+      "solidjs",
+      "Solidjs",
+      "SolidJS",
+      "UI framework"
+    ]
+  },
+  "spring-dark": {
+    "name": "Spring (темна)",
+    "mediaKey": "0bbfbf84-7dc4-4590-a6fc-835627d66fb0",
+    "keys": [
+      "весна",
+      "ніч",
+      "пружина",
+      "темний",
+      "тьма",
+      "coil spring",
+      "dark",
+      "shadow",
+      "spring",
+      "spring boot",
+      "spring framework",
+      "spring icon",
+      "spring season"
+    ]
+  },
+  "spring-light": {
+    "name": "Spring (світла)",
+    "mediaKey": "0c2e0864-aaf8-477e-b3a3-d73e6d775e8c",
+    "keys": [
+      "💡",
+      "весна",
+      "ліґхт",
+      "освітлення",
+      "пружина",
+      "світло",
+      "сяйво",
+      "brightness",
+      "coil spring",
+      "illumination",
+      "light",
+      "light icon",
+      "spring",
+      "spring boot",
+      "spring framework",
+      "spring icon",
+      "spring season"
+    ]
+  },
+  "sqlite": {
+    "name": "SQLite",
+    "mediaKey": "97f7d12e-ba7e-49ad-be17-52c8482e8a03",
+    "keys": [
+      "embedded sql",
+      "sqlite",
+      "SQLite",
+      "sqlite browser",
+      "sqlite database",
+      "sqlite file",
+      "sqlite query",
+      "sqlite3"
+    ]
+  },
+  "stackoverflow-dark": {
+    "name": "Stack Overflow (темна)",
+    "mediaKey": "84b91c4a-211a-4cbe-8fc0-d7b86503143c",
+    "keys": [
+      "ніч",
+      "стековерфлоу",
+      "темний",
+      "тьма",
+      "форум відповідей",
+      "dark",
+      "dev community",
+      "Q&A для девів",
+      "qa",
+      "shadow",
+      "Stack Overflow",
+      "stackoverflow"
+    ]
+  },
+  "stackoverflow-light": {
+    "name": "Stack Overflow (світла)",
+    "mediaKey": "9b0bab58-fd7b-4bdc-9fb8-99699fb3573d",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "стековерфлоу",
+      "сяйво",
+      "форум відповідей",
+      "brightness",
+      "dev community",
+      "illumination",
+      "light",
+      "light icon",
+      "Q&A для девів",
+      "qa",
+      "Stack Overflow",
+      "stackoverflow"
+    ]
+  },
+  "styledcomponents": {
+    "name": "Styled-components",
+    "mediaKey": "f894e5e7-870f-4a07-bf9c-dd2f1feeb0b0",
+    "keys": [
+      "css in js",
+      "react styled",
+      "styled components",
+      "styled system",
+      "styled theme",
+      "styled-components",
+      "styled-components library",
+      "styledcomponents"
+    ]
+  },
+  "sublime-dark": {
+    "name": "Sublime (темна)",
+    "mediaKey": "4bcecbf9-d268-4011-a66f-cebf9d4dfbad",
+    "keys": [
+      "мінімалістичний IDE",
+      "ніч",
+      "піднесений",
+      "редактор коду",
+      "саблайм",
+      "темний",
+      "тьма",
+      "code editor",
+      "dark",
+      "shadow",
+      "sublime",
+      "Sublime Text"
+    ]
+  },
+  "sublime-light": {
+    "name": "Sublime (світла)",
+    "mediaKey": "ed0ede19-a11c-4d20-b389-b764f94df948",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "мінімалістичний IDE",
+      "освітлення",
+      "піднесений",
+      "редактор коду",
+      "саблайм",
+      "світло",
+      "сяйво",
+      "brightness",
+      "code editor",
+      "illumination",
+      "light",
+      "light icon",
+      "sublime",
+      "Sublime Text"
+    ]
+  },
+  "supabase-dark": {
+    "name": "Supabase (темна)",
+    "mediaKey": "b0bc55cb-a42c-48cd-bdc5-5539662b02ce",
+    "keys": [
+      "авторизація",
+      "бекенд як сервіс",
+      "ніч",
+      "супабейс",
+      "темний",
+      "тьма",
+      "backend as a service",
+      "dark",
+      "Postgres API",
+      "shadow",
+      "supabase",
+      "Supabase"
+    ]
+  },
+  "supabase-light": {
+    "name": "Supabase (світла)",
+    "mediaKey": "ad322c8b-e03e-4d82-be78-3f3bb6dae878",
+    "keys": [
+      "💡",
+      "авторизація",
+      "бекенд як сервіс",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "супабейс",
+      "сяйво",
+      "backend as a service",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "Postgres API",
+      "supabase",
+      "Supabase"
+    ]
+  },
+  "svelte": {
+    "name": "Svelte",
+    "mediaKey": "089d3ba4-9ed9-431b-bcdb-40d15ec76390",
+    "keys": [
+      "реактивний UI",
+      "свелт",
+      "фреймворк",
+      "JS бібліотека",
+      "svelte",
+      "Svelte",
+      "sveltekit"
+    ]
+  },
+  "svg-dark": {
+    "name": "SVG (темна)",
+    "mediaKey": "91568bcb-83aa-4f3d-bb65-ba8cadf53478",
+    "keys": [
+      "вектор",
+      "векторка",
+      "іконки",
+      "масштабована графіка",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "Scalable Vector Graphics",
+      "shadow",
+      "svg",
+      "SVG",
+      "svg файл"
+    ]
+  },
+  "svg-light": {
+    "name": "SVG (світла)",
+    "mediaKey": "f4fb761e-4faf-4fbf-9753-2e414f9c8d8c",
+    "keys": [
+      "💡",
+      "вектор",
+      "векторка",
+      "іконки",
+      "ліґхт",
+      "масштабована графіка",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "Scalable Vector Graphics",
+      "svg",
+      "SVG",
+      "svg файл"
+    ]
+  },
+  "swift": {
+    "name": "Swift",
+    "mediaKey": "23fae8a0-7c00-4c85-b8d7-a4f7b775e1da",
+    "keys": [
+      "мова програмування",
+      "швидкий",
+      "Apple Swift",
+      "programming language",
+      "swift",
+      "Swift",
+      "swiftui"
+    ]
+  },
+  "symfony-dark": {
+    "name": "Symfony (темна)",
+    "mediaKey": "fb286327-8efc-4f72-8227-de4098ac5d9e",
+    "keys": [
+      "бекенд",
+      "ніч",
+      "симфоні",
+      "темний",
+      "тьма",
+      "dark",
+      "framework",
+      "PHP фреймворк",
+      "shadow",
+      "symfony",
+      "Symfony"
+    ]
+  },
+  "symfony-light": {
+    "name": "Symfony (світла)",
+    "mediaKey": "d4e37275-79ee-47d6-8915-b83b665cda75",
+    "keys": [
+      "💡",
+      "бекенд",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "симфоні",
+      "сяйво",
+      "brightness",
+      "framework",
+      "illumination",
+      "light",
+      "light icon",
+      "PHP фреймворк",
+      "symfony",
+      "Symfony"
+    ]
+  },
+  "tailwindcss-dark": {
+    "name": "Tailwind CSS (темна)",
+    "mediaKey": "dfbf85c7-19ff-4eb7-acab-2446dac6abdf",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "shadow",
+      "tailwindcss"
+    ]
+  },
+  "tailwindcss-light": {
+    "name": "Tailwind CSS (світла)",
+    "mediaKey": "7007cf0f-4d34-482d-be32-0707a3d05c48",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "tailwindcss"
+    ]
+  },
+  "tauri-dark": {
+    "name": "Tauri (темна)",
+    "mediaKey": "d7710d60-a245-4261-b1ed-c22117537b78",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "rust desktop",
+      "shadow",
+      "tauri",
+      "Tauri",
+      "tauri app",
+      "tauri build",
+      "tauri bundler",
+      "tauri cli",
+      "tauri webview"
+    ]
+  },
+  "tauri-light": {
+    "name": "Tauri (світла)",
+    "mediaKey": "ff4a1e14-c7d5-41f4-8118-4886175f6bd9",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "rust desktop",
+      "tauri",
+      "Tauri",
+      "tauri app",
+      "tauri build",
+      "tauri bundler",
+      "tauri cli",
+      "tauri webview"
+    ]
+  },
+  "tensorflow-dark": {
+    "name": "TensorFlow (темна)",
+    "mediaKey": "8aeaee09-cc4b-4a71-a9ce-179f8faaed5b",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "shadow",
+      "tensorflow"
+    ]
+  },
+  "tensorflow-light": {
+    "name": "TensorFlow (світла)",
+    "mediaKey": "b8ea92f7-2261-4603-ad3e-38a6c3a52a23",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "tensorflow"
+    ]
+  },
+  "terraform-dark": {
+    "name": "Terraform (темна)",
+    "mediaKey": "9765a6fa-e25b-4e11-9e7e-0ac9a506aea2",
+    "keys": [
+      "автоматизація хмар",
+      "інфраструктура як код",
+      "ніч",
+      "темний",
+      "терраформ",
+      "тьма",
+      "dark",
+      "HashiCorp",
+      "IaC",
+      "shadow",
+      "terraform",
+      "Terraform"
+    ]
+  },
+  "terraform-light": {
+    "name": "Terraform (світла)",
+    "mediaKey": "3d248a8e-8f11-4a50-b7d9-9f865ce876f1",
+    "keys": [
+      "💡",
+      "автоматизація хмар",
+      "інфраструктура як код",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "терраформ",
+      "brightness",
+      "HashiCorp",
+      "IaC",
+      "illumination",
+      "light",
+      "light icon",
+      "terraform",
+      "Terraform"
+    ]
+  },
+  "threejs-dark": {
+    "name": "Three.js (темна)",
+    "mediaKey": "7204773f-4c84-4eb2-b659-cb94deaaa26b",
+    "keys": [
+      "3D графіка",
+      "ніч",
+      "рендер",
+      "темний",
+      "трі-джс",
+      "тьма",
+      "dark",
+      "javascript 3d",
+      "shadow",
+      "Three.js",
+      "threejs",
+      "Threejs",
+      "WebGL"
+    ]
+  },
+  "threejs-light": {
+    "name": "Threejs (тонка)",
+    "mediaKey": "29ac6052-2722-47e1-8977-86ef1af0e161",
+    "keys": [
+      "💡",
+      "3D графіка",
+      "ліґхт",
+      "освітлення",
+      "рендер",
+      "світло",
+      "сяйво",
+      "трі-джс",
+      "brightness",
+      "illumination",
+      "javascript 3d",
+      "light",
+      "light icon",
+      "Three.js",
+      "threejs",
+      "Threejs",
+      "WebGL"
+    ]
+  },
+  "twitter": {
+    "name": "Twitter",
+    "mediaKey": "77cd5e1e-1b3d-4331-9495-c2823264a65a",
+    "keys": [
+      "соцмережа",
+      "твіти",
+      "microblog",
+      "tweet",
+      "twitter",
+      "Twitter",
+      "X"
+    ]
+  },
+  "typescript": {
+    "name": "TypeScript",
+    "mediaKey": "ce3bbe14-6fc0-4539-abe8-fbf8c839b023",
+    "keys": [
+      "мова для фронтенду",
+      "статична типізація",
+      "тайпскріпт",
+      "javascript superset",
+      "TS",
+      "typescript",
+      "Typescript",
+      "TypeScript"
+    ]
+  },
+  "ubuntu-dark": {
+    "name": "Ubuntu (темна)",
+    "mediaKey": "3e3db660-1f9e-42a9-83ef-2dc0a04c2ccb",
+    "keys": [
+      "канонікал",
+      "ніч",
+      "темний",
+      "тьма",
+      "убунту",
+      "dark",
+      "desktop linux",
+      "linux",
+      "Linux дистрибутив",
+      "shadow",
+      "ubuntu",
+      "Ubuntu"
+    ]
+  },
+  "ubuntu-light": {
+    "name": "Ubuntu (тонка)",
+    "mediaKey": "40e4d981-c916-4b31-a722-3f94d0216402",
+    "keys": [
+      "💡",
+      "канонікал",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "убунту",
+      "brightness",
+      "desktop linux",
+      "illumination",
+      "light",
+      "light icon",
+      "linux",
+      "Linux дистрибутив",
+      "ubuntu",
+      "Ubuntu"
+    ]
+  },
+  "unity-dark": {
+    "name": "Unity (темна)",
+    "mediaKey": "8322270a-ea7f-415c-901d-7ea2d72c35ac",
+    "keys": [
+      "геймдвижок",
+      "єдність",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "game engine",
+      "shadow",
+      "unity",
+      "Unity",
+      "Unity движок",
+      "unity3d"
+    ]
+  },
+  "unity-light": {
+    "name": "Unity (світла)",
+    "mediaKey": "2fbd4b5b-a06b-4932-a13a-ac0121ff6d75",
+    "keys": [
+      "💡",
+      "геймдвижок",
+      "єдність",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "game engine",
+      "illumination",
+      "light",
+      "light icon",
+      "unity",
+      "Unity",
+      "Unity движок",
+      "unity3d"
+    ]
+  },
+  "unrealengine": {
+    "name": "Unrealengine",
+    "mediaKey": "41980479-a12a-4a52-bde3-ae1d2a57c393",
+    "keys": [
+      "unrealengine"
+    ]
+  },
+  "v-dark": {
+    "name": "V (темна)",
+    "mediaKey": "fdcd8d3c-a451-4c57-ba93-f091d8c3259d",
+    "keys": [
+      "буква в",
+      "галочка",
+      "літера v",
+      "ніч",
+      "темний",
+      "тьма",
+      "check",
+      "dark",
+      "letter v",
+      "shadow",
+      "v",
+      "v-форма",
+      "vee"
+    ]
+  },
+  "v-light": {
+    "name": "V (світла)",
+    "mediaKey": "16a650b6-6bc5-42a9-a2c6-b938cb2c81d8",
+    "keys": [
+      "💡",
+      "буква в",
+      "галочка",
+      "ліґхт",
+      "літера v",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "check",
+      "illumination",
+      "letter v",
+      "light",
+      "light icon",
+      "v",
+      "v-форма",
+      "vee"
+    ]
+  },
+  "vala": {
+    "name": "Vala",
+    "mediaKey": "7e0d7789-603f-4ccc-a6b6-2fcbfc07531b",
+    "keys": [
+      "gnome vala",
+      "vala",
+      "vala code",
+      "vala compiler",
+      "vala gtk",
+      "vala lang",
+      "Vala language",
+      "vala programming"
+    ]
+  },
+  "vercel-dark": {
+    "name": "Vercel (темна)",
+    "mediaKey": "e842c1ad-715b-4c15-875d-2fdd7a5fdd96",
+    "keys": [
+      "версел",
+      "деплой фронтенду",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "hosting",
+      "Next.js hosting",
+      "serverless",
+      "shadow",
+      "vercel",
+      "Vercel"
+    ]
+  },
+  "vercel-light": {
+    "name": "Vercel (світла)",
+    "mediaKey": "a64d10f9-20c0-4106-bca5-d11f49d2c962",
+    "keys": [
+      "💡",
+      "версел",
+      "деплой фронтенду",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "hosting",
+      "illumination",
+      "light",
+      "light icon",
+      "Next.js hosting",
+      "serverless",
+      "vercel",
+      "Vercel"
+    ]
+  },
+  "vim-dark": {
+    "name": "Vim (темна)",
+    "mediaKey": "eb340609-2d1e-4faa-a638-bd7d44cb9122",
+    "keys": [
+      "ві редактор",
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "neovim",
+      "shadow",
+      "vim",
+      "Vim",
+      "vim config",
+      "vim keybindings",
+      "vim motions",
+      "vim text editor"
+    ]
+  },
+  "vim-light": {
+    "name": "Vim (світла)",
+    "mediaKey": "eabbe0e9-ff22-4168-b811-8800ac560ab1",
+    "keys": [
+      "💡",
+      "ві редактор",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "neovim",
+      "vim",
+      "Vim",
+      "vim config",
+      "vim keybindings",
+      "vim motions",
+      "vim text editor"
+    ]
+  },
+  "visualstudio-dark": {
+    "name": "Visual Studio (темна)",
+    "mediaKey": "43db8f74-b5d8-4027-a948-9400dfb7364f",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "shadow",
+      "visualstudio"
+    ]
+  },
+  "visualstudio-light": {
+    "name": "Visual Studio (світла)",
+    "mediaKey": "ae4631f5-493f-4aa8-b1c5-d4a6eb25c927",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "visualstudio"
+    ]
+  },
+  "vite-dark": {
+    "name": "Vite (темна)",
+    "mediaKey": "ca999164-ccf6-44dc-9ecc-c877907dc28c",
+    "keys": [
+      "білд тул",
+      "вайт",
+      "ніч",
+      "темний",
+      "тьма",
+      "bundler",
+      "dark",
+      "dev server",
+      "shadow",
+      "vite",
+      "Vite",
+      "vitejs"
+    ]
+  },
+  "vite-light": {
+    "name": "Vite (світла)",
+    "mediaKey": "1f5b53da-b355-4693-b1cb-8290ae597232",
+    "keys": [
+      "💡",
+      "білд тул",
+      "вайт",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "bundler",
+      "dev server",
+      "illumination",
+      "light",
+      "light icon",
+      "vite",
+      "Vite",
+      "vitejs"
+    ]
+  },
+  "vitest-dark": {
+    "name": "Vitest (темна)",
+    "mediaKey": "b95a9b23-bb05-401d-ab2d-5750d22e750d",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "shadow",
+      "vite test runner",
+      "vitest",
+      "Vitest",
+      "vitest config",
+      "vitest coverage",
+      "vitest expect",
+      "vitest unit tests",
+      "vitest watch"
+    ]
+  },
+  "vitest-light": {
+    "name": "Vitest (світла)",
+    "mediaKey": "baf47a21-705b-431f-aeac-39362a66cf2c",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "vite test runner",
+      "vitest",
+      "Vitest",
+      "vitest config",
+      "vitest coverage",
+      "vitest expect",
+      "vitest unit tests",
+      "vitest watch"
+    ]
+  },
+  "vscode-dark": {
+    "name": "VS Code (темна)",
+    "mediaKey": "691cd53e-4730-486f-a3da-f116c6fc6e65",
+    "keys": [
+      "код-редактор",
+      "ніч",
+      "редактор",
+      "темний",
+      "тьма",
+      "dark",
+      "editor",
+      "IDE",
+      "shadow",
+      "Visual Studio Code",
+      "VS Code",
+      "vscode"
+    ]
+  },
+  "vscode-light": {
+    "name": "VS Code (світла)",
+    "mediaKey": "21952783-817e-4664-8030-b4f8f70a2c26",
+    "keys": [
+      "💡",
+      "код-редактор",
+      "ліґхт",
+      "освітлення",
+      "редактор",
+      "світло",
+      "сяйво",
+      "brightness",
+      "editor",
+      "IDE",
+      "illumination",
+      "light",
+      "light icon",
+      "Visual Studio Code",
+      "VS Code",
+      "vscode"
+    ]
+  },
+  "vscodium-dark": {
+    "name": "VSCodium (темна)",
+    "mediaKey": "bf9c33d8-cf94-4141-bd18-d288968317cc",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "shadow",
+      "vscodium"
+    ]
+  },
+  "vscodium-light": {
+    "name": "VSCodium (світла)",
+    "mediaKey": "0343d8fd-dcd0-41a2-963f-8d256cbee4f6",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "vscodium"
+    ]
+  },
+  "vuejs-dark": {
+    "name": "Vue.js (темна)",
+    "mediaKey": "b0df5224-4153-4954-bf43-035ea1b385ad",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "frontend",
+      "javascript framework",
+      "progressive framework",
+      "shadow",
+      "spa",
+      "vue",
+      "vue icon",
+      "vue.js",
+      "vuejs"
+    ]
+  },
+  "vuejs-light": {
+    "name": "Vue.js (світла)",
+    "mediaKey": "13dd0c42-fa28-47ce-8962-9604b576d445",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "frontend",
+      "illumination",
+      "javascript framework",
+      "light",
+      "light icon",
+      "progressive framework",
+      "spa",
+      "vue",
+      "vue icon",
+      "vue.js",
+      "vuejs"
+    ]
+  },
+  "vuetify-dark": {
+    "name": "Vuetify (темна)",
+    "mediaKey": "bbcdb303-f69c-4859-847a-36496c9fd4fc",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "shadow",
+      "vuetify"
+    ]
+  },
+  "vuetify-light": {
+    "name": "Vuetify (світла)",
+    "mediaKey": "7cf45f5a-87bb-4d68-85af-2d238447883f",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "vuetify"
+    ]
+  },
+  "webassembly": {
+    "name": "WebAssembly",
+    "mediaKey": "2668ccb3-8003-4d87-ae82-bd8cf87cc617",
+    "keys": [
+      "binary wasm",
+      "wasm",
+      "wasm bytecode",
+      "wasm runtime",
+      "webassembly",
+      "WebAssembly",
+      "webassembly compile",
+      "webassembly module"
+    ]
+  },
+  "webflow": {
+    "name": "Webflow",
+    "mediaKey": "bd5d4288-1d09-4cc0-bba9-78c42bda9f9d",
+    "keys": [
+      "конструктор сайтів",
+      "но-код",
+      "nocode",
+      "site builder",
+      "web design",
+      "webflow",
+      "Webflow"
+    ]
+  },
+  "webpack-dark": {
+    "name": "Webpack (темна)",
+    "mediaKey": "80000c78-fcc6-41d5-949c-27ccd4d0677f",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "code splitting",
+      "dark",
+      "shadow",
+      "webpack",
+      "Webpack",
+      "webpack bundler",
+      "webpack config",
+      "webpack dev server",
+      "webpack loaders",
+      "webpack plugin"
+    ]
+  },
+  "webpack-light": {
+    "name": "Webpack (світла)",
+    "mediaKey": "e10ef15f-5598-4168-b4d8-ada745e75d79",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "code splitting",
+      "illumination",
+      "light",
+      "light icon",
+      "webpack",
+      "Webpack",
+      "webpack bundler",
+      "webpack config",
+      "webpack dev server",
+      "webpack loaders",
+      "webpack plugin"
+    ]
+  },
+  "webstorm-dark": {
+    "name": "WebStorm (темна)",
+    "mediaKey": "c7da613c-39a8-43d9-b35c-0f324b46d4d5",
+    "keys": [
+      "ніч",
+      "темний",
+      "тьма",
+      "dark",
+      "shadow",
+      "webstorm"
+    ]
+  },
+  "webstorm-light": {
+    "name": "WebStorm (світла)",
+    "mediaKey": "6ad4fa6d-13e6-43c3-9898-9a910e66cda3",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "webstorm"
+    ]
+  },
+  "windicss-dark": {
+    "name": "Windi CSS (темна)",
+    "mediaKey": "7cb362fd-4754-4d62-b9bc-e2dc6fc4b784",
+    "keys": [
+      "класси",
+      "ніч",
+      "стилі",
+      "темний",
+      "тьма",
+      "css",
+      "dark",
+      "shadow",
+      "tailwind",
+      "utility",
+      "windicss"
+    ]
+  },
+  "windicss-light": {
+    "name": "Windi CSS (світла)",
+    "mediaKey": "53272434-cc8f-47f3-8258-78ffd2226883",
+    "keys": [
+      "💡",
+      "класси",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "стилі",
+      "сяйво",
+      "brightness",
+      "css",
+      "illumination",
+      "light",
+      "light icon",
+      "tailwind",
+      "utility",
+      "windicss"
+    ]
+  },
+  "windows-dark": {
+    "name": "Windows (темна)",
+    "mediaKey": "398945b7-0f8f-410e-ad2a-980eeb61eab9",
+    "keys": [
+      "вінда",
+      "ніч",
+      "операційна система",
+      "темний",
+      "тьма",
+      "dark",
+      "Microsoft",
+      "OS",
+      "shadow",
+      "win10",
+      "windows",
+      "Windows"
+    ]
+  },
+  "windows-light": {
+    "name": "Windows (світла)",
+    "mediaKey": "c31529cc-e790-4cb2-9a99-c304ded9394d",
+    "keys": [
+      "💡",
+      "вінда",
+      "ліґхт",
+      "операційна система",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "Microsoft",
+      "OS",
+      "win10",
+      "windows",
+      "Windows"
+    ]
+  },
+  "wordpress": {
+    "name": "WordPress",
+    "mediaKey": "e1bbdf32-8691-4435-a949-78358a3661ef",
+    "keys": [
+      "блог",
+      "вордпрес",
+      "CMS",
+      "site",
+      "wordpress",
+      "Wordpress",
+      "WordPress",
+      "wp"
+    ]
+  },
+  "workers-dark": {
+    "name": "Workers (темна)",
+    "mediaKey": "8eadc8d1-4a3e-4eee-a6bf-206ab3adda14",
+    "keys": [
+      "👷‍♀️",
+      "бригада",
+      "колектив",
+      "ніч",
+      "працівники",
+      "робітники",
+      "робочі люди",
+      "темний",
+      "трудовий народ",
+      "тьма",
+      "crew",
+      "dark",
+      "shadow",
+      "staff team",
+      "workers"
+    ]
+  },
+  "workers-light": {
+    "name": "Workers (світла)",
+    "mediaKey": "537e84ee-76a1-4886-a437-7be2ff9cee8a",
+    "keys": [
+      "👷‍♀️",
+      "💡",
+      "бригада",
+      "колектив",
+      "ліґхт",
+      "освітлення",
+      "працівники",
+      "робітники",
+      "робочі люди",
+      "світло",
+      "сяйво",
+      "трудовий народ",
+      "brightness",
+      "crew",
+      "illumination",
+      "light",
+      "light icon",
+      "staff team",
+      "workers"
+    ]
+  },
+  "xd": {
+    "name": "Літери XD",
+    "mediaKey": "6b937acb-0322-4303-bbbd-374a4e54723c",
+    "keys": [
+      "прототипування",
+      "сміх",
+      "Adobe XD",
+      "design",
+      "lol",
+      "xd",
+      "XD"
+    ]
+  },
+  "yarn-dark": {
+    "name": "Yarn (темна)",
+    "mediaKey": "9cf6451a-31a4-4be1-993d-4aebc7f190e3",
+    "keys": [
+      "в'язання",
+      "нитки",
+      "ніч",
+      "пряжа",
+      "темний",
+      "тьма",
+      "ярн",
+      "dark",
+      "package manager",
+      "shadow",
+      "yarn",
+      "Yarn"
+    ]
+  },
+  "yarn-light": {
+    "name": "Пряжа (тонка)",
+    "mediaKey": "2ee889a7-1998-4214-938f-800467739e87",
+    "keys": [
+      "💡",
+      "в'язання",
+      "ліґхт",
+      "нитки",
+      "освітлення",
+      "пряжа",
+      "світло",
+      "сяйво",
+      "ярн",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "package manager",
+      "yarn",
+      "Yarn"
+    ]
+  },
+  "yew-dark": {
+    "name": "Yew (темна)",
+    "mediaKey": "2fdcf80e-6254-49dd-a84c-e9c51cd10974",
+    "keys": [
+      "ніч",
+      "темний",
+      "тис",
+      "тьма",
+      "фреймворк",
+      "dark",
+      "frontend",
+      "rust",
+      "shadow",
+      "spa",
+      "wasm",
+      "yew"
+    ]
+  },
+  "yew-light": {
+    "name": "Yew (світла)",
+    "mediaKey": "7c0ed437-acb3-46d7-97b0-9020020e3bf7",
+    "keys": [
+      "💡",
+      "ліґхт",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "тис",
+      "фреймворк",
+      "brightness",
+      "frontend",
+      "illumination",
+      "light",
+      "light icon",
+      "rust",
+      "spa",
+      "wasm",
+      "yew"
+    ]
+  },
+  "zig-dark": {
+    "name": "Zig (темна)",
+    "mediaKey": "40501fda-6436-4cbe-9b63-5548e13f426d",
+    "keys": [
+      "зиг",
+      "зигзаг",
+      "зіг",
+      "мова Zig",
+      "ніч",
+      "програмування",
+      "темний",
+      "тьма",
+      "dark",
+      "shadow",
+      "zig",
+      "ziglang",
+      "zigzag"
+    ]
+  },
+  "zig-light": {
+    "name": "Zig (світла)",
+    "mediaKey": "0a4d8c73-cf8e-45be-915a-b55e17907593",
+    "keys": [
+      "💡",
+      "зиг",
+      "зигзаг",
+      "зіг",
+      "ліґхт",
+      "мова Zig",
+      "освітлення",
+      "програмування",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "zig",
+      "ziglang",
+      "zigzag"
+    ]
+  }
+}

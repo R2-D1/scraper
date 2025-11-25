@@ -6,11 +6,12 @@ import {
   MISSING_KEY_TRANSLATIONS_DIR,
   MISSING_NAME_TRANSLATIONS_DIR,
   MISSING_SYNONYMS_ROOT,
+  TAG_TRANSLATIONS_PATH,
 } from '../config/paths';
 import { mergeUniqueStringArrays, normalizeStringArrayValue, normalizeStringValue } from '../iconify/translation-manager';
 
 const NAME_MASTER_PATH = path.join(ICON_TRANSLATIONS_ROOT, 'name-translations.json');
-const KEY_MASTER_PATH = path.join(ICON_TRANSLATIONS_ROOT, 'key-translations.json');
+const KEY_MASTER_PATH = TAG_TRANSLATIONS_PATH;
 const SYNONYM_MASTER_PATH = path.join(ICON_TRANSLATIONS_ROOT, 'synonyms.json');
 
 type Dictionary = Record<string, string>;
@@ -159,7 +160,7 @@ async function promote(): Promise<void> {
   console.log(
     [
       `✅ Додано/оновлено ${nameUpdates} записів у name-translations.json`,
-      `✅ Додано/оновлено ${keyUpdates} записів у key-translations.json`,
+      `✅ Додано/оновлено ${keyUpdates} записів у tag-translations.json`,
       `✅ Додано ${synonymUpdates} синонімів у synonyms.json`,
     ].join('\n')
   );

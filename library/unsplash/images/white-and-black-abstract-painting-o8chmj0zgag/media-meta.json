@@ -1,15 +1,13 @@
 {
   "slug": "white-and-black-abstract-painting-o8chmj0zgag",
+  "mediaKey": "a9104fa9-b7d0-4a89-98dc-65896c45c4cc",
   "name": "Біло-чорна абстрактна композиція",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/white-and-black-abstract-painting-O8CHmj0zgAg",
+  "sourceName": "Unsplash",
   "authorName": "Luca Nicoletti",
   "authorUrl": "https://unsplash.com/@luca_nicoletti",
   "keys": [
-    "пензлеве мистецтво",
-    "художній",
-    "художній фон",
-    "художня фотографія",
     "art",
     "art deco",
     "art design",
@@ -32,23 +30,28 @@
     "white"
   ],
   "tags": [
+    "пензлеве мистецтво",
+    "художній",
+    "художній фон",
+    "художня фотографія",
     "мистецтво",
+    "ар-деко",
+    "художній дизайн",
+    "художня галерея",
+    "картина художника",
+    "художники",
     "чорний",
     "чорний фон",
-    "білий",
-    "фарба",
-    "художня галерея",
-    "картини",
-    "ар-деко",
     "пензель",
     "мазок пензля",
-    "художній дизайн",
-    "художники",
+    "фарба",
+    "живопис",
     "стіна з картинами",
-    "картина художника",
-    "живопис"
+    "картини",
+    "білий"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

@@ -1,19 +1,23 @@
 {
   "slug": "colorful-nebula-clouds-in-deep-space-with-stars-amc-8t7grwk",
+  "mediaKey": "42e66796-f55f-465f-99d5-ce42e3e876b7",
   "name": "Туманність Вуаль",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/colorful-nebula-clouds-in-deep-space-with-stars-aMC_8t7gRWk",
+  "sourceName": "Unsplash",
   "authorName": "Steve Busch",
   "authorUrl": "https://unsplash.com/@sdbusch77",
   "description": "Cygnus Loop or Veil Nebula. Remnants of a supernova explosion.",
   "keys": [
-    "фони",
-    "шпалери",
     "backgrounds",
     "wallpapers"
   ],
-  "tags": [],
+  "tags": [
+    "фони",
+    "шпалери"
+  ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

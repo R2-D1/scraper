@@ -7,12 +7,14 @@ import {
   IconCollectionInfo,
   LoadedCollection,
   buildIconKeys,
+  buildIconMetadata,
   buildIconNames,
   collectIconTokens,
   collectNamePhrases,
   loadCollection,
-  writeIconKeysFile,
-  writeIconNamesFile,
+  readIconsFile,
+  removeLegacyIconFiles,
+  writeIconsFile,
 } from './collection-translations';
 import {
   TranslationStore,
@@ -25,6 +27,7 @@ import {
   MISSING_KEY_TRANSLATIONS_DIR,
   MISSING_NAME_TRANSLATIONS_DIR,
   MISSING_SYNONYMS_ROOT,
+  TAG_TRANSLATIONS_PATH,
   getIconifyCollectionDir,
 } from '../config/paths';
 
@@ -246,7 +249,7 @@ async function main(): Promise<void> {
     });
 
     const keywordStore = await TranslationStore.create<string>({
-      masterPath: path.join(ICON_TRANSLATIONS_ROOT, 'key-translations.json'),
+      masterPath: TAG_TRANSLATIONS_PATH,
       missingDir: MISSING_KEY_TRANSLATIONS_DIR,
       chunkSize: 1000,
       normalizeValue: normalizeStringValue,
@@ -264,10 +267,11 @@ async function main(): Promise<void> {
     const namePhrases = collectNamePhrases(iconList);
 
     const iconNames = buildIconNames(namePhrases, nameStore);
-    await writeIconNamesFile(options.outputDir, iconNames);
-
     const iconKeys = buildIconKeys(iconBags, keywordStore, synonymStore);
-    await writeIconKeysFile(options.outputDir, iconKeys);
+    const previousIcons = await readIconsFile(options.outputDir);
+    const iconsFile = buildIconMetadata(iconList, iconNames, iconKeys, previousIcons);
+    await writeIconsFile(options.outputDir, iconsFile);
+    await removeLegacyIconFiles(options.outputDir);
 
     await Promise.all([
       nameStore.writeMissingRecords(),
@@ -278,7 +282,7 @@ async function main(): Promise<void> {
     console.log(
       `Готово: збережено ${written} іконок у "${path.join(options.outputDir, 'files')}".` +
         (skipped > 0 ? ` Пропущено: ${skipped}.` : '') +
-        ' Оновлені словники: icon-names.json, icon-keys.json, а також списки відсутніх перекладів у каталозі library/iconify.'
+        ' Оновлений файл icons.json та списки відсутніх перекладів у каталозі library/iconify.'
     );
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error);

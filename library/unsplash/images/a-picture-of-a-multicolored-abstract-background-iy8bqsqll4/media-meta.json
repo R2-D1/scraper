@@ -1,15 +1,14 @@
 {
   "slug": "a-picture-of-a-multicolored-abstract-background-iy8bqsqll4",
+  "mediaKey": "ed16f675-a4f7-4829-a245-3b2edc29b5e0",
   "name": "Багатобарвний абстрактний фон",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/a-picture-of-a-multicolored-abstract-background--iY8BqSQLL4",
+  "sourceName": "Unsplash",
   "authorName": "Ruliff Andrean",
   "authorUrl": "https://unsplash.com/@ruliffand",
   "keys": [
-    "3d рендер",
     "3d render",
-    "фон",
-    "шпалери",
     "abstract shapes",
     "background",
     "futuristic",
@@ -21,17 +20,19 @@
     "wallpaper"
   ],
   "tags": [
-    "ретро",
-    "футуристичний",
+    "3d рендер",
+    "фон",
+    "шпалери",
     "абстрактні форми",
-    "ретро-футуристичний",
-    "ретрофутуризм",
+    "футуристичний",
     "неоновий градієнт",
-    "ретро-неоновий градієнт"
+    "ретро",
+    "ретро-футуристичний",
+    "ретро-неоновий градієнт",
+    "ретрофутуризм"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
   "tier": "plus",
-  "downloadSource": "downloads",
-  "sourceName": "Unsplash"
+  "downloadSource": "downloads"
 }

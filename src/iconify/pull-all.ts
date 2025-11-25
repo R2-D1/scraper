@@ -54,6 +54,7 @@ function runPull(collection: string): Promise<void> {
     const proc = spawn(
       process.execPath,
       [
+        '-r',
         require.resolve('ts-node/register/transpile-only'),
         path.join(projectRoot, 'src', 'iconify', 'pull-collection.ts'),
         '--',
@@ -86,13 +87,27 @@ async function main(): Promise<void> {
 
   console.log(`Починаю імпорт ${list.length} колекцій...`);
   let index = 0;
+  const failures: Array<{ id: string; error: unknown }> = [];
   for (const { id } of list) {
     index += 1;
     console.log(`[${index}/${list.length}] Імпорт колекції: ${id}`);
-    await runPull(id);
+    try {
+      await runPull(id);
+    } catch (error) {
+      failures.push({ id, error });
+      console.error(`✗ Помилка для "${id}": ${error instanceof Error ? error.message : String(error)}`);
+    }
   }
+
+  if (failures.length > 0) {
+    console.error(`Готово з помилками: не імпортовано ${failures.length} колекцій.`);
+    for (const failure of failures) {
+      console.error(`  • ${failure.id}`);
+    }
+    process.exit(1);
+  }
+
   console.log('Готово: всі колекції з переліку імпортовано.');
 }
 
 void main();
-

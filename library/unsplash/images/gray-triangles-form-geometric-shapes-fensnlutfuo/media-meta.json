@@ -1,17 +1,14 @@
 {
   "slug": "gray-triangles-form-geometric-shapes-fensnlutfuo",
+  "mediaKey": "3611936a-c2ca-456a-9d00-8b0bd0efcd11",
   "name": "Сірі трикутники",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/gray-triangles-form-geometric-shapes-fenSNLutfuo",
+  "sourceName": "Unsplash",
   "authorName": "Pawel Czerwinski",
   "authorUrl": "https://unsplash.com/@pawel_czerwinski",
   "keys": [
-    "3d рендер",
     "3d render",
-    "висока роздільність",
-    "патерн",
-    "фон",
-    "шпалери",
     "abstract",
     "background",
     "geometric",
@@ -24,15 +21,19 @@
     "wallpaper"
   ],
   "tags": [
+    "3d рендер",
+    "висока роздільність",
+    "патерн",
+    "фон",
+    "шпалери",
     "абстракція",
-    "монохромний",
     "геометричний",
     "геометрія",
+    "монохромний",
     "трикутники"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
   "tier": "free",
-  "downloadSource": "api",
-  "sourceName": "Unsplash"
+  "downloadSource": "api"
 }

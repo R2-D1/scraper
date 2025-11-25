@@ -1,15 +1,13 @@
 {
   "slug": "black-and-silver-laptop-computer-cy-wexlrb4",
+  "mediaKey": "d2924b6d-5423-4a15-b4e7-686e2ebb66a1",
   "name": "Чорно-срібний ноутбук",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/black-and-silver-laptop-computer-cY__WEXlrb4",
+  "sourceName": "Unsplash",
   "authorName": "Nubelson Fernandes",
   "authorUrl": "https://unsplash.com/@nublson",
   "keys": [
-    "Біг-Сур",
-    "макбук",
-    "макбук про",
-    "шпалери для макбука",
     "big sur",
     "dark background",
     "macbook",
@@ -18,10 +16,15 @@
     "mood"
   ],
   "tags": [
+    "Біг-Сур",
+    "макбук",
+    "макбук про",
+    "шпалери для макбука",
     "темний фон",
     "настрій"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

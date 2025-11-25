@@ -1,17 +1,13 @@
 {
   "slug": "a-blurry-image-of-a-purple-and-blue-background-jek0jdz0uyw",
+  "mediaKey": "2c0bbd34-7b5f-4c88-b002-30bae044b631",
   "name": "Фіолетово-синій градієнт",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/a-blurry-image-of-a-purple-and-blue-background-Jek0JdZ0uyw",
+  "sourceName": "Unsplash",
   "authorName": "MagicPattern",
   "authorUrl": "https://unsplash.com/@magicpattern",
   "keys": [
-    "градієнтний фон",
-    "заставка запуску",
-    "патерн",
-    "фіолетовий фон",
-    "фон",
-    "шпалери",
     "abstract",
     "abstract gradient",
     "background",
@@ -31,20 +27,25 @@
     "wallpaper"
   ],
   "tags": [
+    "градієнтний фон",
+    "заставка запуску",
+    "патерн",
+    "фіолетовий фон",
+    "фон",
+    "шпалери",
     "абстракція",
-    "градієнт",
-    "фіолетовий",
-    "цифрове зображення",
-    "фіолетовий градієнт",
     "абстрактний градієнт",
+    "цифрове зображення",
+    "градація",
+    "градієнт",
     "зернистий градієнт",
-    "фіолетовий колір",
     "метавсесвіт",
-    "градація"
+    "фіолетовий",
+    "фіолетовий колір",
+    "фіолетовий градієнт"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
   "tier": "plus",
-  "downloadSource": "downloads",
-  "sourceName": "Unsplash"
+  "downloadSource": "downloads"
 }

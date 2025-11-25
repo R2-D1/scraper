@@ -1,25 +1,26 @@
 {
   "slug": "a-close-up-of-a-blue-light-xkwvptyraru",
+  "mediaKey": "770cf30e-99cc-49ac-a1cb-cc3fdbf8d7e4",
   "name": "Синє світло",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/a-close-up-of-a-blue-light-XkwVptYRaRU",
+  "sourceName": "Unsplash",
   "authorName": "István Kovács",
   "authorUrl": "https://unsplash.com/@pisti24",
   "keys": [
-    "абстрактний фон",
-    "градієнтний фон",
     "abstract background",
     "gradient background",
     "grey",
     "liquid background"
   ],
   "tags": [
-    "рідкий фон",
-    "сірий"
+    "абстрактний фон",
+    "градієнтний фон",
+    "сірий",
+    "рідкий фон"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
   "tier": "free",
-  "downloadSource": "api",
-  "sourceName": "Unsplash"
+  "downloadSource": "api"
 }

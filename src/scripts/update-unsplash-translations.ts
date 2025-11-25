@@ -1,3 +1,4 @@
+import { randomUUID } from 'node:crypto';
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
@@ -10,17 +11,9 @@ import {
   translateImageTags,
 } from '../unsplash/translation-stores';
 import type { MediaMetadata } from '../unsplash/pull-media';
-import { getPhotoIdentifierCandidates } from '../unsplash/utils';
-
-const NON_LATIN_RE = /[^\u0000-\u007f]/;
 
 type CliOptions = {
   slug?: string;
-};
-
-type NapiPhoto = {
-  tags?: Array<{ title?: string }>;
-  tags_preview?: Array<{ title?: string }>;
 };
 
 function dedupeStrings(values: string[], normalize: (value: string) => string = value => value): string[] {
@@ -116,35 +109,6 @@ function buildImageKeys(tokens: string[], translatedSet: Set<string>): string[] 
   return Array.from(result).sort((a, b) => a.localeCompare(b, 'uk'));
 }
 
-function collectTagsFromResponse(photo: NapiPhoto | null): string[] {
-  if (!photo) return [];
-  const buckets = [
-    photo.tags?.map(tag => tag.title ?? '').filter(Boolean) ?? [],
-    photo.tags_preview?.map(tag => tag.title ?? '').filter(Boolean) ?? [],
-  ];
-  const merged = buckets.flat().map(tag => tag.trim()).filter(tag => tag.length > 0);
-  return Array.from(new Set(merged));
-}
-
-async function fetchTagsFromSource(candidates: string[]): Promise<string[] | null> {
-  for (const candidate of candidates) {
-    try {
-      const res = await fetch(`https://unsplash.com/napi/photos/${candidate}`);
-      if (!res.ok) {
-        continue;
-      }
-      const data = (await res.json()) as NapiPhoto;
-      const tags = collectTagsFromResponse(data);
-      if (tags.length > 0) {
-        return tags;
-      }
-    } catch {
-      // ignore and try next
-    }
-  }
-  return null;
-}
-
 async function processMetaFile(
   filePath: string,
   nameStore: Awaited<ReturnType<typeof createImageNameStore>>,
@@ -154,30 +118,27 @@ async function processMetaFile(
   const raw = await fs.readFile(filePath, 'utf-8');
   const meta = JSON.parse(raw) as MediaMetadata;
   const slug = meta.slug || path.basename(path.dirname(filePath));
-  const candidates = getPhotoIdentifierCandidates(meta.source ?? slug);
-  const apiTags = await fetchTagsFromSource(candidates);
-  const baseTokens =
-    (apiTags && apiTags.length > 0
-      ? apiTags
-      : normalizeKeyList(meta.keys).length > 0
-        ? normalizeKeyList(meta.keys)
-        : normalizeKeyList(meta.tags));
+  const keys = normalizeKeyList(meta.keys);
+  const tags = normalizeKeyList(meta.tags);
+  const baseTokens = keys.length > 0 ? keys : tags;
 
   const translatedTags = translateImageTags(filterBlacklistedTags(baseTokens, blacklist), tagStore);
   const uniqueTranslatedTags = dedupeStrings(translatedTags, value => value.toLowerCase());
   const translatedSet = new Set(uniqueTranslatedTags.map(tag => tag.toLowerCase()));
   const translatedName = nameStore.resolve(slug, meta.name ?? slug);
-  const keys = buildImageKeys(
+  const nextKeys = buildImageKeys(
     baseTokens.flatMap(tag => [tag, tagStore.resolve(tag, tag)]),
     translatedSet
   );
+  const mediaKey = meta.mediaKey ?? randomUUID();
   const updated: MediaMetadata = {
     ...meta,
     slug,
+    mediaKey,
     name: translatedName,
     sourceName: meta.sourceName ?? 'Unsplash',
     tags: uniqueTranslatedTags,
-    keys,
+    keys: nextKeys,
   };
 
   const serialized = `${JSON.stringify(updated, null, 2)}\n`;

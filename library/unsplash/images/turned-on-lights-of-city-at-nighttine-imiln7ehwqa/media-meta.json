@@ -1,8 +1,10 @@
 {
   "slug": "turned-on-lights-of-city-at-nighttine-imiln7ehwqa",
+  "mediaKey": "1e00b090-5e9e-4bb8-b6f6-c5b6ea8a1863",
   "name": "Бангкок вночі",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/turned-on-lights-of-city-at-nighttine-iMiLN7EhWqA",
+  "sourceName": "Unsplash",
   "authorName": "Michael Aleo",
   "authorUrl": "https://unsplash.com/@mjaleo",
   "description": "Bangkok, Thailand - Night cityscape view of Bangkok from the highest building in the city.",
@@ -12,11 +14,12 @@
     "thailand"
   ],
   "tags": [
+    "Бангкок",
     "сірий",
-    "Таїланд",
-    "Бангкок"
+    "Таїланд"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

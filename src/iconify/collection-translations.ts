@@ -1,3 +1,4 @@
+import { randomUUID } from 'node:crypto';
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
@@ -29,6 +30,14 @@ type IconEntry = {
 type IconAlias = {
   parent: string;
 };
+
+export type IconMetadata = {
+  name: string;
+  mediaKey: string;
+  keys: string[];
+};
+
+export type IconsFile = Record<string, IconMetadata>;
 
 export type RawCollection = {
   icons: Record<string, IconEntry>;
@@ -260,18 +269,52 @@ export function buildIconKeys(
   return sortRecord(iconKeys);
 }
 
-export async function writeIconNamesFile(
-  targetDir: string,
-  iconNames: Record<string, string>
-): Promise<void> {
-  const namesPath = path.join(targetDir, 'icon-names.json');
-  await fs.writeFile(namesPath, `${JSON.stringify(iconNames, null, 2)}\n`, 'utf-8');
+const ICONS_FILE_NAME = 'icons.json';
+const LEGACY_ICON_FILES = ['icon-names.json', 'icon-keys.json'];
+
+export function buildIconMetadata(
+  iconNames: string[],
+  names: Record<string, string>,
+  keys: Record<string, string[]>,
+  previous?: IconsFile | null
+): IconsFile {
+  const result: IconsFile = {};
+  const sorted = [...iconNames].sort((a, b) => a.localeCompare(b, 'en'));
+  for (const iconName of sorted) {
+    const existing = previous?.[iconName];
+    const mediaKey = existing?.mediaKey ?? randomUUID();
+    result[iconName] = {
+      name: names[iconName] ?? toDisplayCase(slugToPhrase(iconName)),
+      mediaKey,
+      keys: keys[iconName] ?? [],
+    };
+  }
+  return sortRecord(result);
 }
 
-export async function writeIconKeysFile(
-  targetDir: string,
-  iconKeys: Record<string, string[]>
-): Promise<void> {
-  const keysPath = path.join(targetDir, 'icon-keys.json');
-  await fs.writeFile(keysPath, `${JSON.stringify(iconKeys, null, 2)}\n`, 'utf-8');
+export async function readIconsFile(targetDir: string): Promise<IconsFile | null> {
+  const iconsPath = path.join(targetDir, ICONS_FILE_NAME);
+  try {
+    const raw = await fs.readFile(iconsPath, 'utf-8');
+    return JSON.parse(raw) as IconsFile;
+  } catch (error) {
+    if ((error as { code?: string })?.code === 'ENOENT') {
+      return null;
+    }
+    throw new Error(`Не вдалося прочитати ${iconsPath}: ${error instanceof Error ? error.message : String(error)}.`);
+  }
+}
+
+export async function writeIconsFile(targetDir: string, icons: IconsFile): Promise<void> {
+  const iconsPath = path.join(targetDir, ICONS_FILE_NAME);
+  await fs.writeFile(iconsPath, `${JSON.stringify(icons, null, 2)}\n`, 'utf-8');
+}
+
+export async function removeLegacyIconFiles(targetDir: string): Promise<void> {
+  await Promise.all(
+    LEGACY_ICON_FILES.map(async fileName => {
+      const filePath = path.join(targetDir, fileName);
+      await fs.rm(filePath, { force: true });
+    })
+  );
 }

@@ -1,8 +1,10 @@
 {
   "slug": "aerial-photography-of-cityscape-g7niy2lrwey",
+  "mediaKey": "573216a5-3b83-40ca-adbe-20f91aff9b69",
   "name": "Аерофото міста",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/aerial-photography-of-cityscape-G7NIY2lrweY",
+  "sourceName": "Unsplash",
   "authorName": "Lisheng Chang",
   "authorUrl": "https://unsplash.com/@changlisheng",
   "keys": [
@@ -18,17 +20,18 @@
     "urban"
   ],
   "tags": [
-    "місто",
     "будівля",
-    "ніч",
-    "освітлення",
-    "сцена",
-    "містечко",
-    "на відкритому повітрі",
+    "місто",
     "центр міста",
-    "нічне життя"
+    "освітлення",
+    "ніч",
+    "нічне життя",
+    "на відкритому повітрі",
+    "сцена",
+    "містечко"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

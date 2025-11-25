@@ -5,7 +5,7 @@ import {
   IMAGE_MISSING_NAME_TRANSLATIONS_DIR,
   IMAGE_MISSING_TAG_TRANSLATIONS_DIR,
   IMAGE_NAME_TRANSLATIONS_PATH,
-  IMAGE_TAG_TRANSLATIONS_PATH,
+  TAG_TRANSLATIONS_PATH,
 } from '../config/paths';
 import { normalizeStringValue } from '../iconify/translation-manager';
 
@@ -101,7 +101,7 @@ async function promote(): Promise<void> {
 
   const [nameMaster, tagMaster] = await Promise.all([
     readJsonFile(IMAGE_NAME_TRANSLATIONS_PATH),
-    readJsonFile(IMAGE_TAG_TRANSLATIONS_PATH),
+    readJsonFile(TAG_TRANSLATIONS_PATH),
   ]);
 
   const nameUpdates = mergeStringEntries(nameMaster, nameAdditions);
@@ -109,7 +109,7 @@ async function promote(): Promise<void> {
 
   await Promise.all([
     nameUpdates > 0 ? writeSortedJson(IMAGE_NAME_TRANSLATIONS_PATH, nameMaster) : Promise.resolve(),
-    tagUpdates > 0 ? writeSortedJson(IMAGE_TAG_TRANSLATIONS_PATH, tagMaster) : Promise.resolve(),
+    tagUpdates > 0 ? writeSortedJson(TAG_TRANSLATIONS_PATH, tagMaster) : Promise.resolve(),
   ]);
 
   await Promise.all([resetMissingDir(IMAGE_MISSING_NAME_TRANSLATIONS_DIR), resetMissingDir(IMAGE_MISSING_TAG_TRANSLATIONS_DIR)]);
@@ -117,7 +117,7 @@ async function promote(): Promise<void> {
   console.log(
     [
       `✅ Додано/оновлено ${nameUpdates} записів у name-translations.json (images)`,
-      `✅ Додано/оновлено ${tagUpdates} записів у tag-translations.json (images)`,
+      `✅ Додано/оновлено ${tagUpdates} записів у tag-translations.json`,
     ].join('\n')
   );
 }

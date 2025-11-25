@@ -1,15 +1,13 @@
 {
   "slug": "snow-mountain-under-stars-phifdc6la4e",
+  "mediaKey": "33732d99-3a21-46da-bd5b-a2dc15112b74",
   "name": "Гора під зірками",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/snow-mountain-under-stars-phIFdC6lA4E",
+  "sourceName": "Unsplash",
   "authorName": "Benjamin Voros",
   "authorUrl": "https://unsplash.com/@vorosbenisop",
   "keys": [
-    "кольори",
-    "на відкритому повітрі",
-    "небесний фон",
-    "небесні шпалери",
     "adventure",
     "astronomy",
     "astrophotography",
@@ -32,23 +30,28 @@
     "trees"
   ],
   "tags": [
-    "ліс",
-    "синій",
-    "гори",
-    "сніг",
-    "ніч",
-    "дерева",
-    "фіолетовий",
-    "пейзажні шпалери",
+    "кольори",
+    "на відкритому повітрі",
+    "небесний фон",
+    "небесні шпалери",
     "пригода",
-    "Чумацький Шлях",
     "астрономія",
-    "космос",
     "астрофотографія",
+    "синій",
+    "космос",
+    "ліс",
     "пейзажний фон",
-    "падаюча зірка"
+    "пейзажні шпалери",
+    "Чумацький Шлях",
+    "гори",
+    "ніч",
+    "фіолетовий",
+    "падаюча зірка",
+    "сніг",
+    "дерева"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

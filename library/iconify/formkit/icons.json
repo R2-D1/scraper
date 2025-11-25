@@ -1,0 +1,2032 @@
+{
+  "add": {
+    "name": "Додати",
+    "mediaKey": "b702ce2e-9721-43d8-874e-0e4a56ae3c89",
+    "keys": [
+      "адд",
+      "додати",
+      "додати ще",
+      "плюс",
+      "add",
+      "add new",
+      "insert"
+    ]
+  },
+  "amex": {
+    "name": "Amex",
+    "mediaKey": "f7ea6f9a-42a3-44f2-87c5-3301159a9643",
+    "keys": [
+      "амекс",
+      "банківський бренд",
+      "кредитка amex",
+      "платіжна система amex",
+      "american express",
+      "amex",
+      "amex card",
+      "amex logo",
+      "membership rewards",
+      "travel rewards card"
+    ]
+  },
+  "android": {
+    "name": "Android",
+    "mediaKey": "c72a9aa0-ca98-4ba8-ac1a-88f490901e81",
+    "keys": [
+      "🤖",
+      "андроід",
+      "android",
+      "Android",
+      "android logo",
+      "droid",
+      "google android",
+      "green robot"
+    ]
+  },
+  "apple": {
+    "name": "Яблуко",
+    "mediaKey": "6e232a30-f7a9-4a25-abd6-618306977b3c",
+    "keys": [
+      "🍎",
+      "аппле",
+      "купертінівці",
+      "яблуко",
+      "яблучко",
+      "apple",
+      "Apple",
+      "apple inc",
+      "apple logo"
+    ]
+  },
+  "arrowdown": {
+    "name": "Стрілка вниз",
+    "mediaKey": "cd7e1b92-39be-4053-8367-db2d2a84af4c",
+    "keys": [
+      "вниз",
+      "спуск",
+      "стрілка вниз",
+      "arrow down",
+      "arrowdown",
+      "downward",
+      "slide down"
+    ]
+  },
+  "arrowleft": {
+    "name": "Стрілка вліво",
+    "mediaKey": "fde27716-f594-4c7f-b1ea-7c0d81ed17fd",
+    "keys": [
+      "вліво",
+      "назад",
+      "стрілка вліво",
+      "arrow left",
+      "arrowleft",
+      "leftward",
+      "previous"
+    ]
+  },
+  "arrowright": {
+    "name": "Стрілка вправо",
+    "mediaKey": "56ea7e2d-4e16-4def-8820-5f96300bde99",
+    "keys": [
+      "вправо",
+      "далі",
+      "стрілка вправо",
+      "arrow right",
+      "arrowright",
+      "next",
+      "rightward"
+    ]
+  },
+  "arrowup": {
+    "name": "Стрілка вгору",
+    "mediaKey": "378da1a3-ba12-4bd5-935f-50a0c93383eb",
+    "keys": [
+      "вгору",
+      "підйом",
+      "стрілка вгору",
+      "arrow up",
+      "arrowup",
+      "rise",
+      "upward"
+    ]
+  },
+  "avatarman": {
+    "name": "Аватар чоловіка",
+    "mediaKey": "ba2c4b4c-e564-460b-97e5-5598767eb04b",
+    "keys": [
+      "аватар чоловіка",
+      "іконка чоловіка",
+      "профіль чоловік",
+      "avatarman",
+      "guy avatar",
+      "male avatar",
+      "man icon",
+      "profile man",
+      "user male"
+    ]
+  },
+  "avatarwoman": {
+    "name": "Аватар жінки",
+    "mediaKey": "46cab613-2719-4500-91d9-9b9c4fdb82f2",
+    "keys": [
+      "аватар жінки",
+      "іконка жінки",
+      "профіль жінка",
+      "avatarwoman",
+      "female avatar",
+      "girl profile",
+      "lady avatar",
+      "user woman",
+      "woman icon"
+    ]
+  },
+  "bitcoin": {
+    "name": "Bitcoin",
+    "mediaKey": "63a6fa48-3675-48e8-b48a-a9857df21648",
+    "keys": [
+      "біткоін",
+      "біткойн",
+      "крипта",
+      "сатоші",
+      "bitcoin",
+      "bitcoin logo",
+      "btc"
+    ]
+  },
+  "bnb": {
+    "name": "Bnb",
+    "mediaKey": "bc99d0d4-e648-4234-9f1a-ca0292b7dc11",
+    "keys": [
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "монета",
+      "токен",
+      "blockchain",
+      "bnb",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "token"
+    ]
+  },
+  "bookmark": {
+    "name": "Закладка",
+    "mediaKey": "d9d991ee-4fb1-4cc7-9686-6bbda3b07f85",
+    "keys": [
+      "🔖",
+      "боокмарк",
+      "закладка",
+      "стрічка",
+      "bookmark",
+      "bookmark icon",
+      "save"
+    ]
+  },
+  "button": {
+    "name": "Кнопка",
+    "mediaKey": "b139dc07-afb1-403c-bf5d-2bba4971d8c6",
+    "keys": [
+      "батон",
+      "кнопка",
+      "кнопочка",
+      "button",
+      "ui button"
+    ]
+  },
+  "cardano": {
+    "name": "Cardano",
+    "mediaKey": "a22c796f-672e-4bfa-8182-fd336f3744f5",
+    "keys": [
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "монета",
+      "токен",
+      "blockchain",
+      "cardano",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "token"
+    ]
+  },
+  "caretdown": {
+    "name": "Каретка вниз",
+    "mediaKey": "9a65bac0-ad9f-4ef8-b4d7-2cca3a1d2587",
+    "keys": [
+      "▼",
+      "каретка вниз",
+      "стрілка вниз",
+      "arrow down",
+      "caret down",
+      "caretdown",
+      "dropdown",
+      "expand",
+      "scroll down"
+    ]
+  },
+  "caretleft": {
+    "name": "Каретка вліво",
+    "mediaKey": "72123443-bd5f-4bad-81dc-94bebf1e6b58",
+    "keys": [
+      "◀",
+      "каретка вліво",
+      "стрілка вліво",
+      "back caret",
+      "caret left",
+      "caretleft",
+      "left icon",
+      "navigate left",
+      "prev arrow"
+    ]
+  },
+  "caretright": {
+    "name": "Каретка вправо",
+    "mediaKey": "22e994c6-25d8-4a66-b44c-b481708fab7b",
+    "keys": [
+      "▶",
+      "каретка вправо",
+      "стрілка вправо",
+      "caret right",
+      "caretright",
+      "forward caret",
+      "navigate right",
+      "next arrow",
+      "right icon"
+    ]
+  },
+  "caretup": {
+    "name": "Каретка вгору",
+    "mediaKey": "ee8e9a77-c350-49b4-be7b-5ef4d9772fa4",
+    "keys": [
+      "▲",
+      "каретка вгору",
+      "стрілка вгору",
+      "caret up",
+      "caretup",
+      "collapse",
+      "expand less",
+      "scroll up",
+      "up arrow"
+    ]
+  },
+  "check": {
+    "name": "Галочка",
+    "mediaKey": "9ae25dbf-fe17-4576-ad77-1db792cd26da",
+    "keys": [
+      "галочка",
+      "перевірити",
+      "чекк",
+      "check",
+      "check mark",
+      "done"
+    ]
+  },
+  "checkbox": {
+    "name": "Прапорець",
+    "mediaKey": "f9f1c8b2-27da-4b0b-bd81-2d4b11ca6723",
+    "keys": [
+      "галочка поле",
+      "прапорець",
+      "чекбокс",
+      "чеккбокс",
+      "checkbox",
+      "checkbox input",
+      "option box"
+    ]
+  },
+  "circle": {
+    "name": "Коло",
+    "mediaKey": "100f35cd-e44f-40ff-ba5d-36b610d5e8cd",
+    "keys": [
+      "кіркле",
+      "коло",
+      "окружність",
+      "circle",
+      "circle shape",
+      "round"
+    ]
+  },
+  "close": {
+    "name": "Закрити",
+    "mediaKey": "9da4c55e-55fe-48d6-9fac-b3a7a0c8296b",
+    "keys": [
+      "закрий",
+      "закрити",
+      "закрыть",
+      "cancel",
+      "close",
+      "close button",
+      "stop",
+      "x icon"
+    ]
+  },
+  "color": {
+    "name": "Колір",
+    "mediaKey": "03cb3d15-0cf3-4297-8118-91ef09217d1e",
+    "keys": [
+      "колір",
+      "колор",
+      "хроматика",
+      "color",
+      "color picker",
+      "palette"
+    ]
+  },
+  "compress": {
+    "name": "Стиснути",
+    "mediaKey": "489054bc-d808-4b90-90c4-8c65dd2f04ef",
+    "keys": [
+      "архівувати",
+      "зжати",
+      "мінімізувати",
+      "стиснути",
+      "compress",
+      "compression",
+      "pack",
+      "zip"
+    ]
+  },
+  "currency": {
+    "name": "Валюта",
+    "mediaKey": "b5cec081-7d68-4cba-9b3c-3ac4447347b9",
+    "keys": [
+      "💱",
+      "валюта",
+      "курренкй",
+      "currency",
+      "currency symbol",
+      "fx",
+      "money"
+    ]
+  },
+  "date": {
+    "name": "Дата",
+    "mediaKey": "3a4c5b12-fa5a-49cc-a989-76309802f62d",
+    "keys": [
+      "дата",
+      "число",
+      "calendar day",
+      "date",
+      "entry",
+      "schedule",
+      "timestamp",
+      "today"
+    ]
+  },
+  "datetime": {
+    "name": "Дата й час",
+    "mediaKey": "013618cf-0b96-4bb3-acb2-7c171e794ca3",
+    "keys": [
+      "дата і час",
+      "дата й час",
+      "календар та годинник",
+      "date time",
+      "datetime",
+      "time stamp",
+      "timestamp"
+    ]
+  },
+  "discover": {
+    "name": "Відкрити",
+    "mediaKey": "3c2e2b58-405d-428c-9720-46f0624270dc",
+    "keys": [
+      "відкривати",
+      "відкриття",
+      "дослідити",
+      "знайти",
+      "нове",
+      "discover",
+      "explore",
+      "insight",
+      "search"
+    ]
+  },
+  "dogecoin": {
+    "name": "Dogecoin",
+    "mediaKey": "066824d3-fc7d-428c-aa2b-66ff234d6fda",
+    "keys": [
+      "доґекоін",
+      "доджкойн",
+      "крипта doge",
+      "криптовалюта",
+      "crypto doge",
+      "crypto shiba",
+      "doge coin",
+      "doge meme coin",
+      "doge token",
+      "dogecoin",
+      "dogecoin icon",
+      "dogecoin logo",
+      "dogecoin symbol",
+      "internet meme coin",
+      "meme coin",
+      "shiba coin"
+    ]
+  },
+  "dollar": {
+    "name": "Долар",
+    "mediaKey": "c6b12886-2404-424e-9d18-95e9c3c988f0",
+    "keys": [
+      "американський долар",
+      "валюта",
+      "долар",
+      "доллар",
+      "зелена валюта",
+      "bucks",
+      "currency",
+      "dollar",
+      "dollar bill",
+      "dollar cash",
+      "dollar icon",
+      "dollar money",
+      "dollar sign",
+      "greenback",
+      "usd",
+      "usd currency"
+    ]
+  },
+  "down": {
+    "name": "Вниз",
+    "mediaKey": "8b461ca1-9057-4170-9354-57e3271fb8a8",
+    "keys": [
+      "вниз",
+      "довн",
+      "опустити",
+      "рух донизу",
+      "стрілка вниз",
+      "arrow downwards",
+      "descending arrow",
+      "down",
+      "down arrow",
+      "down direction",
+      "down icon",
+      "down swipe",
+      "download arrow",
+      "downward",
+      "move down",
+      "scroll down"
+    ]
+  },
+  "download": {
+    "name": "Завантажити",
+    "mediaKey": "573cc6d1-272e-4bba-9f7b-0ab9383d032b",
+    "keys": [
+      "довнлоад",
+      "завантаження",
+      "завантажити",
+      "завантажити файл",
+      "cloud download",
+      "download",
+      "download arrow",
+      "download button",
+      "download data",
+      "download file",
+      "download icon",
+      "file download",
+      "import file",
+      "save arrow",
+      "save file",
+      "save offline"
+    ]
+  },
+  "downloadcloud": {
+    "name": "Хмарне завантаження",
+    "mediaKey": "cfc7153f-bdf0-4c7d-9f9b-5bbc387cb006",
+    "keys": [
+      "завантаження з хмари",
+      "завантажити з хмари",
+      "отримати файл",
+      "cloud arrow",
+      "cloud download",
+      "download from cloud",
+      "downloadcloud",
+      "sync download"
+    ]
+  },
+  "draghandle": {
+    "name": "Ручка перетягування",
+    "mediaKey": "7453e664-e058-48be-9277-9237bc635993",
+    "keys": [
+      "перетягни тут",
+      "ручка перетягування",
+      "drag handle",
+      "draghandle",
+      "grab handle",
+      "move grip",
+      "UI хват"
+    ]
+  },
+  "email": {
+    "name": "Пошта",
+    "mediaKey": "a554e221-3dae-42ae-a005-82c6ead06567",
+    "keys": [
+      "електронна пошта",
+      "емейл",
+      "лист",
+      "мило",
+      "повідомлення",
+      "пошта",
+      "e-mail",
+      "email",
+      "inbox",
+      "mail",
+      "send mail"
+    ]
+  },
+  "ethereum": {
+    "name": "Ethereum",
+    "mediaKey": "994f199a-875a-4a7a-bbf4-51ebc90f414a",
+    "keys": [
+      "етереум",
+      "ефіріум",
+      "криптовалюта",
+      "defi chain",
+      "eth",
+      "eth coin",
+      "eth logo",
+      "ether",
+      "ether token",
+      "ethereum",
+      "ethereum blockchain",
+      "ethereum crypto",
+      "ethereum logo",
+      "ethereum network",
+      "smart contract",
+      "smart contracts platform"
+    ]
+  },
+  "euro": {
+    "name": "Євро",
+    "mediaKey": "cb4ace3a-ffbe-45cd-8558-88d6d734c7d1",
+    "keys": [
+      "€",
+      "валюта євро",
+      "гроші",
+      "еуро",
+      "євро",
+      "євро знак",
+      "EU currency",
+      "eur",
+      "euro",
+      "euro bill",
+      "euro cash",
+      "euro coins",
+      "euro icon",
+      "euro money",
+      "european currency",
+      "eurozone"
+    ]
+  },
+  "expand": {
+    "name": "Розгорнути",
+    "mediaKey": "34a6e1ad-b6ec-43a3-91ca-80ff3ada4250",
+    "keys": [
+      "експанд",
+      "збільшити",
+      "розгорнути",
+      "розширити",
+      "expand",
+      "expand arrows",
+      "expand arrows icon",
+      "expand icon",
+      "expand layout",
+      "expand view",
+      "expand window",
+      "full screen",
+      "fullscreen",
+      "grow area",
+      "maximize",
+      "open wider"
+    ]
+  },
+  "export": {
+    "name": "Експорт",
+    "mediaKey": "030c4f18-d8dd-42a0-9f5f-36a20b4fedc6",
+    "keys": [
+      "вивіз",
+      "експорт",
+      "експортувати",
+      "зберегти файл",
+      "data export",
+      "export",
+      "export arrow",
+      "export csv",
+      "export data",
+      "export document",
+      "export file",
+      "export goods",
+      "export icon",
+      "send out data",
+      "shipment",
+      "shipping abroad"
+    ]
+  },
+  "eye": {
+    "name": "Око",
+    "mediaKey": "a083d17e-5f0c-47ce-bb46-3df6ee9ef698",
+    "keys": [
+      "👁️",
+      "глянути",
+      "еє",
+      "око",
+      "перегляд",
+      "eye",
+      "eye icon",
+      "eye open",
+      "preview",
+      "see",
+      "show password",
+      "view",
+      "view icon",
+      "visibility",
+      "watch",
+      "watching"
+    ]
+  },
+  "eyeclosed": {
+    "name": "Закриті очі",
+    "mediaKey": "de646ed3-fbb8-42ee-8a47-1c348505f87d",
+    "keys": [
+      "закрите око",
+      "заплющене",
+      "eye closed",
+      "eyeclosed",
+      "resting eye",
+      "shut eye",
+      "sleepy eye"
+    ]
+  },
+  "facebook": {
+    "name": "Facebook",
+    "mediaKey": "2b0693ec-ea14-491d-a891-371e95c5317d",
+    "keys": [
+      "соцмережа",
+      "факебоок",
+      "facebook",
+      "Facebook",
+      "facebook app",
+      "facebook blue",
+      "facebook feed",
+      "facebook icon",
+      "facebook logo",
+      "facebook social network",
+      "facebook timeline",
+      "fb",
+      "fb platform",
+      "fb social",
+      "meta",
+      "meta app"
+    ]
+  },
+  "fastforward": {
+    "name": "Прискорене перемотування",
+    "mediaKey": "ae866e26-7f89-4d14-84fb-b86650c20d48",
+    "keys": [
+      ">>",
+      "перемотка",
+      "прискорення",
+      "швидко вперед",
+      "fast forward",
+      "fastforward",
+      "ffwd",
+      "media control",
+      "skip ahead"
+    ]
+  },
+  "file": {
+    "name": "Файл",
+    "mediaKey": "87a0191c-fcc9-4d07-a2b3-5f8ab384e310",
+    "keys": [
+      "файл",
+      "філе",
+      "data file",
+      "digital file",
+      "document file",
+      "file",
+      "file document",
+      "file entry",
+      "file icon",
+      "file item",
+      "file record"
+    ]
+  },
+  "fileaudio": {
+    "name": "Аудіофайл",
+    "mediaKey": "d8c8b886-ac66-456f-a556-53c5e19d980a",
+    "keys": [
+      "аудіофайл",
+      "звукозапис",
+      "audio file",
+      "file audio",
+      "fileaudio",
+      "music document",
+      "sound file"
+    ]
+  },
+  "filedoc": {
+    "name": "Файл DOC",
+    "mediaKey": "830739e1-5470-4b5c-860b-23770faed2c0",
+    "keys": [
+      "документ",
+      "текстовий документ",
+      "файл doc",
+      "document icon",
+      "file doc",
+      "filedoc",
+      "word file"
+    ]
+  },
+  "fileimage": {
+    "name": "Файл зображення",
+    "mediaKey": "a3e1b503-7501-4180-a462-2e592bc98ab7",
+    "keys": [
+      "зображення",
+      "файл зображення",
+      "фотофайл",
+      "file image",
+      "fileimage",
+      "image file",
+      "photo icon",
+      "picture doc"
+    ]
+  },
+  "filepdf": {
+    "name": "Файл PDF",
+    "mediaKey": "cfab408e-0683-4f38-89d7-22f8ddd5fabf",
+    "keys": [
+      "документ pdf",
+      "файл pdf",
+      "acrobat",
+      "file pdf",
+      "filepdf",
+      "pdf файл",
+      "pdf icon",
+      "portable document"
+    ]
+  },
+  "filevideo": {
+    "name": "Відеофайл",
+    "mediaKey": "2e8bb5ad-d5e0-48f0-b8f1-61e22776e7d1",
+    "keys": [
+      "відео документ",
+      "відеофайл",
+      "clip icon",
+      "file video",
+      "filevideo",
+      "movie file",
+      "video file"
+    ]
+  },
+  "flag": {
+    "name": "Прапор",
+    "mediaKey": "d348dd7d-45b2-4b0b-b0a5-0215ceeaab7b",
+    "keys": [
+      "🚩",
+      "прапор",
+      "прапорець",
+      "флаґ",
+      "banner",
+      "bookmark flag",
+      "country flag",
+      "flag",
+      "flag icon",
+      "marker",
+      "national flag"
+    ]
+  },
+  "folder": {
+    "name": "Папка",
+    "mediaKey": "fe2228ed-a805-4b5c-b77b-1bf6f16cd4da",
+    "keys": [
+      "директорія",
+      "каталог",
+      "папка файлів",
+      "папку",
+      "фолдер",
+      "file folder",
+      "folder",
+      "folder icon",
+      "folder yellow"
+    ]
+  },
+  "franc": {
+    "name": "Франк",
+    "mediaKey": "e0b2e07b-61cd-4ac7-b090-d555b03a0ed6",
+    "keys": [
+      "валюта франк",
+      "франк",
+      "CFP",
+      "franc",
+      "franc currency",
+      "franc icon",
+      "Swiss franc"
+    ]
+  },
+  "github": {
+    "name": "GitHub",
+    "mediaKey": "0c3c856e-db1f-4246-9d10-35801426dd48",
+    "keys": [
+      "ґітуб",
+      "code hosting",
+      "github",
+      "GitHub",
+      "github icon",
+      "github repo",
+      "octocat"
+    ]
+  },
+  "google": {
+    "name": "Google",
+    "mediaKey": "3d0db133-ef26-441f-82a3-38a7ac721af1",
+    "keys": [
+      "ґооґле",
+      "alphabet",
+      "google",
+      "Google",
+      "google app",
+      "google logo",
+      "search engine"
+    ]
+  },
+  "group": {
+    "name": "Група",
+    "mediaKey": "3dd2fded-61e3-4edd-805b-54824412042f",
+    "keys": [
+      "група",
+      "ґроуп",
+      "команда",
+      "community",
+      "group",
+      "group icon",
+      "team"
+    ]
+  },
+  "happy": {
+    "name": "Усмішка",
+    "mediaKey": "8bb545bc-b516-44da-b8ad-7f0e67ab50a5",
+    "keys": [
+      "😊",
+      "хаппй",
+      "щасливий",
+      "happy",
+      "happy mood",
+      "joy",
+      "smile"
+    ]
+  },
+  "heart": {
+    "name": "Серце",
+    "mediaKey": "3fe06ec1-31cd-4a80-b588-b8777f7e2667",
+    "keys": [
+      "❤️",
+      "кохання",
+      "серце",
+      "хеарт",
+      "heart",
+      "heart icon",
+      "love"
+    ]
+  },
+  "help": {
+    "name": "Допомога",
+    "mediaKey": "48f69865-a9ba-4b50-a8e1-181d25ade263",
+    "keys": [
+      "допомога",
+      "допомогти",
+      "хелп",
+      "aid",
+      "help",
+      "help icon",
+      "support"
+    ]
+  },
+  "hidden": {
+    "name": "Приховано",
+    "mediaKey": "2c0d345b-ab1d-4909-836a-8c9ebc423d4e",
+    "keys": [
+      "невидиме",
+      "прихований",
+      "приховано",
+      "секрет",
+      "сховано",
+      "concealed",
+      "hidden",
+      "hide",
+      "invisible",
+      "stealth"
+    ]
+  },
+  "info": {
+    "name": "Інформація",
+    "mediaKey": "b260e467-8294-4589-8e4d-3339932c124b",
+    "keys": [
+      "інфо",
+      "інформація",
+      "details",
+      "ℹ️",
+      "info",
+      "info icon",
+      "information"
+    ]
+  },
+  "instagram": {
+    "name": "Instagram",
+    "mediaKey": "da802fde-ce51-48e1-a6b9-458905d48370",
+    "keys": [
+      "інста",
+      "інстаґрам",
+      "ig",
+      "instagram",
+      "Instagram",
+      "instagram logo",
+      "instagram stories"
+    ]
+  },
+  "krona": {
+    "name": "Крона",
+    "mediaKey": "8a7f59a9-dc3f-4c52-96d4-daadbead62c7",
+    "keys": [
+      "валюта",
+      "крона",
+      "норвезька крона",
+      "шведська валюта",
+      "currency",
+      "iceland krona",
+      "krona",
+      "money"
+    ]
+  },
+  "left": {
+    "name": "Вліво",
+    "mediaKey": "de138d7b-013a-4fb1-9d01-ebeae169983a",
+    "keys": [
+      "←",
+      "зліва",
+      "лефт",
+      "ліва сторона",
+      "лівий бік",
+      "лівий напрямок",
+      "arrow left",
+      "left",
+      "left arrow",
+      "west"
+    ]
+  },
+  "link": {
+    "name": "Посилання",
+    "mediaKey": "2607347b-a240-4581-addf-564af08c224a",
+    "keys": [
+      "гіперпосилання",
+      "зв'язок",
+      "лінк",
+      "посилання",
+      "chain",
+      "hyperlink",
+      "link",
+      "link icon",
+      "url",
+      "url-адреса"
+    ]
+  },
+  "linkedin": {
+    "name": "LinkedIn",
+    "mediaKey": "f037d71d-4a3f-4915-8d31-ab709a9f6e38",
+    "keys": [
+      "кар'єрна мережа LinkedIn",
+      "лінкедін",
+      "професійна мережа LinkedIn",
+      "job network",
+      "linkedin",
+      "LinkedIn",
+      "linkedin icon",
+      "linkedin profile",
+      "professional network"
+    ]
+  },
+  "linkexternal": {
+    "name": "Зовнішнє посилання",
+    "mediaKey": "225f1de2-cee9-4c24-afd6-9db43266c759",
+    "keys": [
+      "відкрити нове вікно",
+      "відкрити у браузері",
+      "зовнішнє посилання",
+      "external link",
+      "hyperlink",
+      "internet",
+      "link out",
+      "linkexternal"
+    ]
+  },
+  "lira": {
+    "name": "Ліра",
+    "mediaKey": "81ecbd0d-e102-400c-950a-a36f0ed1217e",
+    "keys": [
+      "₺",
+      "італійська ліра",
+      "ліра",
+      "турецька ліра",
+      "currency lira",
+      "italian currency",
+      "lira",
+      "turkish money"
+    ]
+  },
+  "list": {
+    "name": "Список",
+    "mediaKey": "6a976047-ae65-469b-ad7b-0efa963e5088",
+    "keys": [
+      "каталог",
+      "ліст",
+      "перелік",
+      "список",
+      "bulleted list",
+      "enumeration",
+      "list",
+      "listing",
+      "todo list"
+    ]
+  },
+  "mastercard": {
+    "name": "Mastercard",
+    "mediaKey": "80fdc65e-071b-4cdc-9ee4-2b988cb334a4",
+    "keys": [
+      "кредитка Mastercard",
+      "мастеркард",
+      "платіжна карта",
+      "mastercard",
+      "Mastercard",
+      "Mastercard logo"
+    ]
+  },
+  "medium": {
+    "name": "Medium",
+    "mediaKey": "72cfd778-be4c-47a2-8845-c7ec763a6f72",
+    "keys": [
+      "медіум",
+      "середній",
+      "середній рівень",
+      "medium",
+      "Medium",
+      "Medium blog",
+      "medium size",
+      "mid tier"
+    ]
+  },
+  "megaphone": {
+    "name": "Мегафон",
+    "mediaKey": "30cadd45-348f-4ab0-a553-95a7f24eb4e9",
+    "keys": [
+      "гучномовець",
+      "мегапон",
+      "мегафон",
+      "оголошення",
+      "реклама",
+      "announcement",
+      "loudspeaker",
+      "megaphone",
+      "promo",
+      "speaker"
+    ]
+  },
+  "minimize": {
+    "name": "Згорнути",
+    "mediaKey": "0e9e44a8-9e0e-4d2f-afd9-ea858b9425ff",
+    "keys": [
+      "згорнути",
+      "зменшити до іконки",
+      "мінімізе",
+      "мінімізувати",
+      "minimize",
+      "minimize window"
+    ]
+  },
+  "month": {
+    "name": "Місяць",
+    "mediaKey": "c5a1bc49-8ff3-4fd0-af4b-74dc8bf46293",
+    "keys": [
+      "календарний місяць",
+      "місяць",
+      "місяць року",
+      "монт",
+      "month",
+      "month icon"
+    ]
+  },
+  "multicurrency": {
+    "name": "Багатовалютність",
+    "mediaKey": "8be701f2-facb-49ed-9040-1929f27665a6",
+    "keys": [
+      "багатовалютний",
+      "банк",
+      "кошики",
+      "мультивалюта",
+      "обмін валют",
+      "fx",
+      "global money",
+      "multicurrency",
+      "travel card"
+    ]
+  },
+  "number": {
+    "name": "Число",
+    "mediaKey": "786d6dad-41bd-49ee-a26a-fecf0e685c5d",
+    "keys": [
+      "номер",
+      "номерок",
+      "нумбер",
+      "цифра",
+      "digit",
+      "number"
+    ]
+  },
+  "open": {
+    "name": "Відкрити",
+    "mediaKey": "a62c0af2-0bab-4443-b4c3-6346aaa258ed",
+    "keys": [
+      "відкрити",
+      "відкритий",
+      "опен",
+      "open",
+      "open icon",
+      "open state"
+    ]
+  },
+  "password": {
+    "name": "Пароль",
+    "mediaKey": "cc9709c5-a315-4381-b143-601c57e9e3fa",
+    "keys": [
+      "пароль",
+      "пассворд",
+      "секретний код",
+      "passcode",
+      "password",
+      "password field"
+    ]
+  },
+  "pause": {
+    "name": "Пауза",
+    "mediaKey": "a70d6ad7-9fce-4485-9b68-b6dad7a0ae6d",
+    "keys": [
+      "⏸️",
+      "пауза",
+      "паусе",
+      "призупинити",
+      "pause",
+      "pause icon"
+    ]
+  },
+  "paypal": {
+    "name": "PayPal",
+    "mediaKey": "f98b7449-30c6-490d-8f54-4dd10984552b",
+    "keys": [
+      "електронна оплата",
+      "пайпал",
+      "paypal",
+      "PayPal",
+      "PayPal logo",
+      "paypal wallet"
+    ]
+  },
+  "people": {
+    "name": "People",
+    "mediaKey": "c76f457a-cd11-48f5-b258-cb1a432f47e0",
+    "keys": [
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "монета",
+      "токен",
+      "blockchain",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "people",
+      "token"
+    ]
+  },
+  "peso": {
+    "name": "Песо",
+    "mediaKey": "2260ab78-a7a9-44e6-9ff9-ed70414b01d0",
+    "keys": [
+      "песо",
+      "песо валюта",
+      "MXN",
+      "peso",
+      "peso money"
+    ]
+  },
+  "pinterest": {
+    "name": "Pinterest",
+    "mediaKey": "ad99f17e-8c50-4471-9af9-bcbc0ec597c2",
+    "keys": [
+      "пінтерест",
+      "pinboard",
+      "pinterest",
+      "Pinterest",
+      "pinterest app",
+      "Pinterest logo"
+    ]
+  },
+  "play": {
+    "name": "Грати",
+    "mediaKey": "f1471b85-bbe8-4ada-b233-487a1c2c9f76",
+    "keys": [
+      "▶️",
+      "грати",
+      "плай",
+      "play",
+      "play button"
+    ]
+  },
+  "playcircle": {
+    "name": "Кнопка відтворення в колі",
+    "mediaKey": "f278a953-0bc0-4067-99ba-5f6de44bcec0",
+    "keys": [
+      "відтворити",
+      "кнопка відтворення",
+      "кнопка відтворення в колі",
+      "трикутник у колі",
+      "play",
+      "play circle",
+      "playcircle",
+      "start video"
+    ]
+  },
+  "pound": {
+    "name": "Фунт",
+    "mediaKey": "2cc536fb-61f0-4fe0-937e-fc240624794d",
+    "keys": [
+      "£",
+      "поунд",
+      "фунт",
+      "pound",
+      "pound sterling"
+    ]
+  },
+  "radio": {
+    "name": "Радіо",
+    "mediaKey": "0ba53c99-e703-4a2f-96ed-a9a2d8208800",
+    "keys": [
+      "радіо",
+      "FM",
+      "radio",
+      "radio waves"
+    ]
+  },
+  "range": {
+    "name": "Range",
+    "mediaKey": "31a91871-2f27-45b1-a4bc-87f3741f9767",
+    "keys": [
+      "вибірка",
+      "діапазон",
+      "coverage",
+      "range",
+      "range finder",
+      "range icon",
+      "scope",
+      "span"
+    ]
+  },
+  "reddit": {
+    "name": "Reddit",
+    "mediaKey": "b6d3eded-1bda-4fd4-9d0d-3ee4edcb15e7",
+    "keys": [
+      "реддіт",
+      "reddit",
+      "Reddit",
+      "reddit alien",
+      "Reddit logo"
+    ]
+  },
+  "refresh": {
+    "name": "Оновити",
+    "mediaKey": "dcf51594-78b5-40fc-8df5-893568936c31",
+    "keys": [
+      "оновити",
+      "рефреш",
+      "refresh",
+      "refresh icon",
+      "reload"
+    ]
+  },
+  "reorder": {
+    "name": "Змінити порядок",
+    "mediaKey": "5677abf9-4a9a-4bed-b51f-59f7a7751131",
+    "keys": [
+      "змінити",
+      "змінити порядок",
+      "перевпорядкувати",
+      "порядок",
+      "реордер",
+      "drag reorder",
+      "reorder",
+      "sort order"
+    ]
+  },
+  "repeater": {
+    "name": "Повторювач",
+    "mediaKey": "8e6090ad-0285-434b-96a0-0ea27339c555",
+    "keys": [
+      "ретранслятор",
+      "repeater"
+    ]
+  },
+  "reply": {
+    "name": "Відповісти",
+    "mediaKey": "a057343c-4b5b-4802-8fb6-caba085d0fd3",
+    "keys": [
+      "відповісти",
+      "реплй",
+      "answer",
+      "reply",
+      "reply arrow"
+    ]
+  },
+  "rewind": {
+    "name": "Перемотати назад",
+    "mediaKey": "300826e6-fd97-4460-88eb-e10432e83d1c",
+    "keys": [
+      "⏪",
+      "назад",
+      "перемотати назад",
+      "перемотування",
+      "перемотування назад",
+      "ревінд",
+      "rewind",
+      "rewind icon"
+    ]
+  },
+  "right": {
+    "name": "Вправо",
+    "mediaKey": "b2972622-8ccb-4d02-b6d1-5d92da042dde",
+    "keys": [
+      "правильно",
+      "праворуч",
+      "ріґхт",
+      "correct",
+      "right",
+      "right arrow"
+    ]
+  },
+  "ruble": {
+    "name": "Рубль",
+    "mediaKey": "973de20e-2de1-48e0-a360-9a4c23ec313b",
+    "keys": [
+      "₽",
+      "валюта",
+      "російські гроші",
+      "рубль",
+      "currency",
+      "money",
+      "rub",
+      "ruble",
+      "russian ruble"
+    ]
+  },
+  "rupee": {
+    "name": "Рупія",
+    "mediaKey": "7805d515-8647-4b10-ba19-850c96269931",
+    "keys": [
+      "₹",
+      "індійська рупія",
+      "рупее",
+      "рупія",
+      "INR",
+      "rupee"
+    ]
+  },
+  "sad": {
+    "name": "Сум",
+    "mediaKey": "825615f3-1188-4f3f-b3dd-9ee59a51bdcb",
+    "keys": [
+      "☹️",
+      "сад",
+      "сум",
+      "сумний",
+      "sad",
+      "sad face"
+    ]
+  },
+  "search": {
+    "name": "Пошук",
+    "mediaKey": "f23b9040-bf46-42f9-a757-5fa3666dd6c0",
+    "keys": [
+      "лупа",
+      "пошук",
+      "сеарч",
+      "шукати",
+      "search"
+    ]
+  },
+  "select": {
+    "name": "Вибрати",
+    "mediaKey": "c6a46533-3cf3-4d39-88ff-db152b38ee27",
+    "keys": [
+      "вибір елемента",
+      "вибрати",
+      "виділити",
+      "відмітити",
+      "обрати",
+      "позначити",
+      "селект",
+      "choose",
+      "highlight",
+      "pick",
+      "select",
+      "select option"
+    ]
+  },
+  "settings": {
+    "name": "Налаштування",
+    "mediaKey": "02ff6116-223a-4cd0-9058-9ac109caf321",
+    "keys": [
+      "⚙️",
+      "конфігурація",
+      "налаштування",
+      "налаштування системи",
+      "опції",
+      "параметри",
+      "установки",
+      "options",
+      "preferences",
+      "settings"
+    ]
+  },
+  "share": {
+    "name": "Поділ",
+    "mediaKey": "8afaa685-6ed8-4696-8530-8e804c990428",
+    "keys": [
+      "поділ",
+      "поділитися",
+      "поширити",
+      "поширити 🔗",
+      "розшарити",
+      "частка",
+      "шер",
+      "шерінг",
+      "distribute",
+      "share"
+    ]
+  },
+  "shekel": {
+    "name": "Шекель",
+    "mediaKey": "0d26167a-cd2a-494e-84f8-832a89b27c7a",
+    "keys": [
+      "ізраїльська валюта",
+      "ізраїльські гроші",
+      "новий шекель",
+      "шекел",
+      "шекель",
+      "ILS",
+      "NIS",
+      "shekel"
+    ]
+  },
+  "skype": {
+    "name": "Skype",
+    "mediaKey": "4d0c32ad-a9f5-427d-bf86-318ddae945cf",
+    "keys": [
+      "відеодзвінок",
+      "відеочат",
+      "месенджер",
+      "онлайн дзвінки",
+      "скайп",
+      "skype",
+      "Skype"
+    ]
+  },
+  "snapchat": {
+    "name": "Snapchat",
+    "mediaKey": "a7ec79fc-4a7f-43bb-a267-7cc17a0b3830",
+    "keys": [
+      "миттєві фото",
+      "снапчат",
+      "соцмережа Snapchat",
+      "сторіс",
+      "фільтри",
+      "snap",
+      "snapchat",
+      "Snapchat"
+    ]
+  },
+  "solana": {
+    "name": "Solana",
+    "mediaKey": "36cc5063-391a-4625-a899-b12f7887f63e",
+    "keys": [
+      "блокчейн Solana",
+      "дефі",
+      "криптовалюта SOL",
+      "мережа Solana",
+      "солана",
+      "crypto",
+      "SOL",
+      "solana",
+      "Solana"
+    ]
+  },
+  "spinner": {
+    "name": "Спінер",
+    "mediaKey": "84cd6f2a-3dae-4022-b7c0-3e788006abf2",
+    "keys": [
+      "індикатор завантаження",
+      "крутилка",
+      "спінер",
+      "fidget",
+      "loader",
+      "loading icon",
+      "spinner"
+    ]
+  },
+  "star": {
+    "name": "Зірка",
+    "mediaKey": "eee32e44-1a23-4561-9e6a-dd5db8d13ae7",
+    "keys": [
+      "⭐",
+      "відмітити",
+      "зірка",
+      "зоря",
+      "улюблене",
+      "favorite",
+      "star"
+    ]
+  },
+  "start": {
+    "name": "Start",
+    "mediaKey": "528ff2c8-203e-439f-aea0-a65c5cca38b5",
+    "keys": [
+      "запуск",
+      "поїхали",
+      "почати",
+      "початок",
+      "старт",
+      "go",
+      "launch",
+      "start"
+    ]
+  },
+  "stepback": {
+    "name": "Крок назад",
+    "mediaKey": "715f10ee-ecef-42ce-9f70-2799d36e0c09",
+    "keys": [
+      "відступ",
+      "крок назад",
+      "назад",
+      "step back",
+      "stepback",
+      "undo"
+    ]
+  },
+  "stepforward": {
+    "name": "Крок вперед",
+    "mediaKey": "ae25bd05-1d11-44c5-b3c5-9232b8feb512",
+    "keys": [
+      "вперед",
+      "далі",
+      "крок уперед",
+      "next",
+      "step forward",
+      "stepforward"
+    ]
+  },
+  "stop": {
+    "name": "Зупинити",
+    "mediaKey": "d0ed56a2-381a-46ee-b520-c20c6340268a",
+    "keys": [
+      "заборона",
+      "зупинити",
+      "зупинка",
+      "пауза",
+      "стоп",
+      "стопкадр",
+      "halt",
+      "stop"
+    ]
+  },
+  "stripe": {
+    "name": "Stripe",
+    "mediaKey": "695e52cf-0d86-4efa-970d-64e218f7b4d3",
+    "keys": [
+      "еквайринг",
+      "платежі",
+      "платіжний сервіс",
+      "смуга",
+      "payments",
+      "stripe",
+      "Stripe"
+    ]
+  },
+  "submit": {
+    "name": "Надіслати",
+    "mediaKey": "9d1716b9-246f-4048-b55a-33bb40c47df3",
+    "keys": [
+      "надіслати",
+      "submit"
+    ]
+  },
+  "table": {
+    "name": "Стіл",
+    "mediaKey": "9a6a38e4-5a56-44d5-8028-596d0e1083de",
+    "keys": [
+      "стіл",
+      "табела",
+      "таблиця",
+      "табличка",
+      "data table",
+      "desk",
+      "table"
+    ]
+  },
+  "tag": {
+    "name": "Тег",
+    "mediaKey": "34ef619d-d7b2-4613-a6d4-009b32548689",
+    "keys": [
+      "мітка",
+      "тег",
+      "хештег",
+      "ярлик",
+      "label",
+      "mark",
+      "tag"
+    ]
+  },
+  "telephone": {
+    "name": "Телефон",
+    "mediaKey": "3e0246bd-1771-463c-8f9b-7730896e0470",
+    "keys": [
+      "дзвінок",
+      "стаціонарний телефон",
+      "телефон",
+      "call",
+      "landline",
+      "phone",
+      "telephone",
+      "telephone icon"
+    ]
+  },
+  "tether": {
+    "name": "Tether",
+    "mediaKey": "b6d94aed-3cb4-4ddf-841d-74f3d62a8d10",
+    "keys": [
+      "криптовалюта",
+      "стейблкоїн",
+      "тезер",
+      "stablecoin",
+      "tether",
+      "Tether",
+      "USDT"
+    ]
+  },
+  "text": {
+    "name": "Текст",
+    "mediaKey": "a78a8597-a97f-43ac-84e2-cf86c5134c1a",
+    "keys": [
+      "абзац",
+      "копірайт",
+      "повідомлення",
+      "текст",
+      "content",
+      "copy",
+      "text"
+    ]
+  },
+  "textarea": {
+    "name": "Текстова область",
+    "mediaKey": "cc4af503-3586-4530-9634-1a107374c4be",
+    "keys": [
+      "поле вводу",
+      "текстова область",
+      "form textarea",
+      "input box",
+      "multi line input",
+      "text area",
+      "textarea",
+      "textarea icon"
+    ]
+  },
+  "tiktok": {
+    "name": "TikTok",
+    "mediaKey": "71156f65-59d5-403e-83c3-c6d83cfdf4e7",
+    "keys": [
+      "відеосервіс",
+      "короткі відео",
+      "тікток",
+      "reels",
+      "shorts",
+      "tiktok",
+      "Tiktok",
+      "TikTok"
+    ]
+  },
+  "time": {
+    "name": "Час",
+    "mediaKey": "2d5991ac-55e1-489b-a229-38d66703fd26",
+    "keys": [
+      "годинник",
+      "момент",
+      "таймер",
+      "час",
+      "часик",
+      "schedule",
+      "time"
+    ]
+  },
+  "tools": {
+    "name": "Інструменти",
+    "mediaKey": "a82ea406-f50f-497c-a7bc-1616868a94e7",
+    "keys": [
+      "інструментарій",
+      "інструменти",
+      "набір",
+      "утиліти",
+      "toolkit",
+      "tools",
+      "utilities"
+    ]
+  },
+  "trash": {
+    "name": "Сміття",
+    "mediaKey": "92d8b7f6-015f-4222-b0bb-87afe30114eb",
+    "keys": [
+      "видалити",
+      "корзина",
+      "кошик",
+      "сміття",
+      "bin",
+      "delete",
+      "trash"
+    ]
+  },
+  "twitter": {
+    "name": "Twitter",
+    "mediaKey": "5c908c80-e142-4966-aaaa-949b8128be9c",
+    "keys": [
+      "соцмережа",
+      "твіти",
+      "microblog",
+      "tweet",
+      "twitter",
+      "Twitter",
+      "X"
+    ]
+  },
+  "unit": {
+    "name": "Одиниця",
+    "mediaKey": "4126b41f-986b-4a66-81fe-d2d49c0ab618",
+    "keys": [
+      "модуль",
+      "одиниця",
+      "component",
+      "unit",
+      "unit ресурс",
+      "unit block",
+      "unit icon",
+      "unit measure"
+    ]
+  },
+  "up": {
+    "name": "Вгору",
+    "mediaKey": "cc38e0e1-c0ce-4596-adaa-ef19de1025f8",
+    "keys": [
+      "ап",
+      "вгору",
+      "верх",
+      "підняти",
+      "arrow up",
+      "boost",
+      "up"
+    ]
+  },
+  "upload": {
+    "name": "Завантажити",
+    "mediaKey": "7d2c4651-3d0c-4fc0-b11a-8053b99d0d8a",
+    "keys": [
+      "аплоад",
+      "відправити файл",
+      "завантаження",
+      "завантажити",
+      "залити",
+      "send file",
+      "upload"
+    ]
+  },
+  "uploadcloud": {
+    "name": "Хмарне завантаження",
+    "mediaKey": "304893ef-f5a0-462b-84c9-5edbe89729ae",
+    "keys": [
+      "аплоуд",
+      "завантажити до хмари",
+      "завантажити у хмару",
+      "cloud",
+      "upload",
+      "uploadcloud"
+    ]
+  },
+  "url": {
+    "name": "URL",
+    "mediaKey": "483a92be-09e7-4634-bc5e-c954efb08085",
+    "keys": [
+      "посилання",
+      "http url",
+      "link",
+      "uniform resource locator",
+      "url",
+      "URL",
+      "url адреса",
+      "web address"
+    ]
+  },
+  "usdc": {
+    "name": "Usdc",
+    "mediaKey": "365fe214-d379-4f19-b359-b703ac63a07c",
+    "keys": [
+      "альта",
+      "блокчейн",
+      "валюта",
+      "коін",
+      "крипта",
+      "криптовалюта",
+      "монета",
+      "токен",
+      "blockchain",
+      "coin",
+      "crypto",
+      "cryptocurrency",
+      "token",
+      "usdc"
+    ]
+  },
+  "vimeo": {
+    "name": "Vimeo",
+    "mediaKey": "ab564ca6-9858-41e6-8d36-f1ddd4a5906e",
+    "keys": [
+      "відео для бізнесу",
+      "відеохостинг",
+      "вімео",
+      "stream",
+      "video platform",
+      "vimeo",
+      "Vimeo"
+    ]
+  },
+  "visa": {
+    "name": "Visa",
+    "mediaKey": "384c2d79-0b4a-455d-8d2c-8586b5001ebd",
+    "keys": [
+      "віза",
+      "дозвіл",
+      "подорож",
+      "credit card",
+      "travel document",
+      "visa",
+      "Visa",
+      "Visa карта"
+    ]
+  },
+  "volumedown": {
+    "name": "Зменшити гучність",
+    "mediaKey": "e661a9da-7d49-443a-b5af-ee590469c32e",
+    "keys": [
+      "зменшити гучність",
+      "volumedown"
+    ]
+  },
+  "volumeup": {
+    "name": "Збільшити гучність",
+    "mediaKey": "8cf7a09e-43cf-4bde-a74b-40027b3398a5",
+    "keys": [
+      "збільшити гучність",
+      "volumeup"
+    ]
+  },
+  "warning": {
+    "name": "Попередження",
+    "mediaKey": "f0f0f96c-8dfe-4ed4-bced-fc8823374c9b",
+    "keys": [
+      "застереження",
+      "попередження",
+      "увага",
+      "alert",
+      "danger",
+      "exclamation",
+      "warning",
+      "warning sign"
+    ]
+  },
+  "week": {
+    "name": "Тиждень",
+    "mediaKey": "43a44f88-8f96-43f0-be2c-ba33b63b223f",
+    "keys": [
+      "7 днів",
+      "календар",
+      "тиждень",
+      "тижневий",
+      "week",
+      "weekly",
+      "weektime"
+    ]
+  },
+  "whatsapp": {
+    "name": "WhatsApp",
+    "mediaKey": "e6afad45-73a4-4f21-911b-6c42dd7a015c",
+    "keys": [
+      "ватсап",
+      "дзвінки",
+      "месенджер",
+      "чат",
+      "WA",
+      "whatsapp",
+      "WhatsApp"
+    ]
+  },
+  "won": {
+    "name": "Вона",
+    "mediaKey": "d3d1069b-e5ad-4057-93bd-7643caa3debc",
+    "keys": [
+      "виграв",
+      "вон",
+      "корейська валюта",
+      "переміг",
+      "успіх",
+      "korean won",
+      "KRW",
+      "won"
+    ]
+  },
+  "wordpress": {
+    "name": "WordPress",
+    "mediaKey": "911a7b24-da14-4deb-935f-0032d4df9ca0",
+    "keys": [
+      "блог",
+      "вордпрес",
+      "CMS",
+      "site",
+      "wordpress",
+      "Wordpress",
+      "WordPress",
+      "wp"
+    ]
+  },
+  "yen": {
+    "name": "Єна",
+    "mediaKey": "fc11e09a-ecb5-4b7a-abbf-431c0cd3c2af",
+    "keys": [
+      "валюта Японії",
+      "гроші",
+      "єна",
+      "ієна",
+      "йена",
+      "currency",
+      "JPY",
+      "yen"
+    ]
+  },
+  "youtube": {
+    "name": "YouTube",
+    "mediaKey": "f7e42f24-4bec-48c1-b686-a680a50cd89d",
+    "keys": [
+      "відео",
+      "канал",
+      "стрім",
+      "ютуб",
+      "youtube",
+      "YouTube",
+      "yt"
+    ]
+  },
+  "yuan": {
+    "name": "Юань",
+    "mediaKey": "3862ed36-1d0c-43f2-8e3d-8e4239ace26d",
+    "keys": [
+      "валюта Китаю",
+      "китайський юань",
+      "ренмінбі",
+      "юань",
+      "CNY",
+      "currency",
+      "yuan"
+    ]
+  },
+  "zip": {
+    "name": "Формат ZIP",
+    "mediaKey": "8d2be5ed-d1ae-4547-9ed0-abfa395036cd",
+    "keys": [
+      "архів",
+      "блискавка",
+      "поштовий індекс",
+      "стиснення",
+      "zip",
+      "zip файл",
+      "zipper"
+    ]
+  }
+}

@@ -1,24 +1,26 @@
 {
   "slug": "a-close-up-of-a-glass-object-with-a-black-background-wuagrmegzmw",
+  "mediaKey": "43719615-46bd-494c-8039-22937bf42fa4",
   "name": "Макро скляного об'єкта на чорному тлі",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/a-close-up-of-a-glass-object-with-a-black-background-WUAGRMEgzMw",
+  "sourceName": "Unsplash",
   "authorName": "Planet Volumes",
   "authorUrl": "https://unsplash.com/@planetvolumes",
   "keys": [
-    "заставка",
-    "заставка екрану",
-    "фони",
-    "шпалери",
     "backgrounds",
     "screen saver",
     "screensaver",
     "wallpapers"
   ],
-  "tags": [],
+  "tags": [
+    "заставка",
+    "заставка екрану",
+    "фони",
+    "шпалери"
+  ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
   "tier": "plus",
-  "downloadSource": "downloads",
-  "sourceName": "Unsplash"
+  "downloadSource": "downloads"
 }

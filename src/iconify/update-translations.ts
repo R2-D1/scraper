@@ -3,12 +3,14 @@ import path from 'node:path';
 
 import {
   buildIconKeys,
+  buildIconMetadata,
   buildIconNames,
   collectIconTokens,
   collectNamePhrases,
   loadCollection,
-  writeIconKeysFile,
-  writeIconNamesFile,
+  readIconsFile,
+  removeLegacyIconFiles,
+  writeIconsFile,
 } from './collection-translations';
 import {
   TranslationStore,
@@ -22,6 +24,7 @@ import {
   MISSING_KEY_TRANSLATIONS_DIR,
   MISSING_NAME_TRANSLATIONS_DIR,
   MISSING_SYNONYMS_ROOT,
+  TAG_TRANSLATIONS_PATH,
 } from '../config/paths';
 
 type RefreshOptions = {
@@ -49,7 +52,7 @@ function showUsage(): void {
       '',
       'Параметри:',
       '  --collection, -c   Оновити лише вказану колекцію (можна вказати назву папки або значення з collection-meta.json).',
-      '  Без аргументів     Проходить по всіх колекціях у library/iconify та перегенеровує icon-names.json та icon-keys.json.',
+      '  Без аргументів     Проходить по всіх колекціях у library/iconify та перегенеровує icons.json з назвами й ключовими словами.',
     ].join('\n')
   );
 }
@@ -174,7 +177,7 @@ async function createTranslationStores(): Promise<TranslationStores> {
       normalizeValue: normalizeStringValue,
     }),
     TranslationStore.create<string>({
-      masterPath: path.join(ICON_TRANSLATIONS_ROOT, 'key-translations.json'),
+      masterPath: TAG_TRANSLATIONS_PATH,
       missingDir: MISSING_KEY_TRANSLATIONS_DIR,
       chunkSize: 1000,
       normalizeValue: normalizeStringValue,
@@ -207,10 +210,11 @@ async function refreshCollection(
   const phrases = collectNamePhrases(iconNames);
 
   const names = buildIconNames(phrases, stores.names);
-  await writeIconNamesFile(collection.absolutePath, names);
-
   const keys = buildIconKeys(iconBags, stores.keywords, stores.synonyms);
-  await writeIconKeysFile(collection.absolutePath, keys);
+  const previousIcons = await readIconsFile(collection.absolutePath);
+  const iconsFile = buildIconMetadata(iconNames, names, keys, previousIcons);
+  await writeIconsFile(collection.absolutePath, iconsFile);
+  await removeLegacyIconFiles(collection.absolutePath);
 
   return { icons: iconNames.length };
 }
@@ -268,7 +272,7 @@ async function main(): Promise<void> {
       console.log(`- ${collection.code} (${collection.dirName})`);
       const { icons } = await refreshCollection(collection, stores);
       totalIcons += icons;
-      console.log(`  ✔ Оновлено icon-names.json та icon-keys.json (${icons} іконок).`);
+      console.log(`  ✔ Оновлено icons.json (${icons} іконок).`);
     }
 
     await writeStoreBackups(stores);

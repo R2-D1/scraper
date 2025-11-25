@@ -1,18 +1,13 @@
 {
   "slug": "sun-in-the-sky-during-daytime-xulsf9lyevk",
+  "mediaKey": "55cc7069-82fa-4370-94b4-788e798de71f",
   "name": "Сонце в небі вдень",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/sun-in-the-sky-during-daytime-XUlsF9LYeVk",
+  "sourceName": "Unsplash",
   "authorName": "mymind",
   "authorUrl": "https://unsplash.com/@mymind",
   "keys": [
-    "градієнтний фон",
-    "експериментальний",
-    "колір",
-    "кольори",
-    "патерн",
-    "фон",
-    "шпалери",
     "abstract",
     "art",
     "background",
@@ -28,14 +23,22 @@
     "wallpaper"
   ],
   "tags": [
+    "градієнтний фон",
+    "експериментальний",
+    "колір",
+    "кольори",
+    "патерн",
+    "фон",
+    "шпалери",
     "абстракція",
-    "текстура",
     "мистецтво",
     "синій",
+    "дизайн",
     "градієнт",
-    "дизайн"
+    "текстура"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

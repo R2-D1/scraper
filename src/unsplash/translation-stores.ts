@@ -5,7 +5,7 @@ import {
   IMAGE_MISSING_TAG_TRANSLATIONS_DIR,
   IMAGE_NAME_TRANSLATIONS_PATH,
   IMAGE_TAG_BLACKLIST_PATH,
-  IMAGE_TAG_TRANSLATIONS_PATH,
+  TAG_TRANSLATIONS_PATH,
 } from '../config/paths';
 import { TranslationStore, normalizeStringValue } from '../iconify/translation-manager';
 
@@ -15,7 +15,7 @@ function isNotFound(error: unknown): error is { code?: string } {
 
 export async function createImageTagStore(): Promise<TranslationStore<string>> {
   return TranslationStore.create<string>({
-    masterPath: IMAGE_TAG_TRANSLATIONS_PATH,
+    masterPath: TAG_TRANSLATIONS_PATH,
     missingDir: IMAGE_MISSING_TAG_TRANSLATIONS_DIR,
     chunkSize: 1000,
     normalizeValue: normalizeStringValue,

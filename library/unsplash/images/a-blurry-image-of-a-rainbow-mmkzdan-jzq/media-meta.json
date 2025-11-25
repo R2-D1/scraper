@@ -1,17 +1,14 @@
 {
   "slug": "a-blurry-image-of-a-rainbow-mmkzdan-jzq",
+  "mediaKey": "7ccb7059-2d54-4b7c-b062-8b2cfc795396",
   "name": "Веселковий градієнт",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/a-blurry-image-of-a-rainbow-mmkzdAN_jzQ",
+  "sourceName": "Unsplash",
   "authorName": "Kukai Art",
   "authorUrl": "https://unsplash.com/@kukaiart",
   "description": "Rainbow Gradient Background",
   "keys": [
-    "абстрактний фон",
-    "вінтажний фон",
-    "градієнтна хвиля",
-    "кольорові фони",
-    "рідкий градієнт",
     "abstract background",
     "blurred background",
     "colorful backgrounds",
@@ -25,14 +22,20 @@
     "vintage background"
   ],
   "tags": [
-    "зернистий градієнт",
-    "цифровий фон",
+    "абстрактний фон",
+    "вінтажний фон",
+    "градієнтна хвиля",
+    "кольорові фони",
+    "рідкий градієнт",
     "розмитий",
-    "ретро",
+    "цифровий фон",
+    "зернистий градієнт",
+    "рідкий фон",
     "градієнт веселки",
-    "рідкий фон"
+    "ретро"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

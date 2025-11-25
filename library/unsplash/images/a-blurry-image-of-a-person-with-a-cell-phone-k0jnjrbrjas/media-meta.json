@@ -1,14 +1,13 @@
 {
   "slug": "a-blurry-image-of-a-person-with-a-cell-phone-k0jnjrbrjas",
+  "mediaKey": "c688782c-d0b1-4b70-a5fc-752c6f139e46",
   "name": "Розмитий образ людини з телефоном",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/a-blurry-image-of-a-person-with-a-cell-phone-k0JNJRbrJAs",
+  "sourceName": "Unsplash",
   "authorName": "Sean Sinclair",
   "authorUrl": "https://unsplash.com/@seanwsinclair",
   "keys": [
-    "патерн",
-    "фон",
-    "шпалери",
     "abstract",
     "background",
     "blur",
@@ -24,18 +23,22 @@
     "wallpaper"
   ],
   "tags": [
+    "патерн",
+    "фон",
+    "шпалери",
     "абстракція",
-    "текстура",
-    "світло",
-    "веселка",
-    "тінь",
     "розмитий",
     "яскравий",
     "кольоровий",
+    "градієнт",
     "голографічний",
-    "градієнт"
+    "світло",
+    "веселка",
+    "тінь",
+    "текстура"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

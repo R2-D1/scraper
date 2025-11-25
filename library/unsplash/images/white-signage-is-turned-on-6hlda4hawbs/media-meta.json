@@ -1,14 +1,13 @@
 {
   "slug": "white-signage-is-turned-on-6hlda4hawbs",
+  "mediaKey": "9c952fd2-d81b-48a5-a150-8287bbc35858",
   "name": "Увімкнена біла вивіска",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/white-signage-is-turned-on-6hlda4HAwBs",
+  "sourceName": "Unsplash",
   "authorName": "Stormseeker",
   "authorUrl": "https://unsplash.com/@sseeker",
   "keys": [
-    "патерн",
-    "текст",
-    "шпалери",
     "building",
     "housing",
     "minimalistic",
@@ -20,16 +19,18 @@
     "white"
   ],
   "tags": [
-    "текстура",
-    "простий",
-    "мінімалістичний",
+    "патерн",
+    "текст",
+    "шпалери",
     "будівля",
-    "білий",
-    "житло"
+    "житло",
+    "мінімалістичний",
+    "простий",
+    "текстура",
+    "білий"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
   "tier": "free",
-  "downloadSource": "api",
-  "sourceName": "Unsplash"
+  "downloadSource": "api"
 }

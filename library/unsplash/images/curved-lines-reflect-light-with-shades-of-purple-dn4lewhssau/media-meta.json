@@ -1,16 +1,13 @@
 {
   "slug": "curved-lines-reflect-light-with-shades-of-purple-dn4lewhssau",
+  "mediaKey": "f1c165f5-a9fb-4c1c-a43d-e58ad1b2425b",
   "name": "Вигнуті лінії з фіолетовими відтінками",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/curved-lines-reflect-light-with-shades-of-purple-dn4LeWHssAU",
+  "sourceName": "Unsplash",
   "authorName": "Ruliff Andrean",
   "authorUrl": "https://unsplash.com/@ruliffand",
   "keys": [
-    "рендери",
-    "ретро шпалери",
-    "фон",
-    "шпалери",
-    "шпалери 4k",
     "abstract",
     "backdrop",
     "background",
@@ -26,17 +23,21 @@
     "wallpaper 4k"
   ],
   "tags": [
+    "рендери",
+    "ретро шпалери",
+    "фон",
+    "шпалери",
+    "шпалери 4k",
     "абстракція",
-    "вінтажний",
-    "ретро",
     "зерно",
-    "ностальгійний",
     "зернистий",
-    "ретро-атмосфера"
+    "ностальгійний",
+    "ретро",
+    "ретро-атмосфера",
+    "вінтажний"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
   "tier": "plus",
-  "downloadSource": "downloads",
-  "sourceName": "Unsplash"
+  "downloadSource": "downloads"
 }

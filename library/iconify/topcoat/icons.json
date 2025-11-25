@@ -1,0 +1,1468 @@
+{
+  "alert": {
+    "name": "Попередження",
+    "mediaKey": "d4d41750-4066-45b5-97e5-9f2228fc35c6",
+    "keys": [
+      "⚠️",
+      "алерт",
+      "оповіщення",
+      "попередження",
+      "сповіщення",
+      "alert",
+      "push нотифікація",
+      "warning"
+    ]
+  },
+  "arrow-down": {
+    "name": "Стрілка вниз",
+    "mediaKey": "f33e2ed1-e427-4b55-be01-fab5ab258358",
+    "keys": [
+      "арров",
+      "вказівник",
+      "вниз",
+      "довн",
+      "напрямок",
+      "опустити",
+      "рух донизу",
+      "стрілка",
+      "стрілка вниз",
+      "стрілка напрям",
+      "arrow",
+      "arrow downwards",
+      "arrow icon",
+      "descending arrow",
+      "down",
+      "down arrow",
+      "down direction",
+      "down icon",
+      "down swipe",
+      "download arrow",
+      "downward",
+      "move down",
+      "scroll down"
+    ]
+  },
+  "arrow-left": {
+    "name": "Стрілка вліво",
+    "mediaKey": "eda4b86c-cf16-486d-9fb6-d35af9f4d20c",
+    "keys": [
+      "←",
+      "арров",
+      "вказівник",
+      "зліва",
+      "лефт",
+      "ліва сторона",
+      "лівий бік",
+      "лівий напрямок",
+      "напрямок",
+      "стрілка",
+      "стрілка напрям",
+      "arrow",
+      "arrow icon",
+      "arrow left",
+      "left",
+      "left arrow",
+      "west"
+    ]
+  },
+  "arrow-right": {
+    "name": "Стрілка вправо",
+    "mediaKey": "58dbc9aa-e2b1-477c-b9ce-205820448793",
+    "keys": [
+      "арров",
+      "вказівник",
+      "напрямок",
+      "правильно",
+      "праворуч",
+      "ріґхт",
+      "стрілка",
+      "стрілка напрям",
+      "arrow",
+      "arrow icon",
+      "correct",
+      "right",
+      "right arrow"
+    ]
+  },
+  "arrow-up": {
+    "name": "Стрілка вгору",
+    "mediaKey": "2a6bd7b9-e556-4213-a612-3efae2515b42",
+    "keys": [
+      "ап",
+      "арров",
+      "вгору",
+      "верх",
+      "вказівник",
+      "напрямок",
+      "підняти",
+      "стрілка",
+      "стрілка напрям",
+      "arrow",
+      "arrow icon",
+      "arrow up",
+      "boost",
+      "up"
+    ]
+  },
+  "attachment": {
+    "name": "Вкладення",
+    "mediaKey": "26978338-4c7a-488a-bd53-2d0c05bfa7ae",
+    "keys": [
+      "аттач",
+      "вкладення",
+      "доданий файл",
+      "додати файл",
+      "додаток",
+      "прикріпити",
+      "прикріпити документ",
+      "прикріплення",
+      "скріпка",
+      "файл",
+      "attach",
+      "attachment",
+      "file clip",
+      "paperclip"
+    ]
+  },
+  "audio": {
+    "name": "Аудіо",
+    "mediaKey": "e204675c-38ed-4481-bf44-18b2ae3c31e3",
+    "keys": [
+      "аудіо",
+      "аудіо доріжка",
+      "звук",
+      "audio",
+      "podcast",
+      "soundwave"
+    ]
+  },
+  "audiooff": {
+    "name": "Звук вимкнено",
+    "mediaKey": "78065fd0-97dd-45dd-be37-d498a0bc6d6a",
+    "keys": [
+      "без звуку",
+      "безшумний режим",
+      "вимкнений звук",
+      "вимкнути звук",
+      "глушити звук",
+      "звук вимкнено",
+      "тихий режим",
+      "тихо",
+      "audio off",
+      "audiooff",
+      "mute",
+      "mute icon",
+      "muted",
+      "silent mode",
+      "sound off",
+      "speaker off"
+    ]
+  },
+  "back": {
+    "name": "Назад",
+    "mediaKey": "d1ca2169-8449-4bb6-bdf1-1ce74890839f",
+    "keys": [
+      "бакк",
+      "назад",
+      "повернення",
+      "back",
+      "back button",
+      "previous"
+    ]
+  },
+  "back-light": {
+    "name": "Назад (тонка)",
+    "mediaKey": "7c29af44-efd3-4c23-a238-85fab129bff3",
+    "keys": [
+      "💡",
+      "бакк",
+      "ліґхт",
+      "назад",
+      "освітлення",
+      "повернення",
+      "світло",
+      "сяйво",
+      "back",
+      "back button",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "previous"
+    ]
+  },
+  "behance": {
+    "name": "Behance",
+    "mediaKey": "e10d9030-cfd4-42e9-88f5-50a60bdf77a8",
+    "keys": [
+      "беханке",
+      "дизайнери",
+      "портфоліо",
+      "behance",
+      "Behance",
+      "behance gallery",
+      "behance logo"
+    ]
+  },
+  "bookmark": {
+    "name": "Закладка",
+    "mediaKey": "0c801b14-487c-4bbe-a9d4-6d18ba646177",
+    "keys": [
+      "🔖",
+      "боокмарк",
+      "закладка",
+      "стрічка",
+      "bookmark",
+      "bookmark icon",
+      "save"
+    ]
+  },
+  "brush": {
+    "name": "Пензлик",
+    "mediaKey": "9448f484-f680-4502-8121-4aa20f9ba3dd",
+    "keys": [
+      "бруш",
+      "пензлик",
+      "фарбувати",
+      "щітка",
+      "brush",
+      "brush tool"
+    ]
+  },
+  "build": {
+    "name": "Інструменти",
+    "mediaKey": "096f0b7c-0174-4f5c-92eb-73cee792d7fd",
+    "keys": [
+      "білд",
+      "будівництво",
+      "збирати",
+      "збірка",
+      "інструменти",
+      "компіляція",
+      "конструктор",
+      "майстерня",
+      "побудова",
+      "ремонт",
+      "спорудження",
+      "стройка",
+      "build",
+      "construct",
+      "construction",
+      "deploy",
+      "pipeline"
+    ]
+  },
+  "calendar": {
+    "name": "Календар",
+    "mediaKey": "3707d058-711b-4a62-b4a5-4091e4dac09c",
+    "keys": [
+      "📅",
+      "дата",
+      "календар",
+      "calendar",
+      "planner",
+      "schedule"
+    ]
+  },
+  "call": {
+    "name": "Дзвінок",
+    "mediaKey": "575f55c0-3763-41b1-98e4-f94185b77f66",
+    "keys": [
+      "📞",
+      "виклик",
+      "дзвінок",
+      "зателефонувати",
+      "калл",
+      "call",
+      "call icon",
+      "phone call"
+    ]
+  },
+  "camera": {
+    "name": "Камера",
+    "mediaKey": "7c13e945-1771-4828-b06e-0b7fb6863276",
+    "keys": [
+      "📷",
+      "камера",
+      "фотоапарат",
+      "camera",
+      "camera icon",
+      "photo"
+    ]
+  },
+  "cancel": {
+    "name": "Скасування",
+    "mediaKey": "22cbd5cf-52f4-45a2-aeef-6c07ab6bb1fc",
+    "keys": [
+      "закрити",
+      "канкел",
+      "скасувати",
+      "cancel",
+      "cancel button",
+      "x icon"
+    ]
+  },
+  "cart": {
+    "name": "Кошик",
+    "mediaKey": "f7f9a686-3dfb-4223-acaf-8abfa1fcc52d",
+    "keys": [
+      "🛒",
+      "візок",
+      "карт",
+      "корзина",
+      "кошик",
+      "cart",
+      "cart icon",
+      "shopping cart"
+    ]
+  },
+  "chat": {
+    "name": "Чат",
+    "mediaKey": "a084e882-06a7-4dc8-8afd-45647277d707",
+    "keys": [
+      "діалог",
+      "месенджер",
+      "переписка",
+      "повідомлення",
+      "розмова",
+      "спілкування",
+      "чат",
+      "чатик",
+      "chat",
+      "conversation",
+      "message",
+      "messaging",
+      "messenger",
+      "talk"
+    ]
+  },
+  "checkmark": {
+    "name": "Позначка",
+    "mediaKey": "16217cff-7f69-45b9-9fdd-8f279b262b6a",
+    "keys": [
+      "галочка",
+      "ок",
+      "підтверджено",
+      "успішно",
+      "approved",
+      "check",
+      "checkmark",
+      "complete",
+      "confirm",
+      "done",
+      "mark",
+      "ok",
+      "tick",
+      "verified"
+    ]
+  },
+  "circle": {
+    "name": "Коло",
+    "mediaKey": "2b8d039c-dad3-4370-9506-451122a009ae",
+    "keys": [
+      "кіркле",
+      "коло",
+      "окружність",
+      "circle",
+      "circle shape",
+      "round"
+    ]
+  },
+  "circle-outline": {
+    "name": "Коло",
+    "mediaKey": "1a943140-cdff-43a9-9fe4-6940d6d36f3b",
+    "keys": [
+      "кіркле",
+      "коло",
+      "контур",
+      "обведення",
+      "окружність",
+      "оутліне",
+      "circle",
+      "circle shape",
+      "outline",
+      "outline stroke",
+      "round"
+    ]
+  },
+  "cloud": {
+    "name": "Хмара",
+    "mediaKey": "1f68e318-a7ad-434a-8235-479b3cd849ca",
+    "keys": [
+      "☁️",
+      "клоуд",
+      "хмара",
+      "cloud",
+      "cloud icon",
+      "cloud storage",
+      "sky"
+    ]
+  },
+  "collapse": {
+    "name": "Згорнути",
+    "mediaKey": "5f198f21-f477-4a15-8751-825d0e2a5e88",
+    "keys": [
+      "згорнути",
+      "згортання",
+      "зменшити",
+      "колапс",
+      "коллапсе",
+      "accordion",
+      "collapse",
+      "collapse panel"
+    ]
+  },
+  "comment": {
+    "name": "Коментар",
+    "mediaKey": "88113b5e-1e4f-478f-89c6-4445e0ed43e3",
+    "keys": [
+      "відгук",
+      "відповідь",
+      "додати коментар",
+      "замітка",
+      "комент",
+      "коментар",
+      "репліка",
+      "comment",
+      "discussion",
+      "feedback",
+      "message",
+      "reply",
+      "talk",
+      "thread"
+    ]
+  },
+  "computer": {
+    "name": "Комп'ютер",
+    "mediaKey": "da1290a4-aa6f-406a-9c7e-825e1907d445",
+    "keys": [
+      "💻",
+      "комп",
+      "комп'ютер",
+      "компутер",
+      "computer",
+      "desktop",
+      "pc"
+    ]
+  },
+  "delete": {
+    "name": "Видалити",
+    "mediaKey": "41b62e89-9831-45ae-afd1-b4a2bc8bfaad",
+    "keys": [
+      "видалити",
+      "делете",
+      "delete",
+      "delete icon",
+      "remove",
+      "trash"
+    ]
+  },
+  "download": {
+    "name": "Завантажити",
+    "mediaKey": "cad3efaa-8a19-4f6b-96a2-a3ea8fcfd3c1",
+    "keys": [
+      "довнлоад",
+      "завантаження",
+      "завантажити",
+      "завантажити файл",
+      "cloud download",
+      "download",
+      "download arrow",
+      "download button",
+      "download data",
+      "download file",
+      "download icon",
+      "file download",
+      "import file",
+      "save arrow",
+      "save file",
+      "save offline"
+    ]
+  },
+  "dribble": {
+    "name": "Dribbble",
+    "mediaKey": "81fa3ea0-13a2-4f22-b28f-65710a9bd29b",
+    "keys": [
+      "баскетбольний м'яч",
+      "дизайн",
+      "дизайн ком'юніті",
+      "дриббл",
+      "дрибл",
+      "натхнення дизайнерів",
+      "портфоліо",
+      "портфоліо дизайнерів",
+      "behance",
+      "design community",
+      "design shots",
+      "dribbble",
+      "dribble",
+      "shot",
+      "ui showcase"
+    ]
+  },
+  "email": {
+    "name": "Пошта",
+    "mediaKey": "82cfbfd8-322d-4f7a-99bb-26834de1a4ee",
+    "keys": [
+      "електронна пошта",
+      "емейл",
+      "лист",
+      "мило",
+      "повідомлення",
+      "пошта",
+      "e-mail",
+      "email",
+      "inbox",
+      "mail",
+      "send mail"
+    ]
+  },
+  "error": {
+    "name": "Помилка",
+    "mediaKey": "76e5a0ec-faa1-4ea7-b5f0-8ba5b89b3ccb",
+    "keys": [
+      "еррор",
+      "помилка",
+      "фатальна помилка",
+      "bug",
+      "bug alert",
+      "critical error",
+      "error",
+      "error 404",
+      "error icon",
+      "error message",
+      "failure",
+      "issue",
+      "red error",
+      "system error",
+      "warning",
+      "warning icon"
+    ]
+  },
+  "expand": {
+    "name": "Розгорнути",
+    "mediaKey": "fdc1d30c-2c75-4bb3-9526-028b97d04c2c",
+    "keys": [
+      "експанд",
+      "збільшити",
+      "розгорнути",
+      "розширити",
+      "expand",
+      "expand arrows",
+      "expand arrows icon",
+      "expand icon",
+      "expand layout",
+      "expand view",
+      "expand window",
+      "full screen",
+      "fullscreen",
+      "grow area",
+      "maximize",
+      "open wider"
+    ]
+  },
+  "facebook": {
+    "name": "Facebook",
+    "mediaKey": "c7464ef5-af45-4161-8757-b806aa0138bf",
+    "keys": [
+      "соцмережа",
+      "факебоок",
+      "facebook",
+      "Facebook",
+      "facebook app",
+      "facebook blue",
+      "facebook feed",
+      "facebook icon",
+      "facebook logo",
+      "facebook social network",
+      "facebook timeline",
+      "fb",
+      "fb platform",
+      "fb social",
+      "meta",
+      "meta app"
+    ]
+  },
+  "favorite": {
+    "name": "Улюблене",
+    "mediaKey": "5190a564-f57b-4b73-94cc-f240982782cc",
+    "keys": [
+      "вибране",
+      "закладка",
+      "зірочка",
+      "лайк",
+      "обране",
+      "обранець",
+      "улюблене",
+      "add to favorites",
+      "favorite",
+      "favorite icon",
+      "favourite",
+      "heart",
+      "like",
+      "star",
+      "starred"
+    ]
+  },
+  "feedback": {
+    "name": "Зворотний зв'язок",
+    "mediaKey": "67ac255c-858f-4d19-95f2-3adf202cf478",
+    "keys": [
+      "відгук",
+      "зворотний зв'язок",
+      "зворотній зв'язок",
+      "оцінка",
+      "повідомити проблему",
+      "фідбек",
+      "contact us",
+      "feedback",
+      "opinion",
+      "reaction",
+      "response",
+      "review",
+      "support"
+    ]
+  },
+  "flickr": {
+    "name": "Flickr",
+    "mediaKey": "9ae7e3b0-ce48-4ee7-8d53-5175ed4fe590",
+    "keys": [
+      "фліккр",
+      "flickr",
+      "Flickr",
+      "flickr app",
+      "flickr community",
+      "flickr icon",
+      "flickr logo",
+      "photo hosting",
+      "photo sharing",
+      "photostream",
+      "yahoo flickr"
+    ]
+  },
+  "folder": {
+    "name": "Папка",
+    "mediaKey": "a08bf01b-5157-4280-b499-518361aa35a2",
+    "keys": [
+      "директорія",
+      "каталог",
+      "папка файлів",
+      "папку",
+      "фолдер",
+      "file folder",
+      "folder",
+      "folder icon",
+      "folder yellow"
+    ]
+  },
+  "github": {
+    "name": "GitHub",
+    "mediaKey": "2a7e9f25-0bd5-4e6a-a2ca-35826ea91f33",
+    "keys": [
+      "ґітуб",
+      "code hosting",
+      "github",
+      "GitHub",
+      "github icon",
+      "github repo",
+      "octocat"
+    ]
+  },
+  "github-text": {
+    "name": "GitHub (текст)",
+    "mediaKey": "9cbedcf9-820a-4385-bb28-5b0643af6d20",
+    "keys": [
+      "абзац",
+      "ґітуб",
+      "копірайт",
+      "повідомлення",
+      "текст",
+      "code hosting",
+      "content",
+      "copy",
+      "github",
+      "GitHub",
+      "github icon",
+      "github repo",
+      "octocat",
+      "text"
+    ]
+  },
+  "googleplus": {
+    "name": "Google+",
+    "mediaKey": "4bca336c-f1f9-4e7b-8048-20e5f1a93812",
+    "keys": [
+      "гугл плюс",
+      "профіль google",
+      "соцмережа google",
+      "google плюс",
+      "google circles",
+      "google community",
+      "google network",
+      "google plus",
+      "google social",
+      "google+",
+      "googleplus",
+      "gplus",
+      "hangouts profile",
+      "social"
+    ]
+  },
+  "group": {
+    "name": "Група",
+    "mediaKey": "cf367918-5f4a-49fc-8abb-72b9c1b6ed58",
+    "keys": [
+      "група",
+      "ґроуп",
+      "команда",
+      "community",
+      "group",
+      "group icon",
+      "team"
+    ]
+  },
+  "home": {
+    "name": "Будинок",
+    "mediaKey": "6c9361e9-615e-40e6-b10d-37bb1a6e4030",
+    "keys": [
+      "🏠",
+      "дім",
+      "додому",
+      "хоме",
+      "home",
+      "homepage",
+      "house icon"
+    ]
+  },
+  "image": {
+    "name": "Зображення",
+    "mediaKey": "c540a2d9-fe20-49c0-91b6-1505c00984d8",
+    "keys": [
+      "зображення",
+      "імаґе",
+      "фото",
+      "graphic",
+      "image",
+      "image file",
+      "picture"
+    ]
+  },
+  "image-outline": {
+    "name": "Зображення",
+    "mediaKey": "2878519e-26d3-4dc0-9c7a-e5fc9a7b0ee3",
+    "keys": [
+      "зображення",
+      "імаґе",
+      "контур",
+      "обведення",
+      "оутліне",
+      "фото",
+      "graphic",
+      "image",
+      "image file",
+      "outline",
+      "outline stroke",
+      "picture"
+    ]
+  },
+  "instagram": {
+    "name": "Instagram",
+    "mediaKey": "d3add6d6-dfc6-4281-915c-ea407ec4f8a4",
+    "keys": [
+      "інста",
+      "інстаґрам",
+      "ig",
+      "instagram",
+      "Instagram",
+      "instagram logo",
+      "instagram stories"
+    ]
+  },
+  "like": {
+    "name": "Вподобання",
+    "mediaKey": "15a983ab-5062-45b8-8472-a146f93fddc0",
+    "keys": [
+      "ліке",
+      "подобається",
+      "уподобання",
+      "як",
+      "fave",
+      "heart",
+      "like",
+      "like button",
+      "thumbs up"
+    ]
+  },
+  "linkedin": {
+    "name": "LinkedIn",
+    "mediaKey": "31de5ca9-c256-4905-966a-02788e6b3613",
+    "keys": [
+      "кар'єрна мережа LinkedIn",
+      "лінкедін",
+      "професійна мережа LinkedIn",
+      "job network",
+      "linkedin",
+      "LinkedIn",
+      "linkedin icon",
+      "linkedin profile",
+      "professional network"
+    ]
+  },
+  "listview": {
+    "name": "Перегляд списком",
+    "mediaKey": "f7bdace5-9d89-45d4-a507-391b1e699d72",
+    "keys": [
+      "вигляд списком",
+      "перегляд списком",
+      "перелік",
+      "режим список",
+      "список",
+      "список елементів",
+      "items",
+      "items view",
+      "list",
+      "list layout",
+      "list mode",
+      "list view",
+      "listview",
+      "table list",
+      "table view",
+      "vertical list"
+    ]
+  },
+  "location": {
+    "name": "Локація",
+    "mediaKey": "5c7b65cc-f103-4af4-83e2-d0580b8ea33b",
+    "keys": [
+      "геолокація",
+      "геопозиція",
+      "координати",
+      "локатіон",
+      "локація",
+      "місце",
+      "місце знаходження",
+      "місцеположення",
+      "розташування",
+      "location",
+      "map location",
+      "pin на мапі"
+    ]
+  },
+  "lock": {
+    "name": "Замок",
+    "mediaKey": "bc253d0b-c15e-4dde-acf0-0ab5ef9869e9",
+    "keys": [
+      "блокування",
+      "заблоковано",
+      "закритий доступ",
+      "замикання",
+      "замкнути",
+      "замок",
+      "замок безпеки",
+      "локк",
+      "падлок",
+      "lock",
+      "security"
+    ]
+  },
+  "minus": {
+    "name": "Мінус",
+    "mediaKey": "fc3c29f8-821f-4daf-b83d-edc15fdfe79e",
+    "keys": [
+      "відняти",
+      "знак мінус",
+      "мінус",
+      "minus",
+      "negative",
+      "subtract"
+    ]
+  },
+  "next": {
+    "name": "Далі",
+    "mediaKey": "8f44ae76-d0d9-4a29-84a2-94c49026a4eb",
+    "keys": [
+      "→",
+      "далі",
+      "наступна",
+      "наступний",
+      "некст",
+      "next",
+      "up next"
+    ]
+  },
+  "next-light": {
+    "name": "Далі (тонка)",
+    "mediaKey": "96e6b5a8-12b5-4eae-ae40-76e255820e38",
+    "keys": [
+      "→",
+      "💡",
+      "далі",
+      "ліґхт",
+      "наступна",
+      "наступний",
+      "некст",
+      "освітлення",
+      "світло",
+      "сяйво",
+      "brightness",
+      "illumination",
+      "light",
+      "light icon",
+      "next",
+      "up next"
+    ]
+  },
+  "page": {
+    "name": "Сторінка",
+    "mediaKey": "95179eb9-e231-4d4c-98a9-62a2c13d2c58",
+    "keys": [
+      "паґе",
+      "сторінка сайту",
+      "сторінки",
+      "page",
+      "page view",
+      "web page"
+    ]
+  },
+  "path": {
+    "name": "Path",
+    "mediaKey": "07b5f92e-e9c9-483b-82c3-64831bb1bcfa",
+    "keys": [
+      "доріжка",
+      "контур",
+      "маршрут",
+      "тропа",
+      "шлях",
+      "path",
+      "route",
+      "svg path",
+      "track",
+      "trail",
+      "trajectory",
+      "vector path"
+    ]
+  },
+  "pencil": {
+    "name": "Олівець",
+    "mediaKey": "90251069-d85f-45cb-b948-8d1457ed93e9",
+    "keys": [
+      "малювати",
+      "олівець",
+      "пенкіл",
+      "pencil",
+      "pencil icon"
+    ]
+  },
+  "phone": {
+    "name": "Телефон",
+    "mediaKey": "d7c92f7e-32cc-471c-a97a-77fc1858d167",
+    "keys": [
+      "телефон",
+      "фоне",
+      "handset",
+      "phone",
+      "phone call"
+    ]
+  },
+  "picasa": {
+    "name": "Picasa",
+    "mediaKey": "8809d184-3e34-447d-bed7-91885216f512",
+    "keys": [
+      "галерея",
+      "редактор фото",
+      "фото",
+      "фотоальбом",
+      "album",
+      "google photos",
+      "google picasa",
+      "old google photos",
+      "photo app",
+      "photo manager",
+      "photo organizer",
+      "picasa",
+      "picasa logo",
+      "picasaweb"
+    ]
+  },
+  "pinterest": {
+    "name": "Pinterest",
+    "mediaKey": "a8c30d13-8671-497c-8834-8dbec7f575d5",
+    "keys": [
+      "пінтерест",
+      "pinboard",
+      "pinterest",
+      "Pinterest",
+      "pinterest app",
+      "Pinterest logo"
+    ]
+  },
+  "plugin": {
+    "name": "Плагін",
+    "mediaKey": "16de01b6-daf2-43d8-bb84-b4f10b8bd6b2",
+    "keys": [
+      "додаток",
+      "інтеграція",
+      "плагін",
+      "розширення",
+      "add-on",
+      "addon",
+      "extension",
+      "extra feature",
+      "integration",
+      "module",
+      "plug-in",
+      "plugin",
+      "plugin icon"
+    ]
+  },
+  "plus": {
+    "name": "Плюс",
+    "mediaKey": "30cafff7-5919-4576-b3d7-eb3f9e2e3299",
+    "keys": [
+      "+",
+      "додати",
+      "плус",
+      "плюс",
+      "plus",
+      "positive"
+    ]
+  },
+  "preview": {
+    "name": "Попередній перегляд",
+    "mediaKey": "88d28772-e5d3-44d2-9ff7-9ed1322f5b06",
+    "keys": [
+      "ознайомлення",
+      "перегляд",
+      "передперегляд",
+      "подивитись",
+      "попередній перегляд",
+      "прев'ю",
+      "швидко глянути",
+      "check",
+      "check before",
+      "draft",
+      "preview",
+      "preview mode",
+      "quick look",
+      "screening",
+      "view",
+      "view sample"
+    ]
+  },
+  "print": {
+    "name": "Друк",
+    "mediaKey": "63b436f6-ac46-460b-82be-f380790c4c6f",
+    "keys": [
+      "друк",
+      "надрукувати",
+      "принтер",
+      "роздруківка",
+      "роздрукувати",
+      "hardcopy",
+      "pdf",
+      "pdf export",
+      "print",
+      "print icon",
+      "print out",
+      "printer",
+      "printout"
+    ]
+  },
+  "question": {
+    "name": "Питання",
+    "mediaKey": "5020aeb3-1926-4e47-8756-a0ca1a624ddf",
+    "keys": [
+      "?",
+      "запитання",
+      "квестіон",
+      "питання",
+      "question",
+      "question mark"
+    ]
+  },
+  "rectangle": {
+    "name": "Прямокутник",
+    "mediaKey": "78821914-2cdd-45cc-9312-991afe504b28",
+    "keys": [
+      "прямокутник",
+      "ректанґле",
+      "box",
+      "rectangle",
+      "rectangle shape"
+    ]
+  },
+  "rectangle-outline": {
+    "name": "Прямокутник",
+    "mediaKey": "e98545e1-7232-4542-82d7-3b9a6a985c9e",
+    "keys": [
+      "контур",
+      "обведення",
+      "оутліне",
+      "прямокутник",
+      "ректанґле",
+      "box",
+      "outline",
+      "outline stroke",
+      "rectangle",
+      "rectangle shape"
+    ]
+  },
+  "refresh": {
+    "name": "Оновити",
+    "mediaKey": "7a3293df-16ba-40c1-8e7a-41cc172c8420",
+    "keys": [
+      "оновити",
+      "рефреш",
+      "refresh",
+      "refresh icon",
+      "reload"
+    ]
+  },
+  "retweet": {
+    "name": "Ретвіт",
+    "mediaKey": "0841534f-267e-4d62-9ee1-43c5a6020f8b",
+    "keys": [
+      "перепост твіт",
+      "повторити запис",
+      "поділитись твітом",
+      "поширити",
+      "ретвіт",
+      "ретвітнути",
+      "твіт",
+      "repost",
+      "retweet",
+      "rt",
+      "share",
+      "share tweet",
+      "tweet share",
+      "twitter",
+      "twitter repost"
+    ]
+  },
+  "roundedrectangle": {
+    "name": "Закруглений прямокутник",
+    "mediaKey": "bf7a5343-7984-444f-b8dc-bd52a6be4c57",
+    "keys": [
+      "закруглений прямокутник",
+      "заокруглений прямокутник",
+      "округлий прямокутник",
+      "скруглена кнопка",
+      "форма з кутами",
+      "corner radius",
+      "pill shape",
+      "round rect",
+      "rounded block",
+      "rounded box",
+      "rounded frame",
+      "rounded rectangle",
+      "roundedrectangle",
+      "shape",
+      "soft corners",
+      "ui card",
+      "ui element"
+    ]
+  },
+  "roundedrectangle-outline": {
+    "name": "Закруглений прямокутник",
+    "mediaKey": "0093c195-d437-4401-8cfb-8b63fa5feff4",
+    "keys": [
+      "закруглений прямокутник",
+      "заокруглений прямокутник",
+      "контур",
+      "обведення",
+      "округлий прямокутник",
+      "оутліне",
+      "скруглена кнопка",
+      "форма з кутами",
+      "corner radius",
+      "outline",
+      "outline stroke",
+      "pill shape",
+      "round rect",
+      "rounded block",
+      "rounded box",
+      "rounded frame",
+      "rounded rectangle",
+      "roundedrectangle",
+      "shape",
+      "soft corners",
+      "ui card",
+      "ui element"
+    ]
+  },
+  "rss": {
+    "name": "Стрічка RSS",
+    "mediaKey": "69e296e0-9edd-47b8-b668-3d64c5cd30cb",
+    "keys": [
+      "рсс",
+      "стрічка RSS",
+      "rss",
+      "RSS feed",
+      "rss icon"
+    ]
+  },
+  "save": {
+    "name": "Зберегти",
+    "mediaKey": "6bd5554a-48fc-4dc2-a4c6-156ebcba57c7",
+    "keys": [
+      "дискета",
+      "зберегти",
+      "зберегти зміни",
+      "зберегти файл",
+      "збереження",
+      "сейв",
+      "backup",
+      "disk",
+      "floppy",
+      "keep",
+      "save",
+      "save changes",
+      "save file",
+      "save icon",
+      "store"
+    ]
+  },
+  "search": {
+    "name": "Пошук",
+    "mediaKey": "b3bb4d88-abf4-44fa-8ead-d20919c4ba5f",
+    "keys": [
+      "лупа",
+      "пошук",
+      "сеарч",
+      "шукати",
+      "search"
+    ]
+  },
+  "settings": {
+    "name": "Налаштування",
+    "mediaKey": "9f90b94e-defc-4c76-aaae-41418c16e066",
+    "keys": [
+      "⚙️",
+      "конфігурація",
+      "налаштування",
+      "налаштування системи",
+      "опції",
+      "параметри",
+      "установки",
+      "options",
+      "preferences",
+      "settings"
+    ]
+  },
+  "share": {
+    "name": "Поділ",
+    "mediaKey": "0020178d-a4f1-4c21-9f67-c84feba815aa",
+    "keys": [
+      "поділ",
+      "поділитися",
+      "поширити",
+      "поширити 🔗",
+      "розшарити",
+      "частка",
+      "шер",
+      "шерінг",
+      "distribute",
+      "share"
+    ]
+  },
+  "tablet": {
+    "name": "Планшет",
+    "mediaKey": "bdca5c84-80a8-480d-b4ab-1e685befec35",
+    "keys": [
+      "планшет",
+      "планшетний комп'ютер",
+      "таблет",
+      "тач-пристрій",
+      "e-reader",
+      "tablet",
+      "tablet pc"
+    ]
+  },
+  "text": {
+    "name": "Текст",
+    "mediaKey": "f1836497-5c4c-4f76-8072-7674f9f93759",
+    "keys": [
+      "абзац",
+      "копірайт",
+      "повідомлення",
+      "текст",
+      "content",
+      "copy",
+      "text"
+    ]
+  },
+  "tileview": {
+    "name": "Перегляд плитками",
+    "mediaKey": "9e224dfc-2c18-46a9-a05b-095969889a7a",
+    "keys": [
+      "мозаїка",
+      "перегляд плитками",
+      "плитки",
+      "плитковий вигляд",
+      "режим плитка",
+      "card view",
+      "gallery",
+      "gallery grid",
+      "grid view",
+      "tile layout",
+      "tile view",
+      "tiles",
+      "tiles mode",
+      "tileview"
+    ]
+  },
+  "tumblr": {
+    "name": "Tumblr",
+    "mediaKey": "6e2b1ecf-e7eb-4b5f-9a7d-568aa39cb4c9",
+    "keys": [
+      "блог-платформа",
+      "соцмережа",
+      "тамблер",
+      "blog",
+      "microblog",
+      "tumblr",
+      "Tumblr"
+    ]
+  },
+  "twitter": {
+    "name": "Twitter",
+    "mediaKey": "90779a5e-474b-4177-8eef-c5bd25833abd",
+    "keys": [
+      "соцмережа",
+      "твіти",
+      "microblog",
+      "tweet",
+      "twitter",
+      "Twitter",
+      "X"
+    ]
+  },
+  "unlock": {
+    "name": "Розблокувати",
+    "mediaKey": "cdf27cb2-08d7-44b5-bbf9-55e6db07cdaf",
+    "keys": [
+      "відкрити",
+      "відкрити замок",
+      "доступ відкрито",
+      "зняти блокування",
+      "розблокувати",
+      "access",
+      "free access",
+      "key",
+      "key unlock",
+      "lock open",
+      "open lock",
+      "security",
+      "unlock",
+      "unlock icon"
+    ]
+  },
+  "user": {
+    "name": "Користувач",
+    "mediaKey": "1390964a-80da-41c8-a601-1060ce463bda",
+    "keys": [
+      "акаунт",
+      "користувач",
+      "користувача",
+      "юзер",
+      "account",
+      "client",
+      "profile",
+      "user"
+    ]
+  },
+  "videocamera": {
+    "name": "Відеокамера",
+    "mediaKey": "52a7b539-644a-46e0-976a-b509bc1c2661",
+    "keys": [
+      "відео",
+      "відеокамера",
+      "зйомка",
+      "камера",
+      "camcorder",
+      "film",
+      "live video",
+      "record",
+      "record video",
+      "shoot",
+      "stream camera",
+      "video camera",
+      "video recorder",
+      "videocamera"
+    ]
+  },
+  "view": {
+    "name": "Вид",
+    "mediaKey": "e600f984-cd63-4755-ad6a-2a017a77acd7",
+    "keys": [
+      "вид",
+      "екран",
+      "перегляд",
+      "переглянути",
+      "перспектива",
+      "спостерігати",
+      "look",
+      "view"
+    ]
+  },
+  "vimeo": {
+    "name": "Vimeo",
+    "mediaKey": "cdd41234-b72b-49ef-9bcd-d1458496e438",
+    "keys": [
+      "відео для бізнесу",
+      "відеохостинг",
+      "вімео",
+      "stream",
+      "video platform",
+      "vimeo",
+      "Vimeo"
+    ]
+  },
+  "w3c": {
+    "name": "W3C",
+    "mediaKey": "d4290e4f-967c-47b0-9fa4-985e67c032b1",
+    "keys": [
+      "консорціум W3C",
+      "стандарти",
+      "стандарти вебу",
+      "стандарти W3C",
+      "css spec",
+      "html spec",
+      "validator",
+      "w3.org",
+      "w3c",
+      "W3C",
+      "web consortium",
+      "web rules",
+      "web standards",
+      "world wide web consortium"
+    ]
+  },
+  "wifi": {
+    "name": "Сигнал Wi-Fi",
+    "mediaKey": "c86f3169-17ce-41ed-bc7e-88d803a4eda3",
+    "keys": [
+      "бездротовий інтернет",
+      "вайфай",
+      "мережа",
+      "hotspot",
+      "Wi-Fi",
+      "wifi",
+      "wireless"
+    ]
+  },
+  "wordpress": {
+    "name": "WordPress",
+    "mediaKey": "6f30c7bb-f8c4-4b6d-81ab-457ea5bc3f9b",
+    "keys": [
+      "блог",
+      "вордпрес",
+      "CMS",
+      "site",
+      "wordpress",
+      "Wordpress",
+      "WordPress",
+      "wp"
+    ]
+  }
+}

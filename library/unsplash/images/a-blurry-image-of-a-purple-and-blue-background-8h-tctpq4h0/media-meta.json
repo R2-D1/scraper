@@ -1,20 +1,14 @@
 {
   "slug": "a-blurry-image-of-a-purple-and-blue-background-8h-tctpq4h0",
+  "mediaKey": "9437fea5-3253-4251-97cb-cf3cf195b938",
   "name": "Меш градієнт",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/a-blurry-image-of-a-purple-and-blue-background-8h_tctpq4h0",
+  "sourceName": "Unsplash",
   "authorName": "MagicPattern",
   "authorUrl": "https://unsplash.com/@magicpattern",
   "description": "Unique mesh fluid gradient by MagicPattern.design tool",
   "keys": [
-    "градієнтний фон",
-    "градієнтні шпалери",
-    "магічний патерн",
-    "фон",
-    "фони",
-    "фонова текстура",
-    "шпалери",
-    "шпалери для робочого столу",
     "background",
     "background texture",
     "backgrounds",
@@ -32,13 +26,22 @@
     "wallpapers"
   ],
   "tags": [
-    "градієнт",
-    "цифрове зображення",
-    "текстура",
+    "градієнтний фон",
+    "градієнтні шпалери",
+    "магічний патерн",
+    "фон",
+    "фони",
+    "фонова текстура",
+    "шпалери",
+    "шпалери для робочого столу",
     "синій",
-    "фіолетовий"
+    "цифрове зображення",
+    "градієнт",
+    "фіолетовий",
+    "текстура"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

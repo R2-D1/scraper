@@ -1,16 +1,14 @@
 {
   "slug": "silver-macbook-air-on-black-table-8gegxcu7zzs",
+  "mediaKey": "9fecfe5e-2e9a-44ce-8aed-ac28d65c1680",
   "name": "Срібний MacBook Air на чорному столі",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/silver-macbook-air-on-black-table-8geGXcu7zzs",
+  "sourceName": "Unsplash",
   "authorName": "Josh Anderson",
   "authorUrl": "https://unsplash.com/@joshanderson",
   "description": "A laptop shooting an array of colors in a dark room. LOL i hope its okay i used an Unsplash photo on the computer screen :}",
   "keys": [
-    "колір",
-    "макбук",
-    "Оклахома",
-    "яблуко",
     "apple",
     "business",
     "color",
@@ -24,15 +22,20 @@
     "work"
   ],
   "tags": [
+    "колір",
+    "макбук",
+    "Оклахома",
+    "яблуко",
     "бізнес",
     "комп'ютер",
-    "технології",
-    "робота",
-    "маркетинг",
     "електроніка",
-    "США"
+    "маркетинг",
+    "технології",
+    "США",
+    "робота"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

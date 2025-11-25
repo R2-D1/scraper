@@ -1,21 +1,25 @@
 {
   "slug": "a-blurry-image-of-a-multicolored-background-8zklgi-g-mw",
+  "mediaKey": "fad43c2a-de0e-4b56-9c5f-d14f8539ef53",
   "name": "Градієнт",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/a-blurry-image-of-a-multicolored-background-8ZKlgI_G-mw",
+  "sourceName": "Unsplash",
   "authorName": "Kunal Patil",
   "authorUrl": "https://unsplash.com/@kunalptll",
   "description": "gradiant.1",
   "keys": [
-    "градієнтний фон",
-    "градієнтні шпалери",
-    "шпалери для макбука",
     "gradient background",
     "gradient wallpaper",
     "macbook wallpaper"
   ],
-  "tags": [],
+  "tags": [
+    "градієнтний фон",
+    "градієнтні шпалери",
+    "шпалери для макбука"
+  ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

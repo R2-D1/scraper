@@ -1,13 +1,14 @@
 {
   "slug": "a-blurry-photo-of-a-traffic-light-at-night-n1vhzhdsbbk",
+  "mediaKey": "d425a6bf-114d-4571-8a61-5c378c72ab48",
   "name": "Розмиті нічні вогні",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/a-blurry-photo-of-a-traffic-light-at-night-N1VhZhDSBBk",
+  "sourceName": "Unsplash",
   "authorName": "Kristaps Solims",
   "authorUrl": "https://unsplash.com/@kristapsbx",
   "description": "blurry night lights",
   "keys": [
-    "фон",
     "background",
     "bokeh",
     "brown",
@@ -16,13 +17,15 @@
     "texture"
   ],
   "tags": [
+    "фон",
+    "боке",
+    "коричневий",
     "світло",
     "ніч",
-    "боке",
-    "текстура",
-    "коричневий"
+    "текстура"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

@@ -1,17 +1,14 @@
 {
   "slug": "a-close-up-of-a-blue-glass-sculpture-rucnmgpr4fk",
+  "mediaKey": "8cbd8a58-74bb-43ca-8eab-d2f20bbdacdb",
   "name": "Макро синього скляного об'єкта",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/a-close-up-of-a-blue-glass-sculpture-RUcNmgPr4fk",
+  "sourceName": "Unsplash",
   "authorName": "A. C.",
   "authorUrl": "https://unsplash.com/@3tnik",
   "keys": [
-    "3d рендер",
     "3d render",
-    "рендер",
-    "фон",
-    "фони",
-    "шпалери",
     "background",
     "backgrounds",
     "blue",
@@ -25,16 +22,20 @@
     "wallpapers"
   ],
   "tags": [
+    "3d рендер",
+    "рендер",
+    "фон",
+    "фони",
+    "шпалери",
     "синій",
-    "скло",
     "цифрове зображення",
-    "фігури",
+    "скло",
     "шари",
+    "фігури",
     "напівпрозорий"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
   "tier": "plus",
-  "downloadSource": "downloads",
-  "sourceName": "Unsplash"
+  "downloadSource": "downloads"
 }

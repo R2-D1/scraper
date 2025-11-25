@@ -1,8 +1,10 @@
 {
   "slug": "timelapse-photography-of-vehicles-and-buildings-4u2u8eo9ozy",
+  "mediaKey": "ff469754-7997-4f66-ba62-ee6f344d5af6",
   "name": "Токіо",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/timelapse-photography-of-vehicles-and-buildings-4u2U8EO9OzY",
+  "sourceName": "Unsplash",
   "authorName": "Pawel Nolbert",
   "authorUrl": "https://unsplash.com/@hellocolor",
   "description": "Tokyo Infinity - For a full resolution photo, contact me directly.",
@@ -29,26 +31,27 @@
     "urban"
   ],
   "tags": [
-    "місто",
-    "будівля",
-    "архітектура",
-    "ніч",
-    "японські шпалери",
-    "міський пейзаж",
-    "хмарочос",
-    "міська вулиця",
-    "вечір",
     "вид з висоти пташиного польоту",
-    "рух",
+    "архітектура",
+    "будівля",
+    "місто",
+    "міська вулиця",
+    "міський пейзаж",
     "центр міста",
+    "вечір",
+    "освітлений",
+    "освітлення",
+    "японські шпалери",
+    "метрополітен",
+    "рух",
+    "ніч",
+    "хмарочос",
     "вигляд вулиці",
     "вулиці",
-    "освітлення",
-    "таймлапс",
-    "освітлений",
-    "метрополітен"
+    "таймлапс"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }

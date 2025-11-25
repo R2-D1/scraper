@@ -2,7 +2,12 @@ import { promises as fs } from 'node:fs';
 import path from 'node:path';
 import { spawn } from 'node:child_process';
 
-import { UNSPLASH_LIBRARY_LIST_PATH, UNSPLASH_MISSING_DOWNLOADS_PATH } from '../config/paths';
+import {
+  UNSPLASH_ILLUSTRATIONS_LIBRARY_LIST_PATH,
+  UNSPLASH_LIBRARY_LIST_PATH,
+  UNSPLASH_MISSING_DOWNLOADS_PATH,
+  UNSPLASH_PATTERNS_LIBRARY_LIST_PATH,
+} from '../config/paths';
 import { MEDIA_META_FILE, findMediaDir, listLibraryEntries } from './library-paths';
 import { extractPhotoSlugFromUrl, sanitizeSegment } from './utils';
 
@@ -130,15 +135,43 @@ function parseMissing(content: string): UrlEntry[] {
   return entries;
 }
 
-async function readUrlEntries(filePath: string): Promise<UrlEntry[]> {
-  const content = await fs.readFile(filePath, 'utf-8');
-  const parsed = parseList(content);
-  if (parsed.duplicates.length > 0) {
-    const cleanedContent = `${parsed.entries.map(entry => entry.original).join('\n')}\n`;
-    await fs.writeFile(filePath, cleanedContent, 'utf-8');
-    console.log(`  Очищено дублікати у списку (${parsed.duplicates.length}).`);
+async function readLibraryFileEntries(filePath: string): Promise<ParseResult | null> {
+  try {
+    const content = await fs.readFile(filePath, 'utf-8');
+    const parsed = parseList(content);
+    if (parsed.duplicates.length > 0) {
+      const cleanedContent = `${parsed.entries.map(entry => entry.original).join('\n')}\n`;
+      await fs.writeFile(filePath, cleanedContent, 'utf-8');
+      console.log(
+        `  Очищено дублікати у списку ${path.relative(PROJECT_ROOT, filePath) || filePath} (${parsed.duplicates.length}).`
+      );
+    }
+    return parsed;
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
+      return null;
+    }
+    throw error;
   }
-  return parsed.entries;
+}
+
+async function readUrlEntries(filePaths: string[]): Promise<UrlEntry[]> {
+  const entries: UrlEntry[] = [];
+  const seenSlugs = new Set<string>();
+  for (const filePath of filePaths) {
+    const parsed = await readLibraryFileEntries(filePath);
+    if (!parsed) {
+      continue;
+    }
+    for (const entry of parsed.entries) {
+      if (seenSlugs.has(entry.slug)) {
+        continue;
+      }
+      seenSlugs.add(entry.slug);
+      entries.push(entry);
+    }
+  }
+  return entries;
 }
 
 async function readMissingEntries(): Promise<UrlEntry[]> {
@@ -222,7 +255,11 @@ async function runUnsplashPull(url: string): Promise<number> {
 async function main(): Promise<void> {
   try {
     const options = parseArgs(process.argv.slice(2));
-    const entries = await readUrlEntries(options.file);
+    const listPaths =
+      options.file === DEFAULT_LIST_PATH
+        ? [UNSPLASH_PATTERNS_LIBRARY_LIST_PATH, UNSPLASH_ILLUSTRATIONS_LIBRARY_LIST_PATH, options.file]
+        : [options.file];
+    const entries = await readUrlEntries(listPaths);
     const missingEntries = await readMissingEntries();
     const missingSlugs = new Set(missingEntries.map(entry => entry.slug));
     const keepSlugs = new Set(entries.map(entry => entry.slug));

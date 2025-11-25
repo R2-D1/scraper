@@ -1,14 +1,14 @@
 {
   "slug": "aerial-photography-of-mountain-range-covered-with-snow-under-white-and-blue-sky-at-daytime-9wg5jcepbsw",
+  "mediaKey": "4998fc6f-55c9-43fd-b6a8-3550119a1f06",
   "name": "Гора Ама Даблам",
   "category": "Зображення",
   "source": "https://unsplash.com/photos/aerial-photography-of-mountain-range-covered-with-snow-under-white-and-blue-sky-at-daytime-9wg5jCEPBsw",
+  "sourceName": "Unsplash",
   "authorName": "Rohit Tandon",
   "authorUrl": "https://unsplash.com/@sepoys",
   "description": "A snow covered Ama Dablam with blue skies and clouds in Sagarmatha national park in Nepal, on the way to Everest Base Camp.",
   "keys": [
-    "фон",
-    "шпалери",
     "background",
     "blue",
     "cloud",
@@ -31,24 +31,27 @@
     "winter time"
   ],
   "tags": [
-    "зима",
-    "гори",
-    "сніг",
+    "фон",
+    "шпалери",
+    "синій",
     "хмара",
-    "Непал",
     "лід",
-    "скеля",
-    "на відкритому повітрі",
-    "гірський хребет",
-    "зимовий пейзаж",
-    "гора в Непалі",
     "гірська вершина",
+    "гірський хребет",
+    "гори",
+    "Непал",
+    "гора в Непалі",
+    "на відкритому повітрі",
     "вершина",
+    "скеля",
+    "сніг",
     "сніговий пейзаж",
-    "зимовий час",
-    "синій"
+    "зима",
+    "зимовий пейзаж",
+    "зимовий час"
   ],
   "licenseName": "Unsplash License",
   "licenseUrl": "https://unsplash.com/license",
-  "sourceName": "Unsplash"
+  "tier": "free",
+  "downloadSource": "downloads"
 }
