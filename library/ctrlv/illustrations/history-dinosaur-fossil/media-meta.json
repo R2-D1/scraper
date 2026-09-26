@@ -1,0 +1,97 @@
+{
+  "slug": "history-dinosaur-fossil",
+  "mediaKey": "e30d71bf-7c10-4b3c-b840-34b6b28dac48",
+  "i18n": {
+    "name": {
+      "en": "Dinosaur Fossil",
+      "uk": "Скам'янілість динозавра"
+    },
+    "alt": {
+      "en": "Dinosaur Fossil",
+      "uk": "Скам'янілість динозавра"
+    },
+    "tags": [
+      {
+        "key": "history",
+        "i18n": {
+          "en": "history",
+          "uk": "історії"
+        }
+      },
+      {
+        "key": "prehistory",
+        "i18n": {
+          "en": "prehistory",
+          "uk": "доісторія"
+        }
+      },
+      {
+        "key": "dinosaur",
+        "i18n": {
+          "en": "dinosaur",
+          "uk": "динозавр"
+        }
+      },
+      {
+        "key": "fossil",
+        "i18n": {
+          "en": "fossil",
+          "uk": "скам'янілість"
+        }
+      },
+      {
+        "key": "bones",
+        "i18n": {
+          "en": "bones",
+          "uk": "кістки"
+        }
+      },
+      {
+        "key": "t-rex",
+        "i18n": {
+          "en": "t-rex",
+          "uk": "ті-рекс"
+        }
+      },
+      {
+        "key": "skull",
+        "i18n": {
+          "en": "skull",
+          "uk": "череп"
+        }
+      },
+      {
+        "key": "ancient",
+        "i18n": {
+          "en": "ancient",
+          "uk": "давній"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/history-dinosaur-fossil",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

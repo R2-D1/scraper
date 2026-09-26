@@ -1,0 +1,63 @@
+{
+  "slug": "ai-response-gaip",
+  "mediaKey": "78487852-edd2-4c06-ab3a-1f9fec4f0aaa",
+  "providerId": "68dda34c82533755eef86eb1",
+  "i18n": {
+    "name": {
+      "en": "AI Response",
+      "uk": "Відповідь на основі штучного інтелекту"
+    },
+    "alt": {
+      "en": "AI Response",
+      "uk": "Відповідь на основі штучного інтелекту"
+    },
+    "tags": [
+      {
+        "key": "ai-response",
+        "i18n": {
+          "en": "AI Response",
+          "uk": "Відповідь на основі штучного інтелекту"
+        }
+      },
+      {
+        "key": "ai",
+        "i18n": {
+          "en": "ai",
+          "uk": "ai"
+        }
+      },
+      {
+        "key": "response",
+        "i18n": {
+          "en": "response",
+          "uk": "відповідь"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/ai-response_gaip.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 576,
+  "height": 800
+}

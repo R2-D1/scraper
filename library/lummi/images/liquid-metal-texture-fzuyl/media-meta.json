@@ -1,0 +1,87 @@
+{
+  "slug": "liquid-metal-texture-fzuyl",
+  "mediaKey": "90e3de52-a073-4f99-bab3-53039c971076",
+  "i18n": {
+    "name": {
+      "en": "Liquid Metal Texture",
+      "uk": "Текстура рідкого металу"
+    },
+    "alt": {
+      "en": "Liquid Metal Texture",
+      "uk": "Текстура рідкого металу"
+    },
+    "tags": [
+      {
+        "key": "dynamic",
+        "i18n": {
+          "en": "Dynamic",
+          "uk": "Динамічний"
+        }
+      },
+      {
+        "key": "metallic",
+        "i18n": {
+          "en": "Metallic",
+          "uk": "Металевий"
+        }
+      },
+      {
+        "key": "reflective",
+        "i18n": {
+          "en": "Reflective",
+          "uk": "Відбиваючий"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "fluid",
+        "i18n": {
+          "en": "Fluid",
+          "uk": "Рідина"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "textures"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Ileana Mărcuţ",
+  "authorUrl": "https://www.lummi.ai/creator/ileana?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "The image displays a close-up view of a smooth, reflective surface with a metallic sheen. The surface appears to be undulating, creating soft folds and curves that catch and reflect light in varying intensities. The color palette is predominantly silver, with subtle gradients and highlights that emphasize the texture and depth of the material. The overall effect is abstract and fluid, evoking the appearance of liquid metal or a highly polished fabric. The interplay of light and shadow adds a dynamic quality to the composition, making it visually engaging.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1024,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/liquid-metal-texture-fzuyl/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/liquid-metal-texture-fzuyl/liquid-metal-texture-fzuyl.png",
+  "relativeAssetPath": "library/lummi/images/liquid-metal-texture-fzuyl/liquid-metal-texture-fzuyl.png"
+}

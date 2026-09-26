@@ -1,0 +1,297 @@
+- generic [ref=f119e4]:
+  - navigation [ref=f119e5]:
+    - generic [ref=f119e6]:
+      - generic [ref=f119e7]:
+        - link "Unsplash Home" [ref=f119e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f119e9]
+        - link "Photos" [ref=f119e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f119e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f119e17]:
+        - button "Explore" [ref=f119e18] [cursor=pointer]
+        - button "Collections" [ref=f119e21] [cursor=pointer]
+        - button "Download History" [ref=f119e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f119e28] [cursor=pointer]
+    - generic [ref=f119e31]:
+      - link "Log in / Sign up" [ref=f119e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fphotos%2Fhappy-robot-surrounded-by-sad-robots-ooFzW9LN9mQ
+      - button "Language" [ref=f119e35] [cursor=pointer]
+      - button "Menu" [ref=f119e38] [cursor=pointer]
+  - generic [ref=f119e41]:
+    - generic [ref=f119e42]:
+      - navigation [ref=f119e43]:
+        - search "Find visuals sitewide" [ref=f119e45]:
+          - button "Search Unsplash" [ref=f119e46] [cursor=pointer]
+          - combobox [ref=f119e49]:
+            - searchbox "Search Unsplash" [ref=f119e50]
+            - listbox
+          - button "Visual search" [ref=f119e52] [cursor=pointer]
+        - generic [ref=f119e55]:
+          - link "Get Unsplash+" [ref=f119e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f119e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fphotos%2Fhappy-robot-surrounded-by-sad-robots-ooFzW9LN9mQ
+        - button "Submit an image" [ref=f119e59] [cursor=pointer]
+      - generic [ref=f119e60]:
+        - generic [ref=f119e61]:
+          - banner [ref=f119e63]:
+            - generic [ref=f119e65]:
+              - link [ref=f119e66] [cursor=pointer]:
+                - /url: /@philipsfuture
+              - generic [ref=f119e69]:
+                - link "Philip Oroni" [ref=f119e70] [cursor=pointer]:
+                  - /url: /@philipsfuture
+                - generic [ref=f119e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f119e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fhappy-robot-surrounded-by-sad-robots-ooFzW9LN9mQ
+            - generic [ref=f119e73]:
+              - button "Bookmark" [ref=f119e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f119e77] [cursor=pointer]
+              - button "Edit image" [ref=f119e80] [cursor=pointer]
+              - button "Download" [ref=f119e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f119e90]:
+            - img "Happy robot surrounded by sad robots." [ref=f119e91]
+          - generic [ref=f119e92]:
+            - generic [ref=f119e94]:
+              - button "Share this image" [ref=f119e95] [cursor=pointer]:
+                - generic [ref=f119e98]: Share
+              - button "More Actions" [ref=f119e99] [cursor=pointer]
+            - generic [ref=f119e103]:
+              - heading "Happy robot surrounded by sad robots." [level=1] [ref=f119e105]
+              - paragraph [ref=f119e109]: Download this HD photo of green, white, red, and group by Philip Oroni (@philipsfuture)
+              - generic [ref=f119e111]:
+                - generic [ref=f119e116]:
+                  - text: Published on
+                  - time [ref=f119e117]: April 16, 2025
+                - generic [ref=f119e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f119e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f119e124]:
+              - link "green" [ref=f119e125] [cursor=pointer]:
+                - /url: /s/photos/green
+              - link "white" [ref=f119e126] [cursor=pointer]:
+                - /url: /s/photos/white
+              - link "red" [ref=f119e127] [cursor=pointer]:
+                - /url: /s/photos/red
+              - link "group" [ref=f119e128] [cursor=pointer]:
+                - /url: /s/photos/group
+              - link "diversity" [ref=f119e129] [cursor=pointer]:
+                - /url: /s/photos/diversity
+              - link "emotions" [ref=f119e130] [cursor=pointer]:
+                - /url: /s/photos/emotions
+              - link "unique" [ref=f119e131] [cursor=pointer]:
+                - /url: /s/photos/unique
+              - link "contrast" [ref=f119e132] [cursor=pointer]:
+                - /url: /s/photos/contrast
+              - link "different" [ref=f119e133] [cursor=pointer]:
+                - /url: /s/photos/different
+              - link "happy face" [ref=f119e134] [cursor=pointer]:
+                - /url: /s/photos/happy-face
+              - link "sad face" [ref=f119e135] [cursor=pointer]:
+                - /url: /s/photos/sad-face
+              - link "difference" [ref=f119e136] [cursor=pointer]:
+                - /url: /s/photos/difference
+              - link "individuality" [ref=f119e137] [cursor=pointer]:
+                - /url: /s/photos/individuality
+              - link "standing out" [ref=f119e138] [cursor=pointer]:
+                - /url: /s/photos/standing-out
+              - link "robot face" [ref=f119e139] [cursor=pointer]:
+                - /url: /s/photos/robot-face
+              - link "conformity" [ref=f119e140] [cursor=pointer]:
+                - /url: /s/photos/conformity
+              - link "nonconformity" [ref=f119e141] [cursor=pointer]:
+                - /url: /s/photos/nonconformity
+        - generic [ref=f119e144]:
+          - generic [ref=f119e145]:
+            - paragraph [ref=f119e147]: From this series
+            - generic [ref=f119e149]:
+              - button "scroll list to the right" [ref=f119e151] [cursor=pointer]
+              - generic [ref=f119e154]:
+                - generic [ref=f119e155]:
+                  - link [ref=f119e156] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-red-figure-stands-out-from-the-crowd-78IV7gDwViE
+                  - link [ref=f119e159]:
+                    - /url: /photos/a-red-figure-stands-out-from-the-crowd-78IV7gDwViE
+                    - img "A red figure stands out from the crowd." [ref=f119e160]
+                - generic [ref=f119e161]:
+                  - link [ref=f119e162] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blue-cone-stands-out-among-pink-ones-smBuhfdwccs
+                  - link [ref=f119e165]:
+                    - /url: /photos/a-blue-cone-stands-out-among-pink-ones-smBuhfdwccs
+                    - img "A blue cone stands out among pink ones." [ref=f119e166]
+                - generic [ref=f119e167]:
+                  - link [ref=f119e168] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-golden-egg-stands-out-amongst-the-white-ones-NLMkdItEhPo
+                  - link [ref=f119e171]:
+                    - /url: /photos/a-golden-egg-stands-out-amongst-the-white-ones-NLMkdItEhPo
+                    - img "A golden egg stands out amongst the white ones." [ref=f119e172]
+                - generic [ref=f119e173]:
+                  - link [ref=f119e174] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-pink-balloon-stands-out-amongst-black-ones-2eW_qa-_5Wk
+                  - link [ref=f119e177]:
+                    - /url: /photos/a-pink-balloon-stands-out-amongst-black-ones-2eW_qa-_5Wk
+                    - img "A pink balloon stands out amongst black ones." [ref=f119e178]
+                - generic [ref=f119e179]:
+                  - link [ref=f119e180] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-green-house-stands-out-among-black-ones-XB-pIh3mI5g
+                  - link [ref=f119e183]:
+                    - /url: /photos/a-green-house-stands-out-among-black-ones-XB-pIh3mI5g
+                    - img "A green house stands out among black ones." [ref=f119e184]
+                - generic [ref=f119e185]:
+                  - link [ref=f119e186] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fgreen-and-peach-abstract-art-with-round-shapes-k2QCrqdOsVU
+                  - link [ref=f119e189]:
+                    - /url: /photos/green-and-peach-abstract-art-with-round-shapes-k2QCrqdOsVU
+                    - img "Green and peach abstract art with round shapes." [ref=f119e190]
+          - generic [ref=f119e191]:
+            - heading "Related images" [level=4] [ref=f119e193]
+            - generic [ref=f119e197]:
+              - generic [ref=f119e198]:
+                - figure [ref=f119e199]:
+                  - generic [ref=f119e201]:
+                    - link [ref=f119e202]:
+                      - /url: /photos/a-close-up-of-a-black-object-with-red-eyes--pBFQSXos0I
+                      - img "a close up of a black object with red eyes" [ref=f119e203]
+                    - link [ref=f119e204] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-of-a-black-object-with-red-eyes--pBFQSXos0I
+                - figure [ref=f119e207]:
+                  - generic [ref=f119e209]:
+                    - link [ref=f119e210]:
+                      - /url: /photos/a-purple-robot-with-a-cross-on-its-face-LkZB7m6H6D4
+                      - img "A purple robot with a cross on it's face" [ref=f119e211]
+                    - link [ref=f119e212] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-purple-robot-with-a-cross-on-its-face-LkZB7m6H6D4
+                - figure [ref=f119e215]:
+                  - generic [ref=f119e217]:
+                    - link [ref=f119e218]:
+                      - /url: /photos/a-red-robot-with-four-different-facial-expressions-ghb5rXrEoUs
+                      - img "A red robot with four different facial expressions" [ref=f119e219]
+                    - link [ref=f119e220] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-red-robot-with-four-different-facial-expressions-ghb5rXrEoUs
+                - figure [ref=f119e223]:
+                  - generic [ref=f119e225]:
+                    - link [ref=f119e226]:
+                      - /url: /photos/a-hand-touching-a-button-with-a-smiley-face-on-it-dknwET-Ug4k
+                      - img "A hand touching a button with a smiley face on it" [ref=f119e227]
+                    - link [ref=f119e228] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-hand-touching-a-button-with-a-smiley-face-on-it-dknwET-Ug4k
+                - figure [ref=f119e231]:
+                  - generic [ref=f119e233]:
+                    - link [ref=f119e234]:
+                      - /url: /photos/a-purple-robot-with-green-eyes-and-a-purple-background-LbAndNC3hJM
+                      - img "A purple robot with green eyes and a purple background" [ref=f119e235]
+                    - link [ref=f119e236] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-purple-robot-with-green-eyes-and-a-purple-background-LbAndNC3hJM
+                - figure [ref=f119e239]:
+                  - generic [ref=f119e241]:
+                    - link [ref=f119e242]:
+                      - /url: /photos/a-smart-phone-with-a-chat-button-next-to-it-_HARcatdYxQ
+                      - img "a smart phone with a chat button next to it" [ref=f119e243]
+                    - link [ref=f119e244] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-smart-phone-with-a-chat-button-next-to-it-_HARcatdYxQ
+                - figure [ref=f119e247]:
+                  - generic [ref=f119e249]:
+                    - link [ref=f119e250]:
+                      - /url: /photos/a-black-robot-with-a-speech-bubble-above-it-E0iLv28yPXs
+                      - img "a black robot with a speech bubble above it" [ref=f119e251]
+                    - link [ref=f119e252] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-black-robot-with-a-speech-bubble-above-it-E0iLv28yPXs
+              - generic [ref=f119e255]:
+                - figure [ref=f119e256]:
+                  - generic [ref=f119e258]:
+                    - link [ref=f119e259]:
+                      - /url: /photos/a-group-of-robot-heads-floating-in-the-air-hy8bdyhHy6w
+                      - img "a group of robot heads floating in the air" [ref=f119e260]
+                    - link [ref=f119e261] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-group-of-robot-heads-floating-in-the-air-hy8bdyhHy6w
+                - figure [ref=f119e264]:
+                  - generic [ref=f119e266]:
+                    - link [ref=f119e267]:
+                      - /url: /photos/a-green-and-black-device-with-two-eyes-aO4L2tuLe5k
+                      - img "a green and black device with two eyes" [ref=f119e268]
+                    - link [ref=f119e269] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-green-and-black-device-with-two-eyes-aO4L2tuLe5k
+                - figure [ref=f119e272]:
+                  - generic [ref=f119e274]:
+                    - link [ref=f119e275]:
+                      - /url: /photos/a-white-robot-is-surrounded-by-speech-bubbles-KRPuF6hhG8c
+                      - img "a white robot is surrounded by speech bubbles" [ref=f119e276]
+                    - link [ref=f119e277] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-white-robot-is-surrounded-by-speech-bubbles-KRPuF6hhG8c
+                - figure [ref=f119e280]:
+                  - generic [ref=f119e282]:
+                    - link [ref=f119e283]:
+                      - /url: /photos/a-red-and-green-button-with-a-sad-face-and-an-arrow-fdm5tNj_F8I
+                      - img "A red and green button with a sad face and an arrow" [ref=f119e284]
+                    - link [ref=f119e285] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-red-and-green-button-with-a-sad-face-and-an-arrow-fdm5tNj_F8I
+                - figure [ref=f119e288]:
+                  - generic [ref=f119e290]:
+                    - link [ref=f119e291]:
+                      - /url: /photos/a-pink-robot-with-green-eyes-and-a-black-background-CUjXucFK3fE
+                      - img "a pink robot with green eyes and a black background" [ref=f119e292]
+                    - link [ref=f119e293] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-pink-robot-with-green-eyes-and-a-black-background-CUjXucFK3fE
+                - figure [ref=f119e296]:
+                  - generic [ref=f119e298]:
+                    - link [ref=f119e299]:
+                      - /url: /photos/a-minimalist-robot-face-and-three-dots-on-gray-background-Y3jhHsY8ghw
+                      - img "A minimalist robot face and three dots on gray background" [ref=f119e300]
+                    - link [ref=f119e301] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-minimalist-robot-face-and-three-dots-on-gray-background-Y3jhHsY8ghw
+                - figure [ref=f119e304]:
+                  - generic [ref=f119e306]:
+                    - link [ref=f119e307]:
+                      - /url: /photos/a-white-and-black-object-with-three-dots-on-it-gUPphQ8PeI8
+                      - img "a white and black object with three dots on it" [ref=f119e308]
+                    - link [ref=f119e309] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-white-and-black-object-with-three-dots-on-it-gUPphQ8PeI8
+              - generic [ref=f119e312]:
+                - figure [ref=f119e313]:
+                  - generic [ref=f119e315]:
+                    - link [ref=f119e316]:
+                      - /url: /photos/customer-satisfaction-survey-with-face-icon-emoticon-button-on-violet-background-great-feedback-on-customer-products-and-services-3d-render-illustration-SBnLJjMyH0g
+                      - img "Customer satisfaction survey with face icon emoticon button on violet background. Great feedback on customer products and services. 3D render illustration" [ref=f119e317]
+                    - link [ref=f119e318] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fcustomer-satisfaction-survey-with-face-icon-emoticon-button-on-violet-background-great-feedback-on-customer-products-and-services-3d-render-illustration-SBnLJjMyH0g
+                - figure [ref=f119e321]:
+                  - generic [ref=f119e323]:
+                    - link [ref=f119e324]:
+                      - /url: /photos/a-hand-touching-a-tablet-with-a-smiley-face-on-it-nXCFgouVDWI
+                      - img "A hand touching a tablet with a smiley face on it" [ref=f119e325]
+                    - link [ref=f119e326] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-hand-touching-a-tablet-with-a-smiley-face-on-it-nXCFgouVDWI
+                - figure [ref=f119e329]:
+                  - generic [ref=f119e331]:
+                    - link [ref=f119e332]:
+                      - /url: /photos/a-green-robot-with-a-speech-bubble-above-it-Vgcbk-I0rFw
+                      - img "a green robot with a speech bubble above it" [ref=f119e333]
+                    - link [ref=f119e334] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-green-robot-with-a-speech-bubble-above-it-Vgcbk-I0rFw
+                - figure [ref=f119e337]:
+                  - generic [ref=f119e339]:
+                    - link [ref=f119e340]:
+                      - /url: /photos/a-group-of-three-different-colored-buttons-with-faces-on-them-0X-wmZaVyp4
+                      - img "A group of three different colored buttons with faces on them" [ref=f119e341]
+                    - link [ref=f119e342] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-group-of-three-different-colored-buttons-with-faces-on-them-0X-wmZaVyp4
+                - figure [ref=f119e345]:
+                  - generic [ref=f119e347]:
+                    - link [ref=f119e348]:
+                      - /url: /photos/a-robot-with-speech-bubbles-above-its-head-4JE5XeL9nog
+                      - img "a robot with speech bubbles above it's head" [ref=f119e349]
+                    - link [ref=f119e350] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-robot-with-speech-bubbles-above-its-head-4JE5XeL9nog
+                - figure [ref=f119e353]:
+                  - generic [ref=f119e355]:
+                    - link [ref=f119e356]:
+                      - /url: /photos/a-green-robot-standing-next-to-another-green-robot-kcMS4nMnO4k
+                      - img "A green robot standing next to another green robot" [ref=f119e357]
+                    - link [ref=f119e358] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-green-robot-standing-next-to-another-green-robot-kcMS4nMnO4k
+    - generic:
+      - region "Notifications"

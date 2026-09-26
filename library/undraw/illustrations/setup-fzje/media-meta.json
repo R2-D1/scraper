@@ -1,0 +1,49 @@
+{
+  "slug": "setup-fzje",
+  "mediaKey": "71c18743-39f2-4a22-8b9a-a500cd5be278",
+  "providerId": "5fa91dc2aaf077001797bb8d",
+  "i18n": {
+    "name": {
+      "en": "Setup",
+      "uk": "Налаштування"
+    },
+    "alt": {
+      "en": "Setup",
+      "uk": "Налаштування"
+    },
+    "tags": [
+      {
+        "key": "setup",
+        "i18n": {
+          "en": "Setup",
+          "uk": "Налаштування"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/setup_fzje.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 898,
+  "height": 586
+}

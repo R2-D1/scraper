@@ -1,0 +1,255 @@
+- generic [ref=f97e4]:
+  - navigation [ref=f97e5]:
+    - generic [ref=f97e6]:
+      - generic [ref=f97e7]:
+        - link "Unsplash Home" [ref=f97e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f97e9]
+        - link "Photos" [ref=f97e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f97e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f97e17]:
+        - button "Explore" [ref=f97e18] [cursor=pointer]
+        - button "Collections" [ref=f97e21] [cursor=pointer]
+        - button "Download History" [ref=f97e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f97e28] [cursor=pointer]
+    - generic [ref=f97e31]:
+      - link "Log in / Sign up" [ref=f97e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fediting-software-and-computer-components-are-represented-9vIOsh5yO2w
+      - button "Language" [ref=f97e35] [cursor=pointer]
+      - button "Menu" [ref=f97e38] [cursor=pointer]
+  - generic [ref=f97e41]:
+    - generic [ref=f97e42]:
+      - navigation [ref=f97e43]:
+        - search "Find visuals sitewide" [ref=f97e45]:
+          - button "Search Unsplash" [ref=f97e46] [cursor=pointer]
+          - combobox [ref=f97e49]:
+            - searchbox "Search Unsplash" [ref=f97e50]
+            - listbox
+          - button "Visual search" [ref=f97e52] [cursor=pointer]
+        - generic [ref=f97e55]:
+          - link "Get Unsplash+" [ref=f97e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f97e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fediting-software-and-computer-components-are-represented-9vIOsh5yO2w
+        - button "Submit an image" [ref=f97e59] [cursor=pointer]
+      - generic [ref=f97e60]:
+        - generic [ref=f97e61]:
+          - banner [ref=f97e63]:
+            - generic [ref=f97e65]:
+              - link [ref=f97e66] [cursor=pointer]:
+                - /url: /@puzzlecreative/illustrations
+              - generic [ref=f97e69]:
+                - link "Puzzle Creative" [ref=f97e70] [cursor=pointer]:
+                  - /url: /@puzzlecreative/illustrations
+                - generic [ref=f97e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f97e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fediting-software-and-computer-components-are-represented-9vIOsh5yO2w
+            - generic [ref=f97e73]:
+              - button "Bookmark" [ref=f97e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f97e77] [cursor=pointer]
+              - button "Edit image" [ref=f97e80] [cursor=pointer]
+              - button "Download" [ref=f97e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f97e90]:
+            - img "Editing software and computer components are represented." [ref=f97e91]
+          - generic [ref=f97e92]:
+            - generic [ref=f97e94]:
+              - button "Share this image" [ref=f97e95] [cursor=pointer]:
+                - generic [ref=f97e98]: Share
+              - button "More Actions" [ref=f97e99] [cursor=pointer]
+            - generic [ref=f97e103]:
+              - heading "Editing software and computer components are represented." [level=1] [ref=f97e105]
+              - paragraph [ref=f97e109]: Download this illustration of computer, blue, green, and pink by Puzzle Creative (@puzzlecreative)
+              - generic [ref=f97e111]:
+                - generic [ref=f97e116]:
+                  - text: Published on
+                  - time [ref=f97e117]: May 16, 2025
+                - generic [ref=f97e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f97e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f97e124]:
+              - link "computer" [ref=f97e125] [cursor=pointer]:
+                - /url: /s/illustrations/computer
+              - link "blue" [ref=f97e126] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "green" [ref=f97e127] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "pink" [ref=f97e128] [cursor=pointer]:
+                - /url: /s/illustrations/pink
+              - link "white" [ref=f97e129] [cursor=pointer]:
+                - /url: /s/illustrations/white
+              - link "graphic design" [ref=f97e130] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "orange" [ref=f97e131] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "red" [ref=f97e132] [cursor=pointer]:
+                - /url: /s/illustrations/red
+              - link "digital art" [ref=f97e133] [cursor=pointer]:
+                - /url: /s/illustrations/digital-art
+              - link "video editing" [ref=f97e134] [cursor=pointer]:
+                - /url: /s/illustrations/video-editing
+              - link "teal" [ref=f97e135] [cursor=pointer]:
+                - /url: /s/illustrations/teal
+              - link "creative process" [ref=f97e136] [cursor=pointer]:
+                - /url: /s/illustrations/creative-process
+              - link "interface" [ref=f97e137] [cursor=pointer]:
+                - /url: /s/illustrations/interface
+              - link "play button" [ref=f97e138] [cursor=pointer]:
+                - /url: /s/illustrations/play-button
+              - link "image editing" [ref=f97e139] [cursor=pointer]:
+                - /url: /s/illustrations/image-editing
+              - link "design software" [ref=f97e140] [cursor=pointer]:
+                - /url: /s/illustrations/design-software
+              - link "technology concept" [ref=f97e141] [cursor=pointer]:
+                - /url: /s/illustrations/technology-concept
+        - generic [ref=f97e145]:
+          - heading "Related images" [level=4] [ref=f97e147]
+          - generic [ref=f97e151]:
+            - generic [ref=f97e152]:
+              - figure [ref=f97e153]:
+                - generic [ref=f97e155]:
+                  - link [ref=f97e156]:
+                    - /url: /illustrations/click-generate-to-create-design-elements-fxXyGfBsSAw
+                    - img "Click \"generate\" to create design elements." [ref=f97e157]
+                  - link [ref=f97e158] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fclick-generate-to-create-design-elements-fxXyGfBsSAw
+              - figure [ref=f97e161]:
+                - generic [ref=f97e163]:
+                  - link [ref=f97e164]:
+                    - /url: /illustrations/a-flat-screen-tv-sitting-on-top-of-a-desk-MN9cWvd9a4g
+                    - img "A flat screen TV sitting on top of a desk" [ref=f97e165]
+                  - link [ref=f97e166] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-flat-screen-tv-sitting-on-top-of-a-desk-MN9cWvd9a4g
+              - figure [ref=f97e169]:
+                - generic [ref=f97e171]:
+                  - link [ref=f97e172]:
+                    - /url: /illustrations/digital-whiteboard-with-sticky-notes-and-icons-C9Q4ZO7xHm0
+                    - img "Digital whiteboard with sticky notes and icons." [ref=f97e173]
+                  - link [ref=f97e174] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fdigital-whiteboard-with-sticky-notes-and-icons-C9Q4ZO7xHm0
+              - figure [ref=f97e177]:
+                - generic [ref=f97e179]:
+                  - link [ref=f97e180]:
+                    - /url: /illustrations/a-computer-screen-with-a-light-bulb-above-it-bJOuCKSQk4I
+                    - img "A computer screen with a light bulb above it" [ref=f97e181]
+                  - link [ref=f97e182] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-computer-screen-with-a-light-bulb-above-it-bJOuCKSQk4I
+              - figure [ref=f97e185]:
+                - generic [ref=f97e187]:
+                  - link [ref=f97e188]:
+                    - /url: /illustrations/computer-screen-with-code-and-language-bubbles-fgTktmHpJj0
+                    - img "Computer screen with code and language bubbles." [ref=f97e189]
+                  - link [ref=f97e190] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcomputer-screen-with-code-and-language-bubbles-fgTktmHpJj0
+              - figure [ref=f97e193]:
+                - generic [ref=f97e195]:
+                  - link [ref=f97e196]:
+                    - /url: /illustrations/a-tablet-with-a-bunch-of-icons-coming-out-of-it-iURzC28YHew
+                    - img "A tablet with a bunch of icons coming out of it" [ref=f97e197]
+                  - link [ref=f97e198] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-tablet-with-a-bunch-of-icons-coming-out-of-it-iURzC28YHew
+              - figure [ref=f97e201]:
+                - generic [ref=f97e203]:
+                  - link [ref=f97e204]:
+                    - /url: /illustrations/a-computer-screen-with-a-red-and-black-screen-BsPY-E5mHYQ
+                    - img "A computer screen with a red and black screen" [ref=f97e205]
+                  - link [ref=f97e206] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-computer-screen-with-a-red-and-black-screen-BsPY-E5mHYQ
+            - generic [ref=f97e209]:
+              - figure [ref=f97e210]:
+                - generic [ref=f97e212]:
+                  - link [ref=f97e213]:
+                    - /url: /illustrations/a-laptop-computer-sitting-on-top-of-a-table-msKOPUqU8xE
+                    - img "A laptop computer sitting on top of a table" [ref=f97e214]
+                  - link [ref=f97e215] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-laptop-computer-sitting-on-top-of-a-table-msKOPUqU8xE
+              - figure [ref=f97e218]:
+                - generic [ref=f97e220]:
+                  - link [ref=f97e221]:
+                    - /url: /illustrations/a-laptop-computer-sitting-on-top-of-a-table-U-zLfHlFAu8
+                    - img "A laptop computer sitting on top of a table" [ref=f97e222]
+                  - link [ref=f97e223] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-laptop-computer-sitting-on-top-of-a-table-U-zLfHlFAu8
+              - figure [ref=f97e226]:
+                - generic [ref=f97e228]:
+                  - link [ref=f97e229]:
+                    - /url: /illustrations/a-hand-types-on-a-laptop-with-web-elements-_-eIpcmaVe8
+                    - img "A hand types on a laptop with web elements." [ref=f97e230]
+                  - link [ref=f97e231] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-hand-types-on-a-laptop-with-web-elements-_-eIpcmaVe8
+              - figure [ref=f97e234]:
+                - generic [ref=f97e236]:
+                  - link [ref=f97e237]:
+                    - /url: /illustrations/a-flat-screen-with-a-keyboard-and-a-mouse-vP_TCiechfc
+                    - img "A flat screen with a keyboard and a mouse" [ref=f97e238]
+                  - link [ref=f97e239] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-flat-screen-with-a-keyboard-and-a-mouse-vP_TCiechfc
+              - figure [ref=f97e242]:
+                - generic [ref=f97e244]:
+                  - link [ref=f97e245]:
+                    - /url: /illustrations/website-design-and-content-creation-I4i-HEmT0HQ
+                    - img "Website design and content creation." [ref=f97e246]
+                  - link [ref=f97e247] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fwebsite-design-and-content-creation-I4i-HEmT0HQ
+              - figure [ref=f97e250]:
+                - generic [ref=f97e252]:
+                  - link [ref=f97e253]:
+                    - /url: /illustrations/a-computer-monitor-sitting-on-top-of-a-desk-4FlzWhct9wU
+                    - img "A computer monitor sitting on top of a desk" [ref=f97e254]
+                  - link [ref=f97e255] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-computer-monitor-sitting-on-top-of-a-desk-4FlzWhct9wU
+            - generic [ref=f97e258]:
+              - figure [ref=f97e259]:
+                - generic [ref=f97e261]:
+                  - link [ref=f97e262]:
+                    - /url: /illustrations/a-computer-screen-surrounded-by-different-types-of-webpages-4ZxDu0rIysU
+                    - img "A computer screen surrounded by different types of webpages" [ref=f97e263]
+                  - link [ref=f97e264] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-computer-screen-surrounded-by-different-types-of-webpages-4ZxDu0rIysU
+              - figure [ref=f97e267]:
+                - generic [ref=f97e269]:
+                  - link [ref=f97e270]:
+                    - /url: /illustrations/a-laptop-generates-content-like-media-and-graphics-Ya_3KWycWVs
+                    - img "A laptop generates content like media and graphics." [ref=f97e271]
+                  - link [ref=f97e272] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-laptop-generates-content-like-media-and-graphics-Ya_3KWycWVs
+              - figure [ref=f97e275]:
+                - generic [ref=f97e277]:
+                  - link [ref=f97e278]:
+                    - /url: /illustrations/a-computer-generates-various-multimedia-content-TP3s9nP5YvE
+                    - img "A computer generates various multimedia content." [ref=f97e279]
+                  - link [ref=f97e280] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-computer-generates-various-multimedia-content-TP3s9nP5YvE
+              - figure [ref=f97e283]:
+                - generic [ref=f97e285]:
+                  - link [ref=f97e286]:
+                    - /url: /illustrations/creative-design-tools-are-displayed-on-a-computer-screen-WgPwZuPqOH8
+                    - img "Creative design tools are displayed on a computer screen." [ref=f97e287]
+                  - link [ref=f97e288] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcreative-design-tools-are-displayed-on-a-computer-screen-WgPwZuPqOH8
+              - figure [ref=f97e291]:
+                - generic [ref=f97e293]:
+                  - link [ref=f97e294]:
+                    - /url: /illustrations/computer-screen-showing-translation-and-generation-tools-4-Yx2IgN4_A
+                    - img "Computer screen showing translation and generation tools." [ref=f97e295]
+                  - link [ref=f97e296] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcomputer-screen-showing-translation-and-generation-tools-4-Yx2IgN4_A
+              - figure [ref=f97e299]:
+                - generic [ref=f97e301]:
+                  - link [ref=f97e302]:
+                    - /url: /illustrations/graphic-design-tools-and-elements-are-shown-mVOGshPVLu8
+                    - img "Graphic design tools and elements are shown." [ref=f97e303]
+                  - link [ref=f97e304] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraphic-design-tools-and-elements-are-shown-mVOGshPVLu8
+              - figure [ref=f97e307]:
+                - generic [ref=f97e309]:
+                  - link [ref=f97e310]:
+                    - /url: /illustrations/a-flat-design-of-a-tablet-with-a-film-strip-on-top-of-it-rHSdNe_-_C8
+                    - img "A flat design of a tablet with a film strip on top of it" [ref=f97e311]
+                  - link [ref=f97e312] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-flat-design-of-a-tablet-with-a-film-strip-on-top-of-it-rHSdNe_-_C8
+    - generic:
+      - region "Notifications"

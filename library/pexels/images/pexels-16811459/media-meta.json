@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-16811459",
+  "mediaKey": "pexels:16811459",
+  "i18n": {
+    "name": {
+      "en": "Man in sunglasses sitting on a rocky shore",
+      "uk": "Чоловік у сонцезахисних окулярах, що сидить на скелястому березі"
+    },
+    "alt": {
+      "en": "Fashionable young man wearing sunglasses and a tank top outdoors.",
+      "uk": "Модний молодий чоловік у сонячних окулярах і майці без рукавів на вулиці."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "sunglasses",
+        "i18n": {
+          "en": "sunglasses",
+          "uk": "сонцезахисні окуляри"
+        }
+      },
+      {
+        "key": "tank-top",
+        "i18n": {
+          "en": "tank top",
+          "uk": "майка"
+        }
+      },
+      {
+        "key": "rocky-shore",
+        "i18n": {
+          "en": "rocky shore",
+          "uk": "скелясте узбережжя"
+        }
+      },
+      {
+        "key": "outdoors",
+        "i18n": {
+          "en": "outdoors",
+          "uk": "на відкритому повітрі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/young-model-in-tank-top-and-sunglasses-16811459/",
+  "sourceName": "Pexels",
+  "authorName": "Behrad Rouhi",
+  "authorUrl": "https://www.pexels.com/@behrad-rouhi-510290506",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "vibrant-abstract-art-7hvib",
+  "mediaKey": "a5e3382b-28aa-4f97-83f4-89ec77dc913c",
+  "i18n": {
+    "name": {
+      "en": "Vibrant Abstract Art",
+      "uk": "Яскраве абстрактне мистецтво"
+    },
+    "alt": {
+      "en": "Vibrant Abstract Art",
+      "uk": "Яскраве абстрактне мистецтво"
+    },
+    "tags": [
+      {
+        "key": "dynamic",
+        "i18n": {
+          "en": "Dynamic",
+          "uk": "Динамічний"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "textured",
+        "i18n": {
+          "en": "Textured",
+          "uk": "Текстурований"
+        }
+      },
+      {
+        "key": "vibrant-colors",
+        "i18n": {
+          "en": "vibrant colors",
+          "uk": "яскраві кольори"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract",
+    "textures"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Sam Stoof",
+  "authorUrl": "https://www.lummi.ai/creator/samstoof?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "The image displays an abstract composition with vibrant colors and textures. The background is predominantly blue, with scattered areas of bright pink, green, and black. The colors blend and overlap, creating a dynamic and visually engaging pattern. The texture appears grainy, adding depth and a tactile quality to the image. The arrangement of colors and shapes suggests a sense of movement and energy, with no distinct focal point, allowing the viewer's eye to explore the entire composition.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1796,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/vibrant-abstract-art-7hvib/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/vibrant-abstract-art-7hvib/vibrant-abstract-art-7hvib.png",
+  "relativeAssetPath": "library/lummi/images/vibrant-abstract-art-7hvib/vibrant-abstract-art-7hvib.png"
+}

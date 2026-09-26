@@ -1,0 +1,94 @@
+{
+  "slug": "gothic-veiled-figure-sglud",
+  "mediaKey": "bdf5e622-3610-4244-a6d5-0aed9763bf03",
+  "i18n": {
+    "name": {
+      "en": "Gothic Veiled Figure",
+      "uk": "Готична постать у вуалі"
+    },
+    "alt": {
+      "en": "Gothic Veiled Figure",
+      "uk": "Готична постать у вуалі"
+    },
+    "tags": [
+      {
+        "key": "mysterious",
+        "i18n": {
+          "en": "Mysterious",
+          "uk": "Загадковий"
+        }
+      },
+      {
+        "key": "gothic",
+        "i18n": {
+          "en": "Gothic",
+          "uk": "Готичний"
+        }
+      },
+      {
+        "key": "veil",
+        "i18n": {
+          "en": "Veil",
+          "uk": "Завіса"
+        }
+      },
+      {
+        "key": "chains",
+        "i18n": {
+          "en": "chains",
+          "uk": "ланцюги"
+        }
+      },
+      {
+        "key": "spiked-crown",
+        "i18n": {
+          "en": "spiked crown",
+          "uk": "корона з шипами"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "Fashion",
+          "uk": "Мода"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Viktoriia ⏾",
+  "authorUrl": "https://www.lummi.ai/creator/doitvik?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A figure is draped in a black veil, adorned with a spiked crown and chains with red accents, creating a mysterious and gothic aesthetic.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2048,
+  "height": 2048,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/gothic-veiled-figure-sglud/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/gothic-veiled-figure-sglud/gothic-veiled-figure-sglud.png",
+  "relativeAssetPath": "library/lummi/images/gothic-veiled-figure-sglud/gothic-veiled-figure-sglud.png"
+}

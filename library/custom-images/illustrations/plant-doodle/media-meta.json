@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "plant-doodle",
+  "mediaKey": "custom:content:5cf91762df0aac4bbc7fc09fdc71ceb67f52f92deca4b0bb27bfddb779724b96",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "5cf91762df0aac4bbc7fc09fdc71ceb67f52f92deca4b0bb27bfddb779724b96",
+  "i18n": {
+    "name": {
+      "en": "Plant Doodle",
+      "uk": "Рослинний малюнок"
+    },
+    "alt": {
+      "en": "Plant Doodle",
+      "uk": "Рослинний малюнок"
+    },
+    "tags": [
+      {
+        "key": "plant",
+        "i18n": {
+          "en": "Plant",
+          "uk": "Завод"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

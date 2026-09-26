@@ -1,0 +1,49 @@
+{
+  "slug": "gravitas-ger1",
+  "mediaKey": "aa3be9c0-43f3-45bc-8d0a-4eab1cc302df",
+  "providerId": "5d166dfab44fd90015a09fdc",
+  "i18n": {
+    "name": {
+      "en": "Gravitas",
+      "uk": "Гравитас"
+    },
+    "alt": {
+      "en": "Gravitas",
+      "uk": "Гравитас"
+    },
+    "tags": [
+      {
+        "key": "gravitas",
+        "i18n": {
+          "en": "Gravitas",
+          "uk": "Гравитас"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/gravitas_ger1.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 879,
+  "height": 815
+}

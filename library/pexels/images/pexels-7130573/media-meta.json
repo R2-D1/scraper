@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-7130573",
+  "mediaKey": "pexels:7130573",
+  "i18n": {
+    "name": {
+      "en": "Yellow and turquoise pastel gradient",
+      "uk": "Пастельний жовто-бірюзовий градієнт"
+    },
+    "alt": {
+      "en": "Gradient background with a harmonious blend of soft colors creating an abstract artistic effect.",
+      "uk": "Фон із градієнтом, у якому м'які кольори гармонійно поєднуються, створюючи абстрактний художній ефект."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "pastel",
+        "i18n": {
+          "en": "pastel",
+          "uk": "пастель"
+        }
+      },
+      {
+        "key": "yellow",
+        "i18n": {
+          "en": "yellow",
+          "uk": "жовтий"
+        }
+      },
+      {
+        "key": "cyan",
+        "i18n": {
+          "en": "cyan",
+          "uk": "бірюзовий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/photograph-of-gradient-colors-7130573/",
+  "sourceName": "Pexels",
+  "authorName": "Codioful (formerly Gradienta)",
+  "authorUrl": "https://www.pexels.com/@codioful",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

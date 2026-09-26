@@ -1,0 +1,97 @@
+{
+  "slug": "saas-mobile",
+  "mediaKey": "e30d8007-7d71-46ad-aa4e-3a0ff702bb72",
+  "i18n": {
+    "name": {
+      "en": "Mobile Dashboard",
+      "uk": "Мобільна панель управління"
+    },
+    "alt": {
+      "en": "Mobile Dashboard",
+      "uk": "Мобільна панель управління"
+    },
+    "tags": [
+      {
+        "key": "saas",
+        "i18n": {
+          "en": "saas",
+          "uk": "SaaS"
+        }
+      },
+      {
+        "key": "mobile",
+        "i18n": {
+          "en": "mobile",
+          "uk": "мобільний"
+        }
+      },
+      {
+        "key": "app",
+        "i18n": {
+          "en": "app",
+          "uk": "додаток"
+        }
+      },
+      {
+        "key": "dashboard",
+        "i18n": {
+          "en": "dashboard",
+          "uk": "приладова панель"
+        }
+      },
+      {
+        "key": "responsive",
+        "i18n": {
+          "en": "responsive",
+          "uk": "адаптивний"
+        }
+      },
+      {
+        "key": "phone",
+        "i18n": {
+          "en": "phone",
+          "uk": "телефон"
+        }
+      },
+      {
+        "key": "metrics",
+        "i18n": {
+          "en": "metrics",
+          "uk": "метрики"
+        }
+      },
+      {
+        "key": "ui",
+        "i18n": {
+          "en": "ui",
+          "uk": "ui"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/saas-mobile",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

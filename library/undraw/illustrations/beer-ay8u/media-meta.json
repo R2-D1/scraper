@@ -1,0 +1,49 @@
+{
+  "slug": "beer-ay8u",
+  "mediaKey": "f5094761-f1fc-466f-b21f-23f8146ad461",
+  "providerId": "611b99a146ac6900178f5cd1",
+  "i18n": {
+    "name": {
+      "en": "Beer",
+      "uk": "Пиво"
+    },
+    "alt": {
+      "en": "Beer",
+      "uk": "Пиво"
+    },
+    "tags": [
+      {
+        "key": "beer",
+        "i18n": {
+          "en": "Beer",
+          "uk": "Пиво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/beer_ay8u.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 814,
+  "height": 551
+}

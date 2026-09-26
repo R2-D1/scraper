@@ -1,0 +1,63 @@
+{
+  "slug": "professional-card-ldgq",
+  "mediaKey": "95db07bb-6b39-421c-956a-c596924039eb",
+  "providerId": "5f1831c62e1fb4001764a385",
+  "i18n": {
+    "name": {
+      "en": "Professional card",
+      "uk": "Візитна картка"
+    },
+    "alt": {
+      "en": "Professional card",
+      "uk": "Візитна картка"
+    },
+    "tags": [
+      {
+        "key": "professional-card",
+        "i18n": {
+          "en": "Professional card",
+          "uk": "Візитна картка"
+        }
+      },
+      {
+        "key": "professional",
+        "i18n": {
+          "en": "professional",
+          "uk": "професійний"
+        }
+      },
+      {
+        "key": "card",
+        "i18n": {
+          "en": "card",
+          "uk": "картка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/professional-card_ldgq.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 770,
+  "height": 502
+}

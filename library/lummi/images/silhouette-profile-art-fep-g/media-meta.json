@@ -1,0 +1,91 @@
+{
+  "slug": "silhouette-profile-art-fep-g",
+  "mediaKey": "eeded01d-7a63-4f9e-be06-74364c2f8619",
+  "i18n": {
+    "name": {
+      "en": "Silhouette Profile Art",
+      "uk": "Мистецтво створення силуетних портретів"
+    },
+    "alt": {
+      "en": "Silhouette Profile Art",
+      "uk": "Мистецтво створення силуетних портретів"
+    },
+    "tags": [
+      {
+        "key": "profile",
+        "i18n": {
+          "en": "Profile",
+          "uk": "Профіль"
+        }
+      },
+      {
+        "key": "silhouette",
+        "i18n": {
+          "en": "Silhouette",
+          "uk": "Силует"
+        }
+      },
+      {
+        "key": "modern-aesthetic",
+        "i18n": {
+          "en": "modern aesthetic",
+          "uk": "сучасна естетика"
+        }
+      },
+      {
+        "key": "braided-hair",
+        "i18n": {
+          "en": "braided hair",
+          "uk": "заплетене волосся"
+        }
+      },
+      {
+        "key": "cyan-background",
+        "i18n": {
+          "en": "cyan background",
+          "uk": "блакитний фон"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "Fashion",
+          "uk": "Мода"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/silhouette-profile-art-fep-g",
+  "sourceName": "Lummi",
+  "authorName": "Sanna Granqvist",
+  "authorUrl": "https://www.lummi.ai/creator/granqvistsanna-xh1cz?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A silhouette of a person with braided hair is captured against a bright cyan background. The subject is wearing a dark athletic outfit, and the lighting emphasizes the contours of their face and shoulders. The image has a high contrast, with the subject appearing almost entirely in shadow, creating a striking visual effect. The background is uniformly lit, providing a clean and modern aesthetic. The composition focuses on the subject's profile, highlighting their posture and the texture of their hair.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2048,
+  "height": 1152,
+  "mimeType": "image/webp"
+}

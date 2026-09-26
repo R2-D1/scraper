@@ -1,0 +1,63 @@
+{
+  "slug": "welcome-aboard-y4e9",
+  "mediaKey": "ece2f4e6-326f-4497-ace0-726a1686bf50",
+  "providerId": "67fd719a19be9528599a7948",
+  "i18n": {
+    "name": {
+      "en": "Welcome Aboard",
+      "uk": "Ласкаво просимо на борт"
+    },
+    "alt": {
+      "en": "Welcome Aboard",
+      "uk": "Ласкаво просимо на борт"
+    },
+    "tags": [
+      {
+        "key": "welcome-aboard",
+        "i18n": {
+          "en": "Welcome Aboard",
+          "uk": "Ласкаво просимо на борт"
+        }
+      },
+      {
+        "key": "welcome",
+        "i18n": {
+          "en": "welcome",
+          "uk": "привіт"
+        }
+      },
+      {
+        "key": "aboard",
+        "i18n": {
+          "en": "aboard",
+          "uk": "на борту"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/welcome-aboard_y4e9.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 506,
+  "height": 765
+}

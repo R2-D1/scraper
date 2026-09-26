@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "reading-doodle",
+  "mediaKey": "custom:content:70b28ff91c0f25691234e9699ae21f3da7262203e409da99a47e0ad13e82242b",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "70b28ff91c0f25691234e9699ae21f3da7262203e409da99a47e0ad13e82242b",
+  "i18n": {
+    "name": {
+      "en": "Reading Doodle",
+      "uk": "Читання «Doodle»"
+    },
+    "alt": {
+      "en": "Reading Doodle",
+      "uk": "Читання «Doodle»"
+    },
+    "tags": [
+      {
+        "key": "reading",
+        "i18n": {
+          "en": "Reading",
+          "uk": "Читання"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

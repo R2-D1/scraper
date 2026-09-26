@@ -1,0 +1,90 @@
+{
+  "slug": "marketing-engagement",
+  "mediaKey": "9ccd251c-0e84-4add-ba11-2f51f2694ffe",
+  "i18n": {
+    "name": {
+      "en": "User Engagement",
+      "uk": "Взаємодія з користувачами"
+    },
+    "alt": {
+      "en": "User Engagement",
+      "uk": "Взаємодія з користувачами"
+    },
+    "tags": [
+      {
+        "key": "marketing",
+        "i18n": {
+          "en": "marketing",
+          "uk": "маркетинг"
+        }
+      },
+      {
+        "key": "engagement",
+        "i18n": {
+          "en": "engagement",
+          "uk": "заручини"
+        }
+      },
+      {
+        "key": "user",
+        "i18n": {
+          "en": "user",
+          "uk": "користувача"
+        }
+      },
+      {
+        "key": "comments",
+        "i18n": {
+          "en": "comments",
+          "uk": "коментарі"
+        }
+      },
+      {
+        "key": "love",
+        "i18n": {
+          "en": "love",
+          "uk": "кохання"
+        }
+      },
+      {
+        "key": "heart",
+        "i18n": {
+          "en": "heart",
+          "uk": "серце"
+        }
+      },
+      {
+        "key": "interaction",
+        "i18n": {
+          "en": "interaction",
+          "uk": "взаємодія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/marketing-engagement",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

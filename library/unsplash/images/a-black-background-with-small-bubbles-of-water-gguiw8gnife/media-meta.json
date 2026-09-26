@@ -1,0 +1,53 @@
+{
+  "slug": "a-black-background-with-small-bubbles-of-water-gguiw8gnife",
+  "mediaKey": "791b33fa-9481-4bd7-ae78-4169f8046d85",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "a black background with small bubbles of water",
+      "uk": "Бульбашки води на чорному тлі"
+    },
+    "alt": {
+      "en": "a black background with small bubbles of water",
+      "uk": "Чорне тло з маленькими бульбашками води"
+    },
+    "tags": [
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "black",
+        "i18n": {
+          "en": "black",
+          "uk": "чорний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/a-black-background-with-small-bubbles-of-water-gGUiw8GNIFE",
+  "sourceName": "Unsplash",
+  "authorName": "Kevin Mueller",
+  "authorUrl": "https://unsplash.com/@kevinmueller",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 3600,
+  "collectionSlugs": [
+    "textures"
+  ]
+}

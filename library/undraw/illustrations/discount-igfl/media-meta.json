@@ -1,0 +1,49 @@
+{
+  "slug": "discount-igfl",
+  "mediaKey": "af645e21-1e8a-43de-bbd3-d2290de4395b",
+  "providerId": "685dbfb56996f2c1d37a2037",
+  "i18n": {
+    "name": {
+      "en": "Discount",
+      "uk": "Знижка"
+    },
+    "alt": {
+      "en": "Discount",
+      "uk": "Знижка"
+    },
+    "tags": [
+      {
+        "key": "discount",
+        "i18n": {
+          "en": "Discount",
+          "uk": "Знижка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/discount_igfl.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 813,
+  "height": 645
+}

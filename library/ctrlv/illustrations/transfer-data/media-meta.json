@@ -1,0 +1,76 @@
+{
+  "slug": "transfer-data",
+  "mediaKey": "c563c648-9937-4d49-80ce-de2b7a86c4d1",
+  "i18n": {
+    "name": {
+      "en": "Transfer Data",
+      "uk": "Передача даних"
+    },
+    "alt": {
+      "en": "Transfer Data",
+      "uk": "Передача даних"
+    },
+    "tags": [
+      {
+        "key": "download",
+        "i18n": {
+          "en": "download",
+          "uk": "завантажити"
+        }
+      },
+      {
+        "key": "upload",
+        "i18n": {
+          "en": "upload",
+          "uk": "завантажити"
+        }
+      },
+      {
+        "key": "transfer",
+        "i18n": {
+          "en": "transfer",
+          "uk": "передача"
+        }
+      },
+      {
+        "key": "cloud",
+        "i18n": {
+          "en": "cloud",
+          "uk": "хмара"
+        }
+      },
+      {
+        "key": "ops",
+        "i18n": {
+          "en": "ops",
+          "uk": "ops"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/transfer-data",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

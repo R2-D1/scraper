@@ -1,0 +1,63 @@
+{
+  "slug": "pin-to-board-eoie",
+  "mediaKey": "e079e7e0-45e8-4a4b-86bc-2683e222e82c",
+  "providerId": "686d717815abbf0a4411ca6f",
+  "i18n": {
+    "name": {
+      "en": "Pin to board",
+      "uk": "Додати до дошки"
+    },
+    "alt": {
+      "en": "Pin to board",
+      "uk": "Додати до дошки"
+    },
+    "tags": [
+      {
+        "key": "pin-to-board",
+        "i18n": {
+          "en": "Pin to board",
+          "uk": "Додати до дошки"
+        }
+      },
+      {
+        "key": "pin",
+        "i18n": {
+          "en": "pin",
+          "uk": "шпилька"
+        }
+      },
+      {
+        "key": "board",
+        "i18n": {
+          "en": "board",
+          "uk": "дошка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/pin-to-board_eoie.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 497
+}

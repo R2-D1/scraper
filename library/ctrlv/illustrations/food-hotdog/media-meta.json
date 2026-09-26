@@ -1,0 +1,97 @@
+{
+  "slug": "food-hotdog",
+  "mediaKey": "29ae9aab-f5bf-401e-8ff8-c169b22f4269",
+  "i18n": {
+    "name": {
+      "en": "American Hot Dog",
+      "uk": "Американський хот-дог"
+    },
+    "alt": {
+      "en": "American Hot Dog",
+      "uk": "Американський хот-дог"
+    },
+    "tags": [
+      {
+        "key": "food",
+        "i18n": {
+          "en": "food",
+          "uk": "їжа"
+        }
+      },
+      {
+        "key": "hot-dog",
+        "i18n": {
+          "en": "hot dog",
+          "uk": "хот-дог"
+        }
+      },
+      {
+        "key": "usa",
+        "i18n": {
+          "en": "usa",
+          "uk": "США"
+        }
+      },
+      {
+        "key": "germany",
+        "i18n": {
+          "en": "germany",
+          "uk": "Німеччина"
+        }
+      },
+      {
+        "key": "cuisine",
+        "i18n": {
+          "en": "cuisine",
+          "uk": "кухня"
+        }
+      },
+      {
+        "key": "fast-food",
+        "i18n": {
+          "en": "fast food",
+          "uk": "фастфуд"
+        }
+      },
+      {
+        "key": "snack",
+        "i18n": {
+          "en": "snack",
+          "uk": "перекус"
+        }
+      },
+      {
+        "key": "sausage",
+        "i18n": {
+          "en": "sausage",
+          "uk": "ковбаса"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/food-hotdog",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-18541888",
+  "mediaKey": "pexels:18541888",
+  "i18n": {
+    "name": {
+      "en": "Fine dark metallic grain",
+      "uk": "Дрібна темна металева фактура"
+    },
+    "alt": {
+      "en": "Dark, crinkled foil creates an abstract, textured background with a black and white theme.",
+      "uk": "Темна, зморшкувата фольга створює абстрактний, фактурний фон у чорно-білій гамі."
+    },
+    "tags": [
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "metallic",
+        "i18n": {
+          "en": "metallic",
+          "uk": "металевий"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "grain",
+        "i18n": {
+          "en": "grain",
+          "uk": "зерно"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "textures"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/abstract-photo-of-plastic-foil-18541888/",
+  "sourceName": "Pexels",
+  "authorName": "Resource Boy",
+  "authorUrl": "https://www.pexels.com/@resourceboy",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3435
+}

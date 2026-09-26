@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-5980065",
+  "mediaKey": "pexels:5980065",
+  "i18n": {
+    "name": {
+      "en": "Woman with pale hair in a dark beauty portrait",
+      "uk": "Жінка зі світлим волоссям у темному портреті краси"
+    },
+    "alt": {
+      "en": "Portrait of a woman in a black hat posing among vibrant green leaves outdoors.",
+      "uk": "Портрет жінки в чорному капелюсі, яка позує на природі серед яскраво-зеленого листя."
+    },
+    "tags": [
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      },
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "makeup",
+        "i18n": {
+          "en": "makeup",
+          "uk": "макіяж"
+        }
+      },
+      {
+        "key": "white-hair",
+        "i18n": {
+          "en": "white hair",
+          "uk": "біле волосся"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-woman-wearing-a-black-tank-top-and-a-hat-standing-beside-the-green-leaves-5980065/",
+  "sourceName": "Pexels",
+  "authorName": "Pouriya Kafaei",
+  "authorUrl": "https://www.pexels.com/@pouriyakafaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

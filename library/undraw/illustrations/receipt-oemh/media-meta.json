@@ -1,0 +1,49 @@
+{
+  "slug": "receipt-oemh",
+  "mediaKey": "1c049e1c-b069-424b-a962-ba6007ab4e20",
+  "providerId": "6a614714939aab611cf25c79",
+  "i18n": {
+    "name": {
+      "en": "Receipt",
+      "uk": "Квитанція"
+    },
+    "alt": {
+      "en": "Receipt",
+      "uk": "Квитанція"
+    },
+    "tags": [
+      {
+        "key": "receipt",
+        "i18n": {
+          "en": "Receipt",
+          "uk": "Квитанція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/receipt_oemh.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 961,
+  "height": 880
+}

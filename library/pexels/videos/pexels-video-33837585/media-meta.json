@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-33837585",
+  "mediaKey": "pexels:video:33837585",
+  "i18n": {
+    "name": {
+      "en": "Dramatic Storm Clouds",
+      "uk": "Ефектні грозові хмари"
+    },
+    "alt": {
+      "en": "Pexels video 33837585",
+      "uk": "Відео з Pexels № 33837585"
+    },
+    "tags": [
+      {
+        "key": "clouds",
+        "i18n": {
+          "en": "clouds",
+          "uk": "хмари"
+        }
+      },
+      {
+        "key": "storm",
+        "i18n": {
+          "en": "storm",
+          "uk": "шторм"
+        }
+      },
+      {
+        "key": "dramatic",
+        "i18n": {
+          "en": "dramatic",
+          "uk": "драматичний"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "sky",
+        "i18n": {
+          "en": "sky",
+          "uk": "небо"
+        }
+      },
+      {
+        "key": "weather",
+        "i18n": {
+          "en": "weather",
+          "uk": "погода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/dramatic-cloudscape-timelapse-footage-33837585/",
+  "sourceName": "Pexels",
+  "authorName": "Larkkid Dung",
+  "authorUrl": "https://www.pexels.com/@larkkid-dung-363901731",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 17,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

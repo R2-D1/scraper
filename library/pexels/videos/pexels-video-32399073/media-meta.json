@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-32399073",
+  "mediaKey": "pexels:video:32399073",
+  "i18n": {
+    "name": {
+      "en": "Flowing Cyan Light Ribbons",
+      "uk": "Стрічки, що струмують блакитним світлом"
+    },
+    "alt": {
+      "en": "Pexels video 32399073",
+      "uk": "Відео з Pexels № 32399073"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "cyan",
+        "i18n": {
+          "en": "cyan",
+          "uk": "бірюзовий"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "light",
+        "i18n": {
+          "en": "light",
+          "uk": "світло"
+        }
+      },
+      {
+        "key": "ribbons",
+        "i18n": {
+          "en": "ribbons",
+          "uk": "стрічки"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "digital",
+        "i18n": {
+          "en": "digital",
+          "uk": "цифровий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/futuristic-abstract-digital-flow-background-32399073/",
+  "sourceName": "Pexels",
+  "authorName": "Chandresh Uike",
+  "authorUrl": "https://www.pexels.com/@chandresh-uike-754623426",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 20,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

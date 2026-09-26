@@ -1,0 +1,63 @@
+{
+  "slug": "gone-shopping-z260",
+  "mediaKey": "3952280b-3e1d-4ddb-a81a-33871b82d03f",
+  "providerId": "61e995b40150e60018d9e68c",
+  "i18n": {
+    "name": {
+      "en": "Gone shopping",
+      "uk": "Пішла за покупками"
+    },
+    "alt": {
+      "en": "Gone shopping",
+      "uk": "Пішла за покупками"
+    },
+    "tags": [
+      {
+        "key": "gone-shopping",
+        "i18n": {
+          "en": "Gone shopping",
+          "uk": "Пішла за покупками"
+        }
+      },
+      {
+        "key": "gone",
+        "i18n": {
+          "en": "gone",
+          "uk": "зник"
+        }
+      },
+      {
+        "key": "shopping",
+        "i18n": {
+          "en": "shopping",
+          "uk": "покупки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/gone-shopping_z260.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 705,
+  "height": 561
+}

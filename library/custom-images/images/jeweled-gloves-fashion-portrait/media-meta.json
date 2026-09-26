@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "jeweled-gloves-fashion-portrait",
+  "mediaKey": "custom:content:4d6f1274b4e93d9a6ae1e7070171e8572db6c8040ce4b23f2399b84e4279e857",
+  "pinned": true,
+  "collectionSlugs": [
+    "people"
+  ],
+  "sourceContentHash": "4d6f1274b4e93d9a6ae1e7070171e8572db6c8040ce4b23f2399b84e4279e857",
+  "i18n": {
+    "name": {
+      "en": "Jeweled Gloves Fashion Portrait",
+      "uk": "Модний портрет у коштовних рукавичках"
+    },
+    "alt": {
+      "en": "Jeweled Gloves Fashion Portrait",
+      "uk": "Модний портрет у коштовних рукавичках"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "gloves",
+        "i18n": {
+          "en": "Gloves",
+          "uk": "Рукавички"
+        }
+      },
+      {
+        "key": "jewelry",
+        "i18n": {
+          "en": "Jewelry",
+          "uk": "Прикраси"
+        }
+      },
+      {
+        "key": "glamour",
+        "i18n": {
+          "en": "Glamour",
+          "uk": "Гламур"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "Woman",
+        "Portrait",
+        "Gloves",
+        "Jewelry",
+        "Glamour"
+      ],
+      "uk": [
+        "Жінка",
+        "Портрет",
+        "Рукавички",
+        "Прикраси",
+        "Гламур"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://divnex.com",
+  "sourceName": "Divnex",
+  "authorName": "Divnex",
+  "authorUrl": "https://divnex.com",
+  "licenseName": "Divnex Asset License",
+  "licenseUrl": "https://divnex.com/asset-license",
+  "width": 2400,
+  "height": 2999
+}

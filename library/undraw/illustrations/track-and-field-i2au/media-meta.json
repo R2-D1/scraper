@@ -1,0 +1,63 @@
+{
+  "slug": "track-and-field-i2au",
+  "mediaKey": "c0534044-c1c1-4a79-b1c4-ea737bccd2fb",
+  "providerId": "5b13c2f634c89f00142e94b4",
+  "i18n": {
+    "name": {
+      "en": "Track and field",
+      "uk": "Легка атлетика"
+    },
+    "alt": {
+      "en": "Track and field",
+      "uk": "Легка атлетика"
+    },
+    "tags": [
+      {
+        "key": "track-and-field",
+        "i18n": {
+          "en": "Track and field",
+          "uk": "Легка атлетика"
+        }
+      },
+      {
+        "key": "track",
+        "i18n": {
+          "en": "track",
+          "uk": "трек"
+        }
+      },
+      {
+        "key": "field",
+        "i18n": {
+          "en": "field",
+          "uk": "поле"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/track-and-field_i2au.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 997,
+  "height": 808
+}

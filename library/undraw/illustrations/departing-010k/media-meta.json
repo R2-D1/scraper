@@ -1,0 +1,49 @@
+{
+  "slug": "departing-010k",
+  "mediaKey": "5e8348b9-0b5d-4c9c-9966-17ff7c471583",
+  "providerId": "6114fb37dfeffb0017ce6d25",
+  "i18n": {
+    "name": {
+      "en": "Departing",
+      "uk": "Виїзд"
+    },
+    "alt": {
+      "en": "Departing",
+      "uk": "Виїзд"
+    },
+    "tags": [
+      {
+        "key": "departing",
+        "i18n": {
+          "en": "Departing",
+          "uk": "Виїзд"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/departing_010k.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 833,
+  "height": 683
+}

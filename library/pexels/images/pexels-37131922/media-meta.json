@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-37131922",
+  "mediaKey": "pexels:37131922",
+  "i18n": {
+    "name": {
+      "en": "Dark sedan driving along a road at dusk",
+      "uk": "Темний седан їде дорогою в сутінках"
+    },
+    "alt": {
+      "en": "A sleek purple car driving on the highway during a vibrant sunset in Hokkaido, Japan.",
+      "uk": "Елегантний фіолетовий автомобіль, що рухається по шосе під час яскравого заходу сонця на Хоккайдо, Японія."
+    },
+    "tags": [
+      {
+        "key": "car",
+        "i18n": {
+          "en": "car",
+          "uk": "автомобіль"
+        }
+      },
+      {
+        "key": "sedan",
+        "i18n": {
+          "en": "sedan",
+          "uk": "седан"
+        }
+      },
+      {
+        "key": "driving",
+        "i18n": {
+          "en": "driving",
+          "uk": "водіння"
+        }
+      },
+      {
+        "key": "road",
+        "i18n": {
+          "en": "road",
+          "uk": "дорога"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "vehicles"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/midnight-purple-car-at-sunset-in-hokkaido-37131922/",
+  "sourceName": "Pexels",
+  "authorName": "Hensan Aranha",
+  "authorUrl": "https://www.pexels.com/@wearelivingart",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1500
+}

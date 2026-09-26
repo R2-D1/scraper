@@ -1,0 +1,83 @@
+{
+  "slug": "problem-statement",
+  "mediaKey": "230a6f9a-07e8-4562-a352-156ca21d13ba",
+  "i18n": {
+    "name": {
+      "en": "Problem Statement",
+      "uk": "Постановка задачі"
+    },
+    "alt": {
+      "en": "Problem Statement",
+      "uk": "Постановка задачі"
+    },
+    "tags": [
+      {
+        "key": "problem",
+        "i18n": {
+          "en": "problem",
+          "uk": "проблема"
+        }
+      },
+      {
+        "key": "statement",
+        "i18n": {
+          "en": "statement",
+          "uk": "заява"
+        }
+      },
+      {
+        "key": "question",
+        "i18n": {
+          "en": "question",
+          "uk": "запитання"
+        }
+      },
+      {
+        "key": "puzzle",
+        "i18n": {
+          "en": "puzzle",
+          "uk": "головоломка"
+        }
+      },
+      {
+        "key": "strategy",
+        "i18n": {
+          "en": "strategy",
+          "uk": "стратегія"
+        }
+      },
+      {
+        "key": "biz",
+        "i18n": {
+          "en": "biz",
+          "uk": "бізнес"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/problem-statement",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

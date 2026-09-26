@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-39377058",
+  "mediaKey": "pexels:video:39377058",
+  "i18n": {
+    "name": {
+      "en": "Green Radial Energy Spiral",
+      "uk": "Зелена радіальна енергетична спіраль"
+    },
+    "alt": {
+      "en": "Pexels video 39377058",
+      "uk": "Відео з Pexels № 39377058"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      },
+      {
+        "key": "radial",
+        "i18n": {
+          "en": "radial",
+          "uk": "радіальний"
+        }
+      },
+      {
+        "key": "spiral",
+        "i18n": {
+          "en": "spiral",
+          "uk": "спіраль"
+        }
+      },
+      {
+        "key": "energy",
+        "i18n": {
+          "en": "energy",
+          "uk": "енергія"
+        }
+      },
+      {
+        "key": "motion",
+        "i18n": {
+          "en": "motion",
+          "uk": "рух"
+        }
+      },
+      {
+        "key": "digital",
+        "i18n": {
+          "en": "digital",
+          "uk": "цифровий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/dynamic-green-kaleidoscope-zoom-effect-39377058/",
+  "sourceName": "Pexels",
+  "authorName": "Nicola Narracci",
+  "authorUrl": "https://www.pexels.com/@nicola-narracci-157460431",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1080,
+  "height": 1920,
+  "duration": 10,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

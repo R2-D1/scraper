@@ -1,0 +1,78 @@
+{
+  "slug": "pexels-video-33794009",
+  "mediaKey": "pexels:video:33794009",
+  "i18n": {
+    "name": {
+      "en": "White Clouds in Blue Sky",
+      "uk": "Білі хмари на блакитному небі"
+    },
+    "alt": {
+      "en": "Pexels video 33794009",
+      "uk": "Відео з Pexels № 33794009"
+    },
+    "tags": [
+      {
+        "key": "clouds",
+        "i18n": {
+          "en": "clouds",
+          "uk": "хмари"
+        }
+      },
+      {
+        "key": "blue-sky",
+        "i18n": {
+          "en": "blue-sky",
+          "uk": "блакитне небо"
+        }
+      },
+      {
+        "key": "white",
+        "i18n": {
+          "en": "white",
+          "uk": "білий"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      },
+      {
+        "key": "daylight",
+        "i18n": {
+          "en": "daylight",
+          "uk": "денне світло"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/fluffy-white-clouds-in-blue-sky-timelapse-33794009/",
+  "sourceName": "Pexels",
+  "authorName": "Larkkid Dung",
+  "authorUrl": "https://www.pexels.com/@larkkid-dung-363901731",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 29,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

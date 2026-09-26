@@ -1,0 +1,83 @@
+{
+  "slug": "valentines-love",
+  "mediaKey": "9089afad-72aa-4d11-810b-4f8c43221edc",
+  "i18n": {
+    "name": {
+      "en": "Valentine's Day",
+      "uk": "День Святого Валентина"
+    },
+    "alt": {
+      "en": "Valentine's Day",
+      "uk": "День Святого Валентина"
+    },
+    "tags": [
+      {
+        "key": "valentine",
+        "i18n": {
+          "en": "valentine",
+          "uk": "валентинка"
+        }
+      },
+      {
+        "key": "love",
+        "i18n": {
+          "en": "love",
+          "uk": "кохання"
+        }
+      },
+      {
+        "key": "heart",
+        "i18n": {
+          "en": "heart",
+          "uk": "серце"
+        }
+      },
+      {
+        "key": "romance",
+        "i18n": {
+          "en": "romance",
+          "uk": "романтика"
+        }
+      },
+      {
+        "key": "gift",
+        "i18n": {
+          "en": "gift",
+          "uk": "подарунок"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/valentines-love",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

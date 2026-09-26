@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-4582812",
+  "mediaKey": "pexels:4582812",
+  "i18n": {
+    "name": {
+      "en": "Tattooed man relaxing in a chair while using his phone",
+      "uk": "Чоловік з татуюваннями, який відпочиває в кріслі, користуючись телефоном"
+    },
+    "alt": {
+      "en": "A tattooed man in sunglasses relaxes on a wooden deck chair while using his phone.",
+      "uk": "Чоловік з татуюваннями в сонцезахисних окулярах відпочиває на дерев'яному шезлонгу, користуючись телефоном."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "tattoos",
+        "i18n": {
+          "en": "tattoos",
+          "uk": "татуювання"
+        }
+      },
+      {
+        "key": "smartphone",
+        "i18n": {
+          "en": "smartphone",
+          "uk": "смартфон"
+        }
+      },
+      {
+        "key": "chair",
+        "i18n": {
+          "en": "chair",
+          "uk": "стілець"
+        }
+      },
+      {
+        "key": "pink-socks",
+        "i18n": {
+          "en": "pink socks",
+          "uk": "рожеві шкарпетки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/serious-young-ethnic-man-talking-on-smartphone-while-resting-on-chair-4582812/",
+  "sourceName": "Pexels",
+  "authorName": "Malcolm Garret",
+  "authorUrl": "https://www.pexels.com/@malcolm-garret-3023588",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

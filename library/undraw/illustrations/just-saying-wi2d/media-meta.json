@@ -1,0 +1,63 @@
+{
+  "slug": "just-saying-wi2d",
+  "mediaKey": "5b108860-4dec-44a5-b349-357ab0987453",
+  "providerId": "5f02f18f61445000170acddb",
+  "i18n": {
+    "name": {
+      "en": "Just saying",
+      "uk": "Просто так, до речі"
+    },
+    "alt": {
+      "en": "Just saying",
+      "uk": "Просто так, до речі"
+    },
+    "tags": [
+      {
+        "key": "just-saying",
+        "i18n": {
+          "en": "Just saying",
+          "uk": "Просто так, до речі"
+        }
+      },
+      {
+        "key": "just",
+        "i18n": {
+          "en": "just",
+          "uk": "просто"
+        }
+      },
+      {
+        "key": "saying",
+        "i18n": {
+          "en": "saying",
+          "uk": "сказавши"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/just-saying_wi2d.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 582,
+  "height": 521
+}

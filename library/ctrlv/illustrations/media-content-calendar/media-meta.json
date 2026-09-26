@@ -1,0 +1,97 @@
+{
+  "slug": "media-content-calendar",
+  "mediaKey": "29b72d58-2dec-4209-87dd-197d6692b2ac",
+  "i18n": {
+    "name": {
+      "en": "Content Calendar",
+      "uk": "Календар контенту"
+    },
+    "alt": {
+      "en": "Content Calendar",
+      "uk": "Календар контенту"
+    },
+    "tags": [
+      {
+        "key": "media",
+        "i18n": {
+          "en": "media",
+          "uk": "медіа"
+        }
+      },
+      {
+        "key": "content",
+        "i18n": {
+          "en": "content",
+          "uk": "вміст"
+        }
+      },
+      {
+        "key": "calendar",
+        "i18n": {
+          "en": "calendar",
+          "uk": "календар"
+        }
+      },
+      {
+        "key": "strategy",
+        "i18n": {
+          "en": "strategy",
+          "uk": "стратегія"
+        }
+      },
+      {
+        "key": "plan",
+        "i18n": {
+          "en": "plan",
+          "uk": "план"
+        }
+      },
+      {
+        "key": "schedule",
+        "i18n": {
+          "en": "schedule",
+          "uk": "розклад"
+        }
+      },
+      {
+        "key": "social",
+        "i18n": {
+          "en": "social",
+          "uk": "соціальні"
+        }
+      },
+      {
+        "key": "posts",
+        "i18n": {
+          "en": "posts",
+          "uk": "пости"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/media-content-calendar",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

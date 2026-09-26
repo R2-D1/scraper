@@ -1,0 +1,63 @@
+{
+  "slug": "fish-bowl-mz4m",
+  "mediaKey": "bd77bd0e-1ae2-4e07-b674-5e469969b587",
+  "providerId": "5c3e09b8283b820014a728b9",
+  "i18n": {
+    "name": {
+      "en": "Fish bowl",
+      "uk": "Акваріум"
+    },
+    "alt": {
+      "en": "Fish bowl",
+      "uk": "Акваріум"
+    },
+    "tags": [
+      {
+        "key": "fish-bowl",
+        "i18n": {
+          "en": "Fish bowl",
+          "uk": "Акваріум"
+        }
+      },
+      {
+        "key": "fish",
+        "i18n": {
+          "en": "fish",
+          "uk": "риба"
+        }
+      },
+      {
+        "key": "bowl",
+        "i18n": {
+          "en": "bowl",
+          "uk": "чаша"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/fish-bowl_mz4m.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1048,
+  "height": 703
+}

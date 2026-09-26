@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-30936149",
+  "mediaKey": "pexels:30936149",
+  "i18n": {
+    "name": {
+      "en": "Close-up portrait beneath a sheer veil",
+      "uk": "Крупний план обличчя під напівпрозорою вуаллю"
+    },
+    "alt": {
+      "en": "Ethereal photo capturing a serene woman with blurred motion effect, adding a dreamy feel.",
+      "uk": "Ефірна фотографія, на якій зображена спокійна жінка з ефектом розмиття руху, що додає знімку мрійливого настрою."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "veil",
+        "i18n": {
+          "en": "veil",
+          "uk": "вуаль"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/dreamy-portrait-of-a-woman-in-soft-focus-30936149/",
+  "sourceName": "Pexels",
+  "authorName": "Jean-Daniel Francoeur",
+  "authorUrl": "https://www.pexels.com/@jean-daniel",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

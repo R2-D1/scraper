@@ -1,0 +1,49 @@
+{
+  "slug": "bookmarks-i66k",
+  "mediaKey": "d6d5b35e-7035-4d7c-8086-3863cd1a1876",
+  "providerId": "67917ce4f456bbb92fb614c5",
+  "i18n": {
+    "name": {
+      "en": "Bookmarks",
+      "uk": "Закладки"
+    },
+    "alt": {
+      "en": "Bookmarks",
+      "uk": "Закладки"
+    },
+    "tags": [
+      {
+        "key": "bookmarks",
+        "i18n": {
+          "en": "Bookmarks",
+          "uk": "Закладки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/bookmarks_i66k.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1024,
+  "height": 646
+}

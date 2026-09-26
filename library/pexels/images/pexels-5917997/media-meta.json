@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-5917997",
+  "mediaKey": "pexels:5917997",
+  "i18n": {
+    "name": {
+      "en": "Close-up beauty portrait with dark hair",
+      "uk": "Крупний план жінки з темним волоссям"
+    },
+    "alt": {
+      "en": "Elegant close-up portrait of a fashionable woman with wet hair.",
+      "uk": "Елегантний портрет модної жінки з мокрим волоссям, знятий крупним планом."
+    },
+    "tags": [
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      },
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "makeup",
+        "i18n": {
+          "en": "makeup",
+          "uk": "макіяж"
+        }
+      },
+      {
+        "key": "close-up",
+        "i18n": {
+          "en": "close up",
+          "uk": "крупний план"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-woman-in-black-spaghetti-strap-top-5917997/",
+  "sourceName": "Pexels",
+  "authorName": "Pouriya Kafaei",
+  "authorUrl": "https://www.pexels.com/@pouriyakafaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

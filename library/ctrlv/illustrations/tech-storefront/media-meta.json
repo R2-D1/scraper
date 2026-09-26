@@ -1,0 +1,97 @@
+{
+  "slug": "tech-storefront",
+  "mediaKey": "9c98cf02-b3f0-4d6e-9d87-3ba20fce03a6",
+  "i18n": {
+    "name": {
+      "en": "Digital Storefront",
+      "uk": "Цифровий магазин"
+    },
+    "alt": {
+      "en": "Digital Storefront",
+      "uk": "Цифровий магазин"
+    },
+    "tags": [
+      {
+        "key": "ecommerce",
+        "i18n": {
+          "en": "ecommerce",
+          "uk": "електронна комерція"
+        }
+      },
+      {
+        "key": "store",
+        "i18n": {
+          "en": "store",
+          "uk": "зберігати"
+        }
+      },
+      {
+        "key": "shop",
+        "i18n": {
+          "en": "shop",
+          "uk": "магазин"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "retail",
+        "i18n": {
+          "en": "retail",
+          "uk": "ритейл"
+        }
+      },
+      {
+        "key": "business",
+        "i18n": {
+          "en": "business",
+          "uk": "бізнес"
+        }
+      },
+      {
+        "key": "boutique",
+        "i18n": {
+          "en": "boutique",
+          "uk": "бутик"
+        }
+      },
+      {
+        "key": "open",
+        "i18n": {
+          "en": "open",
+          "uk": "відкритий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/tech-storefront",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

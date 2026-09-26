@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-38909733",
+  "mediaKey": "pexels:38909733",
+  "i18n": {
+    "name": {
+      "en": "Man posing in a dark jacket under blue light",
+      "uk": "Чоловік позує в темній куртці під синім світлом"
+    },
+    "alt": {
+      "en": "Portrait of a fashionable young man with cornrows and sunglasses against a vibrant blue background.",
+      "uk": "Портрет модного юнака з афрокосичками та сонцезахисними окулярами на яскраво-синьому тлі."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "cornrows",
+        "i18n": {
+          "en": "cornrows",
+          "uk": "афрокосички"
+        }
+      },
+      {
+        "key": "sunglasses",
+        "i18n": {
+          "en": "sunglasses",
+          "uk": "сонцезахисні окуляри"
+        }
+      },
+      {
+        "key": "dark-clothing",
+        "i18n": {
+          "en": "dark clothing",
+          "uk": "темний одяг"
+        }
+      },
+      {
+        "key": "blue-background",
+        "i18n": {
+          "en": "blue background",
+          "uk": "синій фон"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/stylish-young-man-in-sunglasses-against-blue-background-38909733/",
+  "sourceName": "Pexels",
+  "authorName": "Aj Collins  Artistry",
+  "authorUrl": "https://www.pexels.com/@aj-collins-artistry-1772576281",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

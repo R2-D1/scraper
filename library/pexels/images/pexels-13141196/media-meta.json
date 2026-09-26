@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-13141196",
+  "mediaKey": "pexels:13141196",
+  "i18n": {
+    "name": {
+      "en": "Woman sitting in a red convertible in the desert",
+      "uk": "Жінка, що сидить у червоному кабріолеті в пустелі"
+    },
+    "alt": {
+      "en": "Woman seated in a red convertible amidst the vast Texas desert landscape.",
+      "uk": "Жінка сидить у червоному кабріолеті посеред безкрайнього пустельного ландшафту Техасу."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "red-convertible",
+        "i18n": {
+          "en": "red convertible",
+          "uk": "червоний кабріолет"
+        }
+      },
+      {
+        "key": "desert",
+        "i18n": {
+          "en": "desert",
+          "uk": "пустеля"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "road-trip",
+        "i18n": {
+          "en": "road trip",
+          "uk": "автоподорож"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/young-woman-in-a-red-cabriolet-looking-back-13141196/",
+  "sourceName": "Pexels",
+  "authorName": "Pouriya Kafaei",
+  "authorUrl": "https://www.pexels.com/@pouriyakafaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

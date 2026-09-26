@@ -1,0 +1,49 @@
+{
+  "slug": "ideas-vn7a",
+  "mediaKey": "36ad0c0b-4861-420c-9e6e-db368b9af914",
+  "providerId": "685c5c7b50ba4e0acc80769d",
+  "i18n": {
+    "name": {
+      "en": "Ideas",
+      "uk": "Ідеї"
+    },
+    "alt": {
+      "en": "Ideas",
+      "uk": "Ідеї"
+    },
+    "tags": [
+      {
+        "key": "ideas",
+        "i18n": {
+          "en": "Ideas",
+          "uk": "Ідеї"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/ideas_vn7a.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 755,
+  "height": 800
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "qr-code-scan-bewe",
+  "mediaKey": "96d0188b-2505-43d8-a83b-14c6d91fa2d7",
+  "providerId": "69682067d65cd864e5e70ec9",
+  "i18n": {
+    "name": {
+      "en": "QR Code Scan",
+      "uk": "Сканування QR-коду"
+    },
+    "alt": {
+      "en": "QR Code Scan",
+      "uk": "Сканування QR-коду"
+    },
+    "tags": [
+      {
+        "key": "qr-code-scan",
+        "i18n": {
+          "en": "QR Code Scan",
+          "uk": "Сканування QR-коду"
+        }
+      },
+      {
+        "key": "qr",
+        "i18n": {
+          "en": "qr",
+          "uk": "qr-код"
+        }
+      },
+      {
+        "key": "code",
+        "i18n": {
+          "en": "code",
+          "uk": "код"
+        }
+      },
+      {
+        "key": "scan",
+        "i18n": {
+          "en": "scan",
+          "uk": "скан"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/qr-code-scan_bewe.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 399,
+  "height": 800
+}

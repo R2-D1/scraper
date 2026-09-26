@@ -1,0 +1,76 @@
+{
+  "slug": "fox",
+  "mediaKey": "4a2a54bc-4f9d-47a3-9117-7071bd65f2fa",
+  "i18n": {
+    "name": {
+      "en": "Fox",
+      "uk": "Лисиця"
+    },
+    "alt": {
+      "en": "Fox",
+      "uk": "Лисиця"
+    },
+    "tags": [
+      {
+        "key": "fox",
+        "i18n": {
+          "en": "fox",
+          "uk": "лисиця"
+        }
+      },
+      {
+        "key": "animal",
+        "i18n": {
+          "en": "animal",
+          "uk": "тварина"
+        }
+      },
+      {
+        "key": "forest",
+        "i18n": {
+          "en": "forest",
+          "uk": "ліс"
+        }
+      },
+      {
+        "key": "wildlife",
+        "i18n": {
+          "en": "wildlife",
+          "uk": "дика природа"
+        }
+      },
+      {
+        "key": "cute",
+        "i18n": {
+          "en": "cute",
+          "uk": "милий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/fox",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

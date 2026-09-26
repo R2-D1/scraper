@@ -1,0 +1,83 @@
+{
+  "slug": "api-connections",
+  "mediaKey": "86cfa03e-f896-466a-98bb-ab2ea0a97582",
+  "i18n": {
+    "name": {
+      "en": "The Perfect Gears",
+      "uk": "Ідеальні шестерні"
+    },
+    "alt": {
+      "en": "The Perfect Gears",
+      "uk": "Ідеальні шестерні"
+    },
+    "tags": [
+      {
+        "key": "api",
+        "i18n": {
+          "en": "api",
+          "uk": "API"
+        }
+      },
+      {
+        "key": "connect",
+        "i18n": {
+          "en": "connect",
+          "uk": "підключити"
+        }
+      },
+      {
+        "key": "gears",
+        "i18n": {
+          "en": "gears",
+          "uk": "шестерні"
+        }
+      },
+      {
+        "key": "integration",
+        "i18n": {
+          "en": "integration",
+          "uk": "інтеграція"
+        }
+      },
+      {
+        "key": "engine",
+        "i18n": {
+          "en": "engine",
+          "uk": "двигун"
+        }
+      },
+      {
+        "key": "machine",
+        "i18n": {
+          "en": "machine",
+          "uk": "машина"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/api-connections",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

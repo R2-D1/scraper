@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-18541889",
+  "mediaKey": "pexels:18541889",
+  "i18n": {
+    "name": {
+      "en": "Dark ripples across a water surface",
+      "uk": "Темні хвилі на поверхні води"
+    },
+    "alt": {
+      "en": "A detailed close-up of a dark, textured surface with abstract patterns.",
+      "uk": "Детальний крупний план темної фактурної поверхні з абстрактними візерунками."
+    },
+    "tags": [
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "water",
+        "i18n": {
+          "en": "water",
+          "uk": "вода"
+        }
+      },
+      {
+        "key": "rippled",
+        "i18n": {
+          "en": "rippled",
+          "uk": "хвилястий"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "textures"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/dark-textured-surface-18541889/",
+  "sourceName": "Pexels",
+  "authorName": "Resource Boy",
+  "authorUrl": "https://www.pexels.com/@resourceboy",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3392
+}

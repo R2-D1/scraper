@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-13583393",
+  "mediaKey": "pexels:13583393",
+  "i18n": {
+    "name": {
+      "en": "Partially lit face emerging from darkness",
+      "uk": "Частково освітлене обличчя, що виринає з темряви"
+    },
+    "alt": {
+      "en": "A partially lit face emerges from a dark background.",
+      "uk": "З темного фону виринає частково освітлене обличчя."
+    },
+    "tags": [
+      {
+        "key": "face",
+        "i18n": {
+          "en": "face",
+          "uk": "обличчя"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "shadow",
+        "i18n": {
+          "en": "shadow",
+          "uk": "тінь"
+        }
+      },
+      {
+        "key": "dark-background",
+        "i18n": {
+          "en": "dark background",
+          "uk": "темний фон"
+        }
+      },
+      {
+        "key": "low-light",
+        "i18n": {
+          "en": "low light",
+          "uk": "слабке освітлення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-woman-with-beautiful-eyes-standing-in-a-dark-room-while-looking-at-the-camera-13583393/",
+  "sourceName": "Pexels",
+  "authorName": "Pouriya Kafaei",
+  "authorUrl": "https://www.pexels.com/@pouriyakafaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

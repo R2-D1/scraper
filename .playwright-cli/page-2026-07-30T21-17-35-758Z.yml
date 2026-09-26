@@ -1,0 +1,261 @@
+- generic [ref=f9e4]:
+  - navigation [ref=f9e5]:
+    - generic [ref=f9e6]:
+      - generic [ref=f9e7]:
+        - link "Unsplash Home" [ref=f9e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f9e9]
+        - link "Photos" [ref=f9e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f9e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f9e17]:
+        - button "Explore" [ref=f9e18] [cursor=pointer]
+        - button "Collections" [ref=f9e21] [cursor=pointer]
+        - button "Download History" [ref=f9e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f9e28] [cursor=pointer]
+    - generic [ref=f9e31]:
+      - link "Log in / Sign up" [ref=f9e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fvector-illustration-of-woman-standing-and-showing-index-finger-up-gesture-in-flat-style-isolated-on-white-background-young-female-character-pointing-something-or-having-idea-natzsEixFxE
+      - button "Language" [ref=f9e35] [cursor=pointer]
+      - button "Menu" [ref=f9e38] [cursor=pointer]
+  - generic [ref=f9e41]:
+    - generic [ref=f9e42]:
+      - navigation [ref=f9e43]:
+        - search "Find visuals sitewide" [ref=f9e45]:
+          - button "Search Unsplash" [ref=f9e46] [cursor=pointer]
+          - combobox [ref=f9e49]:
+            - searchbox "Search Unsplash" [ref=f9e50]
+            - listbox
+          - button "Visual search" [ref=f9e52] [cursor=pointer]
+        - generic [ref=f9e55]:
+          - link "Get Unsplash+" [ref=f9e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f9e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fvector-illustration-of-woman-standing-and-showing-index-finger-up-gesture-in-flat-style-isolated-on-white-background-young-female-character-pointing-something-or-having-idea-natzsEixFxE
+        - button "Submit an image" [ref=f9e59] [cursor=pointer]
+      - generic [ref=f9e60]:
+        - generic [ref=f9e61]:
+          - banner [ref=f9e63]:
+            - generic [ref=f9e65]:
+              - link [ref=f9e66] [cursor=pointer]:
+                - /url: /@gettyimages
+              - generic [ref=f9e69]:
+                - link "Getty Images" [ref=f9e70] [cursor=pointer]:
+                  - /url: /@gettyimages
+                - generic [ref=f9e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f9e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fvector-illustration-of-woman-standing-and-showing-index-finger-up-gesture-in-flat-style-isolated-on-white-background-young-female-character-pointing-something-or-having-idea-natzsEixFxE
+            - generic [ref=f9e73]:
+              - button "Bookmark" [ref=f9e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f9e77] [cursor=pointer]
+              - button "Edit image" [ref=f9e80] [cursor=pointer]
+              - button "Download" [ref=f9e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f9e90]:
+            - img "Vector illustration of woman standing and showing index finger up gesture in flat style isolated on white background - young female character pointing something or having idea." [ref=f9e91]
+          - generic [ref=f9e92]:
+            - generic [ref=f9e94]:
+              - button "Share this image" [ref=f9e95] [cursor=pointer]:
+                - generic [ref=f9e98]: Share
+              - button "More Actions" [ref=f9e99] [cursor=pointer]
+            - generic [ref=f9e103]:
+              - heading "Vector illustration of woman standing and showing index finger up gesture in flat style isolated on white background - young female character pointing something or having idea." [level=1] [ref=f9e105]
+              - paragraph [ref=f9e109]: Download this illustration of education, illustration, inspiration, and motivation by Getty Images (@gettyimages)
+              - generic [ref=f9e111]:
+                - generic [ref=f9e116]:
+                  - text: Published on
+                  - time [ref=f9e117]: April 24, 2023
+                - generic [ref=f9e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f9e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f9e124]:
+              - link "education" [ref=f9e125] [cursor=pointer]:
+                - /url: /s/illustrations/education
+              - link "illustration" [ref=f9e126] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "inspiration" [ref=f9e127] [cursor=pointer]:
+                - /url: /s/illustrations/inspiration
+              - link "motivation" [ref=f9e128] [cursor=pointer]:
+                - /url: /s/illustrations/motivation
+              - link "learning" [ref=f9e129] [cursor=pointer]:
+                - /url: /s/illustrations/learning
+              - link "success" [ref=f9e130] [cursor=pointer]:
+                - /url: /s/illustrations/success
+              - link "thinking" [ref=f9e131] [cursor=pointer]:
+                - /url: /s/illustrations/thinking
+              - link "communication" [ref=f9e132] [cursor=pointer]:
+                - /url: /s/illustrations/communication
+              - link "strategy" [ref=f9e133] [cursor=pointer]:
+                - /url: /s/illustrations/strategy
+              - link "hand" [ref=f9e134] [cursor=pointer]:
+                - /url: /s/illustrations/hand
+              - link "innovation" [ref=f9e135] [cursor=pointer]:
+                - /url: /s/illustrations/innovation
+              - link "idea" [ref=f9e136] [cursor=pointer]:
+                - /url: /s/illustrations/idea
+              - link "plan" [ref=f9e137] [cursor=pointer]:
+                - /url: /s/illustrations/plan
+              - link "creativity" [ref=f9e138] [cursor=pointer]:
+                - /url: /s/illustrations/creativity
+              - link "teaching" [ref=f9e139] [cursor=pointer]:
+                - /url: /s/illustrations/teaching
+              - link "goal" [ref=f9e140] [cursor=pointer]:
+                - /url: /s/illustrations/goal
+              - link "ideas" [ref=f9e141] [cursor=pointer]:
+                - /url: /s/illustrations/ideas
+              - link "decision" [ref=f9e142] [cursor=pointer]:
+                - /url: /s/illustrations/decision
+              - link "solution" [ref=f9e143] [cursor=pointer]:
+                - /url: /s/illustrations/solution
+              - link "finger" [ref=f9e144] [cursor=pointer]:
+                - /url: /s/illustrations/finger
+        - generic [ref=f9e148]:
+          - heading "Related images" [level=4] [ref=f9e150]
+          - generic [ref=f9e154]:
+            - generic [ref=f9e155]:
+              - figure [ref=f9e156]:
+                - generic [ref=f9e158]:
+                  - link [ref=f9e159]:
+                    - /url: /illustrations/vector-female-character-waving-hands-to-colleagues-greeting-after-successful-development-meeting-collaboration-office-worker-business-woman-and-cooperation-and-teambuilding-fBbqh88JsO4
+                    - img "Vector female character waving hands to colleagues greeting after successful development meeting, collaboration. Office worker, business woman, and cooperation and teambuilding." [ref=f9e160]
+                  - link [ref=f9e161] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fvector-female-character-waving-hands-to-colleagues-greeting-after-successful-development-meeting-collaboration-office-worker-business-woman-and-cooperation-and-teambuilding-fBbqh88JsO4
+              - figure [ref=f9e164]:
+                - generic [ref=f9e166]:
+                  - link [ref=f9e167]:
+                    - /url: /illustrations/business-people-flat-vector-L1Dpd1xpDFQ
+                    - img "Business people flat vector" [ref=f9e168]
+                  - link [ref=f9e169] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fbusiness-people-flat-vector-L1Dpd1xpDFQ
+              - figure [ref=f9e172]:
+                - generic [ref=f9e174]:
+                  - link [ref=f9e175]:
+                    - /url: /illustrations/vector-male-character-waving-hands-to-colleagues-greeting-after-successful-development-meeting-collaboration-male-office-worker-business-man-and-cooperation-and-teambuilding-Aqpdtx1_Hm0
+                    - img "Vector male character waving hands to colleagues greeting after successful development meeting, collaboration. Male office worker, business man, and cooperation and teambuilding." [ref=f9e176]
+                  - link [ref=f9e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fvector-male-character-waving-hands-to-colleagues-greeting-after-successful-development-meeting-collaboration-male-office-worker-business-man-and-cooperation-and-teambuilding-Aqpdtx1_Hm0
+              - figure [ref=f9e180]:
+                - generic [ref=f9e182]:
+                  - link [ref=f9e183]:
+                    - /url: /illustrations/female-character-in-white-shirt-and-black-pants-isolated-on-white-background-single-woman-positive-and-friendly-person-coach-businesswoman-in-casual-clothes-cartoon-people-vector-illustration-ohu5AxrHQtI
+                    - img "Female Character in White Shirt and Black Pants Isolated on White Background. Single Woman Positive and Friendly Person, Coach, Businesswoman in Casual Clothes. Cartoon People Vector Illustration" [ref=f9e184]
+                  - link [ref=f9e185] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ffemale-character-in-white-shirt-and-black-pants-isolated-on-white-background-single-woman-positive-and-friendly-person-coach-businesswoman-in-casual-clothes-cartoon-people-vector-illustration-ohu5AxrHQtI
+              - figure [ref=f9e188]:
+                - generic [ref=f9e190]:
+                  - link [ref=f9e191]:
+                    - /url: /illustrations/stylish-girl-with-hairstyle-wear-trendy-outfit-red-dress-and-black-handbag-fashion-trend-for-women-style-lady-in-fashionable-clothes-apparel-collection-for-girls-cartoon-people-vector-illustration-x3JydPVNvJ8
+                    - img "Stylish Girl with Hairstyle Wear Trendy Outfit Red Dress and Black Handbag. Fashion Trend for Women Style, Lady in Fashionable Clothes, Apparel Collection for Girls. Cartoon People Vector Illustration" [ref=f9e192]
+                  - link [ref=f9e193] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fstylish-girl-with-hairstyle-wear-trendy-outfit-red-dress-and-black-handbag-fashion-trend-for-women-style-lady-in-fashionable-clothes-apparel-collection-for-girls-cartoon-people-vector-illustration-x3JydPVNvJ8
+              - figure [ref=f9e196]:
+                - generic [ref=f9e198]:
+                  - link [ref=f9e199]:
+                    - /url: /illustrations/happy-female-character-waving-hand-woman-say-hello-greeting-friend-cheerful-girl-positive-emotion-hi-gesturing-body-language-isolated-on-white-background-cartoon-vector-illustration-ihGkqm-zjj0
+                    - img "Happy Female Character Waving Hand. Woman Say Hello, Greeting Friend, Cheerful Girl Positive Emotion, Hi Gesturing, Body Language Isolated on White Background. Cartoon Vector Illustration" [ref=f9e200]
+                  - link [ref=f9e201] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhappy-female-character-waving-hand-woman-say-hello-greeting-friend-cheerful-girl-positive-emotion-hi-gesturing-body-language-isolated-on-white-background-cartoon-vector-illustration-ihGkqm-zjj0
+              - figure [ref=f9e204]:
+                - generic [ref=f9e206]:
+                  - link [ref=f9e207]:
+                    - /url: /illustrations/young-woman-character-funny-girl-student-isolated-on-white-VT9G_L8OfGQ
+                    - img "Young woman character, funny girl student isolated on white." [ref=f9e208]
+                  - link [ref=f9e209] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fyoung-woman-character-funny-girl-student-isolated-on-white-VT9G_L8OfGQ
+            - generic [ref=f9e212]:
+              - figure [ref=f9e213]:
+                - generic [ref=f9e215]:
+                  - link [ref=f9e216]:
+                    - /url: /illustrations/vector-female-character-waving-hands-to-colleagues-greeting-after-successful-development-meeting-collaboration-office-worker-business-woman-and-cooperation-and-teambuilding-Bu1KWDZFOnE
+                    - img "Vector female character waving hands to colleagues greeting after successful development meeting, collaboration. Office worker, business woman, and cooperation and teambuilding." [ref=f9e217]
+                  - link [ref=f9e218] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fvector-female-character-waving-hands-to-colleagues-greeting-after-successful-development-meeting-collaboration-office-worker-business-woman-and-cooperation-and-teambuilding-Bu1KWDZFOnE
+              - figure [ref=f9e221]:
+                - generic [ref=f9e223]:
+                  - link [ref=f9e224]:
+                    - /url: /illustrations/young-positive-woman-greeting-gesture-happy-caucasian-female-character-waving-hand-cheerful-girl-excited-emotion-gesturing-body-language-isolated-on-white-background-cartoon-vector-illustration-jY6C4FiLp9Y
+                    - img "Young Positive Woman Greeting Gesture, Happy Caucasian Female Character Waving Hand. Cheerful Girl Excited Emotion, Gesturing, Body Language Isolated on White Background. Cartoon Vector Illustration" [ref=f9e225]
+                  - link [ref=f9e226] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fyoung-positive-woman-greeting-gesture-happy-caucasian-female-character-waving-hand-cheerful-girl-excited-emotion-gesturing-body-language-isolated-on-white-background-cartoon-vector-illustration-jY6C4FiLp9Y
+              - figure [ref=f9e229]:
+                - generic [ref=f9e231]:
+                  - link [ref=f9e232]:
+                    - /url: /illustrations/business-woman-character-wear-formal-dress-pointing-with-finger-on-scapegoat-sneak-blaming-somebody-searching-guilty-person-isolated-on-white-background-cartoon-people-vector-illustration-ft0uWTpv6zA
+                    - img "Business Woman Character Wear Formal Dress Pointing with Finger on Scapegoat, Sneak, Blaming Somebody, Searching Guilty Person Isolated on White Background. Cartoon People Vector Illustration" [ref=f9e233]
+                  - link [ref=f9e234] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fbusiness-woman-character-wear-formal-dress-pointing-with-finger-on-scapegoat-sneak-blaming-somebody-searching-guilty-person-isolated-on-white-background-cartoon-people-vector-illustration-ft0uWTpv6zA
+              - figure [ref=f9e237]:
+                - generic [ref=f9e239]:
+                  - link [ref=f9e240]:
+                    - /url: /illustrations/cheerful-female-character-wear-red-blouse-and-black-skirt-walking-with-raised-fist-woman-take-part-in-demonstration-riot-isolated-on-white-background-cartoon-people-vector-illustration-GN5-5Q3-stQ
+                    - img "Cheerful Female Character Wear Red Blouse and Black Skirt Walking with Raised Fist, Woman Take Part in Demonstration, Riot Isolated on White Background. Cartoon People Vector Illustration" [ref=f9e241]
+                  - link [ref=f9e242] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcheerful-female-character-wear-red-blouse-and-black-skirt-walking-with-raised-fist-woman-take-part-in-demonstration-riot-isolated-on-white-background-cartoon-people-vector-illustration-GN5-5Q3-stQ
+              - figure [ref=f9e245]:
+                - generic [ref=f9e247]:
+                  - link [ref=f9e248]:
+                    - /url: /illustrations/happy-caucasian-female-character-waving-hand-young-positive-woman-greeting-gesture-cheerful-girl-excited-emotion-gesturing-body-language-isolated-on-white-background-cartoon-vector-illustration-H3DpRBgzFQk
+                    - img "Happy Caucasian Female Character Waving Hand. Young Positive Woman Greeting Gesture, Cheerful Girl Excited Emotion, Gesturing, Body Language Isolated on White Background. Cartoon Vector Illustration" [ref=f9e249]
+                  - link [ref=f9e250] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhappy-caucasian-female-character-waving-hand-young-positive-woman-greeting-gesture-cheerful-girl-excited-emotion-gesturing-body-language-isolated-on-white-background-cartoon-vector-illustration-H3DpRBgzFQk
+              - figure [ref=f9e253]:
+                - generic [ref=f9e255]:
+                  - link [ref=f9e256]:
+                    - /url: /illustrations/happy-woman-immunization-vaccination-health-care-concept-young-positive-lady-with-patch-on-shoulder-vaccinated-female-character-isolated-on-white-background-cartoon-people-vector-illustration-sxu-kB5XgII
+                    - img "Happy Woman Immunization, Vaccination, Health Care Concept. Young Positive Lady with Patch on Shoulder, Vaccinated Female Character Isolated on White Background. Cartoon People Vector Illustration" [ref=f9e257]
+                  - link [ref=f9e258] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhappy-woman-immunization-vaccination-health-care-concept-young-positive-lady-with-patch-on-shoulder-vaccinated-female-character-isolated-on-white-background-cartoon-people-vector-illustration-sxu-kB5XgII
+              - figure [ref=f9e261]:
+                - generic [ref=f9e263]:
+                  - link [ref=f9e264]:
+                    - /url: /illustrations/vector-illustration-of-young-man-standing-and-waving-hand-or-showing-something-in-trendy-flat-style-male-character-doing-greeting-or-goodbye-gesture-or-pointing-isolated-on-white-background-YIns01SGPuE
+                    - img "Vector illustration of young man standing and waving hand or showing something in trendy flat style - male character doing greeting or goodbye gesture or pointing isolated on white background." [ref=f9e265]
+                  - link [ref=f9e266] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fvector-illustration-of-young-man-standing-and-waving-hand-or-showing-something-in-trendy-flat-style-male-character-doing-greeting-or-goodbye-gesture-or-pointing-isolated-on-white-background-YIns01SGPuE
+            - generic [ref=f9e269]:
+              - figure [ref=f9e270]:
+                - generic [ref=f9e272]:
+                  - link [ref=f9e273]:
+                    - /url: /illustrations/young-woman-tourist-with-backpack-isolated-on-white-background-traveler-female-character-visiting-sightseeing-city-landmark-hiking-recreation-voyage-or-trip-cartoon-people-vector-illustration-nQVpmAzPjTg
+                    - img "Young Woman Tourist with Backpack Isolated on White Background. Traveler Female Character Visiting Sightseeing, City Landmark, Hiking Recreation, Voyage or Trip. Cartoon People Vector Illustration" [ref=f9e274]
+                  - link [ref=f9e275] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fyoung-woman-tourist-with-backpack-isolated-on-white-background-traveler-female-character-visiting-sightseeing-city-landmark-hiking-recreation-voyage-or-trip-cartoon-people-vector-illustration-nQVpmAzPjTg
+              - figure [ref=f9e278]:
+                - generic [ref=f9e280]:
+                  - link [ref=f9e281]:
+                    - /url: /illustrations/young-woman-holding-handle-in-subway-or-bus-rear-view-isolated-on-white-background-female-character-city-dweller-in-public-transport-metro-commuter-cartoon-people-vector-illustration-7mkrtDmQeiM
+                    - img "Young Woman Holding Handle in Subway or Bus Rear View Isolated on White Background. Female Character City Dweller in Public Transport, Metro Commuter. Cartoon People Vector Illustration" [ref=f9e282]
+                  - link [ref=f9e283] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fyoung-woman-holding-handle-in-subway-or-bus-rear-view-isolated-on-white-background-female-character-city-dweller-in-public-transport-metro-commuter-cartoon-people-vector-illustration-7mkrtDmQeiM
+              - figure [ref=f9e286]:
+                - generic [ref=f9e288]:
+                  - link [ref=f9e289]:
+                    - /url: /illustrations/a-young-blond-male-student-or-schoolboy-or-office-worker-stands-and-reads-a-book-or-textbook-the-guy-in-the-sweater-and-pants-is-reading-a-book-vector-isolated-flat-illustration-on-white-background-j87Eb9iq_cE
+                    - img "A young blond male, student or schoolboy or office worker stands and reads a book or textbook. The guy in the sweater and pants is reading a book, vector isolated flat illustration on white background." [ref=f9e290]
+                  - link [ref=f9e291] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-young-blond-male-student-or-schoolboy-or-office-worker-stands-and-reads-a-book-or-textbook-the-guy-in-the-sweater-and-pants-is-reading-a-book-vector-isolated-flat-illustration-on-white-background-j87Eb9iq_cE
+              - figure [ref=f9e294]:
+                - generic [ref=f9e296]:
+                  - link [ref=f9e297]:
+                    - /url: /illustrations/stylish-caucasian-female-character-wear-yellow-blouse-with-short-sleeves-brown-skirt-and-hand-bag-stand-with-raised-arm-girl-in-trendy-outfit-for-summer-season-cartoon-people-vector-illustration-WBZ2S_VXr4A
+                    - img "Stylish Caucasian Female Character Wear Yellow Blouse with Short Sleeves, Brown Skirt and Hand Bag Stand with Raised Arm. Girl in Trendy Outfit for Summer Season. Cartoon People Vector Illustration" [ref=f9e298]
+                  - link [ref=f9e299] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fstylish-caucasian-female-character-wear-yellow-blouse-with-short-sleeves-brown-skirt-and-hand-bag-stand-with-raised-arm-girl-in-trendy-outfit-for-summer-season-cartoon-people-vector-illustration-WBZ2S_VXr4A
+              - figure [ref=f9e302]:
+                - generic [ref=f9e304]:
+                  - link [ref=f9e305]:
+                    - /url: /illustrations/stylish-girl-with-blonde-hair-wear-elegant-clothes-gesturing-with-hand-isolated-on-white-background-business-woman-teacher-coach-lady-show-apparel-collection-cartoon-people-vector-illustration-x8xvnGxoPIA
+                    - img "Stylish Girl with Blonde Hair Wear Elegant Clothes Gesturing with Hand Isolated on White Background. Business Woman, Teacher, Coach, Lady Show Apparel Collection. Cartoon People Vector Illustration" [ref=f9e306]
+                  - link [ref=f9e307] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fstylish-girl-with-blonde-hair-wear-elegant-clothes-gesturing-with-hand-isolated-on-white-background-business-woman-teacher-coach-lady-show-apparel-collection-cartoon-people-vector-illustration-x8xvnGxoPIA
+              - figure [ref=f9e310]:
+                - generic [ref=f9e312]:
+                  - link [ref=f9e313]:
+                    - /url: /illustrations/stylish-caucasian-girl-character-wear-red-blouse-with-short-sleeves-and-tight-green-pants-with-hand-bag-trendy-outfit-for-summer-season-fashion-trends-for-women-cartoon-people-vector-illustration-_7tOkzoWJUo
+                    - img "Stylish Caucasian Girl Character Wear Red Blouse with Short Sleeves and Tight Green Pants with Hand Bag. Trendy Outfit for Summer Season, Fashion Trends for Women. Cartoon People Vector Illustration" [ref=f9e314]
+                  - link [ref=f9e315] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fstylish-caucasian-girl-character-wear-red-blouse-with-short-sleeves-and-tight-green-pants-with-hand-bag-trendy-outfit-for-summer-season-fashion-trends-for-women-cartoon-people-vector-illustration-_7tOkzoWJUo
+    - generic:
+      - region "Notifications"

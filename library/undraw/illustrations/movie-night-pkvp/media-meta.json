@@ -1,0 +1,63 @@
+{
+  "slug": "movie-night-pkvp",
+  "mediaKey": "d12cade9-7d56-4a33-947b-4f7b7ee8dfae",
+  "providerId": "61dc0c9cb59f740018d09e3e",
+  "i18n": {
+    "name": {
+      "en": "Movie night",
+      "uk": "Кіновечір"
+    },
+    "alt": {
+      "en": "Movie night",
+      "uk": "Кіновечір"
+    },
+    "tags": [
+      {
+        "key": "movie-night",
+        "i18n": {
+          "en": "Movie night",
+          "uk": "Кіновечір"
+        }
+      },
+      {
+        "key": "movie",
+        "i18n": {
+          "en": "movie",
+          "uk": "фільм"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/movie-night_pkvp.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 845,
+  "height": 332
+}

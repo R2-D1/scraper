@@ -1,0 +1,97 @@
+{
+  "slug": "support-24-7",
+  "mediaKey": "5a4b9952-8f9d-4f68-9dd4-c29620504a21",
+  "i18n": {
+    "name": {
+      "en": "24/7 Support",
+      "uk": "Цілодобова підтримка"
+    },
+    "alt": {
+      "en": "24/7 Support",
+      "uk": "Цілодобова підтримка"
+    },
+    "tags": [
+      {
+        "key": "support",
+        "i18n": {
+          "en": "support",
+          "uk": "підтримка"
+        }
+      },
+      {
+        "key": "24-7",
+        "i18n": {
+          "en": "24/7",
+          "uk": "24 години на добу, 7 днів на тиждень"
+        }
+      },
+      {
+        "key": "time",
+        "i18n": {
+          "en": "time",
+          "uk": "час"
+        }
+      },
+      {
+        "key": "clock",
+        "i18n": {
+          "en": "clock",
+          "uk": "годинник"
+        }
+      },
+      {
+        "key": "always",
+        "i18n": {
+          "en": "always",
+          "uk": "завжди"
+        }
+      },
+      {
+        "key": "service",
+        "i18n": {
+          "en": "service",
+          "uk": "обслуговування"
+        }
+      },
+      {
+        "key": "available",
+        "i18n": {
+          "en": "available",
+          "uk": "доступно"
+        }
+      },
+      {
+        "key": "continuous",
+        "i18n": {
+          "en": "continuous",
+          "uk": "безперервний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/support-24-7",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

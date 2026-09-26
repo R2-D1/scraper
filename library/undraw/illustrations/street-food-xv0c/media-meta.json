@@ -1,0 +1,63 @@
+{
+  "slug": "street-food-xv0c",
+  "mediaKey": "141d3079-fd97-4a39-b83a-e6162dc08895",
+  "providerId": "60c733008cd3da001792696c",
+  "i18n": {
+    "name": {
+      "en": "Street food",
+      "uk": "Вулична їжа"
+    },
+    "alt": {
+      "en": "Street food",
+      "uk": "Вулична їжа"
+    },
+    "tags": [
+      {
+        "key": "street-food",
+        "i18n": {
+          "en": "Street food",
+          "uk": "Вулична їжа"
+        }
+      },
+      {
+        "key": "street",
+        "i18n": {
+          "en": "street",
+          "uk": "вулиця"
+        }
+      },
+      {
+        "key": "food",
+        "i18n": {
+          "en": "food",
+          "uk": "їжа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/street-food_xv0c.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 884,
+  "height": 453
+}

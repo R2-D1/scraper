@@ -1,0 +1,84 @@
+{
+  "slug": "spiral-vortex-art-q8sll",
+  "mediaKey": "b863d10d-2b78-474f-b72a-16ced9b9410b",
+  "i18n": {
+    "name": {
+      "en": "Spiral Vortex Art",
+      "uk": "Мистецтво спіральних вихорів"
+    },
+    "alt": {
+      "en": "Spiral Vortex Art",
+      "uk": "Мистецтво спіральних вихорів"
+    },
+    "tags": [
+      {
+        "key": "rainbow",
+        "i18n": {
+          "en": "Rainbow",
+          "uk": "Веселка"
+        }
+      },
+      {
+        "key": "dynamic",
+        "i18n": {
+          "en": "Dynamic",
+          "uk": "Динамічний"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "spiral",
+        "i18n": {
+          "en": "Spiral",
+          "uk": "Спіраль"
+        }
+      },
+      {
+        "key": "vortex",
+        "i18n": {
+          "en": "vortex",
+          "uk": "вихор"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/illustration/spiral-vortex-art-q8sll",
+  "sourceName": "Lummi",
+  "authorName": "Amino",
+  "authorUrl": "https://www.lummi.ai/creator/amino?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A dynamic abstract image featuring a swirling spiral pattern of bright white and subtle rainbow hues against a deep black background. The spiral creates a sense of motion and depth, with the lines converging towards the center, giving the impression of a vortex. The interplay of light and shadow enhances the three-dimensional effect, while the subtle hints of color add vibrancy to the composition. The image evokes a sense of energy and fluidity, making it visually captivating.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 4400,
+  "mimeType": "image/webp"
+}

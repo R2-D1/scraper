@@ -1,0 +1,63 @@
+{
+  "slug": "nfc-sharing-tt2d",
+  "mediaKey": "0cafccdc-59b6-4526-9a0f-85eb6bcf0a76",
+  "providerId": "69bb2abf49d1b98efaaa0b70",
+  "i18n": {
+    "name": {
+      "en": "NFC Sharing",
+      "uk": "Обмін даними через NFC"
+    },
+    "alt": {
+      "en": "NFC Sharing",
+      "uk": "Обмін даними через NFC"
+    },
+    "tags": [
+      {
+        "key": "nfc-sharing",
+        "i18n": {
+          "en": "NFC Sharing",
+          "uk": "Обмін даними через NFC"
+        }
+      },
+      {
+        "key": "nfc",
+        "i18n": {
+          "en": "nfc",
+          "uk": "nfc"
+        }
+      },
+      {
+        "key": "sharing",
+        "i18n": {
+          "en": "sharing",
+          "uk": "обмін"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/nfc-sharing_tt2d.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 739,
+  "height": 800
+}

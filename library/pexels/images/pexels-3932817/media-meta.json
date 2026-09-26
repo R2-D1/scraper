@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-3932817",
+  "mediaKey": "pexels:3932817",
+  "i18n": {
+    "name": {
+      "en": "Woman working at a desk with colorful materials",
+      "uk": "Жінка, яка працює за письмовим столом з різнокольоровими матеріалами"
+    },
+    "alt": {
+      "en": "A young florist in a flower shop smiles while arranging flowers and using a tablet.",
+      "uk": "Молода флористка у квітковому магазині посміхається, складаючи букети та користуючись планшетом."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "desk",
+        "i18n": {
+          "en": "desk",
+          "uk": "письмовий стіл"
+        }
+      },
+      {
+        "key": "office",
+        "i18n": {
+          "en": "office",
+          "uk": "Office"
+        }
+      },
+      {
+        "key": "creative-work",
+        "i18n": {
+          "en": "creative work",
+          "uk": "творча робота"
+        }
+      },
+      {
+        "key": "planning",
+        "i18n": {
+          "en": "planning",
+          "uk": "планування"
+        }
+      },
+      {
+        "key": "workspace",
+        "i18n": {
+          "en": "workspace",
+          "uk": "робочий простір"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "business"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-in-white-shirt-inside-a-flower-shop-3932817/",
+  "sourceName": "Pexels",
+  "authorName": "Andrea Piacquadio",
+  "authorUrl": "https://www.pexels.com/@olly",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1611
+}

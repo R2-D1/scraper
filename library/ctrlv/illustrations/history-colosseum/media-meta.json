@@ -1,0 +1,90 @@
+{
+  "slug": "history-colosseum",
+  "mediaKey": "23dd2dea-4aa8-4e16-98ae-efc6f11535e8",
+  "i18n": {
+    "name": {
+      "en": "The Colosseum",
+      "uk": "Колізей"
+    },
+    "alt": {
+      "en": "The Colosseum",
+      "uk": "Колізей"
+    },
+    "tags": [
+      {
+        "key": "history",
+        "i18n": {
+          "en": "history",
+          "uk": "історії"
+        }
+      },
+      {
+        "key": "rome",
+        "i18n": {
+          "en": "rome",
+          "uk": "Рим"
+        }
+      },
+      {
+        "key": "colosseum",
+        "i18n": {
+          "en": "colosseum",
+          "uk": "колізей"
+        }
+      },
+      {
+        "key": "italy",
+        "i18n": {
+          "en": "italy",
+          "uk": "Італія"
+        }
+      },
+      {
+        "key": "gladiator",
+        "i18n": {
+          "en": "gladiator",
+          "uk": "гладіатор"
+        }
+      },
+      {
+        "key": "ancient",
+        "i18n": {
+          "en": "ancient",
+          "uk": "давній"
+        }
+      },
+      {
+        "key": "architecture",
+        "i18n": {
+          "en": "architecture",
+          "uk": "архітектура"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/history-colosseum",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

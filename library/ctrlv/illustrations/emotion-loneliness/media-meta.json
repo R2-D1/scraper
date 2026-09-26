@@ -1,0 +1,97 @@
+{
+  "slug": "emotion-loneliness",
+  "mediaKey": "68e165bd-af29-4300-8f04-9340a59a85c6",
+  "i18n": {
+    "name": {
+      "en": "Loneliness",
+      "uk": "Самотність"
+    },
+    "alt": {
+      "en": "Loneliness",
+      "uk": "Самотність"
+    },
+    "tags": [
+      {
+        "key": "emotion",
+        "i18n": {
+          "en": "emotion",
+          "uk": "емоція"
+        }
+      },
+      {
+        "key": "lonely",
+        "i18n": {
+          "en": "lonely",
+          "uk": "самотній"
+        }
+      },
+      {
+        "key": "isolation",
+        "i18n": {
+          "en": "isolation",
+          "uk": "ізоляція"
+        }
+      },
+      {
+        "key": "solitude",
+        "i18n": {
+          "en": "solitude",
+          "uk": "самотність"
+        }
+      },
+      {
+        "key": "alone",
+        "i18n": {
+          "en": "alone",
+          "uk": "самотність"
+        }
+      },
+      {
+        "key": "forlorn",
+        "i18n": {
+          "en": "forlorn",
+          "uk": "занедбаний"
+        }
+      },
+      {
+        "key": "disconnected",
+        "i18n": {
+          "en": "disconnected",
+          "uk": "роз'єднано"
+        }
+      },
+      {
+        "key": "withdrawn",
+        "i18n": {
+          "en": "withdrawn",
+          "uk": "відкликано"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emotion-loneliness",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

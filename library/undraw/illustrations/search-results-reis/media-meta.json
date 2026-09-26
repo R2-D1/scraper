@@ -1,0 +1,63 @@
+{
+  "slug": "search-results-reis",
+  "mediaKey": "1bf627e2-7a65-4ca1-af52-be38b2c0643b",
+  "providerId": "6a46df3e939aab611cf25c61",
+  "i18n": {
+    "name": {
+      "en": "Search Results",
+      "uk": "Результати пошуку"
+    },
+    "alt": {
+      "en": "Search Results",
+      "uk": "Результати пошуку"
+    },
+    "tags": [
+      {
+        "key": "search-results",
+        "i18n": {
+          "en": "Search Results",
+          "uk": "Результати пошуку"
+        }
+      },
+      {
+        "key": "search",
+        "i18n": {
+          "en": "search",
+          "uk": "пошук"
+        }
+      },
+      {
+        "key": "results",
+        "i18n": {
+          "en": "results",
+          "uk": "результати"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/search-results_reis.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 655
+}

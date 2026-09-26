@@ -1,0 +1,66 @@
+{
+  "slug": "gray-triangles-form-geometric-shapes-fensnlutfuo",
+  "mediaKey": "3611936a-c2ca-456a-9d00-8b0bd0efcd11",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "Gray triangles",
+      "uk": "Сірі трикутники"
+    },
+    "alt": {
+      "en": "Gray triangles",
+      "uk": "Сірі трикутники"
+    },
+    "tags": [
+      {
+        "key": "geometry",
+        "i18n": {
+          "en": "geometry",
+          "uk": "геометрія"
+        }
+      },
+      {
+        "key": "monochrome",
+        "i18n": {
+          "en": "monochrome",
+          "uk": "монохромний"
+        }
+      },
+      {
+        "key": "triangles",
+        "i18n": {
+          "en": "triangles",
+          "uk": "трикутники"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "abstract",
+        "geometric"
+      ],
+      "uk": [
+        "абстракція",
+        "геометричний"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/gray-triangles-form-geometric-shapes-fenSNLutfuo",
+  "sourceName": "Unsplash",
+  "authorName": "Pawel Czerwinski",
+  "authorUrl": "https://unsplash.com/@pawel_czerwinski",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "api",
+  "width": 2400,
+  "height": 3600,
+  "collectionSlugs": [
+    "patterns"
+  ]
+}

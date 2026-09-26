@@ -1,0 +1,49 @@
+{
+  "slug": "done-erdp",
+  "mediaKey": "690520fc-7999-4a63-baf7-10710f3394b1",
+  "providerId": "6a84e7cd939aab611cf25c97",
+  "i18n": {
+    "name": {
+      "en": "Done",
+      "uk": "Готово"
+    },
+    "alt": {
+      "en": "Done",
+      "uk": "Готово"
+    },
+    "tags": [
+      {
+        "key": "done",
+        "i18n": {
+          "en": "Done",
+          "uk": "Готово"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/done_erdp.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 737,
+  "height": 800
+}

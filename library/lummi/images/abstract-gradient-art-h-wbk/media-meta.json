@@ -1,0 +1,80 @@
+{
+  "slug": "abstract-gradient-art-h-wbk",
+  "mediaKey": "304a8c1b-7979-4040-9a7d-cbd6bd07e45a",
+  "i18n": {
+    "name": {
+      "en": "Abstract Gradient Art",
+      "uk": "Абстрактне мистецтво з використанням градієнтів"
+    },
+    "alt": {
+      "en": "Abstract Gradient Art",
+      "uk": "Абстрактне мистецтво з використанням градієнтів"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "Gradient",
+          "uk": "Градієнт"
+        }
+      },
+      {
+        "key": "minimalistic",
+        "i18n": {
+          "en": "Minimalistic",
+          "uk": "Мінімалістичний"
+        }
+      },
+      {
+        "key": "vibrant",
+        "i18n": {
+          "en": "Vibrant",
+          "uk": "Яскравий"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Pablo Stanley",
+  "authorUrl": "https://www.lummi.ai/creator/pablostanley?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A vibrant abstract gradient background featuring a smooth blend of purple, orange, and yellow hues. The colors transition seamlessly, creating a soft and fluid appearance. The composition is minimalistic, with no distinct shapes or objects, emphasizing the interplay of colors and gradients. The overall effect is calming and visually appealing, suitable for modern design or artistic purposes.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1808,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/abstract-gradient-art-h-wbk/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/abstract-gradient-art-h-wbk/abstract-gradient-art-h-wbk.png",
+  "relativeAssetPath": "library/lummi/images/abstract-gradient-art-h-wbk/abstract-gradient-art-h-wbk.png"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "wallet-diag",
+  "mediaKey": "e92a9f39-8561-4d17-ac75-c7549deb8210",
+  "providerId": "689a625f02e79c8efd677dbf",
+  "i18n": {
+    "name": {
+      "en": "Wallet",
+      "uk": "Гаманець"
+    },
+    "alt": {
+      "en": "Wallet",
+      "uk": "Гаманець"
+    },
+    "tags": [
+      {
+        "key": "wallet",
+        "i18n": {
+          "en": "Wallet",
+          "uk": "Гаманець"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/wallet_diag.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 595
+}

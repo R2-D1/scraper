@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-31066045",
+  "mediaKey": "pexels:31066045",
+  "i18n": {
+    "name": {
+      "en": "Teal and green gradient",
+      "uk": "Бірюзово-зелений градієнт"
+    },
+    "alt": {
+      "en": "Colorful art piece with fluid gradients in blue, green, and yellow tones.",
+      "uk": "Яскравий художній твір із плавними переходами у синіх, зелених та жовтих тонах."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      },
+      {
+        "key": "teal",
+        "i18n": {
+          "en": "teal",
+          "uk": "бірюзовий"
+        }
+      },
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/vibrant-abstract-gradient-background-art-31066045/",
+  "sourceName": "Pexels",
+  "authorName": "kdadan.",
+  "authorUrl": "https://www.pexels.com/@kdadan97",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

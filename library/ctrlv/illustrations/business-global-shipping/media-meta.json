@@ -1,0 +1,97 @@
+{
+  "slug": "business-global-shipping",
+  "mediaKey": "41d256ac-9e4f-4597-a5a8-8c9ace1672be",
+  "i18n": {
+    "name": {
+      "en": "Global Shipping",
+      "uk": "Міжнародна доставка"
+    },
+    "alt": {
+      "en": "Global Shipping",
+      "uk": "Міжнародна доставка"
+    },
+    "tags": [
+      {
+        "key": "business",
+        "i18n": {
+          "en": "business",
+          "uk": "бізнес"
+        }
+      },
+      {
+        "key": "global",
+        "i18n": {
+          "en": "global",
+          "uk": "глобальний"
+        }
+      },
+      {
+        "key": "shipping",
+        "i18n": {
+          "en": "shipping",
+          "uk": "доставка"
+        }
+      },
+      {
+        "key": "cargo",
+        "i18n": {
+          "en": "cargo",
+          "uk": "вантаж"
+        }
+      },
+      {
+        "key": "logistics",
+        "i18n": {
+          "en": "logistics",
+          "uk": "логістика"
+        }
+      },
+      {
+        "key": "supply",
+        "i18n": {
+          "en": "supply",
+          "uk": "постачання"
+        }
+      },
+      {
+        "key": "chain",
+        "i18n": {
+          "en": "chain",
+          "uk": "ланцюг"
+        }
+      },
+      {
+        "key": "transport",
+        "i18n": {
+          "en": "transport",
+          "uk": "транспорт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/business-global-shipping",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

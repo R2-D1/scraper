@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-5046307",
+  "mediaKey": "pexels:5046307",
+  "i18n": {
+    "name": {
+      "en": "Woman using a laptop and smartphone at work",
+      "uk": "Жінка, яка користується ноутбуком і смартфоном на роботі"
+    },
+    "alt": {
+      "en": "Young woman with glasses smiling while working on a laptop at her desk with art supplies around.",
+      "uk": "Молода жінка в окулярах посміхається, працюючи за ноутбуком за своїм столом, навколо якого розкладені художні приналежності."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "laptop",
+        "i18n": {
+          "en": "laptop",
+          "uk": "ноутбук"
+        }
+      },
+      {
+        "key": "smartphone",
+        "i18n": {
+          "en": "smartphone",
+          "uk": "смартфон"
+        }
+      },
+      {
+        "key": "office",
+        "i18n": {
+          "en": "office",
+          "uk": "Office"
+        }
+      },
+      {
+        "key": "work",
+        "i18n": {
+          "en": "work",
+          "uk": "робота"
+        }
+      },
+      {
+        "key": "technology",
+        "i18n": {
+          "en": "technology",
+          "uk": "технологія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "business"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-woman-wearing-eyeglasses-using-laptop-5046307/",
+  "sourceName": "Pexels",
+  "authorName": "Andrea Piacquadio",
+  "authorUrl": "https://www.pexels.com/@olly",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

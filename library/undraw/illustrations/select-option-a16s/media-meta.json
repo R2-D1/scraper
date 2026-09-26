@@ -1,0 +1,63 @@
+{
+  "slug": "select-option-a16s",
+  "mediaKey": "4c218635-10b2-4648-9be2-0a471a784102",
+  "providerId": "603cba00e9b9f10017a0abc0",
+  "i18n": {
+    "name": {
+      "en": "Select option",
+      "uk": "Виберіть варіант"
+    },
+    "alt": {
+      "en": "Select option",
+      "uk": "Виберіть варіант"
+    },
+    "tags": [
+      {
+        "key": "select-option",
+        "i18n": {
+          "en": "Select option",
+          "uk": "Виберіть варіант"
+        }
+      },
+      {
+        "key": "select",
+        "i18n": {
+          "en": "select",
+          "uk": "вибрати"
+        }
+      },
+      {
+        "key": "option",
+        "i18n": {
+          "en": "option",
+          "uk": "параметр"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/select-option_a16s.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 886,
+  "height": 652
+}

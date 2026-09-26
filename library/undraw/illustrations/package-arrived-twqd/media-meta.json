@@ -1,0 +1,63 @@
+{
+  "slug": "package-arrived-twqd",
+  "mediaKey": "b2b78e51-f228-48f5-b058-82ec271aa2b1",
+  "providerId": "5fb6573fb6e3ef0017583b36",
+  "i18n": {
+    "name": {
+      "en": "Package arrived",
+      "uk": "Посилка надійшла"
+    },
+    "alt": {
+      "en": "Package arrived",
+      "uk": "Посилка надійшла"
+    },
+    "tags": [
+      {
+        "key": "package-arrived",
+        "i18n": {
+          "en": "Package arrived",
+          "uk": "Посилка надійшла"
+        }
+      },
+      {
+        "key": "package",
+        "i18n": {
+          "en": "package",
+          "uk": "пакет"
+        }
+      },
+      {
+        "key": "arrived",
+        "i18n": {
+          "en": "arrived",
+          "uk": "прибув"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/package-arrived_twqd.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 883,
+  "height": 801
+}

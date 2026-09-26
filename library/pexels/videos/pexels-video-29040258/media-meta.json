@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-29040258",
+  "mediaKey": "pexels:video:29040258",
+  "i18n": {
+    "name": {
+      "en": "Purple Particle Wave",
+      "uk": "Фіолетова хвиля частинок"
+    },
+    "alt": {
+      "en": "Pexels video 29040258",
+      "uk": "Відео з Pexels 29040258"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "particles",
+        "i18n": {
+          "en": "particles",
+          "uk": "частинки"
+        }
+      },
+      {
+        "key": "wave",
+        "i18n": {
+          "en": "wave",
+          "uk": "хвиля"
+        }
+      },
+      {
+        "key": "digital",
+        "i18n": {
+          "en": "digital",
+          "uk": "цифровий"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/vibrant-abstract-purple-wave-motion-art-29040258/",
+  "sourceName": "Pexels",
+  "authorName": "totalgaming2 geamer",
+  "authorUrl": "https://www.pexels.com/@totalgaming2-geamer-2011502739",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 30,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

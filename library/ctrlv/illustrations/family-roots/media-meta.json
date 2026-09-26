@@ -1,0 +1,90 @@
+{
+  "slug": "family-roots",
+  "mediaKey": "bdee3979-311b-4973-ae64-5360596309bd",
+  "i18n": {
+    "name": {
+      "en": "Family Roots",
+      "uk": "Родинні корені"
+    },
+    "alt": {
+      "en": "Family Roots",
+      "uk": "Родинні корені"
+    },
+    "tags": [
+      {
+        "key": "family",
+        "i18n": {
+          "en": "family",
+          "uk": "родина"
+        }
+      },
+      {
+        "key": "tree",
+        "i18n": {
+          "en": "tree",
+          "uk": "дерево"
+        }
+      },
+      {
+        "key": "roots",
+        "i18n": {
+          "en": "roots",
+          "uk": "коріння"
+        }
+      },
+      {
+        "key": "growth",
+        "i18n": {
+          "en": "growth",
+          "uk": "ріст"
+        }
+      },
+      {
+        "key": "generations",
+        "i18n": {
+          "en": "generations",
+          "uk": "покоління"
+        }
+      },
+      {
+        "key": "connection",
+        "i18n": {
+          "en": "connection",
+          "uk": "підключення"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "people",
+          "uk": "люди"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/family-roots",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

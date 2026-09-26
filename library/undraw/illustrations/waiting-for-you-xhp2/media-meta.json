@@ -1,0 +1,63 @@
+{
+  "slug": "waiting-for-you-xhp2",
+  "mediaKey": "80cd5448-6bd7-4062-921e-d2a342c5c91e",
+  "providerId": "5cf80433b920bf0015451a3c",
+  "i18n": {
+    "name": {
+      "en": "Waiting for you",
+      "uk": "Чекаю на тебе"
+    },
+    "alt": {
+      "en": "Waiting for you",
+      "uk": "Чекаю на тебе"
+    },
+    "tags": [
+      {
+        "key": "waiting-for-you",
+        "i18n": {
+          "en": "Waiting for you",
+          "uk": "Чекаю на тебе"
+        }
+      },
+      {
+        "key": "waiting",
+        "i18n": {
+          "en": "waiting",
+          "uk": "очікування"
+        }
+      },
+      {
+        "key": "you",
+        "i18n": {
+          "en": "you",
+          "uk": "ти"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/waiting-for-you_xhp2.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1056,
+  "height": 852
+}

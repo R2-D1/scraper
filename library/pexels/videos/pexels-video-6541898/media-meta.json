@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-6541898",
+  "mediaKey": "pexels:video:6541898",
+  "i18n": {
+    "name": {
+      "en": "Pink Flowers Behind Frosted Glass",
+      "uk": "Рожеві квіти за матовим склом"
+    },
+    "alt": {
+      "en": "Pexels video 6541898",
+      "uk": "Відео з Pexels № 6541898"
+    },
+    "tags": [
+      {
+        "key": "flowers",
+        "i18n": {
+          "en": "flowers",
+          "uk": "квіти"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      },
+      {
+        "key": "frosted-glass",
+        "i18n": {
+          "en": "frosted-glass",
+          "uk": "матове скло"
+        }
+      },
+      {
+        "key": "soft",
+        "i18n": {
+          "en": "soft",
+          "uk": "м'який"
+        }
+      },
+      {
+        "key": "romantic",
+        "i18n": {
+          "en": "romantic",
+          "uk": "романтичний"
+        }
+      },
+      {
+        "key": "blur",
+        "i18n": {
+          "en": "blur",
+          "uk": "розмиття"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/video-of-a-blur-flowers-6541898/",
+  "sourceName": "Pexels",
+  "authorName": "cottonbro studio",
+  "authorUrl": "https://www.pexels.com/@cottonbro",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1366,
+  "height": 720,
+  "duration": 29,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

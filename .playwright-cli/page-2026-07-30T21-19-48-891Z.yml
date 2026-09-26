@@ -1,0 +1,270 @@
+- generic [ref=f61e4]:
+  - navigation [ref=f61e5]:
+    - generic [ref=f61e6]:
+      - generic [ref=f61e7]:
+        - link "Unsplash Home" [ref=f61e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f61e9]
+        - link "Photos" [ref=f61e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f61e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f61e17]:
+        - button "Explore" [ref=f61e18] [cursor=pointer]
+        - button "Collections" [ref=f61e21] [cursor=pointer]
+        - button "Download History" [ref=f61e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f61e28] [cursor=pointer]
+    - generic [ref=f61e31]:
+      - link "Log in / Sign up" [ref=f61e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-person-sitting-at-a-desk-in-front-of-a-computer-k2NwyV6Kbeg
+      - button "Language" [ref=f61e35] [cursor=pointer]
+      - button "Menu" [ref=f61e38] [cursor=pointer]
+  - generic [ref=f61e41]:
+    - generic [ref=f61e42]:
+      - navigation [ref=f61e43]:
+        - search "Find visuals sitewide" [ref=f61e45]:
+          - button "Search Unsplash" [ref=f61e46] [cursor=pointer]
+          - combobox [ref=f61e49]:
+            - searchbox "Search Unsplash" [ref=f61e50]
+            - listbox
+          - button "Visual search" [ref=f61e52] [cursor=pointer]
+        - generic [ref=f61e55]:
+          - link "Get Unsplash+" [ref=f61e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f61e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-person-sitting-at-a-desk-in-front-of-a-computer-k2NwyV6Kbeg
+        - button "Submit an image" [ref=f61e59] [cursor=pointer]
+      - generic [ref=f61e60]:
+        - generic [ref=f61e61]:
+          - banner [ref=f61e63]:
+            - generic [ref=f61e65]:
+              - link [ref=f61e66] [cursor=pointer]:
+                - /url: /@masantocreative
+              - generic [ref=f61e69]:
+                - link "Masantocreative" [ref=f61e70] [cursor=pointer]:
+                  - /url: /@masantocreative
+                - generic [ref=f61e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f61e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-person-sitting-at-a-desk-in-front-of-a-computer-k2NwyV6Kbeg
+            - generic [ref=f61e73]:
+              - button "Bookmark" [ref=f61e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f61e77] [cursor=pointer]
+              - button "Edit image" [ref=f61e80] [cursor=pointer]
+              - button "Download" [ref=f61e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f61e90]:
+            - img "A person sitting at a desk in front of a computer" [ref=f61e91]
+          - generic [ref=f61e92]:
+            - generic [ref=f61e94]:
+              - button "Share this image" [ref=f61e95] [cursor=pointer]:
+                - generic [ref=f61e98]: Share
+              - button "More Actions" [ref=f61e99] [cursor=pointer]
+            - generic [ref=f61e103]:
+              - heading "A person sitting at a desk in front of a computer" [level=1] [ref=f61e105]
+              - paragraph [ref=f61e109]: Download this illustration of illustration, shopping, vector, and online shopping by Masantocreative (@masantocreative)
+              - generic [ref=f61e111]:
+                - generic [ref=f61e116]:
+                  - text: Published on
+                  - time [ref=f61e117]: September 29, 2024
+                - generic [ref=f61e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f61e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f61e124]:
+              - link "illustration" [ref=f61e125] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "shopping" [ref=f61e126] [cursor=pointer]:
+                - /url: /s/illustrations/shopping
+              - link "vector" [ref=f61e127] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "online shopping" [ref=f61e128] [cursor=pointer]:
+                - /url: /s/illustrations/online-shopping
+              - link "retail" [ref=f61e129] [cursor=pointer]:
+                - /url: /s/illustrations/retail
+              - link "shopping cart" [ref=f61e130] [cursor=pointer]:
+                - /url: /s/illustrations/shopping-cart
+              - link "illustrations" [ref=f61e131] [cursor=pointer]:
+                - /url: /s/illustrations/illustrations
+              - link "e-commerce" [ref=f61e132] [cursor=pointer]:
+                - /url: /s/illustrations/e--commerce
+              - link "computer screen" [ref=f61e133] [cursor=pointer]:
+                - /url: /s/illustrations/computer-screen
+              - link "retail store" [ref=f61e134] [cursor=pointer]:
+                - /url: /s/illustrations/retail-store
+              - link "flat design" [ref=f61e135] [cursor=pointer]:
+                - /url: /s/illustrations/flat-design
+              - link "online shop" [ref=f61e136] [cursor=pointer]:
+                - /url: /s/illustrations/online-shop
+              - link "consumerism" [ref=f61e137] [cursor=pointer]:
+                - /url: /s/illustrations/consumerism
+              - link "online business" [ref=f61e138] [cursor=pointer]:
+                - /url: /s/illustrations/online-business
+              - link "convenience" [ref=f61e139] [cursor=pointer]:
+                - /url: /s/illustrations/convenience
+              - link "purchasing" [ref=f61e140] [cursor=pointer]:
+                - /url: /s/illustrations/purchasing
+              - link "digital economy" [ref=f61e141] [cursor=pointer]:
+                - /url: /s/illustrations/digital-economy
+              - link "star rating" [ref=f61e142] [cursor=pointer]:
+                - /url: /s/illustrations/star-rating
+              - link "browsing" [ref=f61e143] [cursor=pointer]:
+                - /url: /s/illustrations/browsing
+              - link "desk chair" [ref=f61e144] [cursor=pointer]:
+                - /url: /s/illustrations/desk-chair
+        - generic [ref=f61e147]:
+          - generic [ref=f61e148]:
+            - paragraph [ref=f61e150]: From this series
+            - generic [ref=f61e154]:
+              - link [ref=f61e155] [cursor=pointer]:
+                - /url: /plus?referrer=%2Fillustrations%2Fa-person-holding-a-cell-phone-with-a-button-on-it-1sFXFxs8w6U
+              - link [ref=f61e158]:
+                - /url: /illustrations/a-person-holding-a-cell-phone-with-a-button-on-it-1sFXFxs8w6U
+                - img "A person holding a cell phone with a button on it" [ref=f61e159]
+          - generic [ref=f61e160]:
+            - heading "Related images" [level=4] [ref=f61e162]
+            - generic [ref=f61e166]:
+              - generic [ref=f61e167]:
+                - figure [ref=f61e168]:
+                  - generic [ref=f61e170]:
+                    - link [ref=f61e171]:
+                      - /url: /illustrations/woman-sit-on-chair-by-desk-at-office-alone-person-work-on-computer-and-big-monitor-behind-her-with-desktop-screen-with-icons-media-and-network-communication-and-education-vector-illustration-cAi6WRfJ2Qc
+                      - img "Woman sit on chair by desk at office alone. Person work on computer and big monitor behind her with desktop. Screen with icons, media and network, communication and education. Vector illustration" [ref=f61e172]
+                    - link [ref=f61e173] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-sit-on-chair-by-desk-at-office-alone-person-work-on-computer-and-big-monitor-behind-her-with-desktop-screen-with-icons-media-and-network-communication-and-education-vector-illustration-cAi6WRfJ2Qc
+                - figure [ref=f61e176]:
+                  - generic [ref=f61e178]:
+                    - link [ref=f61e179]:
+                      - /url: /illustrations/a-man-sitting-in-a-chair-with-a-laptop-BpDct8YlbYc
+                      - img "A man sitting in a chair with a laptop" [ref=f61e180]
+                    - link [ref=f61e181] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-in-a-chair-with-a-laptop-BpDct8YlbYc
+                - figure [ref=f61e184]:
+                  - generic [ref=f61e186]:
+                    - link [ref=f61e187]:
+                      - /url: /illustrations/a-person-sitting-on-a-stool-with-a-laptop-PvZl84vTjd0
+                      - img "A person sitting on a stool with a laptop" [ref=f61e188]
+                    - link [ref=f61e189] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-sitting-on-a-stool-with-a-laptop-PvZl84vTjd0
+                - figure [ref=f61e192]:
+                  - generic [ref=f61e194]:
+                    - link [ref=f61e195]:
+                      - /url: /illustrations/a-man-sitting-in-front-of-a-laptop-computer-Ev28xiohRK4
+                      - img "A man sitting in front of a laptop computer" [ref=f61e196]
+                    - link [ref=f61e197] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-in-front-of-a-laptop-computer-Ev28xiohRK4
+                - figure [ref=f61e200]:
+                  - generic [ref=f61e202]:
+                    - link [ref=f61e203]:
+                      - /url: /illustrations/a-man-sitting-in-front-of-a-laptop-computer-JulQuJOCn7A
+                      - img "A man sitting in front of a laptop computer" [ref=f61e204]
+                    - link [ref=f61e205] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-in-front-of-a-laptop-computer-JulQuJOCn7A
+                - figure [ref=f61e208]:
+                  - generic [ref=f61e210]:
+                    - link [ref=f61e211]:
+                      - /url: /illustrations/a-woman-sitting-in-front-of-a-computer-with-a-shopping-cart-on-it-9nvM1eG_X9s
+                      - img "A woman sitting in front of a computer with a shopping cart on it" [ref=f61e212]
+                    - link [ref=f61e213] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-in-front-of-a-computer-with-a-shopping-cart-on-it-9nvM1eG_X9s
+                - figure [ref=f61e216]:
+                  - generic [ref=f61e218]:
+                    - link [ref=f61e219]:
+                      - /url: /illustrations/a-man-sitting-in-front-of-a-laptop-computer-FNQnbmOeq6Q
+                      - img "A man sitting in front of a laptop computer" [ref=f61e220]
+                    - link [ref=f61e221] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-in-front-of-a-laptop-computer-FNQnbmOeq6Q
+              - generic [ref=f61e224]:
+                - figure [ref=f61e225]:
+                  - generic [ref=f61e227]:
+                    - link [ref=f61e228]:
+                      - /url: /illustrations/a-man-sitting-in-a-chair-with-a-laptop-Dj2o_MjrxMw
+                      - img "A man sitting in a chair with a laptop" [ref=f61e229]
+                    - link [ref=f61e230] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-in-a-chair-with-a-laptop-Dj2o_MjrxMw
+                - figure [ref=f61e233]:
+                  - generic [ref=f61e235]:
+                    - link [ref=f61e236]:
+                      - /url: /illustrations/a-woman-sitting-on-the-floor-with-a-laptop-AUeIz6gQd8E
+                      - img "A woman sitting on the floor with a laptop" [ref=f61e237]
+                    - link [ref=f61e238] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-on-the-floor-with-a-laptop-AUeIz6gQd8E
+                - figure [ref=f61e241]:
+                  - generic [ref=f61e243]:
+                    - link [ref=f61e244]:
+                      - /url: /illustrations/a-man-sitting-on-the-floor-using-a-laptop-oDClUdQfC0I
+                      - img "A man sitting on the floor using a laptop" [ref=f61e245]
+                    - link [ref=f61e246] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-on-the-floor-using-a-laptop-oDClUdQfC0I
+                - figure [ref=f61e249]:
+                  - generic [ref=f61e251]:
+                    - link [ref=f61e252]:
+                      - /url: /illustrations/a-woman-sitting-in-front-of-a-computer-screen-_sYBX4apAn4
+                      - img "A woman sitting in front of a computer screen" [ref=f61e253]
+                    - link [ref=f61e254] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-in-front-of-a-computer-screen-_sYBX4apAn4
+                - figure [ref=f61e257]:
+                  - generic [ref=f61e259]:
+                    - link [ref=f61e260]:
+                      - /url: /illustrations/a-man-sitting-at-a-table-with-a-laptop-in-front-of-him-gcYTrjEZ-1g
+                      - img "A man sitting at a table with a laptop in front of him" [ref=f61e261]
+                    - link [ref=f61e262] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-at-a-table-with-a-laptop-in-front-of-him-gcYTrjEZ-1g
+                - figure [ref=f61e265]:
+                  - generic [ref=f61e267]:
+                    - link [ref=f61e268]:
+                      - /url: /illustrations/a-man-sitting-in-front-of-a-computer-screen-RhvJYFGrLrU
+                      - img "A man sitting in front of a computer screen" [ref=f61e269]
+                    - link [ref=f61e270] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-in-front-of-a-computer-screen-RhvJYFGrLrU
+                - figure [ref=f61e273]:
+                  - generic [ref=f61e275]:
+                    - link [ref=f61e276]:
+                      - /url: /illustrations/a-man-sitting-on-a-chair-in-front-of-a-computer-OE2nUar4fWs
+                      - img "A man sitting on a chair in front of a computer" [ref=f61e277]
+                    - link [ref=f61e278] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-on-a-chair-in-front-of-a-computer-OE2nUar4fWs
+              - generic [ref=f61e281]:
+                - figure [ref=f61e282]:
+                  - generic [ref=f61e284]:
+                    - link [ref=f61e285]:
+                      - /url: /illustrations/a-man-sitting-on-a-couch-using-a-laptop-gZMaKWNEZqg
+                      - img "A man sitting on a couch using a laptop" [ref=f61e286]
+                    - link [ref=f61e287] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-on-a-couch-using-a-laptop-gZMaKWNEZqg
+                - figure [ref=f61e290]:
+                  - generic [ref=f61e292]:
+                    - link [ref=f61e293]:
+                      - /url: /illustrations/a-man-sitting-in-a-chair-using-a-laptop-computer-UsSxg8GpoKY
+                      - img "A man sitting in a chair using a laptop computer" [ref=f61e294]
+                    - link [ref=f61e295] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-in-a-chair-using-a-laptop-computer-UsSxg8GpoKY
+                - figure [ref=f61e298]:
+                  - generic [ref=f61e300]:
+                    - link [ref=f61e301]:
+                      - /url: /illustrations/a-man-sitting-in-a-chair-with-a-laptop-M7Rx-EDvPos
+                      - img "A man sitting in a chair with a laptop" [ref=f61e302]
+                    - link [ref=f61e303] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-in-a-chair-with-a-laptop-M7Rx-EDvPos
+                - figure [ref=f61e306]:
+                  - generic [ref=f61e308]:
+                    - link [ref=f61e309]:
+                      - /url: /illustrations/a-person-using-a-laptop-computer-on-a-desk-13ZiN8CVxAc
+                      - img "A person using a laptop computer on a desk" [ref=f61e310]
+                    - link [ref=f61e311] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-using-a-laptop-computer-on-a-desk-13ZiN8CVxAc
+                - figure [ref=f61e314]:
+                  - generic [ref=f61e316]:
+                    - link [ref=f61e317]:
+                      - /url: /illustrations/a-man-sitting-in-front-of-a-computer-on-a-desk-FYFPTmwLc54
+                      - img "A man sitting in front of a computer on a desk" [ref=f61e318]
+                    - link [ref=f61e319] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-in-front-of-a-computer-on-a-desk-FYFPTmwLc54
+                - figure [ref=f61e322]:
+                  - generic [ref=f61e324]:
+                    - link [ref=f61e325]:
+                      - /url: /illustrations/a-person-sitting-on-a-bean-bag-with-a-laptop--9yvLkPX6_0
+                      - img "A person sitting on a bean bag with a laptop" [ref=f61e326]
+                    - link [ref=f61e327] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-sitting-on-a-bean-bag-with-a-laptop--9yvLkPX6_0
+    - generic:
+      - region "Notifications"

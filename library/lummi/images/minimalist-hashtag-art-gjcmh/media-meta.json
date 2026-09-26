@@ -1,0 +1,87 @@
+{
+  "slug": "minimalist-hashtag-art-gjcmh",
+  "mediaKey": "176caa8b-1ef7-42f4-9523-dd0451da98c7",
+  "i18n": {
+    "name": {
+      "en": "Minimalist Hashtag Art",
+      "uk": "Мінімалістичне мистецтво хештегів"
+    },
+    "alt": {
+      "en": "Minimalist Hashtag Art",
+      "uk": "Мінімалістичне мистецтво хештегів"
+    },
+    "tags": [
+      {
+        "key": "minimalist",
+        "i18n": {
+          "en": "Minimalist",
+          "uk": "Мінімалістичний"
+        }
+      },
+      {
+        "key": "grid",
+        "i18n": {
+          "en": "Grid",
+          "uk": "Сітка"
+        }
+      },
+      {
+        "key": "black-and-white",
+        "i18n": {
+          "en": "black and white",
+          "uk": "чорно-білий"
+        }
+      },
+      {
+        "key": "symbol",
+        "i18n": {
+          "en": "symbol",
+          "uk": "символ"
+        }
+      },
+      {
+        "key": "hashtag",
+        "i18n": {
+          "en": "hashtag",
+          "uk": "хештег"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Nika",
+  "authorUrl": "https://www.lummi.ai/creator/nikadominguez_?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A minimalist image featuring a white hashtag symbol (#) centered on a solid black background. The hashtag is composed of two horizontal and two vertical lines intersecting to form a grid-like pattern with nine small squares. The stark contrast between the white symbol and the black background creates a bold and striking visual effect. The image is simple and clean, with no additional elements or distractions.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 2400,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/minimalist-hashtag-art-gjcmh/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/minimalist-hashtag-art-gjcmh/minimalist-hashtag-art-gjcmh.png",
+  "relativeAssetPath": "library/lummi/images/minimalist-hashtag-art-gjcmh/minimalist-hashtag-art-gjcmh.png"
+}

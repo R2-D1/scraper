@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-16553905",
+  "mediaKey": "pexels:16553905",
+  "i18n": {
+    "name": {
+      "en": "City traffic at night",
+      "uk": "Міський рух уночі"
+    },
+    "alt": {
+      "en": "A vibrant city street in New York with traffic and pedestrians during evening rush hour.",
+      "uk": "Жвава міська вулиця в Нью-Йорку з автомобілями та пішоходами під час вечірньої години пік."
+    },
+    "tags": [
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "traffic",
+        "i18n": {
+          "en": "traffic",
+          "uk": "дорожній рух"
+        }
+      },
+      {
+        "key": "cars",
+        "i18n": {
+          "en": "cars",
+          "uk": "автомобілі"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "urban"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/traffic-jams-in-a-city-center-16553905/",
+  "sourceName": "Pexels",
+  "authorName": "Fatih Turan",
+  "authorUrl": "https://www.pexels.com/@fatih-turan-63325184",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3200
+}

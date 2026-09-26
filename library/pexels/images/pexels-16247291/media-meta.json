@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-16247291",
+  "mediaKey": "pexels:16247291",
+  "i18n": {
+    "name": {
+      "en": "Person wearing headphones and a knit beanie",
+      "uk": "Людина в навушниках і в'язаній шапці"
+    },
+    "alt": {
+      "en": "A man outdoors wearing headphones and fun accessories, gesturing with interest. Perfect for music or lifestyle themes.",
+      "uk": "Чоловік на відкритому повітрі в навушниках та яскравих аксесуарах, який жваво жестикулює. Ідеально підходить для музичних або лайфстайл-тем."
+    },
+    "tags": [
+      {
+        "key": "person",
+        "i18n": {
+          "en": "person",
+          "uk": "людина"
+        }
+      },
+      {
+        "key": "headphones",
+        "i18n": {
+          "en": "headphones",
+          "uk": "навушники"
+        }
+      },
+      {
+        "key": "knit-beanie",
+        "i18n": {
+          "en": "knit beanie",
+          "uk": "в’язана шапка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "colorful-accessories",
+        "i18n": {
+          "en": "colorful accessories",
+          "uk": "яскраві аксесуари"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/funky-man-with-headphones-making-hearing-gesture-16247291/",
+  "sourceName": "Pexels",
+  "authorName": "Jacob Sierra",
+  "authorUrl": "https://www.pexels.com/@jacob-sierra-419902407",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

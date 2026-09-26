@@ -1,0 +1,289 @@
+- generic [ref=f87e4]:
+  - navigation [ref=f87e5]:
+    - generic [ref=f87e6]:
+      - generic [ref=f87e7]:
+        - link "Unsplash Home" [ref=f87e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f87e9]
+        - link "Photos" [ref=f87e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f87e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f87e17]:
+        - button "Explore" [ref=f87e18] [cursor=pointer]
+        - button "Collections" [ref=f87e21] [cursor=pointer]
+        - button "Download History" [ref=f87e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f87e28] [cursor=pointer]
+    - generic [ref=f87e31]:
+      - link "Log in / Sign up" [ref=f87e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-woman-pours-water-from-pitchers-under-a-rainbow-U65a37VuLIo
+      - button "Language" [ref=f87e35] [cursor=pointer]
+      - button "Menu" [ref=f87e38] [cursor=pointer]
+  - generic [ref=f87e41]:
+    - generic [ref=f87e42]:
+      - navigation [ref=f87e43]:
+        - search "Find visuals sitewide" [ref=f87e45]:
+          - button "Search Unsplash" [ref=f87e46] [cursor=pointer]
+          - combobox [ref=f87e49]:
+            - searchbox "Search Unsplash" [ref=f87e50]
+            - listbox
+          - button "Visual search" [ref=f87e52] [cursor=pointer]
+        - generic [ref=f87e55]:
+          - link "Get Unsplash+" [ref=f87e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f87e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-woman-pours-water-from-pitchers-under-a-rainbow-U65a37VuLIo
+        - button "Submit an image" [ref=f87e59] [cursor=pointer]
+      - generic [ref=f87e60]:
+        - generic [ref=f87e61]:
+          - banner [ref=f87e63]:
+            - generic [ref=f87e65]:
+              - link [ref=f87e66] [cursor=pointer]:
+                - /url: /@graphicook_studio/illustrations
+              - generic [ref=f87e69]:
+                - link "Graphicook Studio" [ref=f87e70] [cursor=pointer]:
+                  - /url: /@graphicook_studio/illustrations
+                - generic [ref=f87e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f87e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-woman-pours-water-from-pitchers-under-a-rainbow-U65a37VuLIo
+            - generic [ref=f87e73]:
+              - button "Bookmark" [ref=f87e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f87e77] [cursor=pointer]
+              - button "Edit image" [ref=f87e80] [cursor=pointer]
+              - button "Download" [ref=f87e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f87e90]:
+            - img "A woman pours water from pitchers under a rainbow." [ref=f87e91]
+          - generic [ref=f87e92]:
+            - generic [ref=f87e94]:
+              - button "Share this image" [ref=f87e95] [cursor=pointer]:
+                - generic [ref=f87e98]: Share
+              - button "More Actions" [ref=f87e99] [cursor=pointer]
+            - generic [ref=f87e103]:
+              - heading "A woman pours water from pitchers under a rainbow." [level=1] [ref=f87e105]
+              - paragraph [ref=f87e109]: Download this illustration of blue, green, clouds, and illustration by Graphicook Studio (@graphicook_studio)
+              - generic [ref=f87e111]:
+                - generic [ref=f87e116]:
+                  - text: Published on
+                  - time [ref=f87e117]: May 16, 2025
+                - generic [ref=f87e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f87e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f87e124]:
+              - link "blue" [ref=f87e125] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "green" [ref=f87e126] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "clouds" [ref=f87e127] [cursor=pointer]:
+                - /url: /s/illustrations/clouds
+              - link "illustration" [ref=f87e128] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "orange" [ref=f87e129] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "red" [ref=f87e130] [cursor=pointer]:
+                - /url: /s/illustrations/red
+              - link "star" [ref=f87e131] [cursor=pointer]:
+                - /url: /s/illustrations/star
+              - link "rainbow" [ref=f87e132] [cursor=pointer]:
+                - /url: /s/illustrations/rainbow
+              - link "vector" [ref=f87e133] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "healing" [ref=f87e134] [cursor=pointer]:
+                - /url: /s/illustrations/healing
+              - link "transformation" [ref=f87e135] [cursor=pointer]:
+                - /url: /s/illustrations/transformation
+              - link "tarot" [ref=f87e136] [cursor=pointer]:
+                - /url: /s/illustrations/tarot
+              - link "teal" [ref=f87e137] [cursor=pointer]:
+                - /url: /s/illustrations/teal
+              - link "inner peace" [ref=f87e138] [cursor=pointer]:
+                - /url: /s/illustrations/inner-peace
+              - link "tarot cards" [ref=f87e139] [cursor=pointer]:
+                - /url: /s/illustrations/tarot-cards
+              - link "tarot card" [ref=f87e140] [cursor=pointer]:
+                - /url: /s/illustrations/tarot-card
+              - link "occult" [ref=f87e141] [cursor=pointer]:
+                - /url: /s/illustrations/occult
+              - link "esoteric" [ref=f87e142] [cursor=pointer]:
+                - /url: /s/illustrations/esoteric
+              - link "zodiac sign" [ref=f87e143] [cursor=pointer]:
+                - /url: /s/illustrations/zodiac-sign
+              - link "aquarius" [ref=f87e144] [cursor=pointer]:
+                - /url: /s/illustrations/aquarius
+        - generic [ref=f87e147]:
+          - generic [ref=f87e148]:
+            - paragraph [ref=f87e150]: From this series
+            - generic [ref=f87e153]:
+              - generic:
+                - link [ref=f87e154] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Ftarot-cards-featuring-the-fool-SQbpRgngzys
+                - link "Tarot cards featuring the fool.":
+                  - /url: /illustrations/tarot-cards-featuring-the-fool-SQbpRgngzys
+                  - img "Tarot cards featuring the fool."
+              - generic [ref=f87e157]:
+                - link [ref=f87e158] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sits-atop-the-earth-surrounded-by-sky-ZycbPP64ifU
+                - link [ref=f87e161]:
+                  - /url: /illustrations/a-woman-sits-atop-the-earth-surrounded-by-sky-ZycbPP64ifU
+                  - img "A woman sits atop the earth, surrounded by sky." [ref=f87e162]
+              - generic [ref=f87e163]:
+                - link [ref=f87e164] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Ftarot-cards-depict-a-radiant-sun-and-starburst-wwat2d38mQs
+                - link [ref=f87e167]:
+                  - /url: /illustrations/tarot-cards-depict-a-radiant-sun-and-starburst-wwat2d38mQs
+                  - img "Tarot cards depict a radiant sun and starburst." [ref=f87e168]
+              - generic [ref=f87e169]:
+                - link [ref=f87e170] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Ftwo-cats-embrace-under-a-glowing-heart-and-hands-8h_QRT1xIsk
+                - link [ref=f87e173]:
+                  - /url: /illustrations/two-cats-embrace-under-a-glowing-heart-and-hands-8h_QRT1xIsk
+                  - img "Two cats embrace under a glowing heart and hands." [ref=f87e174]
+          - generic [ref=f87e175]:
+            - heading "Related images" [level=4] [ref=f87e177]
+            - generic [ref=f87e181]:
+              - generic [ref=f87e182]:
+                - figure [ref=f87e183]:
+                  - generic [ref=f87e185]:
+                    - link [ref=f87e186]:
+                      - /url: /illustrations/a-woman-sits-atop-the-earth-surrounded-by-sky-ZycbPP64ifU
+                      - img "A woman sits atop the earth, surrounded by sky." [ref=f87e187]
+                    - link [ref=f87e188] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sits-atop-the-earth-surrounded-by-sky-ZycbPP64ifU
+                - figure [ref=f87e191]:
+                  - generic [ref=f87e193]:
+                    - link [ref=f87e194]:
+                      - /url: /illustrations/a-drawing-of-a-woman-with-a-flower-in-her-hair-xIh9_V0c2Z4
+                      - img "a drawing of a woman with a flower in her hair" [ref=f87e195]
+                    - link [ref=f87e196] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-drawing-of-a-woman-with-a-flower-in-her-hair-xIh9_V0c2Z4
+                - figure [ref=f87e199]:
+                  - generic [ref=f87e201]:
+                    - link [ref=f87e202]:
+                      - /url: /illustrations/a-woman-in-a-bikini-sitting-on-the-ground-Hl6YNSdxlnc
+                      - img "A woman in a bikini sitting on the ground" [ref=f87e203]
+                    - link [ref=f87e204] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-in-a-bikini-sitting-on-the-ground-Hl6YNSdxlnc
+                - figure [ref=f87e207]:
+                  - generic [ref=f87e209]:
+                    - link [ref=f87e210]:
+                      - /url: /illustrations/tarot-cards-featuring-the-fool-SQbpRgngzys
+                      - img "Tarot cards featuring the fool." [ref=f87e211]
+                    - link [ref=f87e212] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ftarot-cards-featuring-the-fool-SQbpRgngzys
+                - figure [ref=f87e215]:
+                  - generic [ref=f87e217]:
+                    - link [ref=f87e218]:
+                      - /url: /illustrations/a-woman-with-a-flower-in-her-hand-EiwPebf2FVM
+                      - img "A woman with a flower in her hand" [ref=f87e219]
+                    - link [ref=f87e220] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-with-a-flower-in-her-hand-EiwPebf2FVM
+                - figure [ref=f87e223]:
+                  - generic [ref=f87e225]:
+                    - link [ref=f87e226]:
+                      - /url: /illustrations/a-woman-in-a-bikini-standing-in-front-of-plants-qohhaQBkw0g
+                      - img "A woman in a bikini standing in front of plants" [ref=f87e227]
+                    - link [ref=f87e228] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-in-a-bikini-standing-in-front-of-plants-qohhaQBkw0g
+                - figure [ref=f87e231]:
+                  - generic [ref=f87e233]:
+                    - link [ref=f87e234]:
+                      - /url: /illustrations/a-woman-laying-on-the-ground-surrounded-by-flowers-IMWE69xHK6Y
+                      - img "A woman laying on the ground surrounded by flowers" [ref=f87e235]
+                    - link [ref=f87e236] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-laying-on-the-ground-surrounded-by-flowers-IMWE69xHK6Y
+                - figure [ref=f87e239]:
+                  - generic [ref=f87e241]:
+                    - link [ref=f87e242]:
+                      - /url: /illustrations/a-woman-in-a-bathing-suit-with-her-hand-on-her-chest-A5qWH8Uge8o
+                      - img "A woman in a bathing suit with her hand on her chest" [ref=f87e243]
+                    - link [ref=f87e244] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-in-a-bathing-suit-with-her-hand-on-her-chest-A5qWH8Uge8o
+              - generic [ref=f87e247]:
+                - figure [ref=f87e248]:
+                  - generic [ref=f87e250]:
+                    - link [ref=f87e251]:
+                      - /url: /illustrations/the-sun-tarot-card-features-a-smiling-sun-VAOx1ngi33M
+                      - img "The sun tarot card features a smiling sun." [ref=f87e252]
+                    - link [ref=f87e253] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fthe-sun-tarot-card-features-a-smiling-sun-VAOx1ngi33M
+                - figure [ref=f87e256]:
+                  - generic [ref=f87e258]:
+                    - link [ref=f87e259]:
+                      - /url: /illustrations/a-woman-enjoys-the-water-with-a-towel-lKk2yN-Nfsw
+                      - img "A woman enjoys the water with a towel." [ref=f87e260]
+                    - link [ref=f87e261] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-enjoys-the-water-with-a-towel-lKk2yN-Nfsw
+                - figure [ref=f87e264]:
+                  - generic [ref=f87e266]:
+                    - link [ref=f87e267]:
+                      - /url: /illustrations/woman-holding-stomach-with-eyes-closed-utzQHLLNOxM
+                      - img "Woman holding stomach with eyes closed" [ref=f87e268]
+                    - link [ref=f87e269] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-holding-stomach-with-eyes-closed-utzQHLLNOxM
+                - figure [ref=f87e272]:
+                  - generic [ref=f87e274]:
+                    - link [ref=f87e275]:
+                      - /url: /illustrations/a-queen-sits-proudly-symbolizing-power-and-grace-gK_0cKViXx8
+                      - img "A queen sits proudly, symbolizing power and grace." [ref=f87e276]
+                    - link [ref=f87e277] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-queen-sits-proudly-symbolizing-power-and-grace-gK_0cKViXx8
+                - figure [ref=f87e280]:
+                  - generic [ref=f87e282]:
+                    - link [ref=f87e283]:
+                      - /url: /illustrations/a-painting-of-a-woman-with-flowers-in-her-hair-Y1apI0VcTaw
+                      - img "A painting of a woman with flowers in her hair" [ref=f87e284]
+                    - link [ref=f87e285] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-woman-with-flowers-in-her-hair-Y1apI0VcTaw
+                - figure [ref=f87e288]:
+                  - generic [ref=f87e290]:
+                    - link [ref=f87e291]:
+                      - /url: /illustrations/a-woman-in-a-green-and-blue-bathing-suit-L-VWUm89gg0
+                      - img "A woman in a green and blue bathing suit" [ref=f87e292]
+                    - link [ref=f87e293] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-in-a-green-and-blue-bathing-suit-L-VWUm89gg0
+              - generic [ref=f87e296]:
+                - figure [ref=f87e297]:
+                  - generic [ref=f87e299]:
+                    - link [ref=f87e300]:
+                      - /url: /illustrations/a-woman-in-a-purple-bikini-standing-on-a-beach-OkQFuTyJV3A
+                      - img "A woman in a purple bikini standing on a beach" [ref=f87e301]
+                    - link [ref=f87e302] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-in-a-purple-bikini-standing-on-a-beach-OkQFuTyJV3A
+                - figure [ref=f87e305]:
+                  - generic [ref=f87e307]:
+                    - link [ref=f87e308]:
+                      - /url: /illustrations/a-woman-in-a-bikini-standing-in-a-field-of-flowers-hL2XSel5RR0
+                      - img "A woman in a bikini standing in a field of flowers" [ref=f87e309]
+                    - link [ref=f87e310] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-in-a-bikini-standing-in-a-field-of-flowers-hL2XSel5RR0
+                - figure [ref=f87e313]:
+                  - generic [ref=f87e315]:
+                    - link [ref=f87e316]:
+                      - /url: /illustrations/a-woman-is-pictured-as-a-modern-saint-lBZJVDxvgAE
+                      - img "A woman is pictured as a modern saint." [ref=f87e317]
+                    - link [ref=f87e318] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-is-pictured-as-a-modern-saint-lBZJVDxvgAE
+                - figure [ref=f87e321]:
+                  - generic [ref=f87e323]:
+                    - link [ref=f87e324]:
+                      - /url: /illustrations/a-painting-of-a-person-reaching-for-a-rainbow-qH7seWp1bhA
+                      - img "A painting of a person reaching for a rainbow" [ref=f87e325]
+                    - link [ref=f87e326] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-person-reaching-for-a-rainbow-qH7seWp1bhA
+                - figure [ref=f87e329]:
+                  - generic [ref=f87e331]:
+                    - link [ref=f87e332]:
+                      - /url: /illustrations/a-painting-of-a-woman-sitting-on-top-of-a-chair-gCTa1NaMycs
+                      - img "A painting of a woman sitting on top of a chair" [ref=f87e333]
+                    - link [ref=f87e334] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-woman-sitting-on-top-of-a-chair-gCTa1NaMycs
+                - figure [ref=f87e337]:
+                  - generic [ref=f87e339]:
+                    - link [ref=f87e340]:
+                      - /url: /illustrations/a-pregnant-woman-in-a-purple-dress-is-standing-in-front-of-the-sun-8MM7WMLNmU4
+                      - img "A pregnant woman in a purple dress is standing in front of the sun" [ref=f87e341]
+                    - link [ref=f87e342] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-pregnant-woman-in-a-purple-dress-is-standing-in-front-of-the-sun-8MM7WMLNmU4
+    - generic:
+      - region "Notifications"

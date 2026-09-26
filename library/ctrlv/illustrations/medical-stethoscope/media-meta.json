@@ -1,0 +1,104 @@
+{
+  "slug": "medical-stethoscope",
+  "mediaKey": "145d3372-5aaa-47bf-9f74-24df41e299a5",
+  "i18n": {
+    "name": {
+      "en": "Stethoscope",
+      "uk": "Стетоскоп"
+    },
+    "alt": {
+      "en": "Stethoscope",
+      "uk": "Стетоскоп"
+    },
+    "tags": [
+      {
+        "key": "medical",
+        "i18n": {
+          "en": "medical",
+          "uk": "медичний"
+        }
+      },
+      {
+        "key": "hospital",
+        "i18n": {
+          "en": "hospital",
+          "uk": "лікарня"
+        }
+      },
+      {
+        "key": "health",
+        "i18n": {
+          "en": "health",
+          "uk": "здоров'я"
+        }
+      },
+      {
+        "key": "stethoscope",
+        "i18n": {
+          "en": "stethoscope",
+          "uk": "стетоскоп"
+        }
+      },
+      {
+        "key": "doctor",
+        "i18n": {
+          "en": "doctor",
+          "uk": "лікар"
+        }
+      },
+      {
+        "key": "heart",
+        "i18n": {
+          "en": "heart",
+          "uk": "серце"
+        }
+      },
+      {
+        "key": "listening",
+        "i18n": {
+          "en": "listening",
+          "uk": "прослуховування"
+        }
+      },
+      {
+        "key": "auscultation",
+        "i18n": {
+          "en": "auscultation",
+          "uk": "аускультація"
+        }
+      },
+      {
+        "key": "care",
+        "i18n": {
+          "en": "care",
+          "uk": "догляд"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/medical-stethoscope",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

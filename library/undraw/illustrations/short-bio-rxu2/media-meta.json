@@ -1,0 +1,63 @@
+{
+  "slug": "short-bio-rxu2",
+  "mediaKey": "90ca3698-91e0-4142-a8ee-a9ff2e116b7c",
+  "providerId": "5fb7a29ef38ff100174bef4c",
+  "i18n": {
+    "name": {
+      "en": "Short bio",
+      "uk": "Коротка біографія"
+    },
+    "alt": {
+      "en": "Short bio",
+      "uk": "Коротка біографія"
+    },
+    "tags": [
+      {
+        "key": "short-bio",
+        "i18n": {
+          "en": "Short bio",
+          "uk": "Коротка біографія"
+        }
+      },
+      {
+        "key": "short",
+        "i18n": {
+          "en": "short",
+          "uk": "короткий"
+        }
+      },
+      {
+        "key": "bio",
+        "i18n": {
+          "en": "bio",
+          "uk": "біо"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/short-bio_rxu2.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 626,
+  "height": 417
+}

@@ -1,0 +1,6816 @@
+{
+  "action-redo": {
+    "mediaKey": "baaa079d-1f34-4d25-93dd-551b0ac36dd0",
+    "i18n": {
+      "name": {
+        "en": "Action redo",
+        "uk": "Повторити дію"
+      },
+      "alt": {
+        "en": "Action redo",
+        "uk": "Повторити дію"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "action",
+          "activity",
+          "execute",
+          "forward undo",
+          "interaction",
+          "reapply",
+          "redo",
+          "repeat",
+          "trigger",
+          "action-redo"
+        ],
+        "uk": [
+          "вернути",
+          "дія",
+          "екшен",
+          "зробити знову",
+          "клік",
+          "операція",
+          "повторити",
+          "повторна дія",
+          "подія"
+        ]
+      }
+    }
+  },
+  "action-undo": {
+    "mediaKey": "e457bb17-510a-4001-84eb-0ef7c3376a16",
+    "i18n": {
+      "name": {
+        "en": "Action undo",
+        "uk": "Скасувати дію"
+      },
+      "alt": {
+        "en": "Action undo",
+        "uk": "Скасувати дію"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "action",
+          "activity",
+          "back",
+          "ctrl z",
+          "execute",
+          "interaction",
+          "reverse",
+          "revert",
+          "rollback",
+          "step back",
+          "trigger",
+          "undo",
+          "action-undo"
+        ],
+        "uk": [
+          "дія",
+          "екшен",
+          "клік",
+          "операція",
+          "повернути",
+          "подія",
+          "скасувати"
+        ]
+      }
+    }
+  },
+  "anchor": {
+    "mediaKey": "b38500e0-df55-4df2-941a-bd1939c8ad4a",
+    "i18n": {
+      "name": {
+        "en": "Anchor",
+        "uk": "Якір"
+      },
+      "alt": {
+        "en": "Anchor",
+        "uk": "Якір"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⚓",
+          "anchor",
+          "ship anchor"
+        ],
+        "uk": [
+          "⚓",
+          "анчор",
+          "закріплення",
+          "прикріпити",
+          "якір"
+        ]
+      }
+    }
+  },
+  "arrow-down": {
+    "mediaKey": "ae222c49-44ef-4763-9af6-02b8d81a4a09",
+    "i18n": {
+      "name": {
+        "en": "Arrow down",
+        "uk": "Стрілка вниз"
+      },
+      "alt": {
+        "en": "Arrow down",
+        "uk": "Стрілка вниз"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow downwards",
+          "arrow icon",
+          "descending arrow",
+          "down",
+          "down arrow",
+          "down direction",
+          "down icon",
+          "down swipe",
+          "download arrow",
+          "downward",
+          "move down",
+          "scroll down",
+          "arrow-down"
+        ],
+        "uk": [
+          "арров",
+          "вказівник",
+          "вниз",
+          "довн",
+          "напрямок",
+          "опустити",
+          "рух донизу",
+          "стрілка",
+          "стрілка вниз",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-down-circle": {
+    "mediaKey": "81868b9b-5d81-418f-9b54-1c4b0c7bb46c",
+    "i18n": {
+      "name": {
+        "en": "Arrow down circle",
+        "uk": "Стрілка вниз (коло)"
+      },
+      "alt": {
+        "en": "Arrow down circle",
+        "uk": "Стрілка вниз (коло)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow downwards",
+          "arrow icon",
+          "circle",
+          "circle shape",
+          "descending arrow",
+          "down",
+          "down arrow",
+          "down direction",
+          "down icon",
+          "down swipe",
+          "download arrow",
+          "downward",
+          "move down",
+          "round",
+          "scroll down",
+          "arrow-down-circle"
+        ],
+        "uk": [
+          "арров",
+          "вказівник",
+          "вниз",
+          "довн",
+          "кіркле",
+          "коло",
+          "напрямок",
+          "окружність",
+          "опустити",
+          "рух донизу",
+          "стрілка",
+          "стрілка вниз",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-left": {
+    "mediaKey": "f4acdda9-b79d-4009-b864-b3eadb105891",
+    "i18n": {
+      "name": {
+        "en": "Arrow left",
+        "uk": "Стрілка вліво"
+      },
+      "alt": {
+        "en": "Arrow left",
+        "uk": "Стрілка вліво"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "←",
+          "arrow",
+          "arrow icon",
+          "arrow left",
+          "left",
+          "left arrow",
+          "west",
+          "arrow-left"
+        ],
+        "uk": [
+          "←",
+          "арров",
+          "вказівник",
+          "зліва",
+          "лефт",
+          "ліва сторона",
+          "лівий бік",
+          "лівий напрямок",
+          "напрямок",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-left-circle": {
+    "mediaKey": "5f93edca-af01-4e58-b9cb-8459629c4de3",
+    "i18n": {
+      "name": {
+        "en": "Arrow left circle",
+        "uk": "Стрілка вліво (коло)"
+      },
+      "alt": {
+        "en": "Arrow left circle",
+        "uk": "Стрілка вліво (коло)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "←",
+          "arrow",
+          "arrow icon",
+          "arrow left",
+          "circle",
+          "circle shape",
+          "left",
+          "left arrow",
+          "round",
+          "west",
+          "arrow-left-circle"
+        ],
+        "uk": [
+          "←",
+          "арров",
+          "вказівник",
+          "зліва",
+          "кіркле",
+          "коло",
+          "лефт",
+          "ліва сторона",
+          "лівий бік",
+          "лівий напрямок",
+          "напрямок",
+          "окружність",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-right": {
+    "mediaKey": "05268469-10b6-4fba-ac73-568ed69c95c7",
+    "i18n": {
+      "name": {
+        "en": "Arrow right",
+        "uk": "Стрілка вправо"
+      },
+      "alt": {
+        "en": "Arrow right",
+        "uk": "Стрілка вправо"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow icon",
+          "correct",
+          "right",
+          "right arrow",
+          "arrow-right"
+        ],
+        "uk": [
+          "арров",
+          "вказівник",
+          "напрямок",
+          "правильно",
+          "праворуч",
+          "ріґхт",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-right-circle": {
+    "mediaKey": "70263aae-20f9-408d-a699-1071f30f6cf2",
+    "i18n": {
+      "name": {
+        "en": "Arrow right circle",
+        "uk": "Стрілка вправо (коло)"
+      },
+      "alt": {
+        "en": "Arrow right circle",
+        "uk": "Стрілка вправо (коло)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow icon",
+          "circle",
+          "circle shape",
+          "correct",
+          "right",
+          "right arrow",
+          "round",
+          "arrow-right-circle"
+        ],
+        "uk": [
+          "арров",
+          "вказівник",
+          "кіркле",
+          "коло",
+          "напрямок",
+          "окружність",
+          "правильно",
+          "праворуч",
+          "ріґхт",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-up": {
+    "mediaKey": "257109dd-0f39-46f1-96d8-c0dc4df6e8e6",
+    "i18n": {
+      "name": {
+        "en": "Arrow up",
+        "uk": "Стрілка вгору"
+      },
+      "alt": {
+        "en": "Arrow up",
+        "uk": "Стрілка вгору"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow icon",
+          "arrow up",
+          "boost",
+          "up",
+          "arrow-up"
+        ],
+        "uk": [
+          "ап",
+          "арров",
+          "вгору",
+          "верх",
+          "вказівник",
+          "напрямок",
+          "підняти",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-up-circle": {
+    "mediaKey": "9db3f9c2-8e77-4c18-9363-75025a0c829f",
+    "i18n": {
+      "name": {
+        "en": "Arrow up circle",
+        "uk": "Стрілка вгору (коло)"
+      },
+      "alt": {
+        "en": "Arrow up circle",
+        "uk": "Стрілка вгору (коло)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow icon",
+          "arrow up",
+          "boost",
+          "circle",
+          "circle shape",
+          "round",
+          "up",
+          "arrow-up-circle"
+        ],
+        "uk": [
+          "ап",
+          "арров",
+          "вгору",
+          "верх",
+          "вказівник",
+          "кіркле",
+          "коло",
+          "напрямок",
+          "окружність",
+          "підняти",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "badge": {
+    "mediaKey": "a98d151e-806e-4a07-bd37-37942d47cd16",
+    "i18n": {
+      "name": {
+        "en": "Badge",
+        "uk": "Значок"
+      },
+      "alt": {
+        "en": "Badge",
+        "uk": "Значок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "badge",
+          "badge icon"
+        ],
+        "uk": [
+          "бадґе",
+          "бейдж",
+          "знагорода",
+          "значок",
+          "значок профілю"
+        ]
+      }
+    }
+  },
+  "bag": {
+    "mediaKey": "8dc56f0c-da79-4343-aa1f-eef059d7596d",
+    "i18n": {
+      "name": {
+        "en": "Bag",
+        "uk": "Сумка"
+      },
+      "alt": {
+        "en": "Bag",
+        "uk": "Сумка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "👜",
+          "bag",
+          "shopping bag"
+        ],
+        "uk": [
+          "👜",
+          "баґ",
+          "пакунок",
+          "сумка",
+          "торба"
+        ]
+      }
+    }
+  },
+  "ban": {
+    "mediaKey": "1bf6739c-bb21-45d6-a7bc-2100e0ee3fea",
+    "i18n": {
+      "name": {
+        "en": "Ban",
+        "uk": "Заборона"
+      },
+      "alt": {
+        "en": "Ban",
+        "uk": "Заборона"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "ban",
+          "ban hammer",
+          "block user"
+        ],
+        "uk": [
+          "бан",
+          "заблокувати",
+          "заборона"
+        ]
+      }
+    }
+  },
+  "basket": {
+    "mediaKey": "f8e85a90-ed81-403e-bfc8-b3a6dda1b2f3",
+    "i18n": {
+      "name": {
+        "en": "Basket",
+        "uk": "Кошик"
+      },
+      "alt": {
+        "en": "Basket",
+        "uk": "Кошик"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "basket",
+          "basket icon",
+          "shopping basket"
+        ],
+        "uk": [
+          "баскет",
+          "кошик",
+          "плетений кошик"
+        ]
+      }
+    }
+  },
+  "basket-loaded": {
+    "mediaKey": "09b6a54e-1757-40b0-bf2c-de2bd2273d7b",
+    "i18n": {
+      "name": {
+        "en": "Basket loaded",
+        "uk": "Кошик повний"
+      },
+      "alt": {
+        "en": "Basket loaded",
+        "uk": "Кошик повний"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "basket",
+          "basket icon",
+          "fully loaded",
+          "loaded",
+          "loaded icon",
+          "loaded state",
+          "loading done",
+          "shopping basket",
+          "basket-loaded"
+        ],
+        "uk": [
+          "баскет",
+          "готово",
+          "завантажено",
+          "кошик",
+          "підвантажено",
+          "плетений кошик"
+        ]
+      }
+    }
+  },
+  "bell": {
+    "mediaKey": "c5e9043c-be25-4d3b-93fa-a07566b53f26",
+    "i18n": {
+      "name": {
+        "en": "Bell",
+        "uk": "Дзвінок"
+      },
+      "alt": {
+        "en": "Bell",
+        "uk": "Дзвінок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🔔",
+          "alarm bell",
+          "bell",
+          "notif bell"
+        ],
+        "uk": [
+          "🔔",
+          "белл",
+          "дзвінок",
+          "дзвіночок",
+          "дзвоник"
+        ]
+      }
+    }
+  },
+  "book-open": {
+    "mediaKey": "c7320ac5-84e6-46bc-9ef5-9ff2b17ce68b",
+    "i18n": {
+      "name": {
+        "en": "Book open",
+        "uk": "Відкрита книга"
+      },
+      "alt": {
+        "en": "Book open",
+        "uk": "Відкрита книга"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "📚",
+          "book",
+          "book icon",
+          "hardcover",
+          "open",
+          "open icon",
+          "open state",
+          "book-open"
+        ],
+        "uk": [
+          "📚",
+          "боок",
+          "відкрити",
+          "відкритий",
+          "книга",
+          "опен",
+          "читати"
+        ]
+      }
+    }
+  },
+  "briefcase": {
+    "mediaKey": "ca701a40-882d-4f20-a7f0-a5fad73725ab",
+    "i18n": {
+      "name": {
+        "en": "Briefcase",
+        "uk": "Портфель"
+      },
+      "alt": {
+        "en": "Briefcase",
+        "uk": "Портфель"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "attaché",
+          "briefcase",
+          "business case"
+        ],
+        "uk": [
+          "бріефкасе",
+          "валіза для документів",
+          "портфель"
+        ]
+      }
+    }
+  },
+  "bubble": {
+    "mediaKey": "7aee0362-645c-46ac-bba1-78b8310d34b2",
+    "i18n": {
+      "name": {
+        "en": "Bubble",
+        "uk": "Бульбашка"
+      },
+      "alt": {
+        "en": "Bubble",
+        "uk": "Бульбашка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bubble",
+          "soap bubble",
+          "speech bubble"
+        ],
+        "uk": [
+          "буббле",
+          "бульбашка",
+          "міхур",
+          "чат"
+        ]
+      }
+    }
+  },
+  "bubbles": {
+    "mediaKey": "f3caceea-fa1a-4331-8cd6-34dd098019a1",
+    "i18n": {
+      "name": {
+        "en": "Bubbles",
+        "uk": "Бульбашки"
+      },
+      "alt": {
+        "en": "Bubbles",
+        "uk": "Бульбашки"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bubble chat",
+          "bubbles",
+          "messaging",
+          "speech bubbles"
+        ],
+        "uk": [
+          "бульбашки",
+          "мильні бульбашки",
+          "пінка",
+          "повітряні кульки",
+          "чат-бабл"
+        ]
+      }
+    }
+  },
+  "bulb": {
+    "mediaKey": "04c77382-f493-47dc-809b-6fabcb33a551",
+    "i18n": {
+      "name": {
+        "en": "Bulb",
+        "uk": "Лампочка"
+      },
+      "alt": {
+        "en": "Bulb",
+        "uk": "Лампочка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "💡",
+          "bulb",
+          "idea",
+          "light bulb"
+        ],
+        "uk": [
+          "💡",
+          "булб",
+          "лампочка",
+          "цибулина"
+        ]
+      }
+    }
+  },
+  "calculator": {
+    "mediaKey": "49ea8901-b43b-4577-aaee-72d7a5158dba",
+    "i18n": {
+      "name": {
+        "en": "Calculator",
+        "uk": "Калькулятор"
+      },
+      "alt": {
+        "en": "Calculator",
+        "uk": "Калькулятор"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "calc",
+          "calculator",
+          "math keypad"
+        ],
+        "uk": [
+          "калкулатор",
+          "калькулятор",
+          "рахувати"
+        ]
+      }
+    }
+  },
+  "calendar": {
+    "mediaKey": "c5cfdba8-0b4e-4fe2-82a7-ec70fc67d90e",
+    "i18n": {
+      "name": {
+        "en": "Calendar",
+        "uk": "Календар"
+      },
+      "alt": {
+        "en": "Calendar",
+        "uk": "Календар"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "📅",
+          "calendar",
+          "planner",
+          "schedule"
+        ],
+        "uk": [
+          "📅",
+          "дата",
+          "календар"
+        ]
+      }
+    }
+  },
+  "calender": {
+    "mediaKey": "0b94d5ea-97e3-4c2a-9bbd-8597c3ed0803",
+    "i18n": {
+      "name": {
+        "en": "Calender",
+        "uk": "Календар"
+      },
+      "alt": {
+        "en": "Calender",
+        "uk": "Календар"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "agenda",
+          "calendar",
+          "calender",
+          "planner",
+          "schedule"
+        ],
+        "uk": [
+          "дата",
+          "календар",
+          "розклад"
+        ]
+      }
+    }
+  },
+  "call-end": {
+    "mediaKey": "08539936-0c1f-482f-8d58-66a1072309ed",
+    "i18n": {
+      "name": {
+        "en": "Call end",
+        "uk": "Завершити дзвінок"
+      },
+      "alt": {
+        "en": "Call end",
+        "uk": "Завершити дзвінок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "📞",
+          "call",
+          "call icon",
+          "end",
+          "end flag",
+          "end game",
+          "end icon",
+          "end marker",
+          "end point",
+          "final",
+          "finish line",
+          "phone call",
+          "stop",
+          "stop icon",
+          "the end",
+          "call-end"
+        ],
+        "uk": [
+          "📞",
+          "виклик",
+          "дзвінок",
+          "енд",
+          "завершення",
+          "зателефонувати",
+          "калл",
+          "кінець",
+          "конечна точка",
+          "фініш"
+        ]
+      }
+    }
+  },
+  "call-in": {
+    "mediaKey": "839a9ba1-c24a-4cc8-b71c-136b2d79c43f",
+    "i18n": {
+      "name": {
+        "en": "Call in",
+        "uk": "Дзвінок в"
+      },
+      "alt": {
+        "en": "Call in",
+        "uk": "Дзвінок в"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "📞",
+          "call",
+          "call icon",
+          "in",
+          "in icon",
+          "input",
+          "inside",
+          "phone call",
+          "call-in"
+        ],
+        "uk": [
+          "📞",
+          "в",
+          "виклик",
+          "всередині",
+          "дзвінок",
+          "зателефонувати",
+          "ін",
+          "калл"
+        ]
+      }
+    }
+  },
+  "call-out": {
+    "mediaKey": "556cec90-67d0-43d9-8ad4-14b25e879aa0",
+    "i18n": {
+      "name": {
+        "en": "Call out",
+        "uk": "Дзвінок назовні"
+      },
+      "alt": {
+        "en": "Call out",
+        "uk": "Дзвінок назовні"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "📞",
+          "call",
+          "call icon",
+          "out",
+          "out state",
+          "phone call",
+          "call-out"
+        ],
+        "uk": [
+          "📞",
+          "вийти назовні",
+          "виклик",
+          "дзвінок",
+          "зателефонувати",
+          "зовні",
+          "калл",
+          "оут",
+          "поза"
+        ]
+      }
+    }
+  },
+  "camera": {
+    "mediaKey": "b8b481f4-60bc-4aa3-801b-b2ccc9c5b204",
+    "i18n": {
+      "name": {
+        "en": "Camera",
+        "uk": "Камера"
+      },
+      "alt": {
+        "en": "Camera",
+        "uk": "Камера"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "📷",
+          "camera",
+          "camera icon",
+          "photo"
+        ],
+        "uk": [
+          "📷",
+          "камера",
+          "фотоапарат"
+        ]
+      }
+    }
+  },
+  "camrecorder": {
+    "mediaKey": "6159ee55-38c9-4df0-8c71-9871be301a70",
+    "i18n": {
+      "name": {
+        "en": "Camrecorder",
+        "uk": "Відеокамера"
+      },
+      "alt": {
+        "en": "Camrecorder",
+        "uk": "Відеокамера"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "camrecorder"
+        ],
+        "uk": [
+          "бренд",
+          "відеокамера",
+          "логотип"
+        ]
+      }
+    }
+  },
+  "chart": {
+    "mediaKey": "b0a207f4-0756-4a23-96a4-a3df0b2e1146",
+    "i18n": {
+      "name": {
+        "en": "Chart",
+        "uk": "Діаграма"
+      },
+      "alt": {
+        "en": "Chart",
+        "uk": "Діаграма"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "chart",
+          "chart icon",
+          "stats"
+        ],
+        "uk": [
+          "графік",
+          "діаграма",
+          "чарт"
+        ]
+      }
+    }
+  },
+  "check": {
+    "mediaKey": "f031cda2-6399-4c29-92a9-3217b40c6231",
+    "i18n": {
+      "name": {
+        "en": "Check",
+        "uk": "Галочка"
+      },
+      "alt": {
+        "en": "Check",
+        "uk": "Галочка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "check",
+          "check mark",
+          "done"
+        ],
+        "uk": [
+          "галочка",
+          "перевірити",
+          "чекк"
+        ]
+      }
+    }
+  },
+  "chemistry": {
+    "mediaKey": "d3b330b5-2468-4196-8f72-7b9a040d575f",
+    "i18n": {
+      "name": {
+        "en": "Chemistry",
+        "uk": "Хімія"
+      },
+      "alt": {
+        "en": "Chemistry",
+        "uk": "Хімія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "chemistry",
+          "lab work",
+          "science"
+        ],
+        "uk": [
+          "лабораторія",
+          "реакції",
+          "формули",
+          "хімія"
+        ]
+      }
+    }
+  },
+  "clock": {
+    "mediaKey": "1994be56-beb7-49f4-a17c-bf2387daf21b",
+    "i18n": {
+      "name": {
+        "en": "Clock",
+        "uk": "Годинник"
+      },
+      "alt": {
+        "en": "Clock",
+        "uk": "Годинник"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🕒",
+          "analog clock",
+          "clock",
+          "time",
+          "watch"
+        ],
+        "uk": [
+          "🕒",
+          "годинник",
+          "клокк"
+        ]
+      }
+    }
+  },
+  "close": {
+    "mediaKey": "5fed29cc-51da-4e0e-85f5-b2218edc1e7e",
+    "i18n": {
+      "name": {
+        "en": "Close",
+        "uk": "Закрити"
+      },
+      "alt": {
+        "en": "Close",
+        "uk": "Закрити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cancel",
+          "close",
+          "close button",
+          "stop",
+          "x icon"
+        ],
+        "uk": [
+          "закрий",
+          "закрити",
+          "закрыть"
+        ]
+      }
+    }
+  },
+  "cloud-download": {
+    "mediaKey": "f28d896a-2810-46bc-894c-c52593311e04",
+    "i18n": {
+      "name": {
+        "en": "Cloud download",
+        "uk": "Хмарне завантаження"
+      },
+      "alt": {
+        "en": "Cloud download",
+        "uk": "Хмарне завантаження"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "☁️",
+          "cloud",
+          "cloud download",
+          "cloud icon",
+          "cloud storage",
+          "download",
+          "download arrow",
+          "download button",
+          "download data",
+          "download file",
+          "download icon",
+          "file download",
+          "import file",
+          "save arrow",
+          "save file",
+          "save offline",
+          "sky",
+          "cloud-download"
+        ],
+        "uk": [
+          "☁️",
+          "довнлоад",
+          "завантаження",
+          "завантажити",
+          "завантажити файл",
+          "клоуд",
+          "хмара"
+        ]
+      }
+    }
+  },
+  "cloud-upload": {
+    "mediaKey": "c22b665a-25ec-4713-b926-8a27efc6b8fa",
+    "i18n": {
+      "name": {
+        "en": "Cloud upload",
+        "uk": "Завантаження у хмару"
+      },
+      "alt": {
+        "en": "Cloud upload",
+        "uk": "Завантаження у хмару"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "☁️",
+          "cloud",
+          "cloud icon",
+          "cloud storage",
+          "send file",
+          "sky",
+          "upload",
+          "cloud-upload"
+        ],
+        "uk": [
+          "☁️",
+          "аплоад",
+          "відправити файл",
+          "завантаження",
+          "завантажити",
+          "залити",
+          "клоуд",
+          "хмара"
+        ]
+      }
+    }
+  },
+  "compass": {
+    "mediaKey": "9aeb4cc4-167b-4ce8-8b79-6cebf1a58fdb",
+    "i18n": {
+      "name": {
+        "en": "Compass",
+        "uk": "Компас"
+      },
+      "alt": {
+        "en": "Compass",
+        "uk": "Компас"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "compass",
+          "north"
+        ],
+        "uk": [
+          "компас",
+          "компасс",
+          "навігація",
+          "орієнтир"
+        ]
+      }
+    }
+  },
+  "control-end": {
+    "mediaKey": "4e0b853d-6ba1-4d71-bcce-9b83e9d25f31",
+    "i18n": {
+      "name": {
+        "en": "Control end",
+        "uk": "Кінець"
+      },
+      "alt": {
+        "en": "Control end",
+        "uk": "Кінець"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "control",
+          "control panel",
+          "ctrl key",
+          "end",
+          "end flag",
+          "end game",
+          "end icon",
+          "end marker",
+          "end point",
+          "final",
+          "finish line",
+          "stop",
+          "stop icon",
+          "the end",
+          "control-end"
+        ],
+        "uk": [
+          "енд",
+          "завершення",
+          "керування",
+          "кінець",
+          "конечна точка",
+          "контрол",
+          "контроль",
+          "фініш"
+        ]
+      }
+    }
+  },
+  "control-forward": {
+    "mediaKey": "86e9ab8e-34a0-4db4-9460-cab6c9aa4ce0",
+    "i18n": {
+      "name": {
+        "en": "Control forward",
+        "uk": "Вперед"
+      },
+      "alt": {
+        "en": "Control forward",
+        "uk": "Вперед"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "ahead",
+          "control",
+          "control panel",
+          "ctrl key",
+          "fast forward",
+          "forward",
+          "forward arrow",
+          "forward icon",
+          "control-forward"
+        ],
+        "uk": [
+          "вперед",
+          "керування",
+          "контрол",
+          "контроль",
+          "направити вперед",
+          "переслати",
+          "форвард"
+        ]
+      }
+    }
+  },
+  "control-pause": {
+    "mediaKey": "2006c634-c9ac-4c45-abf2-a657aa1e7c35",
+    "i18n": {
+      "name": {
+        "en": "Control pause",
+        "uk": "Пауза"
+      },
+      "alt": {
+        "en": "Control pause",
+        "uk": "Пауза"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⏸️",
+          "control",
+          "control panel",
+          "ctrl key",
+          "pause",
+          "pause icon",
+          "control-pause"
+        ],
+        "uk": [
+          "⏸️",
+          "керування",
+          "контрол",
+          "контроль",
+          "пауза",
+          "паусе",
+          "призупинити"
+        ]
+      }
+    }
+  },
+  "control-play": {
+    "mediaKey": "7fed6e99-0ae0-4f02-9c27-e3d7d3eccf2d",
+    "i18n": {
+      "name": {
+        "en": "Control play",
+        "uk": "Відтворення"
+      },
+      "alt": {
+        "en": "Control play",
+        "uk": "Відтворення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "▶️",
+          "control",
+          "control panel",
+          "ctrl key",
+          "play",
+          "play button",
+          "control-play"
+        ],
+        "uk": [
+          "▶️",
+          "грати",
+          "керування",
+          "контрол",
+          "контроль",
+          "плай"
+        ]
+      }
+    }
+  },
+  "control-rewind": {
+    "mediaKey": "80b3923a-6df8-4e81-b7a7-77aca6e6baa2",
+    "i18n": {
+      "name": {
+        "en": "Control rewind",
+        "uk": "Перемотка"
+      },
+      "alt": {
+        "en": "Control rewind",
+        "uk": "Перемотка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⏪",
+          "control",
+          "control panel",
+          "ctrl key",
+          "rewind",
+          "rewind icon",
+          "control-rewind"
+        ],
+        "uk": [
+          "⏪",
+          "керування",
+          "контрол",
+          "контроль",
+          "назад",
+          "перемотати назад",
+          "перемотування",
+          "перемотування назад",
+          "ревінд"
+        ]
+      }
+    }
+  },
+  "control-start": {
+    "mediaKey": "dcd58457-aa98-44b3-9491-4b3cbcdeaf85",
+    "i18n": {
+      "name": {
+        "en": "Control start",
+        "uk": "Початок"
+      },
+      "alt": {
+        "en": "Control start",
+        "uk": "Початок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "control",
+          "control panel",
+          "ctrl key",
+          "go",
+          "launch",
+          "start",
+          "control-start"
+        ],
+        "uk": [
+          "запуск",
+          "керування",
+          "контрол",
+          "контроль",
+          "поїхали",
+          "почати",
+          "початок",
+          "старт"
+        ]
+      }
+    }
+  },
+  "credit-card": {
+    "mediaKey": "c8da31cd-6958-4e0b-a610-1abf373fae11",
+    "i18n": {
+      "name": {
+        "en": "Credit card",
+        "uk": "Кредитна картка"
+      },
+      "alt": {
+        "en": "Credit card",
+        "uk": "Кредитна картка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bank card",
+          "borrow",
+          "card",
+          "card ui",
+          "credit",
+          "credit card",
+          "credit score",
+          "credit-card"
+        ],
+        "uk": [
+          "банківська картка",
+          "візитка",
+          "кард",
+          "картка",
+          "картку",
+          "кредит",
+          "кредіт",
+          "пластикова картка"
+        ]
+      }
+    }
+  },
+  "crop": {
+    "mediaKey": "a96fc8be-984c-4421-8219-82141d22a9cf",
+    "i18n": {
+      "name": {
+        "en": "Crop",
+        "uk": "Кадрування"
+      },
+      "alt": {
+        "en": "Crop",
+        "uk": "Кадрування"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "crop",
+          "crop tool",
+          "trim image"
+        ],
+        "uk": [
+          "кадрування",
+          "кроп",
+          "обрізати",
+          "обрізка фото",
+          "урожай"
+        ]
+      }
+    }
+  },
+  "cup": {
+    "mediaKey": "e49b8e82-2191-46b4-92ce-117980460cbd",
+    "i18n": {
+      "name": {
+        "en": "Cup",
+        "uk": "Чаша"
+      },
+      "alt": {
+        "en": "Cup",
+        "uk": "Чаша"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🏆",
+          "cup",
+          "cup icon",
+          "mug"
+        ],
+        "uk": [
+          "🏆",
+          "куп",
+          "трофей",
+          "чашка"
+        ]
+      }
+    }
+  },
+  "cursor": {
+    "mediaKey": "8c2a0660-6f4c-43c9-9a37-2176db263913",
+    "i18n": {
+      "name": {
+        "en": "Cursor",
+        "uk": "Курсор"
+      },
+      "alt": {
+        "en": "Cursor",
+        "uk": "Курсор"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "caret",
+          "cursor",
+          "mouse",
+          "pointer"
+        ],
+        "uk": [
+          "курсор"
+        ]
+      }
+    }
+  },
+  "cursor-move": {
+    "mediaKey": "38a7d884-decd-4c65-8789-62b5e4f7907a",
+    "i18n": {
+      "name": {
+        "en": "Cursor move",
+        "uk": "Курсор переміщення"
+      },
+      "alt": {
+        "en": "Cursor move",
+        "uk": "Курсор переміщення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "caret",
+          "cursor",
+          "drag",
+          "mouse",
+          "move",
+          "move tool",
+          "pointer",
+          "cursor-move"
+        ],
+        "uk": [
+          "курсор",
+          "мове",
+          "перемістити",
+          "пересування",
+          "рухатися"
+        ]
+      }
+    }
+  },
+  "diamond": {
+    "mediaKey": "23aa4f59-c9fc-4fa3-b42f-53ce2df57122",
+    "i18n": {
+      "name": {
+        "en": "Diamond",
+        "uk": "Діамант"
+      },
+      "alt": {
+        "en": "Diamond",
+        "uk": "Діамант"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "brilliant",
+          "diamond",
+          "diamond icon",
+          "diamond jewel",
+          "diamond shape",
+          "luxury gem",
+          "precious stone",
+          "sparkle diamond"
+        ],
+        "uk": [
+          "алмаз",
+          "діамант",
+          "діамонд",
+          "дорогоцінний камінь",
+          "дорогоцінний ромб",
+          "коштовний ромб",
+          "коштовність",
+          "огранений камінь"
+        ]
+      }
+    }
+  },
+  "direction": {
+    "mediaKey": "6e333840-1ff2-4be1-a371-f12be04626d0",
+    "i18n": {
+      "name": {
+        "en": "Direction",
+        "uk": "Напрямок"
+      },
+      "alt": {
+        "en": "Direction",
+        "uk": "Напрямок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "compass arrow",
+          "course direction",
+          "direction",
+          "direction arrow",
+          "direction guide",
+          "direction sign",
+          "navigate arrow",
+          "route"
+        ],
+        "uk": [
+          "вектор напрямку",
+          "діректіон",
+          "курс",
+          "напрям руху",
+          "напрямок",
+          "орієнтація",
+          "орієнтир",
+          "стрілка напрямку"
+        ]
+      }
+    }
+  },
+  "directions": {
+    "mediaKey": "6e313ed0-238b-47b6-9f39-5f020d946110",
+    "i18n": {
+      "name": {
+        "en": "Directions",
+        "uk": "Маршрути"
+      },
+      "alt": {
+        "en": "Directions",
+        "uk": "Маршрути"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "direction arrows",
+          "directions",
+          "maps directions",
+          "route guidance",
+          "travel directions",
+          "turn by turn"
+        ],
+        "uk": [
+          "діректіонс",
+          "інструкції",
+          "інструкції руху",
+          "маршрут",
+          "напрями руху",
+          "напрямки",
+          "напрямні стрілки",
+          "покрокові маршрути",
+          "спрямування",
+          "шлях"
+        ]
+      }
+    }
+  },
+  "disc": {
+    "mediaKey": "9c690ab3-c452-4e30-8fdf-f4d770fc8859",
+    "i18n": {
+      "name": {
+        "en": "Disc",
+        "uk": "Диск"
+      },
+      "alt": {
+        "en": "Disc",
+        "uk": "Диск"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cd диск",
+          "cd icon",
+          "circle disc",
+          "compact disc",
+          "data disc",
+          "disc",
+          "disc icon",
+          "disc media",
+          "dvd диск",
+          "laser disc",
+          "music cd"
+        ],
+        "uk": [
+          "диск",
+          "дискета",
+          "діск",
+          "компакт диск",
+          "оптичний диск",
+          "cd диск",
+          "dvd диск"
+        ]
+      }
+    }
+  },
+  "dislike": {
+    "mediaKey": "8f2ad025-0584-4b89-bdc7-a6c46b71960a",
+    "i18n": {
+      "name": {
+        "en": "Dislike",
+        "uk": "Не подобається"
+      },
+      "alt": {
+        "en": "Dislike",
+        "uk": "Не подобається"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "👎",
+          "anti like",
+          "disagree",
+          "dislike",
+          "dislike button",
+          "dislike icon",
+          "negative feedback",
+          "not impressed",
+          "thumb down",
+          "thumbs down"
+        ],
+        "uk": [
+          "👎",
+          "антилайк",
+          "дизлайк",
+          "дісліке",
+          "не лайк",
+          "не подобається",
+          "неприязнь"
+        ]
+      }
+    }
+  },
+  "doc": {
+    "mediaKey": "12ce8f89-39b4-4c2f-9d44-00e92a0f6314",
+    "i18n": {
+      "name": {
+        "en": "Doc",
+        "uk": "Документ"
+      },
+      "alt": {
+        "en": "Doc",
+        "uk": "Документ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "документ word",
+          "doc",
+          "doc file",
+          "doc icon",
+          "document icon",
+          "docx",
+          "editable document",
+          "office doc",
+          "text doc",
+          "text document",
+          "word файл",
+          "word doc"
+        ],
+        "uk": [
+          "док",
+          "документ",
+          "документ word",
+          "офісний файл",
+          "текстовий файл",
+          "word файл"
+        ]
+      }
+    }
+  },
+  "docs": {
+    "mediaKey": "8ff06a25-97e5-4c2d-82af-b5e4d3c0a207",
+    "i18n": {
+      "name": {
+        "en": "Docs",
+        "uk": "Docs"
+      },
+      "alt": {
+        "en": "Docs",
+        "uk": "Docs"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "docs",
+          "docs folder",
+          "docs pages",
+          "docs site",
+          "documentation"
+        ],
+        "uk": [
+          "довідка",
+          "документація",
+          "документи"
+        ]
+      }
+    }
+  },
+  "drawer": {
+    "mediaKey": "96fe3b8b-f6bc-401e-a5c3-3d256bd00d89",
+    "i18n": {
+      "name": {
+        "en": "Drawer",
+        "uk": "Шухляда"
+      },
+      "alt": {
+        "en": "Drawer",
+        "uk": "Шухляда"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "drawer",
+          "shelf drawer",
+          "storage drawer"
+        ],
+        "uk": [
+          "висувний ящик",
+          "відсік",
+          "комод",
+          "скринька",
+          "тумба",
+          "шухляда",
+          "ящик"
+        ]
+      }
+    }
+  },
+  "drop": {
+    "mediaKey": "d412e564-826d-47e8-af11-4c3b0320ec70",
+    "i18n": {
+      "name": {
+        "en": "Drop",
+        "uk": "Drop"
+      },
+      "alt": {
+        "en": "Drop",
+        "uk": "Drop"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "drip",
+          "drop",
+          "drop action",
+          "drop down",
+          "drop icon",
+          "drop off",
+          "drop pin",
+          "drop symbol",
+          "fall",
+          "falling drop"
+        ],
+        "uk": [
+          "дроп",
+          "капнути",
+          "крапля",
+          "падіння",
+          "скидання",
+          "скинути"
+        ]
+      }
+    }
+  },
+  "earphones": {
+    "mediaKey": "5255c8af-3993-440e-b273-9518ee178fe6",
+    "i18n": {
+      "name": {
+        "en": "Earphones",
+        "uk": "Навушники"
+      },
+      "alt": {
+        "en": "Earphones",
+        "uk": "Навушники"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "earphones",
+          "in-ear"
+        ],
+        "uk": [
+          "аудіо",
+          "бренд",
+          "логотип",
+          "музика",
+          "навушники"
+        ]
+      }
+    }
+  },
+  "earphones-alt": {
+    "mediaKey": "f2aa15d4-49d0-4413-b12e-4e2a5316395d",
+    "i18n": {
+      "name": {
+        "en": "Earphones alt",
+        "uk": "Earphones (альтернативна)"
+      },
+      "alt": {
+        "en": "Earphones alt",
+        "uk": "Earphones (альтернативна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "alt",
+          "alt клавіша",
+          "alt key",
+          "earphones",
+          "in-ear",
+          "modifier key",
+          "earphones-alt"
+        ],
+        "uk": [
+          "алт",
+          "альт",
+          "альтернативний текст",
+          "аудіо",
+          "бренд",
+          "логотип",
+          "музика",
+          "навушники",
+          "alt клавіша"
+        ]
+      }
+    }
+  },
+  "emotsmile": {
+    "mediaKey": "cfca181b-3931-4670-bbe4-b4f2539a9b44",
+    "i18n": {
+      "name": {
+        "en": "Emotsmile",
+        "uk": "Усмішка"
+      },
+      "alt": {
+        "en": "Emotsmile",
+        "uk": "Усмішка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "emotsmile"
+        ],
+        "uk": [
+          "бренд",
+          "логотип"
+        ]
+      }
+    }
+  },
+  "energy": {
+    "mediaKey": "be67319f-cdc0-4a14-847c-f9f2323e1af8",
+    "i18n": {
+      "name": {
+        "en": "Energy",
+        "uk": "Енергія"
+      },
+      "alt": {
+        "en": "Energy",
+        "uk": "Енергія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "blockchain",
+          "coin",
+          "crypto",
+          "cryptocurrency",
+          "energy",
+          "token"
+        ],
+        "uk": [
+          "альта",
+          "блокчейн",
+          "валюта",
+          "коін",
+          "крипта",
+          "криптовалюта",
+          "монета",
+          "токен"
+        ]
+      }
+    }
+  },
+  "envelope": {
+    "mediaKey": "95c2158f-a9b8-4baf-bb92-a5fa2aa599f3",
+    "i18n": {
+      "name": {
+        "en": "Envelope",
+        "uk": "Конверт"
+      },
+      "alt": {
+        "en": "Envelope",
+        "uk": "Конверт"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "email",
+          "envelope",
+          "mail",
+          "mailbox"
+        ],
+        "uk": [
+          "конверт",
+          "лист",
+          "повідомлення",
+          "посилка",
+          "пошта"
+        ]
+      }
+    }
+  },
+  "envelope-letter": {
+    "mediaKey": "b0f8ed33-7a6f-4d46-8265-1dc1a1443d73",
+    "i18n": {
+      "name": {
+        "en": "Envelope letter",
+        "uk": "Конверт з листом"
+      },
+      "alt": {
+        "en": "Envelope letter",
+        "uk": "Конверт з листом"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "email",
+          "envelope",
+          "letter",
+          "letter icon",
+          "mail",
+          "mailbox",
+          "message",
+          "envelope-letter"
+        ],
+        "uk": [
+          "конверт",
+          "леттер",
+          "лист",
+          "листування",
+          "письмове повідомлення",
+          "повідомлення",
+          "посилка",
+          "пошта"
+        ]
+      }
+    }
+  },
+  "envelope-open": {
+    "mediaKey": "c18b7dac-43b5-495c-b0af-7678f72f15e9",
+    "i18n": {
+      "name": {
+        "en": "Envelope open",
+        "uk": "Конверт відкритий"
+      },
+      "alt": {
+        "en": "Envelope open",
+        "uk": "Конверт відкритий"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "email",
+          "envelope",
+          "mail",
+          "mailbox",
+          "open",
+          "open icon",
+          "open state",
+          "envelope-open"
+        ],
+        "uk": [
+          "відкрити",
+          "відкритий",
+          "конверт",
+          "лист",
+          "опен",
+          "повідомлення",
+          "посилка",
+          "пошта"
+        ]
+      }
+    }
+  },
+  "envolope": {
+    "mediaKey": "f30fa9ef-6039-4553-ab1c-98390e9b2904",
+    "i18n": {
+      "name": {
+        "en": "Envolope",
+        "uk": "Конверт"
+      },
+      "alt": {
+        "en": "Envolope",
+        "uk": "Конверт"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "envolope"
+        ],
+        "uk": [
+          "бренд",
+          "конверт",
+          "логотип"
+        ]
+      }
+    }
+  },
+  "envolope-letter": {
+    "mediaKey": "632e7387-ee03-414d-a559-ab152c93916f",
+    "i18n": {
+      "name": {
+        "en": "Envolope letter",
+        "uk": "Лист у конверті"
+      },
+      "alt": {
+        "en": "Envolope letter",
+        "uk": "Лист у конверті"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "envelope",
+          "envolope",
+          "letter",
+          "letter icon",
+          "mail",
+          "message",
+          "envolope-letter"
+        ],
+        "uk": [
+          "бренд",
+          "конверт",
+          "леттер",
+          "лист",
+          "листування",
+          "логотип",
+          "письмове повідомлення"
+        ]
+      }
+    }
+  },
+  "equalizer": {
+    "mediaKey": "a18937a0-4247-4b05-98a4-2f62f100dd9d",
+    "i18n": {
+      "name": {
+        "en": "Equalizer",
+        "uk": "Еквалайзер"
+      },
+      "alt": {
+        "en": "Equalizer",
+        "uk": "Еквалайзер"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "audio control",
+          "audio levels",
+          "bass",
+          "equalizer",
+          "music",
+          "sound"
+        ],
+        "uk": [
+          "еквалайзер",
+          "звук",
+          "налаштування"
+        ]
+      }
+    }
+  },
+  "event": {
+    "mediaKey": "cb09b476-b920-4866-af38-0af4c58fb98b",
+    "i18n": {
+      "name": {
+        "en": "Event",
+        "uk": "Подія"
+      },
+      "alt": {
+        "en": "Event",
+        "uk": "Подія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "calendar event",
+          "event",
+          "event badge",
+          "event calendar",
+          "event icon",
+          "event planning",
+          "event reminder",
+          "event ticket",
+          "festival",
+          "ivents",
+          "meetup",
+          "schedule event"
+        ],
+        "uk": [
+          "евент",
+          "захід",
+          "зустріч",
+          "подія"
+        ]
+      }
+    }
+  },
+  "exclamation": {
+    "mediaKey": "78b41514-ada5-4b85-b817-81c8d30cefe0",
+    "i18n": {
+      "name": {
+        "en": "Exclamation",
+        "uk": "Знак оклику"
+      },
+      "alt": {
+        "en": "Exclamation",
+        "uk": "Знак оклику"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "!",
+          "alarm mark",
+          "alert",
+          "alert sign",
+          "attention mark",
+          "caution symbol",
+          "exclamation",
+          "exclamation alert",
+          "exclamation mark",
+          "important",
+          "warning sign",
+          "warning triangle"
+        ],
+        "uk": [
+          "!",
+          "вигук",
+          "екскламатіон",
+          "знак оклику",
+          "увага"
+        ]
+      }
+    }
+  },
+  "eye": {
+    "mediaKey": "265fed99-8a1f-4210-9627-17461a21f68b",
+    "i18n": {
+      "name": {
+        "en": "Eye",
+        "uk": "Око"
+      },
+      "alt": {
+        "en": "Eye",
+        "uk": "Око"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "👁️",
+          "eye",
+          "eye icon",
+          "eye open",
+          "preview",
+          "see",
+          "show password",
+          "view",
+          "view icon",
+          "visibility",
+          "watch",
+          "watching"
+        ],
+        "uk": [
+          "👁️",
+          "глянути",
+          "еє",
+          "око",
+          "перегляд"
+        ]
+      }
+    }
+  },
+  "eyeglass": {
+    "mediaKey": "2b43c048-1546-4322-b9f8-a3f164aaa06c",
+    "i18n": {
+      "name": {
+        "en": "Eyeglass",
+        "uk": "Окуляри"
+      },
+      "alt": {
+        "en": "Eyeglass",
+        "uk": "Окуляри"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "eye accessory",
+          "eyeglass",
+          "eyeglasses",
+          "eyewear",
+          "glasses icon",
+          "magnifying lens",
+          "monocle",
+          "optical lens",
+          "reading glass",
+          "reading glasses",
+          "spectacles"
+        ],
+        "uk": [
+          "еєґласс",
+          "лінза",
+          "монокль",
+          "окуляр",
+          "окуляри"
+        ]
+      }
+    }
+  },
+  "feed": {
+    "mediaKey": "5bc3b9e0-8dce-47f3-9f1f-6787d573ac07",
+    "i18n": {
+      "name": {
+        "en": "Feed",
+        "uk": "Feed"
+      },
+      "alt": {
+        "en": "Feed",
+        "uk": "Feed"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "feed",
+          "feed icon",
+          "feed updates",
+          "news feed",
+          "rss feed"
+        ],
+        "uk": [
+          "оживлення",
+          "підписка",
+          "стрічка"
+        ]
+      }
+    }
+  },
+  "film": {
+    "mediaKey": "4132c702-36e6-4508-b203-548771ab502d",
+    "i18n": {
+      "name": {
+        "en": "Film",
+        "uk": "Плівка"
+      },
+      "alt": {
+        "en": "Film",
+        "uk": "Плівка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "film",
+          "movie"
+        ],
+        "uk": [
+          "кіно",
+          "плівка",
+          "стрічка",
+          "фільм"
+        ]
+      }
+    }
+  },
+  "fire": {
+    "mediaKey": "f1cae0a4-0d19-41e2-a344-979038a93d1d",
+    "i18n": {
+      "name": {
+        "en": "Fire",
+        "uk": "Вогонь"
+      },
+      "alt": {
+        "en": "Fire",
+        "uk": "Вогонь"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🔥",
+          "burn",
+          "campfire",
+          "fire",
+          "fire emoji",
+          "fire hazard",
+          "fire icon",
+          "flame"
+        ],
+        "uk": [
+          "🔥",
+          "вогонь",
+          "полум'я",
+          "фіре"
+        ]
+      }
+    }
+  },
+  "flag": {
+    "mediaKey": "c7eddb7c-2c59-43a7-8459-efc7c900ad46",
+    "i18n": {
+      "name": {
+        "en": "Flag",
+        "uk": "Прапор"
+      },
+      "alt": {
+        "en": "Flag",
+        "uk": "Прапор"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🚩",
+          "banner",
+          "bookmark flag",
+          "country flag",
+          "flag",
+          "flag icon",
+          "marker",
+          "national flag"
+        ],
+        "uk": [
+          "🚩",
+          "прапор",
+          "прапорець",
+          "флаґ"
+        ]
+      }
+    }
+  },
+  "folder": {
+    "mediaKey": "a7f3b23d-0428-4f74-91eb-b357d167ebe6",
+    "i18n": {
+      "name": {
+        "en": "Folder",
+        "uk": "Папка"
+      },
+      "alt": {
+        "en": "Folder",
+        "uk": "Папка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "file folder",
+          "folder",
+          "folder icon",
+          "folder yellow"
+        ],
+        "uk": [
+          "директорія",
+          "каталог",
+          "папка файлів",
+          "папку",
+          "фолдер"
+        ]
+      }
+    }
+  },
+  "folder-alt": {
+    "mediaKey": "50cddf4c-c037-4ab9-aa95-6f7d03b93658",
+    "i18n": {
+      "name": {
+        "en": "Folder alt",
+        "uk": "Альтернативна папка"
+      },
+      "alt": {
+        "en": "Folder alt",
+        "uk": "Альтернативна папка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "alt",
+          "alt клавіша",
+          "alt key",
+          "file folder",
+          "folder",
+          "folder icon",
+          "folder yellow",
+          "modifier key",
+          "folder-alt"
+        ],
+        "uk": [
+          "алт",
+          "альт",
+          "альтернативний текст",
+          "директорія",
+          "каталог",
+          "папка файлів",
+          "папку",
+          "фолдер",
+          "alt клавіша"
+        ]
+      }
+    }
+  },
+  "frame": {
+    "mediaKey": "0193f33f-f840-46f9-af20-f838f9731a95",
+    "i18n": {
+      "name": {
+        "en": "Frame",
+        "uk": "Рамка"
+      },
+      "alt": {
+        "en": "Frame",
+        "uk": "Рамка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "frame",
+          "frame border",
+          "frame icon",
+          "frame outline",
+          "picture frame"
+        ],
+        "uk": [
+          "каркас",
+          "рамка",
+          "рамка фото",
+          "фраме"
+        ]
+      }
+    }
+  },
+  "game-controller": {
+    "mediaKey": "3ecede8d-a481-4ac5-8f4d-cb3936bad69d",
+    "i18n": {
+      "name": {
+        "en": "Game controller",
+        "uk": "Ігровий контролер"
+      },
+      "alt": {
+        "en": "Game controller",
+        "uk": "Ігровий контролер"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "console",
+          "controller",
+          "game",
+          "game controller",
+          "game icon",
+          "gamepad",
+          "gaming",
+          "play",
+          "game-controller"
+        ],
+        "uk": [
+          "відеогра",
+          "геймпад",
+          "гра",
+          "ґаме",
+          "джойстик",
+          "керування",
+          "контролер"
+        ]
+      }
+    }
+  },
+  "ghost": {
+    "mediaKey": "e0cd6b60-9bd1-4354-8855-21b9632939d9",
+    "i18n": {
+      "name": {
+        "en": "Ghost",
+        "uk": "Привид"
+      },
+      "alt": {
+        "en": "Ghost",
+        "uk": "Привид"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "👻",
+          "ghost",
+          "ghost icon",
+          "phantom",
+          "spirit"
+        ],
+        "uk": [
+          "👻",
+          "ґхост",
+          "привид"
+        ]
+      }
+    }
+  },
+  "globe": {
+    "mediaKey": "cd16e9ab-37c3-48c8-90cb-cec55f896084",
+    "i18n": {
+      "name": {
+        "en": "Globe",
+        "uk": "Глобус"
+      },
+      "alt": {
+        "en": "Globe",
+        "uk": "Глобус"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🌍",
+          "earth",
+          "global icon",
+          "globe",
+          "world"
+        ],
+        "uk": [
+          "🌍",
+          "глобус",
+          "ґлобе"
+        ]
+      }
+    }
+  },
+  "globe-alt": {
+    "mediaKey": "0b96d3c6-702f-415a-91cb-9cd1e3f05e72",
+    "i18n": {
+      "name": {
+        "en": "Globe alt",
+        "uk": "Глобус Alt"
+      },
+      "alt": {
+        "en": "Globe alt",
+        "uk": "Глобус Alt"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🌍",
+          "alt",
+          "alt клавіша",
+          "alt key",
+          "earth",
+          "global icon",
+          "globe",
+          "modifier key",
+          "world",
+          "globe-alt"
+        ],
+        "uk": [
+          "🌍",
+          "алт",
+          "альт",
+          "альтернативний текст",
+          "глобус",
+          "ґлобе",
+          "alt клавіша"
+        ]
+      }
+    }
+  },
+  "graduation": {
+    "mediaKey": "3c1b9fe6-54fe-4af5-877d-5ec8851f857d",
+    "i18n": {
+      "name": {
+        "en": "Graduation",
+        "uk": "Випуск"
+      },
+      "alt": {
+        "en": "Graduation",
+        "uk": "Випуск"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "commencement",
+          "diploma day",
+          "graduation",
+          "graduation cap",
+          "graduation icon"
+        ],
+        "uk": [
+          "випуск",
+          "випускний ковпак",
+          "освіта завершення"
+        ]
+      }
+    }
+  },
+  "graph": {
+    "mediaKey": "03936d4e-04fe-4674-8d5d-dccfd9169a4f",
+    "i18n": {
+      "name": {
+        "en": "Graph",
+        "uk": "Графік"
+      },
+      "alt": {
+        "en": "Graph",
+        "uk": "Графік"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "chart",
+          "diagram",
+          "graph",
+          "graph icon",
+          "plot"
+        ],
+        "uk": [
+          "графік",
+          "ґраф"
+        ]
+      }
+    }
+  },
+  "grid": {
+    "mediaKey": "bc791979-88c6-43c1-8ebb-f9004691cf33",
+    "i18n": {
+      "name": {
+        "en": "Grid",
+        "uk": "Сітка"
+      },
+      "alt": {
+        "en": "Grid",
+        "uk": "Сітка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "grid",
+          "grid icon",
+          "grid layout"
+        ],
+        "uk": [
+          "ґрід",
+          "решітка",
+          "сітка",
+          "сітка 3х3"
+        ]
+      }
+    }
+  },
+  "handbag": {
+    "mediaKey": "c13fa752-52f2-4d6d-a0df-d55a8f01125a",
+    "i18n": {
+      "name": {
+        "en": "Handbag",
+        "uk": "Сумка"
+      },
+      "alt": {
+        "en": "Handbag",
+        "uk": "Сумка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bag icon",
+          "handbag",
+          "handbag icon",
+          "ladies bag",
+          "purse"
+        ],
+        "uk": [
+          "жіноча сумка",
+          "клатч",
+          "сумочка"
+        ]
+      }
+    }
+  },
+  "heart": {
+    "mediaKey": "00f5d8f7-dce5-4a8a-9de3-5bcf7fb352bb",
+    "i18n": {
+      "name": {
+        "en": "Heart",
+        "uk": "Серце"
+      },
+      "alt": {
+        "en": "Heart",
+        "uk": "Серце"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "❤️",
+          "heart",
+          "heart icon",
+          "love"
+        ],
+        "uk": [
+          "❤️",
+          "кохання",
+          "серце",
+          "хеарт"
+        ]
+      }
+    }
+  },
+  "home": {
+    "mediaKey": "db64c3ef-2930-49bd-968c-178c927c71f6",
+    "i18n": {
+      "name": {
+        "en": "Home",
+        "uk": "Будинок"
+      },
+      "alt": {
+        "en": "Home",
+        "uk": "Будинок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🏠",
+          "home",
+          "homepage",
+          "house icon"
+        ],
+        "uk": [
+          "🏠",
+          "дім",
+          "додому",
+          "хоме"
+        ]
+      }
+    }
+  },
+  "hourglass": {
+    "mediaKey": "66dd22d2-df23-4d67-a3fb-49a5ab1f367e",
+    "i18n": {
+      "name": {
+        "en": "Hourglass",
+        "uk": "Пісочний годинник"
+      },
+      "alt": {
+        "en": "Hourglass",
+        "uk": "Пісочний годинник"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⌛",
+          "hourglass",
+          "hourglass timer",
+          "sand timer"
+        ],
+        "uk": [
+          "⌛",
+          "годинник",
+          "пісочний",
+          "пісочний годинник",
+          "пісочний таймер",
+          "хоурґласс"
+        ]
+      }
+    }
+  },
+  "info": {
+    "mediaKey": "96717c16-413e-4b59-b1ae-0c422bdbea9e",
+    "i18n": {
+      "name": {
+        "en": "Info",
+        "uk": "Інформація"
+      },
+      "alt": {
+        "en": "Info",
+        "uk": "Інформація"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "details",
+          "ℹ️",
+          "info",
+          "info icon",
+          "information"
+        ],
+        "uk": [
+          "інфо",
+          "інформація",
+          "ℹ️"
+        ]
+      }
+    }
+  },
+  "key": {
+    "mediaKey": "c674af69-8586-4c96-a1f8-ee62aa88fb82",
+    "i18n": {
+      "name": {
+        "en": "Key",
+        "uk": "Ключ"
+      },
+      "alt": {
+        "en": "Key",
+        "uk": "Ключ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🔑",
+          "key",
+          "key symbol",
+          "unlock"
+        ],
+        "uk": [
+          "🔑",
+          "кей",
+          "ключ",
+          "ключ іконка"
+        ]
+      }
+    }
+  },
+  "layers": {
+    "mediaKey": "fb2c316b-fd33-4a04-a718-200467fabd92",
+    "i18n": {
+      "name": {
+        "en": "Layers",
+        "uk": "Шари"
+      },
+      "alt": {
+        "en": "Layers",
+        "uk": "Шари"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "layer icon",
+          "layer stack",
+          "layers",
+          "overlay",
+          "photoshop layers"
+        ],
+        "uk": [
+          "лаєрс",
+          "рівні",
+          "шари",
+          "шаровість"
+        ]
+      }
+    }
+  },
+  "like": {
+    "mediaKey": "a3f32d1f-6deb-455b-bb5b-13937443dfcc",
+    "i18n": {
+      "name": {
+        "en": "Like",
+        "uk": "Вподобання"
+      },
+      "alt": {
+        "en": "Like",
+        "uk": "Вподобання"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "fave",
+          "heart",
+          "like",
+          "like button",
+          "thumbs up"
+        ],
+        "uk": [
+          "ліке",
+          "подобається",
+          "уподобання",
+          "як"
+        ]
+      }
+    }
+  },
+  "link": {
+    "mediaKey": "c1bfcc24-7c1c-40c5-8469-c4e54ef8012e",
+    "i18n": {
+      "name": {
+        "en": "Link",
+        "uk": "Посилання"
+      },
+      "alt": {
+        "en": "Link",
+        "uk": "Посилання"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "chain",
+          "hyperlink",
+          "link",
+          "link icon",
+          "url",
+          "url-адреса"
+        ],
+        "uk": [
+          "гіперпосилання",
+          "зв'язок",
+          "лінк",
+          "посилання",
+          "url-адреса"
+        ]
+      }
+    }
+  },
+  "list": {
+    "mediaKey": "e83dfbb6-59f8-4039-b357-01c7ca10353a",
+    "i18n": {
+      "name": {
+        "en": "List",
+        "uk": "Список"
+      },
+      "alt": {
+        "en": "List",
+        "uk": "Список"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bulleted list",
+          "enumeration",
+          "list",
+          "listing",
+          "todo list"
+        ],
+        "uk": [
+          "каталог",
+          "ліст",
+          "перелік",
+          "список"
+        ]
+      }
+    }
+  },
+  "location-pin": {
+    "mediaKey": "0da74fa4-01ac-42bf-a512-6ef0597518fd",
+    "i18n": {
+      "name": {
+        "en": "Location pin",
+        "uk": "Позначка локації"
+      },
+      "alt": {
+        "en": "Location pin",
+        "uk": "Позначка локації"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "location",
+          "map location",
+          "pin",
+          "pin на мапі",
+          "pin icon",
+          "location-pin"
+        ],
+        "uk": [
+          "геолокація",
+          "геопозиція",
+          "закріпити",
+          "координати",
+          "локатіон",
+          "локація",
+          "місце",
+          "місце знаходження",
+          "місцезнаходження",
+          "місцеположення",
+          "пін",
+          "розташування",
+          "шпилька",
+          "pin на мапі"
+        ]
+      }
+    }
+  },
+  "lock": {
+    "mediaKey": "6457160c-c7bd-4ea3-ae85-1081d92d19b3",
+    "i18n": {
+      "name": {
+        "en": "Lock",
+        "uk": "Замок"
+      },
+      "alt": {
+        "en": "Lock",
+        "uk": "Замок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "lock",
+          "security"
+        ],
+        "uk": [
+          "блокування",
+          "заблоковано",
+          "закритий доступ",
+          "замикання",
+          "замкнути",
+          "замок",
+          "замок безпеки",
+          "локк",
+          "падлок"
+        ]
+      }
+    }
+  },
+  "lock-open": {
+    "mediaKey": "c3b4182f-25c1-4c2b-8a51-31559f09a2b8",
+    "i18n": {
+      "name": {
+        "en": "Lock open",
+        "uk": "Замок (відкритий)"
+      },
+      "alt": {
+        "en": "Lock open",
+        "uk": "Замок (відкритий)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "lock",
+          "open",
+          "open icon",
+          "open state",
+          "security",
+          "lock-open"
+        ],
+        "uk": [
+          "блокування",
+          "відкрити",
+          "відкритий",
+          "заблоковано",
+          "закритий доступ",
+          "замикання",
+          "замкнути",
+          "замок",
+          "замок безпеки",
+          "локк",
+          "опен",
+          "падлок"
+        ]
+      }
+    }
+  },
+  "login": {
+    "mediaKey": "7e378f9f-86d2-44f6-a824-da1a6a936137",
+    "i18n": {
+      "name": {
+        "en": "Login",
+        "uk": "Логін"
+      },
+      "alt": {
+        "en": "Login",
+        "uk": "Логін"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "login",
+          "sign in"
+        ],
+        "uk": [
+          "авторизація",
+          "вхід",
+          "вхід до системи",
+          "вхід у профіль",
+          "логін",
+          "логін користувача"
+        ]
+      }
+    }
+  },
+  "logout": {
+    "mediaKey": "6da8e481-df0d-488c-8e60-5dbbb9725b66",
+    "i18n": {
+      "name": {
+        "en": "Logout",
+        "uk": "Вихід"
+      },
+      "alt": {
+        "en": "Logout",
+        "uk": "Вихід"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "logout",
+          "logout кнопка",
+          "sign out"
+        ],
+        "uk": [
+          "вийти з акаунта",
+          "вийти з системи",
+          "вихід з облікового запису",
+          "вихід із акаунта",
+          "завершення сеансу",
+          "logout кнопка"
+        ]
+      }
+    }
+  },
+  "loop": {
+    "mediaKey": "8a9f8e51-0ebe-42a0-96dc-d01692eca5c6",
+    "i18n": {
+      "name": {
+        "en": "Loop",
+        "uk": "Петля"
+      },
+      "alt": {
+        "en": "Loop",
+        "uk": "Петля"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "loop",
+          "looping",
+          "repeat"
+        ],
+        "uk": [
+          "зациклити",
+          "лооп",
+          "петля",
+          "повторення",
+          "повторюваність",
+          "цикл",
+          "циклічний рух"
+        ]
+      }
+    }
+  },
+  "magic-wand": {
+    "mediaKey": "47b1ea0b-e4cb-4801-a9ce-85cac565e1e8",
+    "i18n": {
+      "name": {
+        "en": "Magic wand",
+        "uk": "Чарівна паличка"
+      },
+      "alt": {
+        "en": "Magic wand",
+        "uk": "Чарівна паличка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "light wand",
+          "magic",
+          "magic wand",
+          "sparkles",
+          "wand",
+          "wizardry",
+          "wow",
+          "magic-wand"
+        ],
+        "uk": [
+          "диво",
+          "інструмент",
+          "магічна палочка",
+          "магія",
+          "паличка",
+          "палочка",
+          "чари",
+          "чарівна паличка"
+        ]
+      }
+    }
+  },
+  "magnet": {
+    "mediaKey": "5d9fd359-31ee-4ba2-97b3-5dfab54ecafc",
+    "i18n": {
+      "name": {
+        "en": "Magnet",
+        "uk": "Магніт"
+      },
+      "alt": {
+        "en": "Magnet",
+        "uk": "Магніт"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🧲",
+          "magnet",
+          "magnet icon"
+        ],
+        "uk": [
+          "🧲",
+          "магніт",
+          "магнітний камінь",
+          "підковоподібний магніт"
+        ]
+      }
+    }
+  },
+  "magnifier": {
+    "mediaKey": "91949039-95c0-4757-830f-babf535f0378",
+    "i18n": {
+      "name": {
+        "en": "Magnifier",
+        "uk": "Лупа"
+      },
+      "alt": {
+        "en": "Magnifier",
+        "uk": "Лупа"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "icon search",
+          "increase view",
+          "magnifier",
+          "magnifying glass",
+          "search zoom",
+          "zoom tool"
+        ],
+        "uk": [
+          "збільшувальне скло",
+          "лупа"
+        ]
+      }
+    }
+  },
+  "magnifier-add": {
+    "mediaKey": "50521238-ae43-4526-9b58-1e6157802b5f",
+    "i18n": {
+      "name": {
+        "en": "Magnifier add",
+        "uk": "Лупа плюс"
+      },
+      "alt": {
+        "en": "Magnifier add",
+        "uk": "Лупа плюс"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "add",
+          "add new",
+          "icon search",
+          "increase view",
+          "insert",
+          "magnifier",
+          "magnifying glass",
+          "search zoom",
+          "zoom tool",
+          "magnifier-add"
+        ],
+        "uk": [
+          "адд",
+          "додати",
+          "додати ще",
+          "збільшувальне скло",
+          "лупа",
+          "плюс"
+        ]
+      }
+    }
+  },
+  "magnifier-remove": {
+    "mediaKey": "f5491977-a09a-4119-8ec2-7ef6e8c2be43",
+    "i18n": {
+      "name": {
+        "en": "Magnifier remove",
+        "uk": "Лупа мінус"
+      },
+      "alt": {
+        "en": "Magnifier remove",
+        "uk": "Лупа мінус"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "delete",
+          "icon search",
+          "increase view",
+          "magnifier",
+          "magnifying glass",
+          "remove",
+          "search zoom",
+          "trash",
+          "zoom tool",
+          "magnifier-remove"
+        ],
+        "uk": [
+          "видалити",
+          "збільшувальне скло",
+          "лупа",
+          "ремове"
+        ]
+      }
+    }
+  },
+  "map": {
+    "mediaKey": "9750a108-4f0e-4693-b7b5-5aa107de594d",
+    "i18n": {
+      "name": {
+        "en": "Map",
+        "uk": "Карта"
+      },
+      "alt": {
+        "en": "Map",
+        "uk": "Карта"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "map",
+          "map pin"
+        ],
+        "uk": [
+          "карта",
+          "карта місцевості",
+          "мап",
+          "мапа"
+        ]
+      }
+    }
+  },
+  "menu": {
+    "mediaKey": "f9c3931b-decb-4bd9-82c4-d55573139ddc",
+    "i18n": {
+      "name": {
+        "en": "Menu",
+        "uk": "Меню"
+      },
+      "alt": {
+        "en": "Menu",
+        "uk": "Меню"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "dropdown menu",
+          "menu"
+        ],
+        "uk": [
+          "мену",
+          "меню",
+          "менюшка",
+          "навігаційне меню",
+          "список страв"
+        ]
+      }
+    }
+  },
+  "microphone": {
+    "mediaKey": "88833dda-d940-4572-8c53-3e178983b304",
+    "i18n": {
+      "name": {
+        "en": "Microphone",
+        "uk": "Мікрофон"
+      },
+      "alt": {
+        "en": "Microphone",
+        "uk": "Мікрофон"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎙️",
+          "mic",
+          "microphone",
+          "voice recording"
+        ],
+        "uk": [
+          "🎙️",
+          "мікрофон",
+          "мікрофоне",
+          "мікрофончик"
+        ]
+      }
+    }
+  },
+  "minus": {
+    "mediaKey": "916b4e7c-da6f-490b-8cd0-6f7ff0ba3116",
+    "i18n": {
+      "name": {
+        "en": "Minus",
+        "uk": "Мінус"
+      },
+      "alt": {
+        "en": "Minus",
+        "uk": "Мінус"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "minus",
+          "negative",
+          "subtract"
+        ],
+        "uk": [
+          "відняти",
+          "знак мінус",
+          "мінус"
+        ]
+      }
+    }
+  },
+  "mouse": {
+    "mediaKey": "dfbda91a-f31a-4311-bd2a-7c39baaba096",
+    "i18n": {
+      "name": {
+        "en": "Mouse",
+        "uk": "Миша"
+      },
+      "alt": {
+        "en": "Mouse",
+        "uk": "Миша"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "mouse",
+          "mouse device"
+        ],
+        "uk": [
+          "комп'ютерна миша",
+          "курсор",
+          "миша",
+          "моусе"
+        ]
+      }
+    }
+  },
+  "music-tone": {
+    "mediaKey": "fe5d6d44-84cf-4363-9dd2-2542ff40c10b",
+    "i18n": {
+      "name": {
+        "en": "Music tone",
+        "uk": "Музичний тон"
+      },
+      "alt": {
+        "en": "Music tone",
+        "uk": "Музичний тон"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎵",
+          "audio tone",
+          "color tone",
+          "music",
+          "music note",
+          "tone",
+          "tone adjustment",
+          "tone icon",
+          "music-tone"
+        ],
+        "uk": [
+          "🎵",
+          "відтінок",
+          "звуки",
+          "звучання",
+          "мелодія",
+          "музика",
+          "мусік",
+          "тон"
+        ]
+      }
+    }
+  },
+  "music-tone-alt": {
+    "mediaKey": "7110cb72-4bd3-4050-9d83-a1e6ee2895ef",
+    "i18n": {
+      "name": {
+        "en": "Music tone alt",
+        "uk": "Музичний тон (альт)"
+      },
+      "alt": {
+        "en": "Music tone alt",
+        "uk": "Музичний тон (альт)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎵",
+          "alt",
+          "alt клавіша",
+          "alt key",
+          "audio tone",
+          "color tone",
+          "modifier key",
+          "music",
+          "music note",
+          "tone",
+          "tone adjustment",
+          "tone icon",
+          "music-tone-alt"
+        ],
+        "uk": [
+          "🎵",
+          "алт",
+          "альт",
+          "альтернативний текст",
+          "відтінок",
+          "звуки",
+          "звучання",
+          "мелодія",
+          "музика",
+          "мусік",
+          "тон",
+          "alt клавіша"
+        ]
+      }
+    }
+  },
+  "mustache": {
+    "mediaKey": "b6846cd1-3046-462f-8a95-4148deb564e8",
+    "i18n": {
+      "name": {
+        "en": "Mustache",
+        "uk": "Вуса"
+      },
+      "alt": {
+        "en": "Mustache",
+        "uk": "Вуса"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "facial hair",
+          "handlebar",
+          "moustache",
+          "mustache"
+        ],
+        "uk": [
+          "вуса",
+          "вусач",
+          "усики"
+        ]
+      }
+    }
+  },
+  "note": {
+    "mediaKey": "148f74f5-3d79-4dc1-a20c-944492b09e2b",
+    "i18n": {
+      "name": {
+        "en": "Note",
+        "uk": "Примітка"
+      },
+      "alt": {
+        "en": "Note",
+        "uk": "Примітка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "note",
+          "note pad",
+          "sticky note"
+        ],
+        "uk": [
+          "нотатка",
+          "ноте",
+          "примітка"
+        ]
+      }
+    }
+  },
+  "notebook": {
+    "mediaKey": "f75b26b1-b4e3-488a-8174-79244df21581",
+    "i18n": {
+      "name": {
+        "en": "Notebook",
+        "uk": "Блокнот"
+      },
+      "alt": {
+        "en": "Notebook",
+        "uk": "Блокнот"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "notebook",
+          "notepad"
+        ],
+        "uk": [
+          "блокнот",
+          "зошит",
+          "нотебоок",
+          "паперовий блокнот"
+        ]
+      }
+    }
+  },
+  "options": {
+    "mediaKey": "6c553d82-2b89-412a-8722-da2fdbcc02bb",
+    "i18n": {
+      "name": {
+        "en": "Options",
+        "uk": "Параметри"
+      },
+      "alt": {
+        "en": "Options",
+        "uk": "Параметри"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "choices",
+          "dropdown options",
+          "options"
+        ],
+        "uk": [
+          "варіанти",
+          "налаштування",
+          "оптіонс",
+          "параметри"
+        ]
+      }
+    }
+  },
+  "options-vertical": {
+    "mediaKey": "e9872a46-ccdf-4884-a282-2a2d0d96bb04",
+    "i18n": {
+      "name": {
+        "en": "Options vertical",
+        "uk": "Вертикальні параметри"
+      },
+      "alt": {
+        "en": "Options vertical",
+        "uk": "Вертикальні параметри"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "choices",
+          "dropdown options",
+          "options",
+          "portrait",
+          "upright",
+          "vertical",
+          "options-vertical"
+        ],
+        "uk": [
+          "варіанти",
+          "вертикаль",
+          "вертикальний",
+          "налаштування",
+          "оптіонс",
+          "параметри",
+          "портрет",
+          "стовпчик"
+        ]
+      }
+    }
+  },
+  "organization": {
+    "mediaKey": "2dcc336e-e25a-4a80-8d45-f2878500c85c",
+    "i18n": {
+      "name": {
+        "en": "Organization",
+        "uk": "Організація"
+      },
+      "alt": {
+        "en": "Organization",
+        "uk": "Організація"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "company",
+          "corp",
+          "firm",
+          "organization",
+          "organization us",
+          "team"
+        ],
+        "uk": [
+          "колектив",
+          "компанія",
+          "організація"
+        ]
+      }
+    }
+  },
+  "paper-clip": {
+    "mediaKey": "6653bbe4-918f-4036-93c9-d6e2d6850290",
+    "i18n": {
+      "name": {
+        "en": "Paper clip",
+        "uk": "Скрепка"
+      },
+      "alt": {
+        "en": "Paper clip",
+        "uk": "Скрепка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "attach",
+          "clip",
+          "clip icon",
+          "document",
+          "paper",
+          "paperclip",
+          "paper-clip"
+        ],
+        "uk": [
+          "аркуш",
+          "відеокліп",
+          "затискач",
+          "кліп",
+          "папер",
+          "папір",
+          "папірець",
+          "приєднати",
+          "скріпка"
+        ]
+      }
+    }
+  },
+  "paper-plane": {
+    "mediaKey": "f507301a-0462-497f-b876-7c791cc7e332",
+    "i18n": {
+      "name": {
+        "en": "Paper plane",
+        "uk": "Паперовий літачок"
+      },
+      "alt": {
+        "en": "Paper plane",
+        "uk": "Паперовий літачок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "✈️",
+          "airplane",
+          "document",
+          "paper",
+          "plane",
+          "paper-plane"
+        ],
+        "uk": [
+          "✈️",
+          "аркуш",
+          "літак",
+          "папер",
+          "папір",
+          "папірець",
+          "плане"
+        ]
+      }
+    }
+  },
+  "paypal": {
+    "mediaKey": "7f4b9062-5d5b-4513-8919-7a912b5afc0e",
+    "i18n": {
+      "name": {
+        "en": "Paypal",
+        "uk": "PayPal"
+      },
+      "alt": {
+        "en": "Paypal",
+        "uk": "PayPal"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "paypal",
+          "PayPal logo",
+          "paypal wallet"
+        ],
+        "uk": [
+          "електронна оплата",
+          "пайпал"
+        ]
+      }
+    }
+  },
+  "pencil": {
+    "mediaKey": "3dc0f333-4c6c-4ade-8325-2b23c94def40",
+    "i18n": {
+      "name": {
+        "en": "Pencil",
+        "uk": "Олівець"
+      },
+      "alt": {
+        "en": "Pencil",
+        "uk": "Олівець"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "pencil",
+          "pencil icon"
+        ],
+        "uk": [
+          "малювати",
+          "олівець",
+          "пенкіл"
+        ]
+      }
+    }
+  },
+  "people": {
+    "mediaKey": "25090d29-f5a1-4493-8e41-5cf9ae571576",
+    "i18n": {
+      "name": {
+        "en": "People",
+        "uk": "People"
+      },
+      "alt": {
+        "en": "People",
+        "uk": "People"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "blockchain",
+          "coin",
+          "crypto",
+          "cryptocurrency",
+          "people",
+          "token"
+        ],
+        "uk": [
+          "альта",
+          "блокчейн",
+          "валюта",
+          "коін",
+          "крипта",
+          "криптовалюта",
+          "люди",
+          "монета",
+          "токен"
+        ]
+      }
+    }
+  },
+  "phone": {
+    "mediaKey": "11aaef01-93e9-4439-a6f2-71df512e4ac7",
+    "i18n": {
+      "name": {
+        "en": "Phone",
+        "uk": "Телефон"
+      },
+      "alt": {
+        "en": "Phone",
+        "uk": "Телефон"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "handset",
+          "phone",
+          "phone call"
+        ],
+        "uk": [
+          "телефон",
+          "фоне"
+        ]
+      }
+    }
+  },
+  "picture": {
+    "mediaKey": "ba22943d-fdf9-4d06-b6f2-f74b0e8780cd",
+    "i18n": {
+      "name": {
+        "en": "Picture",
+        "uk": "Зображення"
+      },
+      "alt": {
+        "en": "Picture",
+        "uk": "Зображення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "image",
+          "picture",
+          "picture icon"
+        ],
+        "uk": [
+          "картинка",
+          "малюнок",
+          "піктуре"
+        ]
+      }
+    }
+  },
+  "pie-chart": {
+    "mediaKey": "b49bf350-9e63-4d61-9660-0d7cc6f2cec8",
+    "i18n": {
+      "name": {
+        "en": "Pie chart",
+        "uk": "Кругова діаграма"
+      },
+      "alt": {
+        "en": "Pie chart",
+        "uk": "Кругова діаграма"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "chart",
+          "chart icon",
+          "pie",
+          "pie chart",
+          "slice",
+          "stats",
+          "pie-chart"
+        ],
+        "uk": [
+          "графік",
+          "діаграма",
+          "пиріг",
+          "піе",
+          "чарт"
+        ]
+      }
+    }
+  },
+  "pin": {
+    "mediaKey": "cd92f05c-d992-45da-9b37-90b4e5688f1a",
+    "i18n": {
+      "name": {
+        "en": "Pin",
+        "uk": "Шпилька"
+      },
+      "alt": {
+        "en": "Pin",
+        "uk": "Шпилька"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "pin",
+          "pin icon"
+        ],
+        "uk": [
+          "закріпити",
+          "пін",
+          "шпилька"
+        ]
+      }
+    }
+  },
+  "plane": {
+    "mediaKey": "a91d1d19-8489-489c-8d57-19a52ad1a8a0",
+    "i18n": {
+      "name": {
+        "en": "Plane",
+        "uk": "Літак"
+      },
+      "alt": {
+        "en": "Plane",
+        "uk": "Літак"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "✈️",
+          "airplane",
+          "plane"
+        ],
+        "uk": [
+          "✈️",
+          "літак",
+          "плане"
+        ]
+      }
+    }
+  },
+  "playlist": {
+    "mediaKey": "2ce0368b-1f20-49df-8853-28307e0590ea",
+    "i18n": {
+      "name": {
+        "en": "Playlist",
+        "uk": "Список відтворення"
+      },
+      "alt": {
+        "en": "Playlist",
+        "uk": "Список відтворення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "music list",
+          "playlist"
+        ],
+        "uk": [
+          "відтворення",
+          "плайліст",
+          "список",
+          "список відтворення"
+        ]
+      }
+    }
+  },
+  "plus": {
+    "mediaKey": "c10a5b5d-6d28-4f50-b37f-27978e2d810e",
+    "i18n": {
+      "name": {
+        "en": "Plus",
+        "uk": "Плюс"
+      },
+      "alt": {
+        "en": "Plus",
+        "uk": "Плюс"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "+",
+          "plus",
+          "positive"
+        ],
+        "uk": [
+          "+",
+          "додати",
+          "плус",
+          "плюс"
+        ]
+      }
+    }
+  },
+  "power": {
+    "mediaKey": "ce847e27-fe7f-4b62-85ab-de389046380d",
+    "i18n": {
+      "name": {
+        "en": "Power",
+        "uk": "Потужність"
+      },
+      "alt": {
+        "en": "Power",
+        "uk": "Потужність"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "power",
+          "power button"
+        ],
+        "uk": [
+          "живлення",
+          "повер",
+          "потужність",
+          "сила"
+        ]
+      }
+    }
+  },
+  "present": {
+    "mediaKey": "cefec7d6-934c-4be2-8955-211487412c79",
+    "i18n": {
+      "name": {
+        "en": "Present",
+        "uk": "Подарунок"
+      },
+      "alt": {
+        "en": "Present",
+        "uk": "Подарунок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "current",
+          "gift",
+          "gift box",
+          "present",
+          "present icon"
+        ],
+        "uk": [
+          "подарунок",
+          "презент",
+          "сучасний"
+        ]
+      }
+    }
+  },
+  "printer": {
+    "mediaKey": "56678c45-509a-4754-95e8-da90c217f67a",
+    "i18n": {
+      "name": {
+        "en": "Printer",
+        "uk": "Принтер"
+      },
+      "alt": {
+        "en": "Printer",
+        "uk": "Принтер"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "office printer",
+          "printer",
+          "printing"
+        ],
+        "uk": [
+          "принтер",
+          "прінтер"
+        ]
+      }
+    }
+  },
+  "puzzle": {
+    "mediaKey": "539bc014-11b0-4384-832a-9c02679836ed",
+    "i18n": {
+      "name": {
+        "en": "Puzzle",
+        "uk": "Пазл"
+      },
+      "alt": {
+        "en": "Puzzle",
+        "uk": "Пазл"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "jigsaw",
+          "puzzle",
+          "puzzle game"
+        ],
+        "uk": [
+          "головоломка",
+          "пуззле"
+        ]
+      }
+    }
+  },
+  "question": {
+    "mediaKey": "47bbc6d3-d065-41a0-a6bd-87d45175987a",
+    "i18n": {
+      "name": {
+        "en": "Question",
+        "uk": "Питання"
+      },
+      "alt": {
+        "en": "Question",
+        "uk": "Питання"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "?",
+          "question",
+          "question mark"
+        ],
+        "uk": [
+          "?",
+          "запитання",
+          "квестіон",
+          "питання"
+        ]
+      }
+    }
+  },
+  "refresh": {
+    "mediaKey": "a829e17f-fc99-47e0-a257-bdf71d0d9e03",
+    "i18n": {
+      "name": {
+        "en": "Refresh",
+        "uk": "Оновити"
+      },
+      "alt": {
+        "en": "Refresh",
+        "uk": "Оновити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "refresh",
+          "refresh icon",
+          "reload"
+        ],
+        "uk": [
+          "оновити",
+          "рефреш"
+        ]
+      }
+    }
+  },
+  "reload": {
+    "mediaKey": "4a13f9fc-1fb2-4fbb-987d-4cd969bfdf89",
+    "i18n": {
+      "name": {
+        "en": "Reload",
+        "uk": "Перезавантажити"
+      },
+      "alt": {
+        "en": "Reload",
+        "uk": "Перезавантажити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "refresh page",
+          "reload",
+          "reload icon"
+        ],
+        "uk": [
+          "перезавантажити",
+          "релоад"
+        ]
+      }
+    }
+  },
+  "rocket": {
+    "mediaKey": "310b19f4-9c39-4cfb-add9-b6f00ef9f821",
+    "i18n": {
+      "name": {
+        "en": "Rocket",
+        "uk": "Ракета"
+      },
+      "alt": {
+        "en": "Rocket",
+        "uk": "Ракета"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🚀",
+          "launch",
+          "rocket"
+        ],
+        "uk": [
+          "🚀",
+          "ракета",
+          "роккет"
+        ]
+      }
+    }
+  },
+  "screen-desktop": {
+    "mediaKey": "af469e8c-c27b-4818-8f78-532ef2672a1d",
+    "i18n": {
+      "name": {
+        "en": "Screen desktop",
+        "uk": "Екран настільний"
+      },
+      "alt": {
+        "en": "Screen desktop",
+        "uk": "Екран настільний"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "desktop",
+          "desktop computer",
+          "desktop interface",
+          "desktop monitor",
+          "desktop screen",
+          "desktop ui",
+          "desktop view",
+          "screen",
+          "screen view",
+          "screen-desktop"
+        ],
+        "uk": [
+          "десктоп",
+          "дисплей",
+          "екран",
+          "екран комп'ютера",
+          "монітор",
+          "настільний екран",
+          "настільний комп'ютер",
+          "настільний пк",
+          "робоче тло",
+          "робочий",
+          "робочий стіл",
+          "скреен",
+          "стіл"
+        ]
+      }
+    }
+  },
+  "screen-smartphone": {
+    "mediaKey": "5ba6c4e7-a428-4577-b1a8-ab42aad126fd",
+    "i18n": {
+      "name": {
+        "en": "Screen smartphone",
+        "uk": "Екран смартфона"
+      },
+      "alt": {
+        "en": "Screen smartphone",
+        "uk": "Екран смартфона"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "android",
+          "cellphone",
+          "device",
+          "iphone",
+          "mobile",
+          "screen",
+          "screen view",
+          "smartphone",
+          "screen-smartphone"
+        ],
+        "uk": [
+          "дисплей",
+          "екран",
+          "мобілка",
+          "монітор",
+          "скреен",
+          "смартфон",
+          "телефон"
+        ]
+      }
+    }
+  },
+  "screen-tablet": {
+    "mediaKey": "cab326ad-a1ab-4f19-9814-762800daffa8",
+    "i18n": {
+      "name": {
+        "en": "Screen tablet",
+        "uk": "Екран планшета"
+      },
+      "alt": {
+        "en": "Screen tablet",
+        "uk": "Екран планшета"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "e-reader",
+          "screen",
+          "screen view",
+          "tablet",
+          "tablet pc",
+          "screen-tablet"
+        ],
+        "uk": [
+          "дисплей",
+          "екран",
+          "монітор",
+          "планшет",
+          "планшетний комп'ютер",
+          "скреен",
+          "таблет",
+          "тач-пристрій"
+        ]
+      }
+    }
+  },
+  "settings": {
+    "mediaKey": "1533885a-bf78-4da6-87ff-b8b4553d17dc",
+    "i18n": {
+      "name": {
+        "en": "Settings",
+        "uk": "Налаштування"
+      },
+      "alt": {
+        "en": "Settings",
+        "uk": "Налаштування"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⚙️",
+          "options",
+          "preferences",
+          "settings"
+        ],
+        "uk": [
+          "⚙️",
+          "конфігурація",
+          "налаштування",
+          "налаштування системи",
+          "опції",
+          "параметри",
+          "установки"
+        ]
+      }
+    }
+  },
+  "share": {
+    "mediaKey": "a5b91136-5579-4c0a-ae2c-597ebc178ec1",
+    "i18n": {
+      "name": {
+        "en": "Share",
+        "uk": "Поділ"
+      },
+      "alt": {
+        "en": "Share",
+        "uk": "Поділ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "distribute",
+          "share"
+        ],
+        "uk": [
+          "поділ",
+          "поділитися",
+          "поширити",
+          "поширити 🔗",
+          "розшарити",
+          "частка",
+          "шер",
+          "шерінг"
+        ]
+      }
+    }
+  },
+  "share-alt": {
+    "mediaKey": "7f27c16c-538a-41bb-8a53-8bf20d2bc89b",
+    "i18n": {
+      "name": {
+        "en": "Share alt",
+        "uk": "Поділитися Alt"
+      },
+      "alt": {
+        "en": "Share alt",
+        "uk": "Поділитися Alt"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "alt",
+          "alt клавіша",
+          "alt key",
+          "distribute",
+          "modifier key",
+          "share",
+          "share-alt"
+        ],
+        "uk": [
+          "алт",
+          "альт",
+          "альтернативний текст",
+          "поділ",
+          "поділитися",
+          "поширити",
+          "поширити 🔗",
+          "розшарити",
+          "частка",
+          "шер",
+          "шерінг",
+          "alt клавіша"
+        ]
+      }
+    }
+  },
+  "shield": {
+    "mediaKey": "33b64b9e-6583-4a16-a711-52cdbf610e0e",
+    "i18n": {
+      "name": {
+        "en": "Shield",
+        "uk": "Щит"
+      },
+      "alt": {
+        "en": "Shield",
+        "uk": "Щит"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🛡️",
+          "guard",
+          "protect",
+          "shield"
+        ],
+        "uk": [
+          "🛡️",
+          "броня",
+          "герб",
+          "емблема",
+          "захист",
+          "шіелд",
+          "щит"
+        ]
+      }
+    }
+  },
+  "shuffle": {
+    "mediaKey": "0826f72f-e76f-486e-9d25-7d72b879796e",
+    "i18n": {
+      "name": {
+        "en": "Shuffle",
+        "uk": "Перемішати"
+      },
+      "alt": {
+        "en": "Shuffle",
+        "uk": "Перемішати"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "randomize",
+          "shuffle"
+        ],
+        "uk": [
+          "випадковий порядок",
+          "перемішати",
+          "перетасувати",
+          "рандом",
+          "шуфл"
+        ]
+      }
+    }
+  },
+  "size-actual": {
+    "mediaKey": "04f4f311-c0f0-4568-aec2-5a5ceecbf411",
+    "i18n": {
+      "name": {
+        "en": "Size actual",
+        "uk": "Фактичний розмір"
+      },
+      "alt": {
+        "en": "Size actual",
+        "uk": "Фактичний розмір"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "actual",
+          "actual icon",
+          "actual value",
+          "dimension",
+          "in reality",
+          "measure",
+          "size",
+          "size-actual"
+        ],
+        "uk": [
+          "актуальний стан",
+          "величина",
+          "габарит",
+          "дійсний",
+          "масштаб",
+          "реальний",
+          "розмір",
+          "сайз",
+          "фактичний",
+          "формат"
+        ]
+      }
+    }
+  },
+  "size-fullscreen": {
+    "mediaKey": "f6037c09-24bf-48b9-96e9-232232b721f8",
+    "i18n": {
+      "name": {
+        "en": "Size fullscreen",
+        "uk": "На весь екран"
+      },
+      "alt": {
+        "en": "Size fullscreen",
+        "uk": "На весь екран"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "dimension",
+          "full view",
+          "fullscreen",
+          "maximize",
+          "measure",
+          "size",
+          "size-fullscreen"
+        ],
+        "uk": [
+          "величина",
+          "габарит",
+          "масштаб",
+          "повний екран",
+          "розмір",
+          "сайз",
+          "формат",
+          "фулскрін"
+        ]
+      }
+    }
+  },
+  "social-behance": {
+    "mediaKey": "dbff1a34-a1bd-4d4c-98d0-7dba8f696fc6",
+    "i18n": {
+      "name": {
+        "en": "Social behance",
+        "uk": "Behance"
+      },
+      "alt": {
+        "en": "Social behance",
+        "uk": "Behance"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "behance",
+          "behance gallery",
+          "behance logo",
+          "community",
+          "social",
+          "social media",
+          "social-behance"
+        ],
+        "uk": [
+          "беханке",
+          "дизайнери",
+          "ком'юніті",
+          "портфоліо",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування"
+        ]
+      }
+    }
+  },
+  "social-dribbble": {
+    "mediaKey": "b9cd335c-04fa-4402-ac71-b444310d92a6",
+    "i18n": {
+      "name": {
+        "en": "Social dribbble",
+        "uk": "Dribbble (соціальна)"
+      },
+      "alt": {
+        "en": "Social dribbble",
+        "uk": "Dribbble (соціальна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "community",
+          "design network",
+          "design portfolio",
+          "design shots",
+          "designer community",
+          "dribbble",
+          "dribbble feed",
+          "dribbble icon",
+          "dribbble logo",
+          "dribbble pink",
+          "dribbble shots",
+          "social",
+          "social media",
+          "ui inspiration",
+          "social-dribbble"
+        ],
+        "uk": [
+          "дизайн платформа",
+          "дриббл",
+          "дрібббле",
+          "капати",
+          "ком'юніті",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування"
+        ]
+      }
+    }
+  },
+  "social-dropbox": {
+    "mediaKey": "c4dc06db-f578-420f-9d0f-6eef6366c11f",
+    "i18n": {
+      "name": {
+        "en": "Social dropbox",
+        "uk": "Dropbox (соціальна)"
+      },
+      "alt": {
+        "en": "Social dropbox",
+        "uk": "Dropbox (соціальна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cloud storage",
+          "community",
+          "dropbox",
+          "dropbox app",
+          "dropbox backup",
+          "dropbox blue box",
+          "dropbox cloud",
+          "dropbox folder",
+          "dropbox icon",
+          "dropbox logo",
+          "dropbox sharing",
+          "dropbox storage",
+          "file sharing",
+          "file sync",
+          "social",
+          "social media",
+          "social-dropbox"
+        ],
+        "uk": [
+          "дропбокс",
+          "ком'юніті",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування",
+          "хмарне сховище"
+        ]
+      }
+    }
+  },
+  "social-facebook": {
+    "mediaKey": "1b5f3057-56e6-4a5b-9a2e-b3e20a843b2c",
+    "i18n": {
+      "name": {
+        "en": "Social facebook",
+        "uk": "Facebook (соціальна)"
+      },
+      "alt": {
+        "en": "Social facebook",
+        "uk": "Facebook (соціальна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "community",
+          "facebook",
+          "facebook app",
+          "facebook blue",
+          "facebook feed",
+          "facebook icon",
+          "facebook logo",
+          "facebook social network",
+          "facebook timeline",
+          "fb",
+          "fb platform",
+          "fb social",
+          "meta",
+          "meta app",
+          "social",
+          "social media",
+          "social-facebook"
+        ],
+        "uk": [
+          "ком'юніті",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування",
+          "факебоок"
+        ]
+      }
+    }
+  },
+  "social-foursqare": {
+    "mediaKey": "2f6151b4-24f4-4170-b413-127a4ecbfb98",
+    "i18n": {
+      "name": {
+        "en": "Social foursqare",
+        "uk": "Foursquare (соцмережа)"
+      },
+      "alt": {
+        "en": "Social foursqare",
+        "uk": "Foursquare (соцмережа)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "community",
+          "foursqare",
+          "social",
+          "social media",
+          "social-foursqare"
+        ],
+        "uk": [
+          "бренд",
+          "ком'юніті",
+          "логотип",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування"
+        ]
+      }
+    }
+  },
+  "social-github": {
+    "mediaKey": "ea83db1c-7b47-434e-802f-5f6ea91937e1",
+    "i18n": {
+      "name": {
+        "en": "Social github",
+        "uk": "Github (соціальна)"
+      },
+      "alt": {
+        "en": "Social github",
+        "uk": "Github (соціальна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "code hosting",
+          "community",
+          "github",
+          "github icon",
+          "github repo",
+          "octocat",
+          "social",
+          "social media",
+          "social-github"
+        ],
+        "uk": [
+          "ґітуб",
+          "ком'юніті",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування"
+        ]
+      }
+    }
+  },
+  "social-google": {
+    "mediaKey": "a35f815b-6b42-47d4-aefc-6972382e1cbe",
+    "i18n": {
+      "name": {
+        "en": "Social google",
+        "uk": "Google (соціальна)"
+      },
+      "alt": {
+        "en": "Social google",
+        "uk": "Google (соціальна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "alphabet",
+          "community",
+          "google",
+          "google app",
+          "google logo",
+          "search engine",
+          "social",
+          "social media",
+          "social-google"
+        ],
+        "uk": [
+          "ґооґле",
+          "ком'юніті",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування"
+        ]
+      }
+    }
+  },
+  "social-instagram": {
+    "mediaKey": "f7153829-cf62-43f4-a949-fcb2e41fb5e6",
+    "i18n": {
+      "name": {
+        "en": "Social instagram",
+        "uk": "Instagram (соціальна)"
+      },
+      "alt": {
+        "en": "Social instagram",
+        "uk": "Instagram (соціальна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "community",
+          "ig",
+          "instagram",
+          "instagram logo",
+          "instagram stories",
+          "social",
+          "social media",
+          "social-instagram"
+        ],
+        "uk": [
+          "інста",
+          "інстаґрам",
+          "ком'юніті",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування"
+        ]
+      }
+    }
+  },
+  "social-linkedin": {
+    "mediaKey": "918d7e0a-a260-42f8-9ce9-b82d1b3aa1ac",
+    "i18n": {
+      "name": {
+        "en": "Social linkedin",
+        "uk": "Linkedin (соціальна)"
+      },
+      "alt": {
+        "en": "Social linkedin",
+        "uk": "Linkedin (соціальна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "кар'єрна мережа LinkedIn",
+          "професійна мережа LinkedIn",
+          "community",
+          "job network",
+          "linkedin",
+          "linkedin icon",
+          "linkedin profile",
+          "professional network",
+          "social",
+          "social media",
+          "social-linkedin"
+        ],
+        "uk": [
+          "кар'єрна мережа LinkedIn",
+          "ком'юніті",
+          "лінкедін",
+          "професійна мережа LinkedIn",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування"
+        ]
+      }
+    }
+  },
+  "social-pintarest": {
+    "mediaKey": "cc63f78a-f5f5-4676-bbaa-d9b002d7cd4f",
+    "i18n": {
+      "name": {
+        "en": "Social pintarest",
+        "uk": "Pinterest (соцмережа)"
+      },
+      "alt": {
+        "en": "Social pintarest",
+        "uk": "Pinterest (соцмережа)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "community",
+          "pintarest",
+          "pinterest",
+          "social",
+          "social media",
+          "social-pintarest"
+        ],
+        "uk": [
+          "дошки",
+          "ідеї",
+          "ком'юніті",
+          "натхнення",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування",
+          "фото"
+        ]
+      }
+    }
+  },
+  "social-pinterest": {
+    "mediaKey": "9ec79acd-4ed2-4116-856a-0903fe1d9ce7",
+    "i18n": {
+      "name": {
+        "en": "Social pinterest",
+        "uk": "Pinterest (соціальна)"
+      },
+      "alt": {
+        "en": "Social pinterest",
+        "uk": "Pinterest (соціальна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "community",
+          "pinboard",
+          "pinterest",
+          "pinterest app",
+          "Pinterest logo",
+          "social",
+          "social media",
+          "social-pinterest"
+        ],
+        "uk": [
+          "ком'юніті",
+          "пінтерест",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування"
+        ]
+      }
+    }
+  },
+  "social-reddit": {
+    "mediaKey": "62ad5733-9c93-4d13-acac-b619dc62c8cd",
+    "i18n": {
+      "name": {
+        "en": "Social reddit",
+        "uk": "Reddit (соціальна)"
+      },
+      "alt": {
+        "en": "Social reddit",
+        "uk": "Reddit (соціальна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "community",
+          "reddit",
+          "reddit alien",
+          "Reddit logo",
+          "social",
+          "social media",
+          "social-reddit"
+        ],
+        "uk": [
+          "ком'юніті",
+          "реддіт",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування"
+        ]
+      }
+    }
+  },
+  "social-skype": {
+    "mediaKey": "d4504f08-206b-40f3-8301-00a017dc3e9a",
+    "i18n": {
+      "name": {
+        "en": "Social skype",
+        "uk": "Skype (соціальна)"
+      },
+      "alt": {
+        "en": "Social skype",
+        "uk": "Skype (соціальна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "community",
+          "skype",
+          "social",
+          "social media",
+          "social-skype"
+        ],
+        "uk": [
+          "відеодзвінок",
+          "відеочат",
+          "ком'юніті",
+          "месенджер",
+          "онлайн дзвінки",
+          "скайп",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування"
+        ]
+      }
+    }
+  },
+  "social-soundcloud": {
+    "mediaKey": "c34ce1e0-57af-4503-a0a2-4ab74760bbe2",
+    "i18n": {
+      "name": {
+        "en": "Social soundcloud",
+        "uk": "SoundCloud (соцмережа)"
+      },
+      "alt": {
+        "en": "Social soundcloud",
+        "uk": "SoundCloud (соцмережа)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "музична платформа SoundCloud",
+          "audio sharing",
+          "community",
+          "social",
+          "social media",
+          "soundcloud",
+          "social-soundcloud"
+        ],
+        "uk": [
+          "ком'юніті",
+          "музична платформа SoundCloud",
+          "подкасти",
+          "саундклауд",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування",
+          "стрімінг треків"
+        ]
+      }
+    }
+  },
+  "social-spotify": {
+    "mediaKey": "9bf6e8c9-c8f9-437b-b53f-930c342afabd",
+    "i18n": {
+      "name": {
+        "en": "Social spotify",
+        "uk": "Spotify"
+      },
+      "alt": {
+        "en": "Social spotify",
+        "uk": "Spotify"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "музичний стрімінг Spotify",
+          "community",
+          "music streaming",
+          "social",
+          "social media",
+          "spotify",
+          "social-spotify"
+        ],
+        "uk": [
+          "ком'юніті",
+          "музичний стрімінг Spotify",
+          "плейлист",
+          "подкасти",
+          "слухати музику",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування",
+          "спотіфай"
+        ]
+      }
+    }
+  },
+  "social-steam": {
+    "mediaKey": "cbfe5e95-fa9f-428d-bc97-63f9e0f74f8b",
+    "i18n": {
+      "name": {
+        "en": "Social steam",
+        "uk": "Steam"
+      },
+      "alt": {
+        "en": "Social steam",
+        "uk": "Steam"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "community",
+          "social",
+          "social media",
+          "steam",
+          "Valve",
+          "social-steam"
+        ],
+        "uk": [
+          "ігрова платформа",
+          "ком'юніті",
+          "ком'юніті геймерів",
+          "магазин ігор",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування",
+          "стім"
+        ]
+      }
+    }
+  },
+  "social-stumbleupon": {
+    "mediaKey": "e7ec7a52-c258-46fb-95e2-86d0999b172a",
+    "i18n": {
+      "name": {
+        "en": "Social stumbleupon",
+        "uk": "Соц StumbleUpon"
+      },
+      "alt": {
+        "en": "Social stumbleupon",
+        "uk": "Соц StumbleUpon"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "community",
+          "content discovery",
+          "discovery engine",
+          "random site",
+          "share button",
+          "social",
+          "social media",
+          "stumble",
+          "stumbleupon",
+          "SU toolbar",
+          "social-stumbleupon"
+        ],
+        "uk": [
+          "ком'юніті",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування"
+        ]
+      }
+    }
+  },
+  "social-tumblr": {
+    "mediaKey": "c5d00e33-38db-4ad2-81fb-36d6fedcf4b1",
+    "i18n": {
+      "name": {
+        "en": "Social tumblr",
+        "uk": "Tumblr (соціальна)"
+      },
+      "alt": {
+        "en": "Social tumblr",
+        "uk": "Tumblr (соціальна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "blog",
+          "community",
+          "microblog",
+          "social",
+          "social media",
+          "tumblr",
+          "social-tumblr"
+        ],
+        "uk": [
+          "блог-платформа",
+          "ком'юніті",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування",
+          "тамблер"
+        ]
+      }
+    }
+  },
+  "social-twitter": {
+    "mediaKey": "c67a52bd-0ceb-4fb2-8807-77314cba489d",
+    "i18n": {
+      "name": {
+        "en": "Social twitter",
+        "uk": "Twitter (соціальна)"
+      },
+      "alt": {
+        "en": "Social twitter",
+        "uk": "Twitter (соціальна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "community",
+          "microblog",
+          "social",
+          "social media",
+          "tweet",
+          "twitter",
+          "X",
+          "social-twitter"
+        ],
+        "uk": [
+          "ком'юніті",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування",
+          "твіти"
+        ]
+      }
+    }
+  },
+  "social-vkontakte": {
+    "mediaKey": "a0ce0cfb-6294-4f74-a4c9-6ab153534eb3",
+    "i18n": {
+      "name": {
+        "en": "Social vkontakte",
+        "uk": "ВКонтакті (соцмережа)"
+      },
+      "alt": {
+        "en": "Social vkontakte",
+        "uk": "ВКонтакті (соцмережа)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "community",
+          "social",
+          "social media",
+          "vk",
+          "vkontakte",
+          "social-vkontakte"
+        ],
+        "uk": [
+          "вк",
+          "ком'юніті",
+          "музика",
+          "повідомлення",
+          "профіль",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування",
+          "чат"
+        ]
+      }
+    }
+  },
+  "social-youtube": {
+    "mediaKey": "660953cf-f271-424a-9db9-ffc512ee8992",
+    "i18n": {
+      "name": {
+        "en": "Social youtube",
+        "uk": "Youtube (соціальна)"
+      },
+      "alt": {
+        "en": "Social youtube",
+        "uk": "Youtube (соціальна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "community",
+          "social",
+          "social media",
+          "youtube",
+          "yt",
+          "social-youtube"
+        ],
+        "uk": [
+          "відео",
+          "канал",
+          "ком'юніті",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування",
+          "стрім",
+          "ютуб"
+        ]
+      }
+    }
+  },
+  "speech": {
+    "mediaKey": "142dc652-f9b3-47e6-ba54-73bbecfd7c5e",
+    "i18n": {
+      "name": {
+        "en": "Speech",
+        "uk": "Мова"
+      },
+      "alt": {
+        "en": "Speech",
+        "uk": "Мова"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "speech",
+          "speech bubble",
+          "talk",
+          "voice"
+        ],
+        "uk": [
+          "голос",
+          "диктор",
+          "мовлення",
+          "промова"
+        ]
+      }
+    }
+  },
+  "speedometer": {
+    "mediaKey": "244f5b50-007a-41dc-a889-4aa9d2259143",
+    "i18n": {
+      "name": {
+        "en": "Speedometer",
+        "uk": "Спідометр"
+      },
+      "alt": {
+        "en": "Speedometer",
+        "uk": "Спідометр"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "dashboard",
+          "gauge",
+          "kmh",
+          "meter",
+          "mph",
+          "speedometer"
+        ],
+        "uk": [
+          "прилад",
+          "спідометр",
+          "швидкість"
+        ]
+      }
+    }
+  },
+  "star": {
+    "mediaKey": "d0aa0ac9-52f1-4a41-9327-37903b9ec82a",
+    "i18n": {
+      "name": {
+        "en": "Star",
+        "uk": "Зірка"
+      },
+      "alt": {
+        "en": "Star",
+        "uk": "Зірка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⭐",
+          "favorite",
+          "star"
+        ],
+        "uk": [
+          "⭐",
+          "відмітити",
+          "зірка",
+          "зоря",
+          "улюблене"
+        ]
+      }
+    }
+  },
+  "support": {
+    "mediaKey": "14346ac3-a4bd-4454-9623-d4388bc8ee58",
+    "i18n": {
+      "name": {
+        "en": "Support",
+        "uk": "Підтримка"
+      },
+      "alt": {
+        "en": "Support",
+        "uk": "Підтримка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "assist",
+          "help",
+          "service desk",
+          "support"
+        ],
+        "uk": [
+          "підтримка"
+        ]
+      }
+    }
+  },
+  "symble-female": {
+    "mediaKey": "af9344de-dba5-4edd-ae1d-bf271c2accc3",
+    "i18n": {
+      "name": {
+        "en": "Symble female",
+        "uk": "Жіночий символ"
+      },
+      "alt": {
+        "en": "Symble female",
+        "uk": "Жіночий символ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "♀",
+          "female",
+          "female gender",
+          "female sign",
+          "feminine",
+          "femme",
+          "lady",
+          "symble",
+          "woman gender",
+          "woman icon",
+          "woman symbol",
+          "symble-female"
+        ],
+        "uk": [
+          "♀",
+          "жінка",
+          "жіноча",
+          "жіноча стать",
+          "жіночий",
+          "жіночий знак",
+          "жіночий символ",
+          "знак",
+          "лого",
+          "символ",
+          "фемале",
+          "фемме"
+        ]
+      }
+    }
+  },
+  "symbol-female": {
+    "mediaKey": "cb8ac6b3-259f-478e-bb74-0aa702e74a03",
+    "i18n": {
+      "name": {
+        "en": "Symbol female",
+        "uk": "Символ жінки"
+      },
+      "alt": {
+        "en": "Symbol female",
+        "uk": "Символ жінки"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "♀",
+          "badge",
+          "female",
+          "female gender",
+          "female sign",
+          "feminine",
+          "femme",
+          "glyph",
+          "icon",
+          "lady",
+          "sign",
+          "symbol",
+          "woman gender",
+          "woman icon",
+          "woman symbol",
+          "symbol-female"
+        ],
+        "uk": [
+          "♀",
+          "жінка",
+          "жіноча",
+          "жіноча стать",
+          "жіночий",
+          "жіночий знак",
+          "жіночий символ",
+          "знак",
+          "маркер",
+          "символ",
+          "фемале",
+          "фемме"
+        ]
+      }
+    }
+  },
+  "symbol-male": {
+    "mediaKey": "4a3b0cbd-9669-403f-b5fa-79a7bde0ca41",
+    "i18n": {
+      "name": {
+        "en": "Symbol male",
+        "uk": "Символ чоловіка"
+      },
+      "alt": {
+        "en": "Symbol male",
+        "uk": "Символ чоловіка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "badge",
+          "glyph",
+          "icon",
+          "male",
+          "male gender",
+          "man",
+          "sign",
+          "symbol",
+          "symbol-male"
+        ],
+        "uk": [
+          "знак",
+          "мале",
+          "маркер",
+          "символ",
+          "символ чоловіка",
+          "чоловічий"
+        ]
+      }
+    }
+  },
+  "tag": {
+    "mediaKey": "a7efc0d8-f2ad-43ad-ba5d-d8b62a1990ac",
+    "i18n": {
+      "name": {
+        "en": "Tag",
+        "uk": "Тег"
+      },
+      "alt": {
+        "en": "Tag",
+        "uk": "Тег"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "label",
+          "mark",
+          "tag"
+        ],
+        "uk": [
+          "мітка",
+          "тег",
+          "хештег",
+          "ярлик"
+        ]
+      }
+    }
+  },
+  "target": {
+    "mediaKey": "a67e61fd-9a4b-441e-8fe7-4e7f2b5c93f3",
+    "i18n": {
+      "name": {
+        "en": "Target",
+        "uk": "Мішень"
+      },
+      "alt": {
+        "en": "Target",
+        "uk": "Мішень"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "магазин Target",
+          "aim",
+          "goal",
+          "target"
+        ],
+        "uk": [
+          "магазин Target",
+          "мета",
+          "мішень",
+          "приціл",
+          "ціль"
+        ]
+      }
+    }
+  },
+  "trash": {
+    "mediaKey": "d08eec8a-6a30-4e60-9219-764ae9d15936",
+    "i18n": {
+      "name": {
+        "en": "Trash",
+        "uk": "Сміття"
+      },
+      "alt": {
+        "en": "Trash",
+        "uk": "Сміття"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bin",
+          "delete",
+          "trash"
+        ],
+        "uk": [
+          "видалити",
+          "корзина",
+          "кошик",
+          "сміття"
+        ]
+      }
+    }
+  },
+  "trophy": {
+    "mediaKey": "30d59df8-766d-474a-bbe0-ce0e1a94e5d5",
+    "i18n": {
+      "name": {
+        "en": "Trophy",
+        "uk": "Трофей"
+      },
+      "alt": {
+        "en": "Trophy",
+        "uk": "Трофей"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "award",
+          "cup",
+          "trophy"
+        ],
+        "uk": [
+          "кубок",
+          "нагорода",
+          "перемога",
+          "трофей"
+        ]
+      }
+    }
+  },
+  "umbrella": {
+    "mediaKey": "1560d682-5be8-483b-9fa4-69684d27ed75",
+    "i18n": {
+      "name": {
+        "en": "Umbrella",
+        "uk": "Парасолька"
+      },
+      "alt": {
+        "en": "Umbrella",
+        "uk": "Парасолька"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cover",
+          "rain",
+          "umbrela",
+          "umbrella"
+        ],
+        "uk": [
+          "зонт",
+          "парасолька",
+          "парасоля"
+        ]
+      }
+    }
+  },
+  "user": {
+    "mediaKey": "344544c3-c111-4682-91d1-3515a8bd5a96",
+    "i18n": {
+      "name": {
+        "en": "User",
+        "uk": "Користувач"
+      },
+      "alt": {
+        "en": "User",
+        "uk": "Користувач"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "account",
+          "client",
+          "profile",
+          "user"
+        ],
+        "uk": [
+          "акаунт",
+          "користувач",
+          "користувача",
+          "юзер"
+        ]
+      }
+    }
+  },
+  "user-female": {
+    "mediaKey": "30d03e0d-2580-4aac-ae34-8185c2a4d7c8",
+    "i18n": {
+      "name": {
+        "en": "User female",
+        "uk": "Користувачка"
+      },
+      "alt": {
+        "en": "User female",
+        "uk": "Користувачка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "♀",
+          "account",
+          "client",
+          "female",
+          "female gender",
+          "female sign",
+          "feminine",
+          "femme",
+          "lady",
+          "profile",
+          "user",
+          "woman gender",
+          "woman icon",
+          "woman symbol",
+          "user-female"
+        ],
+        "uk": [
+          "♀",
+          "акаунт",
+          "жінка",
+          "жіноча",
+          "жіноча стать",
+          "жіночий",
+          "жіночий знак",
+          "жіночий символ",
+          "користувач",
+          "користувача",
+          "фемале",
+          "фемме",
+          "юзер"
+        ]
+      }
+    }
+  },
+  "user-follow": {
+    "mediaKey": "959563e5-fb98-4fd8-8f81-7b90c037aaad",
+    "i18n": {
+      "name": {
+        "en": "User follow",
+        "uk": "Стежити за користувачем"
+      },
+      "alt": {
+        "en": "User follow",
+        "uk": "Стежити за користувачем"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "account",
+          "client",
+          "follow",
+          "follow user",
+          "following",
+          "friend",
+          "like",
+          "profile",
+          "subscribe",
+          "user",
+          "user-follow"
+        ],
+        "uk": [
+          "акаунт",
+          "користувач",
+          "користувача",
+          "підписатися",
+          "стежити",
+          "читати",
+          "юзер"
+        ]
+      }
+    }
+  },
+  "user-following": {
+    "mediaKey": "78c4ae36-5053-4005-a0f0-3b64c0e87ef7",
+    "i18n": {
+      "name": {
+        "en": "User following",
+        "uk": "Підписки користувача"
+      },
+      "alt": {
+        "en": "User following",
+        "uk": "Підписки користувача"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "account",
+          "client",
+          "follow feed",
+          "follow list",
+          "following",
+          "profile",
+          "user",
+          "user-following"
+        ],
+        "uk": [
+          "акаунт",
+          "користувач",
+          "користувача",
+          "мені цікаво",
+          "підписки",
+          "стеження",
+          "стежу за",
+          "юзер"
+        ]
+      }
+    }
+  },
+  "user-unfollow": {
+    "mediaKey": "f0bc6608-55ca-4239-b621-a2da40d31e69",
+    "i18n": {
+      "name": {
+        "en": "User unfollow",
+        "uk": "Відписатися від користувача"
+      },
+      "alt": {
+        "en": "User unfollow",
+        "uk": "Відписатися від користувача"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "account",
+          "cancel follow",
+          "client",
+          "leave",
+          "mute",
+          "profile",
+          "remove follow",
+          "stop following",
+          "unfollow",
+          "unsubscribe",
+          "user",
+          "user-unfollow"
+        ],
+        "uk": [
+          "акаунт",
+          "відмінити підписку",
+          "відписатися",
+          "користувач",
+          "користувача",
+          "юзер"
+        ]
+      }
+    }
+  },
+  "vector": {
+    "mediaKey": "7e7e738a-58c1-451c-b704-3fd66fabb2a7",
+    "i18n": {
+      "name": {
+        "en": "Vector",
+        "uk": "Вектор"
+      },
+      "alt": {
+        "en": "Vector",
+        "uk": "Вектор"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "math vector",
+          "vector"
+        ],
+        "uk": [
+          "вектор",
+          "векторна графіка",
+          "векторний",
+          "напрям",
+          "стрілка"
+        ]
+      }
+    }
+  },
+  "volume-1": {
+    "mediaKey": "dd5c3e7f-9667-4215-bc3d-3dfd36d458e7",
+    "i18n": {
+      "name": {
+        "en": "Volume 1",
+        "uk": "Гучність"
+      },
+      "alt": {
+        "en": "Volume 1",
+        "uk": "Гучність"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "1",
+          "loudness",
+          "sound level",
+          "volume",
+          "volume-1"
+        ],
+        "uk": [
+          "1",
+          "гучність",
+          "об'єм",
+          "обсяг",
+          "повзунок",
+          "том"
+        ]
+      }
+    }
+  },
+  "volume-2": {
+    "mediaKey": "908a2f96-8676-46a9-aa90-d955dcd6f6af",
+    "i18n": {
+      "name": {
+        "en": "Volume 2",
+        "uk": "Гучність"
+      },
+      "alt": {
+        "en": "Volume 2",
+        "uk": "Гучність"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "2",
+          "loudness",
+          "sound level",
+          "volume",
+          "volume-2"
+        ],
+        "uk": [
+          "2",
+          "гучність",
+          "об'єм",
+          "обсяг",
+          "повзунок",
+          "том"
+        ]
+      }
+    }
+  },
+  "volume-off": {
+    "mediaKey": "944a4e77-8d58-4fc1-9c95-8f58c5daccb6",
+    "i18n": {
+      "name": {
+        "en": "Volume off",
+        "uk": "Гучність (вимкнено)"
+      },
+      "alt": {
+        "en": "Volume off",
+        "uk": "Гучність (вимкнено)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "disabled",
+          "loudness",
+          "off",
+          "off status",
+          "sound level",
+          "volume",
+          "volume-off"
+        ],
+        "uk": [
+          "вимкнено",
+          "вимкнути",
+          "гучність",
+          "об'єм",
+          "обсяг",
+          "офф",
+          "повзунок",
+          "том"
+        ]
+      }
+    }
+  },
+  "wallet": {
+    "mediaKey": "3cab3445-a9d6-442d-a419-08f6a2f81342",
+    "i18n": {
+      "name": {
+        "en": "Wallet",
+        "uk": "Гаманець"
+      },
+      "alt": {
+        "en": "Wallet",
+        "uk": "Гаманець"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "crypto wallet",
+          "digital wallet",
+          "wallet"
+        ],
+        "uk": [
+          "гаманець",
+          "кошель",
+          "кошик",
+          "криптогаманець"
+        ]
+      }
+    }
+  },
+  "wrench": {
+    "mediaKey": "3a81b629-a3a0-4e93-85e7-2e6294fca0d0",
+    "i18n": {
+      "name": {
+        "en": "Wrench",
+        "uk": "Гайковий ключ"
+      },
+      "alt": {
+        "en": "Wrench",
+        "uk": "Гайковий ключ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "fix",
+          "mechanic",
+          "repair",
+          "spanner",
+          "tool",
+          "wrench"
+        ],
+        "uk": [
+          "гайковий ключ",
+          "інструмент",
+          "ключ"
+        ]
+      }
+    }
+  }
+}

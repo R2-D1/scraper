@@ -1,0 +1,63 @@
+{
+  "slug": "money-received-eg1c",
+  "mediaKey": "7f76c4cf-f036-4858-92d2-a81b9f2b5a0c",
+  "providerId": "68f94be2286afbdbe8dbfbb1",
+  "i18n": {
+    "name": {
+      "en": "Money Received",
+      "uk": "Отримані кошти"
+    },
+    "alt": {
+      "en": "Money Received",
+      "uk": "Отримані кошти"
+    },
+    "tags": [
+      {
+        "key": "money-received",
+        "i18n": {
+          "en": "Money Received",
+          "uk": "Отримані кошти"
+        }
+      },
+      {
+        "key": "money",
+        "i18n": {
+          "en": "money",
+          "uk": "гроші"
+        }
+      },
+      {
+        "key": "received",
+        "i18n": {
+          "en": "received",
+          "uk": "отримано"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/money-received_eg1c.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 695
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "order-coffee-pw24",
+  "mediaKey": "46ffea7b-72f3-4479-b2f7-95262848bf33",
+  "providerId": "68593811ab44b5695b918488",
+  "i18n": {
+    "name": {
+      "en": "Order Coffee",
+      "uk": "Замовити каву"
+    },
+    "alt": {
+      "en": "Order Coffee",
+      "uk": "Замовити каву"
+    },
+    "tags": [
+      {
+        "key": "order-coffee",
+        "i18n": {
+          "en": "Order Coffee",
+          "uk": "Замовити каву"
+        }
+      },
+      {
+        "key": "order",
+        "i18n": {
+          "en": "order",
+          "uk": "порядок"
+        }
+      },
+      {
+        "key": "coffee",
+        "i18n": {
+          "en": "coffee",
+          "uk": "кава"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/order-coffee_pw24.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 500,
+  "height": 842
+}

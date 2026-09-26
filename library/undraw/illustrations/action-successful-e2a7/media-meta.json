@@ -1,0 +1,63 @@
+{
+  "slug": "action-successful-e2a7",
+  "mediaKey": "dc559748-f14d-44a9-a111-300e0d8e23ea",
+  "providerId": "69e1606879740242d59ddaec",
+  "i18n": {
+    "name": {
+      "en": "Action Successful",
+      "uk": "Дія виконана успішно"
+    },
+    "alt": {
+      "en": "Action Successful",
+      "uk": "Дія виконана успішно"
+    },
+    "tags": [
+      {
+        "key": "action-successful",
+        "i18n": {
+          "en": "Action Successful",
+          "uk": "Дія виконана успішно"
+        }
+      },
+      {
+        "key": "action",
+        "i18n": {
+          "en": "action",
+          "uk": "дія"
+        }
+      },
+      {
+        "key": "successful",
+        "i18n": {
+          "en": "successful",
+          "uk": "успішний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/action-successful_e2a7.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 746
+}

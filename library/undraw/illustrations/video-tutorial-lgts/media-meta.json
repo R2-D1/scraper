@@ -1,0 +1,63 @@
+{
+  "slug": "video-tutorial-lgts",
+  "mediaKey": "fb905459-2365-4ccc-af8f-f86c4a067ea8",
+  "providerId": "67634aac141137094fd2381e",
+  "i18n": {
+    "name": {
+      "en": "Video tutorial",
+      "uk": "Відеоурок"
+    },
+    "alt": {
+      "en": "Video tutorial",
+      "uk": "Відеоурок"
+    },
+    "tags": [
+      {
+        "key": "video-tutorial",
+        "i18n": {
+          "en": "Video tutorial",
+          "uk": "Відеоурок"
+        }
+      },
+      {
+        "key": "video",
+        "i18n": {
+          "en": "video",
+          "uk": "відео"
+        }
+      },
+      {
+        "key": "tutorial",
+        "i18n": {
+          "en": "tutorial",
+          "uk": "посібник"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/video-tutorial_lgts.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 846,
+  "height": 760
+}

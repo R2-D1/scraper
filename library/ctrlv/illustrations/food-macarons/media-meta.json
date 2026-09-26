@@ -1,0 +1,97 @@
+{
+  "slug": "food-macarons",
+  "mediaKey": "9c544393-5186-4d27-bae8-cebc6c5f34cc",
+  "i18n": {
+    "name": {
+      "en": "French Macarons",
+      "uk": "Французькі макарони"
+    },
+    "alt": {
+      "en": "French Macarons",
+      "uk": "Французькі макарони"
+    },
+    "tags": [
+      {
+        "key": "food",
+        "i18n": {
+          "en": "food",
+          "uk": "їжа"
+        }
+      },
+      {
+        "key": "macarons",
+        "i18n": {
+          "en": "macarons",
+          "uk": "макарони"
+        }
+      },
+      {
+        "key": "france",
+        "i18n": {
+          "en": "france",
+          "uk": "франція"
+        }
+      },
+      {
+        "key": "cuisine",
+        "i18n": {
+          "en": "cuisine",
+          "uk": "кухня"
+        }
+      },
+      {
+        "key": "sweet",
+        "i18n": {
+          "en": "sweet",
+          "uk": "солодкий"
+        }
+      },
+      {
+        "key": "dessert",
+        "i18n": {
+          "en": "dessert",
+          "uk": "десерт"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      },
+      {
+        "key": "bakery",
+        "i18n": {
+          "en": "bakery",
+          "uk": "пекарня"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/food-macarons",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

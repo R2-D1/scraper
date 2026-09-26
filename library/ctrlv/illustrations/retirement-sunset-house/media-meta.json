@@ -1,0 +1,83 @@
+{
+  "slug": "retirement-sunset-house",
+  "mediaKey": "f6307989-a267-41a1-8744-fc498363f279",
+  "i18n": {
+    "name": {
+      "en": "Retirement Planning",
+      "uk": "Планування виходу на пенсію"
+    },
+    "alt": {
+      "en": "Retirement Planning",
+      "uk": "Планування виходу на пенсію"
+    },
+    "tags": [
+      {
+        "key": "retirement",
+        "i18n": {
+          "en": "retirement",
+          "uk": "вихід на пенсію"
+        }
+      },
+      {
+        "key": "planning",
+        "i18n": {
+          "en": "planning",
+          "uk": "планування"
+        }
+      },
+      {
+        "key": "invest",
+        "i18n": {
+          "en": "invest",
+          "uk": "інвестувати"
+        }
+      },
+      {
+        "key": "sunset",
+        "i18n": {
+          "en": "sunset",
+          "uk": "захід сонця"
+        }
+      },
+      {
+        "key": "savings",
+        "i18n": {
+          "en": "savings",
+          "uk": "заощадження"
+        }
+      },
+      {
+        "key": "pension",
+        "i18n": {
+          "en": "pension",
+          "uk": "пенсія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/retirement-sunset-house",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

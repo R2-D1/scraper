@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-14870754",
+  "mediaKey": "pexels:14870754",
+  "i18n": {
+    "name": {
+      "en": "Neon-lit high-rise building at night",
+      "uk": "Висотна будівля, освітлена неоновими вогнями, вночі"
+    },
+    "alt": {
+      "en": "night neon lights fair",
+      "uk": "нічний ярмарок неонових вогнів"
+    },
+    "tags": [
+      {
+        "key": "high-rise",
+        "i18n": {
+          "en": "high-rise",
+          "uk": "висотнобудівельний"
+        }
+      },
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "neon-lights",
+        "i18n": {
+          "en": "neon lights",
+          "uk": "неонові вогні"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      },
+      {
+        "key": "architecture",
+        "i18n": {
+          "en": "architecture",
+          "uk": "архітектура"
+        }
+      },
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "urban",
+          "uk": "урбаністичний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "urban"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/night-neon-lights-fair-14870754/",
+  "sourceName": "Pexels",
+  "authorName": "Doğu Tuncer",
+  "authorUrl": "https://www.pexels.com/@dogu-tuncer-339534179",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

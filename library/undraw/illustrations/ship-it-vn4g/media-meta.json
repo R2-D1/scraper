@@ -1,0 +1,63 @@
+{
+  "slug": "ship-it-vn4g",
+  "mediaKey": "eeb06f9b-3338-4728-b954-035a9cb73901",
+  "providerId": "67b2e70e018bc766b8375088",
+  "i18n": {
+    "name": {
+      "en": "Ship it",
+      "uk": "Відправити"
+    },
+    "alt": {
+      "en": "Ship it",
+      "uk": "Відправити"
+    },
+    "tags": [
+      {
+        "key": "ship-it",
+        "i18n": {
+          "en": "Ship it",
+          "uk": "Відправити"
+        }
+      },
+      {
+        "key": "ship",
+        "i18n": {
+          "en": "ship",
+          "uk": "корабель"
+        }
+      },
+      {
+        "key": "it",
+        "i18n": {
+          "en": "it",
+          "uk": "it"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/ship-it_vn4g.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 654,
+  "height": 452
+}

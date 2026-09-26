@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-6985120",
+  "mediaKey": "pexels:6985120",
+  "i18n": {
+    "name": {
+      "en": "Dark teal and blue gradient",
+      "uk": "Темний бірюзово-синій градієнт"
+    },
+    "alt": {
+      "en": "Abstract gradient background with blue and green hues, perfect for design projects.",
+      "uk": "Абстрактний градієнтний фон із синіми та зеленими відтінками, який ідеально підходить для дизайнерських проєктів."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "teal",
+        "i18n": {
+          "en": "teal",
+          "uk": "бірюзовий"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/green-and-blue-gradient-6985120/",
+  "sourceName": "Pexels",
+  "authorName": "Codioful (formerly Gradienta)",
+  "authorUrl": "https://www.pexels.com/@codioful",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

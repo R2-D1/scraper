@@ -1,0 +1,80 @@
+{
+  "slug": "silhouette-flower-art-bihqh",
+  "mediaKey": "b74546b6-3dd9-4131-be7e-7b0e5de6cb9c",
+  "i18n": {
+    "name": {
+      "en": "Silhouette Flower Art",
+      "uk": "Мистецтво створення квіткових силуетів"
+    },
+    "alt": {
+      "en": "Silhouette Flower Art",
+      "uk": "Мистецтво створення квіткових силуетів"
+    },
+    "tags": [
+      {
+        "key": "minimalistic-composition",
+        "i18n": {
+          "en": "minimalistic composition",
+          "uk": "мінімалістична композиція"
+        }
+      },
+      {
+        "key": "dramatic-contrast",
+        "i18n": {
+          "en": "dramatic contrast",
+          "uk": "різкий контраст"
+        }
+      },
+      {
+        "key": "organic-form",
+        "i18n": {
+          "en": "organic form",
+          "uk": "органічна форма"
+        }
+      },
+      {
+        "key": "flower-silhouette",
+        "i18n": {
+          "en": "flower silhouette",
+          "uk": "силует квітки"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "nature"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "studiomiklus",
+  "authorUrl": "https://www.lummi.ai/creator/studiomiklus?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A striking silhouette of a flower against a vibrant gradient background transitioning from yellow to green. The flower's stem is dark and slender, while the petals and leaves are semi-translucent, revealing intricate vein patterns. The lighting creates a dramatic contrast, emphasizing the delicate structure of the flower. The composition is minimalistic, with the flower positioned centrally, drawing attention to its organic form. The background's smooth gradient adds depth and a sense of warmth to the image.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 2400,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/silhouette-flower-art-bihqh/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/silhouette-flower-art-bihqh/silhouette-flower-art-bihqh.png",
+  "relativeAssetPath": "library/lummi/images/silhouette-flower-art-bihqh/silhouette-flower-art-bihqh.png"
+}

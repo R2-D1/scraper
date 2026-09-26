@@ -1,0 +1,94 @@
+{
+  "slug": "artistic-neuron-close-up-bi-tf",
+  "mediaKey": "77ed7ec3-466a-42ff-8152-23e8e62b46ed",
+  "i18n": {
+    "name": {
+      "en": "Artistic Neuron Close-Up",
+      "uk": "Художнє зображення нейрона в збільшеному вигляді"
+    },
+    "alt": {
+      "en": "Artistic Neuron Close-Up",
+      "uk": "Художнє зображення нейрона в збільшеному вигляді"
+    },
+    "tags": [
+      {
+        "key": "monochromatic",
+        "i18n": {
+          "en": "Monochromatic",
+          "uk": "Монохроматичний"
+        }
+      },
+      {
+        "key": "black-and-white",
+        "i18n": {
+          "en": "black and white",
+          "uk": "чорно-білий"
+        }
+      },
+      {
+        "key": "artistic-rendering",
+        "i18n": {
+          "en": "artistic rendering",
+          "uk": "художнє зображення"
+        }
+      },
+      {
+        "key": "neuron",
+        "i18n": {
+          "en": "neuron",
+          "uk": "нейрон"
+        }
+      },
+      {
+        "key": "dendrites",
+        "i18n": {
+          "en": "dendrites",
+          "uk": "дендрити"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Nika",
+  "authorUrl": "https://www.lummi.ai/creator/nikadominguez_?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A close-up, artistic rendering of a neuron with its dendrites extending outward. The image is monochromatic, with a high-contrast black and white color scheme. The central cell body is textured and appears almost three-dimensional, with fine, hair-like details radiating from it. The dendrites are elongated and branch out in various directions, with circular patterns along their lengths, resembling synaptic connections. The background is blurred, emphasizing the intricate structure of the neuron.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 2400,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/artistic-neuron-close-up-bi-tf/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/artistic-neuron-close-up-bi-tf/artistic-neuron-close-up-bi-tf.png",
+  "relativeAssetPath": "library/lummi/images/artistic-neuron-close-up-bi-tf/artistic-neuron-close-up-bi-tf.png"
+}

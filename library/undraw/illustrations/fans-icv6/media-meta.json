@@ -1,0 +1,49 @@
+{
+  "slug": "fans-icv6",
+  "mediaKey": "086b0136-66ef-4c72-a145-6d5ba558ca7b",
+  "providerId": "61a754d19679500018b39ce2",
+  "i18n": {
+    "name": {
+      "en": "Fans",
+      "uk": "Вболівальники"
+    },
+    "alt": {
+      "en": "Fans",
+      "uk": "Вболівальники"
+    },
+    "tags": [
+      {
+        "key": "fans",
+        "i18n": {
+          "en": "Fans",
+          "uk": "Вболівальники"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/fans_icv6.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 751,
+  "height": 683
+}

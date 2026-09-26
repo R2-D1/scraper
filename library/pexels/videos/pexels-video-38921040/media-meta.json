@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-38921040",
+  "mediaKey": "pexels:video:38921040",
+  "i18n": {
+    "name": {
+      "en": "Purple Concentric Kaleidoscope",
+      "uk": "Фіолетовий концентричний калейдоскоп"
+    },
+    "alt": {
+      "en": "Pexels video 38921040",
+      "uk": "Відео з Pexels № 38921040"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "kaleidoscope",
+        "i18n": {
+          "en": "kaleidoscope",
+          "uk": "калейдоскоп"
+        }
+      },
+      {
+        "key": "concentric",
+        "i18n": {
+          "en": "concentric",
+          "uk": "концентричний"
+        }
+      },
+      {
+        "key": "symmetry",
+        "i18n": {
+          "en": "symmetry",
+          "uk": "симетрія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/vibrant-abstract-kaleidoscope-animation-loop-38921040/",
+  "sourceName": "Pexels",
+  "authorName": "Colors Motion  Graphics",
+  "authorUrl": "https://www.pexels.com/@colors-motion-graphics-183847699",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 59,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "access-denied-krem",
+  "mediaKey": "2e1f829d-1e43-42a3-acd5-6ebd23661ef4",
+  "providerId": "676de2ba6ca2c8795456de58",
+  "i18n": {
+    "name": {
+      "en": "Access denied",
+      "uk": "Доступ заборонено"
+    },
+    "alt": {
+      "en": "Access denied",
+      "uk": "Доступ заборонено"
+    },
+    "tags": [
+      {
+        "key": "access-denied",
+        "i18n": {
+          "en": "Access denied",
+          "uk": "Доступ заборонено"
+        }
+      },
+      {
+        "key": "access",
+        "i18n": {
+          "en": "access",
+          "uk": "доступ"
+        }
+      },
+      {
+        "key": "denied",
+        "i18n": {
+          "en": "denied",
+          "uk": "відмовлено"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/access-denied_krem.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 742,
+  "height": 713
+}

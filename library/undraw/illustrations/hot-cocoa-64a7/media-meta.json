@@ -1,0 +1,63 @@
+{
+  "slug": "hot-cocoa-64a7",
+  "mediaKey": "ea787056-8d07-4ddd-9067-a6fb19fe38a7",
+  "providerId": "694b2292b86acc3212afe385",
+  "i18n": {
+    "name": {
+      "en": "Hot Cocoa",
+      "uk": "Гаряче какао"
+    },
+    "alt": {
+      "en": "Hot Cocoa",
+      "uk": "Гаряче какао"
+    },
+    "tags": [
+      {
+        "key": "hot-cocoa",
+        "i18n": {
+          "en": "Hot Cocoa",
+          "uk": "Гаряче какао"
+        }
+      },
+      {
+        "key": "hot",
+        "i18n": {
+          "en": "hot",
+          "uk": "гарячий"
+        }
+      },
+      {
+        "key": "cocoa",
+        "i18n": {
+          "en": "cocoa",
+          "uk": "какао"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/hot-cocoa_64a7.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 775
+}

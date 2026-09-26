@@ -1,0 +1,56 @@
+{
+  "slug": "in-progress-2mox",
+  "mediaKey": "6eb8c3a2-4099-4652-bb65-5ca5d217a2bc",
+  "providerId": "6a57aba4939aab611cf25c70",
+  "i18n": {
+    "name": {
+      "en": "In Progress",
+      "uk": "У процесі виконання"
+    },
+    "alt": {
+      "en": "In Progress",
+      "uk": "У процесі виконання"
+    },
+    "tags": [
+      {
+        "key": "in-progress",
+        "i18n": {
+          "en": "In Progress",
+          "uk": "У процесі виконання"
+        }
+      },
+      {
+        "key": "progress",
+        "i18n": {
+          "en": "progress",
+          "uk": "прогрес"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/in-progress_2mox.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 502
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "frosted-translucent-fashion-portrait",
+  "mediaKey": "custom:content:336db77ec9fb5fabc46a1443c5b30296d2054283cec6a09d1e9f42f6261bc7bd",
+  "pinned": true,
+  "collectionSlugs": [
+    "people"
+  ],
+  "sourceContentHash": "336db77ec9fb5fabc46a1443c5b30296d2054283cec6a09d1e9f42f6261bc7bd",
+  "i18n": {
+    "name": {
+      "en": "Frosted Translucent Fashion Portrait",
+      "uk": "Модний портрет у матовому прозорому образі"
+    },
+    "alt": {
+      "en": "Frosted Translucent Fashion Portrait",
+      "uk": "Модний портрет у матовому прозорому образі"
+    },
+    "tags": [
+      {
+        "key": "person",
+        "i18n": {
+          "en": "Person",
+          "uk": "Людина"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "translucent",
+        "i18n": {
+          "en": "Translucent",
+          "uk": "Напівпрозоре"
+        }
+      },
+      {
+        "key": "futuristic",
+        "i18n": {
+          "en": "Futuristic",
+          "uk": "Футуристичне"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "Purple",
+          "uk": "Фіолетовий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "Person",
+        "Portrait",
+        "Translucent",
+        "Futuristic",
+        "Purple"
+      ],
+      "uk": [
+        "Людина",
+        "Портрет",
+        "Напівпрозоре",
+        "Футуристичне",
+        "Фіолетовий"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://divnex.com",
+  "sourceName": "Divnex",
+  "authorName": "Divnex",
+  "authorUrl": "https://divnex.com",
+  "licenseName": "Divnex Asset License",
+  "licenseUrl": "https://divnex.com/asset-license",
+  "width": 2400,
+  "height": 2400
+}

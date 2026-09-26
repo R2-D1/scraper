@@ -1,0 +1,270 @@
+- generic [ref=f55e4]:
+  - navigation [ref=f55e5]:
+    - generic [ref=f55e6]:
+      - generic [ref=f55e7]:
+        - link "Unsplash Home" [ref=f55e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f55e9]
+        - link "Photos" [ref=f55e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f55e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f55e17]:
+        - button "Explore" [ref=f55e18] [cursor=pointer]
+        - button "Collections" [ref=f55e21] [cursor=pointer]
+        - button "Download History" [ref=f55e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f55e28] [cursor=pointer]
+    - generic [ref=f55e31]:
+      - link "Log in / Sign up" [ref=f55e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-hand-holds-a-glowing-light-bulb-z5tSzOtLiSs
+      - button "Language" [ref=f55e35] [cursor=pointer]
+      - button "Menu" [ref=f55e38] [cursor=pointer]
+  - generic [ref=f55e41]:
+    - generic [ref=f55e42]:
+      - navigation [ref=f55e43]:
+        - search "Find visuals sitewide" [ref=f55e45]:
+          - button "Search Unsplash" [ref=f55e46] [cursor=pointer]
+          - combobox [ref=f55e49]:
+            - searchbox "Search Unsplash" [ref=f55e50]
+            - listbox
+          - button "Visual search" [ref=f55e52] [cursor=pointer]
+        - generic [ref=f55e55]:
+          - link "Get Unsplash+" [ref=f55e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f55e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-hand-holds-a-glowing-light-bulb-z5tSzOtLiSs
+        - button "Submit an image" [ref=f55e59] [cursor=pointer]
+      - generic [ref=f55e60]:
+        - generic [ref=f55e61]:
+          - banner [ref=f55e63]:
+            - generic [ref=f55e65]:
+              - link [ref=f55e66] [cursor=pointer]:
+                - /url: /@graficon/illustrations
+              - generic [ref=f55e69]:
+                - link "Graficon Stuff" [ref=f55e70] [cursor=pointer]:
+                  - /url: /@graficon/illustrations
+                - generic [ref=f55e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f55e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-hand-holds-a-glowing-light-bulb-z5tSzOtLiSs
+            - generic [ref=f55e73]:
+              - button "Bookmark" [ref=f55e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f55e77] [cursor=pointer]
+              - button "Edit image" [ref=f55e80] [cursor=pointer]
+              - button "Download" [ref=f55e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f55e90]:
+            - img "A hand holds a glowing light bulb." [ref=f55e91]
+          - generic [ref=f55e92]:
+            - generic [ref=f55e94]:
+              - button "Share this image" [ref=f55e95] [cursor=pointer]:
+                - generic [ref=f55e98]: Share
+              - button "More Actions" [ref=f55e99] [cursor=pointer]
+            - generic [ref=f55e103]:
+              - heading "A hand holds a glowing light bulb." [level=1] [ref=f55e105]
+              - paragraph [ref=f55e109]: Download this illustration of blue, illustration, inspiration, and pink by Graficon Stuff (@graficon)
+              - generic [ref=f55e111]:
+                - generic [ref=f55e116]:
+                  - text: Published on
+                  - time [ref=f55e117]: April 19, 2025
+                - generic [ref=f55e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f55e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f55e124]:
+              - link "blue" [ref=f55e125] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "illustration" [ref=f55e126] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "inspiration" [ref=f55e127] [cursor=pointer]:
+                - /url: /s/illustrations/inspiration
+              - link "pink" [ref=f55e128] [cursor=pointer]:
+                - /url: /s/illustrations/pink
+              - link "dark background" [ref=f55e129] [cursor=pointer]:
+                - /url: /s/illustrations/dark-background
+              - link "hand" [ref=f55e130] [cursor=pointer]:
+                - /url: /s/illustrations/hand
+              - link "innovation" [ref=f55e131] [cursor=pointer]:
+                - /url: /s/illustrations/innovation
+              - link "vector" [ref=f55e132] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "electricity" [ref=f55e133] [cursor=pointer]:
+                - /url: /s/illustrations/electricity
+              - link "idea" [ref=f55e134] [cursor=pointer]:
+                - /url: /s/illustrations/idea
+              - link "creativity" [ref=f55e135] [cursor=pointer]:
+                - /url: /s/illustrations/creativity
+              - link "lamp" [ref=f55e136] [cursor=pointer]:
+                - /url: /s/illustrations/lamp
+              - link "light bulb" [ref=f55e137] [cursor=pointer]:
+                - /url: /s/illustrations/light-bulb
+              - link "solution" [ref=f55e138] [cursor=pointer]:
+                - /url: /s/illustrations/solution
+              - link "problem solving" [ref=f55e139] [cursor=pointer]:
+                - /url: /s/illustrations/problem-solving
+              - link "bulb" [ref=f55e140] [cursor=pointer]:
+                - /url: /s/illustrations/bulb
+              - link "discovery" [ref=f55e141] [cursor=pointer]:
+                - /url: /s/illustrations/discovery
+              - link "concept" [ref=f55e142] [cursor=pointer]:
+                - /url: /s/illustrations/concept
+              - link "vector art" [ref=f55e143] [cursor=pointer]:
+                - /url: /s/illustrations/vector-art
+              - link "illumination" [ref=f55e144] [cursor=pointer]:
+                - /url: /s/illustrations/illumination
+        - generic [ref=f55e147]:
+          - generic [ref=f55e148]:
+            - paragraph [ref=f55e150]: From this series
+            - generic [ref=f55e154]:
+              - link [ref=f55e155] [cursor=pointer]:
+                - /url: /plus?referrer=%2Fillustrations%2Fa-person-is-driving-a-car-at-night-s_wLdnZ_fnM
+              - link [ref=f55e158]:
+                - /url: /illustrations/a-person-is-driving-a-car-at-night-s_wLdnZ_fnM
+                - img "A person is driving a car at night." [ref=f55e159]
+          - generic [ref=f55e160]:
+            - heading "Related images" [level=4] [ref=f55e162]
+            - generic [ref=f55e166]:
+              - generic [ref=f55e167]:
+                - figure [ref=f55e168]:
+                  - generic [ref=f55e170]:
+                    - link [ref=f55e171]:
+                      - /url: /illustrations/a-hand-reaches-for-a-glowing-light-bulb-Uuutij_LeUQ
+                      - img "A hand reaches for a glowing light bulb." [ref=f55e172]
+                    - link [ref=f55e173] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-hand-reaches-for-a-glowing-light-bulb-Uuutij_LeUQ
+                - figure [ref=f55e176]:
+                  - generic [ref=f55e178]:
+                    - link [ref=f55e179]:
+                      - /url: /illustrations/a-hand-holding-a-light-bulb-over-a-globe-BFWnQL-Ncy4
+                      - img "A hand holding a light bulb over a globe" [ref=f55e180]
+                    - link [ref=f55e181] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-hand-holding-a-light-bulb-over-a-globe-BFWnQL-Ncy4
+                - figure [ref=f55e184]:
+                  - generic [ref=f55e186]:
+                    - link [ref=f55e187]:
+                      - /url: /illustrations/a-white-light-bulb-with-a-blue-background-TNyYVNgyxPw
+                      - img "A white light bulb with a blue background" [ref=f55e188]
+                    - link [ref=f55e189] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-white-light-bulb-with-a-blue-background-TNyYVNgyxPw
+                - figure [ref=f55e192]:
+                  - generic [ref=f55e194]:
+                    - link [ref=f55e195]:
+                      - /url: /illustrations/an-idea-bulb-shining-brightly-in-a-hand-2E6p1AmJgBI
+                      - img "An idea bulb shining brightly in a hand." [ref=f55e196]
+                    - link [ref=f55e197] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fan-idea-bulb-shining-brightly-in-a-hand-2E6p1AmJgBI
+                - figure [ref=f55e200]:
+                  - generic [ref=f55e202]:
+                    - link [ref=f55e203]:
+                      - /url: /illustrations/hand-holding-lightbulb-with-geometric-shapes-inside-l5PF1ObheD4
+                      - img "Hand holding lightbulb with geometric shapes inside." [ref=f55e204]
+                    - link [ref=f55e205] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-lightbulb-with-geometric-shapes-inside-l5PF1ObheD4
+                - figure [ref=f55e208]:
+                  - generic [ref=f55e210]:
+                    - link [ref=f55e211]:
+                      - /url: /illustrations/man-holding-a-glowing-lightbulb-representing-an-idea-YE38U8wvhdA
+                      - img "Man holding a glowing lightbulb representing an idea." [ref=f55e212]
+                    - link [ref=f55e213] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fman-holding-a-glowing-lightbulb-representing-an-idea-YE38U8wvhdA
+                - figure [ref=f55e216]:
+                  - generic [ref=f55e218]:
+                    - link [ref=f55e219]:
+                      - /url: /illustrations/a-person-reading-a-book-in-a-light-bulb-LNz4cJjgmWA
+                      - img "a person reading a book in a light bulb" [ref=f55e220]
+                    - link [ref=f55e221] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-reading-a-book-in-a-light-bulb-LNz4cJjgmWA
+              - generic [ref=f55e224]:
+                - figure [ref=f55e225]:
+                  - generic [ref=f55e227]:
+                    - link [ref=f55e228]:
+                      - /url: /illustrations/a-lit-lightbulb-hangs-in-darkness-Mr9tEXWAEF8
+                      - img "A lit lightbulb hangs in darkness." [ref=f55e229]
+                    - link [ref=f55e230] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-lit-lightbulb-hangs-in-darkness-Mr9tEXWAEF8
+                - figure [ref=f55e233]:
+                  - generic [ref=f55e235]:
+                    - link [ref=f55e236]:
+                      - /url: /illustrations/an-image-of-a-light-hanging-from-a-ceiling-egVm8CwyAac
+                      - img "An image of a light hanging from a ceiling" [ref=f55e237]
+                    - link [ref=f55e238] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fan-image-of-a-light-hanging-from-a-ceiling-egVm8CwyAac
+                - figure [ref=f55e241]:
+                  - generic [ref=f55e243]:
+                    - link [ref=f55e244]:
+                      - /url: /illustrations/a-yellow-light-bulb-hanging-from-a-ceiling-Dr9Lod2znPM
+                      - img "A yellow light bulb hanging from a ceiling" [ref=f55e245]
+                    - link [ref=f55e246] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-yellow-light-bulb-hanging-from-a-ceiling-Dr9Lod2znPM
+                - figure [ref=f55e249]:
+                  - generic [ref=f55e251]:
+                    - link [ref=f55e252]:
+                      - /url: /illustrations/a-light-bulb-with-a-plant-inside-of-it-0spxYPhdlw4
+                      - img "A light bulb with a plant inside of it" [ref=f55e253]
+                    - link [ref=f55e254] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-light-bulb-with-a-plant-inside-of-it-0spxYPhdlw4
+                - figure [ref=f55e257]:
+                  - generic [ref=f55e259]:
+                    - link [ref=f55e260]:
+                      - /url: /illustrations/glowing-lightbulb-inside-a-glass-sphere-on-a-platform-9_glugSFg-0
+                      - img "Glowing lightbulb inside a glass sphere on a platform." [ref=f55e261]
+                    - link [ref=f55e262] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fglowing-lightbulb-inside-a-glass-sphere-on-a-platform-9_glugSFg-0
+                - figure [ref=f55e265]:
+                  - generic [ref=f55e267]:
+                    - link [ref=f55e268]:
+                      - /url: /illustrations/businesswoman-leader-holding-big-idea-bulb-creativity-success-illustration-vector-yITxiHafN9s
+                      - img "Businesswoman leader holding big idea bulb Creativity success. illustration Vector" [ref=f55e269]
+                    - link [ref=f55e270] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fbusinesswoman-leader-holding-big-idea-bulb-creativity-success-illustration-vector-yITxiHafN9s
+              - generic [ref=f55e273]:
+                - figure [ref=f55e274]:
+                  - generic [ref=f55e276]:
+                    - link [ref=f55e277]:
+                      - /url: /illustrations/a-hand-holding-a-light-bulb-with-the-word-idea-written-on-it-fvD8VCCGsag
+                      - img "A hand holding a light bulb with the word idea written on it" [ref=f55e278]
+                    - link [ref=f55e279] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-hand-holding-a-light-bulb-with-the-word-idea-written-on-it-fvD8VCCGsag
+                - figure [ref=f55e282]:
+                  - generic [ref=f55e284]:
+                    - link [ref=f55e285]:
+                      - /url: /illustrations/hands-assembling-a-broken-lightbulb-idea-mKhQLvyXlbI
+                      - img "Hands assembling a broken lightbulb idea" [ref=f55e286]
+                    - link [ref=f55e287] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhands-assembling-a-broken-lightbulb-idea-mKhQLvyXlbI
+                - figure [ref=f55e290]:
+                  - generic [ref=f55e292]:
+                    - link [ref=f55e293]:
+                      - /url: /illustrations/a-person-holding-a-light-bulb-in-their-hand-GQxuh-YAQ-0
+                      - img "A person holding a light bulb in their hand" [ref=f55e294]
+                    - link [ref=f55e295] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-holding-a-light-bulb-in-their-hand-GQxuh-YAQ-0
+                - figure [ref=f55e298]:
+                  - generic [ref=f55e300]:
+                    - link [ref=f55e301]:
+                      - /url: /illustrations/a-yellow-light-is-shining-on-a-blue-background-NjdC16HjL_c
+                      - img "A yellow light is shining on a blue background" [ref=f55e302]
+                    - link [ref=f55e303] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-yellow-light-is-shining-on-a-blue-background-NjdC16HjL_c
+                - figure [ref=f55e306]:
+                  - generic [ref=f55e308]:
+                    - link [ref=f55e309]:
+                      - /url: /illustrations/finger-touching-a-light-bulb-with-colorful-switches-Jz6OFLS2KLE
+                      - img "Finger touching a light bulb with colorful switches" [ref=f55e310]
+                    - link [ref=f55e311] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ffinger-touching-a-light-bulb-with-colorful-switches-Jz6OFLS2KLE
+                - figure [ref=f55e314]:
+                  - generic [ref=f55e316]:
+                    - link [ref=f55e317]:
+                      - /url: /illustrations/hand-drawing-a-lightbulb-with-a-pencil-colorful-dots-aiCkwtQQ2ck
+                      - img "Hand drawing a lightbulb with a pencil, colorful dots." [ref=f55e318]
+                    - link [ref=f55e319] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhand-drawing-a-lightbulb-with-a-pencil-colorful-dots-aiCkwtQQ2ck
+                - figure [ref=f55e322]:
+                  - generic [ref=f55e324]:
+                    - link [ref=f55e325]:
+                      - /url: /illustrations/a-bunch-of-light-bulbs-hanging-from-a-ceiling-N4AhXiP2D_w
+                      - img "A bunch of light bulbs hanging from a ceiling" [ref=f55e326]
+                    - link [ref=f55e327] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bunch-of-light-bulbs-hanging-from-a-ceiling-N4AhXiP2D_w
+    - generic:
+      - region "Notifications"

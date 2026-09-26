@@ -1,0 +1,275 @@
+- generic [ref=f7e4]:
+  - navigation [ref=f7e5]:
+    - generic [ref=f7e6]:
+      - generic [ref=f7e7]:
+        - link "Unsplash Home" [ref=f7e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f7e9]
+        - link "Photos" [ref=f7e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f7e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f7e17]:
+        - button "Explore" [ref=f7e18] [cursor=pointer]
+        - button "Collections" [ref=f7e21] [cursor=pointer]
+        - button "Download History" [ref=f7e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f7e28] [cursor=pointer]
+    - generic [ref=f7e31]:
+      - link "Log in / Sign up" [ref=f7e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-cat-peeking-out-of-a-tree-stump-GzLdIENpdC4
+      - button "Language" [ref=f7e35] [cursor=pointer]
+      - button "Menu" [ref=f7e38] [cursor=pointer]
+  - generic [ref=f7e41]:
+    - generic [ref=f7e42]:
+      - navigation [ref=f7e43]:
+        - search "Find visuals sitewide" [ref=f7e45]:
+          - button "Search Unsplash" [ref=f7e46] [cursor=pointer]
+          - combobox [ref=f7e49]:
+            - searchbox "Search Unsplash" [ref=f7e50]
+            - listbox
+          - button "Visual search" [ref=f7e52] [cursor=pointer]
+        - generic [ref=f7e55]:
+          - link "Get Unsplash+" [ref=f7e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f7e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-cat-peeking-out-of-a-tree-stump-GzLdIENpdC4
+        - button "Submit an image" [ref=f7e59] [cursor=pointer]
+      - generic [ref=f7e60]:
+        - generic [ref=f7e61]:
+          - banner [ref=f7e63]:
+            - generic [ref=f7e65]:
+              - link [ref=f7e66] [cursor=pointer]:
+                - /url: /@riswanr_/illustrations
+              - generic [ref=f7e69]:
+                - link "Riswan Ratta" [ref=f7e70] [cursor=pointer]:
+                  - /url: /@riswanr_/illustrations
+                - generic [ref=f7e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f7e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cat-peeking-out-of-a-tree-stump-GzLdIENpdC4
+            - generic [ref=f7e73]:
+              - button "Bookmark" [ref=f7e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f7e77] [cursor=pointer]
+              - button "Edit image" [ref=f7e80] [cursor=pointer]
+              - button "Download" [ref=f7e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f7e90]:
+            - img "A cat peeking out of a tree stump" [ref=f7e91]
+          - generic [ref=f7e92]:
+            - generic [ref=f7e93]:
+              - generic [ref=f7e95]:
+                - heading "Featured in" [level=3] [ref=f7e96]
+                - link "Line Art" [ref=f7e98] [cursor=pointer]:
+                  - /url: /t/line-art
+              - generic [ref=f7e99]:
+                - button "Share this image" [ref=f7e100] [cursor=pointer]:
+                  - generic [ref=f7e103]: Share
+                - button "More Actions" [ref=f7e104] [cursor=pointer]
+            - generic [ref=f7e108]:
+              - heading "A cat peeking out of a tree stump" [level=1] [ref=f7e110]
+              - paragraph [ref=f7e114]: Download this illustration of cat, illustration, white, and graphic design by Riswan Ratta (@riswanr_)
+              - generic [ref=f7e116]:
+                - generic [ref=f7e121]:
+                  - text: Published on
+                  - time [ref=f7e122]: October 3, 2025
+                - generic [ref=f7e126]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f7e127] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f7e129]:
+              - link "cat" [ref=f7e130] [cursor=pointer]:
+                - /url: /s/illustrations/cat
+              - link "illustration" [ref=f7e131] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "white" [ref=f7e132] [cursor=pointer]:
+                - /url: /s/illustrations/white
+              - link "graphic design" [ref=f7e133] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "wood" [ref=f7e134] [cursor=pointer]:
+                - /url: /s/illustrations/wood
+              - link "cute cat" [ref=f7e135] [cursor=pointer]:
+                - /url: /s/illustrations/cute-cat
+              - link "drawing" [ref=f7e136] [cursor=pointer]:
+                - /url: /s/illustrations/drawing
+              - link "minimal" [ref=f7e137] [cursor=pointer]:
+                - /url: /s/illustrations/minimal
+              - link "simple" [ref=f7e138] [cursor=pointer]:
+                - /url: /s/illustrations/simple
+              - link "sketch" [ref=f7e139] [cursor=pointer]:
+                - /url: /s/illustrations/sketch
+              - link "monochrome" [ref=f7e140] [cursor=pointer]:
+                - /url: /s/illustrations/monochrome
+              - link "minimalism" [ref=f7e141] [cursor=pointer]:
+                - /url: /s/illustrations/minimalism
+              - link "cute animal" [ref=f7e142] [cursor=pointer]:
+                - /url: /s/illustrations/cute-animal
+              - link "line art" [ref=f7e143] [cursor=pointer]:
+                - /url: /s/illustrations/line-art
+              - link "simplicity" [ref=f7e144] [cursor=pointer]:
+                - /url: /s/illustrations/simplicity
+              - link "tree stump" [ref=f7e145] [cursor=pointer]:
+                - /url: /s/illustrations/tree-stump
+              - link "line drawing" [ref=f7e146] [cursor=pointer]:
+                - /url: /s/illustrations/line-drawing
+              - link "hand drawn" [ref=f7e147] [cursor=pointer]:
+                - /url: /s/illustrations/hand-drawn
+              - link "outline" [ref=f7e148] [cursor=pointer]:
+                - /url: /s/illustrations/outline
+              - link "minimalist art" [ref=f7e149] [cursor=pointer]:
+                - /url: /s/illustrations/minimalist-art
+        - generic [ref=f7e152]:
+          - generic [ref=f7e153]:
+            - paragraph [ref=f7e155]: From this series
+            - generic [ref=f7e159]:
+              - link [ref=f7e160] [cursor=pointer]:
+                - /url: /plus?referrer=%2Fillustrations%2Fa-happy-cat-rests-on-a-fluffy-cloud-QIG48Sg_Eok
+              - link [ref=f7e163]:
+                - /url: /illustrations/a-happy-cat-rests-on-a-fluffy-cloud-QIG48Sg_Eok
+                - img "A happy cat rests on a fluffy cloud." [ref=f7e164]
+          - generic [ref=f7e165]:
+            - heading "Related images" [level=4] [ref=f7e167]
+            - generic [ref=f7e171]:
+              - generic [ref=f7e172]:
+                - figure [ref=f7e173]:
+                  - generic [ref=f7e175]:
+                    - link [ref=f7e176]:
+                      - /url: /illustrations/a-cartoon-cat-hangs-from-a-tree-branch-9glK7mhfDLM
+                      - img "A cartoon cat hangs from a tree branch" [ref=f7e177]
+                    - link [ref=f7e178] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-cat-hangs-from-a-tree-branch-9glK7mhfDLM
+                - figure [ref=f7e181]:
+                  - generic [ref=f7e183]:
+                    - link [ref=f7e184]:
+                      - /url: /illustrations/a-simple-line-drawing-of-a-cat--MAw-mgOPLk
+                      - img "A simple line drawing of a cat." [ref=f7e185]
+                    - link [ref=f7e186] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-simple-line-drawing-of-a-cat--MAw-mgOPLk
+                - figure [ref=f7e189]:
+                  - generic [ref=f7e191]:
+                    - link [ref=f7e192]:
+                      - /url: /illustrations/a-cute-cat-peeking-out-from-a-hole-4dpt35Rm0d8
+                      - img "A cute cat peeking out from a hole." [ref=f7e193]
+                    - link [ref=f7e194] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cute-cat-peeking-out-from-a-hole-4dpt35Rm0d8
+                - figure [ref=f7e197]:
+                  - generic [ref=f7e199]:
+                    - link [ref=f7e200]:
+                      - /url: /illustrations/a-cartoon-bear-sits-on-a-tree-branch-jpvqmQro1LA
+                      - img "A cartoon bear sits on a tree branch." [ref=f7e201]
+                    - link [ref=f7e202] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-bear-sits-on-a-tree-branch-jpvqmQro1LA
+                - figure [ref=f7e205]:
+                  - generic [ref=f7e207]:
+                    - link [ref=f7e208]:
+                      - /url: /illustrations/a-cute-cat-peeking-out-of-a-basket-XWE_uZo9SnY
+                      - img "A cute cat peeking out of a basket" [ref=f7e209]
+                    - link [ref=f7e210] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cute-cat-peeking-out-of-a-basket-XWE_uZo9SnY
+                - figure [ref=f7e213]:
+                  - generic [ref=f7e215]:
+                    - link [ref=f7e216]:
+                      - /url: /illustrations/a-smiling-cartoon-cat-with-spots-sits-on-grass-bnaH6rjj-Hc
+                      - img "A smiling cartoon cat with spots sits on grass" [ref=f7e217]
+                    - link [ref=f7e218] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-smiling-cartoon-cat-with-spots-sits-on-grass-bnaH6rjj-Hc
+                - figure [ref=f7e221]:
+                  - generic [ref=f7e223]:
+                    - link [ref=f7e224]:
+                      - /url: /illustrations/a-line-drawing-of-a-cat-lying-down-MbGn6Y1B5FI
+                      - img "A line drawing of a cat lying down." [ref=f7e225]
+                    - link [ref=f7e226] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-line-drawing-of-a-cat-lying-down-MbGn6Y1B5FI
+              - generic [ref=f7e229]:
+                - figure [ref=f7e230]:
+                  - generic [ref=f7e232]:
+                    - link [ref=f7e233]:
+                      - /url: /illustrations/a-mug-shaped-like-a-tree-stump-with-steam-H5URCZCSuy4
+                      - img "A mug shaped like a tree stump with steam." [ref=f7e234]
+                    - link [ref=f7e235] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-mug-shaped-like-a-tree-stump-with-steam-H5URCZCSuy4
+                - figure [ref=f7e238]:
+                  - generic [ref=f7e240]:
+                    - link [ref=f7e241]:
+                      - /url: /illustrations/a-simple-line-drawing-of-a-cat-rolling-sLm3SibxCUY
+                      - img "A simple line drawing of a cat rolling." [ref=f7e242]
+                    - link [ref=f7e243] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-simple-line-drawing-of-a-cat-rolling-sLm3SibxCUY
+                - figure [ref=f7e246]:
+                  - generic [ref=f7e248]:
+                    - link [ref=f7e249]:
+                      - /url: /illustrations/a-sleeping-cat-is-dreaming-zzzzz-AdP1bNWkwdE
+                      - img "A sleeping cat is dreaming zzzzz." [ref=f7e250]
+                    - link [ref=f7e251] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-sleeping-cat-is-dreaming-zzzzz-AdP1bNWkwdE
+                - figure [ref=f7e254]:
+                  - generic [ref=f7e256]:
+                    - link [ref=f7e257]:
+                      - /url: /illustrations/a-red-sketch-of-a-sleeping-cat-JX21DKeSc4U
+                      - img "A red sketch of a sleeping cat" [ref=f7e258]
+                    - link [ref=f7e259] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-red-sketch-of-a-sleeping-cat-JX21DKeSc4U
+                - figure [ref=f7e262]:
+                  - generic [ref=f7e264]:
+                    - link [ref=f7e265]:
+                      - /url: /illustrations/a-simple-line-drawing-of-a-cat-NToBMmFeLfk
+                      - img "A simple line drawing of a cat" [ref=f7e266]
+                    - link [ref=f7e267] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-simple-line-drawing-of-a-cat-NToBMmFeLfk
+                - figure [ref=f7e270]:
+                  - generic [ref=f7e272]:
+                    - link [ref=f7e273]:
+                      - /url: /illustrations/a-sleeping-cat-with-a-ball-of-yarn-Q80c0_P-AjY
+                      - img "A sleeping cat with a ball of yarn" [ref=f7e274]
+                    - link [ref=f7e275] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-sleeping-cat-with-a-ball-of-yarn-Q80c0_P-AjY
+              - generic [ref=f7e278]:
+                - figure [ref=f7e279]:
+                  - generic [ref=f7e281]:
+                    - link [ref=f7e282]:
+                      - /url: /illustrations/a-cute-cat-stands-next-to-a-spiderweb-covered-bowl-4CV-Rexth_M
+                      - img "A cute cat stands next to a spiderweb-covered bowl." [ref=f7e283]
+                    - link [ref=f7e284] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cute-cat-stands-next-to-a-spiderweb-covered-bowl-4CV-Rexth_M
+                - figure [ref=f7e287]:
+                  - generic [ref=f7e289]:
+                    - link [ref=f7e290]:
+                      - /url: /illustrations/a-white-cat-sleeps-next-to-a-potted-plant-7NLt1n9bl5E
+                      - img "A white cat sleeps next to a potted plant." [ref=f7e291]
+                    - link [ref=f7e292] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-white-cat-sleeps-next-to-a-potted-plant-7NLt1n9bl5E
+                - figure [ref=f7e295]:
+                  - generic [ref=f7e297]:
+                    - link [ref=f7e298]:
+                      - /url: /illustrations/a-cartoon-cat-holding-a-steaming-cup-of-coffee-EgFzE9mQRJg
+                      - img "A cartoon cat holding a steaming cup of coffee." [ref=f7e299]
+                    - link [ref=f7e300] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-cat-holding-a-steaming-cup-of-coffee-EgFzE9mQRJg
+                - figure [ref=f7e303]:
+                  - generic [ref=f7e305]:
+                    - link [ref=f7e306]:
+                      - /url: /illustrations/a-cute-cat-is-sleeping-soundly-D3bDSW7SQJE
+                      - img "A cute cat is sleeping soundly" [ref=f7e307]
+                    - link [ref=f7e308] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cute-cat-is-sleeping-soundly-D3bDSW7SQJE
+                - figure [ref=f7e311]:
+                  - generic [ref=f7e313]:
+                    - link [ref=f7e314]:
+                      - /url: /illustrations/a-sleeping-cat-rests-on-a-stack-of-books-iTEv2OouXy0
+                      - img "A sleeping cat rests on a stack of books." [ref=f7e315]
+                    - link [ref=f7e316] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-sleeping-cat-rests-on-a-stack-of-books-iTEv2OouXy0
+                - figure [ref=f7e319]:
+                  - generic [ref=f7e321]:
+                    - link [ref=f7e322]:
+                      - /url: /illustrations/a-cartoon-cat-is-farting-with-a-cloud-of-gas-hGSrP2kavjg
+                      - img "A cartoon cat is farting with a cloud of gas." [ref=f7e323]
+                    - link [ref=f7e324] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-cat-is-farting-with-a-cloud-of-gas-hGSrP2kavjg
+                - figure [ref=f7e327]:
+                  - generic [ref=f7e329]:
+                    - link [ref=f7e330]:
+                      - /url: /illustrations/a-cat-is-resting-in-a-cute-mug-lcWDQyoGcyQ
+                      - img "A cat is resting in a cute mug." [ref=f7e331]
+                    - link [ref=f7e332] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cat-is-resting-in-a-cute-mug-lcWDQyoGcyQ
+    - generic:
+      - region "Notifications"

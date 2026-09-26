@@ -1,0 +1,63 @@
+{
+  "slug": "online-test-cqv0",
+  "mediaKey": "5efe3d7b-643c-488a-803f-be467b503f6c",
+  "providerId": "688a8fd0afaecc172f031069",
+  "i18n": {
+    "name": {
+      "en": "Online Test",
+      "uk": "Онлайн-тест"
+    },
+    "alt": {
+      "en": "Online Test",
+      "uk": "Онлайн-тест"
+    },
+    "tags": [
+      {
+        "key": "online-test",
+        "i18n": {
+          "en": "Online Test",
+          "uk": "Онлайн-тест"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "test",
+        "i18n": {
+          "en": "test",
+          "uk": "тест"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/online-test_cqv0.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 619
+}

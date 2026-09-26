@@ -1,0 +1,57 @@
+{
+  "slug": "white-clouds-and-blue-sky-xz7k6jn-js",
+  "mediaKey": "0909afa8-c293-404f-9c60-87f19edac5dd",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "White clouds in the blue sky",
+      "uk": "Білі хмари на блакитному небі"
+    },
+    "alt": {
+      "en": "White clouds in the blue sky",
+      "uk": "Білі хмари на блакитному небі"
+    },
+    "tags": [
+      {
+        "key": "clouds",
+        "i18n": {
+          "en": "clouds",
+          "uk": "хмари"
+        }
+      },
+      {
+        "key": "grey",
+        "i18n": {
+          "en": "grey",
+          "uk": "сірий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "cloud"
+      ],
+      "uk": [
+        "хмара"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/white-clouds-and-blue-sky--xZ7k6Jn_js",
+  "sourceName": "Unsplash",
+  "authorName": "Jei Lee",
+  "authorUrl": "https://unsplash.com/@babybluecat",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 3600,
+  "collectionSlugs": [
+    "nature"
+  ]
+}

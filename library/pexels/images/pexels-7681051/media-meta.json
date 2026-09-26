@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-7681051",
+  "mediaKey": "pexels:7681051",
+  "i18n": {
+    "name": {
+      "en": "Close-up of a person holding a blue lizard",
+      "uk": "Крупний план людини, яка тримає синю ящірку"
+    },
+    "alt": {
+      "en": "Close-up of a Sphynx cat held by a person, illuminated by dramatic blue lighting.",
+      "uk": "Крупний план кота породи сфінкс, якого тримає людина, у драматичному синьому світлі."
+    },
+    "tags": [
+      {
+        "key": "person",
+        "i18n": {
+          "en": "person",
+          "uk": "людина"
+        }
+      },
+      {
+        "key": "lizard",
+        "i18n": {
+          "en": "lizard",
+          "uk": "ящірка"
+        }
+      },
+      {
+        "key": "reptile",
+        "i18n": {
+          "en": "reptile",
+          "uk": "плазуни"
+        }
+      },
+      {
+        "key": "hands",
+        "i18n": {
+          "en": "hands",
+          "uk": "руки"
+        }
+      },
+      {
+        "key": "blue-light",
+        "i18n": {
+          "en": "blue light",
+          "uk": "синє світло"
+        }
+      },
+      {
+        "key": "close-up",
+        "i18n": {
+          "en": "close-up",
+          "uk": "крупний план"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "animals"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/person-carrying-a-sphynx-cat-7681051/",
+  "sourceName": "Pexels",
+  "authorName": "KoolShooters",
+  "authorUrl": "https://www.pexels.com/@koolshooters",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

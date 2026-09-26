@@ -1,0 +1,97 @@
+{
+  "slug": "sherlock-holmes",
+  "mediaKey": "5fd20a17-99d6-4550-b5bd-832f670c9360",
+  "i18n": {
+    "name": {
+      "en": "The Detective",
+      "uk": "«Детектив»"
+    },
+    "alt": {
+      "en": "The Detective",
+      "uk": "«Детектив»"
+    },
+    "tags": [
+      {
+        "key": "sherlock",
+        "i18n": {
+          "en": "sherlock",
+          "uk": "Шерлок"
+        }
+      },
+      {
+        "key": "holmes",
+        "i18n": {
+          "en": "holmes",
+          "uk": "холмс"
+        }
+      },
+      {
+        "key": "detective",
+        "i18n": {
+          "en": "detective",
+          "uk": "детектив"
+        }
+      },
+      {
+        "key": "investigate",
+        "i18n": {
+          "en": "investigate",
+          "uk": "дослідити"
+        }
+      },
+      {
+        "key": "crime",
+        "i18n": {
+          "en": "crime",
+          "uk": "злочин"
+        }
+      },
+      {
+        "key": "clue",
+        "i18n": {
+          "en": "clue",
+          "uk": "підказка"
+        }
+      },
+      {
+        "key": "magnifying-glass",
+        "i18n": {
+          "en": "magnifying glass",
+          "uk": "лупа"
+        }
+      },
+      {
+        "key": "pipe",
+        "i18n": {
+          "en": "pipe",
+          "uk": "труба"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/sherlock-holmes",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

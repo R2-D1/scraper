@@ -1,0 +1,49 @@
+{
+  "slug": "refresh-szfn",
+  "mediaKey": "75516af2-89d3-470a-9889-95fd7021c6af",
+  "providerId": "6a31c997939aab611cf25c4c",
+  "i18n": {
+    "name": {
+      "en": "Refresh",
+      "uk": "Оновити"
+    },
+    "alt": {
+      "en": "Refresh",
+      "uk": "Оновити"
+    },
+    "tags": [
+      {
+        "key": "refresh",
+        "i18n": {
+          "en": "Refresh",
+          "uk": "Оновити"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/refresh_szfn.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 658,
+  "height": 880
+}

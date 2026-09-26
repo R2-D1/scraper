@@ -1,0 +1,84 @@
+{
+  "slug": "golden-glow-portrait-crlvd",
+  "mediaKey": "fcc020e5-8272-46cd-babc-00bb56b4ae52",
+  "i18n": {
+    "name": {
+      "en": "Golden Glow Portrait",
+      "uk": "Портрет «Золоте сяйво»"
+    },
+    "alt": {
+      "en": "Golden Glow Portrait",
+      "uk": "Портрет «Золоте сяйво»"
+    },
+    "tags": [
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "light-and-shadow",
+        "i18n": {
+          "en": "light and shadow",
+          "uk": "світло й тінь"
+        }
+      },
+      {
+        "key": "dramatic-lighting",
+        "i18n": {
+          "en": "dramatic lighting",
+          "uk": "драматичне освітлення"
+        }
+      },
+      {
+        "key": "modern-photography",
+        "i18n": {
+          "en": "modern photography",
+          "uk": "сучасна фотографія"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/golden-glow-portrait-crlvd",
+  "sourceName": "Lummi",
+  "authorName": "Ajith",
+  "authorUrl": "https://www.lummi.ai/creator/4jith?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A person is depicted in a dimly lit environment with a dramatic interplay of light and shadow. The lighting creates a warm, golden glow that contrasts with the darker background, adding a sense of depth and mystery. The subject's face is partially illuminated, emphasizing their features and creating a striking visual effect. The blurred motion of the light streaks adds a dynamic and surreal quality to the image. The overall composition suggests a modern, artistic approach to portrait photography.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1984,
+  "height": 2400,
+  "mimeType": "image/webp"
+}

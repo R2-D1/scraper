@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-38614445",
+  "mediaKey": "pexels:38614445",
+  "i18n": {
+    "name": {
+      "en": "Glossy black sphere with rainbow reflections",
+      "uk": "Глянцева чорна куля з веселковими відблисками"
+    },
+    "alt": {
+      "en": "A vibrant sphere with red, green, and blue highlights on a gradient backdrop, Valencia.",
+      "uk": "Яскрава куля з червоними, зеленими та синіми відблисками на фоні з градієнтом — «Валенсія»."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "sphere",
+        "i18n": {
+          "en": "sphere",
+          "uk": "сфера"
+        }
+      },
+      {
+        "key": "glossy",
+        "i18n": {
+          "en": "glossy",
+          "uk": "глянцевий"
+        }
+      },
+      {
+        "key": "rainbow",
+        "i18n": {
+          "en": "rainbow",
+          "uk": "веселка"
+        }
+      },
+      {
+        "key": "black",
+        "i18n": {
+          "en": "black",
+          "uk": "чорний"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/colorful-sphere-on-gradient-background-38614445/",
+  "sourceName": "Pexels",
+  "authorName": "Rafael Minguet Delgado",
+  "authorUrl": "https://www.pexels.com/@thales13",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

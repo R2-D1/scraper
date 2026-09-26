@@ -1,0 +1,63 @@
+{
+  "slug": "phone-call-cpf5",
+  "mediaKey": "7dfc51d5-a7c3-4041-a2f3-1f1b7ca38e73",
+  "providerId": "67995586f5f4efbee18188c6",
+  "i18n": {
+    "name": {
+      "en": "Casual Call",
+      "uk": "Неофіційний дзвінок"
+    },
+    "alt": {
+      "en": "Casual Call",
+      "uk": "Неофіційний дзвінок"
+    },
+    "tags": [
+      {
+        "key": "casual-call",
+        "i18n": {
+          "en": "Casual Call",
+          "uk": "Неофіційний дзвінок"
+        }
+      },
+      {
+        "key": "casual",
+        "i18n": {
+          "en": "casual",
+          "uk": "повсякденний"
+        }
+      },
+      {
+        "key": "call",
+        "i18n": {
+          "en": "call",
+          "uk": "виклик"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/phone-call_cpf5.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 880,
+  "height": 537
+}

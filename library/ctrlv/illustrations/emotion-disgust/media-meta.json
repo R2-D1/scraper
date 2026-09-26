@@ -1,0 +1,97 @@
+{
+  "slug": "emotion-disgust",
+  "mediaKey": "8533a5bb-da84-48bc-bc6c-ce45dcee52f4",
+  "i18n": {
+    "name": {
+      "en": "Disgust",
+      "uk": "Огида"
+    },
+    "alt": {
+      "en": "Disgust",
+      "uk": "Огида"
+    },
+    "tags": [
+      {
+        "key": "emotion",
+        "i18n": {
+          "en": "emotion",
+          "uk": "емоція"
+        }
+      },
+      {
+        "key": "disgust",
+        "i18n": {
+          "en": "disgust",
+          "uk": "огида"
+        }
+      },
+      {
+        "key": "repulsed",
+        "i18n": {
+          "en": "repulsed",
+          "uk": "відбитий"
+        }
+      },
+      {
+        "key": "revolted",
+        "i18n": {
+          "en": "revolted",
+          "uk": "повстали"
+        }
+      },
+      {
+        "key": "nauseated",
+        "i18n": {
+          "en": "nauseated",
+          "uk": "нудить"
+        }
+      },
+      {
+        "key": "gross",
+        "i18n": {
+          "en": "gross",
+          "uk": "валовий"
+        }
+      },
+      {
+        "key": "aversion",
+        "i18n": {
+          "en": "aversion",
+          "uk": "відраза"
+        }
+      },
+      {
+        "key": "yuck",
+        "i18n": {
+          "en": "yuck",
+          "uk": "фу"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emotion-disgust",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

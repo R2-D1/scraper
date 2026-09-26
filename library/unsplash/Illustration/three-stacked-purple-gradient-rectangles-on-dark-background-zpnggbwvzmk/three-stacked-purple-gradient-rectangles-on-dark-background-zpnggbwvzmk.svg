@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 841.89 1190.55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_496);
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_413);
+      }
+
+      .cls-3 {
+        fill: url(#Gradiente_sem_nome_486);
+      }
+
+      .cls-4 {
+        fill: #120d16;
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_496" data-name="Gradiente sem nome 496" x1="-1877.3" y1="630.4" x2="-874.73" y2="630.4" gradientTransform="translate(1798.86 -39.33)" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#f5d8fe"/>
+      <stop offset=".04" stop-color="#eac7fc"/>
+      <stop offset=".09" stop-color="#d5a4f8"/>
+      <stop offset=".12" stop-color="#cd97f7"/>
+      <stop offset=".26" stop-color="#4f11e1"/>
+      <stop offset="1" stop-color="#0e0f0d"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_486" data-name="Gradiente sem nome 486" x1="-1624.61" y1="630.4" x2="-1166.05" y2="630.4" gradientTransform="translate(1818.17 -58.64)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5d8fe"/>
+      <stop offset=".22" stop-color="#cd97f7"/>
+      <stop offset=".53" stop-color="#4f11e1"/>
+      <stop offset="1" stop-color="#0e0f0d"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_413" data-name="Gradiente sem nome 413" x1="-1321.26" y1="630.4" x2="-874.73" y2="630.4" gradientTransform="translate(1520.84 238.7)" gradientUnits="userSpaceOnUse">
+      <stop offset=".14" stop-color="#f5d8fe"/>
+      <stop offset=".37" stop-color="#cd97f7"/>
+      <stop offset=".66" stop-color="#4f11e1"/>
+      <stop offset="1" stop-color="#0e0f0d"/>
+    </linearGradient>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g>
+      <rect class="cls-4" width="841.89" height="1190.55"/>
+      <rect class="cls-1" x="-78.44" y="293.74" width="1002.57" height="594.66" rx="59.72" ry="59.72" transform="translate(1013.91 168.23) rotate(90)"/>
+      <rect class="cls-3" x="193.56" y="274.43" width="458.56" height="594.66" rx="60.77" ry="60.77" transform="translate(994.6 148.92) rotate(90)"/>
+      <rect class="cls-2" x="199.58" y="571.77" width="446.52" height="594.66" rx="54.17" ry="54.17" transform="translate(1291.94 446.26) rotate(90)"/>
+    </g>
+  </g>
+</svg>

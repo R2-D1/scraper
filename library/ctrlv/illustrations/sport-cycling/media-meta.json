@@ -1,0 +1,90 @@
+{
+  "slug": "sport-cycling",
+  "mediaKey": "0886f584-46f9-42c8-87c8-fed1f150f0f6",
+  "i18n": {
+    "name": {
+      "en": "Peak Performance",
+      "uk": "Максимальна продуктивність"
+    },
+    "alt": {
+      "en": "Peak Performance",
+      "uk": "Максимальна продуктивність"
+    },
+    "tags": [
+      {
+        "key": "cycling",
+        "i18n": {
+          "en": "cycling",
+          "uk": "велоспорт"
+        }
+      },
+      {
+        "key": "sport",
+        "i18n": {
+          "en": "sport",
+          "uk": "спорт"
+        }
+      },
+      {
+        "key": "bike",
+        "i18n": {
+          "en": "bike",
+          "uk": "велосипед"
+        }
+      },
+      {
+        "key": "bicycle",
+        "i18n": {
+          "en": "bicycle",
+          "uk": "велосипед"
+        }
+      },
+      {
+        "key": "speed",
+        "i18n": {
+          "en": "speed",
+          "uk": "швидкість"
+        }
+      },
+      {
+        "key": "athlete",
+        "i18n": {
+          "en": "athlete",
+          "uk": "атлет"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/sport-cycling",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

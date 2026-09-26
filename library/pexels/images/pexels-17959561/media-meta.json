@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-17959561",
+  "mediaKey": "pexels:17959561",
+  "i18n": {
+    "name": {
+      "en": "Man lifting a dumbbell in the gym",
+      "uk": "Чоловік підіймає гантелю в залі"
+    },
+    "alt": {
+      "en": "Focused man exercising with dumbbells in a modern gym setting.",
+      "uk": "Зосереджений чоловік, який займається з гантелями в сучасному тренажерному залі."
+    },
+    "tags": [
+      {
+        "key": "weightlifting",
+        "i18n": {
+          "en": "weightlifting",
+          "uk": "важка атлетика"
+        }
+      },
+      {
+        "key": "gym",
+        "i18n": {
+          "en": "gym",
+          "uk": "спортзал"
+        }
+      },
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "dumbbell",
+        "i18n": {
+          "en": "dumbbell",
+          "uk": "гантеля"
+        }
+      },
+      {
+        "key": "fitness",
+        "i18n": {
+          "en": "fitness",
+          "uk": "фітнес"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/man-in-a-tank-top-exercising-with-dumbbells-17959561/",
+  "sourceName": "Pexels",
+  "authorName": "Hamid Tajik",
+  "authorUrl": "https://www.pexels.com/@hamidtajikph",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

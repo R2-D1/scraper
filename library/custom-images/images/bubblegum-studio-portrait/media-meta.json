@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "bubblegum-studio-portrait",
+  "mediaKey": "custom:content:092c7c2a22a43a00f9f27af832e1edc6a1c54c02ff4684b4c18d2dd2eadfee4c",
+  "pinned": true,
+  "collectionSlugs": [
+    "people"
+  ],
+  "sourceContentHash": "092c7c2a22a43a00f9f27af832e1edc6a1c54c02ff4684b4c18d2dd2eadfee4c",
+  "i18n": {
+    "name": {
+      "en": "Bubblegum Studio Portrait",
+      "uk": "Студійний портрет із жувальною гумкою"
+    },
+    "alt": {
+      "en": "Bubblegum Studio Portrait",
+      "uk": "Студійний портрет із жувальною гумкою"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "bubblegum",
+        "i18n": {
+          "en": "Bubblegum",
+          "uk": "Жувальна гумка"
+        }
+      },
+      {
+        "key": "sunglasses",
+        "i18n": {
+          "en": "Sunglasses",
+          "uk": "Сонцезахисні окуляри"
+        }
+      },
+      {
+        "key": "studio",
+        "i18n": {
+          "en": "Studio",
+          "uk": "Студія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "Woman",
+        "Portrait",
+        "Bubblegum",
+        "Sunglasses",
+        "Studio"
+      ],
+      "uk": [
+        "Жінка",
+        "Портрет",
+        "Жувальна гумка",
+        "Сонцезахисні окуляри",
+        "Студія"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://divnex.com",
+  "sourceName": "Divnex",
+  "authorName": "Divnex",
+  "authorUrl": "https://divnex.com",
+  "licenseName": "Divnex Asset License",
+  "licenseUrl": "https://divnex.com/asset-license",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/custom-images/images/bubblegum-studio-portrait/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/custom-images/images/bubblegum-studio-portrait/bubblegum-studio-portrait.png",
+  "thumbnailPath": "/Users/taras/HOLE/Projects/scraper/tmp/custom-images/images/bubblegum-studio-portrait/bubblegum-studio-portrait_thumb.webp",
+  "relativeAssetPath": "library/custom-images/images/bubblegum-studio-portrait/bubblegum-studio-portrait.png",
+  "width": 2400,
+  "height": 3000
+}

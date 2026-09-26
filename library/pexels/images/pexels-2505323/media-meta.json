@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-2505323",
+  "mediaKey": "pexels:2505323",
+  "i18n": {
+    "name": {
+      "en": "Woman in a red-lit portrait",
+      "uk": "Жінка в портреті при червоному світлі"
+    },
+    "alt": {
+      "en": "A striking portrait of a young woman with colorful makeup, set against a muted background.",
+      "uk": "Яскравий портрет молодої жінки з барвистим макіяжем на тлі стриманого фону."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "red-light",
+        "i18n": {
+          "en": "red light",
+          "uk": "червоне світло"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-wearing-a-sweater-2505323/",
+  "sourceName": "Pexels",
+  "authorName": "Bruno Thethe",
+  "authorUrl": "https://www.pexels.com/@bruthethe",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

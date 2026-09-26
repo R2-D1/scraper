@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-17720171",
+  "mediaKey": "pexels:17720171",
+  "i18n": {
+    "name": {
+      "en": "Two koi fish swimming in dark water",
+      "uk": "Дві рибки коі, що плавають у темній воді"
+    },
+    "alt": {
+      "en": "Vibrant koi fish swimming in a dark pond, showcasing their colorful patterns and elegant movement.",
+      "uk": "Яскраві коропи коі, що плавають у темному ставку, демонструючи свої барвисті візерунки та витончені рухи."
+    },
+    "tags": [
+      {
+        "key": "koi-fish",
+        "i18n": {
+          "en": "koi fish",
+          "uk": "короп кої"
+        }
+      },
+      {
+        "key": "fish",
+        "i18n": {
+          "en": "fish",
+          "uk": "риба"
+        }
+      },
+      {
+        "key": "swimming",
+        "i18n": {
+          "en": "swimming",
+          "uk": "плавання"
+        }
+      },
+      {
+        "key": "dark-water",
+        "i18n": {
+          "en": "dark water",
+          "uk": "темна вода"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "white",
+        "i18n": {
+          "en": "white",
+          "uk": "білий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "animals"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/koi-fish-in-water-17720171/",
+  "sourceName": "Pexels",
+  "authorName": "Mathias Reding",
+  "authorUrl": "https://www.pexels.com/@matreding",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "cinematic-light-portrait-bc3sf",
+  "mediaKey": "aabb654d-42b9-4b5d-a3d4-b3dcc81e6da3",
+  "i18n": {
+    "name": {
+      "en": "Cinematic Light Portrait",
+      "uk": "Кінематографічний світловий портрет"
+    },
+    "alt": {
+      "en": "Cinematic Light Portrait",
+      "uk": "Кінематографічний світловий портрет"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "cinematic",
+        "i18n": {
+          "en": "Cinematic",
+          "uk": "Кінематографічний"
+        }
+      },
+      {
+        "key": "vibrant",
+        "i18n": {
+          "en": "Vibrant",
+          "uk": "Яскравий"
+        }
+      },
+      {
+        "key": "low-light",
+        "i18n": {
+          "en": "low-light",
+          "uk": "при слабкому освітленні"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/cinematic-light-portrait-bc3sf",
+  "sourceName": "Lummi",
+  "authorName": "Ajith",
+  "authorUrl": "https://www.lummi.ai/creator/4jith?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A young woman is depicted in a low-light setting, illuminated by vibrant streaks of red and blue light. Her expression is contemplative, and her gaze is directed slightly away from the camera. The background is dark, enhancing the contrast with the colorful light trails that add a dynamic and modern feel to the composition. Her hair is shoulder-length and dark, complementing the overall moody atmosphere of the scene. The interplay of light and shadow creates a cinematic and artistic effect.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1984,
+  "height": 2400,
+  "mimeType": "image/webp"
+}

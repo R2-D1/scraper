@@ -1,0 +1,76 @@
+{
+  "slug": "scales-of-justice",
+  "mediaKey": "407b1a16-6687-43be-91d5-067dbcfce417",
+  "i18n": {
+    "name": {
+      "en": "Justice",
+      "uk": "Справедливість"
+    },
+    "alt": {
+      "en": "Justice",
+      "uk": "Справедливість"
+    },
+    "tags": [
+      {
+        "key": "law",
+        "i18n": {
+          "en": "law",
+          "uk": "закон"
+        }
+      },
+      {
+        "key": "scales",
+        "i18n": {
+          "en": "scales",
+          "uk": "терези"
+        }
+      },
+      {
+        "key": "justice",
+        "i18n": {
+          "en": "justice",
+          "uk": "правосуддя"
+        }
+      },
+      {
+        "key": "ethics",
+        "i18n": {
+          "en": "ethics",
+          "uk": "етика"
+        }
+      },
+      {
+        "key": "court",
+        "i18n": {
+          "en": "court",
+          "uk": "суд"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/scales-of-justice",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

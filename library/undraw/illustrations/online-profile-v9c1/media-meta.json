@@ -1,0 +1,63 @@
+{
+  "slug": "online-profile-v9c1",
+  "mediaKey": "4efec074-88c2-4410-a9bc-6f220067b7b6",
+  "providerId": "6913b5767bc5ae5cf7587815",
+  "i18n": {
+    "name": {
+      "en": "Online Profile",
+      "uk": "Профіль в Інтернеті"
+    },
+    "alt": {
+      "en": "Online Profile",
+      "uk": "Профіль в Інтернеті"
+    },
+    "tags": [
+      {
+        "key": "online-profile",
+        "i18n": {
+          "en": "Online Profile",
+          "uk": "Профіль в Інтернеті"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "profile",
+        "i18n": {
+          "en": "profile",
+          "uk": "профіль"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/online-profile_v9c1.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 768,
+  "height": 800
+}

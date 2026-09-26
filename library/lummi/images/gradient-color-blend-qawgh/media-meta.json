@@ -1,0 +1,73 @@
+{
+  "slug": "gradient-color-blend-qawgh",
+  "mediaKey": "0bc77a04-9391-42a8-a66b-f73305dff9de",
+  "i18n": {
+    "name": {
+      "en": "Gradient Color Blend",
+      "uk": "Градиєнтне змішування кольорів"
+    },
+    "alt": {
+      "en": "Gradient Color Blend",
+      "uk": "Градиєнтне змішування кольорів"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "Gradient",
+          "uk": "Градієнт"
+        }
+      },
+      {
+        "key": "soft-colors",
+        "i18n": {
+          "en": "soft colors",
+          "uk": "м'які кольори"
+        }
+      },
+      {
+        "key": "visual-effect",
+        "i18n": {
+          "en": "visual effect",
+          "uk": "візуальний ефект"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Sam Stoof",
+  "authorUrl": "https://www.lummi.ai/creator/samstoof?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A gradient of colors blending seamlessly from pink to purple to green, creating a soft and abstract visual effect.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1796,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/gradient-color-blend-qawgh/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/gradient-color-blend-qawgh/gradient-color-blend-qawgh.png",
+  "relativeAssetPath": "library/lummi/images/gradient-color-blend-qawgh/gradient-color-blend-qawgh.png"
+}

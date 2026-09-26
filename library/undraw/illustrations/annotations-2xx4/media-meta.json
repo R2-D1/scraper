@@ -1,0 +1,49 @@
+{
+  "slug": "annotations-2xx4",
+  "mediaKey": "d422f11e-850f-426f-b0c1-5a59e688459e",
+  "providerId": "69fe67e079740242d59ddb0a",
+  "i18n": {
+    "name": {
+      "en": "Annotations",
+      "uk": "Коментарі"
+    },
+    "alt": {
+      "en": "Annotations",
+      "uk": "Коментарі"
+    },
+    "tags": [
+      {
+        "key": "annotations",
+        "i18n": {
+          "en": "Annotations",
+          "uk": "Коментарі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/annotations_2xx4.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 649
+}

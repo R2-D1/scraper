@@ -1,0 +1,49 @@
+{
+  "slug": "grades-hqyk",
+  "mediaKey": "555d2c1d-cc09-44d3-9631-f0b9aa65ff92",
+  "providerId": "6156e5e8283ced0017fc6cc2",
+  "i18n": {
+    "name": {
+      "en": "Grades",
+      "uk": "Оцінки"
+    },
+    "alt": {
+      "en": "Grades",
+      "uk": "Оцінки"
+    },
+    "tags": [
+      {
+        "key": "grades",
+        "i18n": {
+          "en": "Grades",
+          "uk": "Оцінки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/grades_hqyk.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 884,
+  "height": 478
+}

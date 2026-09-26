@@ -1,0 +1,87 @@
+{
+  "slug": "abstract-gradient-composition-pbm-c",
+  "mediaKey": "bf320059-17bd-4664-8574-23c594b3f494",
+  "i18n": {
+    "name": {
+      "en": "Abstract Gradient Composition",
+      "uk": "Абстрактна градієнтна композиція"
+    },
+    "alt": {
+      "en": "Abstract Gradient Composition",
+      "uk": "Абстрактна градієнтна композиція"
+    },
+    "tags": [
+      {
+        "key": "dynamic",
+        "i18n": {
+          "en": "Dynamic",
+          "uk": "Динамічний"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "Blue",
+          "uk": "Синій"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "fluid",
+        "i18n": {
+          "en": "Fluid",
+          "uk": "Рідина"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "Gradient",
+          "uk": "Градієнт"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Nika",
+  "authorUrl": "https://www.lummi.ai/creator/nikadominguez_?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A minimalist abstract design featuring a gradient blend of deep black, vibrant blue, and soft white. The colors transition smoothly, creating a fluid, wave-like effect. The black occupies the left side, blending into a rich blue in the center, which then fades into white on the right. The gradient has a soft, blurred texture, giving the image a dreamy and ethereal quality. The composition is simple yet striking, with the interplay of colors drawing the viewer's attention.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1632,
+  "height": 2912,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/abstract-gradient-composition-pbm-c/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/abstract-gradient-composition-pbm-c/abstract-gradient-composition-pbm-c.png",
+  "relativeAssetPath": "library/lummi/images/abstract-gradient-composition-pbm-c/abstract-gradient-composition-pbm-c.png"
+}

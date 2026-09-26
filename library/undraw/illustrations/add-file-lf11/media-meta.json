@@ -1,0 +1,63 @@
+{
+  "slug": "add-file-lf11",
+  "mediaKey": "3dcd8f70-de4c-4d82-9bbc-d554d5fe7e7b",
+  "providerId": "688138be2b510f078ce50dce",
+  "i18n": {
+    "name": {
+      "en": "Add File",
+      "uk": "Додати файл"
+    },
+    "alt": {
+      "en": "Add File",
+      "uk": "Додати файл"
+    },
+    "tags": [
+      {
+        "key": "add-file",
+        "i18n": {
+          "en": "Add File",
+          "uk": "Додати файл"
+        }
+      },
+      {
+        "key": "add",
+        "i18n": {
+          "en": "add",
+          "uk": "додати"
+        }
+      },
+      {
+        "key": "file",
+        "i18n": {
+          "en": "file",
+          "uk": "файл"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/add-file_lf11.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 654,
+  "height": 452
+}

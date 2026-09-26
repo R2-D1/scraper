@@ -1,0 +1,63 @@
+{
+  "slug": "not-found-6bgl",
+  "mediaKey": "3cd9a20b-36dc-4112-9f4c-921a4db26e12",
+  "providerId": "63760ab0be8d690018a841d0",
+  "i18n": {
+    "name": {
+      "en": "Not found",
+      "uk": "Не знайдено"
+    },
+    "alt": {
+      "en": "Not found",
+      "uk": "Не знайдено"
+    },
+    "tags": [
+      {
+        "key": "not-found",
+        "i18n": {
+          "en": "Not found",
+          "uk": "Не знайдено"
+        }
+      },
+      {
+        "key": "not",
+        "i18n": {
+          "en": "not",
+          "uk": "ні"
+        }
+      },
+      {
+        "key": "found",
+        "i18n": {
+          "en": "found",
+          "uk": "знайдено"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/not-found_6bgl.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 656,
+  "height": 459
+}

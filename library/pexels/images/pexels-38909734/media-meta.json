@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-38909734",
+  "mediaKey": "pexels:38909734",
+  "i18n": {
+    "name": {
+      "en": "Person walking through teal light",
+      "uk": "Людина, що йде крізь блакитне світло"
+    },
+    "alt": {
+      "en": "A person walking through a teal-lit scene with motion blur.",
+      "uk": "Людина, що йде крізь освітлену блакитно-зеленим світлом сцену з ефектом розмиття руху."
+    },
+    "tags": [
+      {
+        "key": "person",
+        "i18n": {
+          "en": "person",
+          "uk": "людина"
+        }
+      },
+      {
+        "key": "walking",
+        "i18n": {
+          "en": "walking",
+          "uk": "ходьба"
+        }
+      },
+      {
+        "key": "motion-blur",
+        "i18n": {
+          "en": "motion blur",
+          "uk": "розмиття в русі"
+        }
+      },
+      {
+        "key": "teal-light",
+        "i18n": {
+          "en": "teal light",
+          "uk": "бірюзове світло"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/38909734/",
+  "sourceName": "Pexels",
+  "authorName": "Aj Collins  Artistry",
+  "authorUrl": "https://www.pexels.com/@aj-collins-artistry-1772576281",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

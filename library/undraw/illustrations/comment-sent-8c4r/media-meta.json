@@ -1,0 +1,63 @@
+{
+  "slug": "comment-sent-8c4r",
+  "mediaKey": "8ca72618-64e5-47d0-9098-55f2e0282eab",
+  "providerId": "6a287c92939aab611cf25c43",
+  "i18n": {
+    "name": {
+      "en": "Comment Sent",
+      "uk": "Коментар надіслано"
+    },
+    "alt": {
+      "en": "Comment Sent",
+      "uk": "Коментар надіслано"
+    },
+    "tags": [
+      {
+        "key": "comment-sent",
+        "i18n": {
+          "en": "Comment Sent",
+          "uk": "Коментар надіслано"
+        }
+      },
+      {
+        "key": "comment",
+        "i18n": {
+          "en": "comment",
+          "uk": "коментар"
+        }
+      },
+      {
+        "key": "sent",
+        "i18n": {
+          "en": "sent",
+          "uk": "надіслано"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/comment-sent_8c4r.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 752,
+  "height": 880
+}

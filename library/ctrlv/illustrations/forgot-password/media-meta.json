@@ -1,0 +1,90 @@
+{
+  "slug": "forgot-password",
+  "mediaKey": "18fb0e7b-759e-44cd-b2d0-f3d1bd49e3e2",
+  "i18n": {
+    "name": {
+      "en": "Forgot Password",
+      "uk": "Забули пароль?"
+    },
+    "alt": {
+      "en": "Forgot Password",
+      "uk": "Забули пароль?"
+    },
+    "tags": [
+      {
+        "key": "password",
+        "i18n": {
+          "en": "password",
+          "uk": "пароль"
+        }
+      },
+      {
+        "key": "reset",
+        "i18n": {
+          "en": "reset",
+          "uk": "скинути"
+        }
+      },
+      {
+        "key": "forgot",
+        "i18n": {
+          "en": "forgot",
+          "uk": "забув"
+        }
+      },
+      {
+        "key": "lock",
+        "i18n": {
+          "en": "lock",
+          "uk": "замок"
+        }
+      },
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "recovery",
+        "i18n": {
+          "en": "recovery",
+          "uk": "відновлення"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/forgot-password",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

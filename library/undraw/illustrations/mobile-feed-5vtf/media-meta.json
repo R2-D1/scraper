@@ -1,0 +1,63 @@
+{
+  "slug": "mobile-feed-5vtf",
+  "mediaKey": "7a61dc0f-94da-4c98-9490-249f0fed0b23",
+  "providerId": "60056ff05f75800017052b8f",
+  "i18n": {
+    "name": {
+      "en": "Mobile feed",
+      "uk": "Мобільний канал новин"
+    },
+    "alt": {
+      "en": "Mobile feed",
+      "uk": "Мобільний канал новин"
+    },
+    "tags": [
+      {
+        "key": "mobile-feed",
+        "i18n": {
+          "en": "Mobile feed",
+          "uk": "Мобільний канал новин"
+        }
+      },
+      {
+        "key": "mobile",
+        "i18n": {
+          "en": "mobile",
+          "uk": "мобільний"
+        }
+      },
+      {
+        "key": "feed",
+        "i18n": {
+          "en": "feed",
+          "uk": "стрічка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/mobile-feed_5vtf.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 768,
+  "height": 729
+}

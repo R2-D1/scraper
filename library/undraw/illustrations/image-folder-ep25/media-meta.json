@@ -1,0 +1,63 @@
+{
+  "slug": "image-folder-ep25",
+  "mediaKey": "7786043c-e395-43bb-a54f-0e17a323c6d4",
+  "providerId": "5f521e08a2b7db0017e27a50",
+  "i18n": {
+    "name": {
+      "en": "Image folder",
+      "uk": "Папка з зображеннями"
+    },
+    "alt": {
+      "en": "Image folder",
+      "uk": "Папка з зображеннями"
+    },
+    "tags": [
+      {
+        "key": "image-folder",
+        "i18n": {
+          "en": "Image folder",
+          "uk": "Папка з зображеннями"
+        }
+      },
+      {
+        "key": "image",
+        "i18n": {
+          "en": "image",
+          "uk": "зображення"
+        }
+      },
+      {
+        "key": "folder",
+        "i18n": {
+          "en": "folder",
+          "uk": "папку"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/image-folder_ep25.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 765,
+  "height": 647
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "wonder-machu-picchu",
+  "mediaKey": "1ddced4c-33fb-43d8-bb7f-31198e7fdca4",
+  "i18n": {
+    "name": {
+      "en": "Machu Picchu",
+      "uk": "Мачу-Пікчу"
+    },
+    "alt": {
+      "en": "Machu Picchu",
+      "uk": "Мачу-Пікчу"
+    },
+    "tags": [
+      {
+        "key": "wonder",
+        "i18n": {
+          "en": "wonder",
+          "uk": "подив"
+        }
+      },
+      {
+        "key": "peru",
+        "i18n": {
+          "en": "peru",
+          "uk": "перу"
+        }
+      },
+      {
+        "key": "machu-picchu",
+        "i18n": {
+          "en": "machu picchu",
+          "uk": "Мачу-Пікчу"
+        }
+      },
+      {
+        "key": "inca",
+        "i18n": {
+          "en": "inca",
+          "uk": "інка"
+        }
+      },
+      {
+        "key": "mountains",
+        "i18n": {
+          "en": "mountains",
+          "uk": "гори"
+        }
+      },
+      {
+        "key": "terraces",
+        "i18n": {
+          "en": "terraces",
+          "uk": "тераси"
+        }
+      },
+      {
+        "key": "landmark",
+        "i18n": {
+          "en": "landmark",
+          "uk": "орієнтир"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/wonder-machu-picchu",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

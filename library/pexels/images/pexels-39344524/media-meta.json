@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-39344524",
+  "mediaKey": "pexels:39344524",
+  "i18n": {
+    "name": {
+      "en": "Close-up portrait of a deer",
+      "uk": "Крупний план оленя"
+    },
+    "alt": {
+      "en": "Close-up of a deer with impressive antlers set against a dark forest background.",
+      "uk": "Крупний план оленя з вражаючими рогами на тлі темного лісу."
+    },
+    "tags": [
+      {
+        "key": "deer",
+        "i18n": {
+          "en": "deer",
+          "uk": "олень"
+        }
+      },
+      {
+        "key": "wildlife",
+        "i18n": {
+          "en": "wildlife",
+          "uk": "дика природа"
+        }
+      },
+      {
+        "key": "animal-portrait",
+        "i18n": {
+          "en": "animal portrait",
+          "uk": "портрет тварини"
+        }
+      },
+      {
+        "key": "close-up",
+        "i18n": {
+          "en": "close up",
+          "uk": "крупний план"
+        }
+      },
+      {
+        "key": "horns",
+        "i18n": {
+          "en": "horns",
+          "uk": "роги"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "animals"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/majestic-deer-with-antlers-in-autumn-forest-39344524/",
+  "sourceName": "Pexels",
+  "authorName": "Luca Cavallin",
+  "authorUrl": "https://www.pexels.com/@luca-cavallin-2163876900",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

@@ -1,0 +1,326 @@
+- generic [ref=f105e4]:
+  - navigation [ref=f105e5]:
+    - generic [ref=f105e6]:
+      - generic [ref=f105e7]:
+        - link "Unsplash Home" [ref=f105e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f105e9]
+        - link "Photos" [ref=f105e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f105e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f105e17]:
+        - button "Explore" [ref=f105e18] [cursor=pointer]
+        - button "Collections" [ref=f105e21] [cursor=pointer]
+        - button "Download History" [ref=f105e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f105e28] [cursor=pointer]
+    - generic [ref=f105e31]:
+      - link "Log in / Sign up" [ref=f105e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-blue-heart-with-game-controller-buttons-inside-r74z_mV5sGc
+      - button "Language" [ref=f105e35] [cursor=pointer]
+      - button "Menu" [ref=f105e38] [cursor=pointer]
+  - generic [ref=f105e41]:
+    - generic [ref=f105e42]:
+      - navigation [ref=f105e43]:
+        - search "Find visuals sitewide" [ref=f105e45]:
+          - button "Search Unsplash" [ref=f105e46] [cursor=pointer]
+          - combobox [ref=f105e49]:
+            - searchbox "Search Unsplash" [ref=f105e50]
+            - listbox
+          - button "Visual search" [ref=f105e52] [cursor=pointer]
+        - generic [ref=f105e55]:
+          - link "Get Unsplash+" [ref=f105e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f105e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-blue-heart-with-game-controller-buttons-inside-r74z_mV5sGc
+        - button "Submit an image" [ref=f105e59] [cursor=pointer]
+      - generic [ref=f105e60]:
+        - generic [ref=f105e61]:
+          - banner [ref=f105e63]:
+            - generic [ref=f105e65]:
+              - link [ref=f105e66] [cursor=pointer]:
+                - /url: /@owl_illustration/illustrations
+              - generic [ref=f105e69]:
+                - link "Owl Illustration Agency" [ref=f105e70] [cursor=pointer]:
+                  - /url: /@owl_illustration/illustrations
+                - generic [ref=f105e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f105e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-blue-heart-with-game-controller-buttons-inside-r74z_mV5sGc
+            - generic [ref=f105e73]:
+              - button "Bookmark" [ref=f105e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f105e77] [cursor=pointer]
+              - button "Edit image" [ref=f105e80] [cursor=pointer]
+              - button "Download" [ref=f105e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f105e90]:
+            - img "A blue heart with game controller buttons inside" [ref=f105e91]
+          - generic [ref=f105e92]:
+            - generic [ref=f105e93]:
+              - generic [ref=f105e95]:
+                - heading "Featured in" [level=3] [ref=f105e96]
+                - link "Illustrations" [ref=f105e98] [cursor=pointer]:
+                  - /url: /illustrations
+              - generic [ref=f105e99]:
+                - button "Share this image" [ref=f105e100] [cursor=pointer]:
+                  - generic [ref=f105e103]: Share
+                - button "More Actions" [ref=f105e104] [cursor=pointer]
+            - generic [ref=f105e108]:
+              - heading "A blue heart with game controller buttons inside" [level=1] [ref=f105e110]
+              - paragraph [ref=f105e114]: Illustration by Oneil https://www.owlillustration.com/portfolio/oneil/
+              - generic [ref=f105e116]:
+                - generic [ref=f105e121]:
+                  - text: Published on
+                  - time [ref=f105e122]: November 7, 2025
+                - generic [ref=f105e126]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f105e127] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f105e129]:
+              - link "technology" [ref=f105e130] [cursor=pointer]:
+                - /url: /s/illustrations/technology
+              - link "blue" [ref=f105e131] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "illustration" [ref=f105e132] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "gaming" [ref=f105e133] [cursor=pointer]:
+                - /url: /s/illustrations/gaming
+              - link "design" [ref=f105e134] [cursor=pointer]:
+                - /url: /s/illustrations/design
+              - link "purple" [ref=f105e135] [cursor=pointer]:
+                - /url: /s/illustrations/purple
+              - link "digital" [ref=f105e136] [cursor=pointer]:
+                - /url: /s/illustrations/digital
+              - link "vector" [ref=f105e137] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "digital art" [ref=f105e138] [cursor=pointer]:
+                - /url: /s/illustrations/digital-art
+              - link "modern" [ref=f105e139] [cursor=pointer]:
+                - /url: /s/illustrations/modern
+              - link "virtual reality" [ref=f105e140] [cursor=pointer]:
+                - /url: /s/illustrations/virtual-reality
+              - link "entertainment" [ref=f105e141] [cursor=pointer]:
+                - /url: /s/illustrations/entertainment
+              - link "esports" [ref=f105e142] [cursor=pointer]:
+                - /url: /s/illustrations/esports
+              - link "augmented reality" [ref=f105e143] [cursor=pointer]:
+                - /url: /s/illustrations/augmented-reality
+              - link "abstract shape" [ref=f105e144] [cursor=pointer]:
+                - /url: /s/illustrations/abstract-shape
+              - link "3d illustration" [ref=f105e145] [cursor=pointer]:
+                - /url: /s/illustrations/3d-illustration
+              - link "game controller" [ref=f105e146] [cursor=pointer]:
+                - /url: /s/illustrations/game-controller
+              - link "isometric" [ref=f105e147] [cursor=pointer]:
+                - /url: /s/illustrations/isometric
+              - link "game design" [ref=f105e148] [cursor=pointer]:
+                - /url: /s/illustrations/game-design
+              - link "blue heart" [ref=f105e149] [cursor=pointer]:
+                - /url: /s/illustrations/blue-heart
+        - generic [ref=f105e152]:
+          - generic [ref=f105e153]:
+            - paragraph [ref=f105e155]: From this series
+            - generic [ref=f105e157]:
+              - button "scroll list to the right" [ref=f105e159] [cursor=pointer]
+              - generic [ref=f105e162]:
+                - generic [ref=f105e163]:
+                  - link [ref=f105e164] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fretro-video-game-controller-with-neon-glow-6IdEQgfFTmU
+                  - link [ref=f105e167]:
+                    - /url: /illustrations/retro-video-game-controller-with-neon-glow-6IdEQgfFTmU
+                    - img "Retro video game controller with neon glow" [ref=f105e168]
+                - generic [ref=f105e169]:
+                  - link [ref=f105e170] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Frow-of-cartoon-characters-behind-glass-screens-PUQ4HX-9vtY
+                  - link [ref=f105e173]:
+                    - /url: /illustrations/row-of-cartoon-characters-behind-glass-screens-PUQ4HX-9vtY
+                    - img "Row of cartoon characters behind glass screens." [ref=f105e174]
+                - generic [ref=f105e175]:
+                  - link [ref=f105e176] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fblue-abstract-structure-with-symbols-and-text-mHGKsykHcwE
+                  - link [ref=f105e179]:
+                    - /url: /illustrations/blue-abstract-structure-with-symbols-and-text-mHGKsykHcwE
+                    - img "Blue abstract structure with symbols and text." [ref=f105e180]
+                - generic [ref=f105e181]:
+                  - link [ref=f105e182] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fdigital-watch-displaying-the-word-cool-epajOOV6P6s
+                  - link [ref=f105e185]:
+                    - /url: /illustrations/digital-watch-displaying-the-word-cool-epajOOV6P6s
+                    - img "Digital watch displaying the word \"cool\"" [ref=f105e186]
+                - generic [ref=f105e187]:
+                  - link [ref=f105e188] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-traffic-light-with-faces-and-colorful-lights-JoV7FW8kt50
+                  - link [ref=f105e191]:
+                    - /url: /illustrations/a-traffic-light-with-faces-and-colorful-lights-JoV7FW8kt50
+                    - img "A traffic light with faces and colorful lights" [ref=f105e192]
+                - generic [ref=f105e193]:
+                  - link [ref=f105e194] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ftwo-purple-hands-making-finger-guns-on-yellow-background-L6Qucm-369I
+                  - link [ref=f105e197]:
+                    - /url: /illustrations/two-purple-hands-making-finger-guns-on-yellow-background-L6Qucm-369I
+                    - img "Two purple hands making finger guns on yellow background" [ref=f105e198]
+                - generic [ref=f105e199]:
+                  - link [ref=f105e200] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-small-plant-grows-from-a-tiled-surface-7lVbzzCp_-c
+                  - link [ref=f105e203]:
+                    - /url: /illustrations/a-small-plant-grows-from-a-tiled-surface-7lVbzzCp_-c
+                    - img "A small plant grows from a tiled surface." [ref=f105e204]
+                - generic [ref=f105e205]:
+                  - link [ref=f105e206] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fpink-hearts-and-emojis-float-around-a-phone-screen-as6iFr9Ch6w
+                  - link [ref=f105e209]:
+                    - /url: /illustrations/pink-hearts-and-emojis-float-around-a-phone-screen-as6iFr9Ch6w
+                    - img "Pink hearts and emojis float around a phone screen." [ref=f105e210]
+                - generic [ref=f105e211]:
+                  - link [ref=f105e212] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-solitary-figure-stands-beneath-a-glowing-light-8fvRCkj_L8o
+                  - link [ref=f105e215]:
+                    - /url: /illustrations/a-solitary-figure-stands-beneath-a-glowing-light-8fvRCkj_L8o
+                    - img "A solitary figure stands beneath a glowing light." [ref=f105e216]
+          - generic [ref=f105e217]:
+            - heading "Related images" [level=4] [ref=f105e219]
+            - generic [ref=f105e223]:
+              - generic [ref=f105e224]:
+                - figure [ref=f105e225]:
+                  - generic [ref=f105e227]:
+                    - link [ref=f105e228]:
+                      - /url: /illustrations/abstract-geometric-design-with-purple-and-orange-gradients-hwVZrtdjH2k
+                      - img "Abstract geometric design with purple and orange gradients" [ref=f105e229]
+                    - link [ref=f105e230] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-geometric-design-with-purple-and-orange-gradients-hwVZrtdjH2k
+                - figure [ref=f105e233]:
+                  - generic [ref=f105e235]:
+                    - link [ref=f105e236]:
+                      - /url: /illustrations/retro-video-game-console-with-a-pixelated-face-Jed01jT3Np0
+                      - img "Retro video game console with a pixelated face." [ref=f105e237]
+                    - link [ref=f105e238] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fretro-video-game-console-with-a-pixelated-face-Jed01jT3Np0
+                - figure [ref=f105e241]:
+                  - generic [ref=f105e243]:
+                    - link [ref=f105e244]:
+                      - /url: /illustrations/a-pink-heart-inside-a-speech-bubble-Mnzf5Tx0bqI
+                      - img "A pink heart inside a speech bubble" [ref=f105e245]
+                    - link [ref=f105e246] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-pink-heart-inside-a-speech-bubble-Mnzf5Tx0bqI
+                - figure [ref=f105e249]:
+                  - generic [ref=f105e251]:
+                    - link [ref=f105e252]:
+                      - /url: /illustrations/pink-padlock-with-arms-inserting-a-key-sHyo7mG7hlQ
+                      - img "Pink padlock with arms inserting a key" [ref=f105e253]
+                    - link [ref=f105e254] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fpink-padlock-with-arms-inserting-a-key-sHyo7mG7hlQ
+                - figure [ref=f105e257]:
+                  - generic [ref=f105e259]:
+                    - link [ref=f105e260]:
+                      - /url: /illustrations/a-poster-of-a-circular-object-with-stars-around-it-K7oKOOqkNBQ
+                      - img "A poster of a circular object with stars around it" [ref=f105e261]
+                    - link [ref=f105e262] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-poster-of-a-circular-object-with-stars-around-it-K7oKOOqkNBQ
+                - figure [ref=f105e265]:
+                  - generic [ref=f105e267]:
+                    - link [ref=f105e268]:
+                      - /url: /illustrations/a-purple-background-with-a-computer-screen-and-a-button-RWMFUZ3QvrQ
+                      - img "A purple background with a computer screen and a button" [ref=f105e269]
+                    - link [ref=f105e270] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-purple-background-with-a-computer-screen-and-a-button-RWMFUZ3QvrQ
+                - figure [ref=f105e273]:
+                  - generic [ref=f105e275]:
+                    - link [ref=f105e276]:
+                      - /url: /illustrations/abstract-geometric-shapes-with-pastel-gradients-and-spheres-Qhf-qe20f7Q
+                      - img "Abstract geometric shapes with pastel gradients and spheres." [ref=f105e277]
+                    - link [ref=f105e278] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-geometric-shapes-with-pastel-gradients-and-spheres-Qhf-qe20f7Q
+              - generic [ref=f105e281]:
+                - figure [ref=f105e282]:
+                  - generic [ref=f105e284]:
+                    - link [ref=f105e285]:
+                      - /url: /illustrations/a-heart-shaped-rainbow-coloured-floating-soap-bubble-creative-vector-illustration-jp_qrMPo0uQ
+                      - img "A heart shaped rainbow coloured floating soap bubble. Creative vector illustration" [ref=f105e286]
+                    - link [ref=f105e287] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-heart-shaped-rainbow-coloured-floating-soap-bubble-creative-vector-illustration-jp_qrMPo0uQ
+                - figure [ref=f105e290]:
+                  - generic [ref=f105e292]:
+                    - link [ref=f105e293]:
+                      - /url: /illustrations/keyhole-revealing-a-starry-pastel-colored-cityscape-ih3B4bKW128
+                      - img "Keyhole revealing a starry, pastel-colored cityscape" [ref=f105e294]
+                    - link [ref=f105e295] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fkeyhole-revealing-a-starry-pastel-colored-cityscape-ih3B4bKW128
+                - figure [ref=f105e298]:
+                  - generic [ref=f105e300]:
+                    - link [ref=f105e301]:
+                      - /url: /illustrations/bright-heart-neon-glowing-vintage-sign-retro-heart-sign-on-purple-background-design-element-for-happy-valentines-day-template-for-your-design-greeting-card-banner-vector-eps-10-illustration-cI-RO4MClEY
+                      - img "Bright heart. Neon glowing vintage sign. Retro heart sign on purple background. Design element for Happy Valentine's Day. Template for your design, greeting card, banner. Vector eps 10 illustration." [ref=f105e302]
+                    - link [ref=f105e303] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fbright-heart-neon-glowing-vintage-sign-retro-heart-sign-on-purple-background-design-element-for-happy-valentines-day-template-for-your-design-greeting-card-banner-vector-eps-10-illustration-cI-RO4MClEY
+                - figure [ref=f105e306]:
+                  - generic [ref=f105e308]:
+                    - link [ref=f105e309]:
+                      - /url: /illustrations/a-blue-background-with-a-bunch-of-different-shapes-ZIJwFpcdJYg
+                      - img "A blue background with a bunch of different shapes" [ref=f105e310]
+                    - link [ref=f105e311] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-blue-background-with-a-bunch-of-different-shapes-ZIJwFpcdJYg
+                - figure [ref=f105e314]:
+                  - generic [ref=f105e316]:
+                    - link [ref=f105e317]:
+                      - /url: /illustrations/3d-bar-chart-on-a-tablet-screen-Kbuds0-SHyA
+                      - img "3D bar chart on a tablet screen" [ref=f105e318]
+                    - link [ref=f105e319] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2F3d-bar-chart-on-a-tablet-screen-Kbuds0-SHyA
+                - figure [ref=f105e322]:
+                  - generic [ref=f105e324]:
+                    - link [ref=f105e325]:
+                      - /url: /illustrations/an-image-of-a-document-with-a-drop-down-arrow-EUz-7mNqcXE
+                      - img "an image of a document with a drop down arrow" [ref=f105e326]
+                    - link [ref=f105e327] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fan-image-of-a-document-with-a-drop-down-arrow-EUz-7mNqcXE
+              - generic [ref=f105e330]:
+                - figure [ref=f105e331]:
+                  - generic [ref=f105e333]:
+                    - link [ref=f105e334]:
+                      - /url: /illustrations/abstract-cube-with-an-eye-on-a-glowing-platform-zqm4SNXNzmI
+                      - img "Abstract cube with an eye on a glowing platform" [ref=f105e335]
+                    - link [ref=f105e336] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-cube-with-an-eye-on-a-glowing-platform-zqm4SNXNzmI
+                - figure [ref=f105e339]:
+                  - generic [ref=f105e341]:
+                    - link [ref=f105e342]:
+                      - /url: /illustrations/a-purple-background-with-an-orange-hexagonal-object-wT2A_ZVB3hA
+                      - img "A purple background with an orange hexagonal object" [ref=f105e343]
+                    - link [ref=f105e344] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-purple-background-with-an-orange-hexagonal-object-wT2A_ZVB3hA
+                - figure [ref=f105e347]:
+                  - generic [ref=f105e349]:
+                    - link [ref=f105e350]:
+                      - /url: /illustrations/abstract-digital-interface-with-layered-elements-6dcP8DtHvWQ
+                      - img "Abstract digital interface with layered elements" [ref=f105e351]
+                    - link [ref=f105e352] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-digital-interface-with-layered-elements-6dcP8DtHvWQ
+                - figure [ref=f105e355]:
+                  - generic [ref=f105e357]:
+                    - link [ref=f105e358]:
+                      - /url: /illustrations/pencil-drawing-on-a-purple-and-blue-abstract-background-Iwl8p1kBsJQ
+                      - img "Pencil drawing on a purple and blue abstract background." [ref=f105e359]
+                    - link [ref=f105e360] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fpencil-drawing-on-a-purple-and-blue-abstract-background-Iwl8p1kBsJQ
+                - figure [ref=f105e363]:
+                  - generic [ref=f105e365]:
+                    - link [ref=f105e366]:
+                      - /url: /illustrations/abstract-gradient-illustration-of-a-glowing-shape-1lfz8gWGF2Y
+                      - img "Abstract gradient illustration of a glowing shape." [ref=f105e367]
+                    - link [ref=f105e368] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-gradient-illustration-of-a-glowing-shape-1lfz8gWGF2Y
+                - figure [ref=f105e371]:
+                  - generic [ref=f105e373]:
+                    - link [ref=f105e374]:
+                      - /url: /illustrations/a-cell-phone-with-a-smiley-face-on-it-fzF4j_GSOxw
+                      - img "A cell phone with a smiley face on it" [ref=f105e375]
+                    - link [ref=f105e376] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cell-phone-with-a-smiley-face-on-it-fzF4j_GSOxw
+                - figure [ref=f105e379]:
+                  - generic [ref=f105e381]:
+                    - link [ref=f105e382]:
+                      - /url: /illustrations/a-purple-and-orange-square-with-an-orange-center-DRh3djee83Y
+                      - img "a purple and orange square with an orange center" [ref=f105e383]
+                    - link [ref=f105e384] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-purple-and-orange-square-with-an-orange-center-DRh3djee83Y
+    - generic:
+      - region "Notifications"

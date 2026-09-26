@@ -1,0 +1,63 @@
+{
+  "slug": "art-museum-pqfw",
+  "mediaKey": "3f4f1055-7d1e-480f-a463-0403509470ce",
+  "providerId": "5cee9804cad55900159e6636",
+  "i18n": {
+    "name": {
+      "en": "Art museum",
+      "uk": "Художній музей"
+    },
+    "alt": {
+      "en": "Art museum",
+      "uk": "Художній музей"
+    },
+    "tags": [
+      {
+        "key": "art-museum",
+        "i18n": {
+          "en": "Art museum",
+          "uk": "Художній музей"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "art",
+          "uk": "мистецтво"
+        }
+      },
+      {
+        "key": "museum",
+        "i18n": {
+          "en": "museum",
+          "uk": "музей"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/art-museum_pqfw.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1046,
+  "height": 639
+}

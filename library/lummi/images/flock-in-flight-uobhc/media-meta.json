@@ -1,0 +1,84 @@
+{
+  "slug": "flock-in-flight-uobhc",
+  "mediaKey": "98cab37b-7588-47df-8234-2e01f78a0d37",
+  "i18n": {
+    "name": {
+      "en": "Flock in Flight",
+      "uk": "Зграя в польоті"
+    },
+    "alt": {
+      "en": "Flock in Flight",
+      "uk": "Зграя в польоті"
+    },
+    "tags": [
+      {
+        "key": "motion",
+        "i18n": {
+          "en": "Motion",
+          "uk": "Рух"
+        }
+      },
+      {
+        "key": "birds",
+        "i18n": {
+          "en": "Birds",
+          "uk": "Птахи"
+        }
+      },
+      {
+        "key": "freedom",
+        "i18n": {
+          "en": "Freedom",
+          "uk": "Свобода"
+        }
+      },
+      {
+        "key": "silhouettes",
+        "i18n": {
+          "en": "Silhouettes",
+          "uk": "Силуети"
+        }
+      },
+      {
+        "key": "black-and-white",
+        "i18n": {
+          "en": "black and white",
+          "uk": "чорно-білий"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/flock-in-flight-uobhc",
+  "sourceName": "Lummi",
+  "authorName": "Nika",
+  "authorUrl": "https://www.lummi.ai/creator/nikadominguez_?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A dynamic black-and-white image captures a flock of birds in mid-flight against a bright, overexposed sky. The birds are in various positions, with their wings spread wide, creating a sense of motion and freedom. The blurred edges of the birds' wings emphasize their movement, giving the image a dreamlike quality. The high contrast between the dark silhouettes of the birds and the pale background enhances their forms and adds drama to the composition. The lack of background details keeps the focus entirely on the birds and their graceful flight.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 2400,
+  "mimeType": "image/webp"
+}

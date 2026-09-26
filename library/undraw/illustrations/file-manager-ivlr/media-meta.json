@@ -1,0 +1,63 @@
+{
+  "slug": "file-manager-ivlr",
+  "mediaKey": "961f0cf9-b566-4e8d-bcfa-802083cccc37",
+  "providerId": "6a56c27a939aab611cf25c6e",
+  "i18n": {
+    "name": {
+      "en": "File Manager",
+      "uk": "Файловий менеджер"
+    },
+    "alt": {
+      "en": "File Manager",
+      "uk": "Файловий менеджер"
+    },
+    "tags": [
+      {
+        "key": "file-manager",
+        "i18n": {
+          "en": "File Manager",
+          "uk": "Файловий менеджер"
+        }
+      },
+      {
+        "key": "file",
+        "i18n": {
+          "en": "file",
+          "uk": "файл"
+        }
+      },
+      {
+        "key": "manager",
+        "i18n": {
+          "en": "manager",
+          "uk": "менеджер"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/file-manager_ivlr.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 880,
+  "height": 569
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "exam-prep-nmly",
+  "mediaKey": "6d96c669-6c5b-40de-891d-d051cd0a8ec2",
+  "providerId": "6928cc5f7a3dddf31c20c251",
+  "i18n": {
+    "name": {
+      "en": "Exam Prep",
+      "uk": "Підготовка до іспитів"
+    },
+    "alt": {
+      "en": "Exam Prep",
+      "uk": "Підготовка до іспитів"
+    },
+    "tags": [
+      {
+        "key": "exam-prep",
+        "i18n": {
+          "en": "Exam Prep",
+          "uk": "Підготовка до іспитів"
+        }
+      },
+      {
+        "key": "exam",
+        "i18n": {
+          "en": "exam",
+          "uk": "іспит"
+        }
+      },
+      {
+        "key": "prep",
+        "i18n": {
+          "en": "prep",
+          "uk": "підготовка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/exam-prep_nmly.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 596
+}

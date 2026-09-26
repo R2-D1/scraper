@@ -1,0 +1,49 @@
+{
+  "slug": "connected-0xor",
+  "mediaKey": "31adaa72-63af-464b-bf9a-4689e3a525e7",
+  "providerId": "6066e52efb15ab0017986daf",
+  "i18n": {
+    "name": {
+      "en": "Connected",
+      "uk": "Підключено"
+    },
+    "alt": {
+      "en": "Connected",
+      "uk": "Підключено"
+    },
+    "tags": [
+      {
+        "key": "connected",
+        "i18n": {
+          "en": "Connected",
+          "uk": "Підключено"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/connected_0xor.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 642,
+  "height": 608
+}

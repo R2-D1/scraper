@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-33539431",
+  "mediaKey": "pexels:33539431",
+  "i18n": {
+    "name": {
+      "en": "Man seated in a red-lit studio",
+      "uk": "Чоловік сидить у студії з червоним світлом"
+    },
+    "alt": {
+      "en": "A man sits on a chair in a red-lit studio.",
+      "uk": "Чоловік сидить на стільці у студії, освітленій червоним світлом."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "red-light",
+        "i18n": {
+          "en": "red light",
+          "uk": "червоне світло"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/33539431/",
+  "sourceName": "Pexels",
+  "authorName": "OUR LORD BISHOP.",
+  "authorUrl": "https://www.pexels.com/@our-lord-bishop-2155024814",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3401
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-28561594",
+  "mediaKey": "pexels:video:28561594",
+  "i18n": {
+    "name": {
+      "en": "Black Geometric Line Network",
+      "uk": "Мережа чорних геометричних ліній"
+    },
+    "alt": {
+      "en": "Pexels video 28561594",
+      "uk": "Відео з Pexels № 28561594"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "black",
+        "i18n": {
+          "en": "black",
+          "uk": "чорний"
+        }
+      },
+      {
+        "key": "lines",
+        "i18n": {
+          "en": "lines",
+          "uk": "лінії"
+        }
+      },
+      {
+        "key": "geometric",
+        "i18n": {
+          "en": "geometric",
+          "uk": "геометричний"
+        }
+      },
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      },
+      {
+        "key": "minimal",
+        "i18n": {
+          "en": "minimal",
+          "uk": "мінімальний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/abstract-digital-plexus-motion-background-28561594/",
+  "sourceName": "Pexels",
+  "authorName": "Chandresh Uike",
+  "authorUrl": "https://www.pexels.com/@chandresh-uike-754623426",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 20,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

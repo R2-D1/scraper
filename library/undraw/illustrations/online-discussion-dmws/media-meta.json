@@ -1,0 +1,63 @@
+{
+  "slug": "online-discussion-dmws",
+  "mediaKey": "2726cfef-637c-415e-b979-93cb2f99c940",
+  "providerId": "6221f5bfe4f8c1001849419f",
+  "i18n": {
+    "name": {
+      "en": "Online discussion",
+      "uk": "Онлайн-дискусія"
+    },
+    "alt": {
+      "en": "Online discussion",
+      "uk": "Онлайн-дискусія"
+    },
+    "tags": [
+      {
+        "key": "online-discussion",
+        "i18n": {
+          "en": "Online discussion",
+          "uk": "Онлайн-дискусія"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "discussion",
+        "i18n": {
+          "en": "discussion",
+          "uk": "обговорення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/online-discussion_dmws.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 562,
+  "height": 487
+}

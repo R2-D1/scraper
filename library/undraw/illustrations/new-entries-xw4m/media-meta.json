@@ -1,0 +1,63 @@
+{
+  "slug": "new-entries-xw4m",
+  "mediaKey": "e1510e73-37aa-4bf6-8717-cf0464a5411d",
+  "providerId": "61028b1edf644e0017480f87",
+  "i18n": {
+    "name": {
+      "en": "New entries",
+      "uk": "Нові записи"
+    },
+    "alt": {
+      "en": "New entries",
+      "uk": "Нові записи"
+    },
+    "tags": [
+      {
+        "key": "new-entries",
+        "i18n": {
+          "en": "New entries",
+          "uk": "Нові записи"
+        }
+      },
+      {
+        "key": "new",
+        "i18n": {
+          "en": "new",
+          "uk": "новий"
+        }
+      },
+      {
+        "key": "entries",
+        "i18n": {
+          "en": "entries",
+          "uk": "записи"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/new-entries_xw4m.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 925,
+  "height": 642
+}

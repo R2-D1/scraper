@@ -1,0 +1,63 @@
+{
+  "slug": "order-a-car-x5mq",
+  "mediaKey": "1a43a463-1ff3-4024-83f0-6e12c61f0eb7",
+  "providerId": "5e1ef0609091750015e91023",
+  "i18n": {
+    "name": {
+      "en": "Order a car",
+      "uk": "Замовити автомобіль"
+    },
+    "alt": {
+      "en": "Order a car",
+      "uk": "Замовити автомобіль"
+    },
+    "tags": [
+      {
+        "key": "order-a-car",
+        "i18n": {
+          "en": "Order a car",
+          "uk": "Замовити автомобіль"
+        }
+      },
+      {
+        "key": "order",
+        "i18n": {
+          "en": "order",
+          "uk": "порядок"
+        }
+      },
+      {
+        "key": "car",
+        "i18n": {
+          "en": "car",
+          "uk": "автомобіль"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/order-a-car_x5mq.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 889,
+  "height": 744
+}

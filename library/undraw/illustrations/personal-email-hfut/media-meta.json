@@ -1,0 +1,63 @@
+{
+  "slug": "personal-email-hfut",
+  "mediaKey": "d3db02e5-eff2-400a-8045-07d217f5dd4a",
+  "providerId": "6093d2f749e71f00178ec16e",
+  "i18n": {
+    "name": {
+      "en": "Personal email",
+      "uk": "Особиста електронна пошта"
+    },
+    "alt": {
+      "en": "Personal email",
+      "uk": "Особиста електронна пошта"
+    },
+    "tags": [
+      {
+        "key": "personal-email",
+        "i18n": {
+          "en": "Personal email",
+          "uk": "Особиста електронна пошта"
+        }
+      },
+      {
+        "key": "personal",
+        "i18n": {
+          "en": "personal",
+          "uk": "особистий"
+        }
+      },
+      {
+        "key": "email",
+        "i18n": {
+          "en": "email",
+          "uk": "електронна пошта"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/personal-email_hfut.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 890,
+  "height": 730
+}

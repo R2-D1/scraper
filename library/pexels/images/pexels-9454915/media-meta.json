@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-9454915",
+  "mediaKey": "pexels:9454915",
+  "i18n": {
+    "name": {
+      "en": "Pink tree floating above a calm sea",
+      "uk": "Рожеве дерево ширяє над спокійним морем"
+    },
+    "alt": {
+      "en": "A surreal pink tree on an isolated island reflecting in calm waters under a vibrant sunset sky.",
+      "uk": "Сюрреалістичне рожеве дерево на відокремленому острові, що відбивається у спокійних водах під яскравим небом під час заходу сонця."
+    },
+    "tags": [
+      {
+        "key": "surrealism",
+        "i18n": {
+          "en": "surrealism",
+          "uk": "сюрреалізм"
+        }
+      },
+      {
+        "key": "tree",
+        "i18n": {
+          "en": "tree",
+          "uk": "дерево"
+        }
+      },
+      {
+        "key": "sea",
+        "i18n": {
+          "en": "sea",
+          "uk": "море"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "surrealism"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/tree-in-the-middle-of-the-sea-9454915/",
+  "sourceName": "Pexels",
+  "authorName": "Mo Eid",
+  "authorUrl": "https://www.pexels.com/@mo-eid-1268975",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2160,
+  "height": 2700
+}

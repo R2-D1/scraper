@@ -1,0 +1,49 @@
+{
+  "slug": "mobile-fxri",
+  "mediaKey": "76ad849e-8a8f-47df-8fb1-e98f1d7b3f52",
+  "providerId": "60bf3e3885452e0017f7d032",
+  "i18n": {
+    "name": {
+      "en": "Mobile",
+      "uk": "Мобільний"
+    },
+    "alt": {
+      "en": "Mobile",
+      "uk": "Мобільний"
+    },
+    "tags": [
+      {
+        "key": "mobile",
+        "i18n": {
+          "en": "Mobile",
+          "uk": "Мобільний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/mobile_fxri.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 752,
+  "height": 682
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "static-assets-di5m",
+  "mediaKey": "fc892212-0950-44ee-8cad-7430aff631cc",
+  "providerId": "5ae058964795100014233b5c",
+  "i18n": {
+    "name": {
+      "en": "Static assets",
+      "uk": "Статичні ресурси"
+    },
+    "alt": {
+      "en": "Static assets",
+      "uk": "Статичні ресурси"
+    },
+    "tags": [
+      {
+        "key": "static-assets",
+        "i18n": {
+          "en": "Static assets",
+          "uk": "Статичні ресурси"
+        }
+      },
+      {
+        "key": "static",
+        "i18n": {
+          "en": "static",
+          "uk": "статичний"
+        }
+      },
+      {
+        "key": "assets",
+        "i18n": {
+          "en": "assets",
+          "uk": "ресурси"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/static-assets_di5m.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1030,
+  "height": 730
+}

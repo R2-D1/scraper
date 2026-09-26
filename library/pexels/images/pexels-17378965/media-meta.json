@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-17378965",
+  "mediaKey": "pexels:17378965",
+  "i18n": {
+    "name": {
+      "en": "Woman resting among wildflowers",
+      "uk": "Жінка відпочиває серед польових квітів"
+    },
+    "alt": {
+      "en": "A woman lies peacefully in a sunlit meadow surrounded by blooming wildflowers, exuding relaxation and natural beauty.",
+      "uk": "Жінка спокійно лежить на сонячній галявині, оточеній квітучими польовими квітами, випромінюючи спокій і природну красу."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "white-dress",
+        "i18n": {
+          "en": "white dress",
+          "uk": "біла сукня"
+        }
+      },
+      {
+        "key": "meadow",
+        "i18n": {
+          "en": "meadow",
+          "uk": "луг"
+        }
+      },
+      {
+        "key": "flowers",
+        "i18n": {
+          "en": "flowers",
+          "uk": "квіти"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-in-white-top-lying-down-on-meadow-17378965/",
+  "sourceName": "Pexels",
+  "authorName": "Jean-Daniel Francoeur",
+  "authorUrl": "https://www.pexels.com/@jean-daniel",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

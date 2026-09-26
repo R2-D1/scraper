@@ -1,0 +1,63 @@
+{
+  "slug": "multiple-choice-9n00",
+  "mediaKey": "0a80deae-4cfa-4ccc-b604-9d481929e352",
+  "providerId": "67b3bea1b7d4aa7dee8ee2e5",
+  "i18n": {
+    "name": {
+      "en": "Multiple Choice",
+      "uk": "Тест із варіантами відповідей"
+    },
+    "alt": {
+      "en": "Multiple Choice",
+      "uk": "Тест із варіантами відповідей"
+    },
+    "tags": [
+      {
+        "key": "multiple-choice",
+        "i18n": {
+          "en": "Multiple Choice",
+          "uk": "Тест із варіантами відповідей"
+        }
+      },
+      {
+        "key": "multiple",
+        "i18n": {
+          "en": "multiple",
+          "uk": "багаторазовий"
+        }
+      },
+      {
+        "key": "choice",
+        "i18n": {
+          "en": "choice",
+          "uk": "вибір"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/multiple-choice_9n00.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 728,
+  "height": 668
+}

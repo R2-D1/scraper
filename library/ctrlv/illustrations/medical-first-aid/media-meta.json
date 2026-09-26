@@ -1,0 +1,104 @@
+{
+  "slug": "medical-first-aid",
+  "mediaKey": "87bccc62-3b36-4ecc-914f-381e58e13dbd",
+  "i18n": {
+    "name": {
+      "en": "First Aid Kit",
+      "uk": "Аптечка першої допомоги"
+    },
+    "alt": {
+      "en": "First Aid Kit",
+      "uk": "Аптечка першої допомоги"
+    },
+    "tags": [
+      {
+        "key": "medical",
+        "i18n": {
+          "en": "medical",
+          "uk": "медичний"
+        }
+      },
+      {
+        "key": "hospital",
+        "i18n": {
+          "en": "hospital",
+          "uk": "лікарня"
+        }
+      },
+      {
+        "key": "health",
+        "i18n": {
+          "en": "health",
+          "uk": "здоров'я"
+        }
+      },
+      {
+        "key": "first-aid",
+        "i18n": {
+          "en": "first aid",
+          "uk": "перша допомога"
+        }
+      },
+      {
+        "key": "kit",
+        "i18n": {
+          "en": "kit",
+          "uk": "комплект"
+        }
+      },
+      {
+        "key": "emergency",
+        "i18n": {
+          "en": "emergency",
+          "uk": "надзвичайна ситуація"
+        }
+      },
+      {
+        "key": "care",
+        "i18n": {
+          "en": "care",
+          "uk": "догляд"
+        }
+      },
+      {
+        "key": "box",
+        "i18n": {
+          "en": "box",
+          "uk": "коробка"
+        }
+      },
+      {
+        "key": "cross",
+        "i18n": {
+          "en": "cross",
+          "uk": "хрестик"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/medical-first-aid",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

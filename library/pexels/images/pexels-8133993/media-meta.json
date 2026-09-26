@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-8133993",
+  "mediaKey": "pexels:8133993",
+  "i18n": {
+    "name": {
+      "en": "People seated at a conference table",
+      "uk": "Люди, що сидять за конференційним столом"
+    },
+    "alt": {
+      "en": "Three professionals engaging in a handshake during a business meeting in a modern office setting.",
+      "uk": "Троє фахівців, які обмінюються рукостисканням під час ділової зустрічі в сучасному офісному приміщенні."
+    },
+    "tags": [
+      {
+        "key": "meeting",
+        "i18n": {
+          "en": "meeting",
+          "uk": "зустріч"
+        }
+      },
+      {
+        "key": "conference",
+        "i18n": {
+          "en": "conference",
+          "uk": "конференція"
+        }
+      },
+      {
+        "key": "business",
+        "i18n": {
+          "en": "business",
+          "uk": "бізнес"
+        }
+      },
+      {
+        "key": "colleagues",
+        "i18n": {
+          "en": "colleagues",
+          "uk": "колеги"
+        }
+      },
+      {
+        "key": "boardroom",
+        "i18n": {
+          "en": "boardroom",
+          "uk": "зала засідань"
+        }
+      },
+      {
+        "key": "office",
+        "i18n": {
+          "en": "office",
+          "uk": "Office"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "business"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/people-sitting-at-the-table-8133993/",
+  "sourceName": "Pexels",
+  "authorName": "Alena Darmel",
+  "authorUrl": "https://www.pexels.com/@a-darmel",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

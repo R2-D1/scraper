@@ -1,0 +1,63 @@
+{
+  "slug": "welcome-cats-tw36",
+  "mediaKey": "72711990-d843-4c97-a7f8-e477351d2b9a",
+  "providerId": "5e43ca6d9f379f001799c6f0",
+  "i18n": {
+    "name": {
+      "en": "Welcome cats",
+      "uk": "Ласкаво просимо, котики!"
+    },
+    "alt": {
+      "en": "Welcome cats",
+      "uk": "Ласкаво просимо, котики!"
+    },
+    "tags": [
+      {
+        "key": "welcome-cats",
+        "i18n": {
+          "en": "Welcome cats",
+          "uk": "Ласкаво просимо, котики!"
+        }
+      },
+      {
+        "key": "welcome",
+        "i18n": {
+          "en": "welcome",
+          "uk": "привіт"
+        }
+      },
+      {
+        "key": "cats",
+        "i18n": {
+          "en": "cats",
+          "uk": "коти"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/welcome-cats_tw36.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 889,
+  "height": 459
+}

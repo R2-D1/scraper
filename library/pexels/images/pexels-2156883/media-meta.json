@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-2156883",
+  "mediaKey": "pexels:2156883",
+  "i18n": {
+    "name": {
+      "en": "Pink neon concentric circles",
+      "uk": "Рожеві неонові концентричні кола"
+    },
+    "alt": {
+      "en": "Vibrant abstract pink bubbles forming a circular pattern against a dark background, creating a cosmic feel.",
+      "uk": "Яскраві абстрактні рожеві бульбашки, що утворюють круговий візерунок на темному тлі, створюють відчуття космічної атмосфери."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "neon",
+        "i18n": {
+          "en": "neon",
+          "uk": "неон"
+        }
+      },
+      {
+        "key": "concentric-circles",
+        "i18n": {
+          "en": "concentric circles",
+          "uk": "концентричні кола"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      },
+      {
+        "key": "black-background",
+        "i18n": {
+          "en": "black background",
+          "uk": "чорний фон"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/graphic-art-2156883/",
+  "sourceName": "Pexels",
+  "authorName": "Anni Roenkae",
+  "authorUrl": "https://www.pexels.com/@anniroenkae",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1800
+}

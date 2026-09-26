@@ -1,0 +1,63 @@
+{
+  "slug": "choose-card-es1o",
+  "mediaKey": "0fd0d295-c907-4c04-b3e3-573ceee0532c",
+  "providerId": "66b3a6a49a490a00160fab11",
+  "i18n": {
+    "name": {
+      "en": "Choose Card",
+      "uk": "Виберіть картку"
+    },
+    "alt": {
+      "en": "Choose Card",
+      "uk": "Виберіть картку"
+    },
+    "tags": [
+      {
+        "key": "choose-card",
+        "i18n": {
+          "en": "Choose Card",
+          "uk": "Виберіть картку"
+        }
+      },
+      {
+        "key": "choose",
+        "i18n": {
+          "en": "choose",
+          "uk": "обрати"
+        }
+      },
+      {
+        "key": "card",
+        "i18n": {
+          "en": "card",
+          "uk": "картка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/choose-card_es1o.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 825,
+  "height": 529
+}

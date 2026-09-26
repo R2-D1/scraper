@@ -1,0 +1,49 @@
+{
+  "slug": "letter-ombg",
+  "mediaKey": "8ba05dfa-fb6f-4136-92c6-1b7e624ade66",
+  "providerId": "5f02f4cf61445000170acddc",
+  "i18n": {
+    "name": {
+      "en": "Letter",
+      "uk": "Лист"
+    },
+    "alt": {
+      "en": "Letter",
+      "uk": "Лист"
+    },
+    "tags": [
+      {
+        "key": "letter",
+        "i18n": {
+          "en": "Letter",
+          "uk": "Лист"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/letter_ombg.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 498,
+  "height": 646
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "new-years-eve",
+  "mediaKey": "3ee8e0cd-af3e-499e-8f2b-da153b39acf4",
+  "i18n": {
+    "name": {
+      "en": "New Year Celebration",
+      "uk": "Святкування Нового року"
+    },
+    "alt": {
+      "en": "New Year Celebration",
+      "uk": "Святкування Нового року"
+    },
+    "tags": [
+      {
+        "key": "new-year",
+        "i18n": {
+          "en": "new year",
+          "uk": "новий рік"
+        }
+      },
+      {
+        "key": "2026",
+        "i18n": {
+          "en": "2026",
+          "uk": "2026"
+        }
+      },
+      {
+        "key": "celebration",
+        "i18n": {
+          "en": "celebration",
+          "uk": "святкування"
+        }
+      },
+      {
+        "key": "countdown",
+        "i18n": {
+          "en": "countdown",
+          "uk": "зворотний відлік"
+        }
+      },
+      {
+        "key": "fireworks",
+        "i18n": {
+          "en": "fireworks",
+          "uk": "феєрверки"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/new-years-eve",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

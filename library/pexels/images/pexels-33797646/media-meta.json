@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-33797646",
+  "mediaKey": "pexels:33797646",
+  "i18n": {
+    "name": {
+      "en": "Curved violet abstract tunnel",
+      "uk": "Вигнутий фіолетовий абстрактний тунель"
+    },
+    "alt": {
+      "en": "Vibrant abstract 3D render with layered curves and soft hues for desktop wallpapers.",
+      "uk": "Яскравий абстрактний 3D-рендер із багатошаровими кривими та м’якими відтінками для робочого столу."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "tunnel",
+        "i18n": {
+          "en": "tunnel",
+          "uk": "тунель"
+        }
+      },
+      {
+        "key": "violet",
+        "i18n": {
+          "en": "violet",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "curves",
+        "i18n": {
+          "en": "curves",
+          "uk": "вигини"
+        }
+      },
+      {
+        "key": "depth",
+        "i18n": {
+          "en": "depth",
+          "uk": "глибина"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/abstract-3d-render-with-curved-patterns-33797646/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

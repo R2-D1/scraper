@@ -1,0 +1,63 @@
+{
+  "slug": "mobile-pay-yho9",
+  "mediaKey": "ab833d66-3125-4bb2-b7b2-3f071154e0fb",
+  "providerId": "5f3a55475add8e0017efcd8d",
+  "i18n": {
+    "name": {
+      "en": "Mobile pay",
+      "uk": "Мобільні платежі"
+    },
+    "alt": {
+      "en": "Mobile pay",
+      "uk": "Мобільні платежі"
+    },
+    "tags": [
+      {
+        "key": "mobile-pay",
+        "i18n": {
+          "en": "Mobile pay",
+          "uk": "Мобільні платежі"
+        }
+      },
+      {
+        "key": "mobile",
+        "i18n": {
+          "en": "mobile",
+          "uk": "мобільний"
+        }
+      },
+      {
+        "key": "pay",
+        "i18n": {
+          "en": "pay",
+          "uk": "платити"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/mobile-pay_yho9.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 856,
+  "height": 674
+}

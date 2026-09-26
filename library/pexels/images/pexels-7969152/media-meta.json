@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-7969152",
+  "mediaKey": "pexels:7969152",
+  "i18n": {
+    "name": {
+      "en": "Traveler taking a photo near historic buildings",
+      "uk": "Мандрівник, який фотографується біля історичних будівель"
+    },
+    "alt": {
+      "en": "Two tourists admire the architecture of a Thai Buddhist temple, capturing the moment.",
+      "uk": "Двоє туристів милуються архітектурою тайського буддійського храму, фіксуючи цей момент на фото."
+    },
+    "tags": [
+      {
+        "key": "traveler",
+        "i18n": {
+          "en": "traveler",
+          "uk": "мандрівник"
+        }
+      },
+      {
+        "key": "photography",
+        "i18n": {
+          "en": "photography",
+          "uk": "фотографія"
+        }
+      },
+      {
+        "key": "historic-architecture",
+        "i18n": {
+          "en": "historic architecture",
+          "uk": "історична архітектура"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "backpack",
+        "i18n": {
+          "en": "backpack",
+          "uk": "рюкзак"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "travel"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/man-and-woman-at-a-temple-7969152/",
+  "sourceName": "Pexels",
+  "authorName": "George Pak",
+  "authorUrl": "https://www.pexels.com/@george-pak",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

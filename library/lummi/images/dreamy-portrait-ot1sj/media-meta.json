@@ -1,0 +1,87 @@
+{
+  "slug": "dreamy-portrait-ot1sj",
+  "mediaKey": "922e352b-90ab-47ab-b494-0aba39c3cc6b",
+  "i18n": {
+    "name": {
+      "en": "Dreamy Portrait",
+      "uk": "Мрійливий портрет"
+    },
+    "alt": {
+      "en": "Dreamy Portrait",
+      "uk": "Мрійливий портрет"
+    },
+    "tags": [
+      {
+        "key": "soft-glow",
+        "i18n": {
+          "en": "soft glow",
+          "uk": "мʼяке світіння"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "red-turtleneck",
+        "i18n": {
+          "en": "red turtleneck",
+          "uk": "червоний гольф"
+        }
+      },
+      {
+        "key": "blue-overlay",
+        "i18n": {
+          "en": "blue overlay",
+          "uk": "синя накладка"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Lloyd Creates",
+  "authorUrl": "https://www.lummi.ai/creator/lloydcreates?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A close-up portrait of a person with fair skin and blue eyes, wearing a red turtleneck sweater. The lighting highlights the subject's facial features, creating a soft glow on their skin. The background is dark, with a blurred reflection of the subject visible on the left side, adding depth to the composition. The image has a dreamy and artistic quality, with a soft blue overlay partially obscuring the view.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1345,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/dreamy-portrait-ot1sj/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/dreamy-portrait-ot1sj/dreamy-portrait-ot1sj.png",
+  "relativeAssetPath": "library/lummi/images/dreamy-portrait-ot1sj/dreamy-portrait-ot1sj.png"
+}

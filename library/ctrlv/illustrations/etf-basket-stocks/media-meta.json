@@ -1,0 +1,83 @@
+{
+  "slug": "etf-basket-stocks",
+  "mediaKey": "d821203f-8366-4db5-8149-8384b98d93b8",
+  "i18n": {
+    "name": {
+      "en": "ETF Basket",
+      "uk": "Кошик ETF"
+    },
+    "alt": {
+      "en": "ETF Basket",
+      "uk": "Кошик ETF"
+    },
+    "tags": [
+      {
+        "key": "etf",
+        "i18n": {
+          "en": "etf",
+          "uk": "ETF"
+        }
+      },
+      {
+        "key": "basket",
+        "i18n": {
+          "en": "basket",
+          "uk": "кошик"
+        }
+      },
+      {
+        "key": "invest",
+        "i18n": {
+          "en": "invest",
+          "uk": "інвестувати"
+        }
+      },
+      {
+        "key": "stock",
+        "i18n": {
+          "en": "stock",
+          "uk": "запас"
+        }
+      },
+      {
+        "key": "finance",
+        "i18n": {
+          "en": "finance",
+          "uk": "фінанси"
+        }
+      },
+      {
+        "key": "index",
+        "i18n": {
+          "en": "index",
+          "uk": "індекс"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/etf-basket-stocks",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

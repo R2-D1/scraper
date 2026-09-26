@@ -1,0 +1,63 @@
+{
+  "slug": "launch-event-aur1",
+  "mediaKey": "a2037e27-58c5-45df-b7bd-96752d27d857",
+  "providerId": "681bc92184e0de115d3a9018",
+  "i18n": {
+    "name": {
+      "en": "Launch Event",
+      "uk": "Презентація"
+    },
+    "alt": {
+      "en": "Launch Event",
+      "uk": "Презентація"
+    },
+    "tags": [
+      {
+        "key": "launch-event",
+        "i18n": {
+          "en": "Launch Event",
+          "uk": "Презентація"
+        }
+      },
+      {
+        "key": "launch",
+        "i18n": {
+          "en": "launch",
+          "uk": "запуск"
+        }
+      },
+      {
+        "key": "event",
+        "i18n": {
+          "en": "event",
+          "uk": "подія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/launch-event_aur1.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 808,
+  "height": 577
+}

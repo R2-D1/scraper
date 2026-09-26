@@ -1,0 +1,83 @@
+{
+  "slug": "analyst-rating-meter",
+  "mediaKey": "71e67fc6-1f31-4e7f-8018-4858e3c3fad0",
+  "i18n": {
+    "name": {
+      "en": "Analyst Rating",
+      "uk": "Оцінка аналітика"
+    },
+    "alt": {
+      "en": "Analyst Rating",
+      "uk": "Оцінка аналітика"
+    },
+    "tags": [
+      {
+        "key": "analyst",
+        "i18n": {
+          "en": "analyst",
+          "uk": "аналітик"
+        }
+      },
+      {
+        "key": "rating",
+        "i18n": {
+          "en": "rating",
+          "uk": "рейтинг"
+        }
+      },
+      {
+        "key": "sell",
+        "i18n": {
+          "en": "sell",
+          "uk": "продати"
+        }
+      },
+      {
+        "key": "hold",
+        "i18n": {
+          "en": "hold",
+          "uk": "утримувати"
+        }
+      },
+      {
+        "key": "invest",
+        "i18n": {
+          "en": "invest",
+          "uk": "інвестувати"
+        }
+      },
+      {
+        "key": "stock",
+        "i18n": {
+          "en": "stock",
+          "uk": "запас"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/analyst-rating-meter",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

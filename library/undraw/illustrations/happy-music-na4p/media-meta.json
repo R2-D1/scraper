@@ -1,0 +1,63 @@
+{
+  "slug": "happy-music-na4p",
+  "mediaKey": "b8023819-5a15-467f-93ee-e1b7b6607cf9",
+  "providerId": "5e6266635093bc0017ee4130",
+  "i18n": {
+    "name": {
+      "en": "Happy music",
+      "uk": "Весела музика"
+    },
+    "alt": {
+      "en": "Happy music",
+      "uk": "Весела музика"
+    },
+    "tags": [
+      {
+        "key": "happy-music",
+        "i18n": {
+          "en": "Happy music",
+          "uk": "Весела музика"
+        }
+      },
+      {
+        "key": "happy",
+        "i18n": {
+          "en": "happy",
+          "uk": "щасливий"
+        }
+      },
+      {
+        "key": "music",
+        "i18n": {
+          "en": "music",
+          "uk": "музика"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/happy-music_na4p.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 888,
+  "height": 773
+}

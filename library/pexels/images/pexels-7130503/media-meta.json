@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-7130503",
+  "mediaKey": "pexels:7130503",
+  "i18n": {
+    "name": {
+      "en": "Pale turquoise and blue gradient",
+      "uk": "Світлий бірюзово-синій градієнт"
+    },
+    "alt": {
+      "en": "Colorful bright abstract background with blue and white with violet soft vivid lights",
+      "uk": "Яскравий барвистий абстрактний фон у синьо-білих тонах з фіолетовими м’якими, виразними відблисками"
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "soft-colors",
+        "i18n": {
+          "en": "soft colors",
+          "uk": "м'які кольори"
+        }
+      },
+      {
+        "key": "cyan",
+        "i18n": {
+          "en": "cyan",
+          "uk": "бірюзовий"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/bright-colorful-lights-on-abstract-background-7130503/",
+  "sourceName": "Pexels",
+  "authorName": "Codioful (formerly Gradienta)",
+  "authorUrl": "https://www.pexels.com/@codioful",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "wfh-home",
+  "mediaKey": "4b3b222d-54c4-4c0d-aba8-d26d5c287c54",
+  "i18n": {
+    "name": {
+      "en": "WFH",
+      "uk": "WFH"
+    },
+    "alt": {
+      "en": "WFH",
+      "uk": "WFH"
+    },
+    "tags": [
+      {
+        "key": "wfh",
+        "i18n": {
+          "en": "wfh",
+          "uk": "робота вдома"
+        }
+      },
+      {
+        "key": "work-from-home",
+        "i18n": {
+          "en": "work from home",
+          "uk": "робота з дому"
+        }
+      },
+      {
+        "key": "remote",
+        "i18n": {
+          "en": "remote",
+          "uk": "дистанційний"
+        }
+      },
+      {
+        "key": "pro",
+        "i18n": {
+          "en": "pro",
+          "uk": "професіонал"
+        }
+      },
+      {
+        "key": "slang",
+        "i18n": {
+          "en": "slang",
+          "uk": "сленг"
+        }
+      },
+      {
+        "key": "abbreviation",
+        "i18n": {
+          "en": "abbreviation",
+          "uk": "скорочення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/wfh-home",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

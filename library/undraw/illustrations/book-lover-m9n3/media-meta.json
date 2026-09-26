@@ -1,0 +1,63 @@
+{
+  "slug": "book-lover-m9n3",
+  "mediaKey": "88ec2747-b9c2-4667-9d6e-74387c17bacc",
+  "providerId": "68436193c7a189204228d52f",
+  "i18n": {
+    "name": {
+      "en": "Book lover",
+      "uk": "Любитель книг"
+    },
+    "alt": {
+      "en": "Book lover",
+      "uk": "Любитель книг"
+    },
+    "tags": [
+      {
+        "key": "book-lover",
+        "i18n": {
+          "en": "Book lover",
+          "uk": "Любитель книг"
+        }
+      },
+      {
+        "key": "book",
+        "i18n": {
+          "en": "book",
+          "uk": "книга"
+        }
+      },
+      {
+        "key": "lover",
+        "i18n": {
+          "en": "lover",
+          "uk": "коханий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/book-lover_m9n3.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 622
+}

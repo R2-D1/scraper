@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-28081907",
+  "mediaKey": "pexels:28081907",
+  "i18n": {
+    "name": {
+      "en": "Hot air balloon floating above the landscape",
+      "uk": "Повітряна куля, що ширяє над ландшафтом"
+    },
+    "alt": {
+      "en": "28081907",
+      "uk": "Повітряна куля, що ширяє над ландшафтом"
+    },
+    "tags": [
+      {
+        "key": "hot-air-balloon",
+        "i18n": {
+          "en": "hot air balloon",
+          "uk": "повітряна куля"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "sky",
+        "i18n": {
+          "en": "sky",
+          "uk": "небо"
+        }
+      },
+      {
+        "key": "adventure",
+        "i18n": {
+          "en": "adventure",
+          "uk": "пригода"
+        }
+      },
+      {
+        "key": "landscape",
+        "i18n": {
+          "en": "landscape",
+          "uk": "пейзаж"
+        }
+      },
+      {
+        "key": "sunrise",
+        "i18n": {
+          "en": "sunrise",
+          "uk": "схід сонця"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "travel"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/28081907/",
+  "sourceName": "Pexels",
+  "authorName": "Zeynep Tekin",
+  "authorUrl": "https://www.pexels.com/@zeynep-tekin-1462737863",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "legal-official-seal",
+  "mediaKey": "78c9d20a-be8a-4e9c-992c-ffa061d29417",
+  "i18n": {
+    "name": {
+      "en": "Official Seal",
+      "uk": "Офіційна печатка"
+    },
+    "alt": {
+      "en": "Official Seal",
+      "uk": "Офіційна печатка"
+    },
+    "tags": [
+      {
+        "key": "legal",
+        "i18n": {
+          "en": "legal",
+          "uk": "юридичний"
+        }
+      },
+      {
+        "key": "seal",
+        "i18n": {
+          "en": "seal",
+          "uk": "печатка"
+        }
+      },
+      {
+        "key": "official",
+        "i18n": {
+          "en": "official",
+          "uk": "офіційний"
+        }
+      },
+      {
+        "key": "stamp",
+        "i18n": {
+          "en": "stamp",
+          "uk": "штамп"
+        }
+      },
+      {
+        "key": "wax",
+        "i18n": {
+          "en": "wax",
+          "uk": "віск"
+        }
+      },
+      {
+        "key": "certified",
+        "i18n": {
+          "en": "certified",
+          "uk": "сертифікований"
+        }
+      },
+      {
+        "key": "document",
+        "i18n": {
+          "en": "document",
+          "uk": "документ"
+        }
+      },
+      {
+        "key": "authentic",
+        "i18n": {
+          "en": "authentic",
+          "uk": "справжній"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/legal-official-seal",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

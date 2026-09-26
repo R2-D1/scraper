@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "blue-suit-in-the-desert",
+  "mediaKey": "custom:content:7a0b170984fcdf3e16c63c422265ed7a029cec0fff22be845ff4919fc19e4f3e",
+  "pinned": true,
+  "collectionSlugs": [
+    "people"
+  ],
+  "sourceContentHash": "7a0b170984fcdf3e16c63c422265ed7a029cec0fff22be845ff4919fc19e4f3e",
+  "i18n": {
+    "name": {
+      "en": "Blue Suit in the Desert",
+      "uk": "Синій костюм у пустелі"
+    },
+    "alt": {
+      "en": "Blue Suit in the Desert",
+      "uk": "Синій костюм у пустелі"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "Fashion",
+          "uk": "Мода"
+        }
+      },
+      {
+        "key": "blue-suit",
+        "i18n": {
+          "en": "Blue Suit",
+          "uk": "Синій костюм"
+        }
+      },
+      {
+        "key": "desert",
+        "i18n": {
+          "en": "Desert",
+          "uk": "Пустеля"
+        }
+      },
+      {
+        "key": "editorial",
+        "i18n": {
+          "en": "Editorial",
+          "uk": "Едиторіал"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "Woman",
+        "Fashion",
+        "Blue Suit",
+        "Desert",
+        "Editorial"
+      ],
+      "uk": [
+        "Жінка",
+        "Мода",
+        "Синій костюм",
+        "Пустеля",
+        "Едиторіал"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://divnex.com",
+  "sourceName": "Divnex",
+  "authorName": "Divnex",
+  "authorUrl": "https://divnex.com",
+  "licenseName": "Divnex Asset License",
+  "licenseUrl": "https://divnex.com/asset-license",
+  "width": 2400,
+  "height": 3200
+}

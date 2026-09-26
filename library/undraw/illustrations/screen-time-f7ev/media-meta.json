@@ -1,0 +1,63 @@
+{
+  "slug": "screen-time-f7ev",
+  "mediaKey": "8617cc00-18f6-4434-bc8c-32c8f6a0c70a",
+  "providerId": "685eef23a379efa51b3c941a",
+  "i18n": {
+    "name": {
+      "en": "Screen Time",
+      "uk": "Час використання екрану"
+    },
+    "alt": {
+      "en": "Screen Time",
+      "uk": "Час використання екрану"
+    },
+    "tags": [
+      {
+        "key": "screen-time",
+        "i18n": {
+          "en": "Screen Time",
+          "uk": "Час використання екрану"
+        }
+      },
+      {
+        "key": "screen",
+        "i18n": {
+          "en": "screen",
+          "uk": "екран"
+        }
+      },
+      {
+        "key": "time",
+        "i18n": {
+          "en": "time",
+          "uk": "час"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/screen-time_f7ev.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 622,
+  "height": 800
+}

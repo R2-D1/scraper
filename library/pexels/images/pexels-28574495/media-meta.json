@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-28574495",
+  "mediaKey": "pexels:28574495",
+  "i18n": {
+    "name": {
+      "en": "Tennis racket on a blue court",
+      "uk": "Тенісна ракетка на синьому корті"
+    },
+    "alt": {
+      "en": "Tennis racket and ball placed on a vibrant blue tennis court.",
+      "uk": "Тенісна ракетка та м’яч, розміщені на яскраво-синьому тенісному корті."
+    },
+    "tags": [
+      {
+        "key": "tennis-racket",
+        "i18n": {
+          "en": "tennis racket",
+          "uk": "тенісна ракетка"
+        }
+      },
+      {
+        "key": "tennis-court",
+        "i18n": {
+          "en": "tennis court",
+          "uk": "тенісний корт"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "sports",
+          "uk": "спорт"
+        }
+      },
+      {
+        "key": "equipment",
+        "i18n": {
+          "en": "equipment",
+          "uk": "обладнання"
+        }
+      },
+      {
+        "key": "graphic",
+        "i18n": {
+          "en": "graphic",
+          "uk": "графічний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/tennis-racket-and-ball-on-blue-court-surface-28574495/",
+  "sourceName": "Pexels",
+  "authorName": "Zeynep Tekin",
+  "authorUrl": "https://www.pexels.com/@zeynep-tekin-1462737863",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3200
+}

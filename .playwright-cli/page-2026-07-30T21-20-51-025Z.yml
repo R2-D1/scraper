@@ -1,0 +1,261 @@
+- generic [ref=f83e4]:
+  - navigation [ref=f83e5]:
+    - generic [ref=f83e6]:
+      - generic [ref=f83e7]:
+        - link "Unsplash Home" [ref=f83e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f83e9]
+        - link "Photos" [ref=f83e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f83e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f83e17]:
+        - button "Explore" [ref=f83e18] [cursor=pointer]
+        - button "Collections" [ref=f83e21] [cursor=pointer]
+        - button "Download History" [ref=f83e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f83e28] [cursor=pointer]
+    - generic [ref=f83e31]:
+      - link "Log in / Sign up" [ref=f83e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-green-plant-with-two-blue-eyes-on-it-iilkD8AndFU
+      - button "Language" [ref=f83e35] [cursor=pointer]
+      - button "Menu" [ref=f83e38] [cursor=pointer]
+  - generic [ref=f83e41]:
+    - generic [ref=f83e42]:
+      - navigation [ref=f83e43]:
+        - search "Find visuals sitewide" [ref=f83e45]:
+          - button "Search Unsplash" [ref=f83e46] [cursor=pointer]
+          - combobox [ref=f83e49]:
+            - searchbox "Search Unsplash" [ref=f83e50]
+            - listbox
+          - button "Visual search" [ref=f83e52] [cursor=pointer]
+        - generic [ref=f83e55]:
+          - link "Get Unsplash+" [ref=f83e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f83e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-green-plant-with-two-blue-eyes-on-it-iilkD8AndFU
+        - button "Submit an image" [ref=f83e59] [cursor=pointer]
+      - generic [ref=f83e60]:
+        - generic [ref=f83e61]:
+          - banner [ref=f83e63]:
+            - generic [ref=f83e65]:
+              - link [ref=f83e66] [cursor=pointer]:
+                - /url: /@ghariza_/illustrations
+              - generic [ref=f83e69]:
+                - link "ghariza mahavira" [ref=f83e70] [cursor=pointer]:
+                  - /url: /@ghariza_/illustrations
+                - generic [ref=f83e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f83e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-green-plant-with-two-blue-eyes-on-it-iilkD8AndFU
+            - generic [ref=f83e73]:
+              - button "Bookmark" [ref=f83e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f83e77] [cursor=pointer]
+              - button "Edit image" [ref=f83e80] [cursor=pointer]
+              - button "Download" [ref=f83e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f83e90]:
+            - img "A green plant with two blue eyes on it" [ref=f83e91]
+          - generic [ref=f83e92]:
+            - generic [ref=f83e94]:
+              - button "Share this image" [ref=f83e95] [cursor=pointer]:
+                - generic [ref=f83e98]: Share
+              - button "More Actions" [ref=f83e99] [cursor=pointer]
+            - generic [ref=f83e103]:
+              - heading "A green plant with two blue eyes on it" [level=1] [ref=f83e105]
+              - paragraph [ref=f83e109]: Download this illustration of flowers, blue, green, and illustration by ghariza mahavira (@ghariza_)
+              - generic [ref=f83e111]:
+                - generic [ref=f83e116]:
+                  - text: Published on
+                  - time [ref=f83e117]: January 30, 2025
+                - generic [ref=f83e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f83e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f83e124]:
+              - link "flowers" [ref=f83e125] [cursor=pointer]:
+                - /url: /s/illustrations/flowers
+              - link "blue" [ref=f83e126] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "green" [ref=f83e127] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "illustration" [ref=f83e128] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "plant" [ref=f83e129] [cursor=pointer]:
+                - /url: /s/illustrations/plant
+              - link "pink" [ref=f83e130] [cursor=pointer]:
+                - /url: /s/illustrations/pink
+              - link "graphic design" [ref=f83e131] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "plants" [ref=f83e132] [cursor=pointer]:
+                - /url: /s/illustrations/plants
+              - link "vector" [ref=f83e133] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "digital art" [ref=f83e134] [cursor=pointer]:
+                - /url: /s/illustrations/digital-art
+              - link "unique" [ref=f83e135] [cursor=pointer]:
+                - /url: /s/illustrations/unique
+              - link "botanical illustration" [ref=f83e136] [cursor=pointer]:
+                - /url: /s/illustrations/botanical-illustration
+              - link "whimsical" [ref=f83e137] [cursor=pointer]:
+                - /url: /s/illustrations/whimsical
+              - link "surrealism" [ref=f83e138] [cursor=pointer]:
+                - /url: /s/illustrations/surrealism
+              - link "abstract nature" [ref=f83e139] [cursor=pointer]:
+                - /url: /s/illustrations/abstract-nature
+              - link "green plant" [ref=f83e140] [cursor=pointer]:
+                - /url: /s/illustrations/green-plant
+              - link "botany" [ref=f83e141] [cursor=pointer]:
+                - /url: /s/illustrations/botany
+              - link "venus flytrap" [ref=f83e142] [cursor=pointer]:
+                - /url: /s/illustrations/venus-flytrap
+              - link "botanicals" [ref=f83e143] [cursor=pointer]:
+                - /url: /s/illustrations/botanicals
+              - link "blue eye" [ref=f83e144] [cursor=pointer]:
+                - /url: /s/illustrations/blue-eye
+        - generic [ref=f83e148]:
+          - heading "Related images" [level=4] [ref=f83e150]
+          - generic [ref=f83e154]:
+            - generic [ref=f83e155]:
+              - figure [ref=f83e156]:
+                - generic [ref=f83e158]:
+                  - link [ref=f83e159]:
+                    - /url: /illustrations/a-flower-with-an-evil-eye-on-it-6Tq-_D-WxvM
+                    - img "A flower with an evil eye on it" [ref=f83e160]
+                  - link [ref=f83e161] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-flower-with-an-evil-eye-on-it-6Tq-_D-WxvM
+              - figure [ref=f83e164]:
+                - generic [ref=f83e166]:
+                  - link [ref=f83e167]:
+                    - /url: /illustrations/a-picture-of-a-flower-on-a-yellow-background-T7ruDMwjeO4
+                    - img "A picture of a flower on a yellow background" [ref=f83e168]
+                  - link [ref=f83e169] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-a-flower-on-a-yellow-background-T7ruDMwjeO4
+              - figure [ref=f83e172]:
+                - generic [ref=f83e174]:
+                  - link [ref=f83e175]:
+                    - /url: /illustrations/a-pink-flower-with-green-leaves-and-eyes-dq3xxioulTU
+                    - img "A pink flower with green leaves and eyes" [ref=f83e176]
+                  - link [ref=f83e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-pink-flower-with-green-leaves-and-eyes-dq3xxioulTU
+              - figure [ref=f83e180]:
+                - generic [ref=f83e182]:
+                  - link [ref=f83e183]:
+                    - /url: /illustrations/a-green-and-yellow-flower-with-a-big-smile-xe6riLPF2MA
+                    - img "A green and yellow flower with a big smile" [ref=f83e184]
+                  - link [ref=f83e185] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-green-and-yellow-flower-with-a-big-smile-xe6riLPF2MA
+              - figure [ref=f83e188]:
+                - generic [ref=f83e190]:
+                  - link [ref=f83e191]:
+                    - /url: /illustrations/a-painting-of-flowers-and-stars-on-a-black-background-J09yelj29HU
+                    - img "a painting of flowers and stars on a black background" [ref=f83e192]
+                  - link [ref=f83e193] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-flowers-and-stars-on-a-black-background-J09yelj29HU
+              - figure [ref=f83e196]:
+                - generic [ref=f83e198]:
+                  - link [ref=f83e199]:
+                    - /url: /illustrations/an-avocado-with-an-eye-on-it-825LHFNrxAE
+                    - img "An avocado with an eye on it" [ref=f83e200]
+                  - link [ref=f83e201] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fan-avocado-with-an-eye-on-it-825LHFNrxAE
+            - generic [ref=f83e204]:
+              - figure [ref=f83e205]:
+                - generic [ref=f83e207]:
+                  - link [ref=f83e208]:
+                    - /url: /illustrations/a-picture-of-a-pink-flower-on-a-black-background-O2Mmzi35X00
+                    - img "A picture of a pink flower on a black background" [ref=f83e209]
+                  - link [ref=f83e210] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-a-pink-flower-on-a-black-background-O2Mmzi35X00
+              - figure [ref=f83e213]:
+                - generic [ref=f83e215]:
+                  - link [ref=f83e216]:
+                    - /url: /illustrations/a-drawing-of-a-hand-holding-a-bouquet-of-flowers-ydfH7iLHNb4
+                    - img "A drawing of a hand holding a bouquet of flowers" [ref=f83e217]
+                  - link [ref=f83e218] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-drawing-of-a-hand-holding-a-bouquet-of-flowers-ydfH7iLHNb4
+              - figure [ref=f83e221]:
+                - generic [ref=f83e223]:
+                  - link [ref=f83e224]:
+                    - /url: /illustrations/a-pink-monster-with-a-crown-on-its-head-oNkKf1ZxXD4
+                    - img "A pink monster with a crown on its head" [ref=f83e225]
+                  - link [ref=f83e226] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-pink-monster-with-a-crown-on-its-head-oNkKf1ZxXD4
+              - figure [ref=f83e229]:
+                - generic [ref=f83e231]:
+                  - link [ref=f83e232]:
+                    - /url: /illustrations/a-cartoon-monster-with-one-eye-and-tentacles-Wxc98HDJ9Js
+                    - img "A cartoon monster with one eye and tentacles." [ref=f83e233]
+                  - link [ref=f83e234] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-monster-with-one-eye-and-tentacles-Wxc98HDJ9Js
+              - figure [ref=f83e237]:
+                - generic [ref=f83e239]:
+                  - link [ref=f83e240]:
+                    - /url: /illustrations/a-picture-of-some-flowers-with-blue-eyes-9SBd9wt_fKQ
+                    - img "A picture of some flowers with blue eyes" [ref=f83e241]
+                  - link [ref=f83e242] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-some-flowers-with-blue-eyes-9SBd9wt_fKQ
+              - figure [ref=f83e245]:
+                - generic [ref=f83e247]:
+                  - link [ref=f83e248]:
+                    - /url: /illustrations/a-green-monster-with-big-eyes-and-big-teeth-QGrU6pvHzMo
+                    - img "A green monster with big eyes and big teeth" [ref=f83e249]
+                  - link [ref=f83e250] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-green-monster-with-big-eyes-and-big-teeth-QGrU6pvHzMo
+              - figure [ref=f83e253]:
+                - generic [ref=f83e255]:
+                  - link [ref=f83e256]:
+                    - /url: /illustrations/a-couple-of-sunflowers-sitting-on-top-of-a-green-plant-NsJBjMDzD6I
+                    - img "A couple of sunflowers sitting on top of a green plant" [ref=f83e257]
+                  - link [ref=f83e258] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-couple-of-sunflowers-sitting-on-top-of-a-green-plant-NsJBjMDzD6I
+            - generic [ref=f83e261]:
+              - figure [ref=f83e262]:
+                - generic [ref=f83e264]:
+                  - link [ref=f83e265]:
+                    - /url: /illustrations/a-pink-flower-with-blue-eyes-on-it-mEPTE1BkRpg
+                    - img "A pink flower with blue eyes on it" [ref=f83e266]
+                  - link [ref=f83e267] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-pink-flower-with-blue-eyes-on-it-mEPTE1BkRpg
+              - figure [ref=f83e270]:
+                - generic [ref=f83e272]:
+                  - link [ref=f83e273]:
+                    - /url: /illustrations/a-cartoon-giraffe-with-two-eyes-and-a-mouth-yZgpuNYcFfQ
+                    - img "A cartoon giraffe with two eyes and a mouth" [ref=f83e274]
+                  - link [ref=f83e275] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-giraffe-with-two-eyes-and-a-mouth-yZgpuNYcFfQ
+              - figure [ref=f83e278]:
+                - generic [ref=f83e280]:
+                  - link [ref=f83e281]:
+                    - /url: /illustrations/a-flower-with-eyes-on-it-on-a-blue-background-zTLiL5l73xM
+                    - img "A flower with eyes on it on a blue background" [ref=f83e282]
+                  - link [ref=f83e283] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-flower-with-eyes-on-it-on-a-blue-background-zTLiL5l73xM
+              - figure [ref=f83e286]:
+                - generic [ref=f83e288]:
+                  - link [ref=f83e289]:
+                    - /url: /illustrations/a-red-flower-with-an-eye-on-it-TflezDDTN9A
+                    - img "A red flower with an eye on it" [ref=f83e290]
+                  - link [ref=f83e291] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-red-flower-with-an-eye-on-it-TflezDDTN9A
+              - figure [ref=f83e294]:
+                - generic [ref=f83e296]:
+                  - link [ref=f83e297]:
+                    - /url: /illustrations/green-plant-with-stars-on-a-brown-background-rjfnnI76txU
+                    - img "Green plant with stars on a brown background." [ref=f83e298]
+                  - link [ref=f83e299] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgreen-plant-with-stars-on-a-brown-background-rjfnnI76txU
+              - figure [ref=f83e302]:
+                - generic [ref=f83e304]:
+                  - link [ref=f83e305]:
+                    - /url: /illustrations/two-yellow-flowers-with-blue-eyes-on-a-blue-background-FnpYGCyOn0Q
+                    - img "Two yellow flowers with blue eyes on a blue background" [ref=f83e306]
+                  - link [ref=f83e307] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ftwo-yellow-flowers-with-blue-eyes-on-a-blue-background-FnpYGCyOn0Q
+              - figure [ref=f83e310]:
+                - generic [ref=f83e312]:
+                  - link [ref=f83e313]:
+                    - /url: /illustrations/a-pink-octopus-with-a-green-leaf-floating-in-the-water-OpIXKLvv634
+                    - img "A pink octopus with a green leaf floating in the water" [ref=f83e314]
+                  - link [ref=f83e315] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-pink-octopus-with-a-green-leaf-floating-in-the-water-OpIXKLvv634
+    - generic:
+      - region "Notifications"

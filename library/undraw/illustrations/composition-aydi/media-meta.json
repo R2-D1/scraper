@@ -1,0 +1,49 @@
+{
+  "slug": "composition-aydi",
+  "mediaKey": "6fb70127-79d1-47c0-8f3d-08321d41b456",
+  "providerId": "607010d5e2f36b0017899d5a",
+  "i18n": {
+    "name": {
+      "en": "Composition",
+      "uk": "Склад"
+    },
+    "alt": {
+      "en": "Composition",
+      "uk": "Склад"
+    },
+    "tags": [
+      {
+        "key": "composition",
+        "i18n": {
+          "en": "Composition",
+          "uk": "Склад"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/composition_aydi.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 745,
+  "height": 589
+}

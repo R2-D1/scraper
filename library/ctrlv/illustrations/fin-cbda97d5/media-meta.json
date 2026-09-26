@@ -1,0 +1,83 @@
+{
+  "slug": "fin-cbda97d5",
+  "mediaKey": "89db6a0a-9c74-4756-89fd-e4d4f8fadc66",
+  "i18n": {
+    "name": {
+      "en": "Payday Calendar",
+      "uk": "Календар виплат"
+    },
+    "alt": {
+      "en": "Payday Calendar",
+      "uk": "Календар виплат"
+    },
+    "tags": [
+      {
+        "key": "payday",
+        "i18n": {
+          "en": "payday",
+          "uk": "день виплати"
+        }
+      },
+      {
+        "key": "calendar",
+        "i18n": {
+          "en": "calendar",
+          "uk": "календар"
+        }
+      },
+      {
+        "key": "finance",
+        "i18n": {
+          "en": "finance",
+          "uk": "фінанси"
+        }
+      },
+      {
+        "key": "salary",
+        "i18n": {
+          "en": "salary",
+          "uk": "зарплата"
+        }
+      },
+      {
+        "key": "money",
+        "i18n": {
+          "en": "money",
+          "uk": "гроші"
+        }
+      },
+      {
+        "key": "payment",
+        "i18n": {
+          "en": "payment",
+          "uk": "оплата"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/fin-cbda97d5",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

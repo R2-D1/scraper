@@ -1,0 +1,91 @@
+{
+  "slug": "melting-pink-popsicle-rayed",
+  "mediaKey": "47794677-2de5-4254-a806-6ef543408db9",
+  "i18n": {
+    "name": {
+      "en": "Melting Pink Popsicle",
+      "uk": "Розтане рожеве морозиво на паличці"
+    },
+    "alt": {
+      "en": "Melting Pink Popsicle",
+      "uk": "Розтане рожеве морозиво на паличці"
+    },
+    "tags": [
+      {
+        "key": "popsicle",
+        "i18n": {
+          "en": "Popsicle",
+          "uk": "Морозиво на паличці"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "Pink",
+          "uk": "Рожевий"
+        }
+      },
+      {
+        "key": "refreshing",
+        "i18n": {
+          "en": "Refreshing",
+          "uk": "Освіжаюче"
+        }
+      },
+      {
+        "key": "summer",
+        "i18n": {
+          "en": "Summer",
+          "uk": "Літо"
+        }
+      },
+      {
+        "key": "teal",
+        "i18n": {
+          "en": "Teal",
+          "uk": "Бірюзовий"
+        }
+      },
+      {
+        "key": "still-life",
+        "i18n": {
+          "en": "Still Life",
+          "uk": "Натюрморт"
+        }
+      },
+      {
+        "key": "food-and-drink",
+        "i18n": {
+          "en": "Food and Drink",
+          "uk": "Їжа та напої"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/3d/melting-pink-popsicle-rayed",
+  "sourceName": "Lummi",
+  "authorName": "Mariana Pedroza",
+  "authorUrl": "https://www.lummi.ai/creator/mariana?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A vibrant pink popsicle floats in a clear blue pool, creating a refreshing and summery scene. The popsicle is partially submerged, with water droplets clinging to its surface, adding a sense of motion and freshness. The wooden stick protrudes from the bottom, contrasting with the bright pink color of the popsicle. Sunlight reflects off the water, creating shimmering patterns and enhancing the overall brightness of the image. The background is a rich turquoise, with bubbles and ripples adding texture and depth to the scene.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 2400,
+  "mimeType": "image/webp"
+}

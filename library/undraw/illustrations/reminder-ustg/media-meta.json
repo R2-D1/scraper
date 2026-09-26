@@ -1,0 +1,49 @@
+{
+  "slug": "reminder-ustg",
+  "mediaKey": "f3906dd6-3b1e-48f3-be79-a6cbab5ed07b",
+  "providerId": "68375f09f5e965b24ec726f8",
+  "i18n": {
+    "name": {
+      "en": "Reminder",
+      "uk": "Нагадування"
+    },
+    "alt": {
+      "en": "Reminder",
+      "uk": "Нагадування"
+    },
+    "tags": [
+      {
+        "key": "reminder",
+        "i18n": {
+          "en": "Reminder",
+          "uk": "Нагадування"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/reminder_ustg.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 799,
+  "height": 552
+}

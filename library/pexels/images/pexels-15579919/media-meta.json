@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-15579919",
+  "mediaKey": "pexels:15579919",
+  "i18n": {
+    "name": {
+      "en": "Woman with purple flowers in a beauty portrait",
+      "uk": "Жінка з фіолетовими квітами у портреті краси"
+    },
+    "alt": {
+      "en": "Creative portrait of a woman submerged in water, adorned with pink flowers.",
+      "uk": "Креативний портрет жінки, зануреної у воду, прикрашеної рожевими квітами."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "flowers",
+        "i18n": {
+          "en": "flowers",
+          "uk": "квіти"
+        }
+      },
+      {
+        "key": "makeup",
+        "i18n": {
+          "en": "makeup",
+          "uk": "макіяж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/model-with-flowers-in-water-15579919/",
+  "sourceName": "Pexels",
+  "authorName": "Mohammadreza Babaei",
+  "authorUrl": "https://www.pexels.com/@mohammadrezababaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

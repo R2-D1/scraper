@@ -1,0 +1,63 @@
+{
+  "slug": "my-notifications-fy5v",
+  "mediaKey": "d99a1e63-2ede-4cc1-b05c-bcda0cd3374b",
+  "providerId": "68001a6395a5a5ad913d91c9",
+  "i18n": {
+    "name": {
+      "en": "My notifications",
+      "uk": "Мої сповіщення"
+    },
+    "alt": {
+      "en": "My notifications",
+      "uk": "Мої сповіщення"
+    },
+    "tags": [
+      {
+        "key": "my-notifications",
+        "i18n": {
+          "en": "My notifications",
+          "uk": "Мої сповіщення"
+        }
+      },
+      {
+        "key": "my",
+        "i18n": {
+          "en": "my",
+          "uk": "мій"
+        }
+      },
+      {
+        "key": "notifications",
+        "i18n": {
+          "en": "notifications",
+          "uk": "сповіщення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/my-notifications_fy5v.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 754,
+  "height": 800
+}

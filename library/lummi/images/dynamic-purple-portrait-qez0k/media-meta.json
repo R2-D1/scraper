@@ -1,0 +1,84 @@
+{
+  "slug": "dynamic-purple-portrait-qez0k",
+  "mediaKey": "7a4088fa-0ec1-4e48-8290-313308c1b790",
+  "i18n": {
+    "name": {
+      "en": "Dynamic Purple Portrait",
+      "uk": "Динамічний фіолетовий портрет"
+    },
+    "alt": {
+      "en": "Dynamic Purple Portrait",
+      "uk": "Динамічний фіолетовий портрет"
+    },
+    "tags": [
+      {
+        "key": "dramatic-lighting",
+        "i18n": {
+          "en": "dramatic lighting",
+          "uk": "драматичне освітлення"
+        }
+      },
+      {
+        "key": "profile-view",
+        "i18n": {
+          "en": "profile view",
+          "uk": "вигляд збоку"
+        }
+      },
+      {
+        "key": "motion-blur",
+        "i18n": {
+          "en": "motion blur",
+          "uk": "розмиття в русі"
+        }
+      },
+      {
+        "key": "artistic-composition",
+        "i18n": {
+          "en": "artistic composition",
+          "uk": "художня композиція"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/dynamic-purple-portrait-qez0k",
+  "sourceName": "Lummi",
+  "authorName": "Sanna Granqvist",
+  "authorUrl": "https://www.lummi.ai/creator/granqvistsanna-xh1cz?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A person is depicted in a dynamic pose against a vibrant purple background. The individual is dressed in dark clothing, and their profile is illuminated by a focused light source, creating a dramatic contrast and shadow effect. The lighting emphasizes the contours of their face and neck, adding depth and intensity to the composition. The blurred motion effect around the figure suggests movement, adding an artistic and surreal quality to the image. The overall color palette is dominated by purples and blacks, creating a striking visual impact.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1358,
+  "mimeType": "image/webp"
+}

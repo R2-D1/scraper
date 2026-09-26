@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-15364862",
+  "mediaKey": "pexels:15364862",
+  "i18n": {
+    "name": {
+      "en": "Illuminated tower above a city at night",
+      "uk": "Освітлена вежа над містом вночі"
+    },
+    "alt": {
+      "en": "Mystical night view of Galata Tower with vibrant city lights in Istanbul's skyline.",
+      "uk": "Містичний нічний краєвид вежі Галата на тлі яскравих вогнів міста, що вимальовуються на горизонті Стамбула."
+    },
+    "tags": [
+      {
+        "key": "tower",
+        "i18n": {
+          "en": "tower",
+          "uk": "вежа"
+        }
+      },
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      },
+      {
+        "key": "lights",
+        "i18n": {
+          "en": "lights",
+          "uk": "вогні"
+        }
+      },
+      {
+        "key": "skyline",
+        "i18n": {
+          "en": "skyline",
+          "uk": "панорама міста"
+        }
+      },
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "urban",
+          "uk": "урбаністичний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "urban"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/ligths-around-istanbul-at-night-15364862/",
+  "sourceName": "Pexels",
+  "authorName": "Oguz Kagan Cevik",
+  "authorUrl": "https://www.pexels.com/@oguz-kagan-cevik-247212801",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-3973089",
+  "mediaKey": "pexels:3973089",
+  "i18n": {
+    "name": {
+      "en": "Woman applying makeup with a brush",
+      "uk": "Жінка, яка наносить макіяж пензлем"
+    },
+    "alt": {
+      "en": "Cheerful young ethnic lady with towel on head applying cosmetics on lips after shower while spending time at home",
+      "uk": "Весела молода дівчина з етнічного меншини, з рушником на голові, наносить косметику на губи після душу, проводячи час вдома"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "makeup",
+        "i18n": {
+          "en": "makeup",
+          "uk": "макіяж"
+        }
+      },
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      },
+      {
+        "key": "makeup-brush",
+        "i18n": {
+          "en": "makeup brush",
+          "uk": "пензель для макіяжу"
+        }
+      },
+      {
+        "key": "towel-wrap",
+        "i18n": {
+          "en": "towel wrap",
+          "uk": "рушник-накидка"
+        }
+      },
+      {
+        "key": "skincare",
+        "i18n": {
+          "en": "skincare",
+          "uk": "догляд за шкірою"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "beauty"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/beautiful-young-ethnic-lady-applying-makeup-on-lips-after-shower-at-home-3973089/",
+  "sourceName": "Pexels",
+  "authorName": "Andrea Piacquadio",
+  "authorUrl": "https://www.pexels.com/@olly",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

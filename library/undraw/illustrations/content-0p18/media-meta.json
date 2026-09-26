@@ -1,0 +1,49 @@
+{
+  "slug": "content-0p18",
+  "mediaKey": "1c2f752b-0227-4eb3-84bd-2752409b1205",
+  "providerId": "5f5b5471a5bc3400177be18e",
+  "i18n": {
+    "name": {
+      "en": "Content",
+      "uk": "Зміст"
+    },
+    "alt": {
+      "en": "Content",
+      "uk": "Зміст"
+    },
+    "tags": [
+      {
+        "key": "content",
+        "i18n": {
+          "en": "Content",
+          "uk": "Зміст"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/content_0p18.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 897,
+  "height": 606
+}

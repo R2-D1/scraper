@@ -1,0 +1,63 @@
+{
+  "slug": "my-answer-au1h",
+  "mediaKey": "d264d819-c2d3-498d-8f5a-cbf46e17e0b3",
+  "providerId": "69278089326c3fd57eb799e7",
+  "i18n": {
+    "name": {
+      "en": "My Answer",
+      "uk": "Моя відповідь"
+    },
+    "alt": {
+      "en": "My Answer",
+      "uk": "Моя відповідь"
+    },
+    "tags": [
+      {
+        "key": "my-answer",
+        "i18n": {
+          "en": "My Answer",
+          "uk": "Моя відповідь"
+        }
+      },
+      {
+        "key": "my",
+        "i18n": {
+          "en": "my",
+          "uk": "мій"
+        }
+      },
+      {
+        "key": "answer",
+        "i18n": {
+          "en": "answer",
+          "uk": "відповідь"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/my-answer_au1h.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 655
+}

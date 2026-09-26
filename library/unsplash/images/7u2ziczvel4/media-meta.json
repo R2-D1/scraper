@@ -1,0 +1,80 @@
+{
+  "slug": "7u2ziczvel4",
+  "mediaKey": "ba2ed664-9a4d-45c4-860d-40b5972e722a",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "Golden lips",
+      "uk": "Золоті губи"
+    },
+    "alt": {
+      "en": "Golden lips",
+      "uk": "Золоті губи"
+    },
+    "tags": [
+      {
+        "key": "cube",
+        "i18n": {
+          "en": "cube",
+          "uk": "куб"
+        }
+      },
+      {
+        "key": "mouth",
+        "i18n": {
+          "en": "mouth",
+          "uk": "рот"
+        }
+      },
+      {
+        "key": "simple-background",
+        "i18n": {
+          "en": "simple background",
+          "uk": "простий фон"
+        }
+      },
+      {
+        "key": "smoothie",
+        "i18n": {
+          "en": "smoothie",
+          "uk": "смузі"
+        }
+      },
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "abstract",
+        "gold"
+      ],
+      "uk": [
+        "абстракція",
+        "золото"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/7u2ZICzvEl4",
+  "sourceName": "Unsplash",
+  "authorName": "Marek Pavlík",
+  "authorUrl": "https://unsplash.com/@marpicek",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 2400,
+  "collectionSlugs": [
+    "abstract"
+  ]
+}

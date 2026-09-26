@@ -1,0 +1,63 @@
+{
+  "slug": "stock-prices-8nuz",
+  "mediaKey": "92bb96c0-56dc-4dcb-9f5e-5d70cdce2733",
+  "providerId": "683f678410e645d9f3275685",
+  "i18n": {
+    "name": {
+      "en": "Stock prices",
+      "uk": "Ціни на акції"
+    },
+    "alt": {
+      "en": "Stock prices",
+      "uk": "Ціни на акції"
+    },
+    "tags": [
+      {
+        "key": "stock-prices",
+        "i18n": {
+          "en": "Stock prices",
+          "uk": "Ціни на акції"
+        }
+      },
+      {
+        "key": "stock",
+        "i18n": {
+          "en": "stock",
+          "uk": "запас"
+        }
+      },
+      {
+        "key": "prices",
+        "i18n": {
+          "en": "prices",
+          "uk": "ціни"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/stock-prices_8nuz.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 724
+}

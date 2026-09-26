@@ -1,0 +1,94 @@
+{
+  "slug": "urban-twilight-portrait-mryau",
+  "mediaKey": "3e491870-9451-4f01-836b-de46148caae2",
+  "i18n": {
+    "name": {
+      "en": "Urban Twilight Portrait",
+      "uk": "Міський портрет у сутінках"
+    },
+    "alt": {
+      "en": "Urban Twilight Portrait",
+      "uk": "Міський портрет у сутінках"
+    },
+    "tags": [
+      {
+        "key": "calm",
+        "i18n": {
+          "en": "Calm",
+          "uk": "Спокій"
+        }
+      },
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "twilight",
+        "i18n": {
+          "en": "Twilight",
+          "uk": "Сутінки"
+        }
+      },
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "Urban",
+          "uk": "Міський"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "street-photography",
+        "i18n": {
+          "en": "Street Photography",
+          "uk": "Вулична фотографія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Lloyd Creates",
+  "authorUrl": "https://www.lummi.ai/creator/lloydcreates?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A young woman with light skin and blonde hair tied back gazes directly at the camera with a calm expression. She has blue eyes and wears small hoop earrings. Her attire includes a dark turtleneck and a jacket, blending into the dimly lit background. The background is a blurred urban scene with streaks of light and motion, suggesting a bustling city environment during twilight.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1429,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/urban-twilight-portrait-mryau/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/urban-twilight-portrait-mryau/urban-twilight-portrait-mryau.png",
+  "relativeAssetPath": "library/lummi/images/urban-twilight-portrait-mryau/urban-twilight-portrait-mryau.png"
+}

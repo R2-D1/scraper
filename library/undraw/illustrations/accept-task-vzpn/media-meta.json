@@ -1,0 +1,63 @@
+{
+  "slug": "accept-task-vzpn",
+  "mediaKey": "5bcd82a1-d5cb-44b9-9548-0bb1027b9a41",
+  "providerId": "682e45d6d052a02b28bb7034",
+  "i18n": {
+    "name": {
+      "en": "Accept task",
+      "uk": "Прийняти завдання"
+    },
+    "alt": {
+      "en": "Accept task",
+      "uk": "Прийняти завдання"
+    },
+    "tags": [
+      {
+        "key": "accept-task",
+        "i18n": {
+          "en": "Accept task",
+          "uk": "Прийняти завдання"
+        }
+      },
+      {
+        "key": "accept",
+        "i18n": {
+          "en": "accept",
+          "uk": "прийняти"
+        }
+      },
+      {
+        "key": "task",
+        "i18n": {
+          "en": "task",
+          "uk": "завдання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/accept-task_vzpn.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 661
+}

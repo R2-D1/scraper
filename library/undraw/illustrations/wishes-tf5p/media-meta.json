@@ -1,0 +1,49 @@
+{
+  "slug": "wishes-tf5p",
+  "mediaKey": "ca75c726-3a76-4702-a349-a332e16162c4",
+  "providerId": "5ae2195c9f54160014ce369f",
+  "i18n": {
+    "name": {
+      "en": "Wishes",
+      "uk": "Побажання"
+    },
+    "alt": {
+      "en": "Wishes",
+      "uk": "Побажання"
+    },
+    "tags": [
+      {
+        "key": "wishes",
+        "i18n": {
+          "en": "Wishes",
+          "uk": "Побажання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/wishes_tf5p.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 937,
+  "height": 810
+}

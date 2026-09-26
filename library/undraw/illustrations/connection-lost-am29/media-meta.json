@@ -1,0 +1,63 @@
+{
+  "slug": "connection-lost-am29",
+  "mediaKey": "54a2b835-3b4a-48ba-8249-96a29ee82104",
+  "providerId": "68f80974286afbdbe8dbfbb0",
+  "i18n": {
+    "name": {
+      "en": "Connection lost",
+      "uk": "Зв'язок втрачено"
+    },
+    "alt": {
+      "en": "Connection lost",
+      "uk": "Зв'язок втрачено"
+    },
+    "tags": [
+      {
+        "key": "connection-lost",
+        "i18n": {
+          "en": "Connection lost",
+          "uk": "Зв'язок втрачено"
+        }
+      },
+      {
+        "key": "connection",
+        "i18n": {
+          "en": "connection",
+          "uk": "підключення"
+        }
+      },
+      {
+        "key": "lost",
+        "i18n": {
+          "en": "lost",
+          "uk": "загублений"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/connection-lost_am29.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 430
+}

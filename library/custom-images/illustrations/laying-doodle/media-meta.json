@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "laying-doodle",
+  "mediaKey": "custom:content:b7e02960ba5ac61c4a9e251900d791d8bd61fcb60156873cd96377a671f650f2",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "b7e02960ba5ac61c4a9e251900d791d8bd61fcb60156873cd96377a671f650f2",
+  "i18n": {
+    "name": {
+      "en": "Laying Doodle",
+      "uk": "Покладка «Дудл»"
+    },
+    "alt": {
+      "en": "Laying Doodle",
+      "uk": "Покладка «Дудл»"
+    },
+    "tags": [
+      {
+        "key": "laying",
+        "i18n": {
+          "en": "Laying",
+          "uk": "Укладання"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "emotion-anger",
+  "mediaKey": "15b09441-4e95-441f-9317-8810437bfca2",
+  "i18n": {
+    "name": {
+      "en": "Anger",
+      "uk": "Гнів"
+    },
+    "alt": {
+      "en": "Anger",
+      "uk": "Гнів"
+    },
+    "tags": [
+      {
+        "key": "emotion",
+        "i18n": {
+          "en": "emotion",
+          "uk": "емоція"
+        }
+      },
+      {
+        "key": "anger",
+        "i18n": {
+          "en": "anger",
+          "uk": "злість"
+        }
+      },
+      {
+        "key": "rage",
+        "i18n": {
+          "en": "rage",
+          "uk": "лють"
+        }
+      },
+      {
+        "key": "furious",
+        "i18n": {
+          "en": "furious",
+          "uk": "розлючений"
+        }
+      },
+      {
+        "key": "mad",
+        "i18n": {
+          "en": "mad",
+          "uk": "розлючений"
+        }
+      },
+      {
+        "key": "frustration",
+        "i18n": {
+          "en": "frustration",
+          "uk": "роздратування"
+        }
+      },
+      {
+        "key": "aggressive",
+        "i18n": {
+          "en": "aggressive",
+          "uk": "агресивний"
+        }
+      },
+      {
+        "key": "wrathful",
+        "i18n": {
+          "en": "wrathful",
+          "uk": "гнівний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emotion-anger",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "love-9mug",
+  "mediaKey": "6f19e307-be7a-4870-bc51-d95a83fc8593",
+  "providerId": "698e5a72a11be41f8aaeb73d",
+  "i18n": {
+    "name": {
+      "en": "Love",
+      "uk": "Любов"
+    },
+    "alt": {
+      "en": "Love",
+      "uk": "Любов"
+    },
+    "tags": [
+      {
+        "key": "love",
+        "i18n": {
+          "en": "Love",
+          "uk": "Любов"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/love_9mug.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 921,
+  "height": 718
+}

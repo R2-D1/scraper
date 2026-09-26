@@ -1,0 +1,63 @@
+{
+  "slug": "mobile-assistant-iifm",
+  "mediaKey": "21dbc995-86da-411c-809d-ca70321d04bf",
+  "providerId": "6a0254ee79740242d59ddb0c",
+  "i18n": {
+    "name": {
+      "en": "Mobile Assistant",
+      "uk": "Мобільний помічник"
+    },
+    "alt": {
+      "en": "Mobile Assistant",
+      "uk": "Мобільний помічник"
+    },
+    "tags": [
+      {
+        "key": "mobile-assistant",
+        "i18n": {
+          "en": "Mobile Assistant",
+          "uk": "Мобільний помічник"
+        }
+      },
+      {
+        "key": "mobile",
+        "i18n": {
+          "en": "mobile",
+          "uk": "мобільний"
+        }
+      },
+      {
+        "key": "assistant",
+        "i18n": {
+          "en": "assistant",
+          "uk": "асистент"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/mobile-assistant_iifm.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 858,
+  "height": 880
+}

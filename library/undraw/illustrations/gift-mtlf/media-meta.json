@@ -1,0 +1,49 @@
+{
+  "slug": "gift-mtlf",
+  "mediaKey": "9f9cd6e3-7e5b-4786-b9dc-c7db4d9927c4",
+  "providerId": "608698ebff041800172e1162",
+  "i18n": {
+    "name": {
+      "en": "Gift",
+      "uk": "Подарунок"
+    },
+    "alt": {
+      "en": "Gift",
+      "uk": "Подарунок"
+    },
+    "tags": [
+      {
+        "key": "gift",
+        "i18n": {
+          "en": "Gift",
+          "uk": "Подарунок"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/gift_mtlf.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 930,
+  "height": 610
+}

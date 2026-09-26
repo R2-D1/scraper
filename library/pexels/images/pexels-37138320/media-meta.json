@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-37138320",
+  "mediaKey": "pexels:37138320",
+  "i18n": {
+    "name": {
+      "en": "City skyline beside a river at dusk",
+      "uk": "Міський краєвид біля річки у сутінках"
+    },
+    "alt": {
+      "en": "A busy scene of Kızılay Square in Ankara, Turkey, featuring urban life and transportation during winter.",
+      "uk": "Жвава сцена на площі Кизıлай в Анкарі, Туреччина, що відображає міське життя та транспорт узимку."
+    },
+    "tags": [
+      {
+        "key": "cityscape",
+        "i18n": {
+          "en": "cityscape",
+          "uk": "міський пейзаж"
+        }
+      },
+      {
+        "key": "river",
+        "i18n": {
+          "en": "river",
+          "uk": "річка"
+        }
+      },
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "urban",
+          "uk": "урбаністичний"
+        }
+      },
+      {
+        "key": "dusk",
+        "i18n": {
+          "en": "dusk",
+          "uk": "сутінки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "urban"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/bustling-kizilay-square-in-winter-ankara-37138320/",
+  "sourceName": "Pexels",
+  "authorName": "Osman İçli",
+  "authorUrl": "https://www.pexels.com/@osicooked",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

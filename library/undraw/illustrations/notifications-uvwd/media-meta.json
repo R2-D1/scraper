@@ -1,0 +1,49 @@
+{
+  "slug": "notifications-uvwd",
+  "mediaKey": "24915393-cd11-4c4d-9318-63e7938e8659",
+  "providerId": "67b508b5a3e2b9276c02e53f",
+  "i18n": {
+    "name": {
+      "en": "Notifications",
+      "uk": "Повідомлення"
+    },
+    "alt": {
+      "en": "Notifications",
+      "uk": "Повідомлення"
+    },
+    "tags": [
+      {
+        "key": "notifications",
+        "i18n": {
+          "en": "Notifications",
+          "uk": "Повідомлення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/notifications_uvwd.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 296,
+  "height": 549
+}

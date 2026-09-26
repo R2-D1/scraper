@@ -1,0 +1,63 @@
+{
+  "slug": "open-notes-xker",
+  "mediaKey": "67ea92f5-447f-4495-b587-d7ae48debdc4",
+  "providerId": "66e0a07285deaf0016fd61f3",
+  "i18n": {
+    "name": {
+      "en": "Open notes",
+      "uk": "Відкрити нотатки"
+    },
+    "alt": {
+      "en": "Open notes",
+      "uk": "Відкрити нотатки"
+    },
+    "tags": [
+      {
+        "key": "open-notes",
+        "i18n": {
+          "en": "Open notes",
+          "uk": "Відкрити нотатки"
+        }
+      },
+      {
+        "key": "open",
+        "i18n": {
+          "en": "open",
+          "uk": "відкритий"
+        }
+      },
+      {
+        "key": "notes",
+        "i18n": {
+          "en": "notes",
+          "uk": "примітки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/open-notes_xker.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 762,
+  "height": 424
+}

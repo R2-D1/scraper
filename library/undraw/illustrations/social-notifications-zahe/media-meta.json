@@ -1,0 +1,63 @@
+{
+  "slug": "social-notifications-zahe",
+  "mediaKey": "37b1cbaf-9da2-4572-a3db-6c7f875b9f03",
+  "providerId": "6854613830fe159425709132",
+  "i18n": {
+    "name": {
+      "en": "Social Notifications",
+      "uk": "Соціальні повідомлення"
+    },
+    "alt": {
+      "en": "Social Notifications",
+      "uk": "Соціальні повідомлення"
+    },
+    "tags": [
+      {
+        "key": "social-notifications",
+        "i18n": {
+          "en": "Social Notifications",
+          "uk": "Соціальні повідомлення"
+        }
+      },
+      {
+        "key": "social",
+        "i18n": {
+          "en": "social",
+          "uk": "соціальні"
+        }
+      },
+      {
+        "key": "notifications",
+        "i18n": {
+          "en": "notifications",
+          "uk": "сповіщення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/social-notifications_zahe.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 511,
+  "height": 800
+}

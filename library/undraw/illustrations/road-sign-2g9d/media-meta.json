@@ -1,0 +1,63 @@
+{
+  "slug": "road-sign-2g9d",
+  "mediaKey": "5277daf0-add2-44b9-ab0f-b28c51746fdb",
+  "providerId": "677f0821dbf4b3a7df690afc",
+  "i18n": {
+    "name": {
+      "en": "Road sign",
+      "uk": "Дорожній знак"
+    },
+    "alt": {
+      "en": "Road sign",
+      "uk": "Дорожній знак"
+    },
+    "tags": [
+      {
+        "key": "road-sign",
+        "i18n": {
+          "en": "Road sign",
+          "uk": "Дорожній знак"
+        }
+      },
+      {
+        "key": "road",
+        "i18n": {
+          "en": "road",
+          "uk": "дорога"
+        }
+      },
+      {
+        "key": "sign",
+        "i18n": {
+          "en": "sign",
+          "uk": "знак"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/road-sign_2g9d.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 755,
+  "height": 764
+}

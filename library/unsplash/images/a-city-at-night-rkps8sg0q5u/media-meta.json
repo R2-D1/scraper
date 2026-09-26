@@ -1,0 +1,74 @@
+{
+  "slug": "a-city-at-night-rkps8sg0q5u",
+  "mediaKey": "ec2d486d-0e26-4432-93f9-365109598fd4",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "A city at night",
+      "uk": "Місто вночі"
+    },
+    "alt": {
+      "en": "A city at night",
+      "uk": "Місто вночі"
+    },
+    "tags": [
+      {
+        "key": "city-at-night",
+        "i18n": {
+          "en": "city at night",
+          "uk": "місто вночі"
+        }
+      },
+      {
+        "key": "grey",
+        "i18n": {
+          "en": "grey",
+          "uk": "сірий"
+        }
+      },
+      {
+        "key": "japan",
+        "i18n": {
+          "en": "japan",
+          "uk": "Японія"
+        }
+      },
+      {
+        "key": "osaka",
+        "i18n": {
+          "en": "osaka",
+          "uk": "Осака"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "city scape",
+        "city scenery",
+        "night city"
+      ],
+      "uk": [
+        "міський пейзаж",
+        "нічне місто"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/a-city-at-night-rkpS8SG0Q5U",
+  "sourceName": "Unsplash",
+  "authorName": "Björn",
+  "authorUrl": "https://unsplash.com/@camaradon",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 1600,
+  "collectionSlugs": [
+    "urban"
+  ]
+}

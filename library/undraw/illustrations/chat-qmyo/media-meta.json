@@ -1,0 +1,49 @@
+{
+  "slug": "chat-qmyo",
+  "mediaKey": "77aad640-8204-4c99-958d-510721c8a97f",
+  "providerId": "5f4643f65580c10017dbffa6",
+  "i18n": {
+    "name": {
+      "en": "Chat",
+      "uk": "Чат"
+    },
+    "alt": {
+      "en": "Chat",
+      "uk": "Чат"
+    },
+    "tags": [
+      {
+        "key": "chat",
+        "i18n": {
+          "en": "Chat",
+          "uk": "Чат"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/chat_qmyo.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 942,
+  "height": 688
+}

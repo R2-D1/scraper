@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-32047895",
+  "mediaKey": "pexels:32047895",
+  "i18n": {
+    "name": {
+      "en": "Red diagonal striped geometric forms",
+      "uk": "Геометричні фігури з червоними діагональними смугами"
+    },
+    "alt": {
+      "en": "3D Red Wallpaper",
+      "uk": "3D-шпалери червоного кольору"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "stripes",
+        "i18n": {
+          "en": "stripes",
+          "uk": "смуги"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "geometry",
+        "i18n": {
+          "en": "geometry",
+          "uk": "геометрія"
+        }
+      },
+      {
+        "key": "diagonal",
+        "i18n": {
+          "en": "diagonal",
+          "uk": "діагональ"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/32047895/",
+  "sourceName": "Pexels",
+  "authorName": "Up Modern",
+  "authorUrl": "https://www.pexels.com/@up-modern-2150238322",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

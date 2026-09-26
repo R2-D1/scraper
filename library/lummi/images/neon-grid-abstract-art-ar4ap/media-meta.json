@@ -1,0 +1,91 @@
+{
+  "slug": "neon-grid-abstract-art-ar4ap",
+  "mediaKey": "653a52aa-f7d5-4203-a5d1-2f838eaae2de",
+  "i18n": {
+    "name": {
+      "en": "Neon Grid Abstract Art",
+      "uk": "Абстрактне мистецтво «Неонова сітка»"
+    },
+    "alt": {
+      "en": "Neon Grid Abstract Art",
+      "uk": "Абстрактне мистецтво «Неонова сітка»"
+    },
+    "tags": [
+      {
+        "key": "abstract-art",
+        "i18n": {
+          "en": "abstract art",
+          "uk": "абстрактне мистецтво"
+        }
+      },
+      {
+        "key": "digital-artwork",
+        "i18n": {
+          "en": "digital artwork",
+          "uk": "цифрове мистецтво"
+        }
+      },
+      {
+        "key": "neon-colors",
+        "i18n": {
+          "en": "neon colors",
+          "uk": "неонові кольори"
+        }
+      },
+      {
+        "key": "symmetrical-composition",
+        "i18n": {
+          "en": "symmetrical composition",
+          "uk": "симетрична композиція"
+        }
+      },
+      {
+        "key": "futuristic-design",
+        "i18n": {
+          "en": "futuristic design",
+          "uk": "футуристичний дизайн"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/illustration/neon-grid-abstract-art-ar4ap",
+  "sourceName": "Lummi",
+  "authorName": "Nika",
+  "authorUrl": "https://www.lummi.ai/creator/nikadominguez_?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A vibrant abstract digital artwork featuring a grid-like structure with interconnected nodes. The structure is composed of glowing neon colors, primarily orange and green, creating a striking contrast against a dark background. The edges of the grid appear smooth and fluid, with a soft gradient effect blending the colors. The design has a futuristic and organic feel, resembling a molecular or lattice framework. The overall composition is symmetrical and visually dynamic, drawing attention to the interplay of light and color.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1808,
+  "mimeType": "image/webp"
+}

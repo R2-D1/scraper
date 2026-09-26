@@ -1,0 +1,63 @@
+{
+  "slug": "watch-notification-f2pp",
+  "mediaKey": "57fccae6-2dbf-483d-8f98-c6f315cbadeb",
+  "providerId": "65a69522ff07070016fe4624",
+  "i18n": {
+    "name": {
+      "en": "Watch Notification",
+      "uk": "Сповіщення про перегляд"
+    },
+    "alt": {
+      "en": "Watch Notification",
+      "uk": "Сповіщення про перегляд"
+    },
+    "tags": [
+      {
+        "key": "watch-notification",
+        "i18n": {
+          "en": "Watch Notification",
+          "uk": "Сповіщення про перегляд"
+        }
+      },
+      {
+        "key": "watch",
+        "i18n": {
+          "en": "watch",
+          "uk": "дивитися"
+        }
+      },
+      {
+        "key": "notification",
+        "i18n": {
+          "en": "notification",
+          "uk": "повідомлення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/watch-notification_f2pp.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 470,
+  "height": 594
+}

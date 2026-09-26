@@ -1,0 +1,325 @@
+- generic [ref=f39e4]:
+  - navigation [ref=f39e5]:
+    - generic [ref=f39e6]:
+      - generic [ref=f39e7]:
+        - link "Unsplash Home" [ref=f39e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f39e9]
+        - link "Photos" [ref=f39e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f39e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f39e17]:
+        - button "Explore" [ref=f39e18] [cursor=pointer]
+        - button "Collections" [ref=f39e21] [cursor=pointer]
+        - button "Download History" [ref=f39e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f39e28] [cursor=pointer]
+    - generic [ref=f39e31]:
+      - link "Log in / Sign up" [ref=f39e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fjar-of-cream-with-flower-and-grooming-tool-u5BN6lszSBk
+      - button "Language" [ref=f39e35] [cursor=pointer]
+      - button "Menu" [ref=f39e38] [cursor=pointer]
+  - generic [ref=f39e41]:
+    - generic [ref=f39e42]:
+      - navigation [ref=f39e43]:
+        - search "Find visuals sitewide" [ref=f39e45]:
+          - button "Search Unsplash" [ref=f39e46] [cursor=pointer]
+          - combobox [ref=f39e49]:
+            - searchbox "Search Unsplash" [ref=f39e50]
+            - listbox
+          - button "Visual search" [ref=f39e52] [cursor=pointer]
+        - generic [ref=f39e55]:
+          - link "Get Unsplash+" [ref=f39e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f39e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fjar-of-cream-with-flower-and-grooming-tool-u5BN6lszSBk
+        - button "Submit an image" [ref=f39e59] [cursor=pointer]
+      - generic [ref=f39e60]:
+        - generic [ref=f39e61]:
+          - banner [ref=f39e63]:
+            - generic [ref=f39e65]:
+              - link [ref=f39e66] [cursor=pointer]:
+                - /url: /@getillustrations/illustrations
+              - generic [ref=f39e69]:
+                - link "Getillustrations" [ref=f39e70] [cursor=pointer]:
+                  - /url: /@getillustrations/illustrations
+                - generic [ref=f39e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f39e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fjar-of-cream-with-flower-and-grooming-tool-u5BN6lszSBk
+            - generic [ref=f39e73]:
+              - button "Bookmark" [ref=f39e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f39e77] [cursor=pointer]
+              - button "Edit image" [ref=f39e80] [cursor=pointer]
+              - button "Download" [ref=f39e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f39e90]:
+            - img "Jar of cream with flower and grooming tool" [ref=f39e91]
+          - generic [ref=f39e92]:
+            - generic [ref=f39e94]:
+              - button "Share this image" [ref=f39e95] [cursor=pointer]:
+                - generic [ref=f39e98]: Share
+              - button "More Actions" [ref=f39e99] [cursor=pointer]
+            - generic [ref=f39e103]:
+              - heading "Jar of cream with flower and grooming tool" [level=1] [ref=f39e105]
+              - paragraph [ref=f39e109]: Bloomie Life
+              - generic [ref=f39e111]:
+                - generic [ref=f39e116]:
+                  - text: Published on
+                  - time [ref=f39e117]: November 12, 2025
+                - generic [ref=f39e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f39e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f39e124]:
+              - link "blue" [ref=f39e125] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "green" [ref=f39e126] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "illustration" [ref=f39e127] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "cartoon" [ref=f39e128] [cursor=pointer]:
+                - /url: /s/illustrations/cartoon
+              - link "beauty" [ref=f39e129] [cursor=pointer]:
+                - /url: /s/illustrations/beauty
+              - link "wellness" [ref=f39e130] [cursor=pointer]:
+                - /url: /s/illustrations/wellness
+              - link "orange" [ref=f39e131] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "skincare" [ref=f39e132] [cursor=pointer]:
+                - /url: /s/illustrations/skincare
+              - link "vector" [ref=f39e133] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "skin care" [ref=f39e134] [cursor=pointer]:
+                - /url: /s/illustrations/skin-care
+              - link "cosmetic" [ref=f39e135] [cursor=pointer]:
+                - /url: /s/illustrations/cosmetic
+              - link "self care" [ref=f39e136] [cursor=pointer]:
+                - /url: /s/illustrations/self-care
+              - link "beauty products" [ref=f39e137] [cursor=pointer]:
+                - /url: /s/illustrations/beauty-products
+              - link "teal" [ref=f39e138] [cursor=pointer]:
+                - /url: /s/illustrations/teal
+              - link "beauty product" [ref=f39e139] [cursor=pointer]:
+                - /url: /s/illustrations/beauty-product
+              - link "personal care" [ref=f39e140] [cursor=pointer]:
+                - /url: /s/illustrations/personal-care
+              - link "beauty treatment" [ref=f39e141] [cursor=pointer]:
+                - /url: /s/illustrations/beauty-treatment
+              - link "skincare product" [ref=f39e142] [cursor=pointer]:
+                - /url: /s/illustrations/skincare-product
+              - link "skincare routine" [ref=f39e143] [cursor=pointer]:
+                - /url: /s/illustrations/skincare-routine
+              - link "moisturizer" [ref=f39e144] [cursor=pointer]:
+                - /url: /s/illustrations/moisturizer
+        - generic [ref=f39e147]:
+          - generic [ref=f39e148]:
+            - paragraph [ref=f39e150]: From this series
+            - generic [ref=f39e153]:
+              - generic [ref=f39e154]:
+                - link [ref=f39e155] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fperson-sitting-under-a-rainy-cloud-O-HnjE5JhRI
+                - link [ref=f39e158]:
+                  - /url: /illustrations/person-sitting-under-a-rainy-cloud-O-HnjE5JhRI
+                  - img "Person sitting under a rainy cloud" [ref=f39e159]
+              - generic [ref=f39e160]:
+                - link [ref=f39e161] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fhand-placing-cloud-with-face-into-open-head-6PG0S928Se4
+                - link [ref=f39e164]:
+                  - /url: /illustrations/hand-placing-cloud-with-face-into-open-head-6PG0S928Se4
+                  - img "Hand placing cloud with face into open head" [ref=f39e165]
+              - generic [ref=f39e166]:
+                - link [ref=f39e167] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-stylized-vinyl-record-with-stars-and-sparkles-98bt_Qk6aiU
+                - link [ref=f39e170]:
+                  - /url: /illustrations/a-stylized-vinyl-record-with-stars-and-sparkles-98bt_Qk6aiU
+                  - img "A stylized vinyl record with stars and sparkles" [ref=f39e171]
+              - generic [ref=f39e172]:
+                - link [ref=f39e173] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fperson-drinking-water-from-bottle-with-backpack-92oJAQhOOtY
+                - link [ref=f39e176]:
+                  - /url: /illustrations/person-drinking-water-from-bottle-with-backpack-92oJAQhOOtY
+                  - img "Person drinking water from bottle with backpack" [ref=f39e177]
+              - generic [ref=f39e178]:
+                - link [ref=f39e179] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-witch-holding-a-potion-and-a-spellbook-YTWS4obEE_Q
+                - link [ref=f39e182]:
+                  - /url: /illustrations/a-witch-holding-a-potion-and-a-spellbook-YTWS4obEE_Q
+                  - img "A witch holding a potion and a spellbook." [ref=f39e183]
+              - generic [ref=f39e184]:
+                - link [ref=f39e185] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fastronaut-fishing-for-coffee-in-a-yellow-mug-nphvjv2ahN8
+                - link [ref=f39e188]:
+                  - /url: /illustrations/astronaut-fishing-for-coffee-in-a-yellow-mug-nphvjv2ahN8
+                  - img "Astronaut fishing for coffee in a yellow mug." [ref=f39e189]
+              - generic [ref=f39e190]:
+                - link [ref=f39e191] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Forange-mushrooms-with-yellow-spots-and-wavy-lines-RlwvHdwm7os
+                - link [ref=f39e194]:
+                  - /url: /illustrations/orange-mushrooms-with-yellow-spots-and-wavy-lines-RlwvHdwm7os
+                  - img "Orange mushrooms with yellow spots and wavy lines" [ref=f39e195]
+              - generic [ref=f39e196]:
+                - link [ref=f39e197] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fwoman-with-blue-hair-combing-with-a-green-comb-5xFU-4VzwRc
+                - link [ref=f39e200]:
+                  - /url: /illustrations/woman-with-blue-hair-combing-with-a-green-comb-5xFU-4VzwRc
+                  - img "Woman with blue hair combing with a green comb" [ref=f39e201]
+              - generic [ref=f39e202]:
+                - link [ref=f39e203] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Forange-figure-holding-a-heart-shaped-flower-with-sun-rays-JQfwP-p6PfY
+                - link [ref=f39e206]:
+                  - /url: /illustrations/orange-figure-holding-a-heart-shaped-flower-with-sun-rays-JQfwP-p6PfY
+                  - img "Orange figure holding a heart-shaped flower with sun rays" [ref=f39e207]
+              - generic [ref=f39e208]:
+                - link [ref=f39e209] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fbottle-cocktail-glass-and-floral-elements-S7Xfk9xtyjI
+                - link [ref=f39e212]:
+                  - /url: /illustrations/bottle-cocktail-glass-and-floral-elements-S7Xfk9xtyjI
+                  - img "Bottle, cocktail glass, and floral elements." [ref=f39e213]
+          - generic [ref=f39e214]:
+            - heading "Related images" [level=4] [ref=f39e216]
+            - generic [ref=f39e220]:
+              - generic [ref=f39e221]:
+                - figure [ref=f39e222]:
+                  - generic [ref=f39e224]:
+                    - link [ref=f39e225]:
+                      - /url: /illustrations/a-jar-of-cream-with-a-rose-on-top-bapwY0B955I
+                      - img "A jar of cream with a rose on top" [ref=f39e226]
+                    - link [ref=f39e227] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-jar-of-cream-with-a-rose-on-top-bapwY0B955I
+                - figure [ref=f39e230]:
+                  - generic [ref=f39e232]:
+                    - link [ref=f39e233]:
+                      - /url: /illustrations/woman-with-face-mask-and-towel-skincare-bottle-FzGDzYpEDKo
+                      - img "Woman with face mask and towel, skincare bottle" [ref=f39e234]
+                    - link [ref=f39e235] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-with-face-mask-and-towel-skincare-bottle-FzGDzYpEDKo
+                - figure [ref=f39e238]:
+                  - generic [ref=f39e240]:
+                    - link [ref=f39e241]:
+                      - /url: /illustrations/a-jar-of-cream-next-to-a-tube-of-cream-07_W-nHPYKc
+                      - img "A jar of cream next to a tube of cream" [ref=f39e242]
+                    - link [ref=f39e243] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-jar-of-cream-next-to-a-tube-of-cream-07_W-nHPYKc
+                - figure [ref=f39e246]:
+                  - generic [ref=f39e248]:
+                    - link [ref=f39e249]:
+                      - /url: /illustrations/a-picture-of-a-tube-of-sunscreen-on-a-white-background-9ihxHrQS6Ts
+                      - img "A picture of a tube of sunscreen on a white background" [ref=f39e250]
+                    - link [ref=f39e251] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-a-tube-of-sunscreen-on-a-white-background-9ihxHrQS6Ts
+                - figure [ref=f39e254]:
+                  - generic [ref=f39e256]:
+                    - link [ref=f39e257]:
+                      - /url: /illustrations/a-bottle-of-liquid-with-leaves-around-it-DWz_QVoOK-4
+                      - img "A bottle of liquid with leaves around it" [ref=f39e258]
+                    - link [ref=f39e259] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bottle-of-liquid-with-leaves-around-it-DWz_QVoOK-4
+                - figure [ref=f39e262]:
+                  - generic [ref=f39e264]:
+                    - link [ref=f39e265]:
+                      - /url: /illustrations/a-bottle-of-soap-with-a-wooden-handle-CIhvzys0r-w
+                      - img "A bottle of soap with a wooden handle" [ref=f39e266]
+                    - link [ref=f39e267] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bottle-of-soap-with-a-wooden-handle-CIhvzys0r-w
+                - figure [ref=f39e270]:
+                  - generic [ref=f39e272]:
+                    - link [ref=f39e273]:
+                      - /url: /illustrations/a-picture-of-a-bowl-of-food-on-a-plate-Piz9q2Y8vu4
+                      - img "A picture of a bowl of food on a plate" [ref=f39e274]
+                    - link [ref=f39e275] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-a-bowl-of-food-on-a-plate-Piz9q2Y8vu4
+              - generic [ref=f39e278]:
+                - figure [ref=f39e279]:
+                  - generic [ref=f39e281]:
+                    - link [ref=f39e282]:
+                      - /url: /illustrations/a-flower-blooms-from-a-tipped-over-pot--qc-JTRosqg
+                      - img "A flower blooms from a tipped-over pot." [ref=f39e283]
+                    - link [ref=f39e284] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-flower-blooms-from-a-tipped-over-pot--qc-JTRosqg
+                - figure [ref=f39e287]:
+                  - generic [ref=f39e289]:
+                    - link [ref=f39e290]:
+                      - /url: /illustrations/a-bottle-of-lotion-and-a-jar-of-lotion-on-a-pink-background-pWPOldi6cIo
+                      - img "A bottle of lotion and a jar of lotion on a pink background" [ref=f39e291]
+                    - link [ref=f39e292] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bottle-of-lotion-and-a-jar-of-lotion-on-a-pink-background-pWPOldi6cIo
+                - figure [ref=f39e295]:
+                  - generic [ref=f39e297]:
+                    - link [ref=f39e298]:
+                      - /url: /illustrations/a-bottle-of-soap-with-leaves-around-it-GT_jFU3-Xcc
+                      - img "A bottle of soap with leaves around it" [ref=f39e299]
+                    - link [ref=f39e300] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bottle-of-soap-with-leaves-around-it-GT_jFU3-Xcc
+                - figure [ref=f39e303]:
+                  - generic [ref=f39e305]:
+                    - link [ref=f39e306]:
+                      - /url: /illustrations/a-shovel-and-a-bag-of-dirt-5W0GXrIa6KI
+                      - img "A shovel and a bag of dirt" [ref=f39e307]
+                    - link [ref=f39e308] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-shovel-and-a-bag-of-dirt-5W0GXrIa6KI
+                - figure [ref=f39e311]:
+                  - generic [ref=f39e313]:
+                    - link [ref=f39e314]:
+                      - /url: /illustrations/a-bottle-of-lotion-and-a-tube-of-lotion-on-a-white-background-EDet6kD_IdU
+                      - img "A bottle of lotion and a tube of lotion on a white background" [ref=f39e315]
+                    - link [ref=f39e316] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bottle-of-lotion-and-a-tube-of-lotion-on-a-white-background-EDet6kD_IdU
+                - figure [ref=f39e319]:
+                  - generic [ref=f39e321]:
+                    - link [ref=f39e322]:
+                      - /url: /illustrations/a-couple-of-bottles-of-lotion-and-a-container-of-lotion-wbWFCer9uvE
+                      - img "A couple of bottles of lotion and a container of lotion" [ref=f39e323]
+                    - link [ref=f39e324] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-couple-of-bottles-of-lotion-and-a-container-of-lotion-wbWFCer9uvE
+              - generic [ref=f39e327]:
+                - figure [ref=f39e328]:
+                  - generic [ref=f39e330]:
+                    - link [ref=f39e331]:
+                      - /url: /illustrations/pink-bottle-with-yellow-label-and-yellow-flower-MzW2dInG0T0
+                      - img "Pink bottle with yellow label and yellow flower" [ref=f39e332]
+                    - link [ref=f39e333] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fpink-bottle-with-yellow-label-and-yellow-flower-MzW2dInG0T0
+                - figure [ref=f39e336]:
+                  - generic [ref=f39e338]:
+                    - link [ref=f39e339]:
+                      - /url: /illustrations/a-bottle-of-liquid-with-a-pink-substance-on-top-BNhlCYNvq5s
+                      - img "A bottle of liquid with a pink substance on top" [ref=f39e340]
+                    - link [ref=f39e341] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bottle-of-liquid-with-a-pink-substance-on-top-BNhlCYNvq5s
+                - figure [ref=f39e344]:
+                  - generic [ref=f39e346]:
+                    - link [ref=f39e347]:
+                      - /url: /illustrations/woman-applying-makeup-with-mirror-and-brush-PyD7INjXCgU
+                      - img "Woman applying makeup with mirror and brush" [ref=f39e348]
+                    - link [ref=f39e349] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-applying-makeup-with-mirror-and-brush-PyD7INjXCgU
+                - figure [ref=f39e352]:
+                  - generic [ref=f39e354]:
+                    - link [ref=f39e355]:
+                      - /url: /illustrations/a-jar-with-a-plant-inside-of-it-V9y2IQ4Dcew
+                      - img "A jar with a plant inside of it" [ref=f39e356]
+                    - link [ref=f39e357] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-jar-with-a-plant-inside-of-it-V9y2IQ4Dcew
+                - figure [ref=f39e360]:
+                  - generic [ref=f39e362]:
+                    - link [ref=f39e363]:
+                      - /url: /illustrations/turquoise-bottle-with-yellow-pump-surrounded-by-abstract-shapes-IymWcv5fhzk
+                      - img "Turquoise bottle with yellow pump surrounded by abstract shapes." [ref=f39e364]
+                    - link [ref=f39e365] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fturquoise-bottle-with-yellow-pump-surrounded-by-abstract-shapes-IymWcv5fhzk
+                - figure [ref=f39e368]:
+                  - generic [ref=f39e370]:
+                    - link [ref=f39e371]:
+                      - /url: /illustrations/woman-with-blue-hair-combing-with-a-green-comb-5xFU-4VzwRc
+                      - img "Woman with blue hair combing with a green comb" [ref=f39e372]
+                    - link [ref=f39e373] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-with-blue-hair-combing-with-a-green-comb-5xFU-4VzwRc
+                - figure [ref=f39e376]:
+                  - generic [ref=f39e378]:
+                    - link [ref=f39e379]:
+                      - /url: /illustrations/a-bottle-of-lotion-and-a-jar-of-lotion-e80seZ2Olw0
+                      - img "A bottle of lotion and a jar of lotion" [ref=f39e380]
+                    - link [ref=f39e381] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bottle-of-lotion-and-a-jar-of-lotion-e80seZ2Olw0
+    - generic:
+      - region "Notifications"

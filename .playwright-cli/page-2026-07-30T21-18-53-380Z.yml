@@ -1,0 +1,309 @@
+- generic [ref=f41e4]:
+  - navigation [ref=f41e5]:
+    - generic [ref=f41e6]:
+      - generic [ref=f41e7]:
+        - link "Unsplash Home" [ref=f41e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f41e9]
+        - link "Photos" [ref=f41e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f41e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f41e17]:
+        - button "Explore" [ref=f41e18] [cursor=pointer]
+        - button "Collections" [ref=f41e21] [cursor=pointer]
+        - button "Download History" [ref=f41e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f41e28] [cursor=pointer]
+    - generic [ref=f41e31]:
+      - link "Log in / Sign up" [ref=f41e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-cartoon-of-a-girl-holding-a-cell-phone-yTMK2UB7cCw
+      - button "Language" [ref=f41e35] [cursor=pointer]
+      - button "Menu" [ref=f41e38] [cursor=pointer]
+  - generic [ref=f41e41]:
+    - generic [ref=f41e42]:
+      - navigation [ref=f41e43]:
+        - search "Find visuals sitewide" [ref=f41e45]:
+          - button "Search Unsplash" [ref=f41e46] [cursor=pointer]
+          - combobox [ref=f41e49]:
+            - searchbox "Search Unsplash" [ref=f41e50]
+            - listbox
+          - button "Visual search" [ref=f41e52] [cursor=pointer]
+        - generic [ref=f41e55]:
+          - link "Get Unsplash+" [ref=f41e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f41e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-cartoon-of-a-girl-holding-a-cell-phone-yTMK2UB7cCw
+        - button "Submit an image" [ref=f41e59] [cursor=pointer]
+      - generic [ref=f41e60]:
+        - generic [ref=f41e61]:
+          - banner [ref=f41e63]:
+            - generic [ref=f41e65]:
+              - link [ref=f41e66] [cursor=pointer]:
+                - /url: /@summertimeflag/illustrations
+              - generic [ref=f41e69]:
+                - link "summertime flag" [ref=f41e70] [cursor=pointer]:
+                  - /url: /@summertimeflag/illustrations
+                - generic [ref=f41e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f41e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-of-a-girl-holding-a-cell-phone-yTMK2UB7cCw
+            - generic [ref=f41e73]:
+              - button "Bookmark" [ref=f41e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f41e77] [cursor=pointer]
+              - button "Edit image" [ref=f41e80] [cursor=pointer]
+              - button "Download" [ref=f41e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f41e90]:
+            - img "A cartoon of a girl holding a cell phone" [ref=f41e91]
+          - generic [ref=f41e92]:
+            - generic [ref=f41e94]:
+              - button "Share this image" [ref=f41e95] [cursor=pointer]:
+                - generic [ref=f41e98]: Share
+              - button "More Actions" [ref=f41e99] [cursor=pointer]
+            - generic [ref=f41e103]:
+              - heading "A cartoon of a girl holding a cell phone" [level=1] [ref=f41e105]
+              - paragraph [ref=f41e109]: Halloween Graveyard Guardian Costume Illustration by summertimeflag studio
+              - generic [ref=f41e111]:
+                - generic [ref=f41e116]:
+                  - text: Published on
+                  - time [ref=f41e117]: August 9, 2024
+                - generic [ref=f41e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f41e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f41e124]:
+              - link "girl" [ref=f41e125] [cursor=pointer]:
+                - /url: /s/illustrations/girl
+              - link "illustration" [ref=f41e126] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "halloween" [ref=f41e127] [cursor=pointer]:
+                - /url: /s/illustrations/halloween
+              - link "horror" [ref=f41e128] [cursor=pointer]:
+                - /url: /s/illustrations/horror
+              - link "candle" [ref=f41e129] [cursor=pointer]:
+                - /url: /s/illustrations/candle
+              - link "celebration" [ref=f41e130] [cursor=pointer]:
+                - /url: /s/illustrations/celebration
+              - link "holiday" [ref=f41e131] [cursor=pointer]:
+                - /url: /s/illustrations/holiday
+              - link "vector" [ref=f41e132] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "full moon" [ref=f41e133] [cursor=pointer]:
+                - /url: /s/illustrations/full-moon
+              - link "fantasy" [ref=f41e134] [cursor=pointer]:
+                - /url: /s/illustrations/fantasy
+              - link "graphic" [ref=f41e135] [cursor=pointer]:
+                - /url: /s/illustrations/graphic
+              - link "ghost" [ref=f41e136] [cursor=pointer]:
+                - /url: /s/illustrations/ghost
+              - link "spooky" [ref=f41e137] [cursor=pointer]:
+                - /url: /s/illustrations/spooky
+              - link "character" [ref=f41e138] [cursor=pointer]:
+                - /url: /s/illustrations/character
+              - link "graveyard" [ref=f41e139] [cursor=pointer]:
+                - /url: /s/illustrations/graveyard
+              - link "moonlight" [ref=f41e140] [cursor=pointer]:
+                - /url: /s/illustrations/moonlight
+              - link "darkness" [ref=f41e141] [cursor=pointer]:
+                - /url: /s/illustrations/darkness
+              - link "mysterious" [ref=f41e142] [cursor=pointer]:
+                - /url: /s/illustrations/mysterious
+              - link "midnight" [ref=f41e143] [cursor=pointer]:
+                - /url: /s/illustrations/midnight
+              - link "tombstone" [ref=f41e144] [cursor=pointer]:
+                - /url: /s/illustrations/tombstone
+        - generic [ref=f41e147]:
+          - generic [ref=f41e148]:
+            - paragraph [ref=f41e150]: From this series
+            - generic [ref=f41e152]:
+              - button "scroll list to the right" [ref=f41e154] [cursor=pointer]
+              - generic [ref=f41e157]:
+                - generic [ref=f41e158]:
+                  - link [ref=f41e159] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-boy-holding-a-bottle-of-water-4URutcF6ltE
+                  - link [ref=f41e162]:
+                    - /url: /illustrations/a-cartoon-boy-holding-a-bottle-of-water-4URutcF6ltE
+                    - img "A cartoon boy holding a bottle of water" [ref=f41e163]
+                - generic [ref=f41e164]:
+                  - link [ref=f41e165] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-white-ghost-with-orange-shoes-standing-in-front-of-a-full-moon-MhtI7WQLE60
+                  - link [ref=f41e168]:
+                    - /url: /illustrations/a-white-ghost-with-orange-shoes-standing-in-front-of-a-full-moon-MhtI7WQLE60
+                    - img "A white ghost with orange shoes standing in front of a full moon" [ref=f41e169]
+                - generic [ref=f41e170]:
+                  - link [ref=f41e171] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-in-a-red-cape-standing-in-front-of-a-full-moon-58Vq3vM1Alk
+                  - link [ref=f41e174]:
+                    - /url: /illustrations/a-man-in-a-red-cape-standing-in-front-of-a-full-moon-58Vq3vM1Alk
+                    - img "A man in a red cape standing in front of a full moon" [ref=f41e175]
+                - generic [ref=f41e176]:
+                  - link [ref=f41e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-with-a-skeleton-on-his-face-standing-in-the-grass-WDdegDlJyzQ
+                  - link [ref=f41e180]:
+                    - /url: /illustrations/a-man-with-a-skeleton-on-his-face-standing-in-the-grass-WDdegDlJyzQ
+                    - img "A man with a skeleton on his face standing in the grass" [ref=f41e181]
+                - generic [ref=f41e182]:
+                  - link [ref=f41e183] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-of-a-person-holding-a-pumpkin-_ngABx7Eupw
+                  - link [ref=f41e186]:
+                    - /url: /illustrations/a-cartoon-of-a-person-holding-a-pumpkin-_ngABx7Eupw
+                    - img "A cartoon of a person holding a pumpkin" [ref=f41e187]
+                - generic [ref=f41e188]:
+                  - link [ref=f41e189] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-little-girl-dressed-as-a-wizard-flying-on-a-broom-Xp3I2c7f1kQ
+                  - link [ref=f41e192]:
+                    - /url: /illustrations/a-little-girl-dressed-as-a-wizard-flying-on-a-broom-Xp3I2c7f1kQ
+                    - img "A little girl dressed as a wizard flying on a broom" [ref=f41e193]
+                - generic [ref=f41e194]:
+                  - link [ref=f41e195] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-standing-in-front-of-a-full-moon-vkZAmzDCqF0
+                  - link [ref=f41e198]:
+                    - /url: /illustrations/a-man-standing-in-front-of-a-full-moon-vkZAmzDCqF0
+                    - img "A man standing in front of a full moon" [ref=f41e199]
+          - generic [ref=f41e200]:
+            - heading "Related images" [level=4] [ref=f41e202]
+            - generic [ref=f41e206]:
+              - generic [ref=f41e207]:
+                - figure [ref=f41e208]:
+                  - generic [ref=f41e210]:
+                    - link [ref=f41e211]:
+                      - /url: /illustrations/a-man-standing-in-front-of-a-full-moon-vkZAmzDCqF0
+                      - img "A man standing in front of a full moon" [ref=f41e212]
+                    - link [ref=f41e213] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-standing-in-front-of-a-full-moon-vkZAmzDCqF0
+                - figure [ref=f41e216]:
+                  - generic [ref=f41e218]:
+                    - link [ref=f41e219]:
+                      - /url: /illustrations/a-person-in-a-costume-standing-in-front-of-a-gate-IVgkLGWtimY
+                      - img "A person in a costume standing in front of a gate" [ref=f41e220]
+                    - link [ref=f41e221] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-in-a-costume-standing-in-front-of-a-gate-IVgkLGWtimY
+                - figure [ref=f41e224]:
+                  - generic [ref=f41e226]:
+                    - link [ref=f41e227]:
+                      - /url: /illustrations/a-blue-tombstone-with-a-cross-on-it-STA1ogbY9uQ
+                      - img "A blue tombstone with a cross on it" [ref=f41e228]
+                    - link [ref=f41e229] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-blue-tombstone-with-a-cross-on-it-STA1ogbY9uQ
+                - figure [ref=f41e232]:
+                  - generic [ref=f41e234]:
+                    - link [ref=f41e235]:
+                      - /url: /illustrations/a-halloween-scene-with-a-witch-flying-over-a-graveyard-wAjBQY8wHCo
+                      - img "A halloween scene with a witch flying over a graveyard" [ref=f41e236]
+                    - link [ref=f41e237] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-halloween-scene-with-a-witch-flying-over-a-graveyard-wAjBQY8wHCo
+                - figure [ref=f41e240]:
+                  - generic [ref=f41e242]:
+                    - link [ref=f41e243]:
+                      - /url: /illustrations/vampire-woman-standing-in-graveyard-with-bats-c_TIkRUhPec
+                      - img "Vampire woman standing in graveyard with bats" [ref=f41e244]
+                    - link [ref=f41e245] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fvampire-woman-standing-in-graveyard-with-bats-c_TIkRUhPec
+                - figure [ref=f41e248]:
+                  - generic [ref=f41e250]:
+                    - link [ref=f41e251]:
+                      - /url: /illustrations/woman-in-blue-dress-walks-towards-a-gate-9gxt33zpLsI
+                      - img "Woman in blue dress walks towards a gate" [ref=f41e252]
+                    - link [ref=f41e253] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-in-blue-dress-walks-towards-a-gate-9gxt33zpLsI
+              - generic [ref=f41e256]:
+                - figure [ref=f41e257]:
+                  - generic [ref=f41e259]:
+                    - link [ref=f41e260]:
+                      - /url: /illustrations/witch-with-crystal-ball-in-graveyard-with-graveyard-and-bats-Ns9SojnI9lg
+                      - img "Witch with crystal ball in graveyard with graveyard and bats" [ref=f41e261]
+                    - link [ref=f41e262] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwitch-with-crystal-ball-in-graveyard-with-graveyard-and-bats-Ns9SojnI9lg
+                - figure [ref=f41e265]:
+                  - generic [ref=f41e267]:
+                    - link [ref=f41e268]:
+                      - /url: /illustrations/a-woman-in-a-witch-costume-carrying-two-pumpkins-s3djtZ3riIs
+                      - img "A woman in a witch costume carrying two pumpkins" [ref=f41e269]
+                    - link [ref=f41e270] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-in-a-witch-costume-carrying-two-pumpkins-s3djtZ3riIs
+                - figure [ref=f41e273]:
+                  - generic [ref=f41e275]:
+                    - link [ref=f41e276]:
+                      - /url: /illustrations/a-cartoon-character-holding-a-jack-o-lantern-s6dPtuuZ_JQ
+                      - img "A cartoon character holding a jack o lantern" [ref=f41e277]
+                    - link [ref=f41e278] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-character-holding-a-jack-o-lantern-s6dPtuuZ_JQ
+                - figure [ref=f41e281]:
+                  - generic [ref=f41e283]:
+                    - link [ref=f41e284]:
+                      - /url: /illustrations/a-woman-in-a-witch-costume-holding-a-pumpkin-Kft175Z7LF0
+                      - img "A woman in a witch costume holding a pumpkin" [ref=f41e285]
+                    - link [ref=f41e286] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-in-a-witch-costume-holding-a-pumpkin-Kft175Z7LF0
+                - figure [ref=f41e289]:
+                  - generic [ref=f41e291]:
+                    - link [ref=f41e292]:
+                      - /url: /illustrations/a-cemetery-with-bats-and-a-full-moon-72U_-NPQi-U
+                      - img "A cemetery with bats and a full moon" [ref=f41e293]
+                    - link [ref=f41e294] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cemetery-with-bats-and-a-full-moon-72U_-NPQi-U
+                - figure [ref=f41e297]:
+                  - generic [ref=f41e299]:
+                    - link [ref=f41e300]:
+                      - /url: /illustrations/a-woman-in-a-red-dress-holding-a-microphone-JeIzCHakVV0
+                      - img "A woman in a red dress holding a microphone" [ref=f41e301]
+                    - link [ref=f41e302] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-in-a-red-dress-holding-a-microphone-JeIzCHakVV0
+                - figure [ref=f41e305]:
+                  - generic [ref=f41e307]:
+                    - link [ref=f41e308]:
+                      - /url: /illustrations/a-skeleton-dancing-in-front-of-a-graveyard-JA_qu5OOvZ4
+                      - img "A skeleton dancing in front of a graveyard" [ref=f41e309]
+                    - link [ref=f41e310] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-skeleton-dancing-in-front-of-a-graveyard-JA_qu5OOvZ4
+              - generic [ref=f41e313]:
+                - figure [ref=f41e314]:
+                  - generic [ref=f41e316]:
+                    - link [ref=f41e317]:
+                      - /url: /illustrations/a-cartoon-of-a-person-holding-a-pumpkin-_ngABx7Eupw
+                      - img "A cartoon of a person holding a pumpkin" [ref=f41e318]
+                    - link [ref=f41e319] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-of-a-person-holding-a-pumpkin-_ngABx7Eupw
+                - figure [ref=f41e322]:
+                  - generic [ref=f41e324]:
+                    - link [ref=f41e325]:
+                      - /url: /illustrations/a-woman-in-a-purple-dress-and-a-cat-3BrSPU6cuAQ
+                      - img "A woman in a purple dress and a cat" [ref=f41e326]
+                    - link [ref=f41e327] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-in-a-purple-dress-and-a-cat-3BrSPU6cuAQ
+                - figure [ref=f41e330]:
+                  - generic [ref=f41e332]:
+                    - link [ref=f41e333]:
+                      - /url: /illustrations/a-white-ghost-with-orange-shoes-standing-in-front-of-a-full-moon-MhtI7WQLE60
+                      - img "A white ghost with orange shoes standing in front of a full moon" [ref=f41e334]
+                    - link [ref=f41e335] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-white-ghost-with-orange-shoes-standing-in-front-of-a-full-moon-MhtI7WQLE60
+                - figure [ref=f41e338]:
+                  - generic [ref=f41e340]:
+                    - link [ref=f41e341]:
+                      - /url: /illustrations/a-cartoon-of-a-ghost-walking-in-front-of-a-cross-wOMoJF5YE5o
+                      - img "A cartoon of a ghost walking in front of a cross" [ref=f41e342]
+                    - link [ref=f41e343] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-of-a-ghost-walking-in-front-of-a-cross-wOMoJF5YE5o
+                - figure [ref=f41e346]:
+                  - generic [ref=f41e348]:
+                    - link [ref=f41e349]:
+                      - /url: /illustrations/a-person-comforts-themselves-with-a-bottle-dSyYEy_m26Y
+                      - img "A person comforts themselves with a bottle." [ref=f41e350]
+                    - link [ref=f41e351] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-comforts-themselves-with-a-bottle-dSyYEy_m26Y
+                - figure [ref=f41e354]:
+                  - generic [ref=f41e356]:
+                    - link [ref=f41e357]:
+                      - /url: /illustrations/a-man-with-a-skeleton-on-his-face-standing-in-the-grass-WDdegDlJyzQ
+                      - img "A man with a skeleton on his face standing in the grass" [ref=f41e358]
+                    - link [ref=f41e359] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-with-a-skeleton-on-his-face-standing-in-the-grass-WDdegDlJyzQ
+                - figure [ref=f41e362]:
+                  - generic [ref=f41e364]:
+                    - link [ref=f41e365]:
+                      - /url: /illustrations/a-black-bird-sitting-on-top-of-a-grave-719H9hY-DCY
+                      - img "A black bird sitting on top of a grave" [ref=f41e366]
+                    - link [ref=f41e367] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-black-bird-sitting-on-top-of-a-grave-719H9hY-DCY
+    - generic:
+      - region "Notifications"

@@ -1,0 +1,63 @@
+{
+  "slug": "my-resume-etai",
+  "mediaKey": "8b230697-ff6b-4eaa-9eea-997dabda4d58",
+  "providerId": "6901387023704b7532326069",
+  "i18n": {
+    "name": {
+      "en": "My Resume",
+      "uk": "Моє резюме"
+    },
+    "alt": {
+      "en": "My Resume",
+      "uk": "Моє резюме"
+    },
+    "tags": [
+      {
+        "key": "my-resume",
+        "i18n": {
+          "en": "My Resume",
+          "uk": "Моє резюме"
+        }
+      },
+      {
+        "key": "my",
+        "i18n": {
+          "en": "my",
+          "uk": "мій"
+        }
+      },
+      {
+        "key": "resume",
+        "i18n": {
+          "en": "resume",
+          "uk": "резюме"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/my-resume_etai.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 492,
+  "height": 800
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "under-construction",
+  "mediaKey": "77e6ccbf-1550-4ce1-a5b8-a16b6774d007",
+  "i18n": {
+    "name": {
+      "en": "Maintenance",
+      "uk": "Технічне обслуговування"
+    },
+    "alt": {
+      "en": "Maintenance",
+      "uk": "Технічне обслуговування"
+    },
+    "tags": [
+      {
+        "key": "construction",
+        "i18n": {
+          "en": "construction",
+          "uk": "будівництво"
+        }
+      },
+      {
+        "key": "maintenance",
+        "i18n": {
+          "en": "maintenance",
+          "uk": "технічне обслуговування"
+        }
+      },
+      {
+        "key": "working",
+        "i18n": {
+          "en": "working",
+          "uk": "робота"
+        }
+      },
+      {
+        "key": "tools",
+        "i18n": {
+          "en": "tools",
+          "uk": "інструменти"
+        }
+      },
+      {
+        "key": "webpage",
+        "i18n": {
+          "en": "webpage",
+          "uk": "вебсторінка"
+        }
+      },
+      {
+        "key": "ops",
+        "i18n": {
+          "en": "ops",
+          "uk": "ops"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/under-construction",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

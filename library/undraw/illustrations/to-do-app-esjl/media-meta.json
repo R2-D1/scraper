@@ -1,0 +1,63 @@
+{
+  "slug": "to-do-app-esjl",
+  "mediaKey": "b3135edc-e2ed-4bf7-8d07-51b8c5ce1ec2",
+  "providerId": "68cb361cf0641b86457ced23",
+  "i18n": {
+    "name": {
+      "en": "To Do App",
+      "uk": "Додаток «Список справ»"
+    },
+    "alt": {
+      "en": "To Do App",
+      "uk": "Додаток «Список справ»"
+    },
+    "tags": [
+      {
+        "key": "to-do-app",
+        "i18n": {
+          "en": "To Do App",
+          "uk": "Додаток «Список справ»"
+        }
+      },
+      {
+        "key": "do",
+        "i18n": {
+          "en": "do",
+          "uk": "зробити"
+        }
+      },
+      {
+        "key": "app",
+        "i18n": {
+          "en": "app",
+          "uk": "додаток"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/to-do-app_esjl.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 358,
+  "height": 719
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "petting-xclp",
+  "mediaKey": "a6de084a-bb5b-432a-b010-5de04f847bfc",
+  "providerId": "68a79d5b3eb67c266e9deca2",
+  "i18n": {
+    "name": {
+      "en": "Petting",
+      "uk": "Петинг"
+    },
+    "alt": {
+      "en": "Petting",
+      "uk": "Петинг"
+    },
+    "tags": [
+      {
+        "key": "petting",
+        "i18n": {
+          "en": "Petting",
+          "uk": "Петинг"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/petting_xclp.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 640,
+  "height": 499
+}

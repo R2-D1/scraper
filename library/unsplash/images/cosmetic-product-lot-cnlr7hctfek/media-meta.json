@@ -1,0 +1,46 @@
+{
+  "slug": "cosmetic-product-lot-cnlr7hctfek",
+  "mediaKey": "af4a3cef-ae36-4328-aeb6-23613994ebaa",
+  "i18n": {
+    "name": {
+      "en": "cosmetic product lot",
+      "uk": "Косметичні засоби на кам’яній підставці"
+    },
+    "alt": {
+      "en": "cosmetic product lot",
+      "uk": "Косметичні засоби на кам’яній підставці"
+    },
+    "tags": [
+      {
+        "key": "grey",
+        "i18n": {
+          "en": "grey",
+          "uk": "сірий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/cosmetic-product-lot-cNLr7hctFEk",
+  "sourceName": "Unsplash",
+  "authorName": "Lumin",
+  "authorUrl": "https://unsplash.com/@lumin",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "pinned": false,
+  "width": 2400,
+  "height": 1602,
+  "collectionSlugs": [
+    "beauty"
+  ]
+}

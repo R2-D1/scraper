@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-33879244",
+  "mediaKey": "pexels:33879244",
+  "i18n": {
+    "name": {
+      "en": "Minimal red horizon gradient",
+      "uk": "Мінімальний градієнт червоного горизонту"
+    },
+    "alt": {
+      "en": "Intriguing abstract art with a surreal glowing orb and fluid shapes, exuding a mystical atmosphere.",
+      "uk": "Цікаве абстрактне мистецтво із сюрреалістичною сяючою кулею та плавними формами, що створює містичну атмосферу."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "horizon",
+        "i18n": {
+          "en": "horizon",
+          "uk": "горизонт"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "minimal",
+        "i18n": {
+          "en": "minimal",
+          "uk": "мінімальний"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/abstract-fantasy-art-with-surreal-glow-33879244/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

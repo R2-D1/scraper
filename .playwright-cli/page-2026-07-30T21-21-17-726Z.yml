@@ -1,0 +1,295 @@
+- generic [ref=f93e4]:
+  - navigation [ref=f93e5]:
+    - generic [ref=f93e6]:
+      - generic [ref=f93e7]:
+        - link "Unsplash Home" [ref=f93e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f93e9]
+        - link "Photos" [ref=f93e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f93e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f93e17]:
+        - button "Explore" [ref=f93e18] [cursor=pointer]
+        - button "Collections" [ref=f93e21] [cursor=pointer]
+        - button "Download History" [ref=f93e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f93e28] [cursor=pointer]
+    - generic [ref=f93e31]:
+      - link "Log in / Sign up" [ref=f93e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-woman-sitting-on-the-ground-with-a-book-and-a-cell-phone-sgaPbRg0IiE
+      - button "Language" [ref=f93e35] [cursor=pointer]
+      - button "Menu" [ref=f93e38] [cursor=pointer]
+  - generic [ref=f93e41]:
+    - generic [ref=f93e42]:
+      - navigation [ref=f93e43]:
+        - search "Find visuals sitewide" [ref=f93e45]:
+          - button "Search Unsplash" [ref=f93e46] [cursor=pointer]
+          - combobox [ref=f93e49]:
+            - searchbox "Search Unsplash" [ref=f93e50]
+            - listbox
+          - button "Visual search" [ref=f93e52] [cursor=pointer]
+        - generic [ref=f93e55]:
+          - link "Get Unsplash+" [ref=f93e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f93e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-woman-sitting-on-the-ground-with-a-book-and-a-cell-phone-sgaPbRg0IiE
+        - button "Submit an image" [ref=f93e59] [cursor=pointer]
+      - generic [ref=f93e60]:
+        - generic [ref=f93e61]:
+          - banner [ref=f93e63]:
+            - generic [ref=f93e65]:
+              - link [ref=f93e66] [cursor=pointer]:
+                - /url: /@dankudraw/illustrations
+              - generic [ref=f93e69]:
+                - link "Wildan Kurniawan" [ref=f93e70] [cursor=pointer]:
+                  - /url: /@dankudraw/illustrations
+                - generic [ref=f93e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f93e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-on-the-ground-with-a-book-and-a-cell-phone-sgaPbRg0IiE
+            - generic [ref=f93e73]:
+              - button "Bookmark" [ref=f93e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f93e77] [cursor=pointer]
+              - button "Edit image" [ref=f93e80] [cursor=pointer]
+              - button "Download" [ref=f93e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f93e90]:
+            - img "A woman sitting on the ground with a book and a cell phone" [ref=f93e91]
+          - generic [ref=f93e92]:
+            - generic [ref=f93e94]:
+              - button "Share this image" [ref=f93e95] [cursor=pointer]:
+                - generic [ref=f93e98]: Share
+              - button "More Actions" [ref=f93e99] [cursor=pointer]
+            - generic [ref=f93e103]:
+              - heading "A woman sitting on the ground with a book and a cell phone" [level=1] [ref=f93e105]
+              - paragraph [ref=f93e109]: Download this illustration of social media, mental health, digital, and communication by Wildan Kurniawan (@dankudraw)
+              - generic [ref=f93e111]:
+                - generic [ref=f93e116]:
+                  - text: Published on
+                  - time [ref=f93e117]: August 23, 2024
+                - generic [ref=f93e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f93e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f93e124]:
+              - link "social media" [ref=f93e125] [cursor=pointer]:
+                - /url: /s/illustrations/social-media
+              - link "mental health" [ref=f93e126] [cursor=pointer]:
+                - /url: /s/illustrations/mental-health
+              - link "digital" [ref=f93e127] [cursor=pointer]:
+                - /url: /s/illustrations/digital
+              - link "communication" [ref=f93e128] [cursor=pointer]:
+                - /url: /s/illustrations/communication
+              - link "network" [ref=f93e129] [cursor=pointer]:
+                - /url: /s/illustrations/network
+              - link "broken heart" [ref=f93e130] [cursor=pointer]:
+                - /url: /s/illustrations/broken-heart
+              - link "networking" [ref=f93e131] [cursor=pointer]:
+                - /url: /s/illustrations/networking
+              - link "internet" [ref=f93e132] [cursor=pointer]:
+                - /url: /s/illustrations/internet
+              - link "anxiety" [ref=f93e133] [cursor=pointer]:
+                - /url: /s/illustrations/anxiety
+              - link "mobile" [ref=f93e134] [cursor=pointer]:
+                - /url: /s/illustrations/mobile
+              - link "sadness" [ref=f93e135] [cursor=pointer]:
+                - /url: /s/illustrations/sadness
+              - link "online" [ref=f93e136] [cursor=pointer]:
+                - /url: /s/illustrations/online
+              - link "crying" [ref=f93e137] [cursor=pointer]:
+                - /url: /s/illustrations/crying
+              - link "message" [ref=f93e138] [cursor=pointer]:
+                - /url: /s/illustrations/message
+              - link "frustration" [ref=f93e139] [cursor=pointer]:
+                - /url: /s/illustrations/frustration
+              - link "loneliness" [ref=f93e140] [cursor=pointer]:
+                - /url: /s/illustrations/loneliness
+              - link "application" [ref=f93e141] [cursor=pointer]:
+                - /url: /s/illustrations/application
+              - link "speech bubble" [ref=f93e142] [cursor=pointer]:
+                - /url: /s/illustrations/speech-bubble
+              - link "sad person" [ref=f93e143] [cursor=pointer]:
+                - /url: /s/illustrations/sad-person
+              - link "text message" [ref=f93e144] [cursor=pointer]:
+                - /url: /s/illustrations/text-message
+        - generic [ref=f93e147]:
+          - generic [ref=f93e148]:
+            - paragraph [ref=f93e150]: From this series
+            - generic [ref=f93e153]:
+              - generic [ref=f93e154]:
+                - link [ref=f93e155] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-man-holding-a-megaphone-with-a-picture-of-a-man-holding-a-megaphone-SAIMVXzdZBA
+                - link [ref=f93e158]:
+                  - /url: /illustrations/a-man-holding-a-megaphone-with-a-picture-of-a-man-holding-a-megaphone-SAIMVXzdZBA
+                  - img "A man holding a megaphone with a picture of a man holding a megaphone" [ref=f93e159]
+              - generic:
+                - link [ref=f93e160] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-are-sitting-on-a-couch-yJJKG2Yr-j0
+                - link "A man and a woman are sitting on a couch":
+                  - /url: /illustrations/a-man-and-a-woman-are-sitting-on-a-couch-yJJKG2Yr-j0
+                  - img "A man and a woman are sitting on a couch"
+              - generic:
+                - link [ref=f93e163] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-on-top-of-a-cell-phone-VBhYPt1plpE
+                - link "A woman sitting on top of a cell phone":
+                  - /url: /illustrations/a-woman-sitting-on-top-of-a-cell-phone-VBhYPt1plpE
+                  - img "A woman sitting on top of a cell phone"
+              - generic [ref=f93e166]:
+                - link [ref=f93e167] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-man-floating-on-top-of-a-cell-phone-VGyxKlQ7I0g
+                - link [ref=f93e170]:
+                  - /url: /illustrations/a-man-floating-on-top-of-a-cell-phone-VGyxKlQ7I0g
+                  - img "A man floating on top of a cell phone" [ref=f93e171]
+              - generic [ref=f93e172]:
+                - link [ref=f93e173] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-group-of-people-standing-next-to-a-cell-phone-dCV79nzjDFQ
+                - link [ref=f93e176]:
+                  - /url: /illustrations/a-group-of-people-standing-next-to-a-cell-phone-dCV79nzjDFQ
+                  - img "A group of people standing next to a cell phone" [ref=f93e177]
+          - generic [ref=f93e178]:
+            - heading "Related images" [level=4] [ref=f93e180]
+            - generic [ref=f93e184]:
+              - generic [ref=f93e185]:
+                - figure [ref=f93e186]:
+                  - generic [ref=f93e188]:
+                    - link [ref=f93e189]:
+                      - /url: /illustrations/a-woman-with-glasses-is-looking-at-a-laptop-MIf0BiD0_2M
+                      - img "A woman with glasses is looking at a laptop" [ref=f93e190]
+                    - link [ref=f93e191] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-with-glasses-is-looking-at-a-laptop-MIf0BiD0_2M
+                - figure [ref=f93e194]:
+                  - generic [ref=f93e196]:
+                    - link [ref=f93e197]:
+                      - /url: /illustrations/woman-upset-by-cyberbullying-messages-on-her-phone-0fiY76X7nzY
+                      - img "Woman upset by cyberbullying messages on her phone" [ref=f93e198]
+                    - link [ref=f93e199] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-upset-by-cyberbullying-messages-on-her-phone-0fiY76X7nzY
+                - figure [ref=f93e202]:
+                  - generic [ref=f93e204]:
+                    - link [ref=f93e205]:
+                      - /url: /illustrations/distressed-woman-targeted-by-online-harassment-from-laptop-lqXyxWJgcL0
+                      - img "Distressed woman targeted by online harassment from laptop" [ref=f93e206]
+                    - link [ref=f93e207] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fdistressed-woman-targeted-by-online-harassment-from-laptop-lqXyxWJgcL0
+                - figure [ref=f93e210]:
+                  - generic [ref=f93e212]:
+                    - link [ref=f93e213]:
+                      - /url: /illustrations/a-man-sitting-on-a-phone-with-a-conversation-bubbles-above-his-head-HV5VGfwaRzU
+                      - img "A man sitting on a phone with a conversation bubbles above his head" [ref=f93e214]
+                    - link [ref=f93e215] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-on-a-phone-with-a-conversation-bubbles-above-his-head-HV5VGfwaRzU
+                - figure [ref=f93e218]:
+                  - generic [ref=f93e220]:
+                    - link [ref=f93e221]:
+                      - /url: /illustrations/a-woman-sitting-at-a-table-with-a-laptop-amaXv3IfuAE
+                      - img "A woman sitting at a table with a laptop" [ref=f93e222]
+                    - link [ref=f93e223] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-at-a-table-with-a-laptop-amaXv3IfuAE
+                - figure [ref=f93e226]:
+                  - generic [ref=f93e228]:
+                    - link [ref=f93e229]:
+                      - /url: /illustrations/a-woman-sitting-on-a-green-couch-with-pillows-vo4s-NO1erA
+                      - img "A woman sitting on a green couch with pillows" [ref=f93e230]
+                    - link [ref=f93e231] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-on-a-green-couch-with-pillows-vo4s-NO1erA
+                - figure [ref=f93e234]:
+                  - generic [ref=f93e236]:
+                    - link [ref=f93e237]:
+                      - /url: /illustrations/online-bullying-causes-emotional-distress-to-a-person-_52e1mpzG9k
+                      - img "Online bullying causes emotional distress to a person." [ref=f93e238]
+                    - link [ref=f93e239] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fonline-bullying-causes-emotional-distress-to-a-person-_52e1mpzG9k
+              - generic [ref=f93e242]:
+                - figure [ref=f93e243]:
+                  - generic [ref=f93e245]:
+                    - link [ref=f93e246]:
+                      - /url: /illustrations/a-man-covering-his-face-with-his-hands-bK7gaTjn_XI
+                      - img "A man covering his face with his hands" [ref=f93e247]
+                    - link [ref=f93e248] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-covering-his-face-with-his-hands-bK7gaTjn_XI
+                - figure [ref=f93e251]:
+                  - generic [ref=f93e253]:
+                    - link [ref=f93e254]:
+                      - /url: /illustrations/a-woman-sitting-in-front-of-a-cell-phone-surrounded-by-people-3IV60WlPozA
+                      - img "A woman sitting in front of a cell phone surrounded by people" [ref=f93e255]
+                    - link [ref=f93e256] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-in-front-of-a-cell-phone-surrounded-by-people-3IV60WlPozA
+                - figure [ref=f93e259]:
+                  - generic [ref=f93e261]:
+                    - link [ref=f93e262]:
+                      - /url: /illustrations/a-woman-sitting-on-the-floor-with-a-box-of-donuts-eMIfHwV8d4Q
+                      - img "A woman sitting on the floor with a box of donuts" [ref=f93e263]
+                    - link [ref=f93e264] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-on-the-floor-with-a-box-of-donuts-eMIfHwV8d4Q
+                - figure [ref=f93e267]:
+                  - generic [ref=f93e269]:
+                    - link [ref=f93e270]:
+                      - /url: /illustrations/stressful-work-woman-struggling-with-noise-and-deadlines-WCHbyx8xYkQ
+                      - 'img "Stressful work: woman struggling with noise and deadlines." [ref=f93e271]'
+                    - link [ref=f93e272] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fstressful-work-woman-struggling-with-noise-and-deadlines-WCHbyx8xYkQ
+                - figure [ref=f93e275]:
+                  - generic [ref=f93e277]:
+                    - link [ref=f93e278]:
+                      - /url: /illustrations/woman-overwhelmed-by-many-talking-bubbles-KtvEZ5azWTE
+                      - img "Woman overwhelmed by many talking bubbles" [ref=f93e279]
+                    - link [ref=f93e280] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-overwhelmed-by-many-talking-bubbles-KtvEZ5azWTE
+                - figure [ref=f93e283]:
+                  - generic [ref=f93e285]:
+                    - link [ref=f93e286]:
+                      - /url: /illustrations/woman-texting-on-phone-with-message-bubble-hfowDgt354o
+                      - img "Woman texting on phone with message bubble" [ref=f93e287]
+                    - link [ref=f93e288] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-texting-on-phone-with-message-bubble-hfowDgt354o
+              - generic [ref=f93e291]:
+                - figure [ref=f93e292]:
+                  - generic [ref=f93e294]:
+                    - link [ref=f93e295]:
+                      - /url: /illustrations/a-person-sitting-on-the-ground-pointing-at-a-sign-Xd-0TTg0U-8
+                      - img "A person sitting on the ground pointing at a sign" [ref=f93e296]
+                    - link [ref=f93e297] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-sitting-on-the-ground-pointing-at-a-sign-Xd-0TTg0U-8
+                - figure [ref=f93e300]:
+                  - generic [ref=f93e302]:
+                    - link [ref=f93e303]:
+                      - /url: /illustrations/a-stressed-woman-surrounded-by-pointing-hands-Aqx1Mt5fhIM
+                      - img "A stressed woman surrounded by pointing hands." [ref=f93e304]
+                    - link [ref=f93e305] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-stressed-woman-surrounded-by-pointing-hands-Aqx1Mt5fhIM
+                - figure [ref=f93e308]:
+                  - generic [ref=f93e310]:
+                    - link [ref=f93e311]:
+                      - /url: /illustrations/woman-contemplating-choices-with-icons-around-her-IBPDHVIhjfc
+                      - img "Woman contemplating choices with icons around her" [ref=f93e312]
+                    - link [ref=f93e313] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-contemplating-choices-with-icons-around-her-IBPDHVIhjfc
+                - figure [ref=f93e316]:
+                  - generic [ref=f93e318]:
+                    - link [ref=f93e319]:
+                      - /url: /illustrations/a-man-sitting-on-a-chair-using-a-cell-phone-HGII8Ls9AXc
+                      - img "A man sitting on a chair using a cell phone" [ref=f93e320]
+                    - link [ref=f93e321] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-on-a-chair-using-a-cell-phone-HGII8Ls9AXc
+                - figure [ref=f93e324]:
+                  - generic [ref=f93e326]:
+                    - link [ref=f93e327]:
+                      - /url: /illustrations/woman-upset-by-negative-online-comments-on-laptop-7W1O06IzRHA
+                      - img "Woman upset by negative online comments on laptop" [ref=f93e328]
+                    - link [ref=f93e329] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-upset-by-negative-online-comments-on-laptop-7W1O06IzRHA
+                - figure [ref=f93e332]:
+                  - generic [ref=f93e334]:
+                    - link [ref=f93e335]:
+                      - /url: /illustrations/overwhelmed-person-looking-at-a-smartphone-with-social-media-icons-1BU7zdAHde4
+                      - img "Overwhelmed person looking at a smartphone with social media icons." [ref=f93e336]
+                    - link [ref=f93e337] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Foverwhelmed-person-looking-at-a-smartphone-with-social-media-icons-1BU7zdAHde4
+                - figure [ref=f93e340]:
+                  - generic [ref=f93e342]:
+                    - link [ref=f93e343]:
+                      - /url: /illustrations/woman-is-stressed-while-working-on-a-computer-qVnjzhHVPFs
+                      - img "Woman is stressed while working on a computer." [ref=f93e344]
+                    - link [ref=f93e345] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-is-stressed-while-working-on-a-computer-qVnjzhHVPFs
+    - generic:
+      - region "Notifications"

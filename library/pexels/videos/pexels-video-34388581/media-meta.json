@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-34388581",
+  "mediaKey": "pexels:video:34388581",
+  "i18n": {
+    "name": {
+      "en": "Aerial Cloudscape",
+      "uk": "Повітряний пейзаж з хмарами"
+    },
+    "alt": {
+      "en": "Pexels video 34388581",
+      "uk": "Відео з Pexels № 34388581"
+    },
+    "tags": [
+      {
+        "key": "clouds",
+        "i18n": {
+          "en": "clouds",
+          "uk": "хмари"
+        }
+      },
+      {
+        "key": "aerial",
+        "i18n": {
+          "en": "aerial",
+          "uk": "аерофотозйомка"
+        }
+      },
+      {
+        "key": "cloudscape",
+        "i18n": {
+          "en": "cloudscape",
+          "uk": "хмарний пейзаж"
+        }
+      },
+      {
+        "key": "sky",
+        "i18n": {
+          "en": "sky",
+          "uk": "небо"
+        }
+      },
+      {
+        "key": "soft",
+        "i18n": {
+          "en": "soft",
+          "uk": "м'який"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/serene-sky-with-gentle-moving-clouds-34388581/",
+  "sourceName": "Pexels",
+  "authorName": "Larkkid Dung",
+  "authorUrl": "https://www.pexels.com/@larkkid-dung-363901731",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 8,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

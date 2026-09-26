@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-30346368",
+  "mediaKey": "pexels:video:30346368",
+  "i18n": {
+    "name": {
+      "en": "Orange Wireframe Mountain Landscape",
+      "uk": "Помаранчевий каркасний пейзаж гір"
+    },
+    "alt": {
+      "en": "Pexels video 30346368",
+      "uk": "Відео з Pexels № 30346368"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "mountains",
+        "i18n": {
+          "en": "mountains",
+          "uk": "гори"
+        }
+      },
+      {
+        "key": "wireframe",
+        "i18n": {
+          "en": "wireframe",
+          "uk": "каркас"
+        }
+      },
+      {
+        "key": "landscape",
+        "i18n": {
+          "en": "landscape",
+          "uk": "пейзаж"
+        }
+      },
+      {
+        "key": "digital",
+        "i18n": {
+          "en": "digital",
+          "uk": "цифровий"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/3d-geometric-landscape-animation-loop-30346368/",
+  "sourceName": "Pexels",
+  "authorName": "Pachon in Motion",
+  "authorUrl": "https://www.pexels.com/@pachon-in-motion-426015731",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 16,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

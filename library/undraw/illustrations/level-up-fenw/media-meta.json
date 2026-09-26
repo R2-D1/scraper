@@ -1,0 +1,63 @@
+{
+  "slug": "level-up-fenw",
+  "mediaKey": "ce140c99-3c0b-4399-94b5-3ba7f8ecdfeb",
+  "providerId": "69deb12979740242d59ddae7",
+  "i18n": {
+    "name": {
+      "en": "Level Up",
+      "uk": "Підвищити рівень"
+    },
+    "alt": {
+      "en": "Level Up",
+      "uk": "Підвищити рівень"
+    },
+    "tags": [
+      {
+        "key": "level-up",
+        "i18n": {
+          "en": "Level Up",
+          "uk": "Підвищити рівень"
+        }
+      },
+      {
+        "key": "level",
+        "i18n": {
+          "en": "level",
+          "uk": "рівень"
+        }
+      },
+      {
+        "key": "up",
+        "i18n": {
+          "en": "up",
+          "uk": "вгору"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/level-up_fenw.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 770,
+  "height": 880
+}

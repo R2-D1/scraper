@@ -1,0 +1,5805 @@
+{
+  "accessibility": {
+    "mediaKey": "e6ce47e6-b044-4fcc-98c7-80f7d530fd5f",
+    "i18n": {
+      "name": {
+        "en": "Accessibility",
+        "uk": "Доступність"
+      },
+      "alt": {
+        "en": "Accessibility",
+        "uk": "Доступність"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "accessibility",
+          "accessible"
+        ],
+        "uk": [
+          "адаптивність",
+          "безбар'єрність",
+          "доступність",
+          "інклюзія"
+        ]
+      }
+    }
+  },
+  "administration": {
+    "mediaKey": "5a0afd51-b805-4f1f-addc-cd8c34de5706",
+    "i18n": {
+      "name": {
+        "en": "Administration",
+        "uk": "Адміністрація"
+      },
+      "alt": {
+        "en": "Administration",
+        "uk": "Адміністрація"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "admin",
+          "administration"
+        ],
+        "uk": [
+          "адміністратор",
+          "адміністрування",
+          "адмінка",
+          "керування",
+          "управління"
+        ]
+      }
+    }
+  },
+  "alternative-complementary": {
+    "mediaKey": "17006f52-cc70-4aad-8e94-22e33f951458",
+    "i18n": {
+      "name": {
+        "en": "Alternative complementary",
+        "uk": "Альтернативна та додаткова медицина"
+      },
+      "alt": {
+        "en": "Alternative complementary",
+        "uk": "Альтернативна та додаткова медицина"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "alternative",
+          "choice",
+          "color harmony",
+          "complementary",
+          "complementary colors",
+          "option",
+          "plan b",
+          "alternative-complementary"
+        ],
+        "uk": [
+          "альтернатива",
+          "доповнювальний",
+          "доповнюючий",
+          "заміна",
+          "інший варіант",
+          "комплементарний",
+          "контрастні кольори",
+          "опція"
+        ]
+      }
+    }
+  },
+  "ambulance": {
+    "mediaKey": "042fe0ea-a6d3-410e-be93-51edff693d76",
+    "i18n": {
+      "name": {
+        "en": "Ambulance",
+        "uk": "Швидка допомога"
+      },
+      "alt": {
+        "en": "Ambulance",
+        "uk": "Швидка допомога"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🚑",
+          "ambulance",
+          "emergency car"
+        ],
+        "uk": [
+          "🚑",
+          "амбуланке",
+          "допомога",
+          "карета швидкої",
+          "медична допомога",
+          "швидка",
+          "швидка допомога"
+        ]
+      }
+    }
+  },
+  "anesthesia": {
+    "mediaKey": "73be2cde-0f11-4615-9db9-d034512e7380",
+    "i18n": {
+      "name": {
+        "en": "Anesthesia",
+        "uk": "Анестезіологія"
+      },
+      "alt": {
+        "en": "Anesthesia",
+        "uk": "Анестезіологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "anesthesia",
+          "sedation"
+        ],
+        "uk": [
+          "анальгезія",
+          "анестезія",
+          "знеболення",
+          "наркоз"
+        ]
+      }
+    }
+  },
+  "billing": {
+    "mediaKey": "e459b3ee-8f42-4df0-873e-d600f39148df",
+    "i18n": {
+      "name": {
+        "en": "Billing",
+        "uk": "Розрахунки"
+      },
+      "alt": {
+        "en": "Billing",
+        "uk": "Розрахунки"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "billing",
+          "invoice",
+          "payment"
+        ],
+        "uk": [
+          "білінг",
+          "оплата",
+          "рахунки",
+          "рахунок"
+        ]
+      }
+    }
+  },
+  "cardiology": {
+    "mediaKey": "c1ff59f1-61c0-444c-9264-849daa72538e",
+    "i18n": {
+      "name": {
+        "en": "Cardiology",
+        "uk": "Кардіологія"
+      },
+      "alt": {
+        "en": "Cardiology",
+        "uk": "Кардіологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cardio clinic",
+          "cardiology",
+          "cardiology icon",
+          "heart doctor"
+        ],
+        "uk": [
+          "кардіологія",
+          "серцева медицина"
+        ]
+      }
+    }
+  },
+  "care-staff-area": {
+    "mediaKey": "c312ac19-2169-4464-ac8a-f765d796758d",
+    "i18n": {
+      "name": {
+        "en": "Care staff area",
+        "uk": "Догляд персонал область"
+      },
+      "alt": {
+        "en": "Care staff area",
+        "uk": "Догляд персонал область"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "area",
+          "area size",
+          "care",
+          "care icon",
+          "employees",
+          "region",
+          "staff",
+          "staff team",
+          "take care",
+          "care-staff-area"
+        ],
+        "uk": [
+          "ареа",
+          "догляд",
+          "зона",
+          "команда",
+          "область",
+          "опіка",
+          "персонал",
+          "площа",
+          "співробітники",
+          "турбота",
+          "штат"
+        ]
+      }
+    }
+  },
+  "cath-lab": {
+    "mediaKey": "17900c0f-0b6b-4e58-b179-2fd72176fffd",
+    "i18n": {
+      "name": {
+        "en": "Cath lab",
+        "uk": "Катетеризаційна лабораторія"
+      },
+      "alt": {
+        "en": "Cath lab",
+        "uk": "Катетеризаційна лабораторія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cath",
+          "catholic",
+          "lab",
+          "lab room",
+          "research",
+          "roman catholic",
+          "science lab",
+          "cath-lab"
+        ],
+        "uk": [
+          "дослідження",
+          "католик",
+          "католицизм",
+          "католицька церква",
+          "католицький",
+          "лабораторія"
+        ]
+      }
+    }
+  },
+  "chapel": {
+    "mediaKey": "005703f6-82d8-4a13-afc1-ba03c7f09801",
+    "i18n": {
+      "name": {
+        "en": "Chapel",
+        "uk": "Chapel"
+      },
+      "alt": {
+        "en": "Chapel",
+        "uk": "Chapel"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "chapel",
+          "chapel code",
+          "chapel cray",
+          "chapel hpc",
+          "chapel lang",
+          "chapel language",
+          "chapel parallel",
+          "chapel programming"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "coffee-shop": {
+    "mediaKey": "5a1b1a82-d7d7-4242-b12e-9d3e50f26d24",
+    "i18n": {
+      "name": {
+        "en": "Coffee shop",
+        "uk": "Кав’ярня"
+      },
+      "alt": {
+        "en": "Coffee shop",
+        "uk": "Кав’ярня"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "☕",
+          "coffee",
+          "commerce",
+          "espresso",
+          "latte",
+          "market",
+          "shop",
+          "shopping",
+          "store",
+          "coffee-shop"
+        ],
+        "uk": [
+          "☕",
+          "кава",
+          "коффее",
+          "магазин",
+          "маркет",
+          "торгівля"
+        ]
+      }
+    }
+  },
+  "dental": {
+    "mediaKey": "999b1334-294c-45d5-be5b-59c93b39fa2d",
+    "i18n": {
+      "name": {
+        "en": "Dental",
+        "uk": "Зубний"
+      },
+      "alt": {
+        "en": "Dental",
+        "uk": "Зубний"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "dent care",
+          "dental",
+          "dental care",
+          "dental clinic",
+          "dental tools",
+          "dentist",
+          "dentistry",
+          "oral care"
+        ],
+        "uk": [
+          "дентал",
+          "догляд за зубами",
+          "зубний",
+          "зубний кабінет",
+          "зубний лікар",
+          "стоматологічна клініка",
+          "стоматологічний",
+          "стоматологія"
+        ]
+      }
+    }
+  },
+  "dermatology": {
+    "mediaKey": "2df02650-5475-41a5-8b66-3b9e4803d799",
+    "i18n": {
+      "name": {
+        "en": "Dermatology",
+        "uk": "Дерматологія"
+      },
+      "alt": {
+        "en": "Dermatology",
+        "uk": "Дерматологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "dermatologist",
+          "dermatology",
+          "dermatology icon",
+          "skin clinic"
+        ],
+        "uk": [
+          "дерматологія",
+          "шкірний лікар"
+        ]
+      }
+    }
+  },
+  "diabetes-education": {
+    "mediaKey": "d01af58c-53b1-46af-a0ed-8eaf92e979b4",
+    "i18n": {
+      "name": {
+        "en": "Diabetes education",
+        "uk": "Освіта щодо діабету"
+      },
+      "alt": {
+        "en": "Diabetes education",
+        "uk": "Освіта щодо діабету"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "blood sugar",
+          "diabetes",
+          "diabetes icon",
+          "education",
+          "schooling",
+          "study",
+          "diabetes-education"
+        ],
+        "uk": [
+          "диабетик",
+          "діабет",
+          "навчання",
+          "освіта",
+          "цукрова хвороба"
+        ]
+      }
+    }
+  },
+  "drinking-fountain": {
+    "mediaKey": "caaa83e3-771d-4f94-adae-77c6723611c0",
+    "i18n": {
+      "name": {
+        "en": "Drinking fountain",
+        "uk": "Питний фонтан"
+      },
+      "alt": {
+        "en": "Drinking fountain",
+        "uk": "Питний фонтан"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "beverage",
+          "city fountain",
+          "drink water",
+          "drinking",
+          "fountain",
+          "fountain icon",
+          "spray fountain",
+          "water fountain",
+          "drinking-fountain"
+        ],
+        "uk": [
+          "водограй",
+          "гідратація",
+          "напій",
+          "пиття",
+          "фонтан",
+          "фонтан вода",
+          "фоунтаін"
+        ]
+      }
+    }
+  },
+  "ear-nose-throat": {
+    "mediaKey": "89fd819b-8707-41ff-b02c-043198fc704c",
+    "i18n": {
+      "name": {
+        "en": "Ear nose throat",
+        "uk": "ЛОР"
+      },
+      "alt": {
+        "en": "Ear nose throat",
+        "uk": "ЛОР"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "👂",
+          "ear",
+          "ear anatomy",
+          "ear emoji",
+          "ear hearing",
+          "ear icon",
+          "ear listening",
+          "hearing",
+          "nose",
+          "olfactory",
+          "pinocchio",
+          "smell",
+          "throat",
+          "ear-nose-throat"
+        ],
+        "uk": [
+          "👂",
+          "вухо",
+          "вушка",
+          "вушна раковина",
+          "горло",
+          "еар",
+          "ніс",
+          "носик",
+          "нюх",
+          "нюхати",
+          "слух",
+          "слухати",
+          "слуховий орган"
+        ]
+      }
+    }
+  },
+  "elevators": {
+    "mediaKey": "08e822dd-93d5-484f-9c03-60b9ea4c714d",
+    "i18n": {
+      "name": {
+        "en": "Elevators",
+        "uk": "Ліфти"
+      },
+      "alt": {
+        "en": "Elevators",
+        "uk": "Ліфти"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "elevator",
+          "elevators",
+          "lift"
+        ],
+        "uk": [
+          "ліфти",
+          "підйом",
+          "підйомник"
+        ]
+      }
+    }
+  },
+  "emergency": {
+    "mediaKey": "c058cad2-a07a-49cd-ae52-4c03264afc58",
+    "i18n": {
+      "name": {
+        "en": "Emergency",
+        "uk": "Надзвичайний виклик"
+      },
+      "alt": {
+        "en": "Emergency",
+        "uk": "Надзвичайний виклик"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "911",
+          "alarm",
+          "emergency",
+          "emergency alert",
+          "emergency call",
+          "emergency services",
+          "emergency siren",
+          "SOS"
+        ],
+        "uk": [
+          "911",
+          "емерґенкй",
+          "надзвичайна",
+          "надзвичайна ситуація",
+          "невідкладна",
+          "ситуація",
+          "терміново",
+          "тривога",
+          "тривожна кнопка"
+        ]
+      }
+    }
+  },
+  "family-practice": {
+    "mediaKey": "d97d414a-2af7-4f50-9708-550af3d15d00",
+    "i18n": {
+      "name": {
+        "en": "Family practice",
+        "uk": "Сімейна медицина"
+      },
+      "alt": {
+        "en": "Family practice",
+        "uk": "Сімейна медицина"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "family",
+          "family group",
+          "family icon",
+          "household",
+          "practice",
+          "rehearsal",
+          "relatives",
+          "family-practice"
+        ],
+        "uk": [
+          "батьки і діти",
+          "навички",
+          "практика",
+          "родина",
+          "сім'я",
+          "тренування"
+        ]
+      }
+    }
+  },
+  "fire-extinguisher": {
+    "mediaKey": "37c662ce-a6fa-480e-aea4-a99e09224f4a",
+    "i18n": {
+      "name": {
+        "en": "Fire extinguisher",
+        "uk": "Вогнегасник"
+      },
+      "alt": {
+        "en": "Fire extinguisher",
+        "uk": "Вогнегасник"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🔥",
+          "burn",
+          "campfire",
+          "extinguish fire",
+          "extinguisher",
+          "extinguisher icon",
+          "fire",
+          "fire canister",
+          "fire emergency",
+          "fire emoji",
+          "fire extinguisher",
+          "fire hazard",
+          "fire icon",
+          "fire protection",
+          "fire safety",
+          "fire safety tool",
+          "fire spray",
+          "firefighter tool",
+          "flame",
+          "fire-extinguisher"
+        ],
+        "uk": [
+          "🔥",
+          "вогнегас",
+          "вогнегасник",
+          "вогонь",
+          "екстінґуішер",
+          "пожежна безпека",
+          "пожежний балон",
+          "полум'я",
+          "фіре"
+        ]
+      }
+    }
+  },
+  "first-aid": {
+    "mediaKey": "5f67fd92-414e-46e9-a80f-a9112793bbc0",
+    "i18n": {
+      "name": {
+        "en": "First aid",
+        "uk": "Аптечка"
+      },
+      "alt": {
+        "en": "First aid",
+        "uk": "Аптечка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "aid",
+          "aid kit",
+          "first",
+          "first place",
+          "first step",
+          "front",
+          "initial",
+          "lead",
+          "№1",
+          "support",
+          "winner",
+          "first-aid"
+        ],
+        "uk": [
+          "аід",
+          "гуманітарка",
+          "допомога",
+          "перша допомога",
+          "перший",
+          "перший номер",
+          "фірст",
+          "№1"
+        ]
+      }
+    }
+  },
+  "genetics": {
+    "mediaKey": "91a58515-8c84-46e1-ba34-7bcb7ee8f4bd",
+    "i18n": {
+      "name": {
+        "en": "Genetics",
+        "uk": "Генетика"
+      },
+      "alt": {
+        "en": "Genetics",
+        "uk": "Генетика"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "DNA science",
+          "genetics",
+          "genetics icon",
+          "遗传学"
+        ],
+        "uk": [
+          "генетика",
+          "наука про гени",
+          "遗传学"
+        ]
+      }
+    }
+  },
+  "gift-shop": {
+    "mediaKey": "879dcb86-b2c6-4cc4-9255-518756903d7d",
+    "i18n": {
+      "name": {
+        "en": "Gift shop",
+        "uk": "Магазин подарунків"
+      },
+      "alt": {
+        "en": "Gift shop",
+        "uk": "Магазин подарунків"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎁",
+          "commerce",
+          "gift",
+          "gift icon",
+          "market",
+          "present",
+          "shop",
+          "shopping",
+          "store",
+          "gift-shop"
+        ],
+        "uk": [
+          "🎁",
+          "ґіфт",
+          "магазин",
+          "маркет",
+          "подарунок",
+          "подарунок коробка",
+          "торгівля"
+        ]
+      }
+    }
+  },
+  "health-education": {
+    "mediaKey": "9199be9a-d2ab-4bf5-9365-15b135f761f7",
+    "i18n": {
+      "name": {
+        "en": "Health education",
+        "uk": "Освіта з питань здоров'я"
+      },
+      "alt": {
+        "en": "Health education",
+        "uk": "Освіта з питань здоров'я"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "здоров'я icon",
+          "education",
+          "fitness",
+          "health",
+          "healthcare",
+          "schooling",
+          "study",
+          "wellness",
+          "health-education"
+        ],
+        "uk": [
+          "здоров",
+          "здоров'я",
+          "здоров'я icon",
+          "навчання",
+          "освіта",
+          "хеалт"
+        ]
+      }
+    }
+  },
+  "health-services": {
+    "mediaKey": "46a5e2c4-9118-45ef-9b37-df868043c143",
+    "i18n": {
+      "name": {
+        "en": "Health services",
+        "uk": "Медичні послуги"
+      },
+      "alt": {
+        "en": "Health services",
+        "uk": "Медичні послуги"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "здоров'я icon",
+          "customer services",
+          "fitness",
+          "health",
+          "healthcare",
+          "service center",
+          "service hub",
+          "services",
+          "support services",
+          "wellness",
+          "health-services"
+        ],
+        "uk": [
+          "здоров",
+          "здоров'я",
+          "здоров'я icon",
+          "обслуговування",
+          "послуги",
+          "сервіси",
+          "хеалт"
+        ]
+      }
+    }
+  },
+  "hearing-assistance": {
+    "mediaKey": "62075d3f-3387-4c67-9eed-f027da9b6184",
+    "i18n": {
+      "name": {
+        "en": "Hearing assistance",
+        "uk": "Допомога зі слухом"
+      },
+      "alt": {
+        "en": "Hearing assistance",
+        "uk": "Допомога зі слухом"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "aid",
+          "assistance",
+          "audiology",
+          "court hearing",
+          "hearing",
+          "help",
+          "support",
+          "hearing-assistance"
+        ],
+        "uk": [
+          "допомога",
+          "перевірка слуху",
+          "підтримка",
+          "прослуховування",
+          "слух",
+          "слухання",
+          "слуховий тест"
+        ]
+      }
+    }
+  },
+  "hospital": {
+    "mediaKey": "0b6804e5-61c9-4a77-bb27-b37f42b3e514",
+    "i18n": {
+      "name": {
+        "en": "Hospital",
+        "uk": "Лікарня"
+      },
+      "alt": {
+        "en": "Hospital",
+        "uk": "Лікарня"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🏥",
+          "clinic",
+          "health center",
+          "hospital"
+        ],
+        "uk": [
+          "🏥",
+          "лікарня",
+          "медзаклад",
+          "хоспітал"
+        ]
+      }
+    }
+  },
+  "i-accessibility": {
+    "mediaKey": "3c01f054-e084-432b-b6ca-110bc78f46f7",
+    "i18n": {
+      "name": {
+        "en": "I accessibility",
+        "uk": "Доступність"
+      },
+      "alt": {
+        "en": "I accessibility",
+        "uk": "Доступність"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "accessibility",
+          "accessible",
+          "i",
+          "i character",
+          "i-accessibility"
+        ],
+        "uk": [
+          "адаптивність",
+          "англійська i",
+          "безбар'єрність",
+          "буква i",
+          "доступність",
+          "і",
+          "інклюзія",
+          "латинська i"
+        ]
+      }
+    }
+  },
+  "i-administration": {
+    "mediaKey": "9c6b88d2-e9b7-439e-b297-8107e5c4beea",
+    "i18n": {
+      "name": {
+        "en": "I administration",
+        "uk": "Адміністрація"
+      },
+      "alt": {
+        "en": "I administration",
+        "uk": "Адміністрація"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "admin",
+          "administration",
+          "i",
+          "i character",
+          "i-administration"
+        ],
+        "uk": [
+          "адміністратор",
+          "адміністрування",
+          "адмінка",
+          "англійська i",
+          "буква i",
+          "і",
+          "керування",
+          "латинська i",
+          "управління"
+        ]
+      }
+    }
+  },
+  "i-alternative-complementary": {
+    "mediaKey": "c6b73661-bb88-4e24-aaaf-6a7e303dc2b2",
+    "i18n": {
+      "name": {
+        "en": "I alternative complementary",
+        "uk": "Альтернативна та додаткова медицина"
+      },
+      "alt": {
+        "en": "I alternative complementary",
+        "uk": "Альтернативна та додаткова медицина"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "alternative",
+          "choice",
+          "color harmony",
+          "complementary",
+          "complementary colors",
+          "i",
+          "i character",
+          "option",
+          "plan b",
+          "i-alternative-complementary"
+        ],
+        "uk": [
+          "альтернатива",
+          "англійська i",
+          "буква i",
+          "доповнювальний",
+          "доповнюючий",
+          "заміна",
+          "і",
+          "інший варіант",
+          "комплементарний",
+          "контрастні кольори",
+          "латинська i",
+          "опція"
+        ]
+      }
+    }
+  },
+  "i-ambulance": {
+    "mediaKey": "c7d9e3f6-efc1-4498-8758-565ae8e6d503",
+    "i18n": {
+      "name": {
+        "en": "I ambulance",
+        "uk": "Швидка допомога"
+      },
+      "alt": {
+        "en": "I ambulance",
+        "uk": "Швидка допомога"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🚑",
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "ambulance",
+          "emergency car",
+          "i",
+          "i character",
+          "i-ambulance"
+        ],
+        "uk": [
+          "🚑",
+          "амбуланке",
+          "англійська i",
+          "буква i",
+          "допомога",
+          "і",
+          "карета швидкої",
+          "латинська i",
+          "медична допомога",
+          "швидка",
+          "швидка допомога"
+        ]
+      }
+    }
+  },
+  "i-anesthesia": {
+    "mediaKey": "a16067c6-5792-43f7-a28b-7818d309b17a",
+    "i18n": {
+      "name": {
+        "en": "I anesthesia",
+        "uk": "Анестезія"
+      },
+      "alt": {
+        "en": "I anesthesia",
+        "uk": "Анестезія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "anesthesia",
+          "i",
+          "i character",
+          "sedation",
+          "i-anesthesia"
+        ],
+        "uk": [
+          "анальгезія",
+          "англійська i",
+          "анестезія",
+          "буква i",
+          "знеболення",
+          "і",
+          "латинська i",
+          "наркоз"
+        ]
+      }
+    }
+  },
+  "i-billing": {
+    "mediaKey": "b30cb55d-6b6b-410f-aaf5-ab2df59e935a",
+    "i18n": {
+      "name": {
+        "en": "I billing",
+        "uk": "Розрахунки"
+      },
+      "alt": {
+        "en": "I billing",
+        "uk": "Розрахунки"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "billing",
+          "i",
+          "i character",
+          "invoice",
+          "payment",
+          "i-billing"
+        ],
+        "uk": [
+          "англійська i",
+          "білінг",
+          "буква i",
+          "і",
+          "латинська i",
+          "оплата",
+          "рахунки",
+          "рахунок"
+        ]
+      }
+    }
+  },
+  "i-cardiology": {
+    "mediaKey": "c06d29a5-3e8f-42d3-b29d-39e88053222a",
+    "i18n": {
+      "name": {
+        "en": "I cardiology",
+        "uk": "Кардіологія"
+      },
+      "alt": {
+        "en": "I cardiology",
+        "uk": "Кардіологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "cardio clinic",
+          "cardiology",
+          "cardiology icon",
+          "heart doctor",
+          "i",
+          "i character",
+          "i-cardiology"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "і",
+          "кардіологія",
+          "латинська i",
+          "серцева медицина"
+        ]
+      }
+    }
+  },
+  "i-care-staff-area": {
+    "mediaKey": "a91ad787-073b-47f8-bdcc-547b5a3a5e10",
+    "i18n": {
+      "name": {
+        "en": "I care staff area",
+        "uk": "Зона персоналу догляду"
+      },
+      "alt": {
+        "en": "I care staff area",
+        "uk": "Зона персоналу догляду"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "area",
+          "area size",
+          "care",
+          "care icon",
+          "employees",
+          "i",
+          "i character",
+          "region",
+          "staff",
+          "staff team",
+          "take care",
+          "i-care-staff-area"
+        ],
+        "uk": [
+          "англійська i",
+          "ареа",
+          "буква i",
+          "догляд",
+          "зона",
+          "і",
+          "команда",
+          "латинська i",
+          "область",
+          "опіка",
+          "персонал",
+          "площа",
+          "співробітники",
+          "турбота",
+          "штат"
+        ]
+      }
+    }
+  },
+  "i-cath-lab": {
+    "mediaKey": "d84ac36f-109a-421d-9250-f3b9f3903a2a",
+    "i18n": {
+      "name": {
+        "en": "I cath lab",
+        "uk": "Катетеризаційна лабораторія"
+      },
+      "alt": {
+        "en": "I cath lab",
+        "uk": "Катетеризаційна лабораторія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "cath",
+          "catholic",
+          "i",
+          "i character",
+          "lab",
+          "lab room",
+          "research",
+          "roman catholic",
+          "science lab",
+          "i-cath-lab"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "дослідження",
+          "і",
+          "католик",
+          "католицизм",
+          "католицька церква",
+          "католицький",
+          "лабораторія",
+          "латинська i"
+        ]
+      }
+    }
+  },
+  "i-chapel": {
+    "mediaKey": "e18b3a32-2368-44ae-93fb-41363ab243d9",
+    "i18n": {
+      "name": {
+        "en": "I chapel",
+        "uk": "Каплиця"
+      },
+      "alt": {
+        "en": "I chapel",
+        "uk": "Каплиця"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "chapel",
+          "chapel code",
+          "chapel cray",
+          "chapel hpc",
+          "chapel lang",
+          "chapel language",
+          "chapel parallel",
+          "chapel programming",
+          "i",
+          "i character",
+          "i-chapel"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "і",
+          "латинська i"
+        ]
+      }
+    }
+  },
+  "i-coffee-shop": {
+    "mediaKey": "2383532a-a70e-4db1-b41e-570920e26629",
+    "i18n": {
+      "name": {
+        "en": "I coffee shop",
+        "uk": "Кав'ярня"
+      },
+      "alt": {
+        "en": "I coffee shop",
+        "uk": "Кав'ярня"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "☕",
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "coffee",
+          "commerce",
+          "espresso",
+          "i",
+          "i character",
+          "latte",
+          "market",
+          "shop",
+          "shopping",
+          "store",
+          "i-coffee-shop"
+        ],
+        "uk": [
+          "☕",
+          "англійська i",
+          "буква i",
+          "і",
+          "кава",
+          "коффее",
+          "латинська i",
+          "магазин",
+          "маркет",
+          "торгівля"
+        ]
+      }
+    }
+  },
+  "i-dental": {
+    "mediaKey": "2470dd9e-8a77-43b2-924a-b4dc9d3a1962",
+    "i18n": {
+      "name": {
+        "en": "I dental",
+        "uk": "Стоматологія"
+      },
+      "alt": {
+        "en": "I dental",
+        "uk": "Стоматологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "dent care",
+          "dental",
+          "dental care",
+          "dental clinic",
+          "dental tools",
+          "dentist",
+          "dentistry",
+          "i",
+          "i character",
+          "oral care",
+          "i-dental"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "дентал",
+          "догляд за зубами",
+          "зубний",
+          "зубний кабінет",
+          "зубний лікар",
+          "і",
+          "латинська i",
+          "стоматологічна клініка",
+          "стоматологічний",
+          "стоматологія"
+        ]
+      }
+    }
+  },
+  "i-dermatology": {
+    "mediaKey": "274ce767-bfc6-4c8d-a485-ed90155a3ed4",
+    "i18n": {
+      "name": {
+        "en": "I dermatology",
+        "uk": "Дерматологія"
+      },
+      "alt": {
+        "en": "I dermatology",
+        "uk": "Дерматологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "dermatologist",
+          "dermatology",
+          "dermatology icon",
+          "i",
+          "i character",
+          "skin clinic",
+          "i-dermatology"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "дерматологія",
+          "і",
+          "латинська i",
+          "шкірний лікар"
+        ]
+      }
+    }
+  },
+  "i-diabetes-education": {
+    "mediaKey": "bf754eb1-4763-4dc0-b069-7fcc9a2e106e",
+    "i18n": {
+      "name": {
+        "en": "I diabetes education",
+        "uk": "Освіта щодо діабету"
+      },
+      "alt": {
+        "en": "I diabetes education",
+        "uk": "Освіта щодо діабету"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "blood sugar",
+          "diabetes",
+          "diabetes icon",
+          "education",
+          "i",
+          "i character",
+          "schooling",
+          "study",
+          "i-diabetes-education"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "диабетик",
+          "діабет",
+          "і",
+          "латинська i",
+          "навчання",
+          "освіта",
+          "цукрова хвороба"
+        ]
+      }
+    }
+  },
+  "i-drinking-fountain": {
+    "mediaKey": "654cf782-427c-499a-b5b9-5129dd163359",
+    "i18n": {
+      "name": {
+        "en": "I drinking fountain",
+        "uk": "Питний фонтан"
+      },
+      "alt": {
+        "en": "I drinking fountain",
+        "uk": "Питний фонтан"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "beverage",
+          "city fountain",
+          "drink water",
+          "drinking",
+          "fountain",
+          "fountain icon",
+          "i",
+          "i character",
+          "spray fountain",
+          "water fountain",
+          "i-drinking-fountain"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "водограй",
+          "гідратація",
+          "і",
+          "латинська i",
+          "напій",
+          "пиття",
+          "фонтан",
+          "фонтан вода",
+          "фоунтаін"
+        ]
+      }
+    }
+  },
+  "i-ear-nose-throat": {
+    "mediaKey": "45a03a92-aeca-4516-b575-4fd09cbce303",
+    "i18n": {
+      "name": {
+        "en": "I ear nose throat",
+        "uk": "ЛОР"
+      },
+      "alt": {
+        "en": "I ear nose throat",
+        "uk": "ЛОР"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "👂",
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "ear",
+          "ear anatomy",
+          "ear emoji",
+          "ear hearing",
+          "ear icon",
+          "ear listening",
+          "hearing",
+          "i",
+          "i character",
+          "nose",
+          "olfactory",
+          "pinocchio",
+          "smell",
+          "throat",
+          "i-ear-nose-throat"
+        ],
+        "uk": [
+          "👂",
+          "англійська i",
+          "буква i",
+          "вухо",
+          "вушка",
+          "вушна раковина",
+          "горло",
+          "еар",
+          "і",
+          "латинська i",
+          "ніс",
+          "носик",
+          "нюх",
+          "нюхати",
+          "слух",
+          "слухати",
+          "слуховий орган"
+        ]
+      }
+    }
+  },
+  "i-elevators": {
+    "mediaKey": "e7ceb523-0ae3-4819-add0-36203162d61a",
+    "i18n": {
+      "name": {
+        "en": "I elevators",
+        "uk": "Ліфти"
+      },
+      "alt": {
+        "en": "I elevators",
+        "uk": "Ліфти"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "elevator",
+          "elevators",
+          "i",
+          "i character",
+          "lift",
+          "i-elevators"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "і",
+          "латинська i",
+          "ліфти",
+          "підйом",
+          "підйомник"
+        ]
+      }
+    }
+  },
+  "i-emergency": {
+    "mediaKey": "e597de9d-deb9-4dc3-bbed-768ff3942f35",
+    "i18n": {
+      "name": {
+        "en": "I emergency",
+        "uk": "Прийомне відділення"
+      },
+      "alt": {
+        "en": "I emergency",
+        "uk": "Прийомне відділення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "911",
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "alarm",
+          "emergency",
+          "emergency alert",
+          "emergency call",
+          "emergency services",
+          "emergency siren",
+          "i",
+          "i character",
+          "SOS",
+          "i-emergency"
+        ],
+        "uk": [
+          "911",
+          "англійська i",
+          "буква i",
+          "емерґенкй",
+          "і",
+          "латинська i",
+          "надзвичайна",
+          "надзвичайна ситуація",
+          "невідкладна",
+          "ситуація",
+          "терміново",
+          "тривога",
+          "тривожна кнопка"
+        ]
+      }
+    }
+  },
+  "i-family-practice": {
+    "mediaKey": "6e3866e0-c1d2-4035-a720-69cefb3adcdb",
+    "i18n": {
+      "name": {
+        "en": "I family practice",
+        "uk": "Сімейна медицина"
+      },
+      "alt": {
+        "en": "I family practice",
+        "uk": "Сімейна медицина"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "family",
+          "family group",
+          "family icon",
+          "household",
+          "i",
+          "i character",
+          "practice",
+          "rehearsal",
+          "relatives",
+          "i-family-practice"
+        ],
+        "uk": [
+          "англійська i",
+          "батьки і діти",
+          "буква i",
+          "і",
+          "латинська i",
+          "навички",
+          "практика",
+          "родина",
+          "сім'я",
+          "тренування"
+        ]
+      }
+    }
+  },
+  "i-fire-extinguisher": {
+    "mediaKey": "43bb243d-90f3-4ef1-8ee7-8d76513b9601",
+    "i18n": {
+      "name": {
+        "en": "I fire extinguisher",
+        "uk": "Вогнегасник"
+      },
+      "alt": {
+        "en": "I fire extinguisher",
+        "uk": "Вогнегасник"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🔥",
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "burn",
+          "campfire",
+          "extinguish fire",
+          "extinguisher",
+          "extinguisher icon",
+          "fire",
+          "fire canister",
+          "fire emergency",
+          "fire emoji",
+          "fire extinguisher",
+          "fire hazard",
+          "fire icon",
+          "fire protection",
+          "fire safety",
+          "fire safety tool",
+          "fire spray",
+          "firefighter tool",
+          "flame",
+          "i",
+          "i character",
+          "i-fire-extinguisher"
+        ],
+        "uk": [
+          "🔥",
+          "англійська i",
+          "буква i",
+          "вогнегас",
+          "вогнегасник",
+          "вогонь",
+          "екстінґуішер",
+          "і",
+          "латинська i",
+          "пожежна безпека",
+          "пожежний балон",
+          "полум'я",
+          "фіре"
+        ]
+      }
+    }
+  },
+  "i-first-aid": {
+    "mediaKey": "6ac9741b-dc27-4a7f-8f57-9baa1ae9aa16",
+    "i18n": {
+      "name": {
+        "en": "I first aid",
+        "uk": "Перша допомога"
+      },
+      "alt": {
+        "en": "I first aid",
+        "uk": "Перша допомога"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "aid",
+          "aid kit",
+          "first",
+          "first place",
+          "first step",
+          "front",
+          "i",
+          "i character",
+          "initial",
+          "lead",
+          "№1",
+          "support",
+          "winner",
+          "i-first-aid"
+        ],
+        "uk": [
+          "аід",
+          "англійська i",
+          "буква i",
+          "гуманітарка",
+          "допомога",
+          "і",
+          "латинська i",
+          "перша допомога",
+          "перший",
+          "перший номер",
+          "фірст",
+          "№1"
+        ]
+      }
+    }
+  },
+  "i-genetics": {
+    "mediaKey": "e75d2d68-1a71-400b-84d2-996898c4f1a7",
+    "i18n": {
+      "name": {
+        "en": "I genetics",
+        "uk": "Генетика"
+      },
+      "alt": {
+        "en": "I genetics",
+        "uk": "Генетика"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "DNA science",
+          "genetics",
+          "genetics icon",
+          "i",
+          "i character",
+          "遗传学",
+          "i-genetics"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "генетика",
+          "і",
+          "латинська i",
+          "наука про гени",
+          "遗传学"
+        ]
+      }
+    }
+  },
+  "i-gift-shop": {
+    "mediaKey": "d5d082f2-b3ea-4cc0-99a6-54de61ec8bc9",
+    "i18n": {
+      "name": {
+        "en": "I gift shop",
+        "uk": "Подарункова крамниця"
+      },
+      "alt": {
+        "en": "I gift shop",
+        "uk": "Подарункова крамниця"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎁",
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "commerce",
+          "gift",
+          "gift icon",
+          "i",
+          "i character",
+          "market",
+          "present",
+          "shop",
+          "shopping",
+          "store",
+          "i-gift-shop"
+        ],
+        "uk": [
+          "🎁",
+          "англійська i",
+          "буква i",
+          "ґіфт",
+          "і",
+          "латинська i",
+          "магазин",
+          "маркет",
+          "подарунок",
+          "подарунок коробка",
+          "торгівля"
+        ]
+      }
+    }
+  },
+  "i-health-education": {
+    "mediaKey": "713efb68-e861-4d00-8005-d589dab3c9c8",
+    "i18n": {
+      "name": {
+        "en": "I health education",
+        "uk": "Освіта з питань здоров'я"
+      },
+      "alt": {
+        "en": "I health education",
+        "uk": "Освіта з питань здоров'я"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "здоров'я icon",
+          "латинська i",
+          "education",
+          "fitness",
+          "health",
+          "healthcare",
+          "i",
+          "i character",
+          "schooling",
+          "study",
+          "wellness",
+          "i-health-education"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "здоров",
+          "здоров'я",
+          "здоров'я icon",
+          "і",
+          "латинська i",
+          "навчання",
+          "освіта",
+          "хеалт"
+        ]
+      }
+    }
+  },
+  "i-health-services": {
+    "mediaKey": "30f1664b-7484-440f-836c-cfa0affffcd4",
+    "i18n": {
+      "name": {
+        "en": "I health services",
+        "uk": "Медичні послуги"
+      },
+      "alt": {
+        "en": "I health services",
+        "uk": "Медичні послуги"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "здоров'я icon",
+          "латинська i",
+          "customer services",
+          "fitness",
+          "health",
+          "healthcare",
+          "i",
+          "i character",
+          "service center",
+          "service hub",
+          "services",
+          "support services",
+          "wellness",
+          "i-health-services"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "здоров",
+          "здоров'я",
+          "здоров'я icon",
+          "і",
+          "латинська i",
+          "обслуговування",
+          "послуги",
+          "сервіси",
+          "хеалт"
+        ]
+      }
+    }
+  },
+  "i-hearing-assistance": {
+    "mediaKey": "11c25562-c707-4e01-b41d-db084934f9bb",
+    "i18n": {
+      "name": {
+        "en": "I hearing assistance",
+        "uk": "Допомога зі слухом"
+      },
+      "alt": {
+        "en": "I hearing assistance",
+        "uk": "Допомога зі слухом"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "aid",
+          "assistance",
+          "audiology",
+          "court hearing",
+          "hearing",
+          "help",
+          "i",
+          "i character",
+          "support",
+          "i-hearing-assistance"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "допомога",
+          "і",
+          "латинська i",
+          "перевірка слуху",
+          "підтримка",
+          "прослуховування",
+          "слух",
+          "слухання",
+          "слуховий тест"
+        ]
+      }
+    }
+  },
+  "i-hospital": {
+    "mediaKey": "b34a71e0-3cae-46ee-ab87-d40444eae59d",
+    "i18n": {
+      "name": {
+        "en": "I hospital",
+        "uk": "Лікарня"
+      },
+      "alt": {
+        "en": "I hospital",
+        "uk": "Лікарня"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🏥",
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "clinic",
+          "health center",
+          "hospital",
+          "i",
+          "i character",
+          "i-hospital"
+        ],
+        "uk": [
+          "🏥",
+          "англійська i",
+          "буква i",
+          "і",
+          "латинська i",
+          "лікарня",
+          "медзаклад",
+          "хоспітал"
+        ]
+      }
+    }
+  },
+  "i-imaging-alternative-ct": {
+    "mediaKey": "b5504fab-e90b-4802-bc61-a9af9f439e30",
+    "i18n": {
+      "name": {
+        "en": "I imaging alternative ct",
+        "uk": "Альтернативний КТ"
+      },
+      "alt": {
+        "en": "I imaging alternative ct",
+        "uk": "Альтернативний КТ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "рентген у 3D",
+          "alternative",
+          "choice",
+          "computed tomography",
+          "ct",
+          "CT scan",
+          "diagnostic imaging",
+          "i",
+          "i character",
+          "imaging",
+          "option",
+          "plan b",
+          "scan",
+          "i-imaging-alternative-ct"
+        ],
+        "uk": [
+          "альтернатива",
+          "англійська i",
+          "буква i",
+          "візуалізація",
+          "діагностика органів",
+          "заміна",
+          "і",
+          "інший варіант",
+          "комп'ютерна томографія",
+          "кт",
+          "КТ-скан",
+          "латинська i",
+          "медичне зображення",
+          "опція",
+          "рентген у 3D"
+        ]
+      }
+    }
+  },
+  "i-imaging-alternative-mri": {
+    "mediaKey": "0355469f-59e2-46ee-b734-7ed89e9ff17d",
+    "i18n": {
+      "name": {
+        "en": "I imaging alternative mri",
+        "uk": "Альтернативний МРТ"
+      },
+      "alt": {
+        "en": "I imaging alternative mri",
+        "uk": "Альтернативний МРТ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "alternative",
+          "choice",
+          "diagnostic imaging",
+          "hospital",
+          "i",
+          "i character",
+          "imaging",
+          "medical imaging",
+          "mri",
+          "option",
+          "plan b",
+          "scan",
+          "i-imaging-alternative-mri"
+        ],
+        "uk": [
+          "альтернатива",
+          "англійська i",
+          "буква i",
+          "візуалізація",
+          "діагностика",
+          "заміна",
+          "і",
+          "інший варіант",
+          "латинська i",
+          "магнітно-резонансна",
+          "медичне зображення",
+          "мрт",
+          "опція",
+          "сканер",
+          "томографія"
+        ]
+      }
+    }
+  },
+  "i-imaging-alternative-mri-two": {
+    "mediaKey": "1b267595-0280-472b-81bb-e53ea52f5912",
+    "i18n": {
+      "name": {
+        "en": "I imaging alternative mri two",
+        "uk": "Альтернативний МРТ 2"
+      },
+      "alt": {
+        "en": "I imaging alternative mri two",
+        "uk": "Альтернативний МРТ 2"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "2️⃣",
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "alternative",
+          "choice",
+          "diagnostic imaging",
+          "hospital",
+          "i",
+          "i character",
+          "imaging",
+          "medical imaging",
+          "mri",
+          "number two",
+          "option",
+          "pair",
+          "plan b",
+          "scan",
+          "two",
+          "i-imaging-alternative-mri-two"
+        ],
+        "uk": [
+          "2️⃣",
+          "альтернатива",
+          "англійська i",
+          "буква i",
+          "візуалізація",
+          "два",
+          "двійка",
+          "діагностика",
+          "заміна",
+          "і",
+          "інший варіант",
+          "латинська i",
+          "магнітно-резонансна",
+          "медичне зображення",
+          "мрт",
+          "опція",
+          "сканер",
+          "томографія",
+          "цифра 2"
+        ]
+      }
+    }
+  },
+  "i-imaging-alternative-pet": {
+    "mediaKey": "afef1ae0-a84c-4313-b732-183d7303f38f",
+    "i18n": {
+      "name": {
+        "en": "I imaging alternative pet",
+        "uk": "Альтернативна ПЕТ"
+      },
+      "alt": {
+        "en": "I imaging alternative pet",
+        "uk": "Альтернативна ПЕТ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "alternative",
+          "choice",
+          "diagnostic imaging",
+          "furry friend",
+          "i",
+          "i character",
+          "imaging",
+          "kitty",
+          "option",
+          "pet",
+          "pet animal",
+          "plan b",
+          "scan",
+          "i-imaging-alternative-pet"
+        ],
+        "uk": [
+          "альтернатива",
+          "англійська i",
+          "буква i",
+          "візуалізація",
+          "домашня тварина",
+          "заміна",
+          "і",
+          "інший варіант",
+          "латинська i",
+          "медичне зображення",
+          "опція",
+          "песик",
+          "улюбленець"
+        ]
+      }
+    }
+  },
+  "i-imaging-root-category": {
+    "mediaKey": "8ddd092f-d0db-4818-8cc4-01ff2a75eade",
+    "i18n": {
+      "name": {
+        "en": "I imaging root category",
+        "uk": "Діагностична візуалізація"
+      },
+      "alt": {
+        "en": "I imaging root category",
+        "uk": "Діагностична візуалізація"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "√",
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "category",
+          "classification",
+          "diagnostic imaging",
+          "i",
+          "i character",
+          "imaging",
+          "root",
+          "root access",
+          "scan",
+          "tag group",
+          "i-imaging-root-category"
+        ],
+        "uk": [
+          "√",
+          "англійська i",
+          "буква i",
+          "візуалізація",
+          "і",
+          "категорія",
+          "катеґорй",
+          "корінь",
+          "латинська i",
+          "медичне зображення",
+          "роот",
+          "рубрика"
+        ]
+      }
+    }
+  },
+  "i-immunizations": {
+    "mediaKey": "544ae8d5-4270-464e-8c46-f4619fd68227",
+    "i18n": {
+      "name": {
+        "en": "I immunizations",
+        "uk": "Щеплення"
+      },
+      "alt": {
+        "en": "I immunizations",
+        "uk": "Щеплення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "i",
+          "i character",
+          "immunization",
+          "immunizations",
+          "shots",
+          "i-immunizations"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "вакцинація",
+          "вакцини",
+          "і",
+          "латинська i",
+          "прививки",
+          "щеплення"
+        ]
+      }
+    }
+  },
+  "i-infectious-diseases": {
+    "mediaKey": "8e7f4910-25f5-4e66-9c0e-1f9367d324e8",
+    "i18n": {
+      "name": {
+        "en": "I infectious diseases",
+        "uk": "Інфекційні хвороби"
+      },
+      "alt": {
+        "en": "I infectious diseases",
+        "uk": "Інфекційні хвороби"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "contagious",
+          "diseases",
+          "epidemic",
+          "i",
+          "i character",
+          "illness",
+          "infectious",
+          "i-infectious-diseases"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "заразний",
+          "захворювання",
+          "і",
+          "інфекції",
+          "інфекційний",
+          "інфекція",
+          "латинська i",
+          "хвороби"
+        ]
+      }
+    }
+  },
+  "i-information-us": {
+    "mediaKey": "aab50ddc-7f4b-40b1-a147-49544461c927",
+    "i18n": {
+      "name": {
+        "en": "I information us",
+        "uk": "Інформація"
+      },
+      "alt": {
+        "en": "I information us",
+        "uk": "Інформація"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "details",
+          "help",
+          "i",
+          "i character",
+          "i icon",
+          "info",
+          "information",
+          "United States",
+          "us",
+          "USA",
+          "i-information-us"
+        ],
+        "uk": [
+          "Америка",
+          "англійська i",
+          "буква i",
+          "довідка",
+          "і",
+          "інформація",
+          "інформувати",
+          "латинська i",
+          "нас",
+          "США",
+          "штати"
+        ]
+      }
+    }
+  },
+  "i-inpatient": {
+    "mediaKey": "b1c7de9f-1a54-4fdf-900f-5096d01730b0",
+    "i18n": {
+      "name": {
+        "en": "I inpatient",
+        "uk": "Стаціонар"
+      },
+      "alt": {
+        "en": "I inpatient",
+        "uk": "Стаціонар"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "hospital stay",
+          "i",
+          "i character",
+          "inpatient",
+          "patient bed",
+          "i-inpatient"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "і",
+          "латинська i",
+          "лікарняне лікування",
+          "палата",
+          "стаціонар",
+          "стаціонарний пацієнт"
+        ]
+      }
+    }
+  },
+  "i-intensive-care": {
+    "mediaKey": "2610d1b4-2f76-4933-8ec8-58fc0de1ace2",
+    "i18n": {
+      "name": {
+        "en": "I intensive care",
+        "uk": "Відділення інтенсивної терапії"
+      },
+      "alt": {
+        "en": "I intensive care",
+        "uk": "Відділення інтенсивної терапії"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "bootcamp",
+          "care",
+          "care icon",
+          "deep",
+          "i",
+          "i character",
+          "intensive",
+          "take care",
+          "i-intensive-care"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "догляд",
+          "і",
+          "інтенсивний",
+          "латинська i",
+          "насичений",
+          "опіка",
+          "турбота",
+          "ускорений"
+        ]
+      }
+    }
+  },
+  "i-internal-medicine": {
+    "mediaKey": "499de78c-bafc-4296-912d-e60f27f1112e",
+    "i18n": {
+      "name": {
+        "en": "I internal medicine",
+        "uk": "Внутрішня медицина"
+      },
+      "alt": {
+        "en": "I internal medicine",
+        "uk": "Внутрішня медицина"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "core",
+          "i",
+          "i character",
+          "in-house",
+          "inside",
+          "internal",
+          "internal use",
+          "intranet",
+          "medical care",
+          "medicine",
+          "pharmacy",
+          "i-internal-medicine"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "внутрішній",
+          "і",
+          "латинська i",
+          "ліки",
+          "медицина",
+          "медікіне",
+          "пігулки"
+        ]
+      }
+    }
+  },
+  "i-interpreter-services": {
+    "mediaKey": "48ab6a9c-30de-4511-a118-28b8c7970cc1",
+    "i18n": {
+      "name": {
+        "en": "I interpreter services",
+        "uk": "Послуги перекладача"
+      },
+      "alt": {
+        "en": "I interpreter services",
+        "uk": "Послуги перекладача"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "customer services",
+          "i",
+          "i character",
+          "interpreter",
+          "interpreting",
+          "language service",
+          "service center",
+          "service hub",
+          "services",
+          "support services",
+          "translator",
+          "i-interpreter-services"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "і",
+          "латинська i",
+          "обслуговування",
+          "перекладач",
+          "послуги",
+          "сервіси",
+          "тлумач",
+          "усний переклад"
+        ]
+      }
+    }
+  },
+  "i-kidney": {
+    "mediaKey": "4d7c8530-bb11-497e-b0f2-ba64249b8a91",
+    "i18n": {
+      "name": {
+        "en": "I kidney",
+        "uk": "Нефрологія"
+      },
+      "alt": {
+        "en": "I kidney",
+        "uk": "Нефрологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "i",
+          "i character",
+          "kidney",
+          "renal",
+          "urinary system",
+          "i-kidney"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "і",
+          "латинська i",
+          "нирка",
+          "нирки"
+        ]
+      }
+    }
+  },
+  "i-labor-delivery": {
+    "mediaKey": "baba19e7-7b9f-4679-9abe-508bad3e3343",
+    "i18n": {
+      "name": {
+        "en": "I labor delivery",
+        "uk": "Пологове відділення"
+      },
+      "alt": {
+        "en": "I labor delivery",
+        "uk": "Пологове відділення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "courier",
+          "delivery",
+          "delivery box",
+          "i",
+          "i character",
+          "labor",
+          "labor day",
+          "shipping",
+          "work",
+          "workforce",
+          "i-labor-delivery"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "деліверй",
+          "доставка",
+          "і",
+          "латинська i",
+          "праця",
+          "робоча сила",
+          "труд"
+        ]
+      }
+    }
+  },
+  "i-laboratory": {
+    "mediaKey": "04467d97-90ad-441c-837a-425888105deb",
+    "i18n": {
+      "name": {
+        "en": "I laboratory",
+        "uk": "Лабораторія"
+      },
+      "alt": {
+        "en": "I laboratory",
+        "uk": "Лабораторія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "i",
+          "i character",
+          "lab",
+          "laboratory",
+          "research center",
+          "science lab",
+          "i-laboratory"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "дослідження",
+          "і",
+          "лабораторія",
+          "лабораторне обладнання",
+          "латинська i",
+          "мікроскоп"
+        ]
+      }
+    }
+  },
+  "i-mammography": {
+    "mediaKey": "9aaca4b0-b7ee-4f5c-a0de-53368d4c2cd8",
+    "i18n": {
+      "name": {
+        "en": "I mammography",
+        "uk": "Мамографія"
+      },
+      "alt": {
+        "en": "I mammography",
+        "uk": "Мамографія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "breast screening",
+          "i",
+          "i character",
+          "mammogram",
+          "mammography",
+          "i-mammography"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "і",
+          "латинська i",
+          "мамографія",
+          "раннє виявлення",
+          "скринінг грудей"
+        ]
+      }
+    }
+  },
+  "i-medical-library": {
+    "mediaKey": "46d9dce8-81a3-41e5-b55d-062ea168131d",
+    "i18n": {
+      "name": {
+        "en": "I medical library",
+        "uk": "Медична бібліотека"
+      },
+      "alt": {
+        "en": "I medical library",
+        "uk": "Медична бібліотека"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "book collection",
+          "code library",
+          "healthcare",
+          "i",
+          "i character",
+          "library",
+          "library icon",
+          "medical",
+          "repository",
+          "i-medical-library"
+        ],
+        "uk": [
+          "англійська i",
+          "бібліотека",
+          "бібліотечний фонд",
+          "буква i",
+          "і",
+          "книгозбірня",
+          "латинська i",
+          "лібрарй",
+          "медична сфера",
+          "медичний",
+          "медікал",
+          "охорона здоров'я"
+        ]
+      }
+    }
+  },
+  "i-medical-records": {
+    "mediaKey": "c42d1a6e-1b04-403b-beed-c0b41ec451bb",
+    "i18n": {
+      "name": {
+        "en": "I medical records",
+        "uk": "Медичні записи"
+      },
+      "alt": {
+        "en": "I medical records",
+        "uk": "Медичні записи"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "data records",
+          "healthcare",
+          "i",
+          "i character",
+          "medical",
+          "music records",
+          "recording",
+          "records",
+          "vinyl records",
+          "i-medical-records"
+        ],
+        "uk": [
+          "англійська i",
+          "архів",
+          "буква i",
+          "документи",
+          "записи",
+          "і",
+          "латинська i",
+          "медична сфера",
+          "медичний",
+          "медікал",
+          "охорона здоров'я"
+        ]
+      }
+    }
+  },
+  "i-mental-health": {
+    "mediaKey": "7df48223-7470-4a6f-b959-4d70c318dcbc",
+    "i18n": {
+      "name": {
+        "en": "I mental health",
+        "uk": "Психіатрія"
+      },
+      "alt": {
+        "en": "I mental health",
+        "uk": "Психіатрія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "здоров'я icon",
+          "латинська i",
+          "cognitive",
+          "fitness",
+          "headspace",
+          "health",
+          "healthcare",
+          "i",
+          "i character",
+          "mental",
+          "mind",
+          "wellness",
+          "i-mental-health"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "думки",
+          "здоров",
+          "здоров'я",
+          "здоров'я icon",
+          "і",
+          "латинська i",
+          "менталочка",
+          "ментальне",
+          "психіка",
+          "психічне здоров'я",
+          "психічний",
+          "розум",
+          "хеалт"
+        ]
+      }
+    }
+  },
+  "i-mri-pet": {
+    "mediaKey": "55201429-6285-4a78-9cd0-d1ed27bbf0c9",
+    "i18n": {
+      "name": {
+        "en": "I mri pet",
+        "uk": "МРТ / ПЕТ"
+      },
+      "alt": {
+        "en": "I mri pet",
+        "uk": "МРТ / ПЕТ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "furry friend",
+          "hospital",
+          "i",
+          "i character",
+          "kitty",
+          "medical imaging",
+          "mri",
+          "pet",
+          "pet animal",
+          "i-mri-pet"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "діагностика",
+          "домашня тварина",
+          "і",
+          "латинська i",
+          "магнітно-резонансна",
+          "мрт",
+          "песик",
+          "сканер",
+          "томографія",
+          "улюбленець"
+        ]
+      }
+    }
+  },
+  "i-neurology": {
+    "mediaKey": "e480a24f-aa09-496e-b316-24531058b5bd",
+    "i18n": {
+      "name": {
+        "en": "I neurology",
+        "uk": "Неврологія"
+      },
+      "alt": {
+        "en": "I neurology",
+        "uk": "Неврологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "brain doctor",
+          "i",
+          "i character",
+          "neuro",
+          "neurology",
+          "i-neurology"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "і",
+          "латинська i",
+          "мозок",
+          "невролог",
+          "неврологія",
+          "нервова система"
+        ]
+      }
+    }
+  },
+  "i-no-smoking": {
+    "mediaKey": "66408bd5-b13d-4f3d-8ea7-f3764a0b4aa8",
+    "i18n": {
+      "name": {
+        "en": "I no smoking",
+        "uk": "Куріння заборонено"
+      },
+      "alt": {
+        "en": "I no smoking",
+        "uk": "Куріння заборонено"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "i",
+          "i character",
+          "no",
+          "nope",
+          "smoking",
+          "tobacco",
+          "i-no-smoking"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "відмова",
+          "дим",
+          "заборона",
+          "і",
+          "куріння",
+          "латинська i",
+          "немає",
+          "но",
+          "паління",
+          "сигарети",
+          "смокінґ"
+        ]
+      }
+    }
+  },
+  "i-nursery": {
+    "mediaKey": "6f68e3cd-b35e-4bc5-a8f5-a87aa92f09b2",
+    "i18n": {
+      "name": {
+        "en": "I nursery",
+        "uk": "Дитяча палата"
+      },
+      "alt": {
+        "en": "I nursery",
+        "uk": "Дитяча палата"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "garden",
+          "i",
+          "i character",
+          "kindergarten",
+          "nursery",
+          "playroom",
+          "i-nursery"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "дитсадок",
+          "дитяча",
+          "і",
+          "латинська i",
+          "малюки",
+          "садок"
+        ]
+      }
+    }
+  },
+  "i-nutrition": {
+    "mediaKey": "da8cee7d-e3c7-4017-89d4-ce66ea1a2135",
+    "i18n": {
+      "name": {
+        "en": "I nutrition",
+        "uk": "Дієтологія"
+      },
+      "alt": {
+        "en": "I nutrition",
+        "uk": "Дієтологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "balanced meal",
+          "i",
+          "i character",
+          "nutrients",
+          "nutrition",
+          "i-nutrition"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "вітаміни",
+          "дієта",
+          "здорове меню",
+          "і",
+          "латинська i",
+          "нутриціологія",
+          "харчування"
+        ]
+      }
+    }
+  },
+  "i-oncology": {
+    "mediaKey": "fc64e707-3e60-4647-9671-c1d157052fcb",
+    "i18n": {
+      "name": {
+        "en": "I oncology",
+        "uk": "Онкологія"
+      },
+      "alt": {
+        "en": "I oncology",
+        "uk": "Онкологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "cancer care",
+          "chemo",
+          "i",
+          "i character",
+          "oncology",
+          "tumor clinic",
+          "i-oncology"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "і",
+          "латинська i",
+          "онкологія",
+          "онкоцентр",
+          "рак"
+        ]
+      }
+    }
+  },
+  "i-ophthalmology": {
+    "mediaKey": "c5ffa801-3603-4584-ba2a-bac630ec4527",
+    "i18n": {
+      "name": {
+        "en": "I ophthalmology",
+        "uk": "Офтальмологія"
+      },
+      "alt": {
+        "en": "I ophthalmology",
+        "uk": "Офтальмологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "eye clinic",
+          "i",
+          "i character",
+          "ophthalmology",
+          "optometry",
+          "vision care",
+          "i-ophthalmology"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "зір",
+          "і",
+          "латинська i",
+          "офтальмологія",
+          "очний лікар"
+        ]
+      }
+    }
+  },
+  "i-outpatient": {
+    "mediaKey": "a56e7172-3e72-41e9-b603-de0753c5d99f",
+    "i18n": {
+      "name": {
+        "en": "I outpatient",
+        "uk": "Амбулаторія"
+      },
+      "alt": {
+        "en": "I outpatient",
+        "uk": "Амбулаторія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "clinic patient",
+          "day hospital",
+          "i",
+          "i character",
+          "outpatient",
+          "walk-in",
+          "i-outpatient"
+        ],
+        "uk": [
+          "амбулаторія",
+          "амбулаторний",
+          "англійська i",
+          "буква i",
+          "денний стаціонар",
+          "і",
+          "латинська i",
+          "поліклінічний"
+        ]
+      }
+    }
+  },
+  "i-pathology": {
+    "mediaKey": "c40aac06-daab-4326-adfa-be42697a3592",
+    "i18n": {
+      "name": {
+        "en": "I pathology",
+        "uk": "Патологія"
+      },
+      "alt": {
+        "en": "I pathology",
+        "uk": "Патологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "i",
+          "i character",
+          "laboratory medicine",
+          "pathology",
+          "i-pathology"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "діагностика хвороб",
+          "і",
+          "латинська i",
+          "патологія",
+          "патологоанатомія"
+        ]
+      }
+    }
+  },
+  "i-pediatrics": {
+    "mediaKey": "0bccb5d7-9801-4624-8f15-f22a66f6e8ec",
+    "i18n": {
+      "name": {
+        "en": "I pediatrics",
+        "uk": "Педіатрія"
+      },
+      "alt": {
+        "en": "I pediatrics",
+        "uk": "Педіатрія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "baby doctor",
+          "child health",
+          "i",
+          "i character",
+          "pediatric clinic",
+          "pediatrics",
+          "i-pediatrics"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "дитяча медицина",
+          "дитячий лікар",
+          "і",
+          "латинська i",
+          "педіатрія"
+        ]
+      }
+    }
+  },
+  "i-pharmacy": {
+    "mediaKey": "8b78e70e-6da1-4e7e-a84a-791528660f69",
+    "i18n": {
+      "name": {
+        "en": "I pharmacy",
+        "uk": "Аптека"
+      },
+      "alt": {
+        "en": "I pharmacy",
+        "uk": "Аптека"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "chemist",
+          "drugstore",
+          "i",
+          "i character",
+          "pharmacy",
+          "i-pharmacy"
+        ],
+        "uk": [
+          "англійська i",
+          "аптека",
+          "аптечка",
+          "буква i",
+          "і",
+          "латинська i",
+          "фармапункт",
+          "фарммаркет"
+        ]
+      }
+    }
+  },
+  "i-physical-therapy": {
+    "mediaKey": "41971c54-57c3-4039-8797-95c33ce12e0a",
+    "i18n": {
+      "name": {
+        "en": "I physical therapy",
+        "uk": "Фізична терапія"
+      },
+      "alt": {
+        "en": "I physical therapy",
+        "uk": "Фізична терапія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "counseling",
+          "i",
+          "i character",
+          "offline",
+          "physical",
+          "tangible",
+          "therapy",
+          "treatment",
+          "i-physical-therapy"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "і",
+          "латинська i",
+          "лікування",
+          "матеріальний",
+          "реальний",
+          "сеанс терапії",
+          "терапія",
+          "тілесний",
+          "фізичний"
+        ]
+      }
+    }
+  },
+  "i-radiology": {
+    "mediaKey": "7f43cc2c-eaea-46c2-bd4c-9a5f4953970f",
+    "i18n": {
+      "name": {
+        "en": "I radiology",
+        "uk": "Радіологія"
+      },
+      "alt": {
+        "en": "I radiology",
+        "uk": "Радіологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "ct scan",
+          "i",
+          "i character",
+          "imaging",
+          "radiology",
+          "i-radiology"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "діагностика",
+          "і",
+          "латинська i",
+          "медичне зображення",
+          "радіологія",
+          "рентген"
+        ]
+      }
+    }
+  },
+  "i-registration": {
+    "mediaKey": "2789f064-69d4-49df-86c5-e08e0d9e6c4b",
+    "i18n": {
+      "name": {
+        "en": "I registration",
+        "uk": "Реєстратура"
+      },
+      "alt": {
+        "en": "I registration",
+        "uk": "Реєстратура"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "enroll",
+          "form",
+          "i",
+          "i character",
+          "registration",
+          "sign up",
+          "i-registration"
+        ],
+        "uk": [
+          "англійська i",
+          "анкета",
+          "буква i",
+          "запис",
+          "і",
+          "латинська i",
+          "реєстрація"
+        ]
+      }
+    }
+  },
+  "i-respiratory": {
+    "mediaKey": "9d6a9045-e85f-43af-8085-97acefb21a77",
+    "i18n": {
+      "name": {
+        "en": "I respiratory",
+        "uk": "Пульмонологія"
+      },
+      "alt": {
+        "en": "I respiratory",
+        "uk": "Пульмонологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "breathing",
+          "i",
+          "i character",
+          "lungs",
+          "pulmonary",
+          "respiratory",
+          "i-respiratory"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "дихальна система",
+          "дихальний",
+          "і",
+          "латинська i",
+          "легеневий"
+        ]
+      }
+    }
+  },
+  "i-restaurant": {
+    "mediaKey": "f9d49ec7-ffe6-4f27-9561-fa67ee1ba727",
+    "i18n": {
+      "name": {
+        "en": "I restaurant",
+        "uk": "Їдальня"
+      },
+      "alt": {
+        "en": "I restaurant",
+        "uk": "Їдальня"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "bistro",
+          "dining",
+          "eatery",
+          "food",
+          "i",
+          "i character",
+          "meal",
+          "restaurant",
+          "i-restaurant"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "заклад",
+          "і",
+          "кафе",
+          "латинська i",
+          "ресторан"
+        ]
+      }
+    }
+  },
+  "i-restrooms": {
+    "mediaKey": "84e1bcd0-ec0f-4de1-8e66-5e007813e440",
+    "i18n": {
+      "name": {
+        "en": "I restrooms",
+        "uk": "Туалети"
+      },
+      "alt": {
+        "en": "I restrooms",
+        "uk": "Туалети"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "i",
+          "i character",
+          "restroom",
+          "restrooms",
+          "wc",
+          "i-restrooms"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "вбиральня",
+          "і",
+          "латинська i",
+          "санвузол",
+          "туалет",
+          "туалети"
+        ]
+      }
+    }
+  },
+  "i-smoking": {
+    "mediaKey": "b4356a82-775b-4fa6-9cf8-bca694e97261",
+    "i18n": {
+      "name": {
+        "en": "I smoking",
+        "uk": "Місце для куріння"
+      },
+      "alt": {
+        "en": "I smoking",
+        "uk": "Місце для куріння"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "i",
+          "i character",
+          "smoking",
+          "tobacco",
+          "i-smoking"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "дим",
+          "і",
+          "куріння",
+          "латинська i",
+          "паління",
+          "сигарети",
+          "смокінґ"
+        ]
+      }
+    }
+  },
+  "i-social-services": {
+    "mediaKey": "3452fc45-3501-4656-a518-57140233dc38",
+    "i18n": {
+      "name": {
+        "en": "I social services",
+        "uk": "Соціальні служби"
+      },
+      "alt": {
+        "en": "I social services",
+        "uk": "Соціальні служби"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "community",
+          "customer services",
+          "i",
+          "i character",
+          "service center",
+          "service hub",
+          "services",
+          "social",
+          "social media",
+          "support services",
+          "i-social-services"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "і",
+          "ком'юніті",
+          "латинська i",
+          "обслуговування",
+          "послуги",
+          "сервіси",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування"
+        ]
+      }
+    }
+  },
+  "i-stairs": {
+    "mediaKey": "e6e4bb14-59a2-4d45-af62-699c44d2da21",
+    "i18n": {
+      "name": {
+        "en": "I stairs",
+        "uk": "Сходи"
+      },
+      "alt": {
+        "en": "I stairs",
+        "uk": "Сходи"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "i",
+          "i character",
+          "stairs",
+          "steps",
+          "i-stairs"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "драбина",
+          "і",
+          "латинська i",
+          "підйом",
+          "стеїрс",
+          "сходи",
+          "сходинки"
+        ]
+      }
+    }
+  },
+  "i-surgery": {
+    "mediaKey": "b30e9223-0f74-4ae2-b780-f9c7013ac1aa",
+    "i18n": {
+      "name": {
+        "en": "I surgery",
+        "uk": "Хірургія"
+      },
+      "alt": {
+        "en": "I surgery",
+        "uk": "Хірургія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "i",
+          "i character",
+          "operation",
+          "procedure",
+          "scalpel",
+          "surgery",
+          "surgical",
+          "i-surgery"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "і",
+          "латинська i",
+          "медична операція",
+          "операційна",
+          "хірургія"
+        ]
+      }
+    }
+  },
+  "i-text-telephone": {
+    "mediaKey": "c8a7806a-735b-4670-af5a-ce21f2bd705e",
+    "i18n": {
+      "name": {
+        "en": "I text telephone",
+        "uk": "Телетайп"
+      },
+      "alt": {
+        "en": "I text telephone",
+        "uk": "Телетайп"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "call",
+          "content",
+          "copy",
+          "i",
+          "i character",
+          "landline",
+          "phone",
+          "telephone",
+          "telephone icon",
+          "text",
+          "i-text-telephone"
+        ],
+        "uk": [
+          "абзац",
+          "англійська i",
+          "буква i",
+          "дзвінок",
+          "і",
+          "копірайт",
+          "латинська i",
+          "повідомлення",
+          "стаціонарний телефон",
+          "текст",
+          "телефон"
+        ]
+      }
+    }
+  },
+  "i-ultrasound": {
+    "mediaKey": "e3fe93a5-ea6f-43cb-b536-6a069ef01395",
+    "i18n": {
+      "name": {
+        "en": "I ultrasound",
+        "uk": "УЗД"
+      },
+      "alt": {
+        "en": "I ultrasound",
+        "uk": "УЗД"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "i",
+          "i character",
+          "sonography",
+          "ultrasound",
+          "i-ultrasound"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "і",
+          "латинська i",
+          "медицина",
+          "УЗД",
+          "ультразвук"
+        ]
+      }
+    }
+  },
+  "i-volume-control": {
+    "mediaKey": "80dea495-9481-49ef-8cd2-338165ff90c6",
+    "i18n": {
+      "name": {
+        "en": "I volume control",
+        "uk": "Регулятор гучності"
+      },
+      "alt": {
+        "en": "I volume control",
+        "uk": "Регулятор гучності"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "control",
+          "control panel",
+          "ctrl key",
+          "i",
+          "i character",
+          "loudness",
+          "sound level",
+          "volume",
+          "i-volume-control"
+        ],
+        "uk": [
+          "англійська i",
+          "буква i",
+          "гучність",
+          "і",
+          "керування",
+          "контрол",
+          "контроль",
+          "латинська i",
+          "об'єм",
+          "обсяг",
+          "повзунок",
+          "том"
+        ]
+      }
+    }
+  },
+  "i-waiting-area": {
+    "mediaKey": "031ed85b-9a83-4a07-91bf-91dd99e6f0eb",
+    "i18n": {
+      "name": {
+        "en": "I waiting area",
+        "uk": "Зона очікування"
+      },
+      "alt": {
+        "en": "I waiting area",
+        "uk": "Зона очікування"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "англійська i",
+          "буква i",
+          "латинська i",
+          "area",
+          "area size",
+          "delay",
+          "hold",
+          "i",
+          "i character",
+          "loading",
+          "pending",
+          "queue",
+          "region",
+          "standby",
+          "waiting",
+          "i-waiting-area"
+        ],
+        "uk": [
+          "англійська i",
+          "ареа",
+          "буква i",
+          "зачекати",
+          "зона",
+          "і",
+          "латинська i",
+          "область",
+          "очікування",
+          "площа"
+        ]
+      }
+    }
+  },
+  "i-womens-health": {
+    "mediaKey": "1efea80c-0bec-484a-9bc6-7f54c92cc9f5",
+    "i18n": {
+      "name": {
+        "en": "I womens health",
+        "uk": "Жіноче здоров'я"
+      },
+      "alt": {
+        "en": "I womens health",
+        "uk": "Жіноче здоров'я"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "👩",
+          "англійська i",
+          "буква i",
+          "здоров'я icon",
+          "латинська i",
+          "female only",
+          "fitness",
+          "health",
+          "healthcare",
+          "i",
+          "i character",
+          "ladies only",
+          "wellness",
+          "women's room",
+          "womens",
+          "i-womens-health"
+        ],
+        "uk": [
+          "👩",
+          "англійська i",
+          "буква i",
+          "дамська зона",
+          "для жінок",
+          "жіноче",
+          "жіночий відділ",
+          "жіночий туалет",
+          "жіночі",
+          "здоров",
+          "здоров'я",
+          "здоров'я icon",
+          "і",
+          "латинська i",
+          "хеалт"
+        ]
+      }
+    }
+  },
+  "imaging-alternative-ct": {
+    "mediaKey": "749fcd3c-fe12-46de-9d0d-3eeecad6fce6",
+    "i18n": {
+      "name": {
+        "en": "Imaging alternative ct",
+        "uk": "Альтернативний КТ"
+      },
+      "alt": {
+        "en": "Imaging alternative ct",
+        "uk": "Альтернативний КТ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "рентген у 3D",
+          "alternative",
+          "choice",
+          "computed tomography",
+          "ct",
+          "CT scan",
+          "diagnostic imaging",
+          "imaging",
+          "option",
+          "plan b",
+          "scan",
+          "imaging-alternative-ct"
+        ],
+        "uk": [
+          "альтернатива",
+          "візуалізація",
+          "діагностика органів",
+          "заміна",
+          "інший варіант",
+          "комп'ютерна томографія",
+          "кт",
+          "КТ-скан",
+          "медичне зображення",
+          "опція",
+          "рентген у 3D"
+        ]
+      }
+    }
+  },
+  "imaging-alternative-mri": {
+    "mediaKey": "a602e72f-36b3-479a-9b50-4527b02183f2",
+    "i18n": {
+      "name": {
+        "en": "Imaging alternative mri",
+        "uk": "Альтернативний МРТ"
+      },
+      "alt": {
+        "en": "Imaging alternative mri",
+        "uk": "Альтернативний МРТ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "alternative",
+          "choice",
+          "diagnostic imaging",
+          "hospital",
+          "imaging",
+          "medical imaging",
+          "mri",
+          "option",
+          "plan b",
+          "scan",
+          "imaging-alternative-mri"
+        ],
+        "uk": [
+          "альтернатива",
+          "візуалізація",
+          "діагностика",
+          "заміна",
+          "інший варіант",
+          "магнітно-резонансна",
+          "медичне зображення",
+          "мрт",
+          "опція",
+          "сканер",
+          "томографія"
+        ]
+      }
+    }
+  },
+  "imaging-alternative-mri-two": {
+    "mediaKey": "e016d06f-384f-4302-874b-3ea0b90009ec",
+    "i18n": {
+      "name": {
+        "en": "Imaging alternative mri two",
+        "uk": "Альтернативний МРТ 2"
+      },
+      "alt": {
+        "en": "Imaging alternative mri two",
+        "uk": "Альтернативний МРТ 2"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "2️⃣",
+          "alternative",
+          "choice",
+          "diagnostic imaging",
+          "hospital",
+          "imaging",
+          "medical imaging",
+          "mri",
+          "number two",
+          "option",
+          "pair",
+          "plan b",
+          "scan",
+          "two",
+          "imaging-alternative-mri-two"
+        ],
+        "uk": [
+          "2️⃣",
+          "альтернатива",
+          "візуалізація",
+          "два",
+          "двійка",
+          "діагностика",
+          "заміна",
+          "інший варіант",
+          "магнітно-резонансна",
+          "медичне зображення",
+          "мрт",
+          "опція",
+          "сканер",
+          "томографія",
+          "цифра 2"
+        ]
+      }
+    }
+  },
+  "imaging-alternative-pet": {
+    "mediaKey": "c2695542-7da9-42fd-8240-fbdbf81ce813",
+    "i18n": {
+      "name": {
+        "en": "Imaging alternative pet",
+        "uk": "Альтернативна ПЕТ"
+      },
+      "alt": {
+        "en": "Imaging alternative pet",
+        "uk": "Альтернативна ПЕТ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "alternative",
+          "choice",
+          "diagnostic imaging",
+          "furry friend",
+          "imaging",
+          "kitty",
+          "option",
+          "pet",
+          "pet animal",
+          "plan b",
+          "scan",
+          "imaging-alternative-pet"
+        ],
+        "uk": [
+          "альтернатива",
+          "візуалізація",
+          "домашня тварина",
+          "заміна",
+          "інший варіант",
+          "медичне зображення",
+          "опція",
+          "песик",
+          "улюбленець"
+        ]
+      }
+    }
+  },
+  "imaging-root-category": {
+    "mediaKey": "9f7ef205-3311-4159-a132-4987802415fa",
+    "i18n": {
+      "name": {
+        "en": "Imaging root category",
+        "uk": "Діагностична візуалізація"
+      },
+      "alt": {
+        "en": "Imaging root category",
+        "uk": "Діагностична візуалізація"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "√",
+          "category",
+          "classification",
+          "diagnostic imaging",
+          "imaging",
+          "root",
+          "root access",
+          "scan",
+          "tag group",
+          "imaging-root-category"
+        ],
+        "uk": [
+          "√",
+          "візуалізація",
+          "категорія",
+          "катеґорй",
+          "корінь",
+          "медичне зображення",
+          "роот",
+          "рубрика"
+        ]
+      }
+    }
+  },
+  "immunizations": {
+    "mediaKey": "d0b5d4b5-e975-48ee-bfa7-83aaefa21d26",
+    "i18n": {
+      "name": {
+        "en": "Immunizations",
+        "uk": "Щеплення"
+      },
+      "alt": {
+        "en": "Immunizations",
+        "uk": "Щеплення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "immunization",
+          "immunizations",
+          "shots"
+        ],
+        "uk": [
+          "вакцинація",
+          "вакцини",
+          "прививки",
+          "щеплення"
+        ]
+      }
+    }
+  },
+  "infectious-diseases": {
+    "mediaKey": "a37409e1-68c5-4da3-8c72-d45451fc9a86",
+    "i18n": {
+      "name": {
+        "en": "Infectious diseases",
+        "uk": "Інфекційні хвороби"
+      },
+      "alt": {
+        "en": "Infectious diseases",
+        "uk": "Інфекційні хвороби"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "contagious",
+          "diseases",
+          "epidemic",
+          "illness",
+          "infectious",
+          "infectious-diseases"
+        ],
+        "uk": [
+          "заразний",
+          "захворювання",
+          "інфекції",
+          "інфекційний",
+          "інфекція",
+          "хвороби"
+        ]
+      }
+    }
+  },
+  "information-us": {
+    "mediaKey": "9cf6bb28-b55b-44ea-895e-ed62f5453e88",
+    "i18n": {
+      "name": {
+        "en": "Information us",
+        "uk": "Інформація"
+      },
+      "alt": {
+        "en": "Information us",
+        "uk": "Інформація"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "details",
+          "help",
+          "i icon",
+          "info",
+          "information",
+          "United States",
+          "us",
+          "USA",
+          "information-us"
+        ],
+        "uk": [
+          "Америка",
+          "довідка",
+          "інформація",
+          "інформувати",
+          "нас",
+          "США",
+          "штати"
+        ]
+      }
+    }
+  },
+  "inpatient": {
+    "mediaKey": "8d11f6e9-3721-462b-87d7-b3baf3f4e2bc",
+    "i18n": {
+      "name": {
+        "en": "Inpatient",
+        "uk": "Стаціонарний пацієнт"
+      },
+      "alt": {
+        "en": "Inpatient",
+        "uk": "Стаціонарний пацієнт"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "hospital stay",
+          "inpatient",
+          "patient bed"
+        ],
+        "uk": [
+          "лікарняне лікування",
+          "палата",
+          "стаціонар",
+          "стаціонарний пацієнт"
+        ]
+      }
+    }
+  },
+  "intensive-care": {
+    "mediaKey": "3c304c78-26be-4592-8358-8fec82639820",
+    "i18n": {
+      "name": {
+        "en": "Intensive care",
+        "uk": "Інтенсивна терапія"
+      },
+      "alt": {
+        "en": "Intensive care",
+        "uk": "Інтенсивна терапія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bootcamp",
+          "care",
+          "care icon",
+          "deep",
+          "intensive",
+          "take care",
+          "intensive-care"
+        ],
+        "uk": [
+          "догляд",
+          "інтенсивний",
+          "насичений",
+          "опіка",
+          "турбота",
+          "ускорений"
+        ]
+      }
+    }
+  },
+  "internal-medicine": {
+    "mediaKey": "5396ced5-2411-4565-978d-1fe53e7027d7",
+    "i18n": {
+      "name": {
+        "en": "Internal medicine",
+        "uk": "Внутрішня медицина"
+      },
+      "alt": {
+        "en": "Internal medicine",
+        "uk": "Внутрішня медицина"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "core",
+          "in-house",
+          "inside",
+          "internal",
+          "internal use",
+          "intranet",
+          "medical care",
+          "medicine",
+          "pharmacy",
+          "internal-medicine"
+        ],
+        "uk": [
+          "внутрішній",
+          "ліки",
+          "медицина",
+          "медікіне",
+          "пігулки"
+        ]
+      }
+    }
+  },
+  "interpreter-services": {
+    "mediaKey": "4af74072-3b33-4a05-a0f6-644a2054a69b",
+    "i18n": {
+      "name": {
+        "en": "Interpreter services",
+        "uk": "Послуги перекладача"
+      },
+      "alt": {
+        "en": "Interpreter services",
+        "uk": "Послуги перекладача"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "customer services",
+          "interpreter",
+          "interpreting",
+          "language service",
+          "service center",
+          "service hub",
+          "services",
+          "support services",
+          "translator",
+          "interpreter-services"
+        ],
+        "uk": [
+          "обслуговування",
+          "перекладач",
+          "послуги",
+          "сервіси",
+          "тлумач",
+          "усний переклад"
+        ]
+      }
+    }
+  },
+  "kidney": {
+    "mediaKey": "a5ed7f95-ae4c-4a69-a368-ca9da4df9dd5",
+    "i18n": {
+      "name": {
+        "en": "Kidney",
+        "uk": "Нирка"
+      },
+      "alt": {
+        "en": "Kidney",
+        "uk": "Нирка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "kidney",
+          "renal",
+          "urinary system"
+        ],
+        "uk": [
+          "нирка",
+          "нирки"
+        ]
+      }
+    }
+  },
+  "labor-delivery": {
+    "mediaKey": "8f325a21-db40-46ff-bf1d-b4df46ff5af7",
+    "i18n": {
+      "name": {
+        "en": "Labor delivery",
+        "uk": "Пологи"
+      },
+      "alt": {
+        "en": "Labor delivery",
+        "uk": "Пологи"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "courier",
+          "delivery",
+          "delivery box",
+          "labor",
+          "labor day",
+          "shipping",
+          "work",
+          "workforce",
+          "labor-delivery"
+        ],
+        "uk": [
+          "деліверй",
+          "доставка",
+          "праця",
+          "робоча сила",
+          "труд"
+        ]
+      }
+    }
+  },
+  "laboratory": {
+    "mediaKey": "7814aa2c-fe25-47d1-8675-60b2fa9434f4",
+    "i18n": {
+      "name": {
+        "en": "Laboratory",
+        "uk": "Лабораторія"
+      },
+      "alt": {
+        "en": "Laboratory",
+        "uk": "Лабораторія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "lab",
+          "laboratory",
+          "research center",
+          "science lab"
+        ],
+        "uk": [
+          "дослідження",
+          "лабораторія",
+          "лабораторне обладнання",
+          "мікроскоп"
+        ]
+      }
+    }
+  },
+  "mammography": {
+    "mediaKey": "3711e3dd-ff98-4c39-9959-1427119d0e15",
+    "i18n": {
+      "name": {
+        "en": "Mammography",
+        "uk": "Мамографія"
+      },
+      "alt": {
+        "en": "Mammography",
+        "uk": "Мамографія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "breast screening",
+          "mammogram",
+          "mammography"
+        ],
+        "uk": [
+          "мамографія",
+          "раннє виявлення",
+          "скринінг грудей"
+        ]
+      }
+    }
+  },
+  "medical-library": {
+    "mediaKey": "843fb7e4-8d8f-4c7f-82f4-3f27bea4fe03",
+    "i18n": {
+      "name": {
+        "en": "Medical library",
+        "uk": "Медична бібліотека"
+      },
+      "alt": {
+        "en": "Medical library",
+        "uk": "Медична бібліотека"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "book collection",
+          "code library",
+          "healthcare",
+          "library",
+          "library icon",
+          "medical",
+          "repository",
+          "medical-library"
+        ],
+        "uk": [
+          "бібліотека",
+          "бібліотечний фонд",
+          "книгозбірня",
+          "лібрарй",
+          "медична сфера",
+          "медичний",
+          "медікал",
+          "охорона здоров'я"
+        ]
+      }
+    }
+  },
+  "medical-records": {
+    "mediaKey": "b559e4db-8fe4-456b-81cf-7c6edf602d29",
+    "i18n": {
+      "name": {
+        "en": "Medical records",
+        "uk": "Медицина записи"
+      },
+      "alt": {
+        "en": "Medical records",
+        "uk": "Медицина записи"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "data records",
+          "healthcare",
+          "medical",
+          "music records",
+          "recording",
+          "records",
+          "vinyl records",
+          "medical-records"
+        ],
+        "uk": [
+          "архів",
+          "документи",
+          "записи",
+          "медична сфера",
+          "медичний",
+          "медікал",
+          "охорона здоров'я"
+        ]
+      }
+    }
+  },
+  "mental-health": {
+    "mediaKey": "fc88dc94-2be2-442e-82dd-d956a4791531",
+    "i18n": {
+      "name": {
+        "en": "Mental health",
+        "uk": "Ментальне здоров'я"
+      },
+      "alt": {
+        "en": "Mental health",
+        "uk": "Ментальне здоров'я"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "здоров'я icon",
+          "cognitive",
+          "fitness",
+          "headspace",
+          "health",
+          "healthcare",
+          "mental",
+          "mind",
+          "wellness",
+          "mental-health"
+        ],
+        "uk": [
+          "думки",
+          "здоров",
+          "здоров'я",
+          "здоров'я icon",
+          "менталочка",
+          "ментальне",
+          "психіка",
+          "психічне здоров'я",
+          "психічний",
+          "розум",
+          "хеалт"
+        ]
+      }
+    }
+  },
+  "mri-pet": {
+    "mediaKey": "a5fa33ad-7996-4980-952a-7470a9f2c20f",
+    "i18n": {
+      "name": {
+        "en": "Mri pet",
+        "uk": "МРТ-ПЕТ"
+      },
+      "alt": {
+        "en": "Mri pet",
+        "uk": "МРТ-ПЕТ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "furry friend",
+          "hospital",
+          "kitty",
+          "medical imaging",
+          "mri",
+          "pet",
+          "pet animal",
+          "mri-pet"
+        ],
+        "uk": [
+          "діагностика",
+          "домашня тварина",
+          "магнітно-резонансна",
+          "мрт",
+          "песик",
+          "сканер",
+          "томографія",
+          "улюбленець"
+        ]
+      }
+    }
+  },
+  "neurology": {
+    "mediaKey": "7de5a128-f238-4e9a-b591-ee6d3e4ac1d6",
+    "i18n": {
+      "name": {
+        "en": "Neurology",
+        "uk": "Неврологія"
+      },
+      "alt": {
+        "en": "Neurology",
+        "uk": "Неврологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "brain doctor",
+          "neuro",
+          "neurology"
+        ],
+        "uk": [
+          "мозок",
+          "невролог",
+          "неврологія",
+          "нервова система"
+        ]
+      }
+    }
+  },
+  "no-smoking": {
+    "mediaKey": "c0956751-066c-4757-82d4-93666dc26adc",
+    "i18n": {
+      "name": {
+        "en": "No smoking",
+        "uk": "Не палити"
+      },
+      "alt": {
+        "en": "No smoking",
+        "uk": "Не палити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "no",
+          "nope",
+          "smoking",
+          "tobacco",
+          "no-smoking"
+        ],
+        "uk": [
+          "відмова",
+          "дим",
+          "заборона",
+          "куріння",
+          "немає",
+          "но",
+          "паління",
+          "сигарети",
+          "смокінґ"
+        ]
+      }
+    }
+  },
+  "nursery": {
+    "mediaKey": "daac9240-29bc-4f6f-ab24-e2d5ed57091a",
+    "i18n": {
+      "name": {
+        "en": "Nursery",
+        "uk": "Ясла"
+      },
+      "alt": {
+        "en": "Nursery",
+        "uk": "Ясла"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "garden",
+          "kindergarten",
+          "nursery",
+          "playroom"
+        ],
+        "uk": [
+          "дитсадок",
+          "дитяча",
+          "малюки",
+          "садок"
+        ]
+      }
+    }
+  },
+  "nutrition": {
+    "mediaKey": "a3ed6901-42e7-4dd5-a692-7a22334243ff",
+    "i18n": {
+      "name": {
+        "en": "Nutrition",
+        "uk": "Харчування"
+      },
+      "alt": {
+        "en": "Nutrition",
+        "uk": "Харчування"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "balanced meal",
+          "nutrients",
+          "nutrition"
+        ],
+        "uk": [
+          "вітаміни",
+          "дієта",
+          "здорове меню",
+          "нутриціологія",
+          "харчування"
+        ]
+      }
+    }
+  },
+  "oncology": {
+    "mediaKey": "8868251d-e074-47ee-96ee-919d0a652459",
+    "i18n": {
+      "name": {
+        "en": "Oncology",
+        "uk": "Онкологія"
+      },
+      "alt": {
+        "en": "Oncology",
+        "uk": "Онкологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cancer care",
+          "chemo",
+          "oncology",
+          "tumor clinic"
+        ],
+        "uk": [
+          "онкологія",
+          "онкоцентр",
+          "рак"
+        ]
+      }
+    }
+  },
+  "ophthalmology": {
+    "mediaKey": "0516e4bc-b347-4e41-ab94-a6eb1c441b02",
+    "i18n": {
+      "name": {
+        "en": "Ophthalmology",
+        "uk": "Офтальмологія"
+      },
+      "alt": {
+        "en": "Ophthalmology",
+        "uk": "Офтальмологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "eye clinic",
+          "ophthalmology",
+          "optometry",
+          "vision care"
+        ],
+        "uk": [
+          "зір",
+          "офтальмологія",
+          "очний лікар"
+        ]
+      }
+    }
+  },
+  "outpatient": {
+    "mediaKey": "5dd36c58-ae04-4456-8b09-d59e7dc6f3eb",
+    "i18n": {
+      "name": {
+        "en": "Outpatient",
+        "uk": "Амбулаторія"
+      },
+      "alt": {
+        "en": "Outpatient",
+        "uk": "Амбулаторія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "clinic patient",
+          "day hospital",
+          "outpatient",
+          "walk-in"
+        ],
+        "uk": [
+          "амбулаторія",
+          "амбулаторний",
+          "денний стаціонар",
+          "поліклінічний"
+        ]
+      }
+    }
+  },
+  "pathology": {
+    "mediaKey": "b50529d7-0578-49d6-9a0a-2e1a35724f5d",
+    "i18n": {
+      "name": {
+        "en": "Pathology",
+        "uk": "Патологія"
+      },
+      "alt": {
+        "en": "Pathology",
+        "uk": "Патологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "laboratory medicine",
+          "pathology"
+        ],
+        "uk": [
+          "діагностика хвороб",
+          "патологія",
+          "патологоанатомія"
+        ]
+      }
+    }
+  },
+  "pediatrics": {
+    "mediaKey": "fdfb52c5-334a-42c5-be3f-137116a1f872",
+    "i18n": {
+      "name": {
+        "en": "Pediatrics",
+        "uk": "Педіатрія"
+      },
+      "alt": {
+        "en": "Pediatrics",
+        "uk": "Педіатрія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "baby doctor",
+          "child health",
+          "pediatric clinic",
+          "pediatrics"
+        ],
+        "uk": [
+          "дитяча медицина",
+          "дитячий лікар",
+          "педіатрія"
+        ]
+      }
+    }
+  },
+  "pharmacy": {
+    "mediaKey": "3918925d-8894-4eb3-acb0-50bae2b9238e",
+    "i18n": {
+      "name": {
+        "en": "Pharmacy",
+        "uk": "Аптека"
+      },
+      "alt": {
+        "en": "Pharmacy",
+        "uk": "Аптека"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "chemist",
+          "drugstore",
+          "pharmacy"
+        ],
+        "uk": [
+          "аптека",
+          "аптечка",
+          "фармапункт",
+          "фарммаркет"
+        ]
+      }
+    }
+  },
+  "physical-therapy": {
+    "mediaKey": "01873243-3d9a-434d-b15e-549b4e3bec65",
+    "i18n": {
+      "name": {
+        "en": "Physical therapy",
+        "uk": "Фізіотерапія"
+      },
+      "alt": {
+        "en": "Physical therapy",
+        "uk": "Фізіотерапія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "counseling",
+          "offline",
+          "physical",
+          "tangible",
+          "therapy",
+          "treatment",
+          "physical-therapy"
+        ],
+        "uk": [
+          "лікування",
+          "матеріальний",
+          "реальний",
+          "сеанс терапії",
+          "терапія",
+          "тілесний",
+          "фізичний"
+        ]
+      }
+    }
+  },
+  "radiology": {
+    "mediaKey": "a956e673-8e0d-4613-854d-26f3df9065f7",
+    "i18n": {
+      "name": {
+        "en": "Radiology",
+        "uk": "Радіологія"
+      },
+      "alt": {
+        "en": "Radiology",
+        "uk": "Радіологія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "ct scan",
+          "imaging",
+          "radiology"
+        ],
+        "uk": [
+          "діагностика",
+          "медичне зображення",
+          "радіологія",
+          "рентген"
+        ]
+      }
+    }
+  },
+  "registration": {
+    "mediaKey": "b98f7c3d-dfce-4be1-acf8-067ba6e5bebd",
+    "i18n": {
+      "name": {
+        "en": "Registration",
+        "uk": "Registration"
+      },
+      "alt": {
+        "en": "Registration",
+        "uk": "Registration"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "enroll",
+          "form",
+          "registration",
+          "sign up"
+        ],
+        "uk": [
+          "анкета",
+          "запис",
+          "реєстрація"
+        ]
+      }
+    }
+  },
+  "respiratory": {
+    "mediaKey": "436482b3-1df4-4845-9e04-2993d8532523",
+    "i18n": {
+      "name": {
+        "en": "Respiratory",
+        "uk": "Дихальна система"
+      },
+      "alt": {
+        "en": "Respiratory",
+        "uk": "Дихальна система"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "breathing",
+          "lungs",
+          "pulmonary",
+          "respiratory"
+        ],
+        "uk": [
+          "дихальна система",
+          "дихальний",
+          "легеневий"
+        ]
+      }
+    }
+  },
+  "restaurant": {
+    "mediaKey": "2ca49cbe-6561-40b6-944b-704bf9e46180",
+    "i18n": {
+      "name": {
+        "en": "Restaurant",
+        "uk": "Ресторан"
+      },
+      "alt": {
+        "en": "Restaurant",
+        "uk": "Ресторан"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bistro",
+          "dining",
+          "eatery",
+          "food",
+          "meal",
+          "restaurant"
+        ],
+        "uk": [
+          "заклад",
+          "кафе",
+          "ресторан"
+        ]
+      }
+    }
+  },
+  "restrooms": {
+    "mediaKey": "2575963f-5dcd-4568-a50b-e6acd3d568c2",
+    "i18n": {
+      "name": {
+        "en": "Restrooms",
+        "uk": "Туалети"
+      },
+      "alt": {
+        "en": "Restrooms",
+        "uk": "Туалети"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "restroom",
+          "restrooms",
+          "wc"
+        ],
+        "uk": [
+          "вбиральня",
+          "санвузол",
+          "туалет",
+          "туалети"
+        ]
+      }
+    }
+  },
+  "smoking": {
+    "mediaKey": "91890477-28f4-4388-a897-9bc0850ae75f",
+    "i18n": {
+      "name": {
+        "en": "Smoking",
+        "uk": "Куріння"
+      },
+      "alt": {
+        "en": "Smoking",
+        "uk": "Куріння"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "smoking",
+          "tobacco"
+        ],
+        "uk": [
+          "дим",
+          "куріння",
+          "паління",
+          "сигарети",
+          "смокінґ"
+        ]
+      }
+    }
+  },
+  "social-services": {
+    "mediaKey": "17dfeb67-9467-491b-903e-1a6a5ff68540",
+    "i18n": {
+      "name": {
+        "en": "Social services",
+        "uk": "Соціальні служби"
+      },
+      "alt": {
+        "en": "Social services",
+        "uk": "Соціальні служби"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "community",
+          "customer services",
+          "service center",
+          "service hub",
+          "services",
+          "social",
+          "social media",
+          "support services",
+          "social-services"
+        ],
+        "uk": [
+          "ком'юніті",
+          "обслуговування",
+          "послуги",
+          "сервіси",
+          "соціальний",
+          "соціальні",
+          "соцмережа",
+          "спілкування"
+        ]
+      }
+    }
+  },
+  "stairs": {
+    "mediaKey": "0c13c27a-c9b3-4204-811f-f01f327d5a37",
+    "i18n": {
+      "name": {
+        "en": "Stairs",
+        "uk": "Сходи"
+      },
+      "alt": {
+        "en": "Stairs",
+        "uk": "Сходи"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "stairs",
+          "steps"
+        ],
+        "uk": [
+          "драбина",
+          "підйом",
+          "стеїрс",
+          "сходи",
+          "сходинки"
+        ]
+      }
+    }
+  },
+  "surgery": {
+    "mediaKey": "fece287d-b212-45d5-92e7-9515ef84466b",
+    "i18n": {
+      "name": {
+        "en": "Surgery",
+        "uk": "Операція"
+      },
+      "alt": {
+        "en": "Surgery",
+        "uk": "Операція"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "operation",
+          "procedure",
+          "scalpel",
+          "surgery",
+          "surgical"
+        ],
+        "uk": [
+          "медична операція",
+          "операційна",
+          "хірургія"
+        ]
+      }
+    }
+  },
+  "text-telephone": {
+    "mediaKey": "a8e7ae93-fb69-4a73-ba32-2a6713fb43f4",
+    "i18n": {
+      "name": {
+        "en": "Text telephone",
+        "uk": "Телетайп"
+      },
+      "alt": {
+        "en": "Text telephone",
+        "uk": "Телетайп"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "call",
+          "content",
+          "copy",
+          "landline",
+          "phone",
+          "telephone",
+          "telephone icon",
+          "text",
+          "text-telephone"
+        ],
+        "uk": [
+          "абзац",
+          "дзвінок",
+          "копірайт",
+          "повідомлення",
+          "стаціонарний телефон",
+          "текст",
+          "телефон"
+        ]
+      }
+    }
+  },
+  "ultrasound": {
+    "mediaKey": "5f5f45d9-c92a-4463-aebf-8d8fb4a1e1c2",
+    "i18n": {
+      "name": {
+        "en": "Ultrasound",
+        "uk": "УЗД"
+      },
+      "alt": {
+        "en": "Ultrasound",
+        "uk": "УЗД"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "sonography",
+          "ultrasound"
+        ],
+        "uk": [
+          "медицина",
+          "УЗД",
+          "ультразвук"
+        ]
+      }
+    }
+  },
+  "volume-control": {
+    "mediaKey": "cf4f49e0-a624-44b5-8fb6-32a89dfa0caa",
+    "i18n": {
+      "name": {
+        "en": "Volume control",
+        "uk": "Керування гучністю"
+      },
+      "alt": {
+        "en": "Volume control",
+        "uk": "Керування гучністю"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "control",
+          "control panel",
+          "ctrl key",
+          "loudness",
+          "sound level",
+          "volume",
+          "volume-control"
+        ],
+        "uk": [
+          "гучність",
+          "керування",
+          "контрол",
+          "контроль",
+          "об'єм",
+          "обсяг",
+          "повзунок",
+          "том"
+        ]
+      }
+    }
+  },
+  "waiting-area": {
+    "mediaKey": "77ec29f1-045f-41b9-b6db-4387b6d3f662",
+    "i18n": {
+      "name": {
+        "en": "Waiting area",
+        "uk": "Зона очікування"
+      },
+      "alt": {
+        "en": "Waiting area",
+        "uk": "Зона очікування"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "area",
+          "area size",
+          "delay",
+          "hold",
+          "loading",
+          "pending",
+          "queue",
+          "region",
+          "standby",
+          "waiting",
+          "waiting-area"
+        ],
+        "uk": [
+          "ареа",
+          "зачекати",
+          "зона",
+          "область",
+          "очікування",
+          "площа"
+        ]
+      }
+    }
+  },
+  "womens-health": {
+    "mediaKey": "e26ef7d8-9858-4fdb-aa16-6823c1943c70",
+    "i18n": {
+      "name": {
+        "en": "Womens health",
+        "uk": "Жіноче здоров'я"
+      },
+      "alt": {
+        "en": "Womens health",
+        "uk": "Жіноче здоров'я"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "👩",
+          "здоров'я icon",
+          "female only",
+          "fitness",
+          "health",
+          "healthcare",
+          "ladies only",
+          "wellness",
+          "women's room",
+          "womens",
+          "womens-health"
+        ],
+        "uk": [
+          "👩",
+          "дамська зона",
+          "для жінок",
+          "жіноче",
+          "жіночий відділ",
+          "жіночий туалет",
+          "жіночі",
+          "здоров",
+          "здоров'я",
+          "здоров'я icon",
+          "хеалт"
+        ]
+      }
+    }
+  }
+}

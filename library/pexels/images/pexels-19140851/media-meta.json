@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-19140851",
+  "mediaKey": "pexels:19140851",
+  "i18n": {
+    "name": {
+      "en": "Performer under a warm stage light",
+      "uk": "Виконавець у теплому світлі сцени"
+    },
+    "alt": {
+      "en": "A person in a jacket smoking at night under ambient light.",
+      "uk": "Людина в куртці, яка курить вночі при природному освітленні."
+    },
+    "tags": [
+      {
+        "key": "performer",
+        "i18n": {
+          "en": "performer",
+          "uk": "виконавець"
+        }
+      },
+      {
+        "key": "person",
+        "i18n": {
+          "en": "person",
+          "uk": "людина"
+        }
+      },
+      {
+        "key": "stage",
+        "i18n": {
+          "en": "stage",
+          "uk": "сцена"
+        }
+      },
+      {
+        "key": "spotlight",
+        "i18n": {
+          "en": "spotlight",
+          "uk": "прожектор"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/person-in-a-jacket-smoking-a-cigarette-at-night-19140851/",
+  "sourceName": "Pexels",
+  "authorName": "Bui Van Dong",
+  "authorUrl": "https://www.pexels.com/@bui-van-dong-458090827",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2217,
+  "height": 3326
+}

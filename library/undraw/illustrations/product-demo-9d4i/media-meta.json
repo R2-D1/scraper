@@ -1,0 +1,63 @@
+{
+  "slug": "product-demo-9d4i",
+  "mediaKey": "bb8d93fb-d373-4bc0-b659-9a8095f2476f",
+  "providerId": "6913b6847bc5ae5cf7587816",
+  "i18n": {
+    "name": {
+      "en": "Product Demo",
+      "uk": "Демонстрація продукту"
+    },
+    "alt": {
+      "en": "Product Demo",
+      "uk": "Демонстрація продукту"
+    },
+    "tags": [
+      {
+        "key": "product-demo",
+        "i18n": {
+          "en": "Product Demo",
+          "uk": "Демонстрація продукту"
+        }
+      },
+      {
+        "key": "product",
+        "i18n": {
+          "en": "product",
+          "uk": "продукт"
+        }
+      },
+      {
+        "key": "demo",
+        "i18n": {
+          "en": "demo",
+          "uk": "демо"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/product-demo_9d4i.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 641
+}

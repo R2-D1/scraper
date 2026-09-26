@@ -1,0 +1,4 @@
+[    1582ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 736, rating: good, delta: 736} @ https://unsplash.com/a/en-US/3346.c92f55a0.js:4
+[    1582ms] [LOG] %cusr: color:gray {locale: en-US} @ https://unsplash.com/a/en-US/3346.c92f55a0.js:4
+[    1583ms] [LOG] %croute_data: color:gray Asset @ https://unsplash.com/a/en-US/3346.c92f55a0.js:4
+[10290576ms] [LOG] %cmetric: color:gray {name: LCP, entries: Array(1), value: 1652, rating: good, delta: 1652} @ https://unsplash.com/a/en-US/3346.c92f55a0.js:4

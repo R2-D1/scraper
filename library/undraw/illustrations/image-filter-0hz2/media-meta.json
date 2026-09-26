@@ -1,0 +1,63 @@
+{
+  "slug": "image-filter-0hz2",
+  "mediaKey": "503e11d2-c65c-4970-9263-0570227501e5",
+  "providerId": "698e5660a11be41f8aaeb73c",
+  "i18n": {
+    "name": {
+      "en": "Image Filter",
+      "uk": "Фільтр зображень"
+    },
+    "alt": {
+      "en": "Image Filter",
+      "uk": "Фільтр зображень"
+    },
+    "tags": [
+      {
+        "key": "image-filter",
+        "i18n": {
+          "en": "Image Filter",
+          "uk": "Фільтр зображень"
+        }
+      },
+      {
+        "key": "image",
+        "i18n": {
+          "en": "image",
+          "uk": "зображення"
+        }
+      },
+      {
+        "key": "filter",
+        "i18n": {
+          "en": "filter",
+          "uk": "фільтр"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/image-filter_0hz2.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 383,
+  "height": 800
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "ai-chat-ljb9",
+  "mediaKey": "3ba2f8e7-d44e-4233-a6e8-bfd98a6a3d52",
+  "providerId": "6930b322df2111f6fd22f635",
+  "i18n": {
+    "name": {
+      "en": "AI Chat",
+      "uk": "Чат на базі штучного інтелекту"
+    },
+    "alt": {
+      "en": "AI Chat",
+      "uk": "Чат на базі штучного інтелекту"
+    },
+    "tags": [
+      {
+        "key": "ai-chat",
+        "i18n": {
+          "en": "AI Chat",
+          "uk": "Чат на базі штучного інтелекту"
+        }
+      },
+      {
+        "key": "ai",
+        "i18n": {
+          "en": "ai",
+          "uk": "ai"
+        }
+      },
+      {
+        "key": "chat",
+        "i18n": {
+          "en": "chat",
+          "uk": "чат"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/ai-chat_ljb9.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 603,
+  "height": 800
+}

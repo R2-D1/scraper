@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-8984474",
+  "mediaKey": "pexels:8984474",
+  "i18n": {
+    "name": {
+      "en": "Woman relaxing on a sofa with a drink",
+      "uk": "Жінка, яка відпочиває на дивані з напоєм"
+    },
+    "alt": {
+      "en": "Adult woman lying on a sofa, holding a magazine, creating a relaxed and casual vibe.",
+      "uk": "Доросла жінка лежить на дивані, тримаючи в руках журнал, що створює атмосферу спокою та невимушеності."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "sofa",
+        "i18n": {
+          "en": "sofa",
+          "uk": "диван"
+        }
+      },
+      {
+        "key": "relaxation",
+        "i18n": {
+          "en": "relaxation",
+          "uk": "відпочинок"
+        }
+      },
+      {
+        "key": "drink",
+        "i18n": {
+          "en": "drink",
+          "uk": "напій"
+        }
+      },
+      {
+        "key": "home",
+        "i18n": {
+          "en": "home",
+          "uk": "додому"
+        }
+      },
+      {
+        "key": "lifestyle",
+        "i18n": {
+          "en": "lifestyle",
+          "uk": "спосіб життя"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/high-angle-shot-of-a-sexy-woman-in-bikini-lying-on-the-couch-while-holding-a-magazine-8984474/",
+  "sourceName": "Pexels",
+  "authorName": "KoolShooters",
+  "authorUrl": "https://www.pexels.com/@koolshooters",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "login-weas",
+  "mediaKey": "127a9050-c611-405b-bc35-f4bffbc63540",
+  "providerId": "67d9ef60340a4487fb021e67",
+  "i18n": {
+    "name": {
+      "en": "Log in",
+      "uk": "Увійти"
+    },
+    "alt": {
+      "en": "Log in",
+      "uk": "Увійти"
+    },
+    "tags": [
+      {
+        "key": "log-in",
+        "i18n": {
+          "en": "Log in",
+          "uk": "Увійти"
+        }
+      },
+      {
+        "key": "log",
+        "i18n": {
+          "en": "log",
+          "uk": "журнал"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/login_weas.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 793
+}

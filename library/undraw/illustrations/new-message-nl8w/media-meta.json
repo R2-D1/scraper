@@ -1,0 +1,63 @@
+{
+  "slug": "new-message-nl8w",
+  "mediaKey": "69755f3f-0f9b-4f4b-a8d2-59f443704438",
+  "providerId": "611e704228c22e001787948e",
+  "i18n": {
+    "name": {
+      "en": "New message",
+      "uk": "Нове повідомлення"
+    },
+    "alt": {
+      "en": "New message",
+      "uk": "Нове повідомлення"
+    },
+    "tags": [
+      {
+        "key": "new-message",
+        "i18n": {
+          "en": "New message",
+          "uk": "Нове повідомлення"
+        }
+      },
+      {
+        "key": "new",
+        "i18n": {
+          "en": "new",
+          "uk": "новий"
+        }
+      },
+      {
+        "key": "message",
+        "i18n": {
+          "en": "message",
+          "uk": "повідомлення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/new-message_nl8w.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 614,
+  "height": 529
+}

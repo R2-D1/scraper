@@ -1,0 +1,91 @@
+{
+  "slug": "dynamic-motion-portrait-gakqr",
+  "mediaKey": "ec3876d3-e595-4556-97e8-061b7ddcc038",
+  "i18n": {
+    "name": {
+      "en": "Dynamic Motion Portrait",
+      "uk": "Динамічний портрет у русі"
+    },
+    "alt": {
+      "en": "Dynamic Motion Portrait",
+      "uk": "Динамічний портрет у русі"
+    },
+    "tags": [
+      {
+        "key": "dynamic",
+        "i18n": {
+          "en": "Dynamic",
+          "uk": "Динамічний"
+        }
+      },
+      {
+        "key": "motion",
+        "i18n": {
+          "en": "Motion",
+          "uk": "Рух"
+        }
+      },
+      {
+        "key": "red-background",
+        "i18n": {
+          "en": "red background",
+          "uk": "червоний фон"
+        }
+      },
+      {
+        "key": "dramatic-lighting",
+        "i18n": {
+          "en": "dramatic lighting",
+          "uk": "драматичне освітлення"
+        }
+      },
+      {
+        "key": "black-hoodie",
+        "i18n": {
+          "en": "black hoodie",
+          "uk": "чорна толстовка з капюшоном"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/dynamic-motion-portrait-gakqr",
+  "sourceName": "Lummi",
+  "authorName": "Berryone",
+  "authorUrl": "https://www.lummi.ai/creator/berryone?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A person is captured in motion against a vibrant red background. They are wearing a black hoodie with red text and black shorts. The lighting emphasizes their facial features, creating a dramatic effect. The image has a dynamic and slightly blurred quality, enhancing the sense of movement. The red background contrasts sharply with the dark clothing, drawing attention to the subject.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 816,
+  "height": 1456,
+  "mimeType": "image/webp"
+}

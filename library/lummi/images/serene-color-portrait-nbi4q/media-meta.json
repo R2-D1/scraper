@@ -1,0 +1,94 @@
+{
+  "slug": "serene-color-portrait-nbi4q",
+  "mediaKey": "8efdcf44-be3a-48e0-967b-b0813ba36da5",
+  "i18n": {
+    "name": {
+      "en": "Serene Color Portrait",
+      "uk": "Спокійний кольоровий портрет"
+    },
+    "alt": {
+      "en": "Serene Color Portrait",
+      "uk": "Спокійний кольоровий портрет"
+    },
+    "tags": [
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "color-contrast",
+        "i18n": {
+          "en": "color contrast",
+          "uk": "колірний контраст"
+        }
+      },
+      {
+        "key": "introspective-mood",
+        "i18n": {
+          "en": "introspective mood",
+          "uk": "інтроспективний настрій"
+        }
+      },
+      {
+        "key": "calm-expression",
+        "i18n": {
+          "en": "calm expression",
+          "uk": "спокійний вираз обличчя"
+        }
+      },
+      {
+        "key": "vibrant-lighting",
+        "i18n": {
+          "en": "vibrant lighting",
+          "uk": "яскраве освітлення"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Ricardo Matos",
+  "authorUrl": "https://www.lummi.ai/creator/ricardomatos?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A serene portrait of a person with short, wavy black hair and smooth skin, illuminated by vibrant red and blue lighting. The subject's eyes are closed, and their expression is calm and introspective. The lighting creates a striking contrast, with warm red tones on one side of the face and cool blue tones on the other, blending seamlessly. The background is a gradient of blue hues, adding depth and complementing the subject's peaceful demeanor. The overall composition emphasizes the interplay of colors and the tranquil mood.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1808,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/serene-color-portrait-nbi4q/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/serene-color-portrait-nbi4q/serene-color-portrait-nbi4q.png",
+  "relativeAssetPath": "library/lummi/images/serene-color-portrait-nbi4q/serene-color-portrait-nbi4q.png"
+}

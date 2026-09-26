@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-15327095",
+  "mediaKey": "pexels:15327095",
+  "i18n": {
+    "name": {
+      "en": "Portrait with violet eye makeup",
+      "uk": "Портрет із фіолетовим макіяжем очей"
+    },
+    "alt": {
+      "en": "Profile view of a woman with vivid makeup on a white background.",
+      "uk": "Профіль жінки з яскравим макіяжем на білому тлі."
+    },
+    "tags": [
+      {
+        "key": "makeup",
+        "i18n": {
+          "en": "makeup",
+          "uk": "макіяж"
+        }
+      },
+      {
+        "key": "eyeshadow",
+        "i18n": {
+          "en": "eyeshadow",
+          "uk": "тіні для повік"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "beauty"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/makeup-on-woman-face-15327095/",
+  "sourceName": "Pexels",
+  "authorName": "Mohammadreza Babaei",
+  "authorUrl": "https://www.pexels.com/@mohammadrezababaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

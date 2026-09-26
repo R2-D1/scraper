@@ -1,0 +1,63 @@
+{
+  "slug": "christmas-tree-zxed",
+  "mediaKey": "a44572d7-34be-4022-a695-0e25ee54caca",
+  "providerId": "6949bd830e0867fb2973a7fa",
+  "i18n": {
+    "name": {
+      "en": "Christmas Tree",
+      "uk": "Різдвяна ялинка"
+    },
+    "alt": {
+      "en": "Christmas Tree",
+      "uk": "Різдвяна ялинка"
+    },
+    "tags": [
+      {
+        "key": "christmas-tree",
+        "i18n": {
+          "en": "Christmas Tree",
+          "uk": "Різдвяна ялинка"
+        }
+      },
+      {
+        "key": "christmas",
+        "i18n": {
+          "en": "christmas",
+          "uk": "різдво"
+        }
+      },
+      {
+        "key": "tree",
+        "i18n": {
+          "en": "tree",
+          "uk": "дерево"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/christmas-tree_zxed.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 487,
+  "height": 800
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "tech-digital-lock",
+  "mediaKey": "8f5c499c-d154-4dc7-a2c5-f050012e1680",
+  "i18n": {
+    "name": {
+      "en": "Digital Lock",
+      "uk": "Цифровий замок"
+    },
+    "alt": {
+      "en": "Digital Lock",
+      "uk": "Цифровий замок"
+    },
+    "tags": [
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "lock",
+        "i18n": {
+          "en": "lock",
+          "uk": "замок"
+        }
+      },
+      {
+        "key": "padlock",
+        "i18n": {
+          "en": "padlock",
+          "uk": "навісний замок"
+        }
+      },
+      {
+        "key": "pin",
+        "i18n": {
+          "en": "pin",
+          "uk": "шпилька"
+        }
+      },
+      {
+        "key": "secure",
+        "i18n": {
+          "en": "secure",
+          "uk": "безпечно"
+        }
+      },
+      {
+        "key": "privacy",
+        "i18n": {
+          "en": "privacy",
+          "uk": "конфіденційність"
+        }
+      },
+      {
+        "key": "protection",
+        "i18n": {
+          "en": "protection",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "access",
+        "i18n": {
+          "en": "access",
+          "uk": "доступ"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/tech-digital-lock",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-8263050",
+  "mediaKey": "pexels:8263050",
+  "i18n": {
+    "name": {
+      "en": "Woman surrounded by soft clouds",
+      "uk": "Жінка серед м'яких хмар"
+    },
+    "alt": {
+      "en": "A dreamlike atmosphere with a person lying on a bed, hugging a cloud-like pillow amidst a blue sky backdrop.",
+      "uk": "Мрійлива атмосфера: людина лежить на ліжку, обіймаючи подушку, схожу на хмару, на тлі блакитного неба."
+    },
+    "tags": [
+      {
+        "key": "surrealism",
+        "i18n": {
+          "en": "surrealism",
+          "uk": "сюрреалізм"
+        }
+      },
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "clouds",
+        "i18n": {
+          "en": "clouds",
+          "uk": "хмари"
+        }
+      },
+      {
+        "key": "dreamlike",
+        "i18n": {
+          "en": "dreamlike",
+          "uk": "схожий на сон"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "surrealism"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-person-hugging-a-cloud-pillow-while-lying-on-the-bed-8263050/",
+  "sourceName": "Pexels",
+  "authorName": "Ron Lach",
+  "authorUrl": "https://www.pexels.com/@ron-lach",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

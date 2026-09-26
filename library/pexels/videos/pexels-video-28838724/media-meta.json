@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-28838724",
+  "mediaKey": "pexels:video:28838724",
+  "i18n": {
+    "name": {
+      "en": "Prismatic Starfield Tunnel",
+      "uk": "Призматичний тунель із зоряним полем"
+    },
+    "alt": {
+      "en": "Pexels video 28838724",
+      "uk": "Відео з Pexels № 28838724"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "space",
+        "i18n": {
+          "en": "space",
+          "uk": "космос"
+        }
+      },
+      {
+        "key": "starfield",
+        "i18n": {
+          "en": "starfield",
+          "uk": "зоряне поле"
+        }
+      },
+      {
+        "key": "tunnel",
+        "i18n": {
+          "en": "tunnel",
+          "uk": "тунель"
+        }
+      },
+      {
+        "key": "prismatic",
+        "i18n": {
+          "en": "prismatic",
+          "uk": "призматичний"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "motion",
+        "i18n": {
+          "en": "motion",
+          "uk": "рух"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/abstract-light-warp-effect-with-rainbow-colors-28838724/",
+  "sourceName": "Pexels",
+  "authorName": "dumitru B",
+  "authorUrl": "https://www.pexels.com/@dumitru-b-742240889",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 10,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

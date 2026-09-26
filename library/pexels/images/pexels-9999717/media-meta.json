@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-9999717",
+  "mediaKey": "pexels:9999717",
+  "i18n": {
+    "name": {
+      "en": "Blue and purple looping ribbon form",
+      "uk": "Фігура у вигляді синьо-фіолетової стрічки, що закручується"
+    },
+    "alt": {
+      "en": "3D rendered abstract twisted loop on a vibrant blue gradient background.",
+      "uk": "3D-візуалізація абстрактної скрученої петлі на тлі яскравого синього градієнта."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "ribbon",
+        "i18n": {
+          "en": "ribbon",
+          "uk": "стрічка"
+        }
+      },
+      {
+        "key": "loop",
+        "i18n": {
+          "en": "loop",
+          "uk": "петля"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/shiny-curved-shape-rendered-in-3d-9999717/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 2400
+}

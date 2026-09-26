@@ -1,0 +1,63 @@
+{
+  "slug": "server-failure-syqp",
+  "mediaKey": "d07925ce-79e1-46b4-b685-68c3521e647c",
+  "providerId": "69c5b68b79740242d59ddad1",
+  "i18n": {
+    "name": {
+      "en": "Server Failure",
+      "uk": "Збій сервера"
+    },
+    "alt": {
+      "en": "Server Failure",
+      "uk": "Збій сервера"
+    },
+    "tags": [
+      {
+        "key": "server-failure",
+        "i18n": {
+          "en": "Server Failure",
+          "uk": "Збій сервера"
+        }
+      },
+      {
+        "key": "server",
+        "i18n": {
+          "en": "server",
+          "uk": "сервер"
+        }
+      },
+      {
+        "key": "failure",
+        "i18n": {
+          "en": "failure",
+          "uk": "збій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/server-failure_syqp.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 720,
+  "height": 606
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-29376746",
+  "mediaKey": "pexels:29376746",
+  "i18n": {
+    "name": {
+      "en": "Dark ribbed torus forms",
+      "uk": "Темні ребристі форми у вигляді тора"
+    },
+    "alt": {
+      "en": "Visually captivating abstract 3D art piece with flowing shapes and line patterns.",
+      "uk": "Візуально привабливий абстрактний 3D-твір мистецтва з плавними формами та лінійними візерунками."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "torus",
+        "i18n": {
+          "en": "torus",
+          "uk": "тор"
+        }
+      },
+      {
+        "key": "ribbed",
+        "i18n": {
+          "en": "ribbed",
+          "uk": "ребристий"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/abstract-3d-art-with-sinuous-shapes-and-lines-29376746/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

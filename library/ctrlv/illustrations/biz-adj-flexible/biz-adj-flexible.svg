@@ -1,0 +1,6 @@
+<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg"><style><![CDATA[*{animation:none!important}]]></style>
+            <g class="anim-bounce">
+                <path class="anim-draw" d="M100 150 Q200 50 300 150 Q200 250 100 150" stroke="#6366f1" stroke-width="8" fill="none" stroke-linecap="round"/>
+                <path class="anim-pulse" d="M150 150 H250" stroke="#0ea5e9" stroke-width="4" stroke-dasharray="10 10"/>
+            </g>
+          </svg>

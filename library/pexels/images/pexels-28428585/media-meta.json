@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-28428585",
+  "mediaKey": "pexels:28428585",
+  "i18n": {
+    "name": {
+      "en": "Purple sculptural ring on a dark background",
+      "uk": "Фіолетове скульптурне кільце на темному тлі"
+    },
+    "alt": {
+      "en": "Abstract 3D ring with purple wavy textures on a dark background for creative design use.",
+      "uk": "Абстрактне 3D-кільце з фіолетовими хвилястими текстурами на темному тлі для використання у креативному дизайні."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "ring",
+        "i18n": {
+          "en": "ring",
+          "uk": "кільце"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "sculpture",
+        "i18n": {
+          "en": "sculpture",
+          "uk": "скульптура"
+        }
+      },
+      {
+        "key": "dark-background",
+        "i18n": {
+          "en": "dark background",
+          "uk": "темний фон"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/abstract-3d-ring-sculpture-with-purple-waves-28428585/",
+  "sourceName": "Pexels",
+  "authorName": "Maxim Landolfi",
+  "authorUrl": "https://www.pexels.com/@themob000",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

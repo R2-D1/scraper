@@ -1,0 +1,97 @@
+{
+  "slug": "emotion-confidence",
+  "mediaKey": "80769f0f-fcf0-4c68-b3dc-2e3a6768c3d5",
+  "i18n": {
+    "name": {
+      "en": "Confidence",
+      "uk": "Впевненість"
+    },
+    "alt": {
+      "en": "Confidence",
+      "uk": "Впевненість"
+    },
+    "tags": [
+      {
+        "key": "emotion",
+        "i18n": {
+          "en": "emotion",
+          "uk": "емоція"
+        }
+      },
+      {
+        "key": "confidence",
+        "i18n": {
+          "en": "confidence",
+          "uk": "упевненість"
+        }
+      },
+      {
+        "key": "bold",
+        "i18n": {
+          "en": "bold",
+          "uk": "жирний"
+        }
+      },
+      {
+        "key": "assured",
+        "i18n": {
+          "en": "assured",
+          "uk": "гарантований"
+        }
+      },
+      {
+        "key": "fearless",
+        "i18n": {
+          "en": "fearless",
+          "uk": "безстрашний"
+        }
+      },
+      {
+        "key": "strong",
+        "i18n": {
+          "en": "strong",
+          "uk": "сильний"
+        }
+      },
+      {
+        "key": "empowered",
+        "i18n": {
+          "en": "empowered",
+          "uk": "наділений повноваженнями"
+        }
+      },
+      {
+        "key": "decisive",
+        "i18n": {
+          "en": "decisive",
+          "uk": "вирішальний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emotion-confidence",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

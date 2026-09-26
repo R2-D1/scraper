@@ -1,0 +1,97 @@
+{
+  "slug": "saas-settings",
+  "mediaKey": "1c130f4e-bece-403d-8b6d-8f1cd9310220",
+  "i18n": {
+    "name": {
+      "en": "System Settings",
+      "uk": "Налаштування системи"
+    },
+    "alt": {
+      "en": "System Settings",
+      "uk": "Налаштування системи"
+    },
+    "tags": [
+      {
+        "key": "saas",
+        "i18n": {
+          "en": "saas",
+          "uk": "SaaS"
+        }
+      },
+      {
+        "key": "settings",
+        "i18n": {
+          "en": "settings",
+          "uk": "налаштування"
+        }
+      },
+      {
+        "key": "preference",
+        "i18n": {
+          "en": "preference",
+          "uk": "уподобання"
+        }
+      },
+      {
+        "key": "toggles",
+        "i18n": {
+          "en": "toggles",
+          "uk": "перемикачі"
+        }
+      },
+      {
+        "key": "options",
+        "i18n": {
+          "en": "options",
+          "uk": "параметри"
+        }
+      },
+      {
+        "key": "configuration",
+        "i18n": {
+          "en": "configuration",
+          "uk": "конфігурація"
+        }
+      },
+      {
+        "key": "gear",
+        "i18n": {
+          "en": "gear",
+          "uk": "шестерня"
+        }
+      },
+      {
+        "key": "control",
+        "i18n": {
+          "en": "control",
+          "uk": "контроль"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/saas-settings",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,289 @@
+- generic [ref=f29e4]:
+  - navigation [ref=f29e5]:
+    - generic [ref=f29e6]:
+      - generic [ref=f29e7]:
+        - link "Unsplash Home" [ref=f29e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f29e9]
+        - link "Photos" [ref=f29e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f29e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f29e17]:
+        - button "Explore" [ref=f29e18] [cursor=pointer]
+        - button "Collections" [ref=f29e21] [cursor=pointer]
+        - button "Download History" [ref=f29e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f29e28] [cursor=pointer]
+    - generic [ref=f29e31]:
+      - link "Log in / Sign up" [ref=f29e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fabstract-eye-with-power-button-and-colorful-lines-CMppRcTeTA0
+      - button "Language" [ref=f29e35] [cursor=pointer]
+      - button "Menu" [ref=f29e38] [cursor=pointer]
+  - generic [ref=f29e41]:
+    - generic [ref=f29e42]:
+      - navigation [ref=f29e43]:
+        - search "Find visuals sitewide" [ref=f29e45]:
+          - button "Search Unsplash" [ref=f29e46] [cursor=pointer]
+          - combobox [ref=f29e49]:
+            - searchbox "Search Unsplash" [ref=f29e50]
+            - listbox
+          - button "Visual search" [ref=f29e52] [cursor=pointer]
+        - generic [ref=f29e55]:
+          - link "Get Unsplash+" [ref=f29e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f29e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fabstract-eye-with-power-button-and-colorful-lines-CMppRcTeTA0
+        - button "Submit an image" [ref=f29e59] [cursor=pointer]
+      - generic [ref=f29e60]:
+        - generic [ref=f29e61]:
+          - banner [ref=f29e63]:
+            - generic [ref=f29e65]:
+              - link [ref=f29e66] [cursor=pointer]:
+                - /url: /@emiliebardetstudio/illustrations
+              - generic [ref=f29e69]:
+                - link "Emilie Bardet" [ref=f29e70] [cursor=pointer]:
+                  - /url: /@emiliebardetstudio/illustrations
+                - generic [ref=f29e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f29e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fabstract-eye-with-power-button-and-colorful-lines-CMppRcTeTA0
+            - generic [ref=f29e73]:
+              - button "Bookmark" [ref=f29e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f29e77] [cursor=pointer]
+              - button "Edit image" [ref=f29e80] [cursor=pointer]
+              - button "Download" [ref=f29e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f29e90]:
+            - img "Abstract eye with power button and colorful lines" [ref=f29e91]
+          - generic [ref=f29e92]:
+            - generic [ref=f29e94]:
+              - button "Share this image" [ref=f29e95] [cursor=pointer]:
+                - generic [ref=f29e98]: Share
+              - button "More Actions" [ref=f29e99] [cursor=pointer]
+            - generic [ref=f29e103]:
+              - heading "Abstract eye with power button and colorful lines" [level=1] [ref=f29e105]
+              - paragraph [ref=f29e109]: Download this illustration of technology, blue, artificial intelligence, and green by Emilie Bardet (@emiliebardetstudio)
+              - generic [ref=f29e111]:
+                - generic [ref=f29e116]:
+                  - text: Published on
+                  - time [ref=f29e117]: September 25, 2025
+                - generic [ref=f29e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f29e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f29e124]:
+              - link "technology" [ref=f29e125] [cursor=pointer]:
+                - /url: /s/illustrations/technology
+              - link "blue" [ref=f29e126] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "artificial intelligence" [ref=f29e127] [cursor=pointer]:
+                - /url: /s/illustrations/artificial-intelligence
+              - link "green" [ref=f29e128] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "illustration" [ref=f29e129] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "social media" [ref=f29e130] [cursor=pointer]:
+                - /url: /s/illustrations/social-media
+              - link "abstract background" [ref=f29e131] [cursor=pointer]:
+                - /url: /s/illustrations/abstract-background
+              - link "pink" [ref=f29e132] [cursor=pointer]:
+                - /url: /s/illustrations/pink
+              - link "white" [ref=f29e133] [cursor=pointer]:
+                - /url: /s/illustrations/white
+              - link "purple" [ref=f29e134] [cursor=pointer]:
+                - /url: /s/illustrations/purple
+              - link "eye" [ref=f29e135] [cursor=pointer]:
+                - /url: /s/illustrations/eye
+              - link "innovation" [ref=f29e136] [cursor=pointer]:
+                - /url: /s/illustrations/innovation
+              - link "vector" [ref=f29e137] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "vision" [ref=f29e138] [cursor=pointer]:
+                - /url: /s/illustrations/vision
+              - link "futuristic" [ref=f29e139] [cursor=pointer]:
+                - /url: /s/illustrations/futuristic
+              - link "idea" [ref=f29e140] [cursor=pointer]:
+                - /url: /s/illustrations/idea
+              - link "creativity" [ref=f29e141] [cursor=pointer]:
+                - /url: /s/illustrations/creativity
+              - link "digital art" [ref=f29e142] [cursor=pointer]:
+                - /url: /s/illustrations/digital-art
+              - link "digital transformation" [ref=f29e143] [cursor=pointer]:
+                - /url: /s/illustrations/digital-transformation
+              - link "ideas" [ref=f29e144] [cursor=pointer]:
+                - /url: /s/illustrations/ideas
+        - generic [ref=f29e147]:
+          - generic [ref=f29e148]:
+            - paragraph [ref=f29e150]: From this series
+            - generic [ref=f29e153]:
+              - generic [ref=f29e154]:
+                - link [ref=f29e155] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-bright-green-rocket-blasting-off-with-abstract-shapes-QDT1TVuhwsE
+                - link [ref=f29e158]:
+                  - /url: /illustrations/a-bright-green-rocket-blasting-off-with-abstract-shapes-QDT1TVuhwsE
+                  - img "A bright green rocket blasting off with abstract shapes." [ref=f29e159]
+              - generic [ref=f29e160]:
+                - link [ref=f29e161] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fpencil-with-abstract-shapes-and-speech-bubbles-lPLCerFOI_A
+                - link [ref=f29e164]:
+                  - /url: /illustrations/pencil-with-abstract-shapes-and-speech-bubbles-lPLCerFOI_A
+                  - img "Pencil with abstract shapes and speech bubbles" [ref=f29e165]
+              - generic [ref=f29e166]:
+                - link [ref=f29e167] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fbright-lightbulb-with-connected-nodes-and-abstract-shapes-I184fp9JZSQ
+                - link [ref=f29e170]:
+                  - /url: /illustrations/bright-lightbulb-with-connected-nodes-and-abstract-shapes-I184fp9JZSQ
+                  - img "Bright lightbulb with connected nodes and abstract shapes." [ref=f29e171]
+              - generic [ref=f29e172]:
+                - link [ref=f29e173] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fsmartphone-with-power-button-surrounded-by-abstract-graphics-3igJ6tNIxbQ
+                - link [ref=f29e176]:
+                  - /url: /illustrations/smartphone-with-power-button-surrounded-by-abstract-graphics-3igJ6tNIxbQ
+                  - img "Smartphone with power button surrounded by abstract graphics." [ref=f29e177]
+          - generic [ref=f29e178]:
+            - heading "Related images" [level=4] [ref=f29e180]
+            - generic [ref=f29e184]:
+              - generic [ref=f29e185]:
+                - figure [ref=f29e186]:
+                  - generic [ref=f29e188]:
+                    - link [ref=f29e189]:
+                      - /url: /illustrations/stylized-eye-with-power-symbol-and-password-fields-Yy1TlonsdPo
+                      - img "Stylized eye with power symbol and password fields." [ref=f29e190]
+                    - link [ref=f29e191] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fstylized-eye-with-power-symbol-and-password-fields-Yy1TlonsdPo
+                - figure [ref=f29e194]:
+                  - generic [ref=f29e196]:
+                    - link [ref=f29e197]:
+                      - /url: /illustrations/hands-adjusting-gears-around-a-central-eye-graphic-F9msVyKoQY0
+                      - img "Hands adjusting gears around a central eye graphic." [ref=f29e198]
+                    - link [ref=f29e199] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhands-adjusting-gears-around-a-central-eye-graphic-F9msVyKoQY0
+                - figure [ref=f29e202]:
+                  - generic [ref=f29e204]:
+                    - link [ref=f29e205]:
+                      - /url: /illustrations/hand-presses-power-button-illuminating-various-science-and-business-icons-gyYJOpCCCKI
+                      - img "Hand presses power button illuminating various science and business icons." [ref=f29e206]
+                    - link [ref=f29e207] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhand-presses-power-button-illuminating-various-science-and-business-icons-gyYJOpCCCKI
+                - figure [ref=f29e210]:
+                  - generic [ref=f29e212]:
+                    - link [ref=f29e213]:
+                      - /url: /illustrations/hand-pressing-power-button-surrounded-by-abstract-symbols-and-lines-CodVg4gDUd8
+                      - img "Hand pressing power button surrounded by abstract symbols and lines" [ref=f29e214]
+                    - link [ref=f29e215] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhand-pressing-power-button-surrounded-by-abstract-symbols-and-lines-CodVg4gDUd8
+                - figure [ref=f29e218]:
+                  - generic [ref=f29e220]:
+                    - link [ref=f29e221]:
+                      - /url: /illustrations/abstract-illustration-of-artificial-intelligence-and-data-processing-87dgZX1gwEU
+                      - img "Abstract illustration of artificial intelligence and data processing." [ref=f29e222]
+                    - link [ref=f29e223] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-illustration-of-artificial-intelligence-and-data-processing-87dgZX1gwEU
+                - figure [ref=f29e226]:
+                  - generic [ref=f29e228]:
+                    - link [ref=f29e229]:
+                      - /url: /illustrations/abstract-shapes-and-gears-flowing-from-an-eye-OAGG2ItBO-k
+                      - img "Abstract shapes and gears flowing from an eye" [ref=f29e230]
+                    - link [ref=f29e231] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-shapes-and-gears-flowing-from-an-eye-OAGG2ItBO-k
+              - generic [ref=f29e234]:
+                - figure [ref=f29e235]:
+                  - generic [ref=f29e237]:
+                    - link [ref=f29e238]:
+                      - /url: /illustrations/abstract-eyes-surrounded-by-social-media-icons-and-speech-bubbles-ab0XRIKC9og
+                      - img "Abstract eyes surrounded by social media icons and speech bubbles." [ref=f29e239]
+                    - link [ref=f29e240] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-eyes-surrounded-by-social-media-icons-and-speech-bubbles-ab0XRIKC9og
+                - figure [ref=f29e243]:
+                  - generic [ref=f29e245]:
+                    - link [ref=f29e246]:
+                      - /url: /illustrations/the-image-shows-the-eye-of-social-media-ljRg0k5So_0
+                      - img "The image shows the eye of social media." [ref=f29e247]
+                    - link [ref=f29e248] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fthe-image-shows-the-eye-of-social-media-ljRg0k5So_0
+                - figure [ref=f29e251]:
+                  - generic [ref=f29e253]:
+                    - link [ref=f29e254]:
+                      - /url: /illustrations/social-media-icons-flowing-from-a-smartphone-screen-_7baD1W1MWI
+                      - img "Social media icons flowing from a smartphone screen" [ref=f29e255]
+                    - link [ref=f29e256] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fsocial-media-icons-flowing-from-a-smartphone-screen-_7baD1W1MWI
+                - figure [ref=f29e259]:
+                  - generic [ref=f29e261]:
+                    - link [ref=f29e262]:
+                      - /url: /illustrations/abstract-concept-of-ideas-flowing-into-a-persons-head-gfQGvkxcI10
+                      - img "Abstract concept of ideas flowing into a person's head." [ref=f29e263]
+                    - link [ref=f29e264] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-concept-of-ideas-flowing-into-a-persons-head-gfQGvkxcI10
+                - figure [ref=f29e267]:
+                  - generic [ref=f29e269]:
+                    - link [ref=f29e270]:
+                      - /url: /illustrations/an-eye-with-an-unlocked-phone-icon-4rVJwmJVhEs
+                      - img "An eye with an unlocked phone icon" [ref=f29e271]
+                    - link [ref=f29e272] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fan-eye-with-an-unlocked-phone-icon-4rVJwmJVhEs
+                - figure [ref=f29e275]:
+                  - generic [ref=f29e277]:
+                    - link [ref=f29e278]:
+                      - /url: /illustrations/a-hand-types-on-a-laptop-with-web-elements-_-eIpcmaVe8
+                      - img "A hand types on a laptop with web elements." [ref=f29e279]
+                    - link [ref=f29e280] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-hand-types-on-a-laptop-with-web-elements-_-eIpcmaVe8
+              - generic [ref=f29e283]:
+                - figure [ref=f29e284]:
+                  - generic [ref=f29e286]:
+                    - link [ref=f29e287]:
+                      - /url: /illustrations/smartphone-with-power-button-surrounded-by-abstract-graphics-3igJ6tNIxbQ
+                      - img "Smartphone with power button surrounded by abstract graphics." [ref=f29e288]
+                    - link [ref=f29e289] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fsmartphone-with-power-button-surrounded-by-abstract-graphics-3igJ6tNIxbQ
+                - figure [ref=f29e292]:
+                  - generic [ref=f29e294]:
+                    - link [ref=f29e295]:
+                      - /url: /illustrations/abstract-eye-within-concentric-circles-and-lines-ThCl8od7Ras
+                      - img "Abstract eye within concentric circles and lines" [ref=f29e296]
+                    - link [ref=f29e297] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-eye-within-concentric-circles-and-lines-ThCl8od7Ras
+                - figure [ref=f29e300]:
+                  - generic [ref=f29e302]:
+                    - link [ref=f29e303]:
+                      - /url: /illustrations/a-picture-of-a-colorful-pattern-with-a-blue-red-orange-and-yellow-fVts5fzjwhI
+                      - img "A picture of a colorful pattern with a blue, red, orange, and yellow" [ref=f29e304]
+                    - link [ref=f29e305] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-a-colorful-pattern-with-a-blue-red-orange-and-yellow-fVts5fzjwhI
+                - figure [ref=f29e308]:
+                  - generic [ref=f29e310]:
+                    - link [ref=f29e311]:
+                      - /url: /illustrations/bright-lightbulb-with-connected-nodes-and-abstract-shapes-I184fp9JZSQ
+                      - img "Bright lightbulb with connected nodes and abstract shapes." [ref=f29e312]
+                    - link [ref=f29e313] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fbright-lightbulb-with-connected-nodes-and-abstract-shapes-I184fp9JZSQ
+                - figure [ref=f29e316]:
+                  - generic [ref=f29e318]:
+                    - link [ref=f29e319]:
+                      - /url: /illustrations/cartoon-devices-connected-by-colorful-lines-PtTebu02GHo
+                      - img "Cartoon devices connected by colorful lines" [ref=f29e320]
+                    - link [ref=f29e321] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcartoon-devices-connected-by-colorful-lines-PtTebu02GHo
+                - figure [ref=f29e324]:
+                  - generic [ref=f29e326]:
+                    - link [ref=f29e327]:
+                      - /url: /illustrations/colorful-abstract-brain-on-laptop-screen-with-data-elements-nOQz0ybYldY
+                      - img "Colorful abstract brain on laptop screen with data elements." [ref=f29e328]
+                    - link [ref=f29e329] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcolorful-abstract-brain-on-laptop-screen-with-data-elements-nOQz0ybYldY
+                - figure [ref=f29e332]:
+                  - generic [ref=f29e334]:
+                    - link [ref=f29e335]:
+                      - /url: /illustrations/a-colorful-pattern-with-circles-and-stars-yRPeW4cGm7Q
+                      - img "A colorful pattern with circles and stars" [ref=f29e336]
+                    - link [ref=f29e337] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-colorful-pattern-with-circles-and-stars-yRPeW4cGm7Q
+                - figure [ref=f29e340]:
+                  - generic [ref=f29e342]:
+                    - link [ref=f29e343]:
+                      - /url: /illustrations/a-hand-holding-a-laptop-with-a-clock-on-it-dgjRXVDzLck
+                      - img "A hand holding a laptop with a clock on it" [ref=f29e344]
+                    - link [ref=f29e345] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-hand-holding-a-laptop-with-a-clock-on-it-dgjRXVDzLck
+    - generic:
+      - region "Notifications"

@@ -1,0 +1,63 @@
+{
+  "slug": "newsletter-subscriber-plsr",
+  "mediaKey": "54807c32-3c9e-4f00-bd46-c49697f7513d",
+  "providerId": "697a8c5686849d72844cf31e",
+  "i18n": {
+    "name": {
+      "en": "Newsletter Subscriber",
+      "uk": "Підписник розсилки новин"
+    },
+    "alt": {
+      "en": "Newsletter Subscriber",
+      "uk": "Підписник розсилки новин"
+    },
+    "tags": [
+      {
+        "key": "newsletter-subscriber",
+        "i18n": {
+          "en": "Newsletter Subscriber",
+          "uk": "Підписник розсилки новин"
+        }
+      },
+      {
+        "key": "newsletter",
+        "i18n": {
+          "en": "newsletter",
+          "uk": "розсилка"
+        }
+      },
+      {
+        "key": "subscriber",
+        "i18n": {
+          "en": "subscriber",
+          "uk": "абонент"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/newsletter-subscriber_plsr.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 527,
+  "height": 800
+}

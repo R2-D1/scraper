@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-18541876",
+  "mediaKey": "pexels:18541876",
+  "i18n": {
+    "name": {
+      "en": "Silver folds on a black surface",
+      "uk": "Сріблясті складки на чорній поверхні"
+    },
+    "alt": {
+      "en": "A glossy black plastic texture featuring wrinkles and reflections, perfect for abstract backgrounds.",
+      "uk": "Глянцева чорна пластикова текстура зі зморшками та відблисками, яка ідеально підходить для створення абстрактних фонів."
+    },
+    "tags": [
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "silver",
+        "i18n": {
+          "en": "silver",
+          "uk": "срібний"
+        }
+      },
+      {
+        "key": "black",
+        "i18n": {
+          "en": "black",
+          "uk": "чорний"
+        }
+      },
+      {
+        "key": "metallic",
+        "i18n": {
+          "en": "metallic",
+          "uk": "металевий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "textures"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/texture-plastic-plastic-wrap-18541876/",
+  "sourceName": "Pexels",
+  "authorName": "Resource Boy",
+  "authorUrl": "https://www.pexels.com/@resourceboy",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3446
+}

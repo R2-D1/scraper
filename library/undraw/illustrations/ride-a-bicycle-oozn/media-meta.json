@@ -1,0 +1,63 @@
+{
+  "slug": "ride-a-bicycle-oozn",
+  "mediaKey": "0eab92bb-01df-4d7d-8db5-fc9ac051f5aa",
+  "providerId": "619cbb8d08defd00182dda6f",
+  "i18n": {
+    "name": {
+      "en": "Ride a bicycle",
+      "uk": "Кататися на велосипеді"
+    },
+    "alt": {
+      "en": "Ride a bicycle",
+      "uk": "Кататися на велосипеді"
+    },
+    "tags": [
+      {
+        "key": "ride-a-bicycle",
+        "i18n": {
+          "en": "Ride a bicycle",
+          "uk": "Кататися на велосипеді"
+        }
+      },
+      {
+        "key": "ride",
+        "i18n": {
+          "en": "ride",
+          "uk": "поїздка"
+        }
+      },
+      {
+        "key": "bicycle",
+        "i18n": {
+          "en": "bicycle",
+          "uk": "велосипед"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/ride-a-bicycle_oozn.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 795,
+  "height": 615
+}

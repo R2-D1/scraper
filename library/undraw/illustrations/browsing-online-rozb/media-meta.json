@@ -1,0 +1,63 @@
+{
+  "slug": "browsing-online-rozb",
+  "mediaKey": "b2dde187-8447-4293-9efe-bc1622ca5dfd",
+  "providerId": "6838c5a894d517407bb79de2",
+  "i18n": {
+    "name": {
+      "en": "Browsing Online",
+      "uk": "Перегляд веб-сторінок"
+    },
+    "alt": {
+      "en": "Browsing Online",
+      "uk": "Перегляд веб-сторінок"
+    },
+    "tags": [
+      {
+        "key": "browsing-online",
+        "i18n": {
+          "en": "Browsing Online",
+          "uk": "Перегляд веб-сторінок"
+        }
+      },
+      {
+        "key": "browsing",
+        "i18n": {
+          "en": "browsing",
+          "uk": "перегляд"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/browsing-online_rozb.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 539
+}

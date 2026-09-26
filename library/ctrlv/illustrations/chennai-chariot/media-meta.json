@@ -1,0 +1,90 @@
+{
+  "slug": "chennai-chariot",
+  "mediaKey": "004af50b-d516-4ce4-a728-37ac8727d125",
+  "i18n": {
+    "name": {
+      "en": "Valluvar Kottam, Chennai",
+      "uk": "Валлувар-Коттам, Ченнаї"
+    },
+    "alt": {
+      "en": "Valluvar Kottam, Chennai",
+      "uk": "Валлувар-Коттам, Ченнаї"
+    },
+    "tags": [
+      {
+        "key": "india",
+        "i18n": {
+          "en": "india",
+          "uk": "індія"
+        }
+      },
+      {
+        "key": "chennai",
+        "i18n": {
+          "en": "chennai",
+          "uk": "Ченнаї"
+        }
+      },
+      {
+        "key": "valluvar-kottam",
+        "i18n": {
+          "en": "valluvar kottam",
+          "uk": "Валлувар-Коттам"
+        }
+      },
+      {
+        "key": "chariot",
+        "i18n": {
+          "en": "chariot",
+          "uk": "колісниця"
+        }
+      },
+      {
+        "key": "monument",
+        "i18n": {
+          "en": "monument",
+          "uk": "пам'ятник"
+        }
+      },
+      {
+        "key": "tamil",
+        "i18n": {
+          "en": "tamil",
+          "uk": "тамільська"
+        }
+      },
+      {
+        "key": "landmark",
+        "i18n": {
+          "en": "landmark",
+          "uk": "орієнтир"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/chennai-chariot",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

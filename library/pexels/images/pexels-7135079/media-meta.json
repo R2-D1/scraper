@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-7135079",
+  "mediaKey": "pexels:7135079",
+  "i18n": {
+    "name": {
+      "en": "Vivid rainbow gradient",
+      "uk": "Яскравий райдужний градієнт"
+    },
+    "alt": {
+      "en": "A vivid blend of colors creating a captivating abstract gradient background.",
+      "uk": "Яскраве поєднання кольорів, що створює захоплюючий абстрактний фон із градієнтом."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "vibrant",
+        "i18n": {
+          "en": "vibrant",
+          "uk": "яскравий"
+        }
+      },
+      {
+        "key": "rainbow",
+        "i18n": {
+          "en": "rainbow",
+          "uk": "веселка"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/blurred-photo-of-colorful-lights-7135079/",
+  "sourceName": "Pexels",
+  "authorName": "Codioful (formerly Gradienta)",
+  "authorUrl": "https://www.pexels.com/@codioful",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

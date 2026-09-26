@@ -1,0 +1,94 @@
+{
+  "slug": "stock-market-display-zgclt",
+  "mediaKey": "4322557f-6a19-42c2-a78b-3a0b93d423f0",
+  "i18n": {
+    "name": {
+      "en": "Stock Market Display",
+      "uk": "Інформаційний табло фондового ринку"
+    },
+    "alt": {
+      "en": "Stock Market Display",
+      "uk": "Інформаційний табло фондового ринку"
+    },
+    "tags": [
+      {
+        "key": "stock-market",
+        "i18n": {
+          "en": "stock market",
+          "uk": "фондовий ринок"
+        }
+      },
+      {
+        "key": "digital-display",
+        "i18n": {
+          "en": "digital display",
+          "uk": "цифровий дисплей"
+        }
+      },
+      {
+        "key": "financial-data",
+        "i18n": {
+          "en": "financial data",
+          "uk": "фінансові дані"
+        }
+      },
+      {
+        "key": "candlestick-charts",
+        "i18n": {
+          "en": "candlestick charts",
+          "uk": "свічкові графіки"
+        }
+      },
+      {
+        "key": "market-activity",
+        "i18n": {
+          "en": "market activity",
+          "uk": "ринкова активність"
+        }
+      },
+      {
+        "key": "business",
+        "i18n": {
+          "en": "Business",
+          "uk": "Бізнес"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "technology"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "SHIHO",
+  "authorUrl": "https://www.lummi.ai/creator/ms.designs.0711-fcesu?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A vibrant and dynamic image of a digital stock market display, featuring a mix of red, green, and orange data points and candlestick charts. The screen is filled with numerical data and fluctuating graphs, symbolizing market activity. The background is slightly blurred, with bokeh effects in blue and yellow tones, adding depth and focus to the foreground. The green and red colors dominate, representing market gains and losses, while the orange highlights add contrast. The overall composition conveys a sense of fast-paced financial trading and analysis.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/stock-market-display-zgclt/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/stock-market-display-zgclt/stock-market-display-zgclt.png",
+  "relativeAssetPath": "library/lummi/images/stock-market-display-zgclt/stock-market-display-zgclt.png"
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "moody-portrait-profile-buquz",
+  "mediaKey": "c1862deb-966d-47c4-8658-c3bcde4a6b72",
+  "i18n": {
+    "name": {
+      "en": "Moody Portrait Profile",
+      "uk": "Характерний портретний профіль"
+    },
+    "alt": {
+      "en": "Moody Portrait Profile",
+      "uk": "Характерний портретний профіль"
+    },
+    "tags": [
+      {
+        "key": "close-up",
+        "i18n": {
+          "en": "Close up",
+          "uk": "Зблизька"
+        }
+      },
+      {
+        "key": "contemplative-expression",
+        "i18n": {
+          "en": "contemplative expression",
+          "uk": "контемплативний вираз"
+        }
+      },
+      {
+        "key": "moody-lighting",
+        "i18n": {
+          "en": "moody lighting",
+          "uk": "атмосферне освітлення"
+        }
+      },
+      {
+        "key": "teal-and-orange",
+        "i18n": {
+          "en": "teal and orange",
+          "uk": "бірюзовий і помаранчевий"
+        }
+      },
+      {
+        "key": "glass-texture",
+        "i18n": {
+          "en": "glass texture",
+          "uk": "скляна текстура"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "PZF",
+  "authorUrl": "https://www.lummi.ai/creator/pzf?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A close-up side profile of a young man with light skin and short, dark hair. His face is slightly turned towards a glass surface, which is fogged and has water droplets on it. The lighting is soft and diffused, with a teal and orange color palette creating a moody atmosphere. The orange light highlights parts of his ear and cheek, contrasting with the cooler teal tones. His expression appears contemplative, and the background is blurred, emphasizing the subject's face and the texture of the glass.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1345,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/moody-portrait-profile-buquz/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/moody-portrait-profile-buquz/moody-portrait-profile-buquz.jpg",
+  "relativeAssetPath": "library/lummi/images/moody-portrait-profile-buquz/moody-portrait-profile-buquz.jpg"
+}

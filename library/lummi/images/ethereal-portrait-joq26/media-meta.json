@@ -1,0 +1,84 @@
+{
+  "slug": "ethereal-portrait-joq26",
+  "mediaKey": "db4b20a0-ba2b-4ed1-9e1e-013faf5e78a7",
+  "i18n": {
+    "name": {
+      "en": "Ethereal Portrait",
+      "uk": "Неземний портрет"
+    },
+    "alt": {
+      "en": "Ethereal Portrait",
+      "uk": "Неземний портрет"
+    },
+    "tags": [
+      {
+        "key": "freckles",
+        "i18n": {
+          "en": "Freckles",
+          "uk": "Веснянки"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "soft-lighting",
+        "i18n": {
+          "en": "soft lighting",
+          "uk": "м'яке освітлення"
+        }
+      },
+      {
+        "key": "green-eyes",
+        "i18n": {
+          "en": "green eyes",
+          "uk": "зелені очі"
+        }
+      },
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "Beauty",
+          "uk": "Краса"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/ethereal-portrait-joq26",
+  "sourceName": "Lummi",
+  "authorName": "Ajith",
+  "authorUrl": "https://www.lummi.ai/creator/4jith?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A close-up portrait of a woman with light skin and freckles, her green eyes gazing upward. Her face is partially covered by a sheer, light green fabric that catches the sunlight, creating a soft, ethereal glow. The lighting emphasizes the natural texture of her skin and the vibrant color of her eyes. Her hair is tied back, and the overall composition is intimate and artistic, with a focus on the interplay of light, shadow, and fabric.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 960,
+  "height": 1200,
+  "mimeType": "image/webp"
+}

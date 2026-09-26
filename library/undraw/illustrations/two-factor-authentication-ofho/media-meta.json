@@ -1,0 +1,70 @@
+{
+  "slug": "two-factor-authentication-ofho",
+  "mediaKey": "cf285362-f274-4812-87bc-ae5bf62f0f2c",
+  "providerId": "6901352a23704b7532326068",
+  "i18n": {
+    "name": {
+      "en": "Two factor authentication",
+      "uk": "Двофакторна автентифікація"
+    },
+    "alt": {
+      "en": "Two factor authentication",
+      "uk": "Двофакторна автентифікація"
+    },
+    "tags": [
+      {
+        "key": "two-factor-authentication",
+        "i18n": {
+          "en": "Two factor authentication",
+          "uk": "Двофакторна автентифікація"
+        }
+      },
+      {
+        "key": "two",
+        "i18n": {
+          "en": "two",
+          "uk": "два"
+        }
+      },
+      {
+        "key": "factor",
+        "i18n": {
+          "en": "factor",
+          "uk": "множник"
+        }
+      },
+      {
+        "key": "authentication",
+        "i18n": {
+          "en": "authentication",
+          "uk": "автентифікація"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/two-factor-authentication_ofho.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 490
+}

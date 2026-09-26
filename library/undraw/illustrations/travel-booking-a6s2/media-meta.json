@@ -1,0 +1,63 @@
+{
+  "slug": "travel-booking-a6s2",
+  "mediaKey": "642917af-1f16-4ad3-8152-38859b7aae05",
+  "providerId": "6917b854f19618541bfb3b7c",
+  "i18n": {
+    "name": {
+      "en": "Travel Booking",
+      "uk": "Бронювання подорожей"
+    },
+    "alt": {
+      "en": "Travel Booking",
+      "uk": "Бронювання подорожей"
+    },
+    "tags": [
+      {
+        "key": "travel-booking",
+        "i18n": {
+          "en": "Travel Booking",
+          "uk": "Бронювання подорожей"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "booking",
+        "i18n": {
+          "en": "booking",
+          "uk": "Booking"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/travel-booking_a6s2.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 529
+}

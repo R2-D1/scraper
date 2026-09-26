@@ -1,0 +1,69 @@
+{
+  "slug": "park-bench",
+  "mediaKey": "b52b185a-b13c-49cc-97bb-cc099437dc40",
+  "i18n": {
+    "name": {
+      "en": "Quiet Spot",
+      "uk": "Тихе місце"
+    },
+    "alt": {
+      "en": "Quiet Spot",
+      "uk": "Тихе місце"
+    },
+    "tags": [
+      {
+        "key": "relaxation",
+        "i18n": {
+          "en": "relaxation",
+          "uk": "відпочинок"
+        }
+      },
+      {
+        "key": "park",
+        "i18n": {
+          "en": "park",
+          "uk": "парк"
+        }
+      },
+      {
+        "key": "bench",
+        "i18n": {
+          "en": "bench",
+          "uk": "лавка"
+        }
+      },
+      {
+        "key": "rest",
+        "i18n": {
+          "en": "rest",
+          "uk": "відпочинок"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/park-bench",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

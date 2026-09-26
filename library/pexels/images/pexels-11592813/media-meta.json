@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-11592813",
+  "mediaKey": "pexels:11592813",
+  "i18n": {
+    "name": {
+      "en": "Arched window opening onto a pink seascape",
+      "uk": "Аркове вікно з видом на рожеве море"
+    },
+    "alt": {
+      "en": "Dreamy digital artwork featuring a pink cloud, archway, and serene pool reflection at dawn.",
+      "uk": "Мрійлива цифрова ілюстрація, на якій зображено рожеву хмару, арку та спокійне віддзеркалення у воді на світанку."
+    },
+    "tags": [
+      {
+        "key": "surrealism",
+        "i18n": {
+          "en": "surrealism",
+          "uk": "сюрреалізм"
+        }
+      },
+      {
+        "key": "window",
+        "i18n": {
+          "en": "window",
+          "uk": "вікно"
+        }
+      },
+      {
+        "key": "seascape",
+        "i18n": {
+          "en": "seascape",
+          "uk": "морський пейзаж"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "surrealism"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/digital-dreamy-landscape-of-pool-and-sea-at-sunset-11592813/",
+  "sourceName": "Pexels",
+  "authorName": "Mo Eid",
+  "authorUrl": "https://www.pexels.com/@mo-eid-1268975",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

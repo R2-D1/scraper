@@ -1,0 +1,63 @@
+{
+  "slug": "smartwatch-map-3u18",
+  "mediaKey": "6f2b2481-a979-4997-a403-903ba0d1d8a9",
+  "providerId": "68781dd3c2f9f99bbb2815de",
+  "i18n": {
+    "name": {
+      "en": "Smartwatch Map",
+      "uk": "Карта смарт-годинників"
+    },
+    "alt": {
+      "en": "Smartwatch Map",
+      "uk": "Карта смарт-годинників"
+    },
+    "tags": [
+      {
+        "key": "smartwatch-map",
+        "i18n": {
+          "en": "Smartwatch Map",
+          "uk": "Карта смарт-годинників"
+        }
+      },
+      {
+        "key": "smartwatch",
+        "i18n": {
+          "en": "smartwatch",
+          "uk": "розумний годинник"
+        }
+      },
+      {
+        "key": "map",
+        "i18n": {
+          "en": "map",
+          "uk": "карта"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/smartwatch-map_3u18.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 330,
+  "height": 640
+}

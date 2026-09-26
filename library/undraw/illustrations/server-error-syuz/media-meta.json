@@ -1,0 +1,63 @@
+{
+  "slug": "server-error-syuz",
+  "mediaKey": "952ee9bb-12a9-4c63-a16d-c385dbdd7a39",
+  "providerId": "67e491b846b2f06a5bc66f55",
+  "i18n": {
+    "name": {
+      "en": "Server Error",
+      "uk": "Помилка сервера"
+    },
+    "alt": {
+      "en": "Server Error",
+      "uk": "Помилка сервера"
+    },
+    "tags": [
+      {
+        "key": "server-error",
+        "i18n": {
+          "en": "Server Error",
+          "uk": "Помилка сервера"
+        }
+      },
+      {
+        "key": "server",
+        "i18n": {
+          "en": "server",
+          "uk": "сервер"
+        }
+      },
+      {
+        "key": "error",
+        "i18n": {
+          "en": "error",
+          "uk": "помилка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/server-error_syuz.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 799,
+  "height": 618
+}

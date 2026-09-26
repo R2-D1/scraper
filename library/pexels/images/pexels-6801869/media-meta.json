@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-6801869",
+  "mediaKey": "pexels:6801869",
+  "i18n": {
+    "name": {
+      "en": "Hand using a tablet at a desk",
+      "uk": "Рука, що користується планшетом за письмовим столом"
+    },
+    "alt": {
+      "en": "A businessman using a laptop and smartphone to analyze stock market trends indoors.",
+      "uk": "Бізнесмен, який у приміщенні аналізує тенденції на фондовому ринку за допомогою ноутбука та смартфона."
+    },
+    "tags": [
+      {
+        "key": "tablet",
+        "i18n": {
+          "en": "tablet",
+          "uk": "планшет"
+        }
+      },
+      {
+        "key": "hand",
+        "i18n": {
+          "en": "hand",
+          "uk": "рука"
+        }
+      },
+      {
+        "key": "desk",
+        "i18n": {
+          "en": "desk",
+          "uk": "письмовий стіл"
+        }
+      },
+      {
+        "key": "technology",
+        "i18n": {
+          "en": "technology",
+          "uk": "технологія"
+        }
+      },
+      {
+        "key": "office",
+        "i18n": {
+          "en": "office",
+          "uk": "Office"
+        }
+      },
+      {
+        "key": "work",
+        "i18n": {
+          "en": "work",
+          "uk": "робота"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "business"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/photo-of-person-using-calculator-6801869/",
+  "sourceName": "Pexels",
+  "authorName": "Hanna Pad",
+  "authorUrl": "https://www.pexels.com/@anna-nekrashevich",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2095,
+  "height": 3724
+}

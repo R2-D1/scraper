@@ -1,0 +1,49 @@
+{
+  "slug": "booked-bb22",
+  "mediaKey": "4ce69bb0-2bea-474c-b498-725e203b7ffb",
+  "providerId": "5f575f0be3ff9c00177a164d",
+  "i18n": {
+    "name": {
+      "en": "Booked",
+      "uk": "Заброньовано"
+    },
+    "alt": {
+      "en": "Booked",
+      "uk": "Заброньовано"
+    },
+    "tags": [
+      {
+        "key": "booked",
+        "i18n": {
+          "en": "Booked",
+          "uk": "Заброньовано"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/booked_bb22.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 767,
+  "height": 589
+}

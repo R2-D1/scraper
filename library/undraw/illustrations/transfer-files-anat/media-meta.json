@@ -1,0 +1,63 @@
+{
+  "slug": "transfer-files-anat",
+  "mediaKey": "1853e083-62d8-4940-a042-33ff3f452750",
+  "providerId": "608147386d89730017d180c6",
+  "i18n": {
+    "name": {
+      "en": "Transfer files",
+      "uk": "Передача файлів"
+    },
+    "alt": {
+      "en": "Transfer files",
+      "uk": "Передача файлів"
+    },
+    "tags": [
+      {
+        "key": "transfer-files",
+        "i18n": {
+          "en": "Transfer files",
+          "uk": "Передача файлів"
+        }
+      },
+      {
+        "key": "transfer",
+        "i18n": {
+          "en": "transfer",
+          "uk": "передача"
+        }
+      },
+      {
+        "key": "files",
+        "i18n": {
+          "en": "files",
+          "uk": "файли"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/transfer-files_anat.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 675,
+  "height": 489
+}

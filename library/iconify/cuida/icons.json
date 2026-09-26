@@ -1,0 +1,7360 @@
+{
+  "alert-outline": {
+    "mediaKey": "47d66f1d-f27c-418e-9b27-6455f512c657",
+    "i18n": {
+      "name": {
+        "en": "Alert outline",
+        "uk": "Попередження"
+      },
+      "alt": {
+        "en": "Alert outline",
+        "uk": "Попередження"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⚠️",
+          "alert",
+          "outline",
+          "outline stroke",
+          "push нотифікація",
+          "warning",
+          "alert-outline"
+        ],
+        "uk": [
+          "⚠️",
+          "алерт",
+          "контур",
+          "обведення",
+          "оповіщення",
+          "оутліне",
+          "попередження",
+          "сповіщення",
+          "push нотифікація"
+        ]
+      }
+    }
+  },
+  "ambulance-outline": {
+    "mediaKey": "3c6d2ca3-ef03-450f-a041-1fde04b100ef",
+    "i18n": {
+      "name": {
+        "en": "Ambulance outline",
+        "uk": "Швидка допомога"
+      },
+      "alt": {
+        "en": "Ambulance outline",
+        "uk": "Швидка допомога"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🚑",
+          "ambulance",
+          "emergency car",
+          "outline",
+          "outline stroke",
+          "ambulance-outline"
+        ],
+        "uk": [
+          "🚑",
+          "амбуланке",
+          "допомога",
+          "карета швидкої",
+          "контур",
+          "медична допомога",
+          "обведення",
+          "оутліне",
+          "швидка",
+          "швидка допомога"
+        ]
+      }
+    }
+  },
+  "arrow-down-circle-outline": {
+    "mediaKey": "099214b6-6211-4ac8-9b44-33a11c193244",
+    "i18n": {
+      "name": {
+        "en": "Arrow down circle outline",
+        "uk": "Стрілка вниз (коло)"
+      },
+      "alt": {
+        "en": "Arrow down circle outline",
+        "uk": "Стрілка вниз (коло)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow downwards",
+          "arrow icon",
+          "circle",
+          "circle shape",
+          "descending arrow",
+          "down",
+          "down arrow",
+          "down direction",
+          "down icon",
+          "down swipe",
+          "download arrow",
+          "downward",
+          "move down",
+          "outline",
+          "outline stroke",
+          "round",
+          "scroll down",
+          "arrow-down-circle-outline"
+        ],
+        "uk": [
+          "арров",
+          "вказівник",
+          "вниз",
+          "довн",
+          "кіркле",
+          "коло",
+          "контур",
+          "напрямок",
+          "обведення",
+          "окружність",
+          "опустити",
+          "оутліне",
+          "рух донизу",
+          "стрілка",
+          "стрілка вниз",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-down-outline": {
+    "mediaKey": "4c31b69e-7f2e-4c37-8af9-228e09af0a30",
+    "i18n": {
+      "name": {
+        "en": "Arrow down outline",
+        "uk": "Стрілка вниз"
+      },
+      "alt": {
+        "en": "Arrow down outline",
+        "uk": "Стрілка вниз"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow downwards",
+          "arrow icon",
+          "descending arrow",
+          "down",
+          "down arrow",
+          "down direction",
+          "down icon",
+          "down swipe",
+          "download arrow",
+          "downward",
+          "move down",
+          "outline",
+          "outline stroke",
+          "scroll down",
+          "arrow-down-outline"
+        ],
+        "uk": [
+          "арров",
+          "вказівник",
+          "вниз",
+          "довн",
+          "контур",
+          "напрямок",
+          "обведення",
+          "опустити",
+          "оутліне",
+          "рух донизу",
+          "стрілка",
+          "стрілка вниз",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-left-circle-outline": {
+    "mediaKey": "2a9ccda3-c1cb-4f73-bb18-8c196eee4837",
+    "i18n": {
+      "name": {
+        "en": "Arrow left circle outline",
+        "uk": "Стрілка вліво (коло)"
+      },
+      "alt": {
+        "en": "Arrow left circle outline",
+        "uk": "Стрілка вліво (коло)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "←",
+          "arrow",
+          "arrow icon",
+          "arrow left",
+          "circle",
+          "circle shape",
+          "left",
+          "left arrow",
+          "outline",
+          "outline stroke",
+          "round",
+          "west",
+          "arrow-left-circle-outline"
+        ],
+        "uk": [
+          "←",
+          "арров",
+          "вказівник",
+          "зліва",
+          "кіркле",
+          "коло",
+          "контур",
+          "лефт",
+          "ліва сторона",
+          "лівий бік",
+          "лівий напрямок",
+          "напрямок",
+          "обведення",
+          "окружність",
+          "оутліне",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-left-outline": {
+    "mediaKey": "d34bd046-c769-41f6-93f8-644008323592",
+    "i18n": {
+      "name": {
+        "en": "Arrow left outline",
+        "uk": "Стрілка вліво"
+      },
+      "alt": {
+        "en": "Arrow left outline",
+        "uk": "Стрілка вліво"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "←",
+          "arrow",
+          "arrow icon",
+          "arrow left",
+          "left",
+          "left arrow",
+          "outline",
+          "outline stroke",
+          "west",
+          "arrow-left-outline"
+        ],
+        "uk": [
+          "←",
+          "арров",
+          "вказівник",
+          "зліва",
+          "контур",
+          "лефт",
+          "ліва сторона",
+          "лівий бік",
+          "лівий напрямок",
+          "напрямок",
+          "обведення",
+          "оутліне",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-right-circle-outline": {
+    "mediaKey": "5ad62dbd-9e4a-491b-93ff-43a8093c47df",
+    "i18n": {
+      "name": {
+        "en": "Arrow right circle outline",
+        "uk": "Стрілка вправо (коло)"
+      },
+      "alt": {
+        "en": "Arrow right circle outline",
+        "uk": "Стрілка вправо (коло)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow icon",
+          "circle",
+          "circle shape",
+          "correct",
+          "outline",
+          "outline stroke",
+          "right",
+          "right arrow",
+          "round",
+          "arrow-right-circle-outline"
+        ],
+        "uk": [
+          "арров",
+          "вказівник",
+          "кіркле",
+          "коло",
+          "контур",
+          "напрямок",
+          "обведення",
+          "окружність",
+          "оутліне",
+          "правильно",
+          "праворуч",
+          "ріґхт",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-right-outline": {
+    "mediaKey": "d501e76e-7294-478d-840c-7691b84f2700",
+    "i18n": {
+      "name": {
+        "en": "Arrow right outline",
+        "uk": "Стрілка вправо"
+      },
+      "alt": {
+        "en": "Arrow right outline",
+        "uk": "Стрілка вправо"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow icon",
+          "correct",
+          "outline",
+          "outline stroke",
+          "right",
+          "right arrow",
+          "arrow-right-outline"
+        ],
+        "uk": [
+          "арров",
+          "вказівник",
+          "контур",
+          "напрямок",
+          "обведення",
+          "оутліне",
+          "правильно",
+          "праворуч",
+          "ріґхт",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-up-circle-outline": {
+    "mediaKey": "f5092a18-424d-426f-9f9c-6733de7a991f",
+    "i18n": {
+      "name": {
+        "en": "Arrow up circle outline",
+        "uk": "Стрілка вгору (коло)"
+      },
+      "alt": {
+        "en": "Arrow up circle outline",
+        "uk": "Стрілка вгору (коло)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow icon",
+          "arrow up",
+          "boost",
+          "circle",
+          "circle shape",
+          "outline",
+          "outline stroke",
+          "round",
+          "up",
+          "arrow-up-circle-outline"
+        ],
+        "uk": [
+          "ап",
+          "арров",
+          "вгору",
+          "верх",
+          "вказівник",
+          "кіркле",
+          "коло",
+          "контур",
+          "напрямок",
+          "обведення",
+          "окружність",
+          "оутліне",
+          "підняти",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-up-outline": {
+    "mediaKey": "f4ee82f7-cbf4-47c9-b041-aa81b39c8d5b",
+    "i18n": {
+      "name": {
+        "en": "Arrow up outline",
+        "uk": "Стрілка вгору"
+      },
+      "alt": {
+        "en": "Arrow up outline",
+        "uk": "Стрілка вгору"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow icon",
+          "arrow up",
+          "boost",
+          "outline",
+          "outline stroke",
+          "up",
+          "arrow-up-outline"
+        ],
+        "uk": [
+          "ап",
+          "арров",
+          "вгору",
+          "верх",
+          "вказівник",
+          "контур",
+          "напрямок",
+          "обведення",
+          "оутліне",
+          "підняти",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "at-outline": {
+    "mediaKey": "f70c61d0-1d41-4bab-a242-7c6078fd1439",
+    "i18n": {
+      "name": {
+        "en": "At outline",
+        "uk": "Біля символу"
+      },
+      "alt": {
+        "en": "At outline",
+        "uk": "Біля символу"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "at",
+          "at sign",
+          "outline",
+          "outline stroke",
+          "at-outline"
+        ],
+        "uk": [
+          "ат",
+          "в",
+          "ет",
+          "контур",
+          "обведення",
+          "оутліне",
+          "символ @",
+          "собачка"
+        ]
+      }
+    }
+  },
+  "attachment-clip-outline": {
+    "mediaKey": "13f0f193-c9d4-4647-8a32-1000615ee643",
+    "i18n": {
+      "name": {
+        "en": "Attachment clip outline",
+        "uk": "Скріпка"
+      },
+      "alt": {
+        "en": "Attachment clip outline",
+        "uk": "Скріпка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "attach",
+          "attachment",
+          "clip",
+          "clip icon",
+          "file clip",
+          "outline",
+          "outline stroke",
+          "paperclip",
+          "attachment-clip-outline"
+        ],
+        "uk": [
+          "аттач",
+          "відеокліп",
+          "вкладення",
+          "доданий файл",
+          "додати файл",
+          "додаток",
+          "затискач",
+          "кліп",
+          "контур",
+          "обведення",
+          "оутліне",
+          "приєднати",
+          "прикріпити",
+          "прикріпити документ",
+          "прикріплення",
+          "скріпка",
+          "файл"
+        ]
+      }
+    }
+  },
+  "bed-outiline": {
+    "mediaKey": "bc958171-ec96-4622-8db2-5884c3674bcd",
+    "i18n": {
+      "name": {
+        "en": "Bed outiline",
+        "uk": "Ліжко (контур)"
+      },
+      "alt": {
+        "en": "Bed outiline",
+        "uk": "Ліжко (контур)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🛏️",
+          "bed",
+          "bedroom",
+          "outiline",
+          "outline",
+          "outline icon",
+          "outline view",
+          "sleep",
+          "bed-outiline"
+        ],
+        "uk": [
+          "🛏️",
+          "бед",
+          "контур",
+          "контурний стиль",
+          "ліжко",
+          "накреслення",
+          "силует",
+          "спальне місце"
+        ]
+      }
+    }
+  },
+  "block-outline": {
+    "mediaKey": "98e09275-93b5-44f2-aac3-7e17406402d4",
+    "i18n": {
+      "name": {
+        "en": "Block outline",
+        "uk": "Block"
+      },
+      "alt": {
+        "en": "Block outline",
+        "uk": "Block"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "block",
+          "blockchain",
+          "brick",
+          "outline",
+          "outline stroke",
+          "block-outline"
+        ],
+        "uk": [
+          "блок",
+          "блокк",
+          "блокувати",
+          "заблокувати",
+          "контур",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "bolt-outline": {
+    "mediaKey": "c0810443-034c-4ed0-91bf-42a68ae7055c",
+    "i18n": {
+      "name": {
+        "en": "Bolt outline",
+        "uk": "Блискавка"
+      },
+      "alt": {
+        "en": "Bolt outline",
+        "uk": "Блискавка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bolt",
+          "lightning",
+          "outline",
+          "outline stroke",
+          "bolt-outline"
+        ],
+        "uk": [
+          "блискавка",
+          "болт",
+          "болт гвинт",
+          "контур",
+          "обведення",
+          "оутліне",
+          "швидкісний"
+        ]
+      }
+    }
+  },
+  "bookmark-outline": {
+    "mediaKey": "71b4ff00-d8ef-4929-973b-7c64e0d2c872",
+    "i18n": {
+      "name": {
+        "en": "Bookmark outline",
+        "uk": "Закладка"
+      },
+      "alt": {
+        "en": "Bookmark outline",
+        "uk": "Закладка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🔖",
+          "bookmark",
+          "bookmark icon",
+          "outline",
+          "outline stroke",
+          "save",
+          "bookmark-outline"
+        ],
+        "uk": [
+          "🔖",
+          "боокмарк",
+          "закладка",
+          "контур",
+          "обведення",
+          "оутліне",
+          "стрічка"
+        ]
+      }
+    }
+  },
+  "box-outline": {
+    "mediaKey": "c0624254-3508-472c-a60d-d199d441d8ca",
+    "i18n": {
+      "name": {
+        "en": "Box outline",
+        "uk": "Коробка"
+      },
+      "alt": {
+        "en": "Box outline",
+        "uk": "Коробка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "box",
+          "box parcel",
+          "outline",
+          "outline stroke",
+          "box-outline"
+        ],
+        "uk": [
+          "бокс",
+          "контур",
+          "коробка",
+          "обведення",
+          "оутліне",
+          "пакунок",
+          "ящик"
+        ]
+      }
+    }
+  },
+  "briefcase-outline": {
+    "mediaKey": "0e792212-dec1-43dd-a3be-77a9368341c2",
+    "i18n": {
+      "name": {
+        "en": "Briefcase outline",
+        "uk": "Портфель"
+      },
+      "alt": {
+        "en": "Briefcase outline",
+        "uk": "Портфель"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "attaché",
+          "briefcase",
+          "business case",
+          "outline",
+          "outline stroke",
+          "briefcase-outline"
+        ],
+        "uk": [
+          "бріефкасе",
+          "валіза для документів",
+          "контур",
+          "обведення",
+          "оутліне",
+          "портфель"
+        ]
+      }
+    }
+  },
+  "building-outline": {
+    "mediaKey": "1f706eb2-37dc-463c-8e89-72dd1aaf06b8",
+    "i18n": {
+      "name": {
+        "en": "Building outline",
+        "uk": "Будівля"
+      },
+      "alt": {
+        "en": "Building outline",
+        "uk": "Будівля"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "architecture",
+          "building",
+          "outline",
+          "outline stroke",
+          "building-outline"
+        ],
+        "uk": [
+          "будівля",
+          "буілдінґ",
+          "контур",
+          "обведення",
+          "оутліне",
+          "офіс",
+          "хмарочос"
+        ]
+      }
+    }
+  },
+  "bullet-list-outline": {
+    "mediaKey": "fac6d616-317f-4482-9272-6f41f6f39d24",
+    "i18n": {
+      "name": {
+        "en": "Bullet list outline",
+        "uk": "Маркірований список"
+      },
+      "alt": {
+        "en": "Bullet list outline",
+        "uk": "Маркірований список"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bullet",
+          "bulleted list",
+          "enumeration",
+          "list",
+          "list bullet",
+          "list item",
+          "listing",
+          "marker",
+          "outline",
+          "outline stroke",
+          "todo list",
+          "bullet-list-outline"
+        ],
+        "uk": [
+          "каталог",
+          "контур",
+          "крапка",
+          "ліст",
+          "маркер",
+          "маркер списку",
+          "маркований",
+          "обведення",
+          "оутліне",
+          "перелік",
+          "пуля",
+          "список",
+          "точка списку"
+        ]
+      }
+    }
+  },
+  "bullseye-outline": {
+    "mediaKey": "c817a7e9-abe8-4d70-a218-793442f49efa",
+    "i18n": {
+      "name": {
+        "en": "Bullseye outline",
+        "uk": "Мішень"
+      },
+      "alt": {
+        "en": "Bullseye outline",
+        "uk": "Мішень"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bullseye",
+          "goal",
+          "outline",
+          "outline stroke",
+          "target",
+          "bullseye-outline"
+        ],
+        "uk": [
+          "контур",
+          "мішень",
+          "обведення",
+          "оутліне",
+          "приціл",
+          "таргет",
+          "центр",
+          "ціль",
+          "яблучко"
+        ]
+      }
+    }
+  },
+  "calendar-clear-outline": {
+    "mediaKey": "a97348a7-c408-4750-85b5-f609b642d97d",
+    "i18n": {
+      "name": {
+        "en": "Calendar clear outline",
+        "uk": "Календар (очистити)"
+      },
+      "alt": {
+        "en": "Calendar clear outline",
+        "uk": "Календар (очистити)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "📅",
+          "calendar",
+          "clear",
+          "clear button",
+          "outline",
+          "outline stroke",
+          "planner",
+          "schedule",
+          "calendar-clear-outline"
+        ],
+        "uk": [
+          "📅",
+          "видалити",
+          "дата",
+          "календар",
+          "клеар",
+          "контур",
+          "обведення",
+          "оутліне",
+          "очистити",
+          "прозоро",
+          "ясно"
+        ]
+      }
+    }
+  },
+  "calendar-outline": {
+    "mediaKey": "f83088d0-1110-48fa-9a36-39b0b00235cd",
+    "i18n": {
+      "name": {
+        "en": "Calendar outline",
+        "uk": "Календар"
+      },
+      "alt": {
+        "en": "Calendar outline",
+        "uk": "Календар"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "📅",
+          "calendar",
+          "outline",
+          "outline stroke",
+          "planner",
+          "schedule",
+          "calendar-outline"
+        ],
+        "uk": [
+          "📅",
+          "дата",
+          "календар",
+          "контур",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "caret-down-outline": {
+    "mediaKey": "808b3395-222d-4682-a1da-b79f50c18e2b",
+    "i18n": {
+      "name": {
+        "en": "Caret down outline",
+        "uk": "Каретка вниз"
+      },
+      "alt": {
+        "en": "Caret down outline",
+        "uk": "Каретка вниз"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow downwards",
+          "caret",
+          "caret icon",
+          "descending arrow",
+          "down",
+          "down arrow",
+          "down direction",
+          "down icon",
+          "down swipe",
+          "download arrow",
+          "downward",
+          "move down",
+          "outline",
+          "outline stroke",
+          "scroll down",
+          "caret-down-outline"
+        ],
+        "uk": [
+          "вниз",
+          "вставка",
+          "вставний маркер",
+          "довн",
+          "карет",
+          "контур",
+          "курсор",
+          "обведення",
+          "опустити",
+          "оутліне",
+          "рух донизу",
+          "стрілка вниз"
+        ]
+      }
+    }
+  },
+  "caret-left-outline": {
+    "mediaKey": "af1aba59-f0ca-4223-b813-aeb63dab13a9",
+    "i18n": {
+      "name": {
+        "en": "Caret left outline",
+        "uk": "Каретка вліво"
+      },
+      "alt": {
+        "en": "Caret left outline",
+        "uk": "Каретка вліво"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "←",
+          "arrow left",
+          "caret",
+          "caret icon",
+          "left",
+          "left arrow",
+          "outline",
+          "outline stroke",
+          "west",
+          "caret-left-outline"
+        ],
+        "uk": [
+          "←",
+          "вставка",
+          "вставний маркер",
+          "зліва",
+          "карет",
+          "контур",
+          "курсор",
+          "лефт",
+          "ліва сторона",
+          "лівий бік",
+          "лівий напрямок",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "caret-right-outline": {
+    "mediaKey": "c6f1fb09-e4d5-4db9-a9d8-c002414726ed",
+    "i18n": {
+      "name": {
+        "en": "Caret right outline",
+        "uk": "Каретка вправо"
+      },
+      "alt": {
+        "en": "Caret right outline",
+        "uk": "Каретка вправо"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "caret",
+          "caret icon",
+          "correct",
+          "outline",
+          "outline stroke",
+          "right",
+          "right arrow",
+          "caret-right-outline"
+        ],
+        "uk": [
+          "вставка",
+          "вставний маркер",
+          "карет",
+          "контур",
+          "курсор",
+          "обведення",
+          "оутліне",
+          "правильно",
+          "праворуч",
+          "ріґхт"
+        ]
+      }
+    }
+  },
+  "caret-up-outline": {
+    "mediaKey": "6ed9f14b-0a75-45a2-90d8-0e7a87aed413",
+    "i18n": {
+      "name": {
+        "en": "Caret up outline",
+        "uk": "Каретка вгору"
+      },
+      "alt": {
+        "en": "Caret up outline",
+        "uk": "Каретка вгору"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow up",
+          "boost",
+          "caret",
+          "caret icon",
+          "outline",
+          "outline stroke",
+          "up",
+          "caret-up-outline"
+        ],
+        "uk": [
+          "ап",
+          "вгору",
+          "верх",
+          "вставка",
+          "вставний маркер",
+          "карет",
+          "контур",
+          "курсор",
+          "обведення",
+          "оутліне",
+          "підняти"
+        ]
+      }
+    }
+  },
+  "chart-column-outline": {
+    "mediaKey": "37596464-befe-454b-96a0-bc8fd2cd4767",
+    "i18n": {
+      "name": {
+        "en": "Chart column outline",
+        "uk": "Діаграма (колонки)"
+      },
+      "alt": {
+        "en": "Chart column outline",
+        "uk": "Діаграма (колонки)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "chart",
+          "chart icon",
+          "column",
+          "column layout",
+          "outline",
+          "outline stroke",
+          "stats",
+          "chart-column-outline"
+        ],
+        "uk": [
+          "графік",
+          "діаграма",
+          "колона",
+          "колонка",
+          "колумн",
+          "контур",
+          "обведення",
+          "оутліне",
+          "стовпець",
+          "стовпчик",
+          "чарт"
+        ]
+      }
+    }
+  },
+  "chatbubble-outline": {
+    "mediaKey": "17f8dcf5-25fd-469b-8c46-d2ee4d3a53cd",
+    "i18n": {
+      "name": {
+        "en": "Chatbubble outline",
+        "uk": "Хмаринка чату"
+      },
+      "alt": {
+        "en": "Chatbubble outline",
+        "uk": "Хмаринка чату"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "chat bubble",
+          "chatbubble",
+          "message bubble",
+          "outline",
+          "outline stroke",
+          "sms icon",
+          "speech bubble",
+          "chatbubble-outline"
+        ],
+        "uk": [
+          "бульбашка чату",
+          "коментар",
+          "контур",
+          "обведення",
+          "оутліне",
+          "повідомлення",
+          "чат бульбашка"
+        ]
+      }
+    }
+  },
+  "chatbubbles-outline": {
+    "mediaKey": "96fe9e29-39d1-4383-abce-0dfc2697eac5",
+    "i18n": {
+      "name": {
+        "en": "Chatbubbles outline",
+        "uk": "Хмаринки чату"
+      },
+      "alt": {
+        "en": "Chatbubbles outline",
+        "uk": "Хмаринки чату"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "chat bubbles",
+          "chatbubbles",
+          "dialog bubbles",
+          "messages",
+          "outline",
+          "outline stroke",
+          "speech bubbles",
+          "chatbubbles-outline"
+        ],
+        "uk": [
+          "бульбашки чату",
+          "контур",
+          "обведення",
+          "оутліне",
+          "повідомлення чат",
+          "чат бульбашки",
+          "чат діалог"
+        ]
+      }
+    }
+  },
+  "check-circle-outline": {
+    "mediaKey": "a254929f-3faa-4476-9332-cb7d860d4362",
+    "i18n": {
+      "name": {
+        "en": "Check circle outline",
+        "uk": "Позначка в колі"
+      },
+      "alt": {
+        "en": "Check circle outline",
+        "uk": "Позначка в колі"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "check",
+          "check mark",
+          "circle",
+          "circle shape",
+          "done",
+          "outline",
+          "outline stroke",
+          "round",
+          "check-circle-outline"
+        ],
+        "uk": [
+          "галочка",
+          "кіркле",
+          "коло",
+          "контур",
+          "обведення",
+          "окружність",
+          "оутліне",
+          "перевірити",
+          "чекк"
+        ]
+      }
+    }
+  },
+  "check-outline": {
+    "mediaKey": "8bc64b1f-a5f2-4b56-b227-540aafa0b94d",
+    "i18n": {
+      "name": {
+        "en": "Check outline",
+        "uk": "Галочка"
+      },
+      "alt": {
+        "en": "Check outline",
+        "uk": "Галочка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "check",
+          "check mark",
+          "done",
+          "outline",
+          "outline stroke",
+          "check-outline"
+        ],
+        "uk": [
+          "галочка",
+          "контур",
+          "обведення",
+          "оутліне",
+          "перевірити",
+          "чекк"
+        ]
+      }
+    }
+  },
+  "checkbox-checked-outlined": {
+    "mediaKey": "54696891-1a79-4f68-b7c2-7fca6bd76331",
+    "i18n": {
+      "name": {
+        "en": "Checkbox checked outlined",
+        "uk": "Прапорець позначений"
+      },
+      "alt": {
+        "en": "Checkbox checked outlined",
+        "uk": "Прапорець позначений"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "approved",
+          "checkbox",
+          "checkbox input",
+          "checked",
+          "done",
+          "line art",
+          "line style",
+          "mark",
+          "ok",
+          "option box",
+          "outline icon",
+          "outline variant",
+          "outlined",
+          "stroke",
+          "checkbox-checked-outlined"
+        ],
+        "uk": [
+          "галочка",
+          "галочка поле",
+          "контур",
+          "контурний",
+          "підтверджено",
+          "позначено",
+          "прапорець",
+          "чекбокс",
+          "чеккбокс"
+        ]
+      }
+    }
+  },
+  "checkbox-unchecked-outlined": {
+    "mediaKey": "6f188a1c-9f9b-49fe-82ae-e552ec8f6a69",
+    "i18n": {
+      "name": {
+        "en": "Checkbox unchecked outlined",
+        "uk": "Прапорець (порожній)"
+      },
+      "alt": {
+        "en": "Checkbox unchecked outlined",
+        "uk": "Прапорець (порожній)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "checkbox",
+          "checkbox input",
+          "line art",
+          "line style",
+          "option box",
+          "outline icon",
+          "outline variant",
+          "outlined",
+          "stroke",
+          "unchecked",
+          "unchecked checkbox",
+          "unchecked flag",
+          "unchecked icon",
+          "unchecked state",
+          "checkbox-unchecked-outlined"
+        ],
+        "uk": [
+          "галочка поле",
+          "контур",
+          "контурний",
+          "не вибрано",
+          "не підтверджено",
+          "не позначено",
+          "неперевірено",
+          "прапорець",
+          "чекбокс",
+          "чеккбокс"
+        ]
+      }
+    }
+  },
+  "clipboard-outline": {
+    "mediaKey": "ba19eb57-9edb-4d4c-8ed7-2562f26f9970",
+    "i18n": {
+      "name": {
+        "en": "Clipboard outline",
+        "uk": "Буфер обміну"
+      },
+      "alt": {
+        "en": "Clipboard outline",
+        "uk": "Буфер обміну"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "clipboard",
+          "clipboard icon",
+          "copy",
+          "outline",
+          "outline stroke",
+          "clipboard-outline"
+        ],
+        "uk": [
+          "буфер обміну",
+          "кліпбоард",
+          "контур",
+          "обведення",
+          "оутліне",
+          "список"
+        ]
+      }
+    }
+  },
+  "clipboard-text-outline": {
+    "mediaKey": "c397ce74-6cf5-452d-8243-9628179f42f3",
+    "i18n": {
+      "name": {
+        "en": "Clipboard text outline",
+        "uk": "Буфер обміну (текст)"
+      },
+      "alt": {
+        "en": "Clipboard text outline",
+        "uk": "Буфер обміну (текст)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "clipboard",
+          "clipboard icon",
+          "content",
+          "copy",
+          "outline",
+          "outline stroke",
+          "text",
+          "clipboard-text-outline"
+        ],
+        "uk": [
+          "абзац",
+          "буфер обміну",
+          "кліпбоард",
+          "контур",
+          "копірайт",
+          "обведення",
+          "оутліне",
+          "повідомлення",
+          "список",
+          "текст"
+        ]
+      }
+    }
+  },
+  "clock-outline": {
+    "mediaKey": "b855de2e-5dd7-433d-9599-d734c35c1f74",
+    "i18n": {
+      "name": {
+        "en": "Clock outline",
+        "uk": "Годинник"
+      },
+      "alt": {
+        "en": "Clock outline",
+        "uk": "Годинник"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🕒",
+          "analog clock",
+          "clock",
+          "outline",
+          "outline stroke",
+          "time",
+          "watch",
+          "clock-outline"
+        ],
+        "uk": [
+          "🕒",
+          "годинник",
+          "клокк",
+          "контур",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "copy-outline": {
+    "mediaKey": "41354aad-7719-448f-ac12-59c6e1272e73",
+    "i18n": {
+      "name": {
+        "en": "Copy outline",
+        "uk": "Копіювати"
+      },
+      "alt": {
+        "en": "Copy outline",
+        "uk": "Копіювати"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "copy",
+          "copy icon",
+          "ctrl+c",
+          "duplicate",
+          "outline",
+          "outline stroke",
+          "copy-outline"
+        ],
+        "uk": [
+          "контур",
+          "копія",
+          "копй",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "dashboard-outline": {
+    "mediaKey": "ee0df251-a8fd-4b3a-8c6c-024236cdcade",
+    "i18n": {
+      "name": {
+        "en": "Dashboard outline",
+        "uk": "Панель керування"
+      },
+      "alt": {
+        "en": "Dashboard outline",
+        "uk": "Панель керування"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "analytics board",
+          "dashboard",
+          "dashboard ui",
+          "outline",
+          "outline stroke",
+          "dashboard-outline"
+        ],
+        "uk": [
+          "дашбоард",
+          "дашборд",
+          "контур",
+          "обведення",
+          "оутліне",
+          "панель",
+          "панель керування",
+          "приладова",
+          "приладова панель"
+        ]
+      }
+    }
+  },
+  "divider-outline": {
+    "mediaKey": "d13d5416-1648-462a-a4ed-9fc7306db334",
+    "i18n": {
+      "name": {
+        "en": "Divider outline",
+        "uk": "Розділювач"
+      },
+      "alt": {
+        "en": "Divider outline",
+        "uk": "Розділювач"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "divider",
+          "outline",
+          "outline stroke",
+          "separator",
+          "divider-outline"
+        ],
+        "uk": [
+          "контур",
+          "обведення",
+          "оутліне",
+          "перегородка",
+          "роздільник",
+          "розділювач"
+        ]
+      }
+    }
+  },
+  "document-outline": {
+    "mediaKey": "2c2709af-0e75-4654-bf37-6e7c6f0c452e",
+    "i18n": {
+      "name": {
+        "en": "Document outline",
+        "uk": "Документ"
+      },
+      "alt": {
+        "en": "Document outline",
+        "uk": "Документ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "document",
+          "outline",
+          "outline stroke",
+          "paper",
+          "pdf",
+          "document-outline"
+        ],
+        "uk": [
+          "док",
+          "документ",
+          "документація",
+          "звіт",
+          "контур",
+          "обведення",
+          "оутліне",
+          "файл"
+        ]
+      }
+    }
+  },
+  "document-text-outline": {
+    "mediaKey": "d6c55105-ba51-4b8f-a61d-a1162ffeffb0",
+    "i18n": {
+      "name": {
+        "en": "Document text outline",
+        "uk": "Документ (текст)"
+      },
+      "alt": {
+        "en": "Document text outline",
+        "uk": "Документ (текст)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "content",
+          "copy",
+          "document",
+          "outline",
+          "outline stroke",
+          "paper",
+          "pdf",
+          "text",
+          "document-text-outline"
+        ],
+        "uk": [
+          "абзац",
+          "док",
+          "документ",
+          "документація",
+          "звіт",
+          "контур",
+          "копірайт",
+          "обведення",
+          "оутліне",
+          "повідомлення",
+          "текст",
+          "файл"
+        ]
+      }
+    }
+  },
+  "document-texts-outline": {
+    "mediaKey": "b976231f-175d-412a-9bfd-8c42f390a542",
+    "i18n": {
+      "name": {
+        "en": "Document texts outline",
+        "uk": "Документи (тексти)"
+      },
+      "alt": {
+        "en": "Document texts outline",
+        "uk": "Документи (тексти)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "document",
+          "messages",
+          "outline",
+          "outline stroke",
+          "paper",
+          "pdf",
+          "sms",
+          "text content",
+          "text entries",
+          "text items",
+          "texts",
+          "texts icon",
+          "document-texts-outline"
+        ],
+        "uk": [
+          "док",
+          "документ",
+          "документація",
+          "звіт",
+          "контур",
+          "обведення",
+          "оутліне",
+          "тексти",
+          "файл"
+        ]
+      }
+    }
+  },
+  "download-cloud-outline": {
+    "mediaKey": "9f9a55b6-ed88-4e32-bf02-d11c010b236b",
+    "i18n": {
+      "name": {
+        "en": "Download cloud outline",
+        "uk": "Завантажити з хмари"
+      },
+      "alt": {
+        "en": "Download cloud outline",
+        "uk": "Завантажити з хмари"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "☁️",
+          "cloud",
+          "cloud download",
+          "cloud icon",
+          "cloud storage",
+          "download",
+          "download arrow",
+          "download button",
+          "download data",
+          "download file",
+          "download icon",
+          "file download",
+          "import file",
+          "outline",
+          "outline stroke",
+          "save arrow",
+          "save file",
+          "save offline",
+          "sky",
+          "download-cloud-outline"
+        ],
+        "uk": [
+          "☁️",
+          "довнлоад",
+          "завантаження",
+          "завантажити",
+          "завантажити файл",
+          "клоуд",
+          "контур",
+          "обведення",
+          "оутліне",
+          "хмара"
+        ]
+      }
+    }
+  },
+  "download-outline": {
+    "mediaKey": "b07bcd3d-7e95-469d-8492-f4db25e876fc",
+    "i18n": {
+      "name": {
+        "en": "Download outline",
+        "uk": "Завантажити"
+      },
+      "alt": {
+        "en": "Download outline",
+        "uk": "Завантажити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cloud download",
+          "download",
+          "download arrow",
+          "download button",
+          "download data",
+          "download file",
+          "download icon",
+          "file download",
+          "import file",
+          "outline",
+          "outline stroke",
+          "save arrow",
+          "save file",
+          "save offline",
+          "download-outline"
+        ],
+        "uk": [
+          "довнлоад",
+          "завантаження",
+          "завантажити",
+          "завантажити файл",
+          "контур",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "dropdown-outline": {
+    "mediaKey": "f91dc3bc-e7c8-43bb-a72c-2f0c9cded65f",
+    "i18n": {
+      "name": {
+        "en": "Dropdown outline",
+        "uk": "Dropdown"
+      },
+      "alt": {
+        "en": "Dropdown outline",
+        "uk": "Dropdown"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "dropdown",
+          "outline",
+          "outline stroke",
+          "select",
+          "dropdown-outline"
+        ],
+        "uk": [
+          "випадаюче меню",
+          "випадний список",
+          "дропдаун",
+          "контур",
+          "обведення",
+          "оутліне",
+          "список"
+        ]
+      }
+    }
+  },
+  "edit-outline": {
+    "mediaKey": "9889e060-6c32-4431-8bfc-7b7bdd0092aa",
+    "i18n": {
+      "name": {
+        "en": "Edit outline",
+        "uk": "Редагувати"
+      },
+      "alt": {
+        "en": "Edit outline",
+        "uk": "Редагувати"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "change",
+          "edit",
+          "edit button",
+          "edit field",
+          "edit icon",
+          "edit mode",
+          "edit pencil",
+          "modify",
+          "outline",
+          "outline stroke",
+          "pencil edit",
+          "edit-outline"
+        ],
+        "uk": [
+          "едіт",
+          "контур",
+          "обведення",
+          "оутліне",
+          "правити",
+          "правка",
+          "редагування",
+          "редагувати",
+          "редагувати запис",
+          "режим редагування"
+        ]
+      }
+    }
+  },
+  "expand-outline": {
+    "mediaKey": "af4f4eca-bb20-4dd0-9a62-4d7ce6b9aea5",
+    "i18n": {
+      "name": {
+        "en": "Expand outline",
+        "uk": "Розгорнути"
+      },
+      "alt": {
+        "en": "Expand outline",
+        "uk": "Розгорнути"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "expand",
+          "expand arrows",
+          "expand arrows icon",
+          "expand icon",
+          "expand layout",
+          "expand view",
+          "expand window",
+          "full screen",
+          "fullscreen",
+          "grow area",
+          "maximize",
+          "open wider",
+          "outline",
+          "outline stroke",
+          "expand-outline"
+        ],
+        "uk": [
+          "експанд",
+          "збільшити",
+          "контур",
+          "обведення",
+          "оутліне",
+          "розгорнути",
+          "розширити"
+        ]
+      }
+    }
+  },
+  "figma-logo-outline": {
+    "mediaKey": "fc86eb67-f904-4ec5-bee5-eb8e7f32f6fb",
+    "i18n": {
+      "name": {
+        "en": "Figma logo outline",
+        "uk": "Figma logo"
+      },
+      "alt": {
+        "en": "Figma logo outline",
+        "uk": "Figma logo"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "brand",
+          "collaborative design",
+          "design tool",
+          "figma",
+          "figma app",
+          "figma logo",
+          "figma prototype",
+          "identity",
+          "logo",
+          "logo mark",
+          "outline",
+          "outline stroke",
+          "product design",
+          "ui design",
+          "vector design",
+          "figma-logo-outline"
+        ],
+        "uk": [
+          "бренд",
+          "емблема",
+          "контур",
+          "лого",
+          "логотип",
+          "обведення",
+          "оутліне",
+          "фігма",
+          "фіґма"
+        ]
+      }
+    }
+  },
+  "filter-outline": {
+    "mediaKey": "7a9dbc93-64ee-4896-9981-6654ad58ad94",
+    "i18n": {
+      "name": {
+        "en": "Filter outline",
+        "uk": "Фільтр"
+      },
+      "alt": {
+        "en": "Filter outline",
+        "uk": "Фільтр"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "filter",
+          "filter funnel",
+          "filter icon",
+          "filter option",
+          "filter panel",
+          "outline",
+          "outline stroke",
+          "refine",
+          "search filter",
+          "filter-outline"
+        ],
+        "uk": [
+          "відфільтрувати",
+          "контур",
+          "обведення",
+          "оутліне",
+          "філтер",
+          "фільтр",
+          "фільтр даних"
+        ]
+      }
+    }
+  },
+  "fire-outline": {
+    "mediaKey": "40cc50e2-7184-4100-885a-c4f8332e3cd6",
+    "i18n": {
+      "name": {
+        "en": "Fire outline",
+        "uk": "Вогонь"
+      },
+      "alt": {
+        "en": "Fire outline",
+        "uk": "Вогонь"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🔥",
+          "burn",
+          "campfire",
+          "fire",
+          "fire emoji",
+          "fire hazard",
+          "fire icon",
+          "flame",
+          "outline",
+          "outline stroke",
+          "fire-outline"
+        ],
+        "uk": [
+          "🔥",
+          "вогонь",
+          "контур",
+          "обведення",
+          "оутліне",
+          "полум'я",
+          "фіре"
+        ]
+      }
+    }
+  },
+  "flag-outline": {
+    "mediaKey": "b5e6837e-232c-4eff-9bee-a7ec3a3d1f49",
+    "i18n": {
+      "name": {
+        "en": "Flag outline",
+        "uk": "Прапор"
+      },
+      "alt": {
+        "en": "Flag outline",
+        "uk": "Прапор"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🚩",
+          "banner",
+          "bookmark flag",
+          "country flag",
+          "flag",
+          "flag icon",
+          "marker",
+          "national flag",
+          "outline",
+          "outline stroke",
+          "flag-outline"
+        ],
+        "uk": [
+          "🚩",
+          "контур",
+          "обведення",
+          "оутліне",
+          "прапор",
+          "прапорець",
+          "флаґ"
+        ]
+      }
+    }
+  },
+  "folder-open-outline": {
+    "mediaKey": "a673788b-3894-43df-ae06-42b5cb179ffd",
+    "i18n": {
+      "name": {
+        "en": "Folder open outline",
+        "uk": "Папка (відкрита)"
+      },
+      "alt": {
+        "en": "Folder open outline",
+        "uk": "Папка (відкрита)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "file folder",
+          "folder",
+          "folder icon",
+          "folder yellow",
+          "open",
+          "open icon",
+          "open state",
+          "outline",
+          "outline stroke",
+          "folder-open-outline"
+        ],
+        "uk": [
+          "відкрити",
+          "відкритий",
+          "директорія",
+          "каталог",
+          "контур",
+          "обведення",
+          "опен",
+          "оутліне",
+          "папка файлів",
+          "папку",
+          "фолдер"
+        ]
+      }
+    }
+  },
+  "folder-outline": {
+    "mediaKey": "62160d66-acb8-466a-beb7-cd34058993cc",
+    "i18n": {
+      "name": {
+        "en": "Folder outline",
+        "uk": "Папка"
+      },
+      "alt": {
+        "en": "Folder outline",
+        "uk": "Папка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "file folder",
+          "folder",
+          "folder icon",
+          "folder yellow",
+          "outline",
+          "outline stroke",
+          "folder-outline"
+        ],
+        "uk": [
+          "директорія",
+          "каталог",
+          "контур",
+          "обведення",
+          "оутліне",
+          "папка файлів",
+          "папку",
+          "фолдер"
+        ]
+      }
+    }
+  },
+  "framer-logo-outline": {
+    "mediaKey": "5900831f-4cd1-4ed7-b24c-5ddb03c973d9",
+    "i18n": {
+      "name": {
+        "en": "Framer logo outline",
+        "uk": "Логотип Framer"
+      },
+      "alt": {
+        "en": "Framer logo outline",
+        "uk": "Логотип Framer"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "brand",
+          "design prototyping",
+          "framer",
+          "framer app",
+          "framer logo",
+          "framer motion",
+          "framer prototype",
+          "framer web",
+          "identity",
+          "logo",
+          "logo mark",
+          "outline",
+          "outline stroke",
+          "framer-logo-outline"
+        ],
+        "uk": [
+          "бренд",
+          "емблема",
+          "контур",
+          "лого",
+          "логотип",
+          "обведення",
+          "оутліне",
+          "рамник",
+          "фрамер"
+        ]
+      }
+    }
+  },
+  "funnel-outline": {
+    "mediaKey": "9392c845-a161-4edc-b8e7-7f4d6e116272",
+    "i18n": {
+      "name": {
+        "en": "Funnel outline",
+        "uk": "Воронка"
+      },
+      "alt": {
+        "en": "Funnel outline",
+        "uk": "Воронка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "filter funnel",
+          "funnel",
+          "funnel icon",
+          "outline",
+          "outline stroke",
+          "sales funnel",
+          "funnel-outline"
+        ],
+        "uk": [
+          "воронка",
+          "контур",
+          "маркетингова воронка",
+          "обведення",
+          "оутліне",
+          "фуннел"
+        ]
+      }
+    }
+  },
+  "github-logo-outline": {
+    "mediaKey": "d3055df2-c037-49e5-bb3c-23109443c5d4",
+    "i18n": {
+      "name": {
+        "en": "Github logo outline",
+        "uk": "Логотип GitHub"
+      },
+      "alt": {
+        "en": "Github logo outline",
+        "uk": "Логотип GitHub"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "brand",
+          "code hosting",
+          "github",
+          "github icon",
+          "github repo",
+          "identity",
+          "logo",
+          "logo mark",
+          "octocat",
+          "outline",
+          "outline stroke",
+          "github-logo-outline"
+        ],
+        "uk": [
+          "бренд",
+          "ґітуб",
+          "емблема",
+          "контур",
+          "лого",
+          "логотип",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "gitlab-logo-outline": {
+    "mediaKey": "09382864-94df-480d-8947-dd74bda49dd4",
+    "i18n": {
+      "name": {
+        "en": "Gitlab logo outline",
+        "uk": "Логотип GitLab"
+      },
+      "alt": {
+        "en": "Gitlab logo outline",
+        "uk": "Логотип GitLab"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "brand",
+          "devops platform",
+          "gitlab",
+          "gitlab ci",
+          "gitlab logo",
+          "gitlab repo",
+          "identity",
+          "logo",
+          "logo mark",
+          "outline",
+          "outline stroke",
+          "gitlab-logo-outline"
+        ],
+        "uk": [
+          "бренд",
+          "ґітлаб",
+          "емблема",
+          "контур",
+          "лого",
+          "логотип",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "grid-outline": {
+    "mediaKey": "696db5cf-9a4c-485f-af47-c88a29dfe2a8",
+    "i18n": {
+      "name": {
+        "en": "Grid outline",
+        "uk": "Сітка"
+      },
+      "alt": {
+        "en": "Grid outline",
+        "uk": "Сітка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "grid",
+          "grid icon",
+          "grid layout",
+          "outline",
+          "outline stroke",
+          "grid-outline"
+        ],
+        "uk": [
+          "ґрід",
+          "контур",
+          "обведення",
+          "оутліне",
+          "решітка",
+          "сітка",
+          "сітка 3х3"
+        ]
+      }
+    }
+  },
+  "hashtag-outline": {
+    "mediaKey": "9cefaf1e-0f43-45b9-904e-f652a1506e63",
+    "i18n": {
+      "name": {
+        "en": "Hashtag outline",
+        "uk": "Хештег"
+      },
+      "alt": {
+        "en": "Hashtag outline",
+        "uk": "Хештег"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "hashtag",
+          "outline",
+          "outline stroke",
+          "tag",
+          "hashtag-outline"
+        ],
+        "uk": [
+          "контур",
+          "обведення",
+          "оутліне",
+          "решітка",
+          "тег",
+          "хештег"
+        ]
+      }
+    }
+  },
+  "heading1-outline": {
+    "mediaKey": "f47aab8a-cde9-4680-a9c2-c77e5b3ecd18",
+    "i18n": {
+      "name": {
+        "en": "Heading1 outline",
+        "uk": "Заголовок 1"
+      },
+      "alt": {
+        "en": "Heading1 outline",
+        "uk": "Заголовок 1"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "заголовок h1",
+          "тег h1",
+          "h1 text",
+          "heading level 1",
+          "heading1",
+          "headline 1",
+          "outline",
+          "outline stroke",
+          "page title",
+          "heading1-outline"
+        ],
+        "uk": [
+          "головний заголовок",
+          "заголовок 1",
+          "заголовок h1",
+          "контур",
+          "обведення",
+          "оутліне",
+          "тег h1"
+        ]
+      }
+    }
+  },
+  "heading2-outline": {
+    "mediaKey": "f9fa8b15-58db-4ed2-9874-8a7e2e12d3dc",
+    "i18n": {
+      "name": {
+        "en": "Heading2 outline",
+        "uk": "Заголовок 2"
+      },
+      "alt": {
+        "en": "Heading2 outline",
+        "uk": "Заголовок 2"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "заголовок h2",
+          "h2 тег",
+          "h2 text",
+          "heading level 2",
+          "heading2",
+          "outline",
+          "outline stroke",
+          "section title",
+          "subheading",
+          "heading2-outline"
+        ],
+        "uk": [
+          "заголовок 2",
+          "заголовок h2",
+          "контур",
+          "обведення",
+          "оутліне",
+          "секційний заголовок",
+          "h2 тег"
+        ]
+      }
+    }
+  },
+  "heading3-outline": {
+    "mediaKey": "a6440393-234b-4dad-b401-8d728519ca83",
+    "i18n": {
+      "name": {
+        "en": "Heading3 outline",
+        "uk": "Заголовок 3"
+      },
+      "alt": {
+        "en": "Heading3 outline",
+        "uk": "Заголовок 3"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "заголовок h3",
+          "h3 тег",
+          "h3 text",
+          "heading level 3",
+          "heading3",
+          "outline",
+          "outline stroke",
+          "subsection title",
+          "tert heading",
+          "heading3-outline"
+        ],
+        "uk": [
+          "заголовок 3",
+          "заголовок h3",
+          "контур",
+          "обведення",
+          "оутліне",
+          "підпідзаголовок",
+          "h3 тег"
+        ]
+      }
+    }
+  },
+  "headphone-outline": {
+    "mediaKey": "c11f0402-31ce-4ce6-b472-619c3e3a7b12",
+    "i18n": {
+      "name": {
+        "en": "Headphone outline",
+        "uk": "Навушники"
+      },
+      "alt": {
+        "en": "Headphone outline",
+        "uk": "Навушники"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "audio headset",
+          "headphone",
+          "headphone icon",
+          "headphones",
+          "music headset",
+          "outline",
+          "outline stroke",
+          "headphone-outline"
+        ],
+        "uk": [
+          "аудіо навушники",
+          "гарнітура",
+          "контур",
+          "навушники",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "headset-outline": {
+    "mediaKey": "564bf7dc-9719-4a6f-91c8-afcf2dec9f83",
+    "i18n": {
+      "name": {
+        "en": "Headset outline",
+        "uk": "Гарнітура"
+      },
+      "alt": {
+        "en": "Headset outline",
+        "uk": "Гарнітура"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "call center headset",
+          "gaming headset",
+          "headset",
+          "headset icon",
+          "outline",
+          "outline stroke",
+          "vr headset",
+          "headset-outline"
+        ],
+        "uk": [
+          "гарнітура",
+          "контур",
+          "навушники",
+          "обведення",
+          "оутліне",
+          "хеадсет"
+        ]
+      }
+    }
+  },
+  "heart-rate-outline": {
+    "mediaKey": "75ddfe4f-5592-45b6-a3a5-d3fc942e00f2",
+    "i18n": {
+      "name": {
+        "en": "Heart rate outline",
+        "uk": "Пульс"
+      },
+      "alt": {
+        "en": "Heart rate outline",
+        "uk": "Пульс"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "❤️",
+          "heart",
+          "heart icon",
+          "love",
+          "outline",
+          "outline stroke",
+          "rate",
+          "rate value",
+          "heart-rate-outline"
+        ],
+        "uk": [
+          "❤️",
+          "контур",
+          "кохання",
+          "обведення",
+          "оутліне",
+          "оцінити",
+          "рате",
+          "серце",
+          "ставка",
+          "хеарт",
+          "швидкість"
+        ]
+      }
+    }
+  },
+  "help-outline": {
+    "mediaKey": "55192234-7ea7-4a0d-844d-ef01e2452629",
+    "i18n": {
+      "name": {
+        "en": "Help outline",
+        "uk": "Допомога"
+      },
+      "alt": {
+        "en": "Help outline",
+        "uk": "Допомога"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "aid",
+          "help",
+          "help icon",
+          "outline",
+          "outline stroke",
+          "support",
+          "help-outline"
+        ],
+        "uk": [
+          "допомога",
+          "допомогти",
+          "контур",
+          "обведення",
+          "оутліне",
+          "хелп"
+        ]
+      }
+    }
+  },
+  "history-outline": {
+    "mediaKey": "56a0e27f-fbe3-4637-801a-4bbf390645e5",
+    "i18n": {
+      "name": {
+        "en": "History outline",
+        "uk": "Історія"
+      },
+      "alt": {
+        "en": "History outline",
+        "uk": "Історія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "history",
+          "outline",
+          "outline stroke",
+          "past",
+          "story",
+          "timeline",
+          "history-outline"
+        ],
+        "uk": [
+          "історії",
+          "історія",
+          "контур",
+          "обведення",
+          "оутліне",
+          "хісторй"
+        ]
+      }
+    }
+  },
+  "home-outline": {
+    "mediaKey": "7787acf1-51af-4a54-9936-b77651774a12",
+    "i18n": {
+      "name": {
+        "en": "Home outline",
+        "uk": "Будинок"
+      },
+      "alt": {
+        "en": "Home outline",
+        "uk": "Будинок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🏠",
+          "home",
+          "homepage",
+          "house icon",
+          "outline",
+          "outline stroke",
+          "home-outline"
+        ],
+        "uk": [
+          "🏠",
+          "дім",
+          "додому",
+          "контур",
+          "обведення",
+          "оутліне",
+          "хоме"
+        ]
+      }
+    }
+  },
+  "image-outline": {
+    "mediaKey": "001a5651-19c7-4b4c-97ce-6bbd0a1d03fb",
+    "i18n": {
+      "name": {
+        "en": "Image outline",
+        "uk": "Зображення"
+      },
+      "alt": {
+        "en": "Image outline",
+        "uk": "Зображення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "graphic",
+          "image",
+          "image file",
+          "outline",
+          "outline stroke",
+          "picture",
+          "image-outline"
+        ],
+        "uk": [
+          "зображення",
+          "імаґе",
+          "контур",
+          "обведення",
+          "оутліне",
+          "фото"
+        ]
+      }
+    }
+  },
+  "info-outline": {
+    "mediaKey": "aa0d5258-3657-4980-b373-5c98d478db99",
+    "i18n": {
+      "name": {
+        "en": "Info outline",
+        "uk": "Інформація"
+      },
+      "alt": {
+        "en": "Info outline",
+        "uk": "Інформація"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "details",
+          "ℹ️",
+          "info",
+          "info icon",
+          "information",
+          "outline",
+          "outline stroke",
+          "info-outline"
+        ],
+        "uk": [
+          "інфо",
+          "інформація",
+          "контур",
+          "обведення",
+          "оутліне",
+          "ℹ️"
+        ]
+      }
+    }
+  },
+  "key-outline": {
+    "mediaKey": "34310a7f-a7ae-48cb-aeb3-5484e3c572d4",
+    "i18n": {
+      "name": {
+        "en": "Key outline",
+        "uk": "Ключ"
+      },
+      "alt": {
+        "en": "Key outline",
+        "uk": "Ключ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🔑",
+          "key",
+          "key symbol",
+          "outline",
+          "outline stroke",
+          "unlock",
+          "key-outline"
+        ],
+        "uk": [
+          "🔑",
+          "кей",
+          "ключ",
+          "ключ іконка",
+          "контур",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "lamp-on-outline": {
+    "mediaKey": "281833ec-a54d-41aa-a621-a019aff4c83e",
+    "i18n": {
+      "name": {
+        "en": "Lamp on outline",
+        "uk": "Лампа увімкнена"
+      },
+      "alt": {
+        "en": "Lamp on outline",
+        "uk": "Лампа увімкнена"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bulb",
+          "desk lamp",
+          "lamp",
+          "lamp icon",
+          "light",
+          "on",
+          "on state",
+          "outline",
+          "outline stroke",
+          "power on",
+          "lamp-on-outline"
+        ],
+        "uk": [
+          "контур",
+          "ламп",
+          "лампа",
+          "на",
+          "настільна лампа",
+          "обведення",
+          "он",
+          "оутліне",
+          "світильник",
+          "увімкнено"
+        ]
+      }
+    }
+  },
+  "lamp-outline": {
+    "mediaKey": "dda183a5-c822-4d51-b6e2-81063ee37b03",
+    "i18n": {
+      "name": {
+        "en": "Lamp outline",
+        "uk": "Лампа"
+      },
+      "alt": {
+        "en": "Lamp outline",
+        "uk": "Лампа"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bulb",
+          "desk lamp",
+          "lamp",
+          "lamp icon",
+          "light",
+          "outline",
+          "outline stroke",
+          "lamp-outline"
+        ],
+        "uk": [
+          "контур",
+          "ламп",
+          "лампа",
+          "настільна лампа",
+          "обведення",
+          "оутліне",
+          "світильник"
+        ]
+      }
+    }
+  },
+  "layers-outline": {
+    "mediaKey": "1e7173e4-f3ae-4e3d-8f00-9928e02d1f27",
+    "i18n": {
+      "name": {
+        "en": "Layers outline",
+        "uk": "Шари"
+      },
+      "alt": {
+        "en": "Layers outline",
+        "uk": "Шари"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "layer icon",
+          "layer stack",
+          "layers",
+          "outline",
+          "outline stroke",
+          "overlay",
+          "photoshop layers",
+          "layers-outline"
+        ],
+        "uk": [
+          "контур",
+          "лаєрс",
+          "обведення",
+          "оутліне",
+          "рівні",
+          "шари",
+          "шаровість"
+        ]
+      }
+    }
+  },
+  "lifebuoy-outline": {
+    "mediaKey": "83925b1d-e8d6-4542-a36f-2d84c7131ca9",
+    "i18n": {
+      "name": {
+        "en": "Lifebuoy outline",
+        "uk": "Рятувальний круг"
+      },
+      "alt": {
+        "en": "Lifebuoy outline",
+        "uk": "Рятувальний круг"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "life ring",
+          "life saver",
+          "lifebuoy",
+          "lifebuoy icon",
+          "outline",
+          "outline stroke",
+          "safety ring",
+          "lifebuoy-outline"
+        ],
+        "uk": [
+          "коло для порятунку",
+          "контур",
+          "ліфебуой",
+          "обведення",
+          "оутліне",
+          "рятівний буй",
+          "рятувальний круг"
+        ]
+      }
+    }
+  },
+  "link-outline": {
+    "mediaKey": "35b66964-1253-4bb7-a7fd-a986306478f2",
+    "i18n": {
+      "name": {
+        "en": "Link outline",
+        "uk": "Посилання"
+      },
+      "alt": {
+        "en": "Link outline",
+        "uk": "Посилання"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "chain",
+          "hyperlink",
+          "link",
+          "link icon",
+          "outline",
+          "outline stroke",
+          "url",
+          "url-адреса",
+          "link-outline"
+        ],
+        "uk": [
+          "гіперпосилання",
+          "зв'язок",
+          "контур",
+          "лінк",
+          "обведення",
+          "оутліне",
+          "посилання",
+          "url-адреса"
+        ]
+      }
+    }
+  },
+  "list-outline": {
+    "mediaKey": "97baa3e3-6fbe-4dcf-8f03-f4031fcf31ef",
+    "i18n": {
+      "name": {
+        "en": "List outline",
+        "uk": "Список"
+      },
+      "alt": {
+        "en": "List outline",
+        "uk": "Список"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bulleted list",
+          "enumeration",
+          "list",
+          "listing",
+          "outline",
+          "outline stroke",
+          "todo list",
+          "list-outline"
+        ],
+        "uk": [
+          "каталог",
+          "контур",
+          "ліст",
+          "обведення",
+          "оутліне",
+          "перелік",
+          "список"
+        ]
+      }
+    }
+  },
+  "loading-left-outline": {
+    "mediaKey": "3e8f214a-34e9-4204-9f55-0e8b06e898f9",
+    "i18n": {
+      "name": {
+        "en": "Loading left outline",
+        "uk": "Завантаження (вліворуч)"
+      },
+      "alt": {
+        "en": "Loading left outline",
+        "uk": "Завантаження (вліворуч)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "←",
+          "arrow left",
+          "buffering",
+          "left",
+          "left arrow",
+          "loading",
+          "loading screen",
+          "outline",
+          "outline stroke",
+          "west",
+          "loading-left-outline"
+        ],
+        "uk": [
+          "←",
+          "екран загрузки",
+          "завантаження",
+          "загрузка триває",
+          "зліва",
+          "контур",
+          "лефт",
+          "ліва сторона",
+          "лівий бік",
+          "лівий напрямок",
+          "лоадінґ",
+          "обведення",
+          "оутліне",
+          "процес завантаження",
+          "стан завантаження"
+        ]
+      }
+    }
+  },
+  "loading-right-outline": {
+    "mediaKey": "47192d42-05ed-43c5-84eb-09e4742b5de6",
+    "i18n": {
+      "name": {
+        "en": "Loading right outline",
+        "uk": "Завантаження (вправоруч)"
+      },
+      "alt": {
+        "en": "Loading right outline",
+        "uk": "Завантаження (вправоруч)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "buffering",
+          "correct",
+          "loading",
+          "loading screen",
+          "outline",
+          "outline stroke",
+          "right",
+          "right arrow",
+          "loading-right-outline"
+        ],
+        "uk": [
+          "екран загрузки",
+          "завантаження",
+          "загрузка триває",
+          "контур",
+          "лоадінґ",
+          "обведення",
+          "оутліне",
+          "правильно",
+          "праворуч",
+          "процес завантаження",
+          "ріґхт",
+          "стан завантаження"
+        ]
+      }
+    }
+  },
+  "lock-outline": {
+    "mediaKey": "0393dd02-e7f6-47a3-9970-7c11b21ced28",
+    "i18n": {
+      "name": {
+        "en": "Lock outline",
+        "uk": "Замок"
+      },
+      "alt": {
+        "en": "Lock outline",
+        "uk": "Замок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "lock",
+          "outline",
+          "outline stroke",
+          "security",
+          "lock-outline"
+        ],
+        "uk": [
+          "блокування",
+          "заблоковано",
+          "закритий доступ",
+          "замикання",
+          "замкнути",
+          "замок",
+          "замок безпеки",
+          "контур",
+          "локк",
+          "обведення",
+          "оутліне",
+          "падлок"
+        ]
+      }
+    }
+  },
+  "login-outline": {
+    "mediaKey": "517a5370-8946-4d37-8f39-270c876447c1",
+    "i18n": {
+      "name": {
+        "en": "Login outline",
+        "uk": "Логін"
+      },
+      "alt": {
+        "en": "Login outline",
+        "uk": "Логін"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "login",
+          "outline",
+          "outline stroke",
+          "sign in",
+          "login-outline"
+        ],
+        "uk": [
+          "авторизація",
+          "вхід",
+          "вхід до системи",
+          "вхід у профіль",
+          "контур",
+          "логін",
+          "логін користувача",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "logout-outline": {
+    "mediaKey": "4cf7caa0-129a-4bdb-9f37-77e3076f1115",
+    "i18n": {
+      "name": {
+        "en": "Logout outline",
+        "uk": "Вихід"
+      },
+      "alt": {
+        "en": "Logout outline",
+        "uk": "Вихід"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "logout",
+          "logout кнопка",
+          "outline",
+          "outline stroke",
+          "sign out",
+          "logout-outline"
+        ],
+        "uk": [
+          "вийти з акаунта",
+          "вийти з системи",
+          "вихід з облікового запису",
+          "вихід із акаунта",
+          "завершення сеансу",
+          "контур",
+          "обведення",
+          "оутліне",
+          "logout кнопка"
+        ]
+      }
+    }
+  },
+  "long-text-outline": {
+    "mediaKey": "070faf56-1c67-44ed-8a0b-b743a67c6e5c",
+    "i18n": {
+      "name": {
+        "en": "Long text outline",
+        "uk": "Довгий текст"
+      },
+      "alt": {
+        "en": "Long text outline",
+        "uk": "Довгий текст"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "content",
+          "copy",
+          "long",
+          "long змінна",
+          "long datatype",
+          "long integer",
+          "long number",
+          "long value",
+          "outline",
+          "outline stroke",
+          "text",
+          "long-text-outline"
+        ],
+        "uk": [
+          "64-бітове значення",
+          "абзац",
+          "довгий",
+          "довгий тип",
+          "контур",
+          "копірайт",
+          "обведення",
+          "оутліне",
+          "повідомлення",
+          "текст",
+          "long змінна"
+        ]
+      }
+    }
+  },
+  "loop-outline": {
+    "mediaKey": "86061b8c-0a7b-4a3e-9ce2-50b9843151ca",
+    "i18n": {
+      "name": {
+        "en": "Loop outline",
+        "uk": "Петля"
+      },
+      "alt": {
+        "en": "Loop outline",
+        "uk": "Петля"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "loop",
+          "looping",
+          "outline",
+          "outline stroke",
+          "repeat",
+          "loop-outline"
+        ],
+        "uk": [
+          "зациклити",
+          "контур",
+          "лооп",
+          "обведення",
+          "оутліне",
+          "петля",
+          "повторення",
+          "повторюваність",
+          "цикл",
+          "циклічний рух"
+        ]
+      }
+    }
+  },
+  "mail-outline": {
+    "mediaKey": "6542b6b8-3076-42c5-ab31-dd88a6928ed8",
+    "i18n": {
+      "name": {
+        "en": "Mail outline",
+        "uk": "Пошта"
+      },
+      "alt": {
+        "en": "Mail outline",
+        "uk": "Пошта"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "mail",
+          "mail icon",
+          "outline",
+          "outline stroke",
+          "mail-outline"
+        ],
+        "uk": [
+          "електронна пошта",
+          "емейл",
+          "конверт",
+          "контур",
+          "лист",
+          "маіл",
+          "обведення",
+          "оутліне",
+          "пошта"
+        ]
+      }
+    }
+  },
+  "map-outline": {
+    "mediaKey": "34783f93-f4ce-487c-9980-d37ed3c7edb5",
+    "i18n": {
+      "name": {
+        "en": "Map outline",
+        "uk": "Карта"
+      },
+      "alt": {
+        "en": "Map outline",
+        "uk": "Карта"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "map",
+          "map pin",
+          "outline",
+          "outline stroke",
+          "map-outline"
+        ],
+        "uk": [
+          "карта",
+          "карта місцевості",
+          "контур",
+          "мап",
+          "мапа",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "map-pin-outline": {
+    "mediaKey": "9edf4f27-1838-4f18-a10d-8fac80b13cf6",
+    "i18n": {
+      "name": {
+        "en": "Map pin outline",
+        "uk": "Мітка на карті"
+      },
+      "alt": {
+        "en": "Map pin outline",
+        "uk": "Мітка на карті"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "map",
+          "map pin",
+          "outline",
+          "outline stroke",
+          "pin",
+          "pin icon",
+          "map-pin-outline"
+        ],
+        "uk": [
+          "закріпити",
+          "карта",
+          "карта місцевості",
+          "контур",
+          "мап",
+          "мапа",
+          "обведення",
+          "оутліне",
+          "пін",
+          "шпилька"
+        ]
+      }
+    }
+  },
+  "maximize-outline": {
+    "mediaKey": "800774eb-3c55-4dd7-a1b5-4f462c249af6",
+    "i18n": {
+      "name": {
+        "en": "Maximize outline",
+        "uk": "Розгорнути"
+      },
+      "alt": {
+        "en": "Maximize outline",
+        "uk": "Розгорнути"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "maximize",
+          "maximize window",
+          "outline",
+          "outline stroke",
+          "maximize-outline"
+        ],
+        "uk": [
+          "збільшити до максимуму",
+          "контур",
+          "максимізувати",
+          "максімізе",
+          "на повний екран",
+          "обведення",
+          "оутліне",
+          "розгорнути"
+        ]
+      }
+    }
+  },
+  "medicine-outline": {
+    "mediaKey": "1fd858ce-c6eb-408f-b0b4-62551b67a134",
+    "i18n": {
+      "name": {
+        "en": "Medicine outline",
+        "uk": "Медицина"
+      },
+      "alt": {
+        "en": "Medicine outline",
+        "uk": "Медицина"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "medical care",
+          "medicine",
+          "outline",
+          "outline stroke",
+          "pharmacy",
+          "medicine-outline"
+        ],
+        "uk": [
+          "контур",
+          "ліки",
+          "медицина",
+          "медікіне",
+          "обведення",
+          "оутліне",
+          "пігулки"
+        ]
+      }
+    }
+  },
+  "menu-outline": {
+    "mediaKey": "c3cb9ccd-e68d-4151-8bb6-cbc24d20ab8f",
+    "i18n": {
+      "name": {
+        "en": "Menu outline",
+        "uk": "Меню"
+      },
+      "alt": {
+        "en": "Menu outline",
+        "uk": "Меню"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "dropdown menu",
+          "menu",
+          "outline",
+          "outline stroke",
+          "menu-outline"
+        ],
+        "uk": [
+          "контур",
+          "мену",
+          "меню",
+          "менюшка",
+          "навігаційне меню",
+          "обведення",
+          "оутліне",
+          "список страв"
+        ]
+      }
+    }
+  },
+  "minimize-outline": {
+    "mediaKey": "b9d859ea-a235-4550-b7bd-51264d4e9500",
+    "i18n": {
+      "name": {
+        "en": "Minimize outline",
+        "uk": "Згорнути"
+      },
+      "alt": {
+        "en": "Minimize outline",
+        "uk": "Згорнути"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "minimize",
+          "minimize window",
+          "outline",
+          "outline stroke",
+          "minimize-outline"
+        ],
+        "uk": [
+          "згорнути",
+          "зменшити до іконки",
+          "контур",
+          "мінімізе",
+          "мінімізувати",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "minus-circle-outline": {
+    "mediaKey": "2dcceb5c-3451-465d-a7c4-787f734e2cbb",
+    "i18n": {
+      "name": {
+        "en": "Minus circle outline",
+        "uk": "Мінус у колі"
+      },
+      "alt": {
+        "en": "Minus circle outline",
+        "uk": "Мінус у колі"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "circle",
+          "circle shape",
+          "minus",
+          "negative",
+          "outline",
+          "outline stroke",
+          "round",
+          "subtract",
+          "minus-circle-outline"
+        ],
+        "uk": [
+          "відняти",
+          "знак мінус",
+          "кіркле",
+          "коло",
+          "контур",
+          "мінус",
+          "обведення",
+          "окружність",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "minus-outline": {
+    "mediaKey": "ef6ca4b7-afbf-4e3c-95f2-5d6710944033",
+    "i18n": {
+      "name": {
+        "en": "Minus outline",
+        "uk": "Мінус"
+      },
+      "alt": {
+        "en": "Minus outline",
+        "uk": "Мінус"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "minus",
+          "negative",
+          "outline",
+          "outline stroke",
+          "subtract",
+          "minus-outline"
+        ],
+        "uk": [
+          "відняти",
+          "знак мінус",
+          "контур",
+          "мінус",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "monitor-outline": {
+    "mediaKey": "d6391740-d9a8-46b0-88c6-a388cf9d57be",
+    "i18n": {
+      "name": {
+        "en": "Monitor outline",
+        "uk": "Монітор"
+      },
+      "alt": {
+        "en": "Monitor outline",
+        "uk": "Монітор"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "display screen",
+          "monitor",
+          "monitor icon",
+          "outline",
+          "outline stroke",
+          "monitor-outline"
+        ],
+        "uk": [
+          "екран комп'ютера",
+          "контур",
+          "монітор",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "moon-outline": {
+    "mediaKey": "81d2d86a-2cd7-4af2-b1ed-f4cbf9a4fa03",
+    "i18n": {
+      "name": {
+        "en": "Moon outline",
+        "uk": "Місяць"
+      },
+      "alt": {
+        "en": "Moon outline",
+        "uk": "Місяць"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🌙",
+          "moon",
+          "outline",
+          "outline stroke",
+          "moon-outline"
+        ],
+        "uk": [
+          "🌙",
+          "контур",
+          "луна",
+          "місяць",
+          "моон",
+          "обведення",
+          "оутліне",
+          "супутник Землі"
+        ]
+      }
+    }
+  },
+  "more-horizontal-outline": {
+    "mediaKey": "1058b19a-7ae8-4129-9c1e-b368b144503a",
+    "i18n": {
+      "name": {
+        "en": "More horizontal outline",
+        "uk": "Більше горизонтально"
+      },
+      "alt": {
+        "en": "More horizontal outline",
+        "uk": "Більше горизонтально"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "details",
+          "ellipsis",
+          "expand",
+          "horizontal",
+          "horizontal line",
+          "landscape",
+          "left-right",
+          "more",
+          "more options",
+          "outline",
+          "outline stroke",
+          "more-horizontal-outline"
+        ],
+        "uk": [
+          "більше",
+          "горизонталь",
+          "горизонтальний",
+          "додатково",
+          "контур",
+          "обведення",
+          "оутліне",
+          "хорізонтал",
+          "ще"
+        ]
+      }
+    }
+  },
+  "more-vertical-outline": {
+    "mediaKey": "619da227-dbaf-4538-b9a2-82cb90b2be4b",
+    "i18n": {
+      "name": {
+        "en": "More vertical outline",
+        "uk": "Більше вертикально"
+      },
+      "alt": {
+        "en": "More vertical outline",
+        "uk": "Більше вертикально"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "details",
+          "ellipsis",
+          "expand",
+          "more",
+          "more options",
+          "outline",
+          "outline stroke",
+          "portrait",
+          "upright",
+          "vertical",
+          "more-vertical-outline"
+        ],
+        "uk": [
+          "більше",
+          "вертикаль",
+          "вертикальний",
+          "додатково",
+          "контур",
+          "обведення",
+          "оутліне",
+          "портрет",
+          "стовпчик",
+          "ще"
+        ]
+      }
+    }
+  },
+  "mouse-outline": {
+    "mediaKey": "bec470ec-0551-4d73-a615-20037cda2d63",
+    "i18n": {
+      "name": {
+        "en": "Mouse outline",
+        "uk": "Миша"
+      },
+      "alt": {
+        "en": "Mouse outline",
+        "uk": "Миша"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "mouse",
+          "mouse device",
+          "outline",
+          "outline stroke",
+          "mouse-outline"
+        ],
+        "uk": [
+          "комп'ютерна миша",
+          "контур",
+          "курсор",
+          "миша",
+          "моусе",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "move-outline": {
+    "mediaKey": "98d16061-14d9-4896-a1f6-1f79f74d8143",
+    "i18n": {
+      "name": {
+        "en": "Move outline",
+        "uk": "Переміщення"
+      },
+      "alt": {
+        "en": "Move outline",
+        "uk": "Переміщення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "drag",
+          "move",
+          "move tool",
+          "outline",
+          "outline stroke",
+          "move-outline"
+        ],
+        "uk": [
+          "контур",
+          "мове",
+          "обведення",
+          "оутліне",
+          "перемістити",
+          "пересування",
+          "рухатися"
+        ]
+      }
+    }
+  },
+  "notification-bell-outline": {
+    "mediaKey": "eea07c0d-3066-4bfc-a953-5c535a56d9ab",
+    "i18n": {
+      "name": {
+        "en": "Notification bell outline",
+        "uk": "Дзвінок сповіщень"
+      },
+      "alt": {
+        "en": "Notification bell outline",
+        "uk": "Дзвінок сповіщень"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🔔",
+          "alarm bell",
+          "bell",
+          "notif bell",
+          "notification",
+          "notification bell",
+          "outline",
+          "outline stroke",
+          "push notification",
+          "notification-bell-outline"
+        ],
+        "uk": [
+          "🔔",
+          "белл",
+          "дзвінок",
+          "дзвіночок",
+          "дзвоник",
+          "контур",
+          "нотіфікатіон",
+          "обведення",
+          "оутліне",
+          "повідомлення",
+          "сповіщення"
+        ]
+      }
+    }
+  },
+  "notification-bell-timer-outline": {
+    "mediaKey": "d9f5a4b5-79b7-4f8d-a6f2-9dbd682d8a7c",
+    "i18n": {
+      "name": {
+        "en": "Notification bell timer outline",
+        "uk": "Дзвінок сповіщень (таймер)"
+      },
+      "alt": {
+        "en": "Notification bell timer outline",
+        "uk": "Дзвінок сповіщень (таймер)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🔔",
+          "alarm bell",
+          "bell",
+          "chronometer",
+          "clock",
+          "countdown",
+          "notif bell",
+          "notification",
+          "notification bell",
+          "outline",
+          "outline stroke",
+          "push notification",
+          "time",
+          "timer",
+          "notification-bell-timer-outline"
+        ],
+        "uk": [
+          "🔔",
+          "белл",
+          "відлік",
+          "дзвінок",
+          "дзвіночок",
+          "дзвоник",
+          "контур",
+          "нотіфікатіон",
+          "обведення",
+          "оутліне",
+          "повідомлення",
+          "секундомір",
+          "сповіщення",
+          "таймер"
+        ]
+      }
+    }
+  },
+  "number-outline": {
+    "mediaKey": "5900da72-40d0-43f9-a611-cb8eb9620c0a",
+    "i18n": {
+      "name": {
+        "en": "Number outline",
+        "uk": "Число"
+      },
+      "alt": {
+        "en": "Number outline",
+        "uk": "Число"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "digit",
+          "number",
+          "outline",
+          "outline stroke",
+          "number-outline"
+        ],
+        "uk": [
+          "контур",
+          "номер",
+          "номерок",
+          "нумбер",
+          "обведення",
+          "оутліне",
+          "цифра",
+          "число"
+        ]
+      }
+    }
+  },
+  "open-book-outline": {
+    "mediaKey": "4cf36dfc-bb53-4b3d-9e75-8eac66190acc",
+    "i18n": {
+      "name": {
+        "en": "Open book outline",
+        "uk": "Відкрита книга"
+      },
+      "alt": {
+        "en": "Open book outline",
+        "uk": "Відкрита книга"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "📚",
+          "book",
+          "book icon",
+          "hardcover",
+          "open",
+          "open icon",
+          "open state",
+          "outline",
+          "outline stroke",
+          "open-book-outline"
+        ],
+        "uk": [
+          "📚",
+          "боок",
+          "відкрити",
+          "відкритий",
+          "книга",
+          "контур",
+          "обведення",
+          "опен",
+          "оутліне",
+          "читати"
+        ]
+      }
+    }
+  },
+  "open-in-new-tab-outline": {
+    "mediaKey": "e2892686-5610-49ac-a72e-6e5481ce762e",
+    "i18n": {
+      "name": {
+        "en": "Open in new tab outline",
+        "uk": "Відкрити у новій вкладці"
+      },
+      "alt": {
+        "en": "Open in new tab outline",
+        "uk": "Відкрити у новій вкладці"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "browser tab",
+          "fresh",
+          "in",
+          "in icon",
+          "input",
+          "inside",
+          "new",
+          "new badge",
+          "open",
+          "open icon",
+          "open state",
+          "outline",
+          "outline stroke",
+          "tab",
+          "tab key",
+          "open-in-new-tab-outline"
+        ],
+        "uk": [
+          "в",
+          "відкрити",
+          "відкритий",
+          "вкладка",
+          "всередині",
+          "ін",
+          "контур",
+          "нев",
+          "новий",
+          "новинка",
+          "обведення",
+          "опен",
+          "оутліне",
+          "табуляція"
+        ]
+      }
+    }
+  },
+  "package-outline": {
+    "mediaKey": "f5a3733d-faaf-488b-883e-536bd612eb5f",
+    "i18n": {
+      "name": {
+        "en": "Package outline",
+        "uk": "Пакет"
+      },
+      "alt": {
+        "en": "Package outline",
+        "uk": "Пакет"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bundle",
+          "outline",
+          "outline stroke",
+          "package",
+          "package icon",
+          "package-outline"
+        ],
+        "uk": [
+          "контур",
+          "обведення",
+          "оутліне",
+          "пакет",
+          "паккаґе",
+          "пакунок"
+        ]
+      }
+    }
+  },
+  "paragraph-outline": {
+    "mediaKey": "df76db17-85fe-4940-b77d-9eae2b596dec",
+    "i18n": {
+      "name": {
+        "en": "Paragraph outline",
+        "uk": "Абзац"
+      },
+      "alt": {
+        "en": "Paragraph outline",
+        "uk": "Абзац"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "copy",
+          "markup",
+          "outline",
+          "outline stroke",
+          "paragraph",
+          "section",
+          "text block",
+          "typography",
+          "paragraph-outline"
+        ],
+        "uk": [
+          "абзац",
+          "контур",
+          "обведення",
+          "оутліне",
+          "параграф"
+        ]
+      }
+    }
+  },
+  "pause-circle-outline": {
+    "mediaKey": "7b7e53f6-1d83-4c26-8975-264b805689bd",
+    "i18n": {
+      "name": {
+        "en": "Pause circle outline",
+        "uk": "Пауза в колі"
+      },
+      "alt": {
+        "en": "Pause circle outline",
+        "uk": "Пауза в колі"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⏸️",
+          "circle",
+          "circle shape",
+          "outline",
+          "outline stroke",
+          "pause",
+          "pause icon",
+          "round",
+          "pause-circle-outline"
+        ],
+        "uk": [
+          "⏸️",
+          "кіркле",
+          "коло",
+          "контур",
+          "обведення",
+          "окружність",
+          "оутліне",
+          "пауза",
+          "паусе",
+          "призупинити"
+        ]
+      }
+    }
+  },
+  "pause-outline": {
+    "mediaKey": "be4f67de-83e2-48f4-9579-b81f3eb83561",
+    "i18n": {
+      "name": {
+        "en": "Pause outline",
+        "uk": "Пауза"
+      },
+      "alt": {
+        "en": "Pause outline",
+        "uk": "Пауза"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⏸️",
+          "outline",
+          "outline stroke",
+          "pause",
+          "pause icon",
+          "pause-outline"
+        ],
+        "uk": [
+          "⏸️",
+          "контур",
+          "обведення",
+          "оутліне",
+          "пауза",
+          "паусе",
+          "призупинити"
+        ]
+      }
+    }
+  },
+  "phone-outline": {
+    "mediaKey": "3f8c8435-4f6e-4e3b-bdb1-fc6a465ccb3d",
+    "i18n": {
+      "name": {
+        "en": "Phone outline",
+        "uk": "Телефон"
+      },
+      "alt": {
+        "en": "Phone outline",
+        "uk": "Телефон"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "handset",
+          "outline",
+          "outline stroke",
+          "phone",
+          "phone call",
+          "phone-outline"
+        ],
+        "uk": [
+          "контур",
+          "обведення",
+          "оутліне",
+          "телефон",
+          "фоне"
+        ]
+      }
+    }
+  },
+  "pie-chart-outline": {
+    "mediaKey": "12476e89-17b3-441a-a5cc-4027744ee896",
+    "i18n": {
+      "name": {
+        "en": "Pie chart outline",
+        "uk": "Кругова діаграма (контур)"
+      },
+      "alt": {
+        "en": "Pie chart outline",
+        "uk": "Кругова діаграма (контур)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "chart",
+          "chart icon",
+          "outline",
+          "outline stroke",
+          "pie",
+          "pie chart",
+          "slice",
+          "stats",
+          "pie-chart-outline"
+        ],
+        "uk": [
+          "графік",
+          "діаграма",
+          "контур",
+          "обведення",
+          "оутліне",
+          "пиріг",
+          "піе",
+          "чарт"
+        ]
+      }
+    }
+  },
+  "pin-fill": {
+    "mediaKey": "7ff22a57-36ce-4087-8dea-f72f181b3a56",
+    "i18n": {
+      "name": {
+        "en": "Pin fill",
+        "uk": "Мітка (заливка)"
+      },
+      "alt": {
+        "en": "Pin fill",
+        "uk": "Мітка (заливка)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "fill",
+          "fill in",
+          "pin",
+          "pin icon",
+          "pin-fill"
+        ],
+        "uk": [
+          "закріпити",
+          "заливка",
+          "залити",
+          "заповнити",
+          "пін",
+          "шпилька"
+        ]
+      }
+    }
+  },
+  "pin-outline": {
+    "mediaKey": "8715de5a-a839-4cab-b59d-83ee391de0a4",
+    "i18n": {
+      "name": {
+        "en": "Pin outline",
+        "uk": "Шпилька"
+      },
+      "alt": {
+        "en": "Pin outline",
+        "uk": "Шпилька"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "outline",
+          "outline stroke",
+          "pin",
+          "pin icon",
+          "pin-outline"
+        ],
+        "uk": [
+          "закріпити",
+          "контур",
+          "обведення",
+          "оутліне",
+          "пін",
+          "шпилька"
+        ]
+      }
+    }
+  },
+  "play-circle-outline": {
+    "mediaKey": "12eaf6be-a1c7-41dc-bae7-812731001dfc",
+    "i18n": {
+      "name": {
+        "en": "Play circle outline",
+        "uk": "Відтворення в колі"
+      },
+      "alt": {
+        "en": "Play circle outline",
+        "uk": "Відтворення в колі"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "▶️",
+          "circle",
+          "circle shape",
+          "outline",
+          "outline stroke",
+          "play",
+          "play button",
+          "round",
+          "play-circle-outline"
+        ],
+        "uk": [
+          "▶️",
+          "грати",
+          "кіркле",
+          "коло",
+          "контур",
+          "обведення",
+          "окружність",
+          "оутліне",
+          "плай"
+        ]
+      }
+    }
+  },
+  "play-outline": {
+    "mediaKey": "933bd587-29f4-4f8f-9d5f-043e729fc5c2",
+    "i18n": {
+      "name": {
+        "en": "Play outline",
+        "uk": "Грати"
+      },
+      "alt": {
+        "en": "Play outline",
+        "uk": "Грати"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "▶️",
+          "outline",
+          "outline stroke",
+          "play",
+          "play button",
+          "play-outline"
+        ],
+        "uk": [
+          "▶️",
+          "грати",
+          "контур",
+          "обведення",
+          "оутліне",
+          "плай"
+        ]
+      }
+    }
+  },
+  "plus-circle-outline": {
+    "mediaKey": "e290046a-3868-440c-a08d-54e587aab787",
+    "i18n": {
+      "name": {
+        "en": "Plus circle outline",
+        "uk": "Плюс у колі"
+      },
+      "alt": {
+        "en": "Plus circle outline",
+        "uk": "Плюс у колі"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "+",
+          "circle",
+          "circle shape",
+          "outline",
+          "outline stroke",
+          "plus",
+          "positive",
+          "round",
+          "plus-circle-outline"
+        ],
+        "uk": [
+          "+",
+          "додати",
+          "кіркле",
+          "коло",
+          "контур",
+          "обведення",
+          "окружність",
+          "оутліне",
+          "плус",
+          "плюс"
+        ]
+      }
+    }
+  },
+  "plus-outline": {
+    "mediaKey": "b40a95e0-958e-4300-9bc1-f79b786daa61",
+    "i18n": {
+      "name": {
+        "en": "Plus outline",
+        "uk": "Плюс"
+      },
+      "alt": {
+        "en": "Plus outline",
+        "uk": "Плюс"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "+",
+          "outline",
+          "outline stroke",
+          "plus",
+          "positive",
+          "plus-outline"
+        ],
+        "uk": [
+          "+",
+          "додати",
+          "контур",
+          "обведення",
+          "оутліне",
+          "плус",
+          "плюс"
+        ]
+      }
+    }
+  },
+  "power-outline": {
+    "mediaKey": "0a1f912f-8a40-4800-a460-2365355b911b",
+    "i18n": {
+      "name": {
+        "en": "Power outline",
+        "uk": "Потужність"
+      },
+      "alt": {
+        "en": "Power outline",
+        "uk": "Потужність"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "outline",
+          "outline stroke",
+          "power",
+          "power button",
+          "power-outline"
+        ],
+        "uk": [
+          "живлення",
+          "контур",
+          "обведення",
+          "оутліне",
+          "повер",
+          "потужність",
+          "сила"
+        ]
+      }
+    }
+  },
+  "printer-outline": {
+    "mediaKey": "566cd12e-c8f1-4cf0-9b1e-9f26bae6791d",
+    "i18n": {
+      "name": {
+        "en": "Printer outline",
+        "uk": "Принтер"
+      },
+      "alt": {
+        "en": "Printer outline",
+        "uk": "Принтер"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "office printer",
+          "outline",
+          "outline stroke",
+          "printer",
+          "printing",
+          "printer-outline"
+        ],
+        "uk": [
+          "контур",
+          "обведення",
+          "оутліне",
+          "принтер",
+          "прінтер"
+        ]
+      }
+    }
+  },
+  "radar-outline": {
+    "mediaKey": "3852cbfd-4181-4178-a25e-3520298b7f9a",
+    "i18n": {
+      "name": {
+        "en": "Radar outline",
+        "uk": "Радар"
+      },
+      "alt": {
+        "en": "Radar outline",
+        "uk": "Радар"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "outline",
+          "outline stroke",
+          "radar",
+          "radar screen",
+          "radar-outline"
+        ],
+        "uk": [
+          "контур",
+          "обведення",
+          "оутліне",
+          "радар",
+          "радіолокатор"
+        ]
+      }
+    }
+  },
+  "refresh-outline": {
+    "mediaKey": "9afeb735-510c-4f45-9ab2-1074712af785",
+    "i18n": {
+      "name": {
+        "en": "Refresh outline",
+        "uk": "Оновити"
+      },
+      "alt": {
+        "en": "Refresh outline",
+        "uk": "Оновити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "outline",
+          "outline stroke",
+          "refresh",
+          "refresh icon",
+          "reload",
+          "refresh-outline"
+        ],
+        "uk": [
+          "контур",
+          "обведення",
+          "оновити",
+          "оутліне",
+          "рефреш"
+        ]
+      }
+    }
+  },
+  "rendo-outline": {
+    "mediaKey": "081ee802-2952-45b2-8d58-64b6a9463bed",
+    "i18n": {
+      "name": {
+        "en": "Rendo outline",
+        "uk": "Rendo"
+      },
+      "alt": {
+        "en": "Rendo outline",
+        "uk": "Rendo"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "3d content rendo",
+          "цифрові моделі rendo",
+          "outline",
+          "outline stroke",
+          "rendo",
+          "rendo 3d",
+          "rendo assets",
+          "rendo marketplace",
+          "rendo store",
+          "rendo-outline"
+        ],
+        "uk": [
+          "контур",
+          "обведення",
+          "оутліне",
+          "цифрові моделі rendo"
+        ]
+      }
+    }
+  },
+  "reorder-outline": {
+    "mediaKey": "301a4e89-f847-4e0f-b6ae-b8e059a16474",
+    "i18n": {
+      "name": {
+        "en": "Reorder outline",
+        "uk": "Змінити порядок"
+      },
+      "alt": {
+        "en": "Reorder outline",
+        "uk": "Змінити порядок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "drag reorder",
+          "outline",
+          "outline stroke",
+          "reorder",
+          "sort order",
+          "reorder-outline"
+        ],
+        "uk": [
+          "змінити",
+          "змінити порядок",
+          "контур",
+          "обведення",
+          "оутліне",
+          "перевпорядкувати",
+          "порядок",
+          "реордер"
+        ]
+      }
+    }
+  },
+  "rotate-left-outline": {
+    "mediaKey": "e10f3c87-c9aa-4a5d-9fa4-12bc732dd74b",
+    "i18n": {
+      "name": {
+        "en": "Rotate left outline",
+        "uk": "Повернути ліворуч"
+      },
+      "alt": {
+        "en": "Rotate left outline",
+        "uk": "Повернути ліворуч"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "←",
+          "arrow left",
+          "left",
+          "left arrow",
+          "outline",
+          "outline stroke",
+          "rotate",
+          "rotate icon",
+          "spin",
+          "west",
+          "rotate-left-outline"
+        ],
+        "uk": [
+          "←",
+          "зліва",
+          "контур",
+          "лефт",
+          "ліва сторона",
+          "лівий бік",
+          "лівий напрямок",
+          "обведення",
+          "обернути",
+          "обертати",
+          "оутліне",
+          "ротате"
+        ]
+      }
+    }
+  },
+  "rotate-right-outline": {
+    "mediaKey": "1b887c43-fe00-4201-b888-fabafe1c181e",
+    "i18n": {
+      "name": {
+        "en": "Rotate right outline",
+        "uk": "Повернути праворуч"
+      },
+      "alt": {
+        "en": "Rotate right outline",
+        "uk": "Повернути праворуч"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "correct",
+          "outline",
+          "outline stroke",
+          "right",
+          "right arrow",
+          "rotate",
+          "rotate icon",
+          "spin",
+          "rotate-right-outline"
+        ],
+        "uk": [
+          "контур",
+          "обведення",
+          "обернути",
+          "обертати",
+          "оутліне",
+          "правильно",
+          "праворуч",
+          "ріґхт",
+          "ротате"
+        ]
+      }
+    }
+  },
+  "sample-container-outline": {
+    "mediaKey": "fd4fc9bd-974f-4b18-b71c-3457ede2bbec",
+    "i18n": {
+      "name": {
+        "en": "Sample container outline",
+        "uk": "Контейнер зразка"
+      },
+      "alt": {
+        "en": "Sample container outline",
+        "uk": "Контейнер зразка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "box",
+          "container",
+          "container ship",
+          "docker",
+          "outline",
+          "outline stroke",
+          "sample",
+          "sample data",
+          "sample icon",
+          "test sample",
+          "sample-container-outline"
+        ],
+        "uk": [
+          "демо",
+          "зразок",
+          "контаінер",
+          "контейнер",
+          "контур",
+          "обведення",
+          "оутліне",
+          "приклад",
+          "свотч"
+        ]
+      }
+    }
+  },
+  "scope-outline": {
+    "mediaKey": "0505e359-97c5-43c9-9ea3-e307b19c3881",
+    "i18n": {
+      "name": {
+        "en": "Scope outline",
+        "uk": "Приціл"
+      },
+      "alt": {
+        "en": "Scope outline",
+        "uk": "Приціл"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "outline",
+          "outline stroke",
+          "scope",
+          "scope control",
+          "scope definition",
+          "scope icon",
+          "scope variable",
+          "scope-outline"
+        ],
+        "uk": [
+          "контур",
+          "межі",
+          "обведення",
+          "область",
+          "область видимості",
+          "оутліне",
+          "приціл"
+        ]
+      }
+    }
+  },
+  "search-outline": {
+    "mediaKey": "9b604c57-6a17-47f1-9eb5-aea2bb1e4c38",
+    "i18n": {
+      "name": {
+        "en": "Search outline",
+        "uk": "Пошук"
+      },
+      "alt": {
+        "en": "Search outline",
+        "uk": "Пошук"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "outline",
+          "outline stroke",
+          "search",
+          "search-outline"
+        ],
+        "uk": [
+          "контур",
+          "лупа",
+          "обведення",
+          "оутліне",
+          "пошук",
+          "сеарч",
+          "шукати"
+        ]
+      }
+    }
+  },
+  "settings-outline": {
+    "mediaKey": "7daedce4-8fd3-4f74-ae1f-4ced9e0a6f1f",
+    "i18n": {
+      "name": {
+        "en": "Settings outline",
+        "uk": "Налаштування"
+      },
+      "alt": {
+        "en": "Settings outline",
+        "uk": "Налаштування"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⚙️",
+          "options",
+          "outline",
+          "outline stroke",
+          "preferences",
+          "settings",
+          "settings-outline"
+        ],
+        "uk": [
+          "⚙️",
+          "контур",
+          "конфігурація",
+          "налаштування",
+          "налаштування системи",
+          "обведення",
+          "опції",
+          "оутліне",
+          "параметри",
+          "установки"
+        ]
+      }
+    }
+  },
+  "share-outline": {
+    "mediaKey": "dc579c72-87e7-49c5-bc6f-0419d4901e72",
+    "i18n": {
+      "name": {
+        "en": "Share outline",
+        "uk": "Поділ"
+      },
+      "alt": {
+        "en": "Share outline",
+        "uk": "Поділ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "distribute",
+          "outline",
+          "outline stroke",
+          "share",
+          "share-outline"
+        ],
+        "uk": [
+          "контур",
+          "обведення",
+          "оутліне",
+          "поділ",
+          "поділитися",
+          "поширити",
+          "поширити 🔗",
+          "розшарити",
+          "частка",
+          "шер",
+          "шерінг"
+        ]
+      }
+    }
+  },
+  "shield-alert-outline": {
+    "mediaKey": "d5e809de-6f5d-4d61-b1aa-5c4014dc34a3",
+    "i18n": {
+      "name": {
+        "en": "Shield alert outline",
+        "uk": "Щит (попередження)"
+      },
+      "alt": {
+        "en": "Shield alert outline",
+        "uk": "Щит (попередження)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⚠️",
+          "🛡️",
+          "alert",
+          "guard",
+          "outline",
+          "outline stroke",
+          "protect",
+          "push нотифікація",
+          "shield",
+          "warning",
+          "shield-alert-outline"
+        ],
+        "uk": [
+          "⚠️",
+          "🛡️",
+          "алерт",
+          "броня",
+          "герб",
+          "емблема",
+          "захист",
+          "контур",
+          "обведення",
+          "оповіщення",
+          "оутліне",
+          "попередження",
+          "сповіщення",
+          "шіелд",
+          "щит",
+          "push нотифікація"
+        ]
+      }
+    }
+  },
+  "shield-outline": {
+    "mediaKey": "fd97b770-350e-48b5-9174-ade52a2fd421",
+    "i18n": {
+      "name": {
+        "en": "Shield outline",
+        "uk": "Щит"
+      },
+      "alt": {
+        "en": "Shield outline",
+        "uk": "Щит"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🛡️",
+          "guard",
+          "outline",
+          "outline stroke",
+          "protect",
+          "shield",
+          "shield-outline"
+        ],
+        "uk": [
+          "🛡️",
+          "броня",
+          "герб",
+          "емблема",
+          "захист",
+          "контур",
+          "обведення",
+          "оутліне",
+          "шіелд",
+          "щит"
+        ]
+      }
+    }
+  },
+  "shield-tick-outline": {
+    "mediaKey": "f324d89f-a832-489b-a867-2815325c7242",
+    "i18n": {
+      "name": {
+        "en": "Shield tick outline",
+        "uk": "Щит із галочкою"
+      },
+      "alt": {
+        "en": "Shield tick outline",
+        "uk": "Щит із галочкою"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🛡️",
+          "check",
+          "checkmark",
+          "done",
+          "guard",
+          "mark",
+          "ok",
+          "outline",
+          "outline stroke",
+          "protect",
+          "shield",
+          "tick",
+          "verified",
+          "shield-tick-outline"
+        ],
+        "uk": [
+          "🛡️",
+          "броня",
+          "галочка",
+          "герб",
+          "емблема",
+          "захист",
+          "контур",
+          "обведення",
+          "оутліне",
+          "позначка",
+          "шіелд",
+          "щит"
+        ]
+      }
+    }
+  },
+  "short-text-outline": {
+    "mediaKey": "7b635aa7-2817-4e5f-bcf8-84e08035e427",
+    "i18n": {
+      "name": {
+        "en": "Short text outline",
+        "uk": "Короткий текст"
+      },
+      "alt": {
+        "en": "Short text outline",
+        "uk": "Короткий текст"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "brief",
+          "content",
+          "copy",
+          "outline",
+          "outline stroke",
+          "short",
+          "text",
+          "short-text-outline"
+        ],
+        "uk": [
+          "абзац",
+          "експрес",
+          "контур",
+          "копірайт",
+          "коротка версія",
+          "короткий",
+          "мінімальний",
+          "обведення",
+          "оутліне",
+          "повідомлення",
+          "стислий",
+          "текст",
+          "шорт"
+        ]
+      }
+    }
+  },
+  "shrink-outline": {
+    "mediaKey": "0dc00768-40ff-4911-90a8-639855b46c37",
+    "i18n": {
+      "name": {
+        "en": "Shrink outline",
+        "uk": "Зменшити"
+      },
+      "alt": {
+        "en": "Shrink outline",
+        "uk": "Зменшити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "compress",
+          "outline",
+          "outline stroke",
+          "reduce",
+          "scale down",
+          "shrink",
+          "shrink icon",
+          "shrink-outline"
+        ],
+        "uk": [
+          "зменшити",
+          "контур",
+          "мінімізувати",
+          "обведення",
+          "оутліне",
+          "стиснути"
+        ]
+      }
+    }
+  },
+  "shuffle-outline": {
+    "mediaKey": "f56449b4-d45f-432d-9ea2-70c203d0dcd9",
+    "i18n": {
+      "name": {
+        "en": "Shuffle outline",
+        "uk": "Перемішати"
+      },
+      "alt": {
+        "en": "Shuffle outline",
+        "uk": "Перемішати"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "outline",
+          "outline stroke",
+          "randomize",
+          "shuffle",
+          "shuffle-outline"
+        ],
+        "uk": [
+          "випадковий порядок",
+          "контур",
+          "обведення",
+          "оутліне",
+          "перемішати",
+          "перетасувати",
+          "рандом",
+          "шуфл"
+        ]
+      }
+    }
+  },
+  "sidebar-collapse-outline": {
+    "mediaKey": "24ec4bff-dfb0-4eb0-beda-0f62920e1d1a",
+    "i18n": {
+      "name": {
+        "en": "Sidebar collapse outline",
+        "uk": "Згорнути бокову панель"
+      },
+      "alt": {
+        "en": "Sidebar collapse outline",
+        "uk": "Згорнути бокову панель"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "accordion",
+          "collapse",
+          "collapse panel",
+          "outline",
+          "outline stroke",
+          "side menu",
+          "sidebar",
+          "sidebar-collapse-outline"
+        ],
+        "uk": [
+          "бічна панель",
+          "докова панель",
+          "згорнути",
+          "згортання",
+          "зменшити",
+          "колапс",
+          "коллапсе",
+          "контур",
+          "меню збоку",
+          "обведення",
+          "оутліне",
+          "панель навігації",
+          "сайдбар"
+        ]
+      }
+    }
+  },
+  "sidebar-expand-outline": {
+    "mediaKey": "166f1ec3-7b33-4bf0-a1e0-ba9964fb7755",
+    "i18n": {
+      "name": {
+        "en": "Sidebar expand outline",
+        "uk": "Розгорнути бокову панель"
+      },
+      "alt": {
+        "en": "Sidebar expand outline",
+        "uk": "Розгорнути бокову панель"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "expand",
+          "expand arrows",
+          "expand arrows icon",
+          "expand icon",
+          "expand layout",
+          "expand view",
+          "expand window",
+          "full screen",
+          "fullscreen",
+          "grow area",
+          "maximize",
+          "open wider",
+          "outline",
+          "outline stroke",
+          "side menu",
+          "sidebar",
+          "sidebar-expand-outline"
+        ],
+        "uk": [
+          "бічна панель",
+          "докова панель",
+          "експанд",
+          "збільшити",
+          "контур",
+          "меню збоку",
+          "обведення",
+          "оутліне",
+          "панель навігації",
+          "розгорнути",
+          "розширити",
+          "сайдбар"
+        ]
+      }
+    }
+  },
+  "single-select-outline": {
+    "mediaKey": "27a92e06-023b-4391-8409-116a231864de",
+    "i18n": {
+      "name": {
+        "en": "Single select outline",
+        "uk": "Одиничний вибір"
+      },
+      "alt": {
+        "en": "Single select outline",
+        "uk": "Одиничний вибір"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "alone",
+          "choose",
+          "highlight",
+          "mono",
+          "only",
+          "outline",
+          "outline stroke",
+          "pick",
+          "select",
+          "select option",
+          "single",
+          "solo",
+          "unpaired",
+          "single-select-outline"
+        ],
+        "uk": [
+          "вибір елемента",
+          "вибрати",
+          "виділити",
+          "відмітити",
+          "контур",
+          "обведення",
+          "обрати",
+          "один",
+          "одиночний",
+          "оутліне",
+          "позначити",
+          "селект",
+          "соло"
+        ]
+      }
+    }
+  },
+  "sliders-outline": {
+    "mediaKey": "9e2adb08-d356-4379-b4f9-6f36797fc20f",
+    "i18n": {
+      "name": {
+        "en": "Sliders outline",
+        "uk": "Повзунки"
+      },
+      "alt": {
+        "en": "Sliders outline",
+        "uk": "Повзунки"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "adjust sliders",
+          "outline",
+          "outline stroke",
+          "slider controls",
+          "sliders",
+          "sliders icon",
+          "ui sliders",
+          "sliders-outline"
+        ],
+        "uk": [
+          "контур",
+          "налаштування",
+          "обведення",
+          "оутліне",
+          "повзунки",
+          "регулятори"
+        ]
+      }
+    }
+  },
+  "sort-ascending-duotone": {
+    "mediaKey": "23da5192-6156-434f-981e-4606d743b13d",
+    "i18n": {
+      "name": {
+        "en": "Sort ascending duotone",
+        "uk": "Сортування за зростанням (двофарбне)"
+      },
+      "alt": {
+        "en": "Sort ascending duotone",
+        "uk": "Сортування за зростанням (двофарбне)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "ascending",
+          "ascending order",
+          "duotone",
+          "duotone design",
+          "duotone effect",
+          "duotone icon",
+          "duotone style",
+          "filter",
+          "order",
+          "sort",
+          "sort-ascending-duotone"
+        ],
+        "uk": [
+          "а-я",
+          "аскендінґ",
+          "висхідний",
+          "від меншого до більшого",
+          "відсіяти",
+          "групувати",
+          "дві фарби",
+          "дво-тоновий",
+          "двокольоровий",
+          "за зростанням",
+          "сорт",
+          "сортування",
+          "сортувати",
+          "упорядкувати",
+          "фільтрувати"
+        ]
+      }
+    }
+  },
+  "sort-descending-duotone": {
+    "mediaKey": "9808c326-30d3-4691-a550-31a08956cfff",
+    "i18n": {
+      "name": {
+        "en": "Sort descending duotone",
+        "uk": "Сортування за спаданням (двофарбне)"
+      },
+      "alt": {
+        "en": "Sort descending duotone",
+        "uk": "Сортування за спаданням (двофарбне)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "descending",
+          "descending arrow",
+          "descending order",
+          "descending sort",
+          "downward",
+          "duotone",
+          "duotone design",
+          "duotone effect",
+          "duotone icon",
+          "duotone style",
+          "falling order",
+          "filter",
+          "order",
+          "sort",
+          "sort-descending-duotone"
+        ],
+        "uk": [
+          "від більшого до меншого",
+          "відсіяти",
+          "групувати",
+          "дві фарби",
+          "дво-тоновий",
+          "двокольоровий",
+          "дескендінґ",
+          "зменшення",
+          "низхідний",
+          "сорт",
+          "сортування",
+          "сортування за спаданням",
+          "сортувати",
+          "спадання",
+          "спадаючий список",
+          "спадна послідовність",
+          "спадний напрямок",
+          "спуск",
+          "упорядкувати",
+          "фільтрувати"
+        ]
+      }
+    }
+  },
+  "sparks-outline": {
+    "mediaKey": "e4284968-e0ee-4db7-9e76-c6c67688e095",
+    "i18n": {
+      "name": {
+        "en": "Sparks outline",
+        "uk": "Іскри"
+      },
+      "alt": {
+        "en": "Sparks outline",
+        "uk": "Іскри"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "electric sparks",
+          "fireworks",
+          "outline",
+          "outline stroke",
+          "sparkles",
+          "sparks",
+          "sparks effect",
+          "sparks icon",
+          "sparks-outline"
+        ],
+        "uk": [
+          "іскри",
+          "іскри святкові",
+          "контур",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "star-outline": {
+    "mediaKey": "c797ec1e-a0e3-46cf-a6b3-51051923b217",
+    "i18n": {
+      "name": {
+        "en": "Star outline",
+        "uk": "Зірка"
+      },
+      "alt": {
+        "en": "Star outline",
+        "uk": "Зірка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⭐",
+          "favorite",
+          "outline",
+          "outline stroke",
+          "star",
+          "star-outline"
+        ],
+        "uk": [
+          "⭐",
+          "відмітити",
+          "зірка",
+          "зоря",
+          "контур",
+          "обведення",
+          "оутліне",
+          "улюблене"
+        ]
+      }
+    }
+  },
+  "stethoscope-outline": {
+    "mediaKey": "e7d3f444-687c-4657-957c-26ac235326d0",
+    "i18n": {
+      "name": {
+        "en": "Stethoscope outline",
+        "uk": "Стетоскоп"
+      },
+      "alt": {
+        "en": "Stethoscope outline",
+        "uk": "Стетоскоп"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "medical tool",
+          "outline",
+          "outline stroke",
+          "stethoscope",
+          "stethoscope-outline"
+        ],
+        "uk": [
+          "контур",
+          "медичний інструмент",
+          "обведення",
+          "оутліне",
+          "прослуховування серця",
+          "стетоскоп",
+          "фонендоскоп"
+        ]
+      }
+    }
+  },
+  "stop-circle-outline": {
+    "mediaKey": "75b613bb-94f5-43a2-93fb-a45326a5b06b",
+    "i18n": {
+      "name": {
+        "en": "Stop circle outline",
+        "uk": "Стоп (коло)"
+      },
+      "alt": {
+        "en": "Stop circle outline",
+        "uk": "Стоп (коло)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "circle",
+          "circle shape",
+          "halt",
+          "outline",
+          "outline stroke",
+          "round",
+          "stop",
+          "stop-circle-outline"
+        ],
+        "uk": [
+          "заборона",
+          "зупинити",
+          "зупинка",
+          "кіркле",
+          "коло",
+          "контур",
+          "обведення",
+          "окружність",
+          "оутліне",
+          "пауза",
+          "стоп",
+          "стопкадр"
+        ]
+      }
+    }
+  },
+  "subtask-outline": {
+    "mediaKey": "3ea754d3-2610-4b94-8803-b2ca3b4b70c5",
+    "i18n": {
+      "name": {
+        "en": "Subtask outline",
+        "uk": "Підзавдання"
+      },
+      "alt": {
+        "en": "Subtask outline",
+        "uk": "Підзавдання"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "child task",
+          "outline",
+          "outline stroke",
+          "subtask",
+          "subtask-outline"
+        ],
+        "uk": [
+          "дочірня задача",
+          "етап",
+          "контур",
+          "обведення",
+          "оутліне",
+          "підзавдання",
+          "підзадача",
+          "сабтаск"
+        ]
+      }
+    }
+  },
+  "sun-outline": {
+    "mediaKey": "b7b2bd39-28b9-4f73-a251-42f69302be88",
+    "i18n": {
+      "name": {
+        "en": "Sun outline",
+        "uk": "Сонце"
+      },
+      "alt": {
+        "en": "Sun outline",
+        "uk": "Сонце"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "☀️",
+          "outline",
+          "outline stroke",
+          "sun",
+          "sun-outline"
+        ],
+        "uk": [
+          "☀️",
+          "денне світло",
+          "контур",
+          "обведення",
+          "оутліне",
+          "світило",
+          "соляр",
+          "сонце",
+          "тепло"
+        ]
+      }
+    }
+  },
+  "swap-horizontal-arrows-outline": {
+    "mediaKey": "82f25ccc-eda1-4311-99cf-aa72f9490662",
+    "i18n": {
+      "name": {
+        "en": "Swap horizontal arrows outline",
+        "uk": "Обмін стрілками горизонтально"
+      },
+      "alt": {
+        "en": "Swap horizontal arrows outline",
+        "uk": "Обмін стрілками горизонтально"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrows",
+          "arrows set",
+          "exchange",
+          "horizontal",
+          "horizontal line",
+          "landscape",
+          "left-right",
+          "outline",
+          "outline stroke",
+          "reverse",
+          "swap",
+          "switch",
+          "switch places",
+          "trade",
+          "swap-horizontal-arrows-outline"
+        ],
+        "uk": [
+          "арровс",
+          "горизонталь",
+          "горизонтальний",
+          "дві стрілки",
+          "контур",
+          "напрямки",
+          "обведення",
+          "обмін",
+          "обміняти",
+          "оутліне",
+          "переміщення",
+          "поміняти",
+          "стрілки",
+          "хорізонтал"
+        ]
+      }
+    }
+  },
+  "swap-vertical-arrows-outline": {
+    "mediaKey": "a1e12245-1455-46e0-9713-2b510cd9bc3b",
+    "i18n": {
+      "name": {
+        "en": "Swap vertical arrows outline",
+        "uk": "Обмін стрілками вертикально"
+      },
+      "alt": {
+        "en": "Swap vertical arrows outline",
+        "uk": "Обмін стрілками вертикально"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrows",
+          "arrows set",
+          "exchange",
+          "outline",
+          "outline stroke",
+          "portrait",
+          "reverse",
+          "swap",
+          "switch",
+          "switch places",
+          "trade",
+          "upright",
+          "vertical",
+          "swap-vertical-arrows-outline"
+        ],
+        "uk": [
+          "арровс",
+          "вертикаль",
+          "вертикальний",
+          "дві стрілки",
+          "контур",
+          "напрямки",
+          "обведення",
+          "обмін",
+          "обміняти",
+          "оутліне",
+          "переміщення",
+          "поміняти",
+          "портрет",
+          "стовпчик",
+          "стрілки"
+        ]
+      }
+    }
+  },
+  "syringe-outline": {
+    "mediaKey": "56d23fc9-b193-4bd7-97b7-fe198b4e6913",
+    "i18n": {
+      "name": {
+        "en": "Syringe outline",
+        "uk": "Шприц"
+      },
+      "alt": {
+        "en": "Syringe outline",
+        "uk": "Шприц"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "medical syringe",
+          "outline",
+          "outline stroke",
+          "syringe",
+          "syringe icon",
+          "syringe tool",
+          "vaccination",
+          "syringe-outline"
+        ],
+        "uk": [
+          "ін'єкція",
+          "контур",
+          "обведення",
+          "оутліне",
+          "шприц",
+          "шприц медичний"
+        ]
+      }
+    }
+  },
+  "tag-outline": {
+    "mediaKey": "ce251087-95ef-4150-9a7b-f7728861a7df",
+    "i18n": {
+      "name": {
+        "en": "Tag outline",
+        "uk": "Тег"
+      },
+      "alt": {
+        "en": "Tag outline",
+        "uk": "Тег"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "label",
+          "mark",
+          "outline",
+          "outline stroke",
+          "tag",
+          "tag-outline"
+        ],
+        "uk": [
+          "контур",
+          "мітка",
+          "обведення",
+          "оутліне",
+          "тег",
+          "хештег",
+          "ярлик"
+        ]
+      }
+    }
+  },
+  "test-tube-outline": {
+    "mediaKey": "8f2319a5-58fa-474c-88d5-af18e4888302",
+    "i18n": {
+      "name": {
+        "en": "Test tube outline",
+        "uk": "Пробірка"
+      },
+      "alt": {
+        "en": "Test tube outline",
+        "uk": "Пробірка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "відео tube",
+          "assessment",
+          "outline",
+          "outline stroke",
+          "qa",
+          "suite",
+          "test",
+          "tube",
+          "tube канал",
+          "tube icon",
+          "tube map",
+          "tube shape",
+          "tube video",
+          "test-tube-outline"
+        ],
+        "uk": [
+          "відео tube",
+          "екзамен",
+          "контур",
+          "обведення",
+          "оутліне",
+          "перевірка",
+          "тест",
+          "труба",
+          "трубка",
+          "tube канал"
+        ]
+      }
+    }
+  },
+  "text-outline": {
+    "mediaKey": "78254200-7c32-4df0-9f1f-878ead10b621",
+    "i18n": {
+      "name": {
+        "en": "Text outline",
+        "uk": "Текст"
+      },
+      "alt": {
+        "en": "Text outline",
+        "uk": "Текст"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "content",
+          "copy",
+          "outline",
+          "outline stroke",
+          "text",
+          "text-outline"
+        ],
+        "uk": [
+          "абзац",
+          "контур",
+          "копірайт",
+          "обведення",
+          "оутліне",
+          "повідомлення",
+          "текст"
+        ]
+      }
+    }
+  },
+  "ticket-outline": {
+    "mediaKey": "bacf4a5e-2aa7-4437-b351-9241476b0d6e",
+    "i18n": {
+      "name": {
+        "en": "Ticket outline",
+        "uk": "Квиток"
+      },
+      "alt": {
+        "en": "Ticket outline",
+        "uk": "Квиток"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "case",
+          "outline",
+          "outline stroke",
+          "service ticket",
+          "support ticket",
+          "ticket",
+          "ticket-outline"
+        ],
+        "uk": [
+          "квиток",
+          "контур",
+          "обведення",
+          "оутліне",
+          "пропуск",
+          "талон"
+        ]
+      }
+    }
+  },
+  "totem-outline": {
+    "mediaKey": "5a2b426b-b872-48f7-9ad5-b9ee5604a2b6",
+    "i18n": {
+      "name": {
+        "en": "Totem outline",
+        "uk": "Totem"
+      },
+      "alt": {
+        "en": "Totem outline",
+        "uk": "Totem"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "gnome videos",
+          "outline",
+          "outline stroke",
+          "totem",
+          "totem column",
+          "totem media",
+          "Totem player",
+          "totem symbol",
+          "totem totem",
+          "totem-outline"
+        ],
+        "uk": [
+          "контур",
+          "обведення",
+          "оутліне",
+          "тотем"
+        ]
+      }
+    }
+  },
+  "translate-outline": {
+    "mediaKey": "1261afe4-b831-4092-9bff-f656aa21d75a",
+    "i18n": {
+      "name": {
+        "en": "Translate outline",
+        "uk": "Перекласти"
+      },
+      "alt": {
+        "en": "Translate outline",
+        "uk": "Перекласти"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "language",
+          "outline",
+          "outline stroke",
+          "translate",
+          "translation",
+          "translate-outline"
+        ],
+        "uk": [
+          "контур",
+          "обведення",
+          "оутліне",
+          "перевести",
+          "перекласти"
+        ]
+      }
+    }
+  },
+  "trash-outline": {
+    "mediaKey": "4c5ecd07-32eb-4abd-b298-a818b1dddfb0",
+    "i18n": {
+      "name": {
+        "en": "Trash outline",
+        "uk": "Сміття"
+      },
+      "alt": {
+        "en": "Trash outline",
+        "uk": "Сміття"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bin",
+          "delete",
+          "outline",
+          "outline stroke",
+          "trash",
+          "trash-outline"
+        ],
+        "uk": [
+          "видалити",
+          "контур",
+          "корзина",
+          "кошик",
+          "обведення",
+          "оутліне",
+          "сміття"
+        ]
+      }
+    }
+  },
+  "trending-down-outline": {
+    "mediaKey": "15f18f0f-c7a6-47cc-91e0-59be895211b9",
+    "i18n": {
+      "name": {
+        "en": "Trending down outline",
+        "uk": "Тенденція до зниження"
+      },
+      "alt": {
+        "en": "Trending down outline",
+        "uk": "Тенденція до зниження"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow downwards",
+          "descending arrow",
+          "down",
+          "down arrow",
+          "down direction",
+          "down icon",
+          "down swipe",
+          "download arrow",
+          "downward",
+          "hot",
+          "move down",
+          "outline",
+          "outline stroke",
+          "scroll down",
+          "trending",
+          "viral",
+          "trending-down-outline"
+        ],
+        "uk": [
+          "в тренді",
+          "вниз",
+          "гаряче",
+          "довн",
+          "контур",
+          "обведення",
+          "опустити",
+          "оутліне",
+          "популярне",
+          "рух донизу",
+          "стрілка вниз",
+          "тренди",
+          "у тренді"
+        ]
+      }
+    }
+  },
+  "trending-up-outline": {
+    "mediaKey": "1981f490-56dc-4b75-a365-a1117dae5959",
+    "i18n": {
+      "name": {
+        "en": "Trending up outline",
+        "uk": "Тенденція зростання"
+      },
+      "alt": {
+        "en": "Trending up outline",
+        "uk": "Тенденція зростання"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow up",
+          "boost",
+          "hot",
+          "outline",
+          "outline stroke",
+          "trending",
+          "up",
+          "viral",
+          "trending-up-outline"
+        ],
+        "uk": [
+          "ап",
+          "в тренді",
+          "вгору",
+          "верх",
+          "гаряче",
+          "контур",
+          "обведення",
+          "оутліне",
+          "підняти",
+          "популярне",
+          "тренди",
+          "у тренді"
+        ]
+      }
+    }
+  },
+  "trophy-outline": {
+    "mediaKey": "e10dedd0-e351-4113-8c27-4e4abb1e43f1",
+    "i18n": {
+      "name": {
+        "en": "Trophy outline",
+        "uk": "Трофей"
+      },
+      "alt": {
+        "en": "Trophy outline",
+        "uk": "Трофей"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "award",
+          "cup",
+          "outline",
+          "outline stroke",
+          "trophy",
+          "trophy-outline"
+        ],
+        "uk": [
+          "контур",
+          "кубок",
+          "нагорода",
+          "обведення",
+          "оутліне",
+          "перемога",
+          "трофей"
+        ]
+      }
+    }
+  },
+  "tube-outline": {
+    "mediaKey": "b381b170-e3ef-4edc-9694-f6f38b93b7af",
+    "i18n": {
+      "name": {
+        "en": "Tube outline",
+        "uk": "Tube"
+      },
+      "alt": {
+        "en": "Tube outline",
+        "uk": "Tube"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "відео tube",
+          "outline",
+          "outline stroke",
+          "tube",
+          "tube канал",
+          "tube icon",
+          "tube map",
+          "tube shape",
+          "tube video",
+          "tube-outline"
+        ],
+        "uk": [
+          "відео tube",
+          "контур",
+          "обведення",
+          "оутліне",
+          "труба",
+          "трубка",
+          "tube канал"
+        ]
+      }
+    }
+  },
+  "tv-outline": {
+    "mediaKey": "5a573cab-0b3f-43ee-875b-bec911ceed33",
+    "i18n": {
+      "name": {
+        "en": "Tv outline",
+        "uk": "ТБ"
+      },
+      "alt": {
+        "en": "Tv outline",
+        "uk": "ТБ"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "outline",
+          "outline stroke",
+          "smart tv",
+          "tv",
+          "video",
+          "tv-outline"
+        ],
+        "uk": [
+          "екран",
+          "контур",
+          "обведення",
+          "оутліне",
+          "телебачення",
+          "телевізор"
+        ]
+      }
+    }
+  },
+  "undo-outline": {
+    "mediaKey": "39b33aba-cf10-4f96-bb4a-2ea2fe9a8434",
+    "i18n": {
+      "name": {
+        "en": "Undo outline",
+        "uk": "Скасувати"
+      },
+      "alt": {
+        "en": "Undo outline",
+        "uk": "Скасувати"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "back",
+          "ctrl z",
+          "outline",
+          "outline stroke",
+          "reverse",
+          "revert",
+          "rollback",
+          "step back",
+          "undo",
+          "undo-outline"
+        ],
+        "uk": [
+          "контур",
+          "обведення",
+          "оутліне",
+          "повернути",
+          "скасувати"
+        ]
+      }
+    }
+  },
+  "unfold-horizontal-outline": {
+    "mediaKey": "912f02e4-4989-4f3a-8a33-c106aa944109",
+    "i18n": {
+      "name": {
+        "en": "Unfold horizontal outline",
+        "uk": "Розгорнути горизонтально"
+      },
+      "alt": {
+        "en": "Unfold horizontal outline",
+        "uk": "Розгорнути горизонтально"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "display",
+          "expand",
+          "expand icon",
+          "horizontal",
+          "horizontal line",
+          "landscape",
+          "left-right",
+          "open",
+          "outline",
+          "outline stroke",
+          "show more",
+          "unfold",
+          "unfold-horizontal-outline"
+        ],
+        "uk": [
+          "горизонталь",
+          "горизонтальний",
+          "контур",
+          "обведення",
+          "оутліне",
+          "розгорнути",
+          "розкласти",
+          "хорізонтал"
+        ]
+      }
+    }
+  },
+  "unfold-vertical-outline": {
+    "mediaKey": "883c4d06-b78f-4f31-93f4-fb195aba77da",
+    "i18n": {
+      "name": {
+        "en": "Unfold vertical outline",
+        "uk": "Розгорнути вертикально"
+      },
+      "alt": {
+        "en": "Unfold vertical outline",
+        "uk": "Розгорнути вертикально"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "display",
+          "expand",
+          "expand icon",
+          "open",
+          "outline",
+          "outline stroke",
+          "portrait",
+          "show more",
+          "unfold",
+          "upright",
+          "vertical",
+          "unfold-vertical-outline"
+        ],
+        "uk": [
+          "вертикаль",
+          "вертикальний",
+          "контур",
+          "обведення",
+          "оутліне",
+          "портрет",
+          "розгорнути",
+          "розкласти",
+          "стовпчик"
+        ]
+      }
+    }
+  },
+  "unlock-outline": {
+    "mediaKey": "6e54e9e9-dbee-4ebe-ace3-497b66b5f1f5",
+    "i18n": {
+      "name": {
+        "en": "Unlock outline",
+        "uk": "Розблокувати"
+      },
+      "alt": {
+        "en": "Unlock outline",
+        "uk": "Розблокувати"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "access",
+          "free access",
+          "key",
+          "key unlock",
+          "lock open",
+          "open lock",
+          "outline",
+          "outline stroke",
+          "security",
+          "unlock",
+          "unlock icon",
+          "unlock-outline"
+        ],
+        "uk": [
+          "відкрити",
+          "відкрити замок",
+          "доступ відкрито",
+          "зняти блокування",
+          "контур",
+          "обведення",
+          "оутліне",
+          "розблокувати"
+        ]
+      }
+    }
+  },
+  "upload-cloud-outline": {
+    "mediaKey": "a228edd4-df97-4777-afe2-cf62f0998e8a",
+    "i18n": {
+      "name": {
+        "en": "Upload cloud outline",
+        "uk": "Вивантажити у хмару"
+      },
+      "alt": {
+        "en": "Upload cloud outline",
+        "uk": "Вивантажити у хмару"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "☁️",
+          "cloud",
+          "cloud icon",
+          "cloud storage",
+          "outline",
+          "outline stroke",
+          "send file",
+          "sky",
+          "upload",
+          "upload-cloud-outline"
+        ],
+        "uk": [
+          "☁️",
+          "аплоад",
+          "відправити файл",
+          "завантаження",
+          "завантажити",
+          "залити",
+          "клоуд",
+          "контур",
+          "обведення",
+          "оутліне",
+          "хмара"
+        ]
+      }
+    }
+  },
+  "upload-outline": {
+    "mediaKey": "a4fdfabb-d1c3-4de5-9fdb-df6badbfaff2",
+    "i18n": {
+      "name": {
+        "en": "Upload outline",
+        "uk": "Завантажити"
+      },
+      "alt": {
+        "en": "Upload outline",
+        "uk": "Завантажити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "outline",
+          "outline stroke",
+          "send file",
+          "upload",
+          "upload-outline"
+        ],
+        "uk": [
+          "аплоад",
+          "відправити файл",
+          "завантаження",
+          "завантажити",
+          "залити",
+          "контур",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "user-add-outline": {
+    "mediaKey": "f77a9d21-77ca-4f8e-9081-6c951ca1fc10",
+    "i18n": {
+      "name": {
+        "en": "User add outline",
+        "uk": "Додати користувача"
+      },
+      "alt": {
+        "en": "User add outline",
+        "uk": "Додати користувача"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "account",
+          "add",
+          "add new",
+          "client",
+          "insert",
+          "outline",
+          "outline stroke",
+          "profile",
+          "user",
+          "user-add-outline"
+        ],
+        "uk": [
+          "адд",
+          "акаунт",
+          "додати",
+          "додати ще",
+          "контур",
+          "користувач",
+          "користувача",
+          "обведення",
+          "оутліне",
+          "плюс",
+          "юзер"
+        ]
+      }
+    }
+  },
+  "user-outline": {
+    "mediaKey": "c4629c4b-126c-4824-9361-65640e15b151",
+    "i18n": {
+      "name": {
+        "en": "User outline",
+        "uk": "Користувач"
+      },
+      "alt": {
+        "en": "User outline",
+        "uk": "Користувач"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "account",
+          "client",
+          "outline",
+          "outline stroke",
+          "profile",
+          "user",
+          "user-outline"
+        ],
+        "uk": [
+          "акаунт",
+          "контур",
+          "користувач",
+          "користувача",
+          "обведення",
+          "оутліне",
+          "юзер"
+        ]
+      }
+    }
+  },
+  "user-remove-outline": {
+    "mediaKey": "17d58ddd-6e92-462b-b0d8-1127aae7d389",
+    "i18n": {
+      "name": {
+        "en": "User remove outline",
+        "uk": "Користувач (видалити)"
+      },
+      "alt": {
+        "en": "User remove outline",
+        "uk": "Користувач (видалити)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "account",
+          "client",
+          "delete",
+          "outline",
+          "outline stroke",
+          "profile",
+          "remove",
+          "trash",
+          "user",
+          "user-remove-outline"
+        ],
+        "uk": [
+          "акаунт",
+          "видалити",
+          "контур",
+          "користувач",
+          "користувача",
+          "обведення",
+          "оутліне",
+          "ремове",
+          "юзер"
+        ]
+      }
+    }
+  },
+  "users-outline": {
+    "mediaKey": "57c656cf-f3b4-4afb-8793-48e2b489c9bd",
+    "i18n": {
+      "name": {
+        "en": "Users outline",
+        "uk": "Користувачі"
+      },
+      "alt": {
+        "en": "Users outline",
+        "uk": "Користувачі"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "accounts",
+          "outline",
+          "outline stroke",
+          "people",
+          "profiles",
+          "users",
+          "users-outline"
+        ],
+        "uk": [
+          "аудиторія",
+          "контур",
+          "користувачі",
+          "користувачів",
+          "обведення",
+          "оутліне",
+          "юзери"
+        ]
+      }
+    }
+  },
+  "videocam-outline": {
+    "mediaKey": "564e3a69-4709-4e7b-a58e-e96f3700ab6c",
+    "i18n": {
+      "name": {
+        "en": "Videocam outline",
+        "uk": "Відеокамера"
+      },
+      "alt": {
+        "en": "Videocam outline",
+        "uk": "Відеокамера"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "camcorder",
+          "camera recorder",
+          "live cam",
+          "outline",
+          "outline stroke",
+          "video camera",
+          "videocam",
+          "videocam icon",
+          "videocam-outline"
+        ],
+        "uk": [
+          "відеозйомка",
+          "відеокамера",
+          "контур",
+          "обведення",
+          "оутліне"
+        ]
+      }
+    }
+  },
+  "visibility-off-outline": {
+    "mediaKey": "093431c4-e58c-4753-93bb-01ade7213837",
+    "i18n": {
+      "name": {
+        "en": "Visibility off outline",
+        "uk": "Видимість вимкнена"
+      },
+      "alt": {
+        "en": "Visibility off outline",
+        "uk": "Видимість вимкнена"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "disabled",
+          "display state",
+          "off",
+          "off status",
+          "outline",
+          "outline stroke",
+          "visibility",
+          "visibility icon",
+          "visibility sensor",
+          "visibility toggle",
+          "visibility-off-outline"
+        ],
+        "uk": [
+          "видимий",
+          "видимість",
+          "вимкнено",
+          "вимкнути",
+          "контур",
+          "обведення",
+          "оутліне",
+          "офф",
+          "показати"
+        ]
+      }
+    }
+  },
+  "visibility-on-outline": {
+    "mediaKey": "5bb2c5bf-7516-4945-8cfb-f546ff8da0c1",
+    "i18n": {
+      "name": {
+        "en": "Visibility on outline",
+        "uk": "Видимість увімкнена"
+      },
+      "alt": {
+        "en": "Visibility on outline",
+        "uk": "Видимість увімкнена"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "display state",
+          "on",
+          "on state",
+          "outline",
+          "outline stroke",
+          "power on",
+          "visibility",
+          "visibility icon",
+          "visibility sensor",
+          "visibility toggle",
+          "visibility-on-outline"
+        ],
+        "uk": [
+          "видимий",
+          "видимість",
+          "контур",
+          "на",
+          "обведення",
+          "он",
+          "оутліне",
+          "показати",
+          "увімкнено"
+        ]
+      }
+    }
+  },
+  "volume-1-outline": {
+    "mediaKey": "5f402fab-ae7e-41c3-a40a-1b4068539029",
+    "i18n": {
+      "name": {
+        "en": "Volume 1 outline",
+        "uk": "Гучність"
+      },
+      "alt": {
+        "en": "Volume 1 outline",
+        "uk": "Гучність"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "1",
+          "loudness",
+          "outline",
+          "outline stroke",
+          "sound level",
+          "volume",
+          "volume-1-outline"
+        ],
+        "uk": [
+          "1",
+          "гучність",
+          "контур",
+          "об'єм",
+          "обведення",
+          "обсяг",
+          "оутліне",
+          "повзунок",
+          "том"
+        ]
+      }
+    }
+  },
+  "volume-2-outline": {
+    "mediaKey": "64b2fdd6-08fe-43f1-90e0-c74d18e0b9c1",
+    "i18n": {
+      "name": {
+        "en": "Volume 2 outline",
+        "uk": "Гучність"
+      },
+      "alt": {
+        "en": "Volume 2 outline",
+        "uk": "Гучність"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "2",
+          "loudness",
+          "outline",
+          "outline stroke",
+          "sound level",
+          "volume",
+          "volume-2-outline"
+        ],
+        "uk": [
+          "2",
+          "гучність",
+          "контур",
+          "об'єм",
+          "обведення",
+          "обсяг",
+          "оутліне",
+          "повзунок",
+          "том"
+        ]
+      }
+    }
+  },
+  "warning-outline": {
+    "mediaKey": "7279a52b-1ffe-4283-a6b9-de8c9b6efbf2",
+    "i18n": {
+      "name": {
+        "en": "Warning outline",
+        "uk": "Попередження"
+      },
+      "alt": {
+        "en": "Warning outline",
+        "uk": "Попередження"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "alert",
+          "danger",
+          "exclamation",
+          "outline",
+          "outline stroke",
+          "warning",
+          "warning sign",
+          "warning-outline"
+        ],
+        "uk": [
+          "застереження",
+          "контур",
+          "обведення",
+          "оутліне",
+          "попередження",
+          "увага"
+        ]
+      }
+    }
+  },
+  "weight-outline": {
+    "mediaKey": "fd85ad1e-9c9d-4c44-bf25-438188d7976e",
+    "i18n": {
+      "name": {
+        "en": "Weight outline",
+        "uk": "Вага"
+      },
+      "alt": {
+        "en": "Weight outline",
+        "uk": "Вага"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "mass",
+          "outline",
+          "outline stroke",
+          "scale",
+          "weight",
+          "weight-outline"
+        ],
+        "uk": [
+          "вага",
+          "кг",
+          "контур",
+          "масса",
+          "обведення",
+          "оутліне",
+          "тягар"
+        ]
+      }
+    }
+  },
+  "x-circle-outline": {
+    "mediaKey": "90e97946-f959-4a98-a5e1-0a69ddba93a4",
+    "i18n": {
+      "name": {
+        "en": "X circle outline",
+        "uk": "Хрестик (коло)"
+      },
+      "alt": {
+        "en": "X circle outline",
+        "uk": "Хрестик (коло)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "літера x",
+          "circle",
+          "circle shape",
+          "letter x",
+          "outline",
+          "outline stroke",
+          "round",
+          "x",
+          "x shape",
+          "x-circle-outline"
+        ],
+        "uk": [
+          "ікс",
+          "кіркле",
+          "коло",
+          "контур",
+          "крестик",
+          "літера x",
+          "невідоме",
+          "обведення",
+          "окружність",
+          "оутліне",
+          "перехрестя"
+        ]
+      }
+    }
+  },
+  "x-outline": {
+    "mediaKey": "1b22c11b-1a05-417c-8f4c-6869bc137f50",
+    "i18n": {
+      "name": {
+        "en": "X outline",
+        "uk": "Літера X"
+      },
+      "alt": {
+        "en": "X outline",
+        "uk": "Літера X"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "літера x",
+          "letter x",
+          "outline",
+          "outline stroke",
+          "x",
+          "x shape",
+          "x-outline"
+        ],
+        "uk": [
+          "ікс",
+          "контур",
+          "крестик",
+          "літера x",
+          "невідоме",
+          "обведення",
+          "оутліне",
+          "перехрестя"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-15252497",
+  "mediaKey": "pexels:15252497",
+  "i18n": {
+    "name": {
+      "en": "Blurred portrait in warm orange light",
+      "uk": "Розмитий портрет у теплому помаранчевому світлі"
+    },
+    "alt": {
+      "en": "Blurred motion shot of a musician in orange jacket with neon lights in Orlando.",
+      "uk": "Знімок із розмитим рухом, на якому зображено музиканта в помаранчевій куртці на тлі неонових вогнів в Орландо."
+    },
+    "tags": [
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "blur",
+        "i18n": {
+          "en": "blur",
+          "uk": "розмиття"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/man-in-orange-jacket-wearing-black-sunglasses-15252497/",
+  "sourceName": "Pexels",
+  "authorName": "Jacob Sierra",
+  "authorUrl": "https://www.pexels.com/@jacob-sierra-419902407",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

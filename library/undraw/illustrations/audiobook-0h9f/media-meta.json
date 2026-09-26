@@ -1,0 +1,49 @@
+{
+  "slug": "audiobook-0h9f",
+  "mediaKey": "8db1ff5a-0d84-4aa9-a08f-e5ba08751ddc",
+  "providerId": "687578dcff9c01ab3011c4ef",
+  "i18n": {
+    "name": {
+      "en": "Audiobook",
+      "uk": "Аудіокнига"
+    },
+    "alt": {
+      "en": "Audiobook",
+      "uk": "Аудіокнига"
+    },
+    "tags": [
+      {
+        "key": "audiobook",
+        "i18n": {
+          "en": "Audiobook",
+          "uk": "Аудіокнига"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/audiobook_0h9f.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 522,
+  "height": 721
+}

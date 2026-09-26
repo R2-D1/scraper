@@ -1,0 +1,90 @@
+{
+  "slug": "late-night-study",
+  "mediaKey": "551876ba-7351-4e75-b78c-ce520905c689",
+  "i18n": {
+    "name": {
+      "en": "Late Night Study",
+      "uk": "Нічне навчання"
+    },
+    "alt": {
+      "en": "Late Night Study",
+      "uk": "Нічне навчання"
+    },
+    "tags": [
+      {
+        "key": "student",
+        "i18n": {
+          "en": "student",
+          "uk": "студент"
+        }
+      },
+      {
+        "key": "study",
+        "i18n": {
+          "en": "study",
+          "uk": "навчання"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      },
+      {
+        "key": "desk",
+        "i18n": {
+          "en": "desk",
+          "uk": "письмовий стіл"
+        }
+      },
+      {
+        "key": "lamp",
+        "i18n": {
+          "en": "lamp",
+          "uk": "лампа"
+        }
+      },
+      {
+        "key": "reading",
+        "i18n": {
+          "en": "reading",
+          "uk": "читання"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/late-night-study",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

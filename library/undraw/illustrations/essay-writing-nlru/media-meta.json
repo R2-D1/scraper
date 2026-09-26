@@ -1,0 +1,63 @@
+{
+  "slug": "essay-writing-nlru",
+  "mediaKey": "6a8690f2-a16d-4046-b1ab-0e95429fb12b",
+  "providerId": "6a4c2c41939aab611cf25c64",
+  "i18n": {
+    "name": {
+      "en": "Essay Writing",
+      "uk": "Написання есе"
+    },
+    "alt": {
+      "en": "Essay Writing",
+      "uk": "Написання есе"
+    },
+    "tags": [
+      {
+        "key": "essay-writing",
+        "i18n": {
+          "en": "Essay Writing",
+          "uk": "Написання есе"
+        }
+      },
+      {
+        "key": "essay",
+        "i18n": {
+          "en": "essay",
+          "uk": "есе"
+        }
+      },
+      {
+        "key": "writing",
+        "i18n": {
+          "en": "writing",
+          "uk": "написання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/essay-writing_nlru.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 729
+}

@@ -1,0 +1,1185 @@
+{
+  "turf-along": {
+    "mediaKey": "5f43b46a-9055-45e1-8794-fe69c132ccda",
+    "i18n": {
+      "name": {
+        "en": "Turf along",
+        "uk": "Turf уздовж"
+      },
+      "alt": {
+        "en": "Turf along",
+        "uk": "Turf уздовж"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "along",
+          "alongside",
+          "forward along",
+          "side by side",
+          "turf",
+          "turf-along"
+        ],
+        "uk": [
+          "вздовж",
+          "газон",
+          "дерен",
+          "дерн",
+          "по лінії",
+          "поле",
+          "разом",
+          "уздовж"
+        ]
+      }
+    }
+  },
+  "turf-bbox-polygon": {
+    "mediaKey": "733e5c23-1b6f-4f8b-a7a6-1fd936cd62fa",
+    "i18n": {
+      "name": {
+        "en": "Turf bbox polygon",
+        "uk": "Turf полігон BBox"
+      },
+      "alt": {
+        "en": "Turf bbox polygon",
+        "uk": "Turf полігон BBox"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bbox",
+          "bounding box",
+          "geometric shape",
+          "marker box",
+          "outline",
+          "polygon",
+          "polygon icon",
+          "selection box",
+          "turf",
+          "turf-bbox-polygon"
+        ],
+        "uk": [
+          "багатокутник",
+          "газон",
+          "дерен",
+          "дерн",
+          "контур",
+          "обведення",
+          "область виділення",
+          "поле",
+          "полйґон",
+          "рамка"
+        ]
+      }
+    }
+  },
+  "turf-bezier": {
+    "mediaKey": "86ebffa5-f36b-4e0d-951b-c2e82f4e1ba0",
+    "i18n": {
+      "name": {
+        "en": "Turf bezier",
+        "uk": "Turf Безьє"
+      },
+      "alt": {
+        "en": "Turf bezier",
+        "uk": "Turf Безьє"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bezier",
+          "bezier handles",
+          "pen tool",
+          "turf",
+          "vector curve",
+          "turf-bezier"
+        ],
+        "uk": [
+          "безіер",
+          "Безьє",
+          "газон",
+          "дерен",
+          "дерн",
+          "крива Безьє",
+          "поле"
+        ]
+      }
+    }
+  },
+  "turf-buffer": {
+    "mediaKey": "c0a41e47-adc3-44db-95ca-02cc0a16c400",
+    "i18n": {
+      "name": {
+        "en": "Turf buffer",
+        "uk": "Turf буфер"
+      },
+      "alt": {
+        "en": "Turf buffer",
+        "uk": "Turf буфер"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "buffer",
+          "buffer app",
+          "clipboard",
+          "memory buffer",
+          "turf",
+          "turf-buffer"
+        ],
+        "uk": [
+          "буфер",
+          "буффер",
+          "газон",
+          "дерен",
+          "дерн",
+          "поле"
+        ]
+      }
+    }
+  },
+  "turf-center": {
+    "mediaKey": "2e567a52-bbd8-42ea-aaf2-f4d7d4a43820",
+    "i18n": {
+      "name": {
+        "en": "Turf center",
+        "uk": "Turf центр"
+      },
+      "alt": {
+        "en": "Turf center",
+        "uk": "Turf центр"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "center",
+          "center align",
+          "middle",
+          "turf",
+          "turf-center"
+        ],
+        "uk": [
+          "газон",
+          "дерен",
+          "дерн",
+          "кентер",
+          "поле",
+          "центр",
+          "центрування"
+        ]
+      }
+    }
+  },
+  "turf-centroid": {
+    "mediaKey": "e0d76dcc-4ec7-4667-bc53-a9ba3ca846ab",
+    "i18n": {
+      "name": {
+        "en": "Turf centroid",
+        "uk": "Turf центроїд"
+      },
+      "alt": {
+        "en": "Turf centroid",
+        "uk": "Turf центроїд"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "balance point",
+          "centroid",
+          "coordinate center",
+          "geometric mean",
+          "math centroid",
+          "triangle centroid",
+          "turf",
+          "turf-centroid"
+        ],
+        "uk": [
+          "газон",
+          "геометричний центр",
+          "дерен",
+          "дерн",
+          "поле",
+          "центр мас",
+          "центроїд"
+        ]
+      }
+    }
+  },
+  "turf-concave": {
+    "mediaKey": "79962315-3e83-41f8-b651-a7544f0f4a61",
+    "i18n": {
+      "name": {
+        "en": "Turf concave",
+        "uk": "Turf увігнутий"
+      },
+      "alt": {
+        "en": "Turf concave",
+        "uk": "Turf увігнутий"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "concave",
+          "concave shape",
+          "inward curve",
+          "turf",
+          "turf-concave"
+        ],
+        "uk": [
+          "всередину вигнутий",
+          "газон",
+          "дерен",
+          "дерн",
+          "поле",
+          "увігнута форма",
+          "увігнутий"
+        ]
+      }
+    }
+  },
+  "turf-convex": {
+    "mediaKey": "328fa43b-21f2-49cc-beba-698d22a5729a",
+    "i18n": {
+      "name": {
+        "en": "Turf convex",
+        "uk": "Turf опуклий"
+      },
+      "alt": {
+        "en": "Turf convex",
+        "uk": "Turf опуклий"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "convex",
+          "convex shape",
+          "outward curve",
+          "turf",
+          "turf-convex"
+        ],
+        "uk": [
+          "вигнутий назовні",
+          "газон",
+          "дерен",
+          "дерн",
+          "опукла форма",
+          "опуклий",
+          "поле"
+        ]
+      }
+    }
+  },
+  "turf-destination": {
+    "mediaKey": "790c8542-1563-4e26-ab03-15f36b9c107f",
+    "i18n": {
+      "name": {
+        "en": "Turf destination",
+        "uk": "Turf пункт призначення"
+      },
+      "alt": {
+        "en": "Turf destination",
+        "uk": "Turf пункт призначення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrival spot",
+          "destination",
+          "end point",
+          "travel destination",
+          "turf",
+          "turf-destination"
+        ],
+        "uk": [
+          "газон",
+          "дерен",
+          "дерн",
+          "поле",
+          "пункт призначення",
+          "фінальна точка"
+        ]
+      }
+    }
+  },
+  "turf-envelope": {
+    "mediaKey": "803d0ef6-8e82-4f65-9b7c-8d7b8b84ef32",
+    "i18n": {
+      "name": {
+        "en": "Turf envelope",
+        "uk": "Turf обвід"
+      },
+      "alt": {
+        "en": "Turf envelope",
+        "uk": "Turf обвід"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "email",
+          "envelope",
+          "mail",
+          "mailbox",
+          "turf",
+          "turf-envelope"
+        ],
+        "uk": [
+          "газон",
+          "дерен",
+          "дерн",
+          "конверт",
+          "лист",
+          "повідомлення",
+          "поле",
+          "посилка",
+          "пошта"
+        ]
+      }
+    }
+  },
+  "turf-erased": {
+    "mediaKey": "0bd6d301-d5f2-492c-87ba-a4b22e1bae2f",
+    "i18n": {
+      "name": {
+        "en": "Turf erased",
+        "uk": "Turf стирання"
+      },
+      "alt": {
+        "en": "Turf erased",
+        "uk": "Turf стирання"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "deleted",
+          "erased",
+          "turf",
+          "wiped clean",
+          "turf-erased"
+        ],
+        "uk": [
+          "видалено",
+          "газон",
+          "дерен",
+          "дерн",
+          "очищено",
+          "поле",
+          "стерто"
+        ]
+      }
+    }
+  },
+  "turf-explode": {
+    "mediaKey": "9cdf2d90-c565-4931-9e54-6455256057b5",
+    "i18n": {
+      "name": {
+        "en": "Turf explode",
+        "uk": "Turf розбиття"
+      },
+      "alt": {
+        "en": "Turf explode",
+        "uk": "Turf розбиття"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "blow up",
+          "detonate",
+          "explode",
+          "turf",
+          "turf-explode"
+        ],
+        "uk": [
+          "вибух",
+          "вибухати",
+          "вибухнути",
+          "газон",
+          "дерен",
+          "дерн",
+          "підрив",
+          "поле"
+        ]
+      }
+    }
+  },
+  "turf-extent": {
+    "mediaKey": "27cbafd8-4b75-400c-a53e-fad1e15b294b",
+    "i18n": {
+      "name": {
+        "en": "Turf extent",
+        "uk": "Turf охоплення"
+      },
+      "alt": {
+        "en": "Turf extent",
+        "uk": "Turf охоплення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "degree",
+          "extent",
+          "range",
+          "turf",
+          "turf-extent"
+        ],
+        "uk": [
+          "газон",
+          "дерен",
+          "дерн",
+          "масштаб",
+          "обсяг",
+          "поле",
+          "ступінь"
+        ]
+      }
+    }
+  },
+  "turf-intersect": {
+    "mediaKey": "3fdcad19-3f13-4a71-bf81-0e5a0ea09d1b",
+    "i18n": {
+      "name": {
+        "en": "Turf intersect",
+        "uk": "Turf перетин"
+      },
+      "alt": {
+        "en": "Turf intersect",
+        "uk": "Turf перетин"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "crossing",
+          "intersect",
+          "intersection",
+          "overlap",
+          "turf",
+          "turf-intersect"
+        ],
+        "uk": [
+          "газон",
+          "дерен",
+          "дерн",
+          "інтерсект",
+          "перетин",
+          "перетинаються",
+          "поле"
+        ]
+      }
+    }
+  },
+  "turf-kinks": {
+    "mediaKey": "c9f7b3fd-1ac6-46fd-9744-9cb1fd658e4b",
+    "i18n": {
+      "name": {
+        "en": "Turf kinks",
+        "uk": "Turf злами"
+      },
+      "alt": {
+        "en": "Turf kinks",
+        "uk": "Turf злами"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "curves",
+          "fetish",
+          "kinks",
+          "rope kink",
+          "turf",
+          "twists",
+          "turf-kinks"
+        ],
+        "uk": [
+          "вигини",
+          "газон",
+          "дерен",
+          "дерн",
+          "залом",
+          "нестандарт",
+          "перегини",
+          "поле"
+        ]
+      }
+    }
+  },
+  "turf-line-slice": {
+    "mediaKey": "9e898ac4-2cff-46c2-8428-3c0d703edfec",
+    "i18n": {
+      "name": {
+        "en": "Turf line slice",
+        "uk": "Turf зріз лінії"
+      },
+      "alt": {
+        "en": "Turf line slice",
+        "uk": "Turf зріз лінії"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "line",
+          "line app",
+          "line icon",
+          "piece",
+          "queue",
+          "slice",
+          "stroke",
+          "turf",
+          "turf-line-slice"
+        ],
+        "uk": [
+          "газон",
+          "дерен",
+          "дерн",
+          "контур",
+          "ліне",
+          "лінія",
+          "ломтик",
+          "нарізка",
+          "поле",
+          "рядок",
+          "скибка",
+          "слайс",
+          "частинка",
+          "шматочок"
+        ]
+      }
+    }
+  },
+  "turf-merge": {
+    "mediaKey": "25cd98da-372c-4860-9e50-c9b1f505cd0f",
+    "i18n": {
+      "name": {
+        "en": "Turf merge",
+        "uk": "Turf злиття"
+      },
+      "alt": {
+        "en": "Turf merge",
+        "uk": "Turf злиття"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "merge",
+          "merge request",
+          "turf",
+          "turf-merge"
+        ],
+        "uk": [
+          "газон",
+          "дерен",
+          "дерн",
+          "злиття",
+          "змерджити",
+          "мерґе",
+          "об'єднання гілок",
+          "об'єднати",
+          "поле"
+        ]
+      }
+    }
+  },
+  "turf-midpoint": {
+    "mediaKey": "686389ad-d605-4d61-a053-9d189cb0a2b4",
+    "i18n": {
+      "name": {
+        "en": "Turf midpoint",
+        "uk": "Turf середня точка"
+      },
+      "alt": {
+        "en": "Turf midpoint",
+        "uk": "Turf середня точка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "mid",
+          "midpoint",
+          "point",
+          "turf",
+          "turf-midpoint"
+        ],
+        "uk": [
+          "баланс",
+          "газон",
+          "геометрія",
+          "дерен",
+          "дерн",
+          "поле",
+          "середина",
+          "середній",
+          "центр"
+        ]
+      }
+    }
+  },
+  "turf-point-grid": {
+    "mediaKey": "10dd9610-249c-4589-bef0-95b845926223",
+    "i18n": {
+      "name": {
+        "en": "Turf point grid",
+        "uk": "Turf сітка точок"
+      },
+      "alt": {
+        "en": "Turf point grid",
+        "uk": "Turf сітка точок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "grid",
+          "grid icon",
+          "grid layout",
+          "point",
+          "point marker",
+          "turf",
+          "turf-point-grid"
+        ],
+        "uk": [
+          "бал",
+          "газон",
+          "ґрід",
+          "дерен",
+          "дерн",
+          "поінт",
+          "поле",
+          "решітка",
+          "сітка",
+          "сітка 3х3",
+          "точка"
+        ]
+      }
+    }
+  },
+  "turf-point-on-line": {
+    "mediaKey": "10182ef9-9ec8-4c0d-9fec-dcf968b0e033",
+    "i18n": {
+      "name": {
+        "en": "Turf point on line",
+        "uk": "Turf точка на лінії"
+      },
+      "alt": {
+        "en": "Turf point on line",
+        "uk": "Turf точка на лінії"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "line",
+          "line app",
+          "line icon",
+          "on",
+          "on state",
+          "point",
+          "point marker",
+          "power on",
+          "queue",
+          "stroke",
+          "turf",
+          "turf-point-on-line"
+        ],
+        "uk": [
+          "бал",
+          "газон",
+          "дерен",
+          "дерн",
+          "контур",
+          "ліне",
+          "лінія",
+          "на",
+          "он",
+          "поінт",
+          "поле",
+          "рядок",
+          "точка",
+          "увімкнено"
+        ]
+      }
+    }
+  },
+  "turf-point-on-surface": {
+    "mediaKey": "6b0893b3-3b30-4c13-b5a5-2c02d4ac8ec4",
+    "i18n": {
+      "name": {
+        "en": "Turf point on surface",
+        "uk": "Turf точка на поверхні"
+      },
+      "alt": {
+        "en": "Turf point on surface",
+        "uk": "Turf точка на поверхні"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "on",
+          "on state",
+          "point",
+          "point marker",
+          "power on",
+          "surface",
+          "turf",
+          "turf-point-on-surface"
+        ],
+        "uk": [
+          "бал",
+          "газон",
+          "дерен",
+          "дерн",
+          "на",
+          "он",
+          "площина",
+          "поверхня",
+          "поінт",
+          "поле",
+          "текстура",
+          "точка",
+          "увімкнено",
+          "фасад"
+        ]
+      }
+    }
+  },
+  "turf-simplify": {
+    "mediaKey": "014727bc-828d-4881-b15e-e0c80f5a111f",
+    "i18n": {
+      "name": {
+        "en": "Turf simplify",
+        "uk": "Turf спрощення"
+      },
+      "alt": {
+        "en": "Turf simplify",
+        "uk": "Turf спрощення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "simplify",
+          "turf",
+          "turf-simplify"
+        ],
+        "uk": [
+          "газон",
+          "дерен",
+          "дерн",
+          "поле",
+          "спростити"
+        ]
+      }
+    }
+  },
+  "turf-size": {
+    "mediaKey": "6a175e8f-6be5-40ce-9707-33e4b1941829",
+    "i18n": {
+      "name": {
+        "en": "Turf size",
+        "uk": "Turf розмір"
+      },
+      "alt": {
+        "en": "Turf size",
+        "uk": "Turf розмір"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "dimension",
+          "measure",
+          "size",
+          "turf",
+          "turf-size"
+        ],
+        "uk": [
+          "величина",
+          "габарит",
+          "газон",
+          "дерен",
+          "дерн",
+          "масштаб",
+          "поле",
+          "розмір",
+          "сайз",
+          "формат"
+        ]
+      }
+    }
+  },
+  "turf-square": {
+    "mediaKey": "96f35f3d-8e11-4dd8-bee9-881c8c618a08",
+    "i18n": {
+      "name": {
+        "en": "Turf square",
+        "uk": "Turf квадрат"
+      },
+      "alt": {
+        "en": "Turf square",
+        "uk": "Turf квадрат"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "платіжна система Square",
+          "фігура 4x4",
+          "square",
+          "Squareup",
+          "turf",
+          "turf-square"
+        ],
+        "uk": [
+          "газон",
+          "дерен",
+          "дерн",
+          "касовий термінал",
+          "квад",
+          "квадрат",
+          "платіжна система Square",
+          "плитка",
+          "площа",
+          "площі",
+          "поле",
+          "фігура 4x4"
+        ]
+      }
+    }
+  },
+  "turf-square-grid": {
+    "mediaKey": "9bbe55d7-cc37-4604-99d6-83638f2e7c94",
+    "i18n": {
+      "name": {
+        "en": "Turf square grid",
+        "uk": "Turf сітка квадратів"
+      },
+      "alt": {
+        "en": "Turf square grid",
+        "uk": "Turf сітка квадратів"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "платіжна система Square",
+          "фігура 4x4",
+          "grid",
+          "grid icon",
+          "grid layout",
+          "square",
+          "Squareup",
+          "turf",
+          "turf-square-grid"
+        ],
+        "uk": [
+          "газон",
+          "ґрід",
+          "дерен",
+          "дерн",
+          "касовий термінал",
+          "квад",
+          "квадрат",
+          "платіжна система Square",
+          "плитка",
+          "площа",
+          "площі",
+          "поле",
+          "решітка",
+          "сітка",
+          "сітка 3х3",
+          "фігура 4x4"
+        ]
+      }
+    }
+  },
+  "turf-tin": {
+    "mediaKey": "1a2ab75a-838f-431d-9d72-b69b6109ba1a",
+    "i18n": {
+      "name": {
+        "en": "Turf tin",
+        "uk": "Turf TIN"
+      },
+      "alt": {
+        "en": "Turf tin",
+        "uk": "Turf TIN"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "blockchain",
+          "coin",
+          "crypto",
+          "cryptocurrency",
+          "tin",
+          "token",
+          "turf",
+          "turf-tin"
+        ],
+        "uk": [
+          "альта",
+          "блокчейн",
+          "валюта",
+          "газон",
+          "дерен",
+          "дерн",
+          "коін",
+          "крипта",
+          "криптовалюта",
+          "монета",
+          "поле",
+          "токен"
+        ]
+      }
+    }
+  },
+  "turf-triangle-grid": {
+    "mediaKey": "b6c56577-8d14-40b8-a640-f3cd12a90a8e",
+    "i18n": {
+      "name": {
+        "en": "Turf triangle grid",
+        "uk": "Turf трикутна сітка"
+      },
+      "alt": {
+        "en": "Turf triangle grid",
+        "uk": "Turf трикутна сітка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "grid",
+          "grid icon",
+          "grid layout",
+          "pyramid",
+          "shape",
+          "triangle",
+          "turf",
+          "turf-triangle-grid"
+        ],
+        "uk": [
+          "газон",
+          "геометрія",
+          "ґрід",
+          "дельта",
+          "дерен",
+          "дерн",
+          "поле",
+          "решітка",
+          "сітка",
+          "сітка 3х3",
+          "трикутник",
+          "фігура"
+        ]
+      }
+    }
+  },
+  "turf-union": {
+    "mediaKey": "400feadb-73f6-4e34-8ebe-beab023b0872",
+    "i18n": {
+      "name": {
+        "en": "Turf union",
+        "uk": "Turf об’єднання"
+      },
+      "alt": {
+        "en": "Turf union",
+        "uk": "Turf об’єднання"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "join",
+          "turf",
+          "union",
+          "unity",
+          "turf-union"
+        ],
+        "uk": [
+          "альянс",
+          "газон",
+          "дерен",
+          "дерн",
+          "об'єднання",
+          "поле",
+          "профспілка",
+          "союз",
+          "спілка"
+        ]
+      }
+    }
+  },
+  "ui-earth-east": {
+    "mediaKey": "bffd013e-1790-4067-a8f8-f7565af0a030",
+    "i18n": {
+      "name": {
+        "en": "Ui earth east",
+        "uk": "UI Земля: схід"
+      },
+      "alt": {
+        "en": "Ui earth east",
+        "uk": "UI Земля: схід"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "direction east",
+          "earth",
+          "east",
+          "east arrow",
+          "east compass",
+          "east direction arrow",
+          "east icon",
+          "east wind",
+          "eastern",
+          "mother earth",
+          "orient",
+          "planet",
+          "ui",
+          "ui design",
+          "user interface",
+          "ux/ui",
+          "world",
+          "ui-earth-east"
+        ],
+        "uk": [
+          "восток",
+          "глобус",
+          "дизайн",
+          "еаст",
+          "земля",
+          "інтерфейс",
+          "орієнтир схід",
+          "планета",
+          "світ",
+          "схід",
+          "схід сонця",
+          "східний",
+          "східний напрям",
+          "юзер інтерфейс"
+        ]
+      }
+    }
+  },
+  "ui-earth-west": {
+    "mediaKey": "83caaca3-85dd-4033-8b1a-c5d8e9dc549c",
+    "i18n": {
+      "name": {
+        "en": "Ui earth west",
+        "uk": "UI Земля: захід"
+      },
+      "alt": {
+        "en": "Ui earth west",
+        "uk": "UI Земля: захід"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "earth",
+          "mother earth",
+          "occident",
+          "planet",
+          "ui",
+          "ui design",
+          "user interface",
+          "ux/ui",
+          "west",
+          "western",
+          "world",
+          "ui-earth-west"
+        ],
+        "uk": [
+          "глобус",
+          "дизайн",
+          "захід",
+          "західний напрям",
+          "земля",
+          "інтерфейс",
+          "ліва сторона",
+          "північний захід",
+          "планета",
+          "світ",
+          "юзер інтерфейс"
+        ]
+      }
+    }
+  }
+}

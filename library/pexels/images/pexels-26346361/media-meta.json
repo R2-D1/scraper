@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-26346361",
+  "mediaKey": "pexels:26346361",
+  "i18n": {
+    "name": {
+      "en": "Golden Gate Bridge above the water",
+      "uk": "Міст Золоті Ворота над водою"
+    },
+    "alt": {
+      "en": "Iconic Golden Gate Bridge shrouded in fog over San Francisco Bay, USA.",
+      "uk": "Знаменитий міст «Золоті Ворота», оповитий туманом над затокою Сан-Франциско, США."
+    },
+    "tags": [
+      {
+        "key": "bridge",
+        "i18n": {
+          "en": "bridge",
+          "uk": "міст"
+        }
+      },
+      {
+        "key": "architecture",
+        "i18n": {
+          "en": "architecture",
+          "uk": "архітектура"
+        }
+      },
+      {
+        "key": "golden-gate-bridge",
+        "i18n": {
+          "en": "golden gate bridge",
+          "uk": "міст Золоті Ворота"
+        }
+      },
+      {
+        "key": "water",
+        "i18n": {
+          "en": "water",
+          "uk": "вода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "urban"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/the-golden-gate-bridge-spanning-the-golden-gate-in-san-francisco-california-26346361/",
+  "sourceName": "Pexels",
+  "authorName": "Fatih Turan",
+  "authorUrl": "https://www.pexels.com/@fatih-turan-63325184",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

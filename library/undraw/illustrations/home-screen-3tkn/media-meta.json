@@ -1,0 +1,63 @@
+{
+  "slug": "home-screen-3tkn",
+  "mediaKey": "741dfe95-9d68-45da-b8f0-9f78083bd056",
+  "providerId": "68fff04b4428c0351bb7dc9b",
+  "i18n": {
+    "name": {
+      "en": "Home Screen",
+      "uk": "Головний екран"
+    },
+    "alt": {
+      "en": "Home Screen",
+      "uk": "Головний екран"
+    },
+    "tags": [
+      {
+        "key": "home-screen",
+        "i18n": {
+          "en": "Home Screen",
+          "uk": "Головний екран"
+        }
+      },
+      {
+        "key": "home",
+        "i18n": {
+          "en": "home",
+          "uk": "додому"
+        }
+      },
+      {
+        "key": "screen",
+        "i18n": {
+          "en": "screen",
+          "uk": "екран"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/home-screen_3tkn.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 407,
+  "height": 720
+}

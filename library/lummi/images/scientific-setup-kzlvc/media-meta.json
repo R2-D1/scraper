@@ -1,0 +1,91 @@
+{
+  "slug": "scientific-setup-kzlvc",
+  "mediaKey": "6a56b586-e63f-4585-8446-81c6bf8da382",
+  "i18n": {
+    "name": {
+      "en": "Scientific Setup",
+      "uk": "Наукова схема"
+    },
+    "alt": {
+      "en": "Scientific Setup",
+      "uk": "Наукова схема"
+    },
+    "tags": [
+      {
+        "key": "glass",
+        "i18n": {
+          "en": "Glass",
+          "uk": "Скло"
+        }
+      },
+      {
+        "key": "laboratory",
+        "i18n": {
+          "en": "Laboratory",
+          "uk": "Лабораторія"
+        }
+      },
+      {
+        "key": "scientific",
+        "i18n": {
+          "en": "Scientific",
+          "uk": "Науковий"
+        }
+      },
+      {
+        "key": "pipette",
+        "i18n": {
+          "en": "pipette",
+          "uk": "піпетка"
+        }
+      },
+      {
+        "key": "petri-dishes",
+        "i18n": {
+          "en": "petri dishes",
+          "uk": "чашки Петрі"
+        }
+      },
+      {
+        "key": "medical",
+        "i18n": {
+          "en": "Medical",
+          "uk": "Медицина"
+        }
+      },
+      {
+        "key": "still-life",
+        "i18n": {
+          "en": "Still Life",
+          "uk": "Натюрморт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/scientific-setup-kzlvc",
+  "sourceName": "Lummi",
+  "authorName": "Berryone",
+  "authorUrl": "https://www.lummi.ai/creator/berryone?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "This image depicts several petri dishes filled with a light, translucent liquid, arranged on a smooth, white background. Each dish contains varying amounts of bubbles, reflecting the controlled, scientific context of the scene. A precise drop of liquid is being released into one of the dishes from a thin, transparent pipette. The lighting subtly highlights the golden tones of the contents and enhances the smooth textures of the glass surfaces.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 2400,
+  "mimeType": "image/webp"
+}

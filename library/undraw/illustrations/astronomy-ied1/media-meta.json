@@ -1,0 +1,49 @@
+{
+  "slug": "astronomy-ied1",
+  "mediaKey": "9ab4eada-0d5a-43d2-adc4-0fcf9123fc9d",
+  "providerId": "69c45f5579740242d59ddacf",
+  "i18n": {
+    "name": {
+      "en": "Astronomy",
+      "uk": "Астрономія"
+    },
+    "alt": {
+      "en": "Astronomy",
+      "uk": "Астрономія"
+    },
+    "tags": [
+      {
+        "key": "astronomy",
+        "i18n": {
+          "en": "Astronomy",
+          "uk": "Астрономія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/astronomy_ied1.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 650
+}

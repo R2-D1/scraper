@@ -1,0 +1,63 @@
+{
+  "slug": "file-search-cbur",
+  "mediaKey": "43fbb0d3-4695-4ae8-beaf-bfa5f604d61d",
+  "providerId": "67a3c6dc6036a5119b016f20",
+  "i18n": {
+    "name": {
+      "en": "File Search",
+      "uk": "Пошук файлів"
+    },
+    "alt": {
+      "en": "File Search",
+      "uk": "Пошук файлів"
+    },
+    "tags": [
+      {
+        "key": "file-search",
+        "i18n": {
+          "en": "File Search",
+          "uk": "Пошук файлів"
+        }
+      },
+      {
+        "key": "file",
+        "i18n": {
+          "en": "file",
+          "uk": "файл"
+        }
+      },
+      {
+        "key": "search",
+        "i18n": {
+          "en": "search",
+          "uk": "пошук"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/file-search_cbur.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 749,
+  "height": 457
+}

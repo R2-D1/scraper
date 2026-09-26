@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-7130467",
+  "mediaKey": "pexels:7130467",
+  "i18n": {
+    "name": {
+      "en": "Pale pink and orange gradient",
+      "uk": "Світлий рожево-помаранчевий градієнт"
+    },
+    "alt": {
+      "en": "Bright colorful abstract background with orange and white with blue and purple lights",
+      "uk": "Яскравий барвистий абстрактний фон у помаранчевих і білих тонах із синіми та фіолетовими вогнями"
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "soft-colors",
+        "i18n": {
+          "en": "soft colors",
+          "uk": "м'які кольори"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/bright-colorful-lights-on-gradient-background-7130467/",
+  "sourceName": "Pexels",
+  "authorName": "Codioful (formerly Gradienta)",
+  "authorUrl": "https://www.pexels.com/@codioful",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-18541708",
+  "mediaKey": "pexels:18541708",
+  "i18n": {
+    "name": {
+      "en": "Blue and pink gradient",
+      "uk": "Синьо-рожевий градієнт"
+    },
+    "alt": {
+      "en": "Colorful abstract gradient background with warm and vivid tones, perfect for modern designs.",
+      "uk": "Барвистий абстрактний фон із градієнтом у теплих і яскравих тонах, який ідеально підходить для сучасних дизайнів."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/colorful-background-wallpaper-4k-18541708/",
+  "sourceName": "Pexels",
+  "authorName": "Resource Boy",
+  "authorUrl": "https://www.pexels.com/@resourceboy",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "hiking-mountain",
+  "mediaKey": "60374169-1880-48a2-a2ad-ee5fa7ff6b70",
+  "i18n": {
+    "name": {
+      "en": "The Summit",
+      "uk": "Саміт"
+    },
+    "alt": {
+      "en": "The Summit",
+      "uk": "Саміт"
+    },
+    "tags": [
+      {
+        "key": "hiking",
+        "i18n": {
+          "en": "hiking",
+          "uk": "похід"
+        }
+      },
+      {
+        "key": "adventure",
+        "i18n": {
+          "en": "adventure",
+          "uk": "пригода"
+        }
+      },
+      {
+        "key": "mountain",
+        "i18n": {
+          "en": "mountain",
+          "uk": "гора"
+        }
+      },
+      {
+        "key": "sport",
+        "i18n": {
+          "en": "sport",
+          "uk": "спорт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/hiking-mountain",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

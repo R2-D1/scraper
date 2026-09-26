@@ -1,0 +1,63 @@
+{
+  "slug": "weather-forecast-h6pw",
+  "mediaKey": "739a4171-52f2-4b9e-badf-60b10c274fbd",
+  "providerId": "6914e179350ab005cc1fe189",
+  "i18n": {
+    "name": {
+      "en": "Weather Forecast",
+      "uk": "Прогноз погоди"
+    },
+    "alt": {
+      "en": "Weather Forecast",
+      "uk": "Прогноз погоди"
+    },
+    "tags": [
+      {
+        "key": "weather-forecast",
+        "i18n": {
+          "en": "Weather Forecast",
+          "uk": "Прогноз погоди"
+        }
+      },
+      {
+        "key": "weather",
+        "i18n": {
+          "en": "weather",
+          "uk": "погода"
+        }
+      },
+      {
+        "key": "forecast",
+        "i18n": {
+          "en": "forecast",
+          "uk": "прогноз"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/weather-forecast_h6pw.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 553
+}

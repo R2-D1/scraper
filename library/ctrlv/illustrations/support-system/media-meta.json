@@ -1,0 +1,90 @@
+{
+  "slug": "support-system",
+  "mediaKey": "6535c63f-6ade-473c-8e2f-1a363358cfb2",
+  "i18n": {
+    "name": {
+      "en": "Support System",
+      "uk": "Система підтримки"
+    },
+    "alt": {
+      "en": "Support System",
+      "uk": "Система підтримки"
+    },
+    "tags": [
+      {
+        "key": "couple",
+        "i18n": {
+          "en": "couple",
+          "uk": "пара"
+        }
+      },
+      {
+        "key": "relationship",
+        "i18n": {
+          "en": "relationship",
+          "uk": "стосунки"
+        }
+      },
+      {
+        "key": "support",
+        "i18n": {
+          "en": "support",
+          "uk": "підтримка"
+        }
+      },
+      {
+        "key": "help",
+        "i18n": {
+          "en": "help",
+          "uk": "допомогти"
+        }
+      },
+      {
+        "key": "climb",
+        "i18n": {
+          "en": "climb",
+          "uk": "лазіння"
+        }
+      },
+      {
+        "key": "teamwork",
+        "i18n": {
+          "en": "teamwork",
+          "uk": "командна робота"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/support-system",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

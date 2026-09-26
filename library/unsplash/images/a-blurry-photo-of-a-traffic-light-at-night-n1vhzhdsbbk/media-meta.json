@@ -1,0 +1,72 @@
+{
+  "slug": "a-blurry-photo-of-a-traffic-light-at-night-n1vhzhdsbbk",
+  "mediaKey": "d425a6bf-114d-4571-8a61-5c378c72ab48",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "blurry night lights",
+      "uk": "Розмиті нічні вогні"
+    },
+    "alt": {
+      "en": "blurry night lights",
+      "uk": "Розмиті нічні вогні"
+    },
+    "tags": [
+      {
+        "key": "brown",
+        "i18n": {
+          "en": "brown",
+          "uk": "коричневий"
+        }
+      },
+      {
+        "key": "light",
+        "i18n": {
+          "en": "light",
+          "uk": "світло"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      },
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "bokeh"
+      ],
+      "uk": [
+        "боке"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/a-blurry-photo-of-a-traffic-light-at-night-N1VhZhDSBBk",
+  "sourceName": "Unsplash",
+  "authorName": "Kristaps Solims",
+  "authorUrl": "https://unsplash.com/@kristapsbx",
+  "description": "blurry night lights",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 3600,
+  "collectionSlugs": [
+    "urban"
+  ]
+}

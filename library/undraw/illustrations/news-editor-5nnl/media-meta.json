@@ -1,0 +1,63 @@
+{
+  "slug": "news-editor-5nnl",
+  "mediaKey": "089b6675-01de-4ebd-b114-23410e6ebbfe",
+  "providerId": "6938b136282a4ab0dfc82198",
+  "i18n": {
+    "name": {
+      "en": "News Editor",
+      "uk": "Редактор новин"
+    },
+    "alt": {
+      "en": "News Editor",
+      "uk": "Редактор новин"
+    },
+    "tags": [
+      {
+        "key": "news-editor",
+        "i18n": {
+          "en": "News Editor",
+          "uk": "Редактор новин"
+        }
+      },
+      {
+        "key": "news",
+        "i18n": {
+          "en": "news",
+          "uk": "новини"
+        }
+      },
+      {
+        "key": "editor",
+        "i18n": {
+          "en": "editor",
+          "uk": "редактор"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/news-editor_5nnl.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 787,
+  "height": 388
+}

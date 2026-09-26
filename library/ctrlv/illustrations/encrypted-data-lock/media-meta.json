@@ -1,0 +1,76 @@
+{
+  "slug": "encrypted-data-lock",
+  "mediaKey": "ad78a116-c1de-409a-8e34-6a3e1855d576",
+  "i18n": {
+    "name": {
+      "en": "Encrypted Data Lock",
+      "uk": "Блокування зашифрованих даних"
+    },
+    "alt": {
+      "en": "Encrypted Data Lock",
+      "uk": "Блокування зашифрованих даних"
+    },
+    "tags": [
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "encryption",
+        "i18n": {
+          "en": "encryption",
+          "uk": "шифрування"
+        }
+      },
+      {
+        "key": "lock",
+        "i18n": {
+          "en": "lock",
+          "uk": "замок"
+        }
+      },
+      {
+        "key": "privacy",
+        "i18n": {
+          "en": "privacy",
+          "uk": "конфіденційність"
+        }
+      },
+      {
+        "key": "tech",
+        "i18n": {
+          "en": "tech",
+          "uk": "технології"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/encrypted-data-lock",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

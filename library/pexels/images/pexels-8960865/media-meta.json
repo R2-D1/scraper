@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-8960865",
+  "mediaKey": "pexels:8960865",
+  "i18n": {
+    "name": {
+      "en": "Rear view of a white sedan at night",
+      "uk": "Білий седан ззаду вночі"
+    },
+    "alt": {
+      "en": "Stunning Nissan GT-R R34 captured driving through Tokyo's highways at night, showcasing its iconic design and headlights.",
+      "uk": "Приголомшливий Nissan GT-R R34, знятий під час нічної їзди по автомагістралях Токіо, демонструє свій культовий дизайн та фари."
+    },
+    "tags": [
+      {
+        "key": "car",
+        "i18n": {
+          "en": "car",
+          "uk": "автомобіль"
+        }
+      },
+      {
+        "key": "sedan",
+        "i18n": {
+          "en": "sedan",
+          "uk": "седан"
+        }
+      },
+      {
+        "key": "rear-view",
+        "i18n": {
+          "en": "rear view",
+          "uk": "вид ззаду"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "vehicles"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-white-nissan-coupe-car-on-the-road-8960865/",
+  "sourceName": "Pexels",
+  "authorName": "Hensan Aranha",
+  "authorUrl": "https://www.pexels.com/@wearelivingart",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

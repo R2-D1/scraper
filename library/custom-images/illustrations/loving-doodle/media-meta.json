@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "loving-doodle",
+  "mediaKey": "custom:content:6adf75de25386104b4702448bae8def253bcdecfcacddc47a981b28b38b8926c",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "6adf75de25386104b4702448bae8def253bcdecfcacddc47a981b28b38b8926c",
+  "i18n": {
+    "name": {
+      "en": "Loving Doodle",
+      "uk": "Люблячий Дудл"
+    },
+    "alt": {
+      "en": "Loving Doodle",
+      "uk": "Люблячий Дудл"
+    },
+    "tags": [
+      {
+        "key": "loving",
+        "i18n": {
+          "en": "Loving",
+          "uk": "Любов"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

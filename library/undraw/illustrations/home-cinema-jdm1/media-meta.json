@@ -1,0 +1,63 @@
+{
+  "slug": "home-cinema-jdm1",
+  "mediaKey": "fbdf1aa5-9d7d-4f00-8971-d08990107f8c",
+  "providerId": "5e6f5b659790250017ad96e2",
+  "i18n": {
+    "name": {
+      "en": "Home cinema",
+      "uk": "Домашній кінотеатр"
+    },
+    "alt": {
+      "en": "Home cinema",
+      "uk": "Домашній кінотеатр"
+    },
+    "tags": [
+      {
+        "key": "home-cinema",
+        "i18n": {
+          "en": "Home cinema",
+          "uk": "Домашній кінотеатр"
+        }
+      },
+      {
+        "key": "home",
+        "i18n": {
+          "en": "home",
+          "uk": "додому"
+        }
+      },
+      {
+        "key": "cinema",
+        "i18n": {
+          "en": "cinema",
+          "uk": "кіно"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/home-cinema_jdm1.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 720,
+  "height": 687
+}

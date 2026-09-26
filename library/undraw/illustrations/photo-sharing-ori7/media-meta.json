@@ -1,0 +1,56 @@
+{
+  "slug": "photo-sharing-ori7",
+  "mediaKey": "e7ccb4b0-7881-44ae-90dd-dc6cdf009bb1",
+  "providerId": "5fd9f18f6bbe7b0017cfb3c5",
+  "i18n": {
+    "name": {
+      "en": "Photo sharing",
+      "uk": "Обмін фотографіями"
+    },
+    "alt": {
+      "en": "Photo sharing",
+      "uk": "Обмін фотографіями"
+    },
+    "tags": [
+      {
+        "key": "photo-sharing",
+        "i18n": {
+          "en": "Photo sharing",
+          "uk": "Обмін фотографіями"
+        }
+      },
+      {
+        "key": "sharing",
+        "i18n": {
+          "en": "sharing",
+          "uk": "обмін"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/photo-sharing_ori7.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 452,
+  "height": 596
+}

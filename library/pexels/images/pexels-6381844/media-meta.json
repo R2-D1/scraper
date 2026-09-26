@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-6381844",
+  "mediaKey": "pexels:6381844",
+  "i18n": {
+    "name": {
+      "en": "Woman posing behind a green light panel",
+      "uk": "Жінка позує за зеленою світловою панеллю"
+    },
+    "alt": {
+      "en": "Portrait of a young woman with dyed hair and lace gloves under green lighting, creating an artistic mood.",
+      "uk": "Портрет молодої жінки з пофарбованим волоссям і мереживними рукавичками у зеленому світлі, що створює художню атмосферу."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "green-light",
+        "i18n": {
+          "en": "green light",
+          "uk": "зелене світло"
+        }
+      },
+      {
+        "key": "neon-light",
+        "i18n": {
+          "en": "neon light",
+          "uk": "неонове світло"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-woman-posing-at-the-camera-6381844/",
+  "sourceName": "Pexels",
+  "authorName": "Ike  louie  Natividad",
+  "authorUrl": "https://www.pexels.com/@iamikeee",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

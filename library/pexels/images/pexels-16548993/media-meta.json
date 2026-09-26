@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-16548993",
+  "mediaKey": "pexels:16548993",
+  "i18n": {
+    "name": {
+      "en": "Close-up of a woman in a blue balaclava",
+      "uk": "Крупний план жінки в блакитній балаклаві"
+    },
+    "alt": {
+      "en": "Stylish close-up of a woman wearing a blue knit balaclava featuring false lashes.",
+      "uk": "Стильний крупний план жінки в синій трикотажній балаклаві з накладними віями."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "balaclava",
+        "i18n": {
+          "en": "balaclava",
+          "uk": "балаклава"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-wearing-eyes-makeup-16548993/",
+  "sourceName": "Pexels",
+  "authorName": "Lucas Brown",
+  "authorUrl": "https://www.pexels.com/@lucas-brown-368306455",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

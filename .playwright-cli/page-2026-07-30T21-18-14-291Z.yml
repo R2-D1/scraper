@@ -1,0 +1,327 @@
+- generic [ref=f25e4]:
+  - navigation [ref=f25e5]:
+    - generic [ref=f25e6]:
+      - generic [ref=f25e7]:
+        - link "Unsplash Home" [ref=f25e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f25e9]
+        - link "Photos" [ref=f25e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f25e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f25e17]:
+        - button "Explore" [ref=f25e18] [cursor=pointer]
+        - button "Collections" [ref=f25e21] [cursor=pointer]
+        - button "Download History" [ref=f25e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f25e28] [cursor=pointer]
+    - generic [ref=f25e31]:
+      - link "Log in / Sign up" [ref=f25e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fphotos%2Fbackground-pattern-RrKuqhTD2pg
+      - button "Language" [ref=f25e35] [cursor=pointer]
+      - button "Menu" [ref=f25e38] [cursor=pointer]
+  - generic [ref=f25e41]:
+    - generic [ref=f25e42]:
+      - navigation [ref=f25e43]:
+        - search "Find visuals sitewide" [ref=f25e45]:
+          - button "Search Unsplash" [ref=f25e46] [cursor=pointer]
+          - combobox [ref=f25e49]:
+            - searchbox "Search Unsplash" [ref=f25e50]
+            - listbox
+          - button "Visual search" [ref=f25e52] [cursor=pointer]
+        - generic [ref=f25e55]:
+          - link "Get Unsplash+" [ref=f25e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f25e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fphotos%2Fbackground-pattern-RrKuqhTD2pg
+        - button "Submit an image" [ref=f25e59] [cursor=pointer]
+      - generic [ref=f25e60]:
+        - generic [ref=f25e61]:
+          - banner [ref=f25e63]:
+            - generic [ref=f25e65]:
+              - link [ref=f25e66] [cursor=pointer]:
+                - /url: /@ksushlapush
+              - generic [ref=f25e69]:
+                - link "Kseniya Lapteva" [ref=f25e70] [cursor=pointer]:
+                  - /url: /@ksushlapush
+                - generic [ref=f25e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f25e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fbackground-pattern-RrKuqhTD2pg
+            - generic [ref=f25e73]:
+              - button "Bookmark" [ref=f25e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f25e77] [cursor=pointer]
+              - button "Edit image" [ref=f25e80] [cursor=pointer]
+              - button "Download" [ref=f25e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f25e90]:
+            - img "background pattern" [ref=f25e91]
+          - generic [ref=f25e92]:
+            - generic [ref=f25e94]:
+              - button "Share this image" [ref=f25e95] [cursor=pointer]:
+                - generic [ref=f25e98]: Share
+              - button "More Actions" [ref=f25e99] [cursor=pointer]
+            - generic [ref=f25e103]:
+              - heading "background pattern" [level=1] [ref=f25e105]
+              - paragraph [ref=f25e109]: Download this HD photo of background, paper texture, texture, and abstract background by Kseniya Lapteva (@ksushlapush)
+              - generic [ref=f25e111]:
+                - generic [ref=f25e116]:
+                  - text: Published on
+                  - time [ref=f25e117]: December 6, 2022
+                - generic [ref=f25e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f25e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f25e124]:
+              - link "background" [ref=f25e125] [cursor=pointer]:
+                - /url: /s/photos/background
+              - link "paper texture" [ref=f25e126] [cursor=pointer]:
+                - /url: /s/photos/paper-texture
+              - link "texture" [ref=f25e127] [cursor=pointer]:
+                - /url: /s/photos/texture
+              - link "abstract background" [ref=f25e128] [cursor=pointer]:
+                - /url: /s/photos/abstract-background
+              - link "graphic design" [ref=f25e129] [cursor=pointer]:
+                - /url: /s/photos/graphic-design
+              - link "purple" [ref=f25e130] [cursor=pointer]:
+                - /url: /s/photos/purple
+              - link "abstract art" [ref=f25e131] [cursor=pointer]:
+                - /url: /s/photos/abstract-art
+              - link "creative" [ref=f25e132] [cursor=pointer]:
+                - /url: /s/photos/creative
+              - link "purple background" [ref=f25e133] [cursor=pointer]:
+                - /url: /s/photos/purple-background
+              - link "wallpapers" [ref=f25e134] [cursor=pointer]:
+                - /url: /s/photos/wallpapers
+              - link "modern art" [ref=f25e135] [cursor=pointer]:
+                - /url: /s/photos/modern-art
+              - link "backgrounds" [ref=f25e136] [cursor=pointer]:
+                - /url: /s/photos/backgrounds
+              - link "background design" [ref=f25e137] [cursor=pointer]:
+                - /url: /s/photos/background-design
+              - link "watercolor texture" [ref=f25e138] [cursor=pointer]:
+                - /url: /s/photos/watercolor-texture
+              - link "paint texture" [ref=f25e139] [cursor=pointer]:
+                - /url: /s/photos/paint-texture
+              - link "textured background" [ref=f25e140] [cursor=pointer]:
+                - /url: /s/photos/textured-background
+              - link "lilac" [ref=f25e141] [cursor=pointer]:
+                - /url: /s/photos/lilac
+              - link "artistic" [ref=f25e142] [cursor=pointer]:
+                - /url: /s/photos/artistic
+              - link "purple color" [ref=f25e143] [cursor=pointer]:
+                - /url: /s/photos/purple-color
+              - link "violet" [ref=f25e144] [cursor=pointer]:
+                - /url: /s/photos/violet
+        - generic [ref=f25e147]:
+          - generic [ref=f25e148]:
+            - paragraph [ref=f25e150]: From this series
+            - generic [ref=f25e152]:
+              - button "scroll list to the right" [ref=f25e154] [cursor=pointer]
+              - generic [ref=f25e157]:
+                - generic [ref=f25e158]:
+                  - link [ref=f25e159] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fbackground-pattern-5RvLPkqzaQ0
+                  - link [ref=f25e162]:
+                    - /url: /photos/background-pattern-5RvLPkqzaQ0
+                    - img "background pattern" [ref=f25e163]
+                - generic [ref=f25e164]:
+                  - link [ref=f25e165] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fbackground-pattern-SH7Th3Pd7ss
+                  - link [ref=f25e168]:
+                    - /url: /photos/background-pattern-SH7Th3Pd7ss
+                    - img "background pattern" [ref=f25e169]
+                - generic [ref=f25e170]:
+                  - link [ref=f25e171] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blue-surface-with-a-dark-background-H4QfNS7ROR4
+                  - link [ref=f25e174]:
+                    - /url: /photos/a-blue-surface-with-a-dark-background-H4QfNS7ROR4
+                    - img "a blue surface with a dark background" [ref=f25e175]
+                - generic [ref=f25e176]:
+                  - link [ref=f25e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-close-up-of-a-pink-and-yellow-smoke-0gtRV6tbCJo
+                  - link [ref=f25e180]:
+                    - /url: /photos/a-close-up-of-a-pink-and-yellow-smoke-0gtRV6tbCJo
+                    - img "a close up of a pink and yellow smoke" [ref=f25e181]
+                - generic [ref=f25e182]:
+                  - link [ref=f25e183] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fbackground-pattern-bLUA15jobhs
+                  - link [ref=f25e186]:
+                    - /url: /photos/background-pattern-bLUA15jobhs
+                    - img "background pattern" [ref=f25e187]
+                - generic [ref=f25e188]:
+                  - link [ref=f25e189] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fbackground-pattern-GpKrJrJzALA
+                  - link [ref=f25e192]:
+                    - /url: /photos/background-pattern-GpKrJrJzALA
+                    - img "background pattern" [ref=f25e193]
+                - generic [ref=f25e194]:
+                  - link [ref=f25e195] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-large-body-of-water-qLjAYYInmWE
+                  - link [ref=f25e198]:
+                    - /url: /photos/a-large-body-of-water-qLjAYYInmWE
+                    - img "a large body of water" [ref=f25e199]
+                - generic [ref=f25e200]:
+                  - link [ref=f25e201] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fbackground-pattern-Ajq_NcvH3Ls
+                  - link [ref=f25e204]:
+                    - /url: /photos/background-pattern-Ajq_NcvH3Ls
+                    - img "background pattern" [ref=f25e205]
+                - generic [ref=f25e206]:
+                  - link [ref=f25e207] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fbackground-pattern-BdPoxF3s9lI
+                  - link [ref=f25e210]:
+                    - /url: /photos/background-pattern-BdPoxF3s9lI
+                    - img "background pattern" [ref=f25e211]
+                - generic [ref=f25e212]:
+                  - link [ref=f25e213] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fbackground-pattern-w6mhUWuvWW4
+                  - link [ref=f25e216]:
+                    - /url: /photos/background-pattern-w6mhUWuvWW4
+                    - img "background pattern" [ref=f25e217]
+          - generic [ref=f25e218]:
+            - heading "Related images" [level=4] [ref=f25e220]
+            - generic [ref=f25e224]:
+              - generic [ref=f25e225]:
+                - figure [ref=f25e226]:
+                  - generic [ref=f25e228]:
+                    - link [ref=f25e229]:
+                      - /url: /photos/a-watercolor-painting-of-a-purple-cloud-mMLT9RqIdoc
+                      - img "a watercolor painting of a purple cloud" [ref=f25e230]
+                    - link [ref=f25e231] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-watercolor-painting-of-a-purple-cloud-mMLT9RqIdoc
+                - figure [ref=f25e234]:
+                  - generic [ref=f25e236]:
+                    - link [ref=f25e237]:
+                      - /url: /photos/a-watercolor-painting-of-a-pink-and-purple-sky-F37OPmKhi2c
+                      - img "a watercolor painting of a pink and purple sky" [ref=f25e238]
+                    - link [ref=f25e239] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-watercolor-painting-of-a-pink-and-purple-sky-F37OPmKhi2c
+                - figure [ref=f25e242]:
+                  - generic [ref=f25e244]:
+                    - link [ref=f25e245]:
+                      - /url: /photos/a-watercolor-painting-of-a-purple-sky-9IXDbzeXbVE
+                      - img "a watercolor painting of a purple sky" [ref=f25e246]
+                    - link [ref=f25e247] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-watercolor-painting-of-a-purple-sky-9IXDbzeXbVE
+                - figure [ref=f25e250]:
+                  - generic [ref=f25e252]:
+                    - link [ref=f25e253]:
+                      - /url: /photos/a-painting-of-pink-and-purple-clouds-in-the-sky-sfEwrXoqbmg
+                      - img "a painting of pink and purple clouds in the sky" [ref=f25e254]
+                    - link [ref=f25e255] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-painting-of-pink-and-purple-clouds-in-the-sky-sfEwrXoqbmg
+                - figure [ref=f25e258]:
+                  - generic [ref=f25e260]:
+                    - link [ref=f25e261]:
+                      - /url: /photos/a-watercolor-painting-of-a-purple-sky-y_DXhG7Lmys
+                      - img "a watercolor painting of a purple sky" [ref=f25e262]
+                    - link [ref=f25e263] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-watercolor-painting-of-a-purple-sky-y_DXhG7Lmys
+                - figure [ref=f25e266]:
+                  - generic [ref=f25e268]:
+                    - link [ref=f25e269]:
+                      - /url: /photos/background-pattern-4p8lAycZeTE
+                      - img "background pattern" [ref=f25e270]
+                    - link [ref=f25e271] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fbackground-pattern-4p8lAycZeTE
+              - generic [ref=f25e274]:
+                - figure [ref=f25e275]:
+                  - generic [ref=f25e277]:
+                    - link [ref=f25e278]:
+                      - /url: /photos/a-watercolor-painting-of-a-purple-background-ceSU1jYfZwQ
+                      - img "a watercolor painting of a purple background" [ref=f25e279]
+                    - link [ref=f25e280] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-watercolor-painting-of-a-purple-background-ceSU1jYfZwQ
+                - figure [ref=f25e283]:
+                  - generic [ref=f25e285]:
+                    - link [ref=f25e286]:
+                      - /url: /photos/a-watercolor-painting-of-a-pink-background-NrQCbSHFfrQ
+                      - img "a watercolor painting of a pink background" [ref=f25e287]
+                    - link [ref=f25e288] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-watercolor-painting-of-a-pink-background-NrQCbSHFfrQ
+                - figure [ref=f25e291]:
+                  - generic [ref=f25e293]:
+                    - link [ref=f25e294]:
+                      - /url: /photos/a-painting-of-blue-and-purple-colors-on-a-white-background-YCZ5vAZns3w
+                      - img "a painting of blue and purple colors on a white background" [ref=f25e295]
+                    - link [ref=f25e296] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-painting-of-blue-and-purple-colors-on-a-white-background-YCZ5vAZns3w
+                - figure [ref=f25e299]:
+                  - generic [ref=f25e301]:
+                    - link [ref=f25e302]:
+                      - /url: /photos/a-watercolor-painting-of-purple-and-blue-colors-ZUVWU6pauMQ
+                      - img "a watercolor painting of purple and blue colors" [ref=f25e303]
+                    - link [ref=f25e304] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-watercolor-painting-of-purple-and-blue-colors-ZUVWU6pauMQ
+                - figure [ref=f25e307]:
+                  - generic [ref=f25e309]:
+                    - link [ref=f25e310]:
+                      - /url: /photos/a-watercolor-painting-of-a-pink-and-purple-background-FT_AVcX9S2E
+                      - img "a watercolor painting of a pink and purple background" [ref=f25e311]
+                    - link [ref=f25e312] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-watercolor-painting-of-a-pink-and-purple-background-FT_AVcX9S2E
+                - figure [ref=f25e315]:
+                  - generic [ref=f25e317]:
+                    - link [ref=f25e318]:
+                      - /url: /photos/a-watercolor-painting-of-a-pink-background-qa0_2lmmQIA
+                      - img "a watercolor painting of a pink background" [ref=f25e319]
+                    - link [ref=f25e320] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-watercolor-painting-of-a-pink-background-qa0_2lmmQIA
+                - figure [ref=f25e323]:
+                  - generic [ref=f25e325]:
+                    - link [ref=f25e326]:
+                      - /url: /photos/a-watercolor-painting-of-a-blue-and-purple-sky-ZPd0d-g39q4
+                      - img "a watercolor painting of a blue and purple sky" [ref=f25e327]
+                    - link [ref=f25e328] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-watercolor-painting-of-a-blue-and-purple-sky-ZPd0d-g39q4
+                - figure [ref=f25e331]:
+                  - generic [ref=f25e333]:
+                    - link [ref=f25e334]:
+                      - /url: /photos/background-pattern-uFFccC1m1sw
+                      - img "background pattern" [ref=f25e335]
+                    - link [ref=f25e336] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fbackground-pattern-uFFccC1m1sw
+              - generic [ref=f25e339]:
+                - figure [ref=f25e340]:
+                  - generic [ref=f25e342]:
+                    - link [ref=f25e343]:
+                      - /url: /photos/a-cloud-of-smoke-BZQ2GJPeR6A
+                      - img "a cloud of smoke" [ref=f25e344]
+                    - link [ref=f25e345] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-cloud-of-smoke-BZQ2GJPeR6A
+                - figure [ref=f25e348]:
+                  - generic [ref=f25e350]:
+                    - link [ref=f25e351]:
+                      - /url: /photos/a-watercolor-painting-of-a-pink-background-S8NR8L-W0tg
+                      - img "a watercolor painting of a pink background" [ref=f25e352]
+                    - link [ref=f25e353] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-watercolor-painting-of-a-pink-background-S8NR8L-W0tg
+                - figure [ref=f25e356]:
+                  - generic [ref=f25e358]:
+                    - link [ref=f25e359]:
+                      - /url: /photos/a-watercolor-painting-of-a-purple-background-UFpXu0LoXXM
+                      - img "a watercolor painting of a purple background" [ref=f25e360]
+                    - link [ref=f25e361] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-watercolor-painting-of-a-purple-background-UFpXu0LoXXM
+                - figure [ref=f25e364]:
+                  - generic [ref=f25e366]:
+                    - link [ref=f25e367]:
+                      - /url: /photos/a-watercolor-painting-of-purple-and-pink-clouds-nwVRPMI_4bk
+                      - img "a watercolor painting of purple and pink clouds" [ref=f25e368]
+                    - link [ref=f25e369] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-watercolor-painting-of-purple-and-pink-clouds-nwVRPMI_4bk
+                - figure [ref=f25e372]:
+                  - generic [ref=f25e374]:
+                    - link [ref=f25e375]:
+                      - /url: /photos/a-watercolor-painting-of-a-pink-background-O7TNIB-I1hM
+                      - img "a watercolor painting of a pink background" [ref=f25e376]
+                    - link [ref=f25e377] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-watercolor-painting-of-a-pink-background-O7TNIB-I1hM
+                - figure [ref=f25e380]:
+                  - generic [ref=f25e382]:
+                    - link [ref=f25e383]:
+                      - /url: /photos/a-close-up-of-a-purple-background-with-a-black-border-jTLEyoYIdkw
+                      - img "a close up of a purple background with a black border" [ref=f25e384]
+                    - link [ref=f25e385] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-of-a-purple-background-with-a-black-border-jTLEyoYIdkw
+    - generic:
+      - region "Notifications"

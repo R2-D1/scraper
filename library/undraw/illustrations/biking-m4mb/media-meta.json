@@ -1,0 +1,49 @@
+{
+  "slug": "biking-m4mb",
+  "mediaKey": "0a24c3ed-cabb-4cd0-a603-cab4a9b9fb15",
+  "providerId": "5cd44e8074cc8c0015b1e766",
+  "i18n": {
+    "name": {
+      "en": "Biking",
+      "uk": "Велоспорт"
+    },
+    "alt": {
+      "en": "Biking",
+      "uk": "Велоспорт"
+    },
+    "tags": [
+      {
+        "key": "biking",
+        "i18n": {
+          "en": "Biking",
+          "uk": "Велоспорт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/biking_m4mb.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 938,
+  "height": 653
+}

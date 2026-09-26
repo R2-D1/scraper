@@ -1,0 +1,63 @@
+{
+  "slug": "shopping-favorites-spd0",
+  "mediaKey": "fe3e17ff-bb76-4620-8785-67ddac7be793",
+  "providerId": "69700dc10928b4eb74f0b395",
+  "i18n": {
+    "name": {
+      "en": "Shopping Favorites",
+      "uk": "Улюблені товари"
+    },
+    "alt": {
+      "en": "Shopping Favorites",
+      "uk": "Улюблені товари"
+    },
+    "tags": [
+      {
+        "key": "shopping-favorites",
+        "i18n": {
+          "en": "Shopping Favorites",
+          "uk": "Улюблені товари"
+        }
+      },
+      {
+        "key": "shopping",
+        "i18n": {
+          "en": "shopping",
+          "uk": "покупки"
+        }
+      },
+      {
+        "key": "favorites",
+        "i18n": {
+          "en": "favorites",
+          "uk": "улюблені"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/shopping-favorites_spd0.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 531,
+  "height": 800
+}

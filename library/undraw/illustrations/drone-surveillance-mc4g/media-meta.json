@@ -1,0 +1,63 @@
+{
+  "slug": "drone-surveillance-mc4g",
+  "mediaKey": "08274729-6f5d-4d97-b2a8-7a9a48c62928",
+  "providerId": "5e53b46fbf9c6e0017cedd43",
+  "i18n": {
+    "name": {
+      "en": "Drone surveillance",
+      "uk": "Спостереження за допомогою дронів"
+    },
+    "alt": {
+      "en": "Drone surveillance",
+      "uk": "Спостереження за допомогою дронів"
+    },
+    "tags": [
+      {
+        "key": "drone-surveillance",
+        "i18n": {
+          "en": "Drone surveillance",
+          "uk": "Спостереження за допомогою дронів"
+        }
+      },
+      {
+        "key": "drone",
+        "i18n": {
+          "en": "drone",
+          "uk": "дрон"
+        }
+      },
+      {
+        "key": "surveillance",
+        "i18n": {
+          "en": "surveillance",
+          "uk": "нагляд"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/drone-surveillance_mc4g.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 888,
+  "height": 552
+}

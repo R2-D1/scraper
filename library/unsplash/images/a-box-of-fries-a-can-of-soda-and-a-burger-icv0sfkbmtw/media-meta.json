@@ -1,0 +1,67 @@
+{
+  "slug": "a-box-of-fries-a-can-of-soda-and-a-burger-icv0sfkbmtw",
+  "mediaKey": "7ed4138b-378f-497e-9e9c-615ce7a4a309",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "a box of fries, a can of soda and a burger",
+      "uk": "Бургер, картопля фрі та газований напій"
+    },
+    "alt": {
+      "en": "a box of fries, a can of soda and a burger",
+      "uk": "коробка картоплі фрі, банка газованої води та бургер"
+    },
+    "tags": [
+      {
+        "key": "food",
+        "i18n": {
+          "en": "food",
+          "uk": "їжа"
+        }
+      },
+      {
+        "key": "burger",
+        "i18n": {
+          "en": "burger",
+          "uk": "бургер"
+        }
+      },
+      {
+        "key": "fries",
+        "i18n": {
+          "en": "fries",
+          "uk": "картопля фрі"
+        }
+      },
+      {
+        "key": "tin",
+        "i18n": {
+          "en": "tin",
+          "uk": "олово"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "food-drink"
+  ],
+  "source": "https://unsplash.com/photos/a-box-of-fries-a-can-of-soda-and-a-burger-icV0sfKBmTw",
+  "sourceName": "Unsplash",
+  "authorName": "Amr Taha™",
+  "authorUrl": "https://unsplash.com/@amr_taha",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 3600
+}

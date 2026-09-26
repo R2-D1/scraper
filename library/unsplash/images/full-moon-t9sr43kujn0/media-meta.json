@@ -1,0 +1,81 @@
+{
+  "slug": "full-moon-t9sr43kujn0",
+  "mediaKey": "00e4f074-72b9-4b15-861b-58d71a4ec712",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "full moon",
+      "uk": "Червонуватий повний місяць"
+    },
+    "alt": {
+      "en": "full moon",
+      "uk": "повний місяць"
+    },
+    "tags": [
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "moon",
+        "i18n": {
+          "en": "moon",
+          "uk": "місяць"
+        }
+      },
+      {
+        "key": "stars",
+        "i18n": {
+          "en": "stars",
+          "uk": "зірки"
+        }
+      },
+      {
+        "key": "lunar-eclipse",
+        "i18n": {
+          "en": "lunar eclipse",
+          "uk": "місячне затемнення"
+        }
+      },
+      {
+        "key": "constellations",
+        "i18n": {
+          "en": "constellations",
+          "uk": "сузір’я"
+        }
+      },
+      {
+        "key": "space",
+        "i18n": {
+          "en": "space",
+          "uk": "простір"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "space"
+  ],
+  "source": "https://unsplash.com/photos/full-moon-t9sr43kuJN0",
+  "sourceName": "Unsplash",
+  "authorName": "Ahsan Avi",
+  "authorUrl": "https://unsplash.com/@mizajmicrofilms",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2303,
+  "height": 1536
+}

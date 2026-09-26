@@ -1,0 +1,63 @@
+{
+  "slug": "well-done-kqud",
+  "mediaKey": "c5d4fce6-3f84-42a0-81c1-48452da42f65",
+  "providerId": "6763db01466f54c308c4da1f",
+  "i18n": {
+    "name": {
+      "en": "Well done",
+      "uk": "Молодець!"
+    },
+    "alt": {
+      "en": "Well done",
+      "uk": "Молодець!"
+    },
+    "tags": [
+      {
+        "key": "well-done",
+        "i18n": {
+          "en": "Well done",
+          "uk": "Молодець!"
+        }
+      },
+      {
+        "key": "well",
+        "i18n": {
+          "en": "well",
+          "uk": "ну"
+        }
+      },
+      {
+        "key": "done",
+        "i18n": {
+          "en": "done",
+          "uk": "зроблено"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/well-done_kqud.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 525,
+  "height": 520
+}

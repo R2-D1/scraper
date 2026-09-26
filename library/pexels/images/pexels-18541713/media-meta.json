@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-18541713",
+  "mediaKey": "pexels:18541713",
+  "i18n": {
+    "name": {
+      "en": "Muted lavender and peach gradient",
+      "uk": "Приглушений лавандово-персиковий градієнт"
+    },
+    "alt": {
+      "en": "Vibrant gradient background blending warm and cool hues, ideal for modern design projects.",
+      "uk": "Яскравий фон із градієнтом, що поєднує теплі та холодні відтінки, ідеально підходить для сучасних дизайнерських проєктів."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "soft-colors",
+        "i18n": {
+          "en": "soft colors",
+          "uk": "м'які кольори"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/colorful-background-wallpaper-4k-18541713/",
+  "sourceName": "Pexels",
+  "authorName": "Resource Boy",
+  "authorUrl": "https://www.pexels.com/@resourceboy",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

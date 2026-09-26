@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-28574501",
+  "mediaKey": "pexels:28574501",
+  "i18n": {
+    "name": {
+      "en": "Tennis ball on a court line",
+      "uk": "Тенісний м'яч на лінії корту"
+    },
+    "alt": {
+      "en": "Yellow tennis ball perfectly placed on a blue court line, symbolic of precision.",
+      "uk": "Жовтий тенісний м'яч, ідеально розміщений на синій лінії корту, що символізує точність."
+    },
+    "tags": [
+      {
+        "key": "tennis-ball",
+        "i18n": {
+          "en": "tennis ball",
+          "uk": "тенісний м’яч"
+        }
+      },
+      {
+        "key": "tennis-court",
+        "i18n": {
+          "en": "tennis court",
+          "uk": "тенісний корт"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "sports",
+          "uk": "спорт"
+        }
+      },
+      {
+        "key": "minimal",
+        "i18n": {
+          "en": "minimal",
+          "uk": "мінімальний"
+        }
+      },
+      {
+        "key": "graphic",
+        "i18n": {
+          "en": "graphic",
+          "uk": "графічний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/tennis-ball-on-blue-court-line-28574501/",
+  "sourceName": "Pexels",
+  "authorName": "Zeynep Tekin",
+  "authorUrl": "https://www.pexels.com/@zeynep-tekin-1462737863",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3200
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-18541718",
+  "mediaKey": "pexels:18541718",
+  "i18n": {
+    "name": {
+      "en": "Yellow, blue and violet gradient",
+      "uk": "Жовто-синьо-фіолетовий градієнт"
+    },
+    "alt": {
+      "en": "Bright and colorful gradient background transitioning from yellow to pink for creative use.",
+      "uk": "Яскравий і барвистий фон із градієнтом, що плавно переходить від жовтого до рожевого, для творчого використання."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      },
+      {
+        "key": "yellow",
+        "i18n": {
+          "en": "yellow",
+          "uk": "жовтий"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/colorful-background-wallpaper-4k-18541718/",
+  "sourceName": "Pexels",
+  "authorName": "Resource Boy",
+  "authorUrl": "https://www.pexels.com/@resourceboy",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

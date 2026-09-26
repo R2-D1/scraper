@@ -1,0 +1,76 @@
+{
+  "slug": "magic-hat",
+  "mediaKey": "ae8a9919-e5af-4ab2-a3cb-5358a6e745bf",
+  "i18n": {
+    "name": {
+      "en": "The Reveal",
+      "uk": "«The Reveal»"
+    },
+    "alt": {
+      "en": "The Reveal",
+      "uk": "«The Reveal»"
+    },
+    "tags": [
+      {
+        "key": "magic",
+        "i18n": {
+          "en": "magic",
+          "uk": "магія"
+        }
+      },
+      {
+        "key": "show",
+        "i18n": {
+          "en": "show",
+          "uk": "шоу"
+        }
+      },
+      {
+        "key": "performance",
+        "i18n": {
+          "en": "performance",
+          "uk": "виступ"
+        }
+      },
+      {
+        "key": "mystery",
+        "i18n": {
+          "en": "mystery",
+          "uk": "таємниця"
+        }
+      },
+      {
+        "key": "fun",
+        "i18n": {
+          "en": "fun",
+          "uk": "розвага"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/magic-hat",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

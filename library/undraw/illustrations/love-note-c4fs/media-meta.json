@@ -1,0 +1,63 @@
+{
+  "slug": "love-note-c4fs",
+  "mediaKey": "39bab4ac-f2c5-4262-8ba9-a58de11b6bfb",
+  "providerId": "6972aee4393c47dd34eb9bcf",
+  "i18n": {
+    "name": {
+      "en": "Love Note",
+      "uk": "Любовна записка"
+    },
+    "alt": {
+      "en": "Love Note",
+      "uk": "Любовна записка"
+    },
+    "tags": [
+      {
+        "key": "love-note",
+        "i18n": {
+          "en": "Love Note",
+          "uk": "Любовна записка"
+        }
+      },
+      {
+        "key": "love",
+        "i18n": {
+          "en": "love",
+          "uk": "кохання"
+        }
+      },
+      {
+        "key": "note",
+        "i18n": {
+          "en": "note",
+          "uk": "примітка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/love-note_c4fs.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 640,
+  "height": 683
+}

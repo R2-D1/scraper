@@ -1,0 +1,90 @@
+{
+  "slug": "edge-computing",
+  "mediaKey": "553b7845-9a44-45e6-b0f8-278faac07d85",
+  "i18n": {
+    "name": {
+      "en": "Edge Computing",
+      "uk": "Периферійні обчислення"
+    },
+    "alt": {
+      "en": "Edge Computing",
+      "uk": "Периферійні обчислення"
+    },
+    "tags": [
+      {
+        "key": "edge",
+        "i18n": {
+          "en": "edge",
+          "uk": "Edge"
+        }
+      },
+      {
+        "key": "computing",
+        "i18n": {
+          "en": "computing",
+          "uk": "обчислення"
+        }
+      },
+      {
+        "key": "analytics",
+        "i18n": {
+          "en": "analytics",
+          "uk": "аналітика"
+        }
+      },
+      {
+        "key": "iot",
+        "i18n": {
+          "en": "iot",
+          "uk": "IoT"
+        }
+      },
+      {
+        "key": "devices",
+        "i18n": {
+          "en": "devices",
+          "uk": "пристроїв"
+        }
+      },
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      },
+      {
+        "key": "cloud",
+        "i18n": {
+          "en": "cloud",
+          "uk": "хмара"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/edge-computing",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

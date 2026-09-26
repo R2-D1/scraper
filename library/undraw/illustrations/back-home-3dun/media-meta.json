@@ -1,0 +1,63 @@
+{
+  "slug": "back-home-3dun",
+  "mediaKey": "ab6090c1-7261-4dab-9867-81be2e9f9aa0",
+  "providerId": "5d07c7cf8caac0001578e844",
+  "i18n": {
+    "name": {
+      "en": "Back home",
+      "uk": "Додому"
+    },
+    "alt": {
+      "en": "Back home",
+      "uk": "Додому"
+    },
+    "tags": [
+      {
+        "key": "back-home",
+        "i18n": {
+          "en": "Back home",
+          "uk": "Додому"
+        }
+      },
+      {
+        "key": "back",
+        "i18n": {
+          "en": "back",
+          "uk": "назад"
+        }
+      },
+      {
+        "key": "home",
+        "i18n": {
+          "en": "home",
+          "uk": "додому"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/back-home_3dun.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1126,
+  "height": 694
+}

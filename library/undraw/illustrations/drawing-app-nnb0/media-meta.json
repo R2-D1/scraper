@@ -1,0 +1,63 @@
+{
+  "slug": "drawing-app-nnb0",
+  "mediaKey": "7320f863-5f48-4737-951d-5686981ce650",
+  "providerId": "688be35d45976871ede9beca",
+  "i18n": {
+    "name": {
+      "en": "Drawing App",
+      "uk": "Додаток для малювання"
+    },
+    "alt": {
+      "en": "Drawing App",
+      "uk": "Додаток для малювання"
+    },
+    "tags": [
+      {
+        "key": "drawing-app",
+        "i18n": {
+          "en": "Drawing App",
+          "uk": "Додаток для малювання"
+        }
+      },
+      {
+        "key": "drawing",
+        "i18n": {
+          "en": "drawing",
+          "uk": "малюнок"
+        }
+      },
+      {
+        "key": "app",
+        "i18n": {
+          "en": "app",
+          "uk": "додаток"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/drawing-app_nnb0.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 522,
+  "height": 721
+}

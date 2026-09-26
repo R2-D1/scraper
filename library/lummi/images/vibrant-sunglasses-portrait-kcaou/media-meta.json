@@ -1,0 +1,94 @@
+{
+  "slug": "vibrant-sunglasses-portrait-kcaou",
+  "mediaKey": "cd20d6f5-5f5a-4bbd-a01e-8ac9888690c6",
+  "i18n": {
+    "name": {
+      "en": "Vibrant Sunglasses Portrait",
+      "uk": "Яскравий портрет у сонячних окулярах"
+    },
+    "alt": {
+      "en": "Vibrant Sunglasses Portrait",
+      "uk": "Яскравий портрет у сонячних окулярах"
+    },
+    "tags": [
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "sunglasses",
+        "i18n": {
+          "en": "Sunglasses",
+          "uk": "Сонячні окуляри"
+        }
+      },
+      {
+        "key": "shallow-depth-of-field",
+        "i18n": {
+          "en": "shallow depth of field",
+          "uk": "невелика глибина різкості"
+        }
+      },
+      {
+        "key": "vibrant-lighting",
+        "i18n": {
+          "en": "vibrant lighting",
+          "uk": "яскраве освітлення"
+        }
+      },
+      {
+        "key": "artistic-composition",
+        "i18n": {
+          "en": "artistic composition",
+          "uk": "художня композиція"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Lloyd Creates",
+  "authorUrl": "https://www.lummi.ai/creator/lloydcreates?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A close-up portrait of a person wearing sunglasses, with a soft focus and vibrant lighting. The image emphasizes the subject's facial features, including their lips and the reflection in the sunglasses. The lighting creates a warm, colorful gradient effect, blending shades of blue and orange. The composition is artistic, with a shallow depth of field that blurs the background, drawing attention to the subject's face.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1345,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/vibrant-sunglasses-portrait-kcaou/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/vibrant-sunglasses-portrait-kcaou/vibrant-sunglasses-portrait-kcaou.png",
+  "relativeAssetPath": "library/lummi/images/vibrant-sunglasses-portrait-kcaou/vibrant-sunglasses-portrait-kcaou.png"
+}

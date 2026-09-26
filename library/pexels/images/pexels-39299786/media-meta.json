@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-39299786",
+  "mediaKey": "pexels:39299786",
+  "i18n": {
+    "name": {
+      "en": "Close-up of a green lizard",
+      "uk": "Крупний план зеленої ящірки"
+    },
+    "alt": {
+      "en": "Detailed close-up of a green iguana against a bold red background, showcasing its textured skin.",
+      "uk": "Детальний крупний план зеленої ігуани на яскраво-червоному тлі, що підкреслює фактурність її шкіри."
+    },
+    "tags": [
+      {
+        "key": "lizard",
+        "i18n": {
+          "en": "lizard",
+          "uk": "ящірка"
+        }
+      },
+      {
+        "key": "reptile",
+        "i18n": {
+          "en": "reptile",
+          "uk": "плазуни"
+        }
+      },
+      {
+        "key": "wildlife",
+        "i18n": {
+          "en": "wildlife",
+          "uk": "дика природа"
+        }
+      },
+      {
+        "key": "close-up",
+        "i18n": {
+          "en": "close up",
+          "uk": "крупний план"
+        }
+      },
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "animals"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/close-up-portrait-of-a-green-iguana-39299786/",
+  "sourceName": "Pexels",
+  "authorName": "Lara Argento",
+  "authorUrl": "https://www.pexels.com/@laraargento",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

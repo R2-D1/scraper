@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-856295",
+  "mediaKey": "pexels:video:856295",
+  "i18n": {
+    "name": {
+      "en": "Fireball Explosion on Black Background",
+      "uk": "Вибух вогняної кулі на чорному тлі"
+    },
+    "alt": {
+      "en": "Pexels video 856295",
+      "uk": "Відео з Pexels № 856295"
+    },
+    "tags": [
+      {
+        "key": "fire",
+        "i18n": {
+          "en": "fire",
+          "uk": "вогонь"
+        }
+      },
+      {
+        "key": "flames",
+        "i18n": {
+          "en": "flames",
+          "uk": "полум'я"
+        }
+      },
+      {
+        "key": "explosion",
+        "i18n": {
+          "en": "explosion",
+          "uk": "вибух"
+        }
+      },
+      {
+        "key": "fireball",
+        "i18n": {
+          "en": "fireball",
+          "uk": "вогняна куля"
+        }
+      },
+      {
+        "key": "black-background",
+        "i18n": {
+          "en": "black background",
+          "uk": "чорний фон"
+        }
+      },
+      {
+        "key": "slow-motion",
+        "i18n": {
+          "en": "slow motion",
+          "uk": "уповільнене відтворення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/fire-explosion-video-856295/",
+  "sourceName": "Pexels",
+  "authorName": "Pixabay",
+  "authorUrl": "https://www.pexels.com/@pixabay",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1366,
+  "height": 576,
+  "duration": 6,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "upload-cucu",
+  "mediaKey": "5712d2c8-be53-49f7-a9d4-db6f3570b1f2",
+  "providerId": "5ffed55807be8100175859b2",
+  "i18n": {
+    "name": {
+      "en": "Upload",
+      "uk": "Завантажити"
+    },
+    "alt": {
+      "en": "Upload",
+      "uk": "Завантажити"
+    },
+    "tags": [
+      {
+        "key": "upload",
+        "i18n": {
+          "en": "Upload",
+          "uk": "Завантажити"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/upload_cucu.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 778,
+  "height": 613
+}

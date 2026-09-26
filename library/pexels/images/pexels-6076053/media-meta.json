@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-6076053",
+  "mediaKey": "pexels:6076053",
+  "i18n": {
+    "name": {
+      "en": "Woman playing basketball on a court",
+      "uk": "Жінка, яка грає в баскетбол на майданчику"
+    },
+    "alt": {
+      "en": "A young woman in a tank top sitting on a vibrant basketball court holding a basketball.",
+      "uk": "Молода жінка в майці сидить на яскравому баскетбольному майданчику, тримаючи в руках баскетбольний м’яч."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "basketball",
+        "i18n": {
+          "en": "basketball",
+          "uk": "баскетбол"
+        }
+      },
+      {
+        "key": "ball",
+        "i18n": {
+          "en": "ball",
+          "uk": "м'яч"
+        }
+      },
+      {
+        "key": "court",
+        "i18n": {
+          "en": "court",
+          "uk": "суд"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "sports",
+          "uk": "спорт"
+        }
+      },
+      {
+        "key": "athlete",
+        "i18n": {
+          "en": "athlete",
+          "uk": "атлет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-woman-in-white-tank-top-and-shorts-sitting-on-basketball-court-with-a-ball-6076053/",
+  "sourceName": "Pexels",
+  "authorName": "KoolShooters",
+  "authorUrl": "https://www.pexels.com/@koolshooters",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

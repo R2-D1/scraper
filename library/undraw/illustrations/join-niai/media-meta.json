@@ -1,0 +1,49 @@
+{
+  "slug": "join-niai",
+  "mediaKey": "96425783-a12d-4385-ae59-7ebd9dc55ac4",
+  "providerId": "6a21ecb079740242d59ddb2c",
+  "i18n": {
+    "name": {
+      "en": "Join",
+      "uk": "Приєднуйтесь"
+    },
+    "alt": {
+      "en": "Join",
+      "uk": "Приєднуйтесь"
+    },
+    "tags": [
+      {
+        "key": "join",
+        "i18n": {
+          "en": "Join",
+          "uk": "Приєднуйтесь"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/join_niai.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 772,
+  "height": 800
+}

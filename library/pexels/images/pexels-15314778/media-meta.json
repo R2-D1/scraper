@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-15314778",
+  "mediaKey": "pexels:15314778",
+  "i18n": {
+    "name": {
+      "en": "Vibrant orange and blue fractal texture",
+      "uk": "Яскрава помаранчево-синя фрактальна текстура"
+    },
+    "alt": {
+      "en": "A colorful abstract artwork featuring a vibrant blend of orange, blue, and green hues.",
+      "uk": "Яскравий абстрактний твір мистецтва, що вирізняється насиченим поєднанням помаранчевих, синіх та зелених відтінків."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "fractal",
+        "i18n": {
+          "en": "fractal",
+          "uk": "фрактал"
+        }
+      },
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/close-up-of-a-colorful-abstract-painting-15314778/",
+  "sourceName": "Pexels",
+  "authorName": "Turgay Koca",
+  "authorUrl": "https://www.pexels.com/@turgay-koca-405356598",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

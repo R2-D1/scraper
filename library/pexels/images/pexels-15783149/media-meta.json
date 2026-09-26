@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-15783149",
+  "mediaKey": "pexels:15783149",
+  "i18n": {
+    "name": {
+      "en": "Close-up of bold red and blue makeup",
+      "uk": "Крупний план виразного червоно-синього макіяжу"
+    },
+    "alt": {
+      "en": "Vibrant close-up portrait showcasing colorful makeup and freckles on an expressive face.",
+      "uk": "Яскравий портрет у крупному плані, що демонструє барвистий макіяж та веснянки на виразному обличчі."
+    },
+    "tags": [
+      {
+        "key": "makeup",
+        "i18n": {
+          "en": "makeup",
+          "uk": "макіяж"
+        }
+      },
+      {
+        "key": "eyeshadow",
+        "i18n": {
+          "en": "eyeshadow",
+          "uk": "тіні для повік"
+        }
+      },
+      {
+        "key": "eyeliner",
+        "i18n": {
+          "en": "eyeliner",
+          "uk": "підводка для очей"
+        }
+      },
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      },
+      {
+        "key": "close-up",
+        "i18n": {
+          "en": "close up",
+          "uk": "крупний план"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "beauty"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/closeup-of-a-woman-in-heavy-makeup-15783149/",
+  "sourceName": "Pexels",
+  "authorName": "Mohammadreza Babaei",
+  "authorUrl": "https://www.pexels.com/@mohammadrezababaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

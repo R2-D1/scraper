@@ -1,0 +1,63 @@
+{
+  "slug": "random-idea-a29k",
+  "mediaKey": "a4dd49ef-37d1-4eba-9543-ed06c5828ba3",
+  "providerId": "6a90bd86939aab611cf25ca2",
+  "i18n": {
+    "name": {
+      "en": "Random Idea",
+      "uk": "Випадкова ідея"
+    },
+    "alt": {
+      "en": "Random Idea",
+      "uk": "Випадкова ідея"
+    },
+    "tags": [
+      {
+        "key": "random-idea",
+        "i18n": {
+          "en": "Random Idea",
+          "uk": "Випадкова ідея"
+        }
+      },
+      {
+        "key": "random",
+        "i18n": {
+          "en": "random",
+          "uk": "випадковий"
+        }
+      },
+      {
+        "key": "idea",
+        "i18n": {
+          "en": "idea",
+          "uk": "ідея"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/random-idea_a29k.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 481,
+  "height": 800
+}

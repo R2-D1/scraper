@@ -1,0 +1,82 @@
+{
+  "slug": "vibrant-color-fusion-ysyxg",
+  "mediaKey": "3e647067-5d45-4554-96b2-8db701b67db2",
+  "i18n": {
+    "name": {
+      "en": "Vibrant Color Fusion",
+      "uk": "Яскраве поєднання кольорів"
+    },
+    "alt": {
+      "en": "Vibrant Color Fusion",
+      "uk": "Яскраве поєднання кольорів"
+    },
+    "tags": [
+      {
+        "key": "dynamic",
+        "i18n": {
+          "en": "Dynamic",
+          "uk": "Динамічний"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "Gradient",
+          "uk": "Градієнт"
+        }
+      },
+      {
+        "key": "vibrant-colors",
+        "i18n": {
+          "en": "vibrant colors",
+          "uk": "яскраві кольори"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract",
+    "gradients",
+    "textures"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Sam Stoof",
+  "authorUrl": "https://www.lummi.ai/creator/samstoof?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "The image displays an abstract composition of vibrant colors blending seamlessly into one another. Dominant hues include bright yellows, oranges, greens, blues, and pinks, creating a dynamic and energetic visual effect. The colors appear to diffuse and overlap, forming soft gradients and transitions that evoke a sense of movement and fluidity. The texture is grainy, adding depth and a tactile quality to the image. The overall impression is one of a lively and harmonious interplay of colors, reminiscent of a digital or painted artwork.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1904,
+  "height": 2544,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/vibrant-color-fusion-ysyxg/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/vibrant-color-fusion-ysyxg/vibrant-color-fusion-ysyxg.png",
+  "relativeAssetPath": "library/lummi/images/vibrant-color-fusion-ysyxg/vibrant-color-fusion-ysyxg.png"
+}

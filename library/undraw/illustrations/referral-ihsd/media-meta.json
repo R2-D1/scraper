@@ -1,0 +1,49 @@
+{
+  "slug": "referral-ihsd",
+  "mediaKey": "149be8e3-2b86-432b-93ae-59cb13ae67a3",
+  "providerId": "68f6b376e19de53fa12e3c58",
+  "i18n": {
+    "name": {
+      "en": "Referral",
+      "uk": "Рекомендація"
+    },
+    "alt": {
+      "en": "Referral",
+      "uk": "Рекомендація"
+    },
+    "tags": [
+      {
+        "key": "referral",
+        "i18n": {
+          "en": "Referral",
+          "uk": "Рекомендація"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/referral_ihsd.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 701
+}

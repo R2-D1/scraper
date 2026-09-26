@@ -1,0 +1,49 @@
+{
+  "slug": "noted-c0zn",
+  "mediaKey": "d9adf0f4-2329-4537-87a4-938a948e8fc2",
+  "providerId": "62263ce1778f8900181cfe4c",
+  "i18n": {
+    "name": {
+      "en": "Noted",
+      "uk": "Прийнято до відома"
+    },
+    "alt": {
+      "en": "Noted",
+      "uk": "Прийнято до відома"
+    },
+    "tags": [
+      {
+        "key": "noted",
+        "i18n": {
+          "en": "Noted",
+          "uk": "Прийнято до відома"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/noted_c0zn.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 554,
+  "height": 565
+}

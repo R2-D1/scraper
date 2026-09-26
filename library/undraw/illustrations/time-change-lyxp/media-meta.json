@@ -1,0 +1,63 @@
+{
+  "slug": "time-change-lyxp",
+  "mediaKey": "28ffeff6-ee38-4c91-b5fd-22e56b1d1b31",
+  "providerId": "69bc716c7b2aa71ce0a0e21a",
+  "i18n": {
+    "name": {
+      "en": "Time Change",
+      "uk": "Зміна часу"
+    },
+    "alt": {
+      "en": "Time Change",
+      "uk": "Зміна часу"
+    },
+    "tags": [
+      {
+        "key": "time-change",
+        "i18n": {
+          "en": "Time Change",
+          "uk": "Зміна часу"
+        }
+      },
+      {
+        "key": "time",
+        "i18n": {
+          "en": "time",
+          "uk": "час"
+        }
+      },
+      {
+        "key": "change",
+        "i18n": {
+          "en": "change",
+          "uk": "змінити"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/time-change_lyxp.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 552
+}

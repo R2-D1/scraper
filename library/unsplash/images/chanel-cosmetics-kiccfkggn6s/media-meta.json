@@ -1,0 +1,60 @@
+{
+  "slug": "chanel-cosmetics-kiccfkggn6s",
+  "mediaKey": "ce981753-5d96-4730-bf42-214d610484d6",
+  "i18n": {
+    "name": {
+      "en": "Chanel cosmetics",
+      "uk": "Косметика Chanel на чорній поверхні"
+    },
+    "alt": {
+      "en": "Chanel cosmetics",
+      "uk": "Косметика Chanel на чорній поверхні"
+    },
+    "tags": [
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      },
+      {
+        "key": "product",
+        "i18n": {
+          "en": "product",
+          "uk": "продукт"
+        }
+      },
+      {
+        "key": "grey",
+        "i18n": {
+          "en": "grey",
+          "uk": "сірий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/chanel-cosmetics-kICCfKGgn6s",
+  "sourceName": "Unsplash",
+  "authorName": "Karly Jones",
+  "authorUrl": "https://unsplash.com/@earthtokarly",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "pinned": false,
+  "width": 2304,
+  "height": 3456,
+  "collectionSlugs": [
+    "beauty"
+  ]
+}

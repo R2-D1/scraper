@@ -1,0 +1,84 @@
+{
+  "slug": "gradient-color-artwork-wsifb",
+  "mediaKey": "88eca927-701b-4181-bc63-8c1b1589dde1",
+  "i18n": {
+    "name": {
+      "en": "Gradient Color Artwork",
+      "uk": "Художні твори з градієнтними кольорами"
+    },
+    "alt": {
+      "en": "Gradient Color Artwork",
+      "uk": "Художні твори з градієнтними кольорами"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "artwork",
+        "i18n": {
+          "en": "Artwork",
+          "uk": "Художні твори"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "Colorful",
+          "uk": "Барвистий"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "Gradient",
+          "uk": "Градієнт"
+        }
+      },
+      {
+        "key": "vibrant",
+        "i18n": {
+          "en": "Vibrant",
+          "uk": "Яскравий"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/illustration/gradient-color-artwork-wsifb",
+  "sourceName": "Lummi",
+  "authorName": "Pablo Stanley",
+  "authorUrl": "https://www.lummi.ai/creator/pablostanley?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A gradient artwork transitioning from blue at the top to a mix of pink, yellow, and green hues at the bottom, creating a vibrant and colorful composition.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1856,
+  "height": 2464,
+  "mimeType": "image/webp"
+}

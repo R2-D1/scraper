@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-18541874",
+  "mediaKey": "pexels:18541874",
+  "i18n": {
+    "name": {
+      "en": "Dark rippled metallic surface",
+      "uk": "Темна хвиляста металева поверхня"
+    },
+    "alt": {
+      "en": "An abstract closeup of crumpled black plastic wrap forming textured patterns.",
+      "uk": "Абстрактний крупний план зім'ятої чорної поліетиленової плівки, що утворює фактурні візерунки."
+    },
+    "tags": [
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "metallic",
+        "i18n": {
+          "en": "metallic",
+          "uk": "металевий"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "rippled",
+        "i18n": {
+          "en": "rippled",
+          "uk": "хвилястий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "textures"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/texture-plastic-plastic-wrap-18541874/",
+  "sourceName": "Pexels",
+  "authorName": "Resource Boy",
+  "authorUrl": "https://www.pexels.com/@resourceboy",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3372
+}

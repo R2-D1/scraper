@@ -1,0 +1,261 @@
+- generic [ref=f111e4]:
+  - navigation [ref=f111e5]:
+    - generic [ref=f111e6]:
+      - generic [ref=f111e7]:
+        - link "Unsplash Home" [ref=f111e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f111e9]
+        - link "Photos" [ref=f111e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f111e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f111e17]:
+        - button "Explore" [ref=f111e18] [cursor=pointer]
+        - button "Collections" [ref=f111e21] [cursor=pointer]
+        - button "Download History" [ref=f111e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f111e28] [cursor=pointer]
+    - generic [ref=f111e31]:
+      - link "Log in / Sign up" [ref=f111e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fhand-holding-two-cards-with-casino-chips-kBrW61lHAnA
+      - button "Language" [ref=f111e35] [cursor=pointer]
+      - button "Menu" [ref=f111e38] [cursor=pointer]
+  - generic [ref=f111e41]:
+    - generic [ref=f111e42]:
+      - navigation [ref=f111e43]:
+        - search "Find visuals sitewide" [ref=f111e45]:
+          - button "Search Unsplash" [ref=f111e46] [cursor=pointer]
+          - combobox [ref=f111e49]:
+            - searchbox "Search Unsplash" [ref=f111e50]
+            - listbox
+          - button "Visual search" [ref=f111e52] [cursor=pointer]
+        - generic [ref=f111e55]:
+          - link "Get Unsplash+" [ref=f111e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f111e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fhand-holding-two-cards-with-casino-chips-kBrW61lHAnA
+        - button "Submit an image" [ref=f111e59] [cursor=pointer]
+      - generic [ref=f111e60]:
+        - generic [ref=f111e61]:
+          - banner [ref=f111e63]:
+            - generic [ref=f111e65]:
+              - link [ref=f111e66] [cursor=pointer]:
+                - /url: /@ceciliamiraldi
+              - generic [ref=f111e69]:
+                - link "Cecilia Miraldi" [ref=f111e70] [cursor=pointer]:
+                  - /url: /@ceciliamiraldi
+                - generic [ref=f111e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f111e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-two-cards-with-casino-chips-kBrW61lHAnA
+            - generic [ref=f111e73]:
+              - button "Bookmark" [ref=f111e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f111e77] [cursor=pointer]
+              - button "Edit image" [ref=f111e80] [cursor=pointer]
+              - button "Download" [ref=f111e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f111e90]:
+            - img "Hand holding two cards with casino chips" [ref=f111e91]
+          - generic [ref=f111e92]:
+            - generic [ref=f111e94]:
+              - button "Share this image" [ref=f111e95] [cursor=pointer]:
+                - generic [ref=f111e98]: Share
+              - button "More Actions" [ref=f111e99] [cursor=pointer]
+            - generic [ref=f111e103]:
+              - heading "Hand holding two cards with casino chips" [level=1] [ref=f111e105]
+              - paragraph [ref=f111e109]: Download this illustration of money, green, illustration, and gaming by Cecilia Miraldi (@ceciliamiraldi)
+              - generic [ref=f111e111]:
+                - generic [ref=f111e116]:
+                  - text: Published on
+                  - time [ref=f111e117]: November 27, 2025
+                - generic [ref=f111e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f111e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f111e124]:
+              - link "money" [ref=f111e125] [cursor=pointer]:
+                - /url: /s/illustrations/money
+              - link "green" [ref=f111e126] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "illustration" [ref=f111e127] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "gaming" [ref=f111e128] [cursor=pointer]:
+                - /url: /s/illustrations/gaming
+              - link "white" [ref=f111e129] [cursor=pointer]:
+                - /url: /s/illustrations/white
+              - link "red" [ref=f111e130] [cursor=pointer]:
+                - /url: /s/illustrations/red
+              - link "strategy" [ref=f111e131] [cursor=pointer]:
+                - /url: /s/illustrations/strategy
+              - link "hand" [ref=f111e132] [cursor=pointer]:
+                - /url: /s/illustrations/hand
+              - link "vector" [ref=f111e133] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "casino" [ref=f111e134] [cursor=pointer]:
+                - /url: /s/illustrations/casino
+              - link "risk" [ref=f111e135] [cursor=pointer]:
+                - /url: /s/illustrations/risk
+              - link "card" [ref=f111e136] [cursor=pointer]:
+                - /url: /s/illustrations/card
+              - link "gambling" [ref=f111e137] [cursor=pointer]:
+                - /url: /s/illustrations/gambling
+              - link "chips" [ref=f111e138] [cursor=pointer]:
+                - /url: /s/illustrations/chips
+              - link "entertainment" [ref=f111e139] [cursor=pointer]:
+                - /url: /s/illustrations/entertainment
+              - link "playing cards" [ref=f111e140] [cursor=pointer]:
+                - /url: /s/illustrations/playing-cards
+              - link "winning" [ref=f111e141] [cursor=pointer]:
+                - /url: /s/illustrations/winning
+              - link "game night" [ref=f111e142] [cursor=pointer]:
+                - /url: /s/illustrations/game-night
+              - link "betting" [ref=f111e143] [cursor=pointer]:
+                - /url: /s/illustrations/betting
+              - link "card game" [ref=f111e144] [cursor=pointer]:
+                - /url: /s/illustrations/card-game
+        - generic [ref=f111e148]:
+          - heading "Related images" [level=4] [ref=f111e150]
+          - generic [ref=f111e154]:
+            - generic [ref=f111e155]:
+              - figure [ref=f111e156]:
+                - generic [ref=f111e158]:
+                  - link [ref=f111e159]:
+                    - /url: /illustrations/hand-holding-four-aces-with-poker-chips-rh2jBJiMqf0
+                    - img "Hand holding four aces with poker chips" [ref=f111e160]
+                  - link [ref=f111e161] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-four-aces-with-poker-chips-rh2jBJiMqf0
+              - figure [ref=f111e164]:
+                - generic [ref=f111e166]:
+                  - link [ref=f111e167]:
+                    - /url: /illustrations/a-hand-holding-four-playing-cards-on-a-yellow-background-nJWjEYAt7PU
+                    - img "A hand holding four playing cards on a yellow background" [ref=f111e168]
+                  - link [ref=f111e169] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-hand-holding-four-playing-cards-on-a-yellow-background-nJWjEYAt7PU
+              - figure [ref=f111e172]:
+                - generic [ref=f111e174]:
+                  - link [ref=f111e175]:
+                    - /url: /illustrations/hand-holding-three-playing-cards-two-aces-and-a-three-6mFgN6UQyrU
+                    - 'img "Hand holding three playing cards: two aces and a three." [ref=f111e176]'
+                  - link [ref=f111e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-three-playing-cards-two-aces-and-a-three-6mFgN6UQyrU
+              - figure [ref=f111e180]:
+                - generic [ref=f111e182]:
+                  - link [ref=f111e183]:
+                    - /url: /illustrations/playing-cards-poker-chips-and-cigarette-on-green-surface-i5-Ghm-KwIM
+                    - img "Playing cards, poker chips, and cigarette on green surface" [ref=f111e184]
+                  - link [ref=f111e185] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fplaying-cards-poker-chips-and-cigarette-on-green-surface-i5-Ghm-KwIM
+              - figure [ref=f111e188]:
+                - generic [ref=f111e190]:
+                  - link [ref=f111e191]:
+                    - /url: /illustrations/hand-holding-playing-cards-near-poker-chips-O6PQnOtlZDY
+                    - img "Hand holding playing cards near poker chips" [ref=f111e192]
+                  - link [ref=f111e193] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-playing-cards-near-poker-chips-O6PQnOtlZDY
+              - figure [ref=f111e196]:
+                - generic [ref=f111e198]:
+                  - link [ref=f111e199]:
+                    - /url: /illustrations/hand-holding-four-aces-in-front-of-red-curtains-Z5BHLFpkFBE
+                    - img "Hand holding four aces in front of red curtains" [ref=f111e200]
+                  - link [ref=f111e201] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-four-aces-in-front-of-red-curtains-Z5BHLFpkFBE
+              - figure [ref=f111e204]:
+                - generic [ref=f111e206]:
+                  - link [ref=f111e207]:
+                    - /url: /illustrations/hand-holding-ace-of-clubs-card-with-poker-chips-nSaHty0RWLs
+                    - img "Hand holding ace of clubs card with poker chips" [ref=f111e208]
+                  - link [ref=f111e209] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-ace-of-clubs-card-with-poker-chips-nSaHty0RWLs
+            - generic [ref=f111e212]:
+              - figure [ref=f111e213]:
+                - generic [ref=f111e215]:
+                  - link [ref=f111e216]:
+                    - /url: /illustrations/hand-holding-playing-cards-with-casino-chips-2kmzkOaDvv4
+                    - img "Hand holding playing cards with casino chips" [ref=f111e217]
+                  - link [ref=f111e218] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-playing-cards-with-casino-chips-2kmzkOaDvv4
+              - figure [ref=f111e221]:
+                - generic [ref=f111e223]:
+                  - link [ref=f111e224]:
+                    - /url: /illustrations/hand-balancing-playing-cards-and-poker-chips-oF0Va8TQ85o
+                    - img "Hand balancing playing cards and poker chips" [ref=f111e225]
+                  - link [ref=f111e226] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-balancing-playing-cards-and-poker-chips-oF0Va8TQ85o
+              - figure [ref=f111e229]:
+                - generic [ref=f111e231]:
+                  - link [ref=f111e232]:
+                    - /url: /illustrations/hands-of-cards-on-a-poker-table-with-chips-i9agf4Pd0UI
+                    - img "Hands of cards on a poker table with chips." [ref=f111e233]
+                  - link [ref=f111e234] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhands-of-cards-on-a-poker-table-with-chips-i9agf4Pd0UI
+              - figure [ref=f111e237]:
+                - generic [ref=f111e239]:
+                  - link [ref=f111e240]:
+                    - /url: /illustrations/hand-holding-playing-cards-with-poker-chips-on-table-8Sxg-qTfD3k
+                    - img "Hand holding playing cards with poker chips on table" [ref=f111e241]
+                  - link [ref=f111e242] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-playing-cards-with-poker-chips-on-table-8Sxg-qTfD3k
+              - figure [ref=f111e245]:
+                - generic [ref=f111e247]:
+                  - link [ref=f111e248]:
+                    - /url: /illustrations/stacks-of-poker-chips-and-playing-cards-on-green-surface-_z_sjroave8
+                    - img "Stacks of poker chips and playing cards on green surface" [ref=f111e249]
+                  - link [ref=f111e250] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fstacks-of-poker-chips-and-playing-cards-on-green-surface-_z_sjroave8
+              - figure [ref=f111e253]:
+                - generic [ref=f111e255]:
+                  - link [ref=f111e256]:
+                    - /url: /illustrations/womans-hand-holding-two-aces-of-hearts-jm0WGo0fEfY
+                    - img "Woman's hand holding two aces of hearts" [ref=f111e257]
+                  - link [ref=f111e258] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fwomans-hand-holding-two-aces-of-hearts-jm0WGo0fEfY
+            - generic [ref=f111e261]:
+              - figure [ref=f111e262]:
+                - generic [ref=f111e264]:
+                  - link [ref=f111e265]:
+                    - /url: /illustrations/ace-of-clubs-and-red-poker-chips-on-green-table-IOiOFLDYfto
+                    - img "Ace of clubs and red poker chips on green table" [ref=f111e266]
+                  - link [ref=f111e267] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Face-of-clubs-and-red-poker-chips-on-green-table-IOiOFLDYfto
+              - figure [ref=f111e270]:
+                - generic [ref=f111e272]:
+                  - link [ref=f111e273]:
+                    - /url: /illustrations/hand-holding-three-aces-with-chips-and-wine-HTTU2GUPbZs
+                    - img "Hand holding three aces with chips and wine." [ref=f111e274]
+                  - link [ref=f111e275] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-three-aces-with-chips-and-wine-HTTU2GUPbZs
+              - figure [ref=f111e278]:
+                - generic [ref=f111e280]:
+                  - link [ref=f111e281]:
+                    - /url: /illustrations/hand-with-poker-chips-playing-cards-and-jewelry-OIQ4K71UZao
+                    - img "Hand with poker chips, playing cards, and jewelry." [ref=f111e282]
+                  - link [ref=f111e283] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-with-poker-chips-playing-cards-and-jewelry-OIQ4K71UZao
+              - figure [ref=f111e286]:
+                - generic [ref=f111e288]:
+                  - link [ref=f111e289]:
+                    - /url: /illustrations/hand-holding-poker-cards-with-chips-on-table-_mQxgZw2IhI
+                    - img "Hand holding poker cards with chips on table" [ref=f111e290]
+                  - link [ref=f111e291] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-poker-cards-with-chips-on-table-_mQxgZw2IhI
+              - figure [ref=f111e294]:
+                - generic [ref=f111e296]:
+                  - link [ref=f111e297]:
+                    - /url: /illustrations/hands-holding-playing-cards-and-poker-chips-4DWsl5pTUeM
+                    - img "Hands holding playing cards and poker chips" [ref=f111e298]
+                  - link [ref=f111e299] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhands-holding-playing-cards-and-poker-chips-4DWsl5pTUeM
+              - figure [ref=f111e302]:
+                - generic [ref=f111e304]:
+                  - link [ref=f111e305]:
+                    - /url: /illustrations/hands-playing-poker-with-cards-and-chips-ctX22gCMzj8
+                    - img "Hands playing poker with cards and chips." [ref=f111e306]
+                  - link [ref=f111e307] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhands-playing-poker-with-cards-and-chips-ctX22gCMzj8
+              - figure [ref=f111e310]:
+                - generic [ref=f111e312]:
+                  - link [ref=f111e313]:
+                    - /url: /illustrations/hand-holding-two-aces-with-poker-chips-and-mystery-cards-RFNawd5CrKM
+                    - img "Hand holding two aces with poker chips and mystery cards." [ref=f111e314]
+                  - link [ref=f111e315] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-two-aces-with-poker-chips-and-mystery-cards-RFNawd5CrKM
+    - generic:
+      - region "Notifications"

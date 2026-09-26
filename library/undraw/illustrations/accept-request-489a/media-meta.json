@@ -1,0 +1,63 @@
+{
+  "slug": "accept-request-489a",
+  "mediaKey": "8a440d9c-8428-470f-9d8e-a148fbc118be",
+  "providerId": "5fb4fdc931b764001709338d",
+  "i18n": {
+    "name": {
+      "en": "Accept request",
+      "uk": "Прийняти запит"
+    },
+    "alt": {
+      "en": "Accept request",
+      "uk": "Прийняти запит"
+    },
+    "tags": [
+      {
+        "key": "accept-request",
+        "i18n": {
+          "en": "Accept request",
+          "uk": "Прийняти запит"
+        }
+      },
+      {
+        "key": "accept",
+        "i18n": {
+          "en": "accept",
+          "uk": "прийняти"
+        }
+      },
+      {
+        "key": "request",
+        "i18n": {
+          "en": "request",
+          "uk": "запит"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/accept-request_489a.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 688,
+  "height": 511
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "reading-time-jva3",
+  "mediaKey": "b2c4c5bc-6c84-471c-b75c-f8b1676e94ab",
+  "providerId": "6a3da918939aab611cf25c5a",
+  "i18n": {
+    "name": {
+      "en": "Reading Time",
+      "uk": "Час читання"
+    },
+    "alt": {
+      "en": "Reading Time",
+      "uk": "Час читання"
+    },
+    "tags": [
+      {
+        "key": "reading-time",
+        "i18n": {
+          "en": "Reading Time",
+          "uk": "Час читання"
+        }
+      },
+      {
+        "key": "reading",
+        "i18n": {
+          "en": "reading",
+          "uk": "читання"
+        }
+      },
+      {
+        "key": "time",
+        "i18n": {
+          "en": "time",
+          "uk": "час"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/reading-time_jva3.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 764,
+  "height": 800
+}

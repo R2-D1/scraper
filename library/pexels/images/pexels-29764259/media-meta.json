@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-29764259",
+  "mediaKey": "pexels:29764259",
+  "i18n": {
+    "name": {
+      "en": "Purple spheres above a blue horizon",
+      "uk": "Фіолетові кулі над блакитним горизонтом"
+    },
+    "alt": {
+      "en": "Purple geometric spheres floating over a serene water surface, digital abstract art.",
+      "uk": "Фіолетові геометричні кулі, що плавають над спокійною поверхнею води, — цифрове абстрактне мистецтво."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "spheres",
+        "i18n": {
+          "en": "spheres",
+          "uk": "сфери"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "horizon",
+        "i18n": {
+          "en": "horizon",
+          "uk": "горизонт"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/geometric-abstract-art-with-purple-spheres-on-water-29764259/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

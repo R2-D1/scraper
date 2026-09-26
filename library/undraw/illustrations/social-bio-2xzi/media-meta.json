@@ -1,0 +1,63 @@
+{
+  "slug": "social-bio-2xzi",
+  "mediaKey": "7fd9c228-93e8-45d0-a8da-8c5351f5a044",
+  "providerId": "60c1d79cc9ac7500177a3b4e",
+  "i18n": {
+    "name": {
+      "en": "Social bio",
+      "uk": "Інформація про себе у соцмережах"
+    },
+    "alt": {
+      "en": "Social bio",
+      "uk": "Інформація про себе у соцмережах"
+    },
+    "tags": [
+      {
+        "key": "social-bio",
+        "i18n": {
+          "en": "Social bio",
+          "uk": "Інформація про себе у соцмережах"
+        }
+      },
+      {
+        "key": "social",
+        "i18n": {
+          "en": "social",
+          "uk": "соціальні"
+        }
+      },
+      {
+        "key": "bio",
+        "i18n": {
+          "en": "bio",
+          "uk": "біо"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/social-bio_2xzi.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 602,
+  "height": 535
+}

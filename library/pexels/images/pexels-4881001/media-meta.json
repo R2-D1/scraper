@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-4881001",
+  "mediaKey": "pexels:4881001",
+  "i18n": {
+    "name": {
+      "en": "Two travelers crossing a city street",
+      "uk": "Двоє мандрівників переходять міську вулицю"
+    },
+    "alt": {
+      "en": "Two backpackers crossing a city street, showcasing friendship and travel excitement.",
+      "uk": "Двоє мандрівників із рюкзаками переходять міську вулицю, демонструючи дружбу та захоплення подорожжю."
+    },
+    "tags": [
+      {
+        "key": "travelers",
+        "i18n": {
+          "en": "travelers",
+          "uk": "мандрівники"
+        }
+      },
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "street",
+        "i18n": {
+          "en": "street",
+          "uk": "вулиця"
+        }
+      },
+      {
+        "key": "walking",
+        "i18n": {
+          "en": "walking",
+          "uk": "ходьба"
+        }
+      },
+      {
+        "key": "urban-travel",
+        "i18n": {
+          "en": "urban travel",
+          "uk": "міські поїздки"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "people",
+          "uk": "люди"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "travel"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/back-view-of-women-crossing-a-road-4881001/",
+  "sourceName": "Pexels",
+  "authorName": "Ketut Subiyanto",
+  "authorUrl": "https://www.pexels.com/@ketut-subiyanto",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

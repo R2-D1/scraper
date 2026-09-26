@@ -1,0 +1,91 @@
+{
+  "slug": "ethereal-portrait-reseb",
+  "mediaKey": "dfe58c56-3325-4f05-963c-4da148be2c85",
+  "i18n": {
+    "name": {
+      "en": "Ethereal Portrait",
+      "uk": "Неземний портрет"
+    },
+    "alt": {
+      "en": "Ethereal Portrait",
+      "uk": "Неземний портрет"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "dreamy",
+        "i18n": {
+          "en": "Dreamy",
+          "uk": "Мрійливий"
+        }
+      },
+      {
+        "key": "blue-sky",
+        "i18n": {
+          "en": "blue sky",
+          "uk": "синє небо"
+        }
+      },
+      {
+        "key": "light-play",
+        "i18n": {
+          "en": "light play",
+          "uk": "гра світла"
+        }
+      },
+      {
+        "key": "iridescent-fabric",
+        "i18n": {
+          "en": "iridescent fabric",
+          "uk": "тканина з іризаційним ефектом"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "Fashion",
+          "uk": "Мода"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/ethereal-portrait-reseb",
+  "sourceName": "Lummi",
+  "authorName": "Ajith",
+  "authorUrl": "https://www.lummi.ai/creator/4jith?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A young woman with fair skin and dark hair is captured in a dynamic pose against a bright blue sky with soft clouds. She is draped in a translucent, iridescent material that reflects light in a spectrum of colors, creating a dreamy and ethereal effect. Her expression is serene and contemplative, with her gaze directed slightly upward. The sunlight enhances the natural tones of her skin and the vibrant hues of the fabric. The background is softly blurred, emphasizing the subject and the play of light on the material.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 960,
+  "height": 1200,
+  "mimeType": "image/webp"
+}

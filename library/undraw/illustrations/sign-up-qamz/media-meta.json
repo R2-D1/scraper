@@ -1,0 +1,63 @@
+{
+  "slug": "sign-up-qamz",
+  "mediaKey": "cc5fcb23-e5ad-41a8-b50e-747c9659e7d9",
+  "providerId": "663223cb8169c2001609f809",
+  "i18n": {
+    "name": {
+      "en": "Sign Up",
+      "uk": "Зареєструватися"
+    },
+    "alt": {
+      "en": "Sign Up",
+      "uk": "Зареєструватися"
+    },
+    "tags": [
+      {
+        "key": "sign-up",
+        "i18n": {
+          "en": "Sign Up",
+          "uk": "Зареєструватися"
+        }
+      },
+      {
+        "key": "sign",
+        "i18n": {
+          "en": "sign",
+          "uk": "знак"
+        }
+      },
+      {
+        "key": "up",
+        "i18n": {
+          "en": "up",
+          "uk": "вгору"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/sign-up_qamz.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 551,
+  "height": 412
+}

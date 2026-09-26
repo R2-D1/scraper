@@ -1,0 +1,63 @@
+{
+  "slug": "happy-news-6lg3",
+  "mediaKey": "c49bfb65-986c-4256-a3d8-ae84e0767d0c",
+  "providerId": "6a57a32e939aab611cf25c6f",
+  "i18n": {
+    "name": {
+      "en": "Happy News",
+      "uk": "Гарні новини"
+    },
+    "alt": {
+      "en": "Happy News",
+      "uk": "Гарні новини"
+    },
+    "tags": [
+      {
+        "key": "happy-news",
+        "i18n": {
+          "en": "Happy News",
+          "uk": "Гарні новини"
+        }
+      },
+      {
+        "key": "happy",
+        "i18n": {
+          "en": "happy",
+          "uk": "щасливий"
+        }
+      },
+      {
+        "key": "news",
+        "i18n": {
+          "en": "news",
+          "uk": "новини"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/happy-news_6lg3.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 707,
+  "height": 800
+}

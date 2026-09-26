@@ -1,0 +1,291 @@
+- generic [ref=f71e4]:
+  - navigation [ref=f71e5]:
+    - generic [ref=f71e6]:
+      - generic [ref=f71e7]:
+        - link "Unsplash Home" [ref=f71e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f71e9]
+        - link "Photos" [ref=f71e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f71e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f71e17]:
+        - button "Explore" [ref=f71e18] [cursor=pointer]
+        - button "Collections" [ref=f71e21] [cursor=pointer]
+        - button "Download History" [ref=f71e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f71e28] [cursor=pointer]
+    - generic [ref=f71e31]:
+      - link "Log in / Sign up" [ref=f71e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-man-and-woman-in-wedding-attire-standing-next-to-each-other-u6_VXjDTJJY
+      - button "Language" [ref=f71e35] [cursor=pointer]
+      - button "Menu" [ref=f71e38] [cursor=pointer]
+  - generic [ref=f71e41]:
+    - generic [ref=f71e42]:
+      - navigation [ref=f71e43]:
+        - search "Find visuals sitewide" [ref=f71e45]:
+          - button "Search Unsplash" [ref=f71e46] [cursor=pointer]
+          - combobox [ref=f71e49]:
+            - searchbox "Search Unsplash" [ref=f71e50]
+            - listbox
+          - button "Visual search" [ref=f71e52] [cursor=pointer]
+        - generic [ref=f71e55]:
+          - link "Get Unsplash+" [ref=f71e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f71e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-man-and-woman-in-wedding-attire-standing-next-to-each-other-u6_VXjDTJJY
+        - button "Submit an image" [ref=f71e59] [cursor=pointer]
+      - generic [ref=f71e60]:
+        - generic [ref=f71e61]:
+          - banner [ref=f71e63]:
+            - generic [ref=f71e65]:
+              - link [ref=f71e66] [cursor=pointer]:
+                - /url: /@summertimeflag/illustrations
+              - generic [ref=f71e69]:
+                - link "summertime flag" [ref=f71e70] [cursor=pointer]:
+                  - /url: /@summertimeflag/illustrations
+                - generic [ref=f71e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f71e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-woman-in-wedding-attire-standing-next-to-each-other-u6_VXjDTJJY
+            - generic [ref=f71e73]:
+              - button "Bookmark" [ref=f71e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f71e77] [cursor=pointer]
+              - button "Edit image" [ref=f71e80] [cursor=pointer]
+              - button "Download" [ref=f71e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f71e90]:
+            - img "A man and woman in wedding attire standing next to each other" [ref=f71e91]
+          - generic [ref=f71e92]:
+            - generic [ref=f71e94]:
+              - button "Share this image" [ref=f71e95] [cursor=pointer]:
+                - generic [ref=f71e98]: Share
+              - button "More Actions" [ref=f71e99] [cursor=pointer]
+            - generic [ref=f71e103]:
+              - heading "A man and woman in wedding attire standing next to each other" [level=1] [ref=f71e105]
+              - paragraph [ref=f71e109]: The bride and groom dressed in elegant and charming dresses celebrated the happy moment of becoming eternal lovers. with beautiful and cute flower decorations
+              - generic [ref=f71e111]:
+                - generic [ref=f71e116]:
+                  - text: Published on
+                  - time [ref=f71e117]: June 20, 2024
+                - generic [ref=f71e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f71e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f71e124]:
+              - link "couple" [ref=f71e125] [cursor=pointer]:
+                - /url: /s/illustrations/couple
+              - link "love" [ref=f71e126] [cursor=pointer]:
+                - /url: /s/illustrations/love
+              - link "illustration" [ref=f71e127] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "wedding" [ref=f71e128] [cursor=pointer]:
+                - /url: /s/illustrations/wedding
+              - link "cartoon" [ref=f71e129] [cursor=pointer]:
+                - /url: /s/illustrations/cartoon
+              - link "event" [ref=f71e130] [cursor=pointer]:
+                - /url: /s/illustrations/event
+              - link "romantic" [ref=f71e131] [cursor=pointer]:
+                - /url: /s/illustrations/romantic
+              - link "celebration" [ref=f71e132] [cursor=pointer]:
+                - /url: /s/illustrations/celebration
+              - link "vector" [ref=f71e133] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "wedding couple" [ref=f71e134] [cursor=pointer]:
+                - /url: /s/illustrations/wedding-couple
+              - link "dress" [ref=f71e135] [cursor=pointer]:
+                - /url: /s/illustrations/dress
+              - link "together" [ref=f71e136] [cursor=pointer]:
+                - /url: /s/illustrations/together
+              - link "romance" [ref=f71e137] [cursor=pointer]:
+                - /url: /s/illustrations/romance
+              - link "partnership" [ref=f71e138] [cursor=pointer]:
+                - /url: /s/illustrations/partnership
+              - link "relationship" [ref=f71e139] [cursor=pointer]:
+                - /url: /s/illustrations/relationship
+              - link "marriage" [ref=f71e140] [cursor=pointer]:
+                - /url: /s/illustrations/marriage
+              - link "bride" [ref=f71e141] [cursor=pointer]:
+                - /url: /s/illustrations/bride
+              - link "wedding dress" [ref=f71e142] [cursor=pointer]:
+                - /url: /s/illustrations/wedding-dress
+              - link "commitment" [ref=f71e143] [cursor=pointer]:
+                - /url: /s/illustrations/commitment
+              - link "wedding ceremony" [ref=f71e144] [cursor=pointer]:
+                - /url: /s/illustrations/wedding-ceremony
+        - generic [ref=f71e147]:
+          - generic [ref=f71e148]:
+            - paragraph [ref=f71e150]: From this series
+            - generic [ref=f71e152]:
+              - button "scroll list to the right" [ref=f71e154] [cursor=pointer]
+              - generic [ref=f71e157]:
+                - generic [ref=f71e158]:
+                  - link [ref=f71e159] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-bride-and-groom-are-holding-hands-M3CJn7xLLx4
+                  - link [ref=f71e162]:
+                    - /url: /illustrations/a-bride-and-groom-are-holding-hands-M3CJn7xLLx4
+                    - img "A bride and groom are holding hands" [ref=f71e163]
+                - generic [ref=f71e164]:
+                  - link [ref=f71e165] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-are-standing-together-DKMTdQZAB7A
+                  - link [ref=f71e168]:
+                    - /url: /illustrations/a-man-and-a-woman-are-standing-together-DKMTdQZAB7A
+                    - img "A man and a woman are standing together" [ref=f71e169]
+                - generic [ref=f71e170]:
+                  - link [ref=f71e171] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-are-standing-together-P77PIQDtAkg
+                  - link [ref=f71e174]:
+                    - /url: /illustrations/a-man-and-a-woman-are-standing-together-P77PIQDtAkg
+                    - img "A man and a woman are standing together" [ref=f71e175]
+                - generic [ref=f71e176]:
+                  - link [ref=f71e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-in-a-wedding-dress-9IhW4dI6y0k
+                  - link [ref=f71e180]:
+                    - /url: /illustrations/a-man-and-a-woman-in-a-wedding-dress-9IhW4dI6y0k
+                    - img "A man and a woman in a wedding dress" [ref=f71e181]
+          - generic [ref=f71e182]:
+            - heading "Related images" [level=4] [ref=f71e184]
+            - generic [ref=f71e188]:
+              - generic [ref=f71e189]:
+                - figure [ref=f71e190]:
+                  - generic [ref=f71e192]:
+                    - link [ref=f71e193]:
+                      - /url: /illustrations/a-man-and-a-woman-in-formal-wear-standing-next-to-each-other-0t7tfhbdHWw
+                      - img "A man and a woman in formal wear standing next to each other" [ref=f71e194]
+                    - link [ref=f71e195] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-in-formal-wear-standing-next-to-each-other-0t7tfhbdHWw
+                - figure [ref=f71e198]:
+                  - generic [ref=f71e200]:
+                    - link [ref=f71e201]:
+                      - /url: /illustrations/a-bride-and-groom-are-standing-under-an-arch-d3KKnM4mhks
+                      - img "A bride and groom are standing under an arch" [ref=f71e202]
+                    - link [ref=f71e203] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bride-and-groom-are-standing-under-an-arch-d3KKnM4mhks
+                - figure [ref=f71e206]:
+                  - generic [ref=f71e208]:
+                    - link [ref=f71e209]:
+                      - /url: /illustrations/a-bride-and-groom-are-holding-hands-M3CJn7xLLx4
+                      - img "A bride and groom are holding hands" [ref=f71e210]
+                    - link [ref=f71e211] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bride-and-groom-are-holding-hands-M3CJn7xLLx4
+                - figure [ref=f71e214]:
+                  - generic [ref=f71e216]:
+                    - link [ref=f71e217]:
+                      - /url: /illustrations/a-newlywed-couple-is-ready-for-their-new-life-DU_ecU5wnHo
+                      - img "A newlywed couple is ready for their new life." [ref=f71e218]
+                    - link [ref=f71e219] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-newlywed-couple-is-ready-for-their-new-life-DU_ecU5wnHo
+                - figure [ref=f71e222]:
+                  - generic [ref=f71e224]:
+                    - link [ref=f71e225]:
+                      - /url: /illustrations/a-man-and-a-woman-in-a-wedding-dress-5uPNaw14puM
+                      - img "a man and a woman in a wedding dress" [ref=f71e226]
+                    - link [ref=f71e227] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-in-a-wedding-dress-5uPNaw14puM
+                - figure [ref=f71e230]:
+                  - generic [ref=f71e232]:
+                    - link [ref=f71e233]:
+                      - /url: /illustrations/a-bride-and-groom-holding-hands-in-front-of-a-heart-TjnrXq2Sixk
+                      - img "a bride and groom holding hands in front of a heart" [ref=f71e234]
+                    - link [ref=f71e235] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bride-and-groom-holding-hands-in-front-of-a-heart-TjnrXq2Sixk
+                - figure [ref=f71e238]:
+                  - generic [ref=f71e240]:
+                    - link [ref=f71e241]:
+                      - /url: /illustrations/happy-newlywed-couple-perform-wedding-dancing-during-celebration-concept-just-married-bride-and-groom-characters-dance-marriage-ceremony-husband-and-wife-waltz-cartoon-people-vector-illustration-SUh6cXBr9gA
+                      - img "Happy Newlywed Couple Perform Wedding Dancing during Celebration Concept. Just Married Bride and Groom Characters Dance, Marriage Ceremony, Husband and Wife Waltz. Cartoon People Vector Illustration" [ref=f71e242]
+                    - link [ref=f71e243] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhappy-newlywed-couple-perform-wedding-dancing-during-celebration-concept-just-married-bride-and-groom-characters-dance-marriage-ceremony-husband-and-wife-waltz-cartoon-people-vector-illustration-SUh6cXBr9gA
+              - generic [ref=f71e246]:
+                - figure [ref=f71e247]:
+                  - generic [ref=f71e249]:
+                    - link [ref=f71e250]:
+                      - /url: /illustrations/a-man-and-a-woman-in-a-wedding-dress-9IhW4dI6y0k
+                      - img "A man and a woman in a wedding dress" [ref=f71e251]
+                    - link [ref=f71e252] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-in-a-wedding-dress-9IhW4dI6y0k
+                - figure [ref=f71e255]:
+                  - generic [ref=f71e257]:
+                    - link [ref=f71e258]:
+                      - /url: /illustrations/a-man-and-a-woman-are-standing-together-P77PIQDtAkg
+                      - img "A man and a woman are standing together" [ref=f71e259]
+                    - link [ref=f71e260] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-are-standing-together-P77PIQDtAkg
+                - figure [ref=f71e263]:
+                  - generic [ref=f71e265]:
+                    - link [ref=f71e266]:
+                      - /url: /illustrations/a-bride-and-groom-sitting-on-top-of-each-other-JkMJ0VYHfpI
+                      - img "A bride and groom sitting on top of each other" [ref=f71e267]
+                    - link [ref=f71e268] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bride-and-groom-sitting-on-top-of-each-other-JkMJ0VYHfpI
+                - figure [ref=f71e271]:
+                  - generic [ref=f71e273]:
+                    - link [ref=f71e274]:
+                      - /url: /illustrations/a-bride-and-groom-sitting-on-a-bench-4voORbRQBts
+                      - img "A bride and groom sitting on a bench" [ref=f71e275]
+                    - link [ref=f71e276] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bride-and-groom-sitting-on-a-bench-4voORbRQBts
+                - figure [ref=f71e279]:
+                  - generic [ref=f71e281]:
+                    - link [ref=f71e282]:
+                      - /url: /illustrations/a-newlywed-couple-back-to-back-holding-flowers-m8ccK-RYmI4
+                      - img "A newlywed couple back to back, holding flowers." [ref=f71e283]
+                    - link [ref=f71e284] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-newlywed-couple-back-to-back-holding-flowers-m8ccK-RYmI4
+                - figure [ref=f71e287]:
+                  - generic [ref=f71e289]:
+                    - link [ref=f71e290]:
+                      - /url: /illustrations/happy-couple-celebrating-their-wedding-day-together-pealVb6MALA
+                      - img "Happy couple celebrating their wedding day together." [ref=f71e291]
+                    - link [ref=f71e292] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhappy-couple-celebrating-their-wedding-day-together-pealVb6MALA
+              - generic [ref=f71e295]:
+                - figure [ref=f71e296]:
+                  - generic [ref=f71e298]:
+                    - link [ref=f71e299]:
+                      - /url: /illustrations/a-man-and-a-woman-are-standing-together-DKMTdQZAB7A
+                      - img "A man and a woman are standing together" [ref=f71e300]
+                    - link [ref=f71e301] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-are-standing-together-DKMTdQZAB7A
+                - figure [ref=f71e304]:
+                  - generic [ref=f71e306]:
+                    - link [ref=f71e307]:
+                      - /url: /illustrations/a-bride-and-groom-standing-under-an-umbrella-bmobADRlbfo
+                      - img "A bride and groom standing under an umbrella" [ref=f71e308]
+                    - link [ref=f71e309] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bride-and-groom-standing-under-an-umbrella-bmobADRlbfo
+                - figure [ref=f71e312]:
+                  - generic [ref=f71e314]:
+                    - link [ref=f71e315]:
+                      - /url: /illustrations/a-man-and-a-woman-in-a-wedding-dress-hugging-9CVeZ5dovfw
+                      - img "A man and a woman in a wedding dress hugging" [ref=f71e316]
+                    - link [ref=f71e317] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-in-a-wedding-dress-hugging-9CVeZ5dovfw
+                - figure [ref=f71e320]:
+                  - generic [ref=f71e322]:
+                    - link [ref=f71e323]:
+                      - /url: /illustrations/a-man-and-a-woman-in-a-wedding-dress-9sxtIw0DLp8
+                      - img "a man and a woman in a wedding dress" [ref=f71e324]
+                    - link [ref=f71e325] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-in-a-wedding-dress-9sxtIw0DLp8
+                - figure [ref=f71e328]:
+                  - generic [ref=f71e330]:
+                    - link [ref=f71e331]:
+                      - /url: /illustrations/wedding-attire-and-elements-displayed-on-a-pink-background-Z118CbeADxs
+                      - img "Wedding attire and elements displayed on a pink background." [ref=f71e332]
+                    - link [ref=f71e333] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwedding-attire-and-elements-displayed-on-a-pink-background-Z118CbeADxs
+                - figure [ref=f71e336]:
+                  - generic [ref=f71e338]:
+                    - link [ref=f71e339]:
+                      - /url: /illustrations/bride-and-groom-celebrate-their-wedding-in-a-heart--36pDywa4gk
+                      - img "Bride and groom celebrate their wedding in a heart." [ref=f71e340]
+                    - link [ref=f71e341] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fbride-and-groom-celebrate-their-wedding-in-a-heart--36pDywa4gk
+                - figure [ref=f71e344]:
+                  - generic [ref=f71e346]:
+                    - link [ref=f71e347]:
+                      - /url: /illustrations/wedding-ceremony-bride-in-beautiful-white-dress-and-groom-cartoon-characters-first-dance-of-the-newlyweds-marriage-engagement-celebration-vector-isolated-concept-metaphor-illustration-aIR396XZK-k
+                      - img "Wedding ceremony. Bride in beautiful white dress and groom cartoon characters. First dance of the newlyweds. Marriage, engagement, celebration. Vector isolated concept metaphor illustration" [ref=f71e348]
+                    - link [ref=f71e349] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwedding-ceremony-bride-in-beautiful-white-dress-and-groom-cartoon-characters-first-dance-of-the-newlyweds-marriage-engagement-celebration-vector-isolated-concept-metaphor-illustration-aIR396XZK-k
+    - generic:
+      - region "Notifications"

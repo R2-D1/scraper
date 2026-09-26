@@ -1,0 +1,63 @@
+{
+  "slug": "making-art-c05m",
+  "mediaKey": "30a74ebe-211f-43c3-a1b9-524a2a87101a",
+  "providerId": "68814cea2b510f078ce50dcf",
+  "i18n": {
+    "name": {
+      "en": "Making Art",
+      "uk": "Творчість"
+    },
+    "alt": {
+      "en": "Making Art",
+      "uk": "Творчість"
+    },
+    "tags": [
+      {
+        "key": "making-art",
+        "i18n": {
+          "en": "Making Art",
+          "uk": "Творчість"
+        }
+      },
+      {
+        "key": "making",
+        "i18n": {
+          "en": "making",
+          "uk": "створення"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "art",
+          "uk": "мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/making-art_c05m.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 782,
+  "height": 458
+}

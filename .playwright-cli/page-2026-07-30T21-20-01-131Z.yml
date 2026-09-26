@@ -1,0 +1,261 @@
+- generic [ref=f65e4]:
+  - navigation [ref=f65e5]:
+    - generic [ref=f65e6]:
+      - generic [ref=f65e7]:
+        - link "Unsplash Home" [ref=f65e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f65e9]
+        - link "Photos" [ref=f65e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f65e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f65e17]:
+        - button "Explore" [ref=f65e18] [cursor=pointer]
+        - button "Collections" [ref=f65e21] [cursor=pointer]
+        - button "Download History" [ref=f65e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f65e28] [cursor=pointer]
+    - generic [ref=f65e31]:
+      - link "Log in / Sign up" [ref=f65e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fgraffiti-art-spelling-the-word-fear-in-pink-1Ak-bO_qqGM
+      - button "Language" [ref=f65e35] [cursor=pointer]
+      - button "Menu" [ref=f65e38] [cursor=pointer]
+  - generic [ref=f65e41]:
+    - generic [ref=f65e42]:
+      - navigation [ref=f65e43]:
+        - search "Find visuals sitewide" [ref=f65e45]:
+          - button "Search Unsplash" [ref=f65e46] [cursor=pointer]
+          - combobox [ref=f65e49]:
+            - searchbox "Search Unsplash" [ref=f65e50]
+            - listbox
+          - button "Visual search" [ref=f65e52] [cursor=pointer]
+        - generic [ref=f65e55]:
+          - link "Get Unsplash+" [ref=f65e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f65e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fgraffiti-art-spelling-the-word-fear-in-pink-1Ak-bO_qqGM
+        - button "Submit an image" [ref=f65e59] [cursor=pointer]
+      - generic [ref=f65e60]:
+        - generic [ref=f65e61]:
+          - banner [ref=f65e63]:
+            - generic [ref=f65e65]:
+              - link [ref=f65e66] [cursor=pointer]:
+                - /url: /@helloimnik
+              - generic [ref=f65e69]:
+                - link "Nik" [ref=f65e70] [cursor=pointer]:
+                  - /url: /@helloimnik
+                - generic [ref=f65e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f65e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-spelling-the-word-fear-in-pink-1Ak-bO_qqGM
+            - generic [ref=f65e73]:
+              - button "Bookmark" [ref=f65e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f65e77] [cursor=pointer]
+              - button "Edit image" [ref=f65e80] [cursor=pointer]
+              - button "Download" [ref=f65e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f65e90]:
+            - img "Graffiti art spelling the word fear in pink" [ref=f65e91]
+          - generic [ref=f65e92]:
+            - generic [ref=f65e94]:
+              - button "Share this image" [ref=f65e95] [cursor=pointer]:
+                - generic [ref=f65e98]: Share
+              - button "More Actions" [ref=f65e99] [cursor=pointer]
+            - generic [ref=f65e103]:
+              - heading "Graffiti art spelling the word fear in pink" [level=1] [ref=f65e105]
+              - paragraph [ref=f65e109]: F.E.A.R - Graffiti Sept 2025
+              - generic [ref=f65e111]:
+                - generic [ref=f65e116]:
+                  - text: Published on
+                  - time [ref=f65e117]: September 5, 2025
+                - generic [ref=f65e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f65e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f65e124]:
+              - link "blue" [ref=f65e125] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "green" [ref=f65e126] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "illustration" [ref=f65e127] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "pink" [ref=f65e128] [cursor=pointer]:
+                - /url: /s/illustrations/pink
+              - link "graphic design" [ref=f65e129] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "orange" [ref=f65e130] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "purple" [ref=f65e131] [cursor=pointer]:
+                - /url: /s/illustrations/purple
+              - link "abstract art" [ref=f65e132] [cursor=pointer]:
+                - /url: /s/illustrations/abstract-art
+              - link "graffiti" [ref=f65e133] [cursor=pointer]:
+                - /url: /s/illustrations/graffiti
+              - link "anxiety" [ref=f65e134] [cursor=pointer]:
+                - /url: /s/illustrations/anxiety
+              - link "modern art" [ref=f65e135] [cursor=pointer]:
+                - /url: /s/illustrations/modern-art
+              - link "fear" [ref=f65e136] [cursor=pointer]:
+                - /url: /s/illustrations/fear
+              - link "street art" [ref=f65e137] [cursor=pointer]:
+                - /url: /s/illustrations/street-art
+              - link "typography" [ref=f65e138] [cursor=pointer]:
+                - /url: /s/illustrations/typography
+              - link "spray paint" [ref=f65e139] [cursor=pointer]:
+                - /url: /s/illustrations/spray-paint
+              - link "rebellion" [ref=f65e140] [cursor=pointer]:
+                - /url: /s/illustrations/rebellion
+              - link "urban art" [ref=f65e141] [cursor=pointer]:
+                - /url: /s/illustrations/urban-art
+              - link "dripping paint" [ref=f65e142] [cursor=pointer]:
+                - /url: /s/illustrations/dripping-paint
+              - link "graffiti tag" [ref=f65e143] [cursor=pointer]:
+                - /url: /s/illustrations/graffiti-tag
+              - link "hand lettering" [ref=f65e144] [cursor=pointer]:
+                - /url: /s/illustrations/hand-lettering
+        - generic [ref=f65e148]:
+          - heading "Related images" [level=4] [ref=f65e150]
+          - generic [ref=f65e154]:
+            - generic [ref=f65e155]:
+              - figure [ref=f65e156]:
+                - generic [ref=f65e158]:
+                  - link [ref=f65e159]:
+                    - /url: /illustrations/graffiti-art-spelling-the-word-brave-_75mNclzPVM
+                    - img "Graffiti art spelling the word brave" [ref=f65e160]
+                  - link [ref=f65e161] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-spelling-the-word-brave-_75mNclzPVM
+              - figure [ref=f65e164]:
+                - generic [ref=f65e166]:
+                  - link [ref=f65e167]:
+                    - /url: /illustrations/graffiti-art-spelling-the-word-future-on-purple-background-r7j6zO2OU6Y
+                    - img "Graffiti art spelling the word \"future\" on purple background" [ref=f65e168]
+                  - link [ref=f65e169] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-spelling-the-word-future-on-purple-background-r7j6zO2OU6Y
+              - figure [ref=f65e172]:
+                - generic [ref=f65e174]:
+                  - link [ref=f65e175]:
+                    - /url: /illustrations/graffiti-art-spelling-the-word-free-in-blue-ABUsws-pr7I
+                    - img "Graffiti art spelling the word free in blue" [ref=f65e176]
+                  - link [ref=f65e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-spelling-the-word-free-in-blue-ABUsws-pr7I
+              - figure [ref=f65e180]:
+                - generic [ref=f65e182]:
+                  - link [ref=f65e183]:
+                    - /url: /illustrations/graffiti-text-that-says-youre-not-alone-j8Rn6pXP2NA
+                    - img "Graffiti text that says you're not alone" [ref=f65e184]
+                  - link [ref=f65e185] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-text-that-says-youre-not-alone-j8Rn6pXP2NA
+              - figure [ref=f65e188]:
+                - generic [ref=f65e190]:
+                  - link [ref=f65e191]:
+                    - /url: /illustrations/graffiti-art-with-now-or-never-text-JuzHTxN-80w
+                    - img "Graffiti art with \"now or never\" text." [ref=f65e192]
+                  - link [ref=f65e193] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-with-now-or-never-text-JuzHTxN-80w
+              - figure [ref=f65e196]:
+                - generic [ref=f65e198]:
+                  - link [ref=f65e199]:
+                    - /url: /illustrations/graffiti-art-with-never-give-up-text-E3-GaAKRrP8
+                    - img "Graffiti art with \"never give up\" text." [ref=f65e200]
+                  - link [ref=f65e201] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-with-never-give-up-text-E3-GaAKRrP8
+              - figure [ref=f65e204]:
+                - generic [ref=f65e206]:
+                  - link [ref=f65e207]:
+                    - /url: /illustrations/graffiti-art-spelling-the-word-great-in-vibrant-colors-LU7cYY4IgUs
+                    - img "Graffiti art spelling the word great in vibrant colors" [ref=f65e208]
+                  - link [ref=f65e209] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-spelling-the-word-great-in-vibrant-colors-LU7cYY4IgUs
+            - generic [ref=f65e212]:
+              - figure [ref=f65e213]:
+                - generic [ref=f65e215]:
+                  - link [ref=f65e216]:
+                    - /url: /illustrations/blue-graffiti-letters-spell-bear-with-a-cartoon-bear-face-Z_7uzGSL2js
+                    - img "Blue graffiti letters spell bear with a cartoon bear face." [ref=f65e217]
+                  - link [ref=f65e218] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fblue-graffiti-letters-spell-bear-with-a-cartoon-bear-face-Z_7uzGSL2js
+              - figure [ref=f65e221]:
+                - generic [ref=f65e223]:
+                  - link [ref=f65e224]:
+                    - /url: /illustrations/graffiti-art-spelling-out-the-word-future-VGaD1BayRgA
+                    - img "Graffiti art spelling out the word future" [ref=f65e225]
+                  - link [ref=f65e226] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-spelling-out-the-word-future-VGaD1BayRgA
+              - figure [ref=f65e229]:
+                - generic [ref=f65e231]:
+                  - link [ref=f65e232]:
+                    - /url: /illustrations/graffiti-style-word-stop-with-orange-and-white-outline-KNC3IJ7BBEM
+                    - img "Graffiti style word stop with orange and white outline." [ref=f65e233]
+                  - link [ref=f65e234] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-style-word-stop-with-orange-and-white-outline-KNC3IJ7BBEM
+              - figure [ref=f65e237]:
+                - generic [ref=f65e239]:
+                  - link [ref=f65e240]:
+                    - /url: /illustrations/graffiti-art-spelling-out-the-word-brave-with-halo-GpCbkefNMwg
+                    - img "Graffiti art spelling out the word 'brave' with halo." [ref=f65e241]
+                  - link [ref=f65e242] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-spelling-out-the-word-brave-with-halo-GpCbkefNMwg
+              - figure [ref=f65e245]:
+                - generic [ref=f65e247]:
+                  - link [ref=f65e248]:
+                    - /url: /illustrations/graffiti-art-spelling-the-word-hope-with-stars-at9zSzYM7g0
+                    - img "Graffiti art spelling the word hope with stars" [ref=f65e249]
+                  - link [ref=f65e250] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-spelling-the-word-hope-with-stars-at9zSzYM7g0
+              - figure [ref=f65e253]:
+                - generic [ref=f65e255]:
+                  - link [ref=f65e256]:
+                    - /url: /illustrations/orange-graffiti-art-on-brick-wall-with-colorful-lines-vDV_9AjDEdQ
+                    - img "Orange graffiti art on brick wall with colorful lines" [ref=f65e257]
+                  - link [ref=f65e258] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Forange-graffiti-art-on-brick-wall-with-colorful-lines-vDV_9AjDEdQ
+              - figure [ref=f65e261]:
+                - generic [ref=f65e263]:
+                  - link [ref=f65e264]:
+                    - /url: /illustrations/graffiti-art-with-text-fear-no-failure-yBC3xrjeAAc
+                    - img "Graffiti art with text \"fear no failure\"" [ref=f65e265]
+                  - link [ref=f65e266] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-with-text-fear-no-failure-yBC3xrjeAAc
+            - generic [ref=f65e269]:
+              - figure [ref=f65e270]:
+                - generic [ref=f65e272]:
+                  - link [ref=f65e273]:
+                    - /url: /illustrations/graffiti-art-spelling-the-word-star-with-colorful-elements-IPuw0bXiDzk
+                    - img "Graffiti art spelling the word star with colorful elements" [ref=f65e274]
+                  - link [ref=f65e275] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-spelling-the-word-star-with-colorful-elements-IPuw0bXiDzk
+              - figure [ref=f65e278]:
+                - generic [ref=f65e280]:
+                  - link [ref=f65e281]:
+                    - /url: /illustrations/graffiti-art-spelling-out-the-word-stik-in-purple-dMrUiUkcPW0
+                    - img "Graffiti art spelling out the word stik in purple." [ref=f65e282]
+                  - link [ref=f65e283] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-spelling-out-the-word-stik-in-purple-dMrUiUkcPW0
+              - figure [ref=f65e286]:
+                - generic [ref=f65e288]:
+                  - link [ref=f65e289]:
+                    - /url: /illustrations/colorful-graffiti-art-with-lettering-and-symbols-BlvYYW9fM2E
+                    - img "Colorful graffiti art with lettering and symbols." [ref=f65e290]
+                  - link [ref=f65e291] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcolorful-graffiti-art-with-lettering-and-symbols-BlvYYW9fM2E
+              - figure [ref=f65e294]:
+                - generic [ref=f65e296]:
+                  - link [ref=f65e297]:
+                    - /url: /illustrations/urban-beat-graffiti-art-with-purple-and-green-ze7YWWqj_N0
+                    - img "Urban beat graffiti art with purple and green." [ref=f65e298]
+                  - link [ref=f65e299] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Furban-beat-graffiti-art-with-purple-and-green-ze7YWWqj_N0
+              - figure [ref=f65e302]:
+                - generic [ref=f65e304]:
+                  - link [ref=f65e305]:
+                    - /url: /illustrations/graffiti-art-spelling-the-word-great-Ef2vt8LTxPo
+                    - img "Graffiti art spelling the word great" [ref=f65e306]
+                  - link [ref=f65e307] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-spelling-the-word-great-Ef2vt8LTxPo
+              - figure [ref=f65e310]:
+                - generic [ref=f65e312]:
+                  - link [ref=f65e313]:
+                    - /url: /illustrations/graffiti-art-spelling-acab-with-drips-and-splatters-3SUv-DXatLo
+                    - img "Graffiti art spelling acab with drips and splatters" [ref=f65e314]
+                  - link [ref=f65e315] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-art-spelling-acab-with-drips-and-splatters-3SUv-DXatLo
+    - generic:
+      - region "Notifications"

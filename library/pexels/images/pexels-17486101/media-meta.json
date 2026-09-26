@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-17486101",
+  "mediaKey": "pexels:17486101",
+  "i18n": {
+    "name": {
+      "en": "Glowing dotted line on a pastel background",
+      "uk": "Світиться пунктирна лінія на пастельному тлі"
+    },
+    "alt": {
+      "en": "Colorful 3D render depicting a glass spiral structure with vibrant gradients.",
+      "uk": "Яскравий 3D-візуалізаційний малюнок, що зображує скляну спіральну конструкцію з насиченими градієнтами."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "glowing-line",
+        "i18n": {
+          "en": "glowing line",
+          "uk": "світиться лінія"
+        }
+      },
+      {
+        "key": "dots",
+        "i18n": {
+          "en": "dots",
+          "uk": "точки"
+        }
+      },
+      {
+        "key": "pastel",
+        "i18n": {
+          "en": "pastel",
+          "uk": "пастель"
+        }
+      },
+      {
+        "key": "lilac",
+        "i18n": {
+          "en": "lilac",
+          "uk": "бузок"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-represents-storage-of-collected-data-in-ai-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-project-launched-17486101/",
+  "sourceName": "Pexels",
+  "authorName": "Google DeepMind",
+  "authorUrl": "https://www.pexels.com/@googledeepmind",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

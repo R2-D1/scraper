@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-11025402",
+  "mediaKey": "pexels:video:11025402",
+  "i18n": {
+    "name": {
+      "en": "Dark Ocean Waves",
+      "uk": "Хвилі темного океану"
+    },
+    "alt": {
+      "en": "Pexels video 11025402",
+      "uk": "Відео з Pexels № 11025402"
+    },
+    "tags": [
+      {
+        "key": "ocean",
+        "i18n": {
+          "en": "ocean",
+          "uk": "океан"
+        }
+      },
+      {
+        "key": "waves",
+        "i18n": {
+          "en": "waves",
+          "uk": "хвилі"
+        }
+      },
+      {
+        "key": "water",
+        "i18n": {
+          "en": "water",
+          "uk": "вода"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      },
+      {
+        "key": "seascape",
+        "i18n": {
+          "en": "seascape",
+          "uk": "морський пейзаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/sea-with-rippled-water-surface-11025402/",
+  "sourceName": "Pexels",
+  "authorName": "ROMAN ODINTSOV",
+  "authorUrl": "https://www.pexels.com/@roman-odintsov",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1366,
+  "height": 720,
+  "duration": 22,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

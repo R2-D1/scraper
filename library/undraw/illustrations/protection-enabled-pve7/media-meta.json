@@ -1,0 +1,63 @@
+{
+  "slug": "protection-enabled-pve7",
+  "mediaKey": "93711350-7eb7-467b-84d1-f3e575aced50",
+  "providerId": "6a8f71a0939aab611cf25ca1",
+  "i18n": {
+    "name": {
+      "en": "Protection Enabled",
+      "uk": "Захист увімкнено"
+    },
+    "alt": {
+      "en": "Protection Enabled",
+      "uk": "Захист увімкнено"
+    },
+    "tags": [
+      {
+        "key": "protection-enabled",
+        "i18n": {
+          "en": "Protection Enabled",
+          "uk": "Захист увімкнено"
+        }
+      },
+      {
+        "key": "protection",
+        "i18n": {
+          "en": "protection",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "enabled",
+        "i18n": {
+          "en": "enabled",
+          "uk": "увімкнено"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/protection-enabled_pve7.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 604,
+  "height": 640
+}

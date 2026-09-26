@@ -1,0 +1,94 @@
+{
+  "slug": "stock-market-chart-katp1",
+  "mediaKey": "544f02df-c1c9-4319-bc45-9f4a868b4ef8",
+  "i18n": {
+    "name": {
+      "en": "Stock Market Chart",
+      "uk": "Графік фондового ринку"
+    },
+    "alt": {
+      "en": "Stock Market Chart",
+      "uk": "Графік фондового ринку"
+    },
+    "tags": [
+      {
+        "key": "candlesticks",
+        "i18n": {
+          "en": "Candlesticks",
+          "uk": "Свічники"
+        }
+      },
+      {
+        "key": "high-tech",
+        "i18n": {
+          "en": "High tech",
+          "uk": "Високі технології"
+        }
+      },
+      {
+        "key": "stock-market",
+        "i18n": {
+          "en": "stock market",
+          "uk": "фондовий ринок"
+        }
+      },
+      {
+        "key": "financial-data",
+        "i18n": {
+          "en": "financial data",
+          "uk": "фінансові дані"
+        }
+      },
+      {
+        "key": "trading",
+        "i18n": {
+          "en": "trading",
+          "uk": "трейдинг"
+        }
+      },
+      {
+        "key": "business",
+        "i18n": {
+          "en": "Business",
+          "uk": "Бізнес"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "technology"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "SHIHO",
+  "authorUrl": "https://www.lummi.ai/creator/ms.designs.0711-fcesu?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A vibrant and dynamic stock market chart is displayed, featuring a mix of green, red, and orange candlesticks and bar graphs. The chart is set against a dark background, enhancing the bright colors of the data points. Numbers and percentages are scattered across the screen, indicating various financial metrics and trends. The candlesticks show fluctuations in stock prices, with green representing upward trends and red indicating downward movements. The image conveys a sense of activity and complexity, typical of financial trading environments. The blurred edges and depth of field add a modern, high-tech feel to the scene.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/stock-market-chart-katp1/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/stock-market-chart-katp1/stock-market-chart-katp1.png",
+  "relativeAssetPath": "library/lummi/images/stock-market-chart-katp1/stock-market-chart-katp1.png"
+}

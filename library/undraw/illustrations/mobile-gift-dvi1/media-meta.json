@@ -1,0 +1,63 @@
+{
+  "slug": "mobile-gift-dvi1",
+  "mediaKey": "42e62233-6350-44f9-8f23-ebe6ff59424d",
+  "providerId": "6a5e9dfd939aab611cf25c75",
+  "i18n": {
+    "name": {
+      "en": "Mobile Gift",
+      "uk": "Мобільний подарунок"
+    },
+    "alt": {
+      "en": "Mobile Gift",
+      "uk": "Мобільний подарунок"
+    },
+    "tags": [
+      {
+        "key": "mobile-gift",
+        "i18n": {
+          "en": "Mobile Gift",
+          "uk": "Мобільний подарунок"
+        }
+      },
+      {
+        "key": "mobile",
+        "i18n": {
+          "en": "mobile",
+          "uk": "мобільний"
+        }
+      },
+      {
+        "key": "gift",
+        "i18n": {
+          "en": "gift",
+          "uk": "подарунок"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/mobile-gift_dvi1.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 588,
+  "height": 880
+}

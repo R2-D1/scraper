@@ -1,0 +1,63 @@
+{
+  "slug": "quiet-street-v45k",
+  "mediaKey": "7fbf351e-4692-43c3-b5bf-e290e5c4676b",
+  "providerId": "676685b9ff2a1f1d51bc76ac",
+  "i18n": {
+    "name": {
+      "en": "Quiet street",
+      "uk": "Тиха вулиця"
+    },
+    "alt": {
+      "en": "Quiet street",
+      "uk": "Тиха вулиця"
+    },
+    "tags": [
+      {
+        "key": "quiet-street",
+        "i18n": {
+          "en": "Quiet street",
+          "uk": "Тиха вулиця"
+        }
+      },
+      {
+        "key": "quiet",
+        "i18n": {
+          "en": "quiet",
+          "uk": "тихо"
+        }
+      },
+      {
+        "key": "street",
+        "i18n": {
+          "en": "street",
+          "uk": "вулиця"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/quiet-street_v45k.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 998,
+  "height": 451
+}

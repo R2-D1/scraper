@@ -1,0 +1,63 @@
+{
+  "slug": "image-dropzone-zdre",
+  "mediaKey": "efbd32fe-efd1-48df-b805-a4036285345d",
+  "providerId": "6ab1afc9939aab611cf25cbc",
+  "i18n": {
+    "name": {
+      "en": "Image Dropzone",
+      "uk": "Зона розміщення зображень"
+    },
+    "alt": {
+      "en": "Image Dropzone",
+      "uk": "Зона розміщення зображень"
+    },
+    "tags": [
+      {
+        "key": "image-dropzone",
+        "i18n": {
+          "en": "Image Dropzone",
+          "uk": "Зона розміщення зображень"
+        }
+      },
+      {
+        "key": "image",
+        "i18n": {
+          "en": "image",
+          "uk": "зображення"
+        }
+      },
+      {
+        "key": "dropzone",
+        "i18n": {
+          "en": "dropzone",
+          "uk": "dropzone"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/image-dropzone_zdre.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 556
+}

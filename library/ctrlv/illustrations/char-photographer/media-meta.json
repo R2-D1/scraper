@@ -1,0 +1,90 @@
+{
+  "slug": "char-photographer",
+  "mediaKey": "2e44f1c7-f9ff-4418-8d60-140e67780389",
+  "i18n": {
+    "name": {
+      "en": "Photographer",
+      "uk": "Фотограф"
+    },
+    "alt": {
+      "en": "Photographer",
+      "uk": "Фотограф"
+    },
+    "tags": [
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      },
+      {
+        "key": "photographer",
+        "i18n": {
+          "en": "photographer",
+          "uk": "фотограф"
+        }
+      },
+      {
+        "key": "camera",
+        "i18n": {
+          "en": "camera",
+          "uk": "камера"
+        }
+      },
+      {
+        "key": "creative",
+        "i18n": {
+          "en": "creative",
+          "uk": "креативний"
+        }
+      },
+      {
+        "key": "picture",
+        "i18n": {
+          "en": "picture",
+          "uk": "малюнок"
+        }
+      },
+      {
+        "key": "lens",
+        "i18n": {
+          "en": "lens",
+          "uk": "обʼєктив"
+        }
+      },
+      {
+        "key": "shoot",
+        "i18n": {
+          "en": "shoot",
+          "uk": "знімати"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/char-photographer",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

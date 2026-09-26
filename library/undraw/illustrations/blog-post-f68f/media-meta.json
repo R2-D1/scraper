@@ -1,0 +1,63 @@
+{
+  "slug": "blog-post-f68f",
+  "mediaKey": "e437f0f5-2ba4-4932-b076-d69b9c3fb9f8",
+  "providerId": "5fc10e5848bebe0017a47c07",
+  "i18n": {
+    "name": {
+      "en": "Blog post",
+      "uk": "Публікація в блозі"
+    },
+    "alt": {
+      "en": "Blog post",
+      "uk": "Публікація в блозі"
+    },
+    "tags": [
+      {
+        "key": "blog-post",
+        "i18n": {
+          "en": "Blog post",
+          "uk": "Публікація в блозі"
+        }
+      },
+      {
+        "key": "blog",
+        "i18n": {
+          "en": "blog",
+          "uk": "блог"
+        }
+      },
+      {
+        "key": "post",
+        "i18n": {
+          "en": "post",
+          "uk": "стовп"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/blog-post_f68f.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 631,
+  "height": 594
+}

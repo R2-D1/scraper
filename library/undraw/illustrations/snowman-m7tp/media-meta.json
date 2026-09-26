@@ -1,0 +1,49 @@
+{
+  "slug": "snowman-m7tp",
+  "mediaKey": "6829155c-ec7f-43da-bd1e-5e6be784f435",
+  "providerId": "61c47c9102140e001806ac81",
+  "i18n": {
+    "name": {
+      "en": "Snowman",
+      "uk": "Сніговик"
+    },
+    "alt": {
+      "en": "Snowman",
+      "uk": "Сніговик"
+    },
+    "tags": [
+      {
+        "key": "snowman",
+        "i18n": {
+          "en": "Snowman",
+          "uk": "Сніговик"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/snowman_m7tp.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 696,
+  "height": 667
+}

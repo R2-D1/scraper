@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-27303011",
+  "mediaKey": "pexels:video:27303011",
+  "i18n": {
+    "name": {
+      "en": "Blue Ink Clouds in Water",
+      "uk": "Сині хмари чорнила у воді"
+    },
+    "alt": {
+      "en": "Pexels video 27303011",
+      "uk": "Відео з Pexels № 27303011"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "ink",
+        "i18n": {
+          "en": "ink",
+          "uk": "чорнило"
+        }
+      },
+      {
+        "key": "clouds",
+        "i18n": {
+          "en": "clouds",
+          "uk": "хмари"
+        }
+      },
+      {
+        "key": "fluid",
+        "i18n": {
+          "en": "fluid",
+          "uk": "рідина"
+        }
+      },
+      {
+        "key": "water",
+        "i18n": {
+          "en": "water",
+          "uk": "вода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/a-blue-and-white-abstract-background-with-a-white-circle-27303011/",
+  "sourceName": "Pexels",
+  "authorName": "João  Pavese",
+  "authorUrl": "https://www.pexels.com/@bangalo",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 24,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

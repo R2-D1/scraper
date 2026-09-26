@@ -1,0 +1,54 @@
+{
+  "slug": "ioaus8iduio",
+  "mediaKey": "794f5963-8d14-48fe-896e-1bd581d569ed",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "Play It",
+      "uk": "Два невеликі електронні пристрої на червоному тлі"
+    },
+    "alt": {
+      "en": "Play It",
+      "uk": "Відтворити"
+    },
+    "tags": [
+      {
+        "key": "digital-image",
+        "i18n": {
+          "en": "digital image",
+          "uk": "цифрове зображення"
+        }
+      },
+      {
+        "key": "keyboard-and-mouse",
+        "i18n": {
+          "en": "keyboard and mouse",
+          "uk": "клавіатура та миша"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "technology"
+  ],
+  "source": "https://unsplash.com/photos/IoAuS8IDUio",
+  "sourceName": "Unsplash",
+  "authorName": "aldi sigun",
+  "authorUrl": "https://unsplash.com/@sigun",
+  "description": "Play It",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 1800
+}

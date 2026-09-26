@@ -1,0 +1,63 @@
+{
+  "slug": "asset-selection-jrie",
+  "mediaKey": "7a6c59e1-da42-4b65-8a0f-3fbe3132c2f4",
+  "providerId": "60f04aa78d0f810017371a96",
+  "i18n": {
+    "name": {
+      "en": "Asset selection",
+      "uk": "Вибір активів"
+    },
+    "alt": {
+      "en": "Asset selection",
+      "uk": "Вибір активів"
+    },
+    "tags": [
+      {
+        "key": "asset-selection",
+        "i18n": {
+          "en": "Asset selection",
+          "uk": "Вибір активів"
+        }
+      },
+      {
+        "key": "asset",
+        "i18n": {
+          "en": "asset",
+          "uk": "актив"
+        }
+      },
+      {
+        "key": "selection",
+        "i18n": {
+          "en": "selection",
+          "uk": "виділення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/asset-selection_jrie.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 651,
+  "height": 532
+}

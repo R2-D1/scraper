@@ -1,0 +1,49 @@
+{
+  "slug": "booking-8vl5",
+  "mediaKey": "96a530fe-499b-4d21-90b0-7442973558df",
+  "providerId": "69a611821bb2296cdbdddbc9",
+  "i18n": {
+    "name": {
+      "en": "Booking",
+      "uk": "Бронювання"
+    },
+    "alt": {
+      "en": "Booking",
+      "uk": "Бронювання"
+    },
+    "tags": [
+      {
+        "key": "booking",
+        "i18n": {
+          "en": "Booking",
+          "uk": "Бронювання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/booking_8vl5.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 691
+}

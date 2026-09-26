@@ -1,0 +1,63 @@
+{
+  "slug": "voice-assistant-k27k",
+  "mediaKey": "f7d053ee-f931-4cf2-a3b8-88871b93dab1",
+  "providerId": "5de6add3b4d8680015e280a9",
+  "i18n": {
+    "name": {
+      "en": "Voice assistant",
+      "uk": "Голосовий помічник"
+    },
+    "alt": {
+      "en": "Voice assistant",
+      "uk": "Голосовий помічник"
+    },
+    "tags": [
+      {
+        "key": "voice-assistant",
+        "i18n": {
+          "en": "Voice assistant",
+          "uk": "Голосовий помічник"
+        }
+      },
+      {
+        "key": "voice",
+        "i18n": {
+          "en": "voice",
+          "uk": "голос"
+        }
+      },
+      {
+        "key": "assistant",
+        "i18n": {
+          "en": "assistant",
+          "uk": "асистент"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/voice-assistant_k27k.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 821,
+  "height": 715
+}

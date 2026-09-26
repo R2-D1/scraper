@@ -1,0 +1,49 @@
+{
+  "slug": "reviews-bmgj",
+  "mediaKey": "21a15164-78c2-45e1-87e8-129eb4dd6597",
+  "providerId": "6a209c2579740242d59ddb2a",
+  "i18n": {
+    "name": {
+      "en": "Reviews",
+      "uk": "Відгуки"
+    },
+    "alt": {
+      "en": "Reviews",
+      "uk": "Відгуки"
+    },
+    "tags": [
+      {
+        "key": "reviews",
+        "i18n": {
+          "en": "Reviews",
+          "uk": "Відгуки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/reviews_bmgj.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 665
+}

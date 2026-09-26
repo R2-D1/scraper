@@ -1,0 +1,49 @@
+{
+  "slug": "photographer-2rbr",
+  "mediaKey": "529b4f11-351e-458e-bf08-fed57058705b",
+  "providerId": "67eb003b469b3ec1fbdc799f",
+  "i18n": {
+    "name": {
+      "en": "Photographer",
+      "uk": "Фотограф"
+    },
+    "alt": {
+      "en": "Photographer",
+      "uk": "Фотограф"
+    },
+    "tags": [
+      {
+        "key": "photographer",
+        "i18n": {
+          "en": "Photographer",
+          "uk": "Фотограф"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/photographer_2rbr.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 484,
+  "height": 747
+}

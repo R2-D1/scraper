@@ -1,0 +1,63 @@
+{
+  "slug": "coming-soon-7lvi",
+  "mediaKey": "3d827ea7-9ffb-4028-baa0-02d43acae056",
+  "providerId": "683629b9c0d26f7e2814fbce",
+  "i18n": {
+    "name": {
+      "en": "Coming Soon",
+      "uk": "Скоро"
+    },
+    "alt": {
+      "en": "Coming Soon",
+      "uk": "Скоро"
+    },
+    "tags": [
+      {
+        "key": "coming-soon",
+        "i18n": {
+          "en": "Coming Soon",
+          "uk": "Скоро"
+        }
+      },
+      {
+        "key": "coming",
+        "i18n": {
+          "en": "coming",
+          "uk": "скоро"
+        }
+      },
+      {
+        "key": "soon",
+        "i18n": {
+          "en": "soon",
+          "uk": "незабаром"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/coming-soon_7lvi.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 656,
+  "height": 800
+}

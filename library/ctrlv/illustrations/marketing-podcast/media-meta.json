@@ -1,0 +1,83 @@
+{
+  "slug": "marketing-podcast",
+  "mediaKey": "e9055663-9058-4368-9390-6f66d24d4e7d",
+  "i18n": {
+    "name": {
+      "en": "Podcast Advertising",
+      "uk": "Реклама в подкастах"
+    },
+    "alt": {
+      "en": "Podcast Advertising",
+      "uk": "Реклама в подкастах"
+    },
+    "tags": [
+      {
+        "key": "marketing",
+        "i18n": {
+          "en": "marketing",
+          "uk": "маркетинг"
+        }
+      },
+      {
+        "key": "podcast",
+        "i18n": {
+          "en": "podcast",
+          "uk": "подкаст"
+        }
+      },
+      {
+        "key": "audio",
+        "i18n": {
+          "en": "audio",
+          "uk": "аудіо"
+        }
+      },
+      {
+        "key": "mic",
+        "i18n": {
+          "en": "mic",
+          "uk": "мікрофон"
+        }
+      },
+      {
+        "key": "broadcast",
+        "i18n": {
+          "en": "broadcast",
+          "uk": "трансляція"
+        }
+      },
+      {
+        "key": "speak",
+        "i18n": {
+          "en": "speak",
+          "uk": "говорити"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/marketing-podcast",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

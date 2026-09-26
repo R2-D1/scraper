@@ -1,0 +1,46 @@
+{
+  "slug": "blue-sky-with-white-clouds-vliuefdygme",
+  "mediaKey": "fb0c9088-d681-45bf-925a-dbbd8a1d39fa",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "blue sky with white clouds",
+      "uk": "Планета з блакитно-золотистою поверхнею"
+    },
+    "alt": {
+      "en": "blue sky with white clouds",
+      "uk": "блакитне небо з білими хмарами"
+    },
+    "tags": [
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/blue-sky-with-white-clouds-VlIueFDygME",
+  "sourceName": "Unsplash",
+  "authorName": "Codioful (Formerly Gradienta)",
+  "authorUrl": "https://unsplash.com/@codioful",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 3600,
+  "collectionSlugs": [
+    "gradients"
+  ]
+}

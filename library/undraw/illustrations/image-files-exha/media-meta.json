@@ -1,0 +1,63 @@
+{
+  "slug": "image-files-exha",
+  "mediaKey": "c32c8e8e-5d55-4643-9d37-9a642a6af4ac",
+  "providerId": "6a42e354939aab611cf25c5b",
+  "i18n": {
+    "name": {
+      "en": "Image Files",
+      "uk": "Файли зображень"
+    },
+    "alt": {
+      "en": "Image Files",
+      "uk": "Файли зображень"
+    },
+    "tags": [
+      {
+        "key": "image-files",
+        "i18n": {
+          "en": "Image Files",
+          "uk": "Файли зображень"
+        }
+      },
+      {
+        "key": "image",
+        "i18n": {
+          "en": "image",
+          "uk": "зображення"
+        }
+      },
+      {
+        "key": "files",
+        "i18n": {
+          "en": "files",
+          "uk": "файли"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/image-files_exha.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 578
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "starting-work-ifnt",
+  "mediaKey": "414d8989-11bd-4091-a4b8-32faa1ea26ad",
+  "providerId": "6894f74043bf8dee9e10acfc",
+  "i18n": {
+    "name": {
+      "en": "Starting Work",
+      "uk": "Початок роботи"
+    },
+    "alt": {
+      "en": "Starting Work",
+      "uk": "Початок роботи"
+    },
+    "tags": [
+      {
+        "key": "starting-work",
+        "i18n": {
+          "en": "Starting Work",
+          "uk": "Початок роботи"
+        }
+      },
+      {
+        "key": "starting",
+        "i18n": {
+          "en": "starting",
+          "uk": "початок"
+        }
+      },
+      {
+        "key": "work",
+        "i18n": {
+          "en": "work",
+          "uk": "робота"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/starting-work_ifnt.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 760,
+  "height": 800
+}

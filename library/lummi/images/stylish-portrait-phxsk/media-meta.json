@@ -1,0 +1,80 @@
+{
+  "slug": "stylish-portrait-phxsk",
+  "mediaKey": "0e34971e-9b5f-4cd7-bbe0-a6a6963173b8",
+  "i18n": {
+    "name": {
+      "en": "Stylish Portrait",
+      "uk": "Стильний портрет"
+    },
+    "alt": {
+      "en": "Stylish Portrait",
+      "uk": "Стильний портрет"
+    },
+    "tags": [
+      {
+        "key": "glasses",
+        "i18n": {
+          "en": "Glasses",
+          "uk": "Окуляри"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "sweater",
+        "i18n": {
+          "en": "Sweater",
+          "uk": "Светр"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Ava Thiery",
+  "authorUrl": "https://www.lummi.ai/creator/ava_thiery?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A portrait of a person with medium skin tone and curly black hair wearing round orange-tinted glasses and a cream-colored knit sweater. The background is a gradient of warm orange and green tones, creating a vibrant and artistic atmosphere. The subject's expression is calm and confident, with a slight upward tilt of the head. The lighting emphasizes the texture of the sweater and the reflective quality of the glasses.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1856,
+  "height": 2464,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/stylish-portrait-phxsk/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/stylish-portrait-phxsk/stylish-portrait-phxsk.png",
+  "relativeAssetPath": "library/lummi/images/stylish-portrait-phxsk/stylish-portrait-phxsk.png"
+}

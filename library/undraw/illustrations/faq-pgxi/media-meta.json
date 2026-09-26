@@ -1,0 +1,49 @@
+{
+  "slug": "faq-pgxi",
+  "mediaKey": "bd37f94c-efa4-49f6-8dbc-06023d42acc1",
+  "providerId": "695d9010d05564908830a8ea",
+  "i18n": {
+    "name": {
+      "en": "FAQ",
+      "uk": "Часті запитання"
+    },
+    "alt": {
+      "en": "FAQ",
+      "uk": "Часті запитання"
+    },
+    "tags": [
+      {
+        "key": "faq",
+        "i18n": {
+          "en": "FAQ",
+          "uk": "Часті запитання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/faq_pgxi.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 743
+}

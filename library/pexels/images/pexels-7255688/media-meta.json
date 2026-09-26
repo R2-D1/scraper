@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-7255688",
+  "mediaKey": "pexels:7255688",
+  "i18n": {
+    "name": {
+      "en": "Portrait of a woman with red lipstick",
+      "uk": "Портрет жінки з червоною помадою"
+    },
+    "alt": {
+      "en": "Close-up portrait of a woman with striking red lips and bangs, emphasizing beauty and style.",
+      "uk": "Портрет жінки крупним планом із яскраво-червоними губами та чубчиком, що підкреслює її красу та стиль."
+    },
+    "tags": [
+      {
+        "key": "makeup",
+        "i18n": {
+          "en": "makeup",
+          "uk": "макіяж"
+        }
+      },
+      {
+        "key": "lipstick",
+        "i18n": {
+          "en": "lipstick",
+          "uk": "помада"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "beauty"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/portrait-of-a-woman-with-red-lips-7255688/",
+  "sourceName": "Pexels",
+  "authorName": "Pouriya Kafaei",
+  "authorUrl": "https://www.pexels.com/@pouriyakafaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

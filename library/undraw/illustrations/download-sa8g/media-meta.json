@@ -1,0 +1,49 @@
+{
+  "slug": "download-sa8g",
+  "mediaKey": "389b341d-f0af-4a9f-be1b-84e0da759224",
+  "providerId": "607d58137e88ac0017cb942d",
+  "i18n": {
+    "name": {
+      "en": "Download",
+      "uk": "Завантажити"
+    },
+    "alt": {
+      "en": "Download",
+      "uk": "Завантажити"
+    },
+    "tags": [
+      {
+        "key": "download",
+        "i18n": {
+          "en": "Download",
+          "uk": "Завантажити"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/download_sa8g.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 766,
+  "height": 668
+}

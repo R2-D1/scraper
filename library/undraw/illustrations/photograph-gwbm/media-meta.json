@@ -1,0 +1,49 @@
+{
+  "slug": "photograph-gwbm",
+  "mediaKey": "c1b74da6-d548-4ad1-920a-2f75496b8ea6",
+  "providerId": "6781afbe16a3d06630494045",
+  "i18n": {
+    "name": {
+      "en": "Photograph",
+      "uk": "Фотографія"
+    },
+    "alt": {
+      "en": "Photograph",
+      "uk": "Фотографія"
+    },
+    "tags": [
+      {
+        "key": "photograph",
+        "i18n": {
+          "en": "Photograph",
+          "uk": "Фотографія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/photograph_gwbm.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 920,
+  "height": 684
+}

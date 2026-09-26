@@ -1,0 +1,83 @@
+{
+  "slug": "main-character-spotlight",
+  "mediaKey": "6e285542-cf32-443d-b63a-251808dfff35",
+  "i18n": {
+    "name": {
+      "en": "Main Character",
+      "uk": "Головний герой"
+    },
+    "alt": {
+      "en": "Main Character",
+      "uk": "Головний герой"
+    },
+    "tags": [
+      {
+        "key": "main-character",
+        "i18n": {
+          "en": "main character",
+          "uk": "головний герой"
+        }
+      },
+      {
+        "key": "spotlight",
+        "i18n": {
+          "en": "spotlight",
+          "uk": "прожектор"
+        }
+      },
+      {
+        "key": "energy",
+        "i18n": {
+          "en": "energy",
+          "uk": "енергія"
+        }
+      },
+      {
+        "key": "slang",
+        "i18n": {
+          "en": "slang",
+          "uk": "сленг"
+        }
+      },
+      {
+        "key": "genz",
+        "i18n": {
+          "en": "genz",
+          "uk": "Ілюстрація: genz"
+        }
+      },
+      {
+        "key": "abbreviation",
+        "i18n": {
+          "en": "abbreviation",
+          "uk": "скорочення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/main-character-spotlight",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

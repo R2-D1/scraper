@@ -1,0 +1,97 @@
+{
+  "slug": "tech-video-call",
+  "mediaKey": "73e00e78-b462-4ceb-af37-02415591368c",
+  "i18n": {
+    "name": {
+      "en": "Video Call",
+      "uk": "Відеодзвінок"
+    },
+    "alt": {
+      "en": "Video Call",
+      "uk": "Відеодзвінок"
+    },
+    "tags": [
+      {
+        "key": "productivity",
+        "i18n": {
+          "en": "productivity",
+          "uk": "продуктивність"
+        }
+      },
+      {
+        "key": "video",
+        "i18n": {
+          "en": "video",
+          "uk": "відео"
+        }
+      },
+      {
+        "key": "call",
+        "i18n": {
+          "en": "call",
+          "uk": "виклик"
+        }
+      },
+      {
+        "key": "remote",
+        "i18n": {
+          "en": "remote",
+          "uk": "дистанційний"
+        }
+      },
+      {
+        "key": "meeting",
+        "i18n": {
+          "en": "meeting",
+          "uk": "зустріч"
+        }
+      },
+      {
+        "key": "grid",
+        "i18n": {
+          "en": "grid",
+          "uk": "сітка"
+        }
+      },
+      {
+        "key": "zoom",
+        "i18n": {
+          "en": "zoom",
+          "uk": "Zoom"
+        }
+      },
+      {
+        "key": "collaboration",
+        "i18n": {
+          "en": "collaboration",
+          "uk": "співпраця"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/tech-video-call",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

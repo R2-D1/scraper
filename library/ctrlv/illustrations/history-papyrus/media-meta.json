@@ -1,0 +1,90 @@
+{
+  "slug": "history-papyrus",
+  "mediaKey": "6f783e6c-00e3-4580-b5c2-59fb510f08e1",
+  "i18n": {
+    "name": {
+      "en": "Ancient Scroll",
+      "uk": "Стародавній сувій"
+    },
+    "alt": {
+      "en": "Ancient Scroll",
+      "uk": "Стародавній сувій"
+    },
+    "tags": [
+      {
+        "key": "history",
+        "i18n": {
+          "en": "history",
+          "uk": "історії"
+        }
+      },
+      {
+        "key": "scroll",
+        "i18n": {
+          "en": "scroll",
+          "uk": "прокрутка"
+        }
+      },
+      {
+        "key": "papyrus",
+        "i18n": {
+          "en": "papyrus",
+          "uk": "папірус"
+        }
+      },
+      {
+        "key": "ancient",
+        "i18n": {
+          "en": "ancient",
+          "uk": "давній"
+        }
+      },
+      {
+        "key": "document",
+        "i18n": {
+          "en": "document",
+          "uk": "документ"
+        }
+      },
+      {
+        "key": "writing",
+        "i18n": {
+          "en": "writing",
+          "uk": "написання"
+        }
+      },
+      {
+        "key": "paper",
+        "i18n": {
+          "en": "paper",
+          "uk": "папір"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/history-papyrus",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

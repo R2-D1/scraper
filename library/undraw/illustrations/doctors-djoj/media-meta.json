@@ -1,0 +1,49 @@
+{
+  "slug": "doctors-djoj",
+  "mediaKey": "1ad8d441-b241-4ea9-95b5-e94b41cb940c",
+  "providerId": "63c030783b2e45001845d222",
+  "i18n": {
+    "name": {
+      "en": "Doctors",
+      "uk": "Лікарі"
+    },
+    "alt": {
+      "en": "Doctors",
+      "uk": "Лікарі"
+    },
+    "tags": [
+      {
+        "key": "doctors",
+        "i18n": {
+          "en": "Doctors",
+          "uk": "Лікарі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/doctors_djoj.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 693,
+  "height": 597
+}

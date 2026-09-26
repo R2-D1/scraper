@@ -1,0 +1,63 @@
+{
+  "slug": "unread-messages-hdpw",
+  "mediaKey": "5539bafd-b351-4979-b0b0-d77660ae0334",
+  "providerId": "67c9912f6a578074c8e5edfe",
+  "i18n": {
+    "name": {
+      "en": "Unread messages",
+      "uk": "Непрочитані повідомлення"
+    },
+    "alt": {
+      "en": "Unread messages",
+      "uk": "Непрочитані повідомлення"
+    },
+    "tags": [
+      {
+        "key": "unread-messages",
+        "i18n": {
+          "en": "Unread messages",
+          "uk": "Непрочитані повідомлення"
+        }
+      },
+      {
+        "key": "unread",
+        "i18n": {
+          "en": "unread",
+          "uk": "непрочитано"
+        }
+      },
+      {
+        "key": "messages",
+        "i18n": {
+          "en": "messages",
+          "uk": "повідомлення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/unread-messages_hdpw.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 799,
+  "height": 552
+}

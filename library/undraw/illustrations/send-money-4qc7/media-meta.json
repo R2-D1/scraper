@@ -1,0 +1,63 @@
+{
+  "slug": "send-money-4qc7",
+  "mediaKey": "a8c73b1a-d509-44bb-aafd-c922d1296b0f",
+  "providerId": "68cdc673f11ee2d071f407d9",
+  "i18n": {
+    "name": {
+      "en": "Send Money",
+      "uk": "Переказати гроші"
+    },
+    "alt": {
+      "en": "Send Money",
+      "uk": "Переказати гроші"
+    },
+    "tags": [
+      {
+        "key": "send-money",
+        "i18n": {
+          "en": "Send Money",
+          "uk": "Переказати гроші"
+        }
+      },
+      {
+        "key": "send",
+        "i18n": {
+          "en": "send",
+          "uk": "відправити"
+        }
+      },
+      {
+        "key": "money",
+        "i18n": {
+          "en": "money",
+          "uk": "гроші"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/send-money_4qc7.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 483
+}

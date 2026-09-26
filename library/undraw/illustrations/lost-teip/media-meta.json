@@ -1,0 +1,49 @@
+{
+  "slug": "lost-teip",
+  "mediaKey": "c7765bc8-18f4-439b-94b1-c5c262ee10a1",
+  "providerId": "608979c7d97bdd00172e7ae0",
+  "i18n": {
+    "name": {
+      "en": "Lost",
+      "uk": "Загублений"
+    },
+    "alt": {
+      "en": "Lost",
+      "uk": "Загублений"
+    },
+    "tags": [
+      {
+        "key": "lost",
+        "i18n": {
+          "en": "Lost",
+          "uk": "Загублений"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/lost_teip.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 885,
+  "height": 708
+}

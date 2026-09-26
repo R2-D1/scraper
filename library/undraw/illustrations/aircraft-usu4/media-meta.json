@@ -1,0 +1,49 @@
+{
+  "slug": "aircraft-usu4",
+  "mediaKey": "2a1183b2-d1fc-459d-a8cc-5344630a12d6",
+  "providerId": "62a9b7a765dcfa0018fe4f50",
+  "i18n": {
+    "name": {
+      "en": "Aircraft",
+      "uk": "Літак"
+    },
+    "alt": {
+      "en": "Aircraft",
+      "uk": "Літак"
+    },
+    "tags": [
+      {
+        "key": "aircraft",
+        "i18n": {
+          "en": "Aircraft",
+          "uk": "Літак"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/aircraft_usu4.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 994,
+  "height": 422
+}

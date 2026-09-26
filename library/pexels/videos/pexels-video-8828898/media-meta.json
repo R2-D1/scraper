@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-8828898",
+  "mediaKey": "pexels:video:8828898",
+  "i18n": {
+    "name": {
+      "en": "Burning Green Paper",
+      "uk": "«Burning Green Paper»"
+    },
+    "alt": {
+      "en": "Pexels video 8828898",
+      "uk": "Відео з Pexels № 8828898"
+    },
+    "tags": [
+      {
+        "key": "fire",
+        "i18n": {
+          "en": "fire",
+          "uk": "вогонь"
+        }
+      },
+      {
+        "key": "flame",
+        "i18n": {
+          "en": "flame",
+          "uk": "полум'я"
+        }
+      },
+      {
+        "key": "paper",
+        "i18n": {
+          "en": "paper",
+          "uk": "папір"
+        }
+      },
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      },
+      {
+        "key": "burning",
+        "i18n": {
+          "en": "burning",
+          "uk": "горіння"
+        }
+      },
+      {
+        "key": "black",
+        "i18n": {
+          "en": "black",
+          "uk": "чорний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/burning-paper-in-green-background-8828898/",
+  "sourceName": "Pexels",
+  "authorName": "Hardlight: Overlays for Edits / iOS / Android",
+  "authorUrl": "https://www.pexels.com/@whiterecord",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 18,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "selfie-1xk7",
+  "mediaKey": "84200d57-06f9-42f3-8b38-61f6379a02e2",
+  "providerId": "6786fbcf0be117bab217f802",
+  "i18n": {
+    "name": {
+      "en": "Selfie",
+      "uk": "Селфі"
+    },
+    "alt": {
+      "en": "Selfie",
+      "uk": "Селфі"
+    },
+    "tags": [
+      {
+        "key": "selfie",
+        "i18n": {
+          "en": "Selfie",
+          "uk": "Селфі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/selfie_1xk7.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 610,
+  "height": 720
+}

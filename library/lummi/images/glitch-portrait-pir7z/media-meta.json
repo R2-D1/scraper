@@ -1,0 +1,101 @@
+{
+  "slug": "glitch-portrait-pir7z",
+  "mediaKey": "eb270ef7-75b2-41e5-92c8-a3c2fa02cfd8",
+  "i18n": {
+    "name": {
+      "en": "Glitch Portrait",
+      "uk": "«Портрет глюку»"
+    },
+    "alt": {
+      "en": "Glitch Portrait",
+      "uk": "«Портрет глюку»"
+    },
+    "tags": [
+      {
+        "key": "glitch",
+        "i18n": {
+          "en": "glitch",
+          "uk": "глітч"
+        }
+      },
+      {
+        "key": "modern",
+        "i18n": {
+          "en": "Modern",
+          "uk": "Сучасний"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "Digital art",
+          "uk": "Цифрове мистецтво"
+        }
+      },
+      {
+        "key": "monochrome",
+        "i18n": {
+          "en": "Monochrome",
+          "uk": "Монохромний"
+        }
+      },
+      {
+        "key": "vibrant",
+        "i18n": {
+          "en": "Vibrant",
+          "uk": "Яскравий"
+        }
+      },
+      {
+        "key": "digital-effects",
+        "i18n": {
+          "en": "digital effects",
+          "uk": "цифрові ефекти"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Nika",
+  "authorUrl": "https://www.lummi.ai/creator/nikadominguez_?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A striking black-and-white portrait of a woman with a glitch effect overlay. The woman has a light skin tone, dark hair styled loosely, and expressive features. Her lips are slightly parted, and her gaze is intense, directed slightly off-camera. The glitch effect introduces vibrant streaks of color, including red, green, and blue, distorting parts of her face and creating a surreal, digital aesthetic. The background is minimal and white, emphasizing the subject and the glitch effect.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1856,
+  "height": 2464,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/glitch-portrait-pir7z/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/glitch-portrait-pir7z/glitch-portrait-pir7z.png",
+  "relativeAssetPath": "library/lummi/images/glitch-portrait-pir7z/glitch-portrait-pir7z.png"
+}

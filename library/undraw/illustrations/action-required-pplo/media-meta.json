@@ -1,0 +1,63 @@
+{
+  "slug": "action-required-pplo",
+  "mediaKey": "43dd6d67-4659-4c97-b113-aae25722005d",
+  "providerId": "6a692e7a939aab611cf25c7e",
+  "i18n": {
+    "name": {
+      "en": "Action Required",
+      "uk": "Необхідні дії"
+    },
+    "alt": {
+      "en": "Action Required",
+      "uk": "Необхідні дії"
+    },
+    "tags": [
+      {
+        "key": "action-required",
+        "i18n": {
+          "en": "Action Required",
+          "uk": "Необхідні дії"
+        }
+      },
+      {
+        "key": "action",
+        "i18n": {
+          "en": "action",
+          "uk": "дія"
+        }
+      },
+      {
+        "key": "required",
+        "i18n": {
+          "en": "required",
+          "uk": "обов'язково"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/action-required_pplo.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 739
+}

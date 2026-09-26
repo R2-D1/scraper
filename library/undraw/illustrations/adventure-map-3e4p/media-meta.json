@@ -1,0 +1,63 @@
+{
+  "slug": "adventure-map-3e4p",
+  "mediaKey": "dc402fc5-cc41-4f4b-a8cd-21b1abc91b58",
+  "providerId": "682f8b90c2249902e01e7af6",
+  "i18n": {
+    "name": {
+      "en": "Adventure Map",
+      "uk": "Карта пригод"
+    },
+    "alt": {
+      "en": "Adventure Map",
+      "uk": "Карта пригод"
+    },
+    "tags": [
+      {
+        "key": "adventure-map",
+        "i18n": {
+          "en": "Adventure Map",
+          "uk": "Карта пригод"
+        }
+      },
+      {
+        "key": "adventure",
+        "i18n": {
+          "en": "adventure",
+          "uk": "пригода"
+        }
+      },
+      {
+        "key": "map",
+        "i18n": {
+          "en": "map",
+          "uk": "карта"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/adventure-map_3e4p.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 644
+}

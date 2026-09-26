@@ -1,0 +1,63 @@
+{
+  "slug": "work-time-1ogn",
+  "mediaKey": "1f56decd-c990-4404-9bfd-7d5f77e6130b",
+  "providerId": "69bc763c7b2aa71ce0a0e21b",
+  "i18n": {
+    "name": {
+      "en": "Work Time",
+      "uk": "Робочий час"
+    },
+    "alt": {
+      "en": "Work Time",
+      "uk": "Робочий час"
+    },
+    "tags": [
+      {
+        "key": "work-time",
+        "i18n": {
+          "en": "Work Time",
+          "uk": "Робочий час"
+        }
+      },
+      {
+        "key": "work",
+        "i18n": {
+          "en": "work",
+          "uk": "робота"
+        }
+      },
+      {
+        "key": "time",
+        "i18n": {
+          "en": "time",
+          "uk": "час"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/work-time_1ogn.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 700
+}

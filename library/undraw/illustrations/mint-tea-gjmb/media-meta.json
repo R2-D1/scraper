@@ -1,0 +1,63 @@
+{
+  "slug": "mint-tea-gjmb",
+  "mediaKey": "ef7e7228-4beb-47d2-b2df-6090b97f8fc1",
+  "providerId": "5c094631cf8dc200143474e2",
+  "i18n": {
+    "name": {
+      "en": "Mint tea",
+      "uk": "М'ятний чай"
+    },
+    "alt": {
+      "en": "Mint tea",
+      "uk": "М'ятний чай"
+    },
+    "tags": [
+      {
+        "key": "mint-tea",
+        "i18n": {
+          "en": "Mint tea",
+          "uk": "М'ятний чай"
+        }
+      },
+      {
+        "key": "mint",
+        "i18n": {
+          "en": "mint",
+          "uk": "м’ята"
+        }
+      },
+      {
+        "key": "tea",
+        "i18n": {
+          "en": "tea",
+          "uk": "чай"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/mint-tea_gjmb.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1106,
+  "height": 749
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-6381847",
+  "mediaKey": "pexels:6381847",
+  "i18n": {
+    "name": {
+      "en": "Woman behind a green illuminated panel",
+      "uk": "Жінка за зеленою освітленою панеллю"
+    },
+    "alt": {
+      "en": "Artistic underwater portrait of a young woman with dyed hair in aquarium-like setting.",
+      "uk": "Художній підводний портрет молодої жінки з пофарбованим волоссям у обстановці, що нагадує акваріум."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "green-light",
+        "i18n": {
+          "en": "green light",
+          "uk": "зелене світло"
+        }
+      },
+      {
+        "key": "neon-light",
+        "i18n": {
+          "en": "neon light",
+          "uk": "неонове світло"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-woman-looking-at-the-camera-6381847/",
+  "sourceName": "Pexels",
+  "authorName": "Ike  louie  Natividad",
+  "authorUrl": "https://www.pexels.com/@iamikeee",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

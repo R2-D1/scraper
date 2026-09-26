@@ -1,0 +1,63 @@
+{
+  "slug": "delivery-truck-mjui",
+  "mediaKey": "f14f7ced-e134-4bee-a859-a4d1f975faf2",
+  "providerId": "629496387272790018d0023f",
+  "i18n": {
+    "name": {
+      "en": "Delivery truck",
+      "uk": "Вантажівка для доставки"
+    },
+    "alt": {
+      "en": "Delivery truck",
+      "uk": "Вантажівка для доставки"
+    },
+    "tags": [
+      {
+        "key": "delivery-truck",
+        "i18n": {
+          "en": "Delivery truck",
+          "uk": "Вантажівка для доставки"
+        }
+      },
+      {
+        "key": "delivery",
+        "i18n": {
+          "en": "delivery",
+          "uk": "доставка"
+        }
+      },
+      {
+        "key": "truck",
+        "i18n": {
+          "en": "truck",
+          "uk": "вантажівка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/delivery-truck_mjui.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1005,
+  "height": 421
+}

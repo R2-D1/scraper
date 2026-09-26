@@ -1,0 +1,49 @@
+{
+  "slug": "news-nz1p",
+  "mediaKey": "72e7022a-6480-43f7-bd8f-4d1bb9411954",
+  "providerId": "5ffc31073fafd2001780d93a",
+  "i18n": {
+    "name": {
+      "en": "News",
+      "uk": "Новини"
+    },
+    "alt": {
+      "en": "News",
+      "uk": "Новини"
+    },
+    "tags": [
+      {
+        "key": "news",
+        "i18n": {
+          "en": "News",
+          "uk": "Новини"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/news_nz1p.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 580,
+  "height": 455
+}

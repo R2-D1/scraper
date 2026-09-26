@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-11851036",
+  "mediaKey": "pexels:video:11851036",
+  "i18n": {
+    "name": {
+      "en": "Reflective Liquid Metal Sphere",
+      "uk": "Сфера з відбиваючого рідкого металу"
+    },
+    "alt": {
+      "en": "Pexels video 11851036",
+      "uk": "Відео з Pexels № 11851036"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "sphere",
+        "i18n": {
+          "en": "sphere",
+          "uk": "сфера"
+        }
+      },
+      {
+        "key": "metallic",
+        "i18n": {
+          "en": "metallic",
+          "uk": "металевий"
+        }
+      },
+      {
+        "key": "reflective",
+        "i18n": {
+          "en": "reflective",
+          "uk": "відбиваючий"
+        }
+      },
+      {
+        "key": "liquid",
+        "i18n": {
+          "en": "liquid",
+          "uk": "рідина"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/globe-rotating-on-dark-background-11851036/",
+  "sourceName": "Pexels",
+  "authorName": "Nicola Narracci",
+  "authorUrl": "https://www.pexels.com/@nicola-narracci-157460431",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 10,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

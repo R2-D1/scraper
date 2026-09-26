@@ -1,0 +1,49 @@
+{
+  "slug": "popular-uk9x",
+  "mediaKey": "21f7bafa-8c64-49c0-a77e-e1fc2254c007",
+  "providerId": "5f23ef3eb53a350017ed0b09",
+  "i18n": {
+    "name": {
+      "en": "Popular",
+      "uk": "Популярні"
+    },
+    "alt": {
+      "en": "Popular",
+      "uk": "Популярні"
+    },
+    "tags": [
+      {
+        "key": "popular",
+        "i18n": {
+          "en": "Popular",
+          "uk": "Популярні"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/popular_uk9x.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 648,
+  "height": 566
+}

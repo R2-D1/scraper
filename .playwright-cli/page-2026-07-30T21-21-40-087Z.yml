@@ -1,0 +1,277 @@
+- generic [ref=f103e4]:
+  - navigation [ref=f103e5]:
+    - generic [ref=f103e6]:
+      - generic [ref=f103e7]:
+        - link "Unsplash Home" [ref=f103e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f103e9]
+        - link "Photos" [ref=f103e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f103e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f103e17]:
+        - button "Explore" [ref=f103e18] [cursor=pointer]
+        - button "Collections" [ref=f103e21] [cursor=pointer]
+        - button "Download History" [ref=f103e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f103e28] [cursor=pointer]
+    - generic [ref=f103e31]:
+      - link "Log in / Sign up" [ref=f103e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fphotos%2Fa-stylized-image-of-a-bird-on-a-dark-background-tIWa5tnk3q8
+      - button "Language" [ref=f103e35] [cursor=pointer]
+      - button "Menu" [ref=f103e38] [cursor=pointer]
+  - generic [ref=f103e41]:
+    - generic [ref=f103e42]:
+      - navigation [ref=f103e43]:
+        - search "Find visuals sitewide" [ref=f103e45]:
+          - button "Search Unsplash" [ref=f103e46] [cursor=pointer]
+          - combobox [ref=f103e49]:
+            - searchbox "Search Unsplash" [ref=f103e50]
+            - listbox
+          - button "Visual search" [ref=f103e52] [cursor=pointer]
+        - generic [ref=f103e55]:
+          - link "Get Unsplash+" [ref=f103e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f103e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fphotos%2Fa-stylized-image-of-a-bird-on-a-dark-background-tIWa5tnk3q8
+        - button "Submit an image" [ref=f103e59] [cursor=pointer]
+      - generic [ref=f103e60]:
+        - generic [ref=f103e61]:
+          - banner [ref=f103e63]:
+            - generic [ref=f103e65]:
+              - link [ref=f103e66] [cursor=pointer]:
+                - /url: /@yasadesign_studio
+              - generic [ref=f103e69]:
+                - link "YASA Design Studio" [ref=f103e70] [cursor=pointer]:
+                  - /url: /@yasadesign_studio
+                - generic [ref=f103e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f103e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-stylized-image-of-a-bird-on-a-dark-background-tIWa5tnk3q8
+            - generic [ref=f103e73]:
+              - button "Bookmark" [ref=f103e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f103e77] [cursor=pointer]
+              - button "Edit image" [ref=f103e80] [cursor=pointer]
+              - button "Download" [ref=f103e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f103e90]:
+            - img "A stylized image of a bird on a dark background" [ref=f103e91]
+          - generic [ref=f103e92]:
+            - generic [ref=f103e94]:
+              - button "Share this image" [ref=f103e95] [cursor=pointer]:
+                - generic [ref=f103e98]: Share
+              - button "More Actions" [ref=f103e99] [cursor=pointer]
+            - generic [ref=f103e103]:
+              - heading "A stylized image of a bird on a dark background" [level=1] [ref=f103e105]
+              - paragraph [ref=f103e109]: Shiny metallic abstract shape against dark background, perfect for backgrounds, technology concepts, and futuristic design themes.
+              - generic [ref=f103e111]:
+                - generic [ref=f103e116]:
+                  - text: Published on
+                  - time [ref=f103e117]: September 11, 2024
+                - generic [ref=f103e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f103e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f103e124]:
+              - link "texture" [ref=f103e125] [cursor=pointer]:
+                - /url: /s/photos/texture
+              - link "abstract" [ref=f103e126] [cursor=pointer]:
+                - /url: /s/photos/abstract
+              - link "pattern" [ref=f103e127] [cursor=pointer]:
+                - /url: /s/photos/pattern
+              - link "abstract background" [ref=f103e128] [cursor=pointer]:
+                - /url: /s/photos/abstract-background
+              - link "light" [ref=f103e129] [cursor=pointer]:
+                - /url: /s/photos/light
+              - link "cyberpunk" [ref=f103e130] [cursor=pointer]:
+                - /url: /s/photos/cyberpunk
+              - link "3d render" [ref=f103e131] [cursor=pointer]:
+                - /url: /s/photos/3d-render
+              - link "futuristic" [ref=f103e132] [cursor=pointer]:
+                - /url: /s/photos/futuristic
+              - link "cyber" [ref=f103e133] [cursor=pointer]:
+                - /url: /s/photos/cyber
+              - link "modern art" [ref=f103e134] [cursor=pointer]:
+                - /url: /s/photos/modern-art
+              - link "digital art" [ref=f103e135] [cursor=pointer]:
+                - /url: /s/photos/digital-art
+              - link "silver" [ref=f103e136] [cursor=pointer]:
+                - /url: /s/photos/silver
+              - link "sci fi" [ref=f103e137] [cursor=pointer]:
+                - /url: /s/photos/sci-fi
+              - link "sculpture" [ref=f103e138] [cursor=pointer]:
+                - /url: /s/photos/sculpture
+              - link "chrome" [ref=f103e139] [cursor=pointer]:
+                - /url: /s/photos/chrome
+              - link "form" [ref=f103e140] [cursor=pointer]:
+                - /url: /s/photos/form
+              - link "abstract design" [ref=f103e141] [cursor=pointer]:
+                - /url: /s/photos/abstract-design
+              - link "metallic" [ref=f103e142] [cursor=pointer]:
+                - /url: /s/photos/metallic
+              - link "shiny" [ref=f103e143] [cursor=pointer]:
+                - /url: /s/photos/shiny
+              - link "sharp" [ref=f103e144] [cursor=pointer]:
+                - /url: /s/photos/sharp
+        - generic [ref=f103e147]:
+          - generic [ref=f103e148]:
+            - paragraph [ref=f103e150]: From this series
+            - generic [ref=f103e153]:
+              - generic:
+                - link [ref=f103e154] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fphotos%2Fa-picture-of-a-bird-with-wings-on-a-dark-background-1SSR2l1ulOM
+                - link "A picture of a bird with wings on a dark background":
+                  - /url: /photos/a-picture-of-a-bird-with-wings-on-a-dark-background-1SSR2l1ulOM
+                  - img "A picture of a bird with wings on a dark background"
+              - generic:
+                - link [ref=f103e157] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fphotos%2Fa-computer-generated-image-of-a-lizards-tail-v370KrcCXGo
+                - link "A computer generated image of a lizard's tail":
+                  - /url: /photos/a-computer-generated-image-of-a-lizards-tail-v370KrcCXGo
+                  - img "A computer generated image of a lizard's tail"
+          - generic [ref=f103e160]:
+            - heading "Related images" [level=4] [ref=f103e162]
+            - generic [ref=f103e166]:
+              - generic [ref=f103e167]:
+                - figure [ref=f103e168]:
+                  - generic [ref=f103e170]:
+                    - link [ref=f103e171]:
+                      - /url: /photos/a-picture-of-a-white-bird-flying-in-the-sky-u5Nca4friWU
+                      - img "A picture of a white bird flying in the sky" [ref=f103e172]
+                    - link [ref=f103e173] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-picture-of-a-white-bird-flying-in-the-sky-u5Nca4friWU
+                - figure [ref=f103e176]:
+                  - generic [ref=f103e178]:
+                    - link [ref=f103e179]:
+                      - /url: /photos/a-black-background-with-a-horses-head-in-the-center-4r5hdsFVbG4
+                      - img "A black background with a horse's head in the center" [ref=f103e180]
+                    - link [ref=f103e181] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-black-background-with-a-horses-head-in-the-center-4r5hdsFVbG4
+                - figure [ref=f103e184]:
+                  - generic [ref=f103e186]:
+                    - link [ref=f103e187]:
+                      - /url: /photos/a-purple-abstract-design-on-a-black-background-4xnSbLbTFtY
+                      - img "A purple abstract design on a black background" [ref=f103e188]
+                    - link [ref=f103e189] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-purple-abstract-design-on-a-black-background-4xnSbLbTFtY
+                - figure [ref=f103e192]:
+                  - generic [ref=f103e194]:
+                    - link [ref=f103e195]:
+                      - /url: /photos/a-black-background-with-a-white-design-on-it-ZRxwwFATB_8
+                      - img "A black background with a white design on it" [ref=f103e196]
+                    - link [ref=f103e197] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-black-background-with-a-white-design-on-it-ZRxwwFATB_8
+                - figure [ref=f103e200]:
+                  - generic [ref=f103e202]:
+                    - link [ref=f103e203]:
+                      - /url: /photos/a-picture-of-a-blue-sky-with-a-white-design-on-it-XFliw5HCem8
+                      - img "A picture of a blue sky with a white design on it" [ref=f103e204]
+                    - link [ref=f103e205] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-picture-of-a-blue-sky-with-a-white-design-on-it-XFliw5HCem8
+                - figure [ref=f103e208]:
+                  - generic [ref=f103e210]:
+                    - link [ref=f103e211]:
+                      - /url: /photos/a-picture-of-a-blue-background-with-white-letters-SR9C7t7QbEY
+                      - img "A picture of a blue background with white letters" [ref=f103e212]
+                    - link [ref=f103e213] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-picture-of-a-blue-background-with-white-letters-SR9C7t7QbEY
+              - generic [ref=f103e216]:
+                - figure [ref=f103e217]:
+                  - generic [ref=f103e219]:
+                    - link [ref=f103e220]:
+                      - /url: /photos/a-black-and-white-picture-of-a-dragon-on-a-red-background-226spbO9UVY
+                      - img "A black and white picture of a dragon on a red background" [ref=f103e221]
+                    - link [ref=f103e222] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-black-and-white-picture-of-a-dragon-on-a-red-background-226spbO9UVY
+                - figure [ref=f103e225]:
+                  - generic [ref=f103e227]:
+                    - link [ref=f103e228]:
+                      - /url: /photos/a-black-and-white-picture-of-a-stylized-design-uGgkl-90Xcg
+                      - img "A black and white picture of a stylized design" [ref=f103e229]
+                    - link [ref=f103e230] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-black-and-white-picture-of-a-stylized-design-uGgkl-90Xcg
+                - figure [ref=f103e233]:
+                  - generic [ref=f103e235]:
+                    - link [ref=f103e236]:
+                      - /url: /photos/a-black-and-white-picture-of-a-bird-on-a-blue-background-7cECODOpoOM
+                      - img "A black and white picture of a bird on a blue background" [ref=f103e237]
+                    - link [ref=f103e238] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-black-and-white-picture-of-a-bird-on-a-blue-background-7cECODOpoOM
+                - figure [ref=f103e241]:
+                  - generic [ref=f103e243]:
+                    - link [ref=f103e244]:
+                      - /url: /photos/a-black-background-with-a-white-and-orange-design-yi2r_BCaGhw
+                      - img "A black background with a white and orange design" [ref=f103e245]
+                    - link [ref=f103e246] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-black-background-with-a-white-and-orange-design-yi2r_BCaGhw
+                - figure [ref=f103e249]:
+                  - generic [ref=f103e251]:
+                    - link [ref=f103e252]:
+                      - /url: /photos/a-black-and-white-photo-of-a-logo-IhnctVc_NOw
+                      - img "A black and white photo of a logo" [ref=f103e253]
+                    - link [ref=f103e254] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-black-and-white-photo-of-a-logo-IhnctVc_NOw
+                - figure [ref=f103e257]:
+                  - generic [ref=f103e259]:
+                    - link [ref=f103e260]:
+                      - /url: /photos/a-black-background-with-blue-and-silver-tribal-designs-i8547SQKjbY
+                      - img "A black background with blue and silver tribal designs" [ref=f103e261]
+                    - link [ref=f103e262] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-black-background-with-blue-and-silver-tribal-designs-i8547SQKjbY
+                - figure [ref=f103e265]:
+                  - generic [ref=f103e267]:
+                    - link [ref=f103e268]:
+                      - /url: /photos/a-black-and-white-picture-of-a-spider-web-HmGiQZolPwA
+                      - img "A black and white picture of a spider web" [ref=f103e269]
+                    - link [ref=f103e270] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-black-and-white-picture-of-a-spider-web-HmGiQZolPwA
+              - generic [ref=f103e273]:
+                - figure [ref=f103e274]:
+                  - generic [ref=f103e276]:
+                    - link [ref=f103e277]:
+                      - /url: /photos/a-picture-of-a-logo-on-a-red-and-black-background-ODbXdxkbaB8
+                      - img "A picture of a logo on a red and black background" [ref=f103e278]
+                    - link [ref=f103e279] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-picture-of-a-logo-on-a-red-and-black-background-ODbXdxkbaB8
+                - figure [ref=f103e282]:
+                  - generic [ref=f103e284]:
+                    - link [ref=f103e285]:
+                      - /url: /photos/a-black-and-white-photo-of-a-logo-Fvp97MXCmtE
+                      - img "A black and white photo of a logo" [ref=f103e286]
+                    - link [ref=f103e287] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-black-and-white-photo-of-a-logo-Fvp97MXCmtE
+                - figure [ref=f103e290]:
+                  - generic [ref=f103e292]:
+                    - link [ref=f103e293]:
+                      - /url: /photos/a-picture-of-a-blue-background-with-white-letters-VOYaaG8wrU4
+                      - img "A picture of a blue background with white letters" [ref=f103e294]
+                    - link [ref=f103e295] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-picture-of-a-blue-background-with-white-letters-VOYaaG8wrU4
+                - figure [ref=f103e298]:
+                  - generic [ref=f103e300]:
+                    - link [ref=f103e301]:
+                      - /url: /photos/a-black-and-white-picture-of-a-dragon-on-a-red-background-KH2i3gtohxo
+                      - img "A black and white picture of a dragon on a red background" [ref=f103e302]
+                    - link [ref=f103e303] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-black-and-white-picture-of-a-dragon-on-a-red-background-KH2i3gtohxo
+                - figure [ref=f103e306]:
+                  - generic [ref=f103e308]:
+                    - link [ref=f103e309]:
+                      - /url: /photos/a-black-and-white-photo-of-a-dragon-on-a-black-background-lTjbF7voHy8
+                      - img "A black and white photo of a dragon on a black background" [ref=f103e310]
+                    - link [ref=f103e311] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-black-and-white-photo-of-a-dragon-on-a-black-background-lTjbF7voHy8
+                - figure [ref=f103e314]:
+                  - generic [ref=f103e316]:
+                    - link [ref=f103e317]:
+                      - /url: /photos/a-black-and-white-photo-of-a-pair-of-scissors-42hG8fHsS-o
+                      - img "A black and white photo of a pair of scissors" [ref=f103e318]
+                    - link [ref=f103e319] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-black-and-white-photo-of-a-pair-of-scissors-42hG8fHsS-o
+                - figure [ref=f103e322]:
+                  - generic [ref=f103e324]:
+                    - link [ref=f103e325]:
+                      - /url: /photos/the-logo-for-a-gaming-company-5clMcShv5kE
+                      - img "The logo for a gaming company" [ref=f103e326]
+                    - link [ref=f103e327] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fthe-logo-for-a-gaming-company-5clMcShv5kE
+    - generic:
+      - region "Notifications"

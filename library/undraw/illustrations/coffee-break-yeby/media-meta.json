@@ -1,0 +1,63 @@
+{
+  "slug": "coffee-break-yeby",
+  "mediaKey": "91fbee18-367d-4479-a0e3-afe258ffc5d3",
+  "providerId": "5fd0bbd218e5450017c18bf7",
+  "i18n": {
+    "name": {
+      "en": "Coffee break",
+      "uk": "Кава-брейк"
+    },
+    "alt": {
+      "en": "Coffee break",
+      "uk": "Кава-брейк"
+    },
+    "tags": [
+      {
+        "key": "coffee-break",
+        "i18n": {
+          "en": "Coffee break",
+          "uk": "Кава-брейк"
+        }
+      },
+      {
+        "key": "coffee",
+        "i18n": {
+          "en": "coffee",
+          "uk": "кава"
+        }
+      },
+      {
+        "key": "break",
+        "i18n": {
+          "en": "break",
+          "uk": "перерва"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/coffee-break_yeby.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 744,
+  "height": 417
+}

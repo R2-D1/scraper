@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-33685874",
+  "mediaKey": "pexels:video:33685874",
+  "i18n": {
+    "name": {
+      "en": "Red and White City Bokeh",
+      "uk": "Червоно-біле місто: ефект боке"
+    },
+    "alt": {
+      "en": "Pexels video 33685874",
+      "uk": "Відео з Pexels № 33685874"
+    },
+    "tags": [
+      {
+        "key": "bokeh",
+        "i18n": {
+          "en": "bokeh",
+          "uk": "боке"
+        }
+      },
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "lights",
+        "i18n": {
+          "en": "lights",
+          "uk": "вогні"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "white",
+        "i18n": {
+          "en": "white",
+          "uk": "білий"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      },
+      {
+        "key": "defocused",
+        "i18n": {
+          "en": "defocused",
+          "uk": "розфокусований"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/colorful-bokeh-light-patterns-at-night-33685874/",
+  "sourceName": "Pexels",
+  "authorName": "Larkkid Dung",
+  "authorUrl": "https://www.pexels.com/@larkkid-dung-363901731",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 22,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

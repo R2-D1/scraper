@@ -1,0 +1,63 @@
+{
+  "slug": "location-search-9mdg",
+  "mediaKey": "961b1b51-f0e4-4172-9835-e47eef893eea",
+  "providerId": "6a0b8f5479740242d59ddb14",
+  "i18n": {
+    "name": {
+      "en": "Location Search",
+      "uk": "Пошук за місцем розташування"
+    },
+    "alt": {
+      "en": "Location Search",
+      "uk": "Пошук за місцем розташування"
+    },
+    "tags": [
+      {
+        "key": "location-search",
+        "i18n": {
+          "en": "Location Search",
+          "uk": "Пошук за місцем розташування"
+        }
+      },
+      {
+        "key": "location",
+        "i18n": {
+          "en": "location",
+          "uk": "місцезнаходження"
+        }
+      },
+      {
+        "key": "search",
+        "i18n": {
+          "en": "search",
+          "uk": "пошук"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/location-search_9mdg.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 746
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-1910225",
+  "mediaKey": "pexels:1910225",
+  "i18n": {
+    "name": {
+      "en": "Neon red and blue light trails",
+      "uk": "Сліди світла неонового червоного та синього кольорів"
+    },
+    "alt": {
+      "en": "Dynamic and colorful long exposure light streaks in an abstract artistic composition.",
+      "uk": "Динамічні та барвисті світлові смуги, отримані завдяки тривалій експозиції, в абстрактній художній композиції."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "neon",
+        "i18n": {
+          "en": "neon",
+          "uk": "неон"
+        }
+      },
+      {
+        "key": "light-trails",
+        "i18n": {
+          "en": "light trails",
+          "uk": "світлові сліди"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "dark-background",
+        "i18n": {
+          "en": "dark background",
+          "uk": "темний фон"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/modern-art-1910225/",
+  "sourceName": "Pexels",
+  "authorName": "Bruno Thethe",
+  "authorUrl": "https://www.pexels.com/@bruthethe",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

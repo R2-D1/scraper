@@ -1,0 +1,49 @@
+{
+  "slug": "newspaper-ri3k",
+  "mediaKey": "a145dba3-e177-4687-9fa2-3155bf8bcde1",
+  "providerId": "67f4420120e4d865ecc97355",
+  "i18n": {
+    "name": {
+      "en": "Newspaper",
+      "uk": "Газета"
+    },
+    "alt": {
+      "en": "Newspaper",
+      "uk": "Газета"
+    },
+    "tags": [
+      {
+        "key": "newspaper",
+        "i18n": {
+          "en": "Newspaper",
+          "uk": "Газета"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/newspaper_ri3k.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 609,
+  "height": 765
+}

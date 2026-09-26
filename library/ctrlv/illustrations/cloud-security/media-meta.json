@@ -1,0 +1,83 @@
+{
+  "slug": "cloud-security",
+  "mediaKey": "f89a623f-2b20-407e-bdc3-36a4bcddcc01",
+  "i18n": {
+    "name": {
+      "en": "Cloud Security",
+      "uk": "Безпека хмарних технологій"
+    },
+    "alt": {
+      "en": "Cloud Security",
+      "uk": "Безпека хмарних технологій"
+    },
+    "tags": [
+      {
+        "key": "cloud",
+        "i18n": {
+          "en": "cloud",
+          "uk": "хмара"
+        }
+      },
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "protection",
+        "i18n": {
+          "en": "protection",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "tech",
+        "i18n": {
+          "en": "tech",
+          "uk": "технології"
+        }
+      },
+      {
+        "key": "enterprise",
+        "i18n": {
+          "en": "enterprise",
+          "uk": "підприємство"
+        }
+      },
+      {
+        "key": "minimalist",
+        "i18n": {
+          "en": "minimalist",
+          "uk": "мінімалізм"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/cloud-security",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

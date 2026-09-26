@@ -1,0 +1,325 @@
+- generic [ref=f99e4]:
+  - navigation [ref=f99e5]:
+    - generic [ref=f99e6]:
+      - generic [ref=f99e7]:
+        - link "Unsplash Home" [ref=f99e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f99e9]
+        - link "Photos" [ref=f99e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f99e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f99e17]:
+        - button "Explore" [ref=f99e18] [cursor=pointer]
+        - button "Collections" [ref=f99e21] [cursor=pointer]
+        - button "Download History" [ref=f99e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f99e28] [cursor=pointer]
+    - generic [ref=f99e31]:
+      - link "Log in / Sign up" [ref=f99e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fblue-figure-reading-a-book-next-to-a-potted-flower-2699zGtJ4WE
+      - button "Language" [ref=f99e35] [cursor=pointer]
+      - button "Menu" [ref=f99e38] [cursor=pointer]
+  - generic [ref=f99e41]:
+    - generic [ref=f99e42]:
+      - navigation [ref=f99e43]:
+        - search "Find visuals sitewide" [ref=f99e45]:
+          - button "Search Unsplash" [ref=f99e46] [cursor=pointer]
+          - combobox [ref=f99e49]:
+            - searchbox "Search Unsplash" [ref=f99e50]
+            - listbox
+          - button "Visual search" [ref=f99e52] [cursor=pointer]
+        - generic [ref=f99e55]:
+          - link "Get Unsplash+" [ref=f99e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f99e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fblue-figure-reading-a-book-next-to-a-potted-flower-2699zGtJ4WE
+        - button "Submit an image" [ref=f99e59] [cursor=pointer]
+      - generic [ref=f99e60]:
+        - generic [ref=f99e61]:
+          - banner [ref=f99e63]:
+            - generic [ref=f99e65]:
+              - link [ref=f99e66] [cursor=pointer]:
+                - /url: /@getillustrations/illustrations
+              - generic [ref=f99e69]:
+                - link "Getillustrations" [ref=f99e70] [cursor=pointer]:
+                  - /url: /@getillustrations/illustrations
+                - generic [ref=f99e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f99e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fblue-figure-reading-a-book-next-to-a-potted-flower-2699zGtJ4WE
+            - generic [ref=f99e73]:
+              - button "Bookmark" [ref=f99e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f99e77] [cursor=pointer]
+              - button "Edit image" [ref=f99e80] [cursor=pointer]
+              - button "Download" [ref=f99e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f99e90]:
+            - img "Blue figure reading a book next to a potted flower" [ref=f99e91]
+          - generic [ref=f99e92]:
+            - generic [ref=f99e94]:
+              - button "Share this image" [ref=f99e95] [cursor=pointer]:
+                - generic [ref=f99e98]: Share
+              - button "More Actions" [ref=f99e99] [cursor=pointer]
+            - generic [ref=f99e103]:
+              - heading "Blue figure reading a book next to a potted flower" [level=1] [ref=f99e105]
+              - paragraph [ref=f99e109]: Bloomie Life
+              - generic [ref=f99e111]:
+                - generic [ref=f99e116]:
+                  - text: Published on
+                  - time [ref=f99e117]: November 12, 2025
+                - generic [ref=f99e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f99e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f99e124]:
+              - link "blue" [ref=f99e125] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "green" [ref=f99e126] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "education" [ref=f99e127] [cursor=pointer]:
+                - /url: /s/illustrations/education
+              - link "illustration" [ref=f99e128] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "plant" [ref=f99e129] [cursor=pointer]:
+                - /url: /s/illustrations/plant
+              - link "orange" [ref=f99e130] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "learning" [ref=f99e131] [cursor=pointer]:
+                - /url: /s/illustrations/learning
+              - link "growth" [ref=f99e132] [cursor=pointer]:
+                - /url: /s/illustrations/growth
+              - link "reading" [ref=f99e133] [cursor=pointer]:
+                - /url: /s/illustrations/reading
+              - link "gardening" [ref=f99e134] [cursor=pointer]:
+                - /url: /s/illustrations/gardening
+              - link "knowledge" [ref=f99e135] [cursor=pointer]:
+                - /url: /s/illustrations/knowledge
+              - link "green leaves" [ref=f99e136] [cursor=pointer]:
+                - /url: /s/illustrations/green-leaves
+              - link "teal" [ref=f99e137] [cursor=pointer]:
+                - /url: /s/illustrations/teal
+              - link "flower pot" [ref=f99e138] [cursor=pointer]:
+                - /url: /s/illustrations/flower-pot
+              - link "hobby" [ref=f99e139] [cursor=pointer]:
+                - /url: /s/illustrations/hobby
+              - link "orange flower" [ref=f99e140] [cursor=pointer]:
+                - /url: /s/illustrations/orange-flower
+              - link "leisure activity" [ref=f99e141] [cursor=pointer]:
+                - /url: /s/illustrations/leisure-activity
+              - link "holding book" [ref=f99e142] [cursor=pointer]:
+                - /url: /s/illustrations/holding-book
+              - link "abstract figure" [ref=f99e143] [cursor=pointer]:
+                - /url: /s/illustrations/abstract-figure
+        - generic [ref=f99e146]:
+          - generic [ref=f99e147]:
+            - paragraph [ref=f99e149]: From this series
+            - generic [ref=f99e151]:
+              - button "scroll list to the right" [ref=f99e153] [cursor=pointer]
+              - generic [ref=f99e156]:
+                - generic [ref=f99e157]:
+                  - link [ref=f99e158] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcarrot-driving-a-blue-convertible-car-vDcmDp7zeOM
+                  - link [ref=f99e161]:
+                    - /url: /illustrations/carrot-driving-a-blue-convertible-car-vDcmDp7zeOM
+                    - img "Carrot driving a blue convertible car" [ref=f99e162]
+                - generic [ref=f99e163]:
+                  - link [ref=f99e164] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fperson-hugging-a-fried-egg-with-stars-W7uQRl3TsZ0
+                  - link [ref=f99e167]:
+                    - /url: /illustrations/person-hugging-a-fried-egg-with-stars-W7uQRl3TsZ0
+                    - img "Person hugging a fried egg with stars" [ref=f99e168]
+                - generic [ref=f99e169]:
+                  - link [ref=f99e170] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-sleeping-bear-on-a-blue-arrow-with-a-butterfly-TGQKvgOQR9g
+                  - link [ref=f99e173]:
+                    - /url: /illustrations/a-sleeping-bear-on-a-blue-arrow-with-a-butterfly-TGQKvgOQR9g
+                    - img "A sleeping bear on a blue arrow with a butterfly." [ref=f99e174]
+                - generic [ref=f99e175]:
+                  - link [ref=f99e176] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Flady-justice-holding-scales-and-sword-with-sword-0gdtcGFdSI4
+                  - link [ref=f99e179]:
+                    - /url: /illustrations/lady-justice-holding-scales-and-sword-with-sword-0gdtcGFdSI4
+                    - img "Lady justice holding scales and sword with sword" [ref=f99e180]
+                - generic [ref=f99e181]:
+                  - link [ref=f99e182] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-smiling-flower-in-a-snow-globe-surrounded-by-stars-sb8x2upoU8I
+                  - link [ref=f99e185]:
+                    - /url: /illustrations/a-smiling-flower-in-a-snow-globe-surrounded-by-stars-sb8x2upoU8I
+                    - img "A smiling flower in a snow globe surrounded by stars." [ref=f99e186]
+                - generic [ref=f99e187]:
+                  - link [ref=f99e188] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-key-unlocks-a-carrot-house-with-flowers-and-clouds-YevyiqwWrFU
+                  - link [ref=f99e191]:
+                    - /url: /illustrations/a-key-unlocks-a-carrot-house-with-flowers-and-clouds-YevyiqwWrFU
+                    - img "A key unlocks a carrot house with flowers and clouds." [ref=f99e192]
+                - generic [ref=f99e193]:
+                  - link [ref=f99e194] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcartoon-figure-lifting-weights-with-flowers-M0joG2Mh5Io
+                  - link [ref=f99e197]:
+                    - /url: /illustrations/cartoon-figure-lifting-weights-with-flowers-M0joG2Mh5Io
+                    - img "Cartoon figure lifting weights with flowers" [ref=f99e198]
+                - generic [ref=f99e199]:
+                  - link [ref=f99e200] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-melting-candle-with-a-flower-and-broken-heart-5eWctzqTwzQ
+                  - link [ref=f99e203]:
+                    - /url: /illustrations/a-melting-candle-with-a-flower-and-broken-heart-5eWctzqTwzQ
+                    - img "A melting candle with a flower and broken heart." [ref=f99e204]
+                - generic [ref=f99e205]:
+                  - link [ref=f99e206] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fperson-holding-a-large-horseshoe-magnet-2MhZbCAkxus
+                  - link [ref=f99e209]:
+                    - /url: /illustrations/person-holding-a-large-horseshoe-magnet-2MhZbCAkxus
+                    - img "Person holding a large horseshoe magnet" [ref=f99e210]
+                - generic [ref=f99e211]:
+                  - link [ref=f99e212] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-dark-blue-birdcage-with-a-crescent-moon-inside-v1ROcPnAfXY
+                  - link [ref=f99e215]:
+                    - /url: /illustrations/a-dark-blue-birdcage-with-a-crescent-moon-inside-v1ROcPnAfXY
+                    - img "A dark blue birdcage with a crescent moon inside." [ref=f99e216]
+          - generic [ref=f99e217]:
+            - heading "Related images" [level=4] [ref=f99e219]
+            - generic [ref=f99e223]:
+              - generic [ref=f99e224]:
+                - figure [ref=f99e225]:
+                  - generic [ref=f99e227]:
+                    - link [ref=f99e228]:
+                      - /url: /illustrations/a-green-person-carries-a-potted-plant-HzeFu7HH-0E
+                      - img "A green person carries a potted plant." [ref=f99e229]
+                    - link [ref=f99e230] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-green-person-carries-a-potted-plant-HzeFu7HH-0E
+                - figure [ref=f99e233]:
+                  - generic [ref=f99e235]:
+                    - link [ref=f99e236]:
+                      - /url: /illustrations/orange-figure-holding-a-heart-shaped-flower-with-sun-rays-JQfwP-p6PfY
+                      - img "Orange figure holding a heart-shaped flower with sun rays" [ref=f99e237]
+                    - link [ref=f99e238] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Forange-figure-holding-a-heart-shaped-flower-with-sun-rays-JQfwP-p6PfY
+                - figure [ref=f99e241]:
+                  - generic [ref=f99e243]:
+                    - link [ref=f99e244]:
+                      - /url: /illustrations/man-carries-a-plant-while-walking-LRBwixEFVr0
+                      - img "Man carries a plant while walking." [ref=f99e245]
+                    - link [ref=f99e246] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fman-carries-a-plant-while-walking-LRBwixEFVr0
+                - figure [ref=f99e249]:
+                  - generic [ref=f99e251]:
+                    - link [ref=f99e252]:
+                      - /url: /illustrations/turquoise-figure-holding-a-tablet-with-speech-bubbles-YloX4kDJVxI
+                      - img "Turquoise figure holding a tablet with speech bubbles" [ref=f99e253]
+                    - link [ref=f99e254] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fturquoise-figure-holding-a-tablet-with-speech-bubbles-YloX4kDJVxI
+                - figure [ref=f99e257]:
+                  - generic [ref=f99e259]:
+                    - link [ref=f99e260]:
+                      - /url: /illustrations/a-person-is-watering-a-giant-flower-Vop_hFUQcEM
+                      - img "A person is watering a giant flower." [ref=f99e261]
+                    - link [ref=f99e262] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-is-watering-a-giant-flower-Vop_hFUQcEM
+                - figure [ref=f99e265]:
+                  - generic [ref=f99e267]:
+                    - link [ref=f99e268]:
+                      - /url: /illustrations/computer-smiles-with-flowers-blooming-all-around-gyo8tpCqAuQ
+                      - img "Computer smiles with flowers blooming all around." [ref=f99e269]
+                    - link [ref=f99e270] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcomputer-smiles-with-flowers-blooming-all-around-gyo8tpCqAuQ
+                - figure [ref=f99e273]:
+                  - generic [ref=f99e275]:
+                    - link [ref=f99e276]:
+                      - /url: /illustrations/person-peeking-through-blue-door-with-lightbulb-8Vc9rkB1C88
+                      - img "Person peeking through blue door with lightbulb" [ref=f99e277]
+                    - link [ref=f99e278] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fperson-peeking-through-blue-door-with-lightbulb-8Vc9rkB1C88
+              - generic [ref=f99e281]:
+                - figure [ref=f99e282]:
+                  - generic [ref=f99e284]:
+                    - link [ref=f99e285]:
+                      - /url: /illustrations/person-holding-flower-near-smiling-sun-in-book--fAr0poRsfc
+                      - img "Person holding flower near smiling sun in book" [ref=f99e286]
+                    - link [ref=f99e287] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fperson-holding-flower-near-smiling-sun-in-book--fAr0poRsfc
+                - figure [ref=f99e290]:
+                  - generic [ref=f99e292]:
+                    - link [ref=f99e293]:
+                      - /url: /illustrations/a-person-is-watering-flowers-with-a-watering-can-1vBbFiVZGCk
+                      - img "A person is watering flowers with a watering can." [ref=f99e294]
+                    - link [ref=f99e295] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-is-watering-flowers-with-a-watering-can-1vBbFiVZGCk
+                - figure [ref=f99e298]:
+                  - generic [ref=f99e300]:
+                    - link [ref=f99e301]:
+                      - /url: /illustrations/a-person-lovingly-holds-a-plant-in-a-pot-pGkkhNQil_k
+                      - img "A person lovingly holds a plant in a pot." [ref=f99e302]
+                    - link [ref=f99e303] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-lovingly-holds-a-plant-in-a-pot-pGkkhNQil_k
+                - figure [ref=f99e306]:
+                  - generic [ref=f99e308]:
+                    - link [ref=f99e309]:
+                      - /url: /illustrations/abstract-figure-doing-yoga-surrounded-by-whimsical-shapes-GK5FKLYAXK4
+                      - img "Abstract figure doing yoga surrounded by whimsical shapes." [ref=f99e310]
+                    - link [ref=f99e311] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-figure-doing-yoga-surrounded-by-whimsical-shapes-GK5FKLYAXK4
+                - figure [ref=f99e314]:
+                  - generic [ref=f99e316]:
+                    - link [ref=f99e317]:
+                      - /url: /illustrations/person-holding-a-potted-plant-with-blue-flowers-z_aNwYGllOc
+                      - img "Person holding a potted plant with blue flowers." [ref=f99e318]
+                    - link [ref=f99e319] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fperson-holding-a-potted-plant-with-blue-flowers-z_aNwYGllOc
+                - figure [ref=f99e322]:
+                  - generic [ref=f99e324]:
+                    - link [ref=f99e325]:
+                      - /url: /illustrations/person-holding-umbrella-over-a-happy-flower-_7ANNu5OTXQ
+                      - img "Person holding umbrella over a happy flower" [ref=f99e326]
+                    - link [ref=f99e327] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fperson-holding-umbrella-over-a-happy-flower-_7ANNu5OTXQ
+                - figure [ref=f99e330]:
+                  - generic [ref=f99e332]:
+                    - link [ref=f99e333]:
+                      - /url: /illustrations/abstract-vase-with-eye-flower-and-sun-bkZgLmD10QU
+                      - img "Abstract vase with eye flower and sun" [ref=f99e334]
+                    - link [ref=f99e335] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-vase-with-eye-flower-and-sun-bkZgLmD10QU
+              - generic [ref=f99e338]:
+                - figure [ref=f99e339]:
+                  - generic [ref=f99e341]:
+                    - link [ref=f99e342]:
+                      - /url: /illustrations/purple-figure-reads-book-next-to-sunscreen-tube-riLnzpf-A3E
+                      - img "Purple figure reads book next to sunscreen tube." [ref=f99e343]
+                    - link [ref=f99e344] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fpurple-figure-reads-book-next-to-sunscreen-tube-riLnzpf-A3E
+                - figure [ref=f99e347]:
+                  - generic [ref=f99e349]:
+                    - link [ref=f99e350]:
+                      - /url: /illustrations/person-steps-toward-a-star-achieving-success-f2-09iXlvgM
+                      - img "Person steps toward a star, achieving success." [ref=f99e351]
+                    - link [ref=f99e352] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fperson-steps-toward-a-star-achieving-success-f2-09iXlvgM
+                - figure [ref=f99e355]:
+                  - generic [ref=f99e357]:
+                    - link [ref=f99e358]:
+                      - /url: /illustrations/artist-paints-a-flower-on-a-blue-head-profile-Q-oygM75g4A
+                      - img "Artist paints a flower on a blue head profile." [ref=f99e359]
+                    - link [ref=f99e360] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fartist-paints-a-flower-on-a-blue-head-profile-Q-oygM75g4A
+                - figure [ref=f99e363]:
+                  - generic [ref=f99e365]:
+                    - link [ref=f99e366]:
+                      - /url: /illustrations/a-blue-person-walks-with-a-yellow-bag-KwhNJbSqH88
+                      - img "A blue person walks with a yellow bag." [ref=f99e367]
+                    - link [ref=f99e368] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-blue-person-walks-with-a-yellow-bag-KwhNJbSqH88
+                - figure [ref=f99e371]:
+                  - generic [ref=f99e373]:
+                    - link [ref=f99e374]:
+                      - /url: /illustrations/a-stylized-figure-uses-a-laptop-with-an-email-icon-pbLaq4R0KBo
+                      - img "A stylized figure uses a laptop with an email icon." [ref=f99e375]
+                    - link [ref=f99e376] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-stylized-figure-uses-a-laptop-with-an-email-icon-pbLaq4R0KBo
+                - figure [ref=f99e379]:
+                  - generic [ref=f99e381]:
+                    - link [ref=f99e382]:
+                      - /url: /illustrations/someone-is-reading-a-book-and-having-thoughts-4TsLpk-Dj4c
+                      - img "Someone is reading a book and having thoughts." [ref=f99e383]
+                    - link [ref=f99e384] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fsomeone-is-reading-a-book-and-having-thoughts-4TsLpk-Dj4c
+    - generic:
+      - region "Notifications"

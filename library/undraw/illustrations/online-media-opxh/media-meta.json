@@ -1,0 +1,63 @@
+{
+  "slug": "online-media-opxh",
+  "mediaKey": "2c2b681d-8757-4835-9cc6-afa2114fe28b",
+  "providerId": "6197672598067a00174d52f9",
+  "i18n": {
+    "name": {
+      "en": "Online media",
+      "uk": "Інтернет-ЗМІ"
+    },
+    "alt": {
+      "en": "Online media",
+      "uk": "Інтернет-ЗМІ"
+    },
+    "tags": [
+      {
+        "key": "online-media",
+        "i18n": {
+          "en": "Online media",
+          "uk": "Інтернет-ЗМІ"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "media",
+        "i18n": {
+          "en": "media",
+          "uk": "медіа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/online-media_opxh.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 660,
+  "height": 645
+}

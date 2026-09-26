@@ -1,0 +1,49 @@
+{
+  "slug": "scooter-izdb",
+  "mediaKey": "ccc389f2-b33a-4a48-9533-e47cb9c7c23b",
+  "providerId": "6879660dc2f9f99bbb2815df",
+  "i18n": {
+    "name": {
+      "en": "Scooter",
+      "uk": "Скутер"
+    },
+    "alt": {
+      "en": "Scooter",
+      "uk": "Скутер"
+    },
+    "tags": [
+      {
+        "key": "scooter",
+        "i18n": {
+          "en": "Scooter",
+          "uk": "Скутер"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/scooter_izdb.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 758
+}

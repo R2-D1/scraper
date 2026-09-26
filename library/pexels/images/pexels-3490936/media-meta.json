@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-3490936",
+  "mediaKey": "pexels:3490936",
+  "i18n": {
+    "name": {
+      "en": "Rows of cactus plants in low light",
+      "uk": "Ряди кактусів у умовах слабкого освітлення"
+    },
+    "alt": {
+      "en": "Detailed close-up of a green cactus captured in Palm Desert, California.",
+      "uk": "Детальний крупний план зеленого кактуса, знятий у Палм-Дезерті, Каліфорнія."
+    },
+    "tags": [
+      {
+        "key": "cactus",
+        "i18n": {
+          "en": "cactus",
+          "uk": "кактус"
+        }
+      },
+      {
+        "key": "cacti",
+        "i18n": {
+          "en": "cacti",
+          "uk": "кактуси"
+        }
+      },
+      {
+        "key": "plants",
+        "i18n": {
+          "en": "plants",
+          "uk": "рослини"
+        }
+      },
+      {
+        "key": "dark-background",
+        "i18n": {
+          "en": "dark background",
+          "uk": "темний фон"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      },
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "nature"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/green-cactus-plant-3490936/",
+  "sourceName": "Pexels",
+  "authorName": "Ivy Son",
+  "authorUrl": "https://www.pexels.com/@ivysonshine",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3200
+}

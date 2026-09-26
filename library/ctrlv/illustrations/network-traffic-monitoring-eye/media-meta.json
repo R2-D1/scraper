@@ -1,0 +1,83 @@
+{
+  "slug": "network-traffic-monitoring-eye",
+  "mediaKey": "c9d67782-bd93-4d4a-aa79-dea2e65ed3d0",
+  "i18n": {
+    "name": {
+      "en": "Network Traffic Monitoring Eye",
+      "uk": "Система моніторингу мережевого трафіку «Eye»"
+    },
+    "alt": {
+      "en": "Network Traffic Monitoring Eye",
+      "uk": "Система моніторингу мережевого трафіку «Eye»"
+    },
+    "tags": [
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      },
+      {
+        "key": "monitoring",
+        "i18n": {
+          "en": "monitoring",
+          "uk": "моніторинг"
+        }
+      },
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "eye",
+        "i18n": {
+          "en": "eye",
+          "uk": "око"
+        }
+      },
+      {
+        "key": "tech",
+        "i18n": {
+          "en": "tech",
+          "uk": "технології"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/network-traffic-monitoring-eye",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

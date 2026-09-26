@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-38315336",
+  "mediaKey": "pexels:38315336",
+  "i18n": {
+    "name": {
+      "en": "Man posing beside flowing silver fabric",
+      "uk": "Чоловік позує біля сріблястої тканини"
+    },
+    "alt": {
+      "en": "Fashionable adult in dark outfit posing with flair in a moody studio setting.",
+      "uk": "Модний дорослий у темному вбранні, що виразно позує в атмосферній обстановці студії."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "silver",
+        "i18n": {
+          "en": "silver",
+          "uk": "срібний"
+        }
+      },
+      {
+        "key": "black-clothing",
+        "i18n": {
+          "en": "black clothing",
+          "uk": "чорний одяг"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/stylish-adult-posing-in-moody-studio-setting-38315336/",
+  "sourceName": "Pexels",
+  "authorName": "Umar  Faruq",
+  "authorUrl": "https://www.pexels.com/@umar-faruq-1662051319",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

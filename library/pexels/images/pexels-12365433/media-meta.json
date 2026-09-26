@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-12365433",
+  "mediaKey": "pexels:12365433",
+  "i18n": {
+    "name": {
+      "en": "Neon geometric street sign at night",
+      "uk": "Неонова геометрична вивіска вночі"
+    },
+    "alt": {
+      "en": "Traffic light showing a red stop signal at night against a dark sky.",
+      "uk": "Світлофор, що вночі на тлі темного неба показує червоний сигнал «Стоп»."
+    },
+    "tags": [
+      {
+        "key": "neon",
+        "i18n": {
+          "en": "neon",
+          "uk": "неон"
+        }
+      },
+      {
+        "key": "sign",
+        "i18n": {
+          "en": "sign",
+          "uk": "знак"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      },
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "urban",
+          "uk": "урбаністичний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "urban"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/red-light-at-night-12365433/",
+  "sourceName": "Pexels",
+  "authorName": "Vadim Timayev",
+  "authorUrl": "https://www.pexels.com/@vadim-timayev-119582430",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 4265
+}

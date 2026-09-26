@@ -1,0 +1,94 @@
+{
+  "slug": "freckled-portrait-1a8en",
+  "mediaKey": "22e5d8ae-9975-4999-9ec3-9320bde1a7ba",
+  "i18n": {
+    "name": {
+      "en": "Freckled Portrait",
+      "uk": "Портрет у веснянках"
+    },
+    "alt": {
+      "en": "Freckled Portrait",
+      "uk": "Портрет у веснянках"
+    },
+    "tags": [
+      {
+        "key": "freckles",
+        "i18n": {
+          "en": "Freckles",
+          "uk": "Веснянки"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "blue-eyes",
+        "i18n": {
+          "en": "blue eyes",
+          "uk": "сині очі"
+        }
+      },
+      {
+        "key": "short-hair",
+        "i18n": {
+          "en": "short hair",
+          "uk": "Ілюстрація: short hair"
+        }
+      },
+      {
+        "key": "red-ribbon",
+        "i18n": {
+          "en": "red ribbon",
+          "uk": "Червоний ribbon"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Ava Thiery",
+  "authorUrl": "https://www.lummi.ai/creator/ava_thiery?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A close-up portrait of a person with fair skin, freckles, and blue eyes. Their short brown hair frames their face, and they wear a white garment with a red ribbon. The lighting highlights the texture of their skin and the vibrant color of their lips.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1856,
+  "height": 2464,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/freckled-portrait-1a8en/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/freckled-portrait-1a8en/freckled-portrait-1a8en.png",
+  "relativeAssetPath": "library/lummi/images/freckled-portrait-1a8en/freckled-portrait-1a8en.png"
+}

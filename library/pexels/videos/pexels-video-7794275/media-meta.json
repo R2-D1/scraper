@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-7794275",
+  "mediaKey": "pexels:video:7794275",
+  "i18n": {
+    "name": {
+      "en": "Red Ink Cloud on Black",
+      "uk": "Червона хмара на чорному тлі"
+    },
+    "alt": {
+      "en": "Pexels video 7794275",
+      "uk": "Відео з Pexels № 7794275"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "ink",
+        "i18n": {
+          "en": "ink",
+          "uk": "чорнило"
+        }
+      },
+      {
+        "key": "smoke",
+        "i18n": {
+          "en": "smoke",
+          "uk": "дим"
+        }
+      },
+      {
+        "key": "cloud",
+        "i18n": {
+          "en": "cloud",
+          "uk": "хмара"
+        }
+      },
+      {
+        "key": "black",
+        "i18n": {
+          "en": "black",
+          "uk": "чорний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/red-ink-in-water-7794275/",
+  "sourceName": "Pexels",
+  "authorName": "Dan Cristian Pădureț",
+  "authorUrl": "https://www.pexels.com/@paduret",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 17,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

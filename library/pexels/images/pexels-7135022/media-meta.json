@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-7135022",
+  "mediaKey": "pexels:7135022",
+  "i18n": {
+    "name": {
+      "en": "Soft turquoise and pink gradient",
+      "uk": "М'який бірюзово-рожевий градієнт"
+    },
+    "alt": {
+      "en": "A soothing and colorful pastel gradient, perfect for modern background usage.",
+      "uk": "Заспокійливий і барвистий пастельний градієнт, який ідеально підходить для використання в якості сучасного фону."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "soft-colors",
+        "i18n": {
+          "en": "soft colors",
+          "uk": "м'які кольори"
+        }
+      },
+      {
+        "key": "cyan",
+        "i18n": {
+          "en": "cyan",
+          "uk": "бірюзовий"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-pastel-colored-gradient-7135022/",
+  "sourceName": "Pexels",
+  "authorName": "Codioful (formerly Gradienta)",
+  "authorUrl": "https://www.pexels.com/@codioful",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

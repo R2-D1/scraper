@@ -1,0 +1,63 @@
+{
+  "slug": "to-do-list-eoia",
+  "mediaKey": "dd30f916-ae72-4041-a089-d07174d02ebe",
+  "providerId": "6813d75834adf134d85cb63e",
+  "i18n": {
+    "name": {
+      "en": "To Do List",
+      "uk": "Список справ"
+    },
+    "alt": {
+      "en": "To Do List",
+      "uk": "Список справ"
+    },
+    "tags": [
+      {
+        "key": "to-do-list",
+        "i18n": {
+          "en": "To Do List",
+          "uk": "Список справ"
+        }
+      },
+      {
+        "key": "do",
+        "i18n": {
+          "en": "do",
+          "uk": "зробити"
+        }
+      },
+      {
+        "key": "list",
+        "i18n": {
+          "en": "list",
+          "uk": "список"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/to-do-list_eoia.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 466,
+  "height": 757
+}

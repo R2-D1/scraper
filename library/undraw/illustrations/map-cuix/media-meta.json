@@ -1,0 +1,49 @@
+{
+  "slug": "map-cuix",
+  "mediaKey": "a4f9ed9a-04bf-4f3b-9a36-1c690c0658d2",
+  "providerId": "618e85c3e7cd0f001735c8ee",
+  "i18n": {
+    "name": {
+      "en": "Map",
+      "uk": "Карта"
+    },
+    "alt": {
+      "en": "Map",
+      "uk": "Карта"
+    },
+    "tags": [
+      {
+        "key": "map",
+        "i18n": {
+          "en": "Map",
+          "uk": "Карта"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/map_cuix.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 687,
+  "height": 631
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "vacation-backpack",
+  "mediaKey": "cf31b6af-7e54-4e9f-9e91-16ac5c19ac73",
+  "i18n": {
+    "name": {
+      "en": "Travel Backpack",
+      "uk": "Туристичний рюкзак"
+    },
+    "alt": {
+      "en": "Travel Backpack",
+      "uk": "Туристичний рюкзак"
+    },
+    "tags": [
+      {
+        "key": "vacation",
+        "i18n": {
+          "en": "vacation",
+          "uk": "відпустка"
+        }
+      },
+      {
+        "key": "backpack",
+        "i18n": {
+          "en": "backpack",
+          "uk": "рюкзак"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "hike",
+        "i18n": {
+          "en": "hike",
+          "uk": "похід"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      },
+      {
+        "key": "bag",
+        "i18n": {
+          "en": "bag",
+          "uk": "сумка"
+        }
+      },
+      {
+        "key": "camp",
+        "i18n": {
+          "en": "camp",
+          "uk": "табір"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/vacation-backpack",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

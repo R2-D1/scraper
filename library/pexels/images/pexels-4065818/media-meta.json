@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-4065818",
+  "mediaKey": "pexels:4065818",
+  "i18n": {
+    "name": {
+      "en": "White sports car on a forest road",
+      "uk": "Білий спортивний автомобіль на лісовій дорозі"
+    },
+    "alt": {
+      "en": "A luxury sports car driving on an empty highway, surrounded by nature at sunset.",
+      "uk": "Розкішний спортивний автомобіль, що мчить по порожній автомагістралі, оточений природою на тлі заходу сонця."
+    },
+    "tags": [
+      {
+        "key": "sports-car",
+        "i18n": {
+          "en": "sports car",
+          "uk": "спортивний автомобіль"
+        }
+      },
+      {
+        "key": "white-car",
+        "i18n": {
+          "en": "white car",
+          "uk": "білий автомобіль"
+        }
+      },
+      {
+        "key": "road",
+        "i18n": {
+          "en": "road",
+          "uk": "дорога"
+        }
+      },
+      {
+        "key": "driving",
+        "i18n": {
+          "en": "driving",
+          "uk": "водіння"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "vehicles"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/photo-of-white-cars-on-road-4065818/",
+  "sourceName": "Pexels",
+  "authorName": "Erik Mclean",
+  "authorUrl": "https://www.pexels.com/@introspectivedsgn",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "data-backup-server",
+  "mediaKey": "9d5803aa-4a92-4621-a357-438a7a8e4ec1",
+  "i18n": {
+    "name": {
+      "en": "Data Backup Server",
+      "uk": "Сервер резервного копіювання даних"
+    },
+    "alt": {
+      "en": "Data Backup Server",
+      "uk": "Сервер резервного копіювання даних"
+    },
+    "tags": [
+      {
+        "key": "server",
+        "i18n": {
+          "en": "server",
+          "uk": "сервер"
+        }
+      },
+      {
+        "key": "backup",
+        "i18n": {
+          "en": "backup",
+          "uk": "резервне копіювання"
+        }
+      },
+      {
+        "key": "storage",
+        "i18n": {
+          "en": "storage",
+          "uk": "сховище"
+        }
+      },
+      {
+        "key": "tech",
+        "i18n": {
+          "en": "tech",
+          "uk": "технології"
+        }
+      },
+      {
+        "key": "cloud",
+        "i18n": {
+          "en": "cloud",
+          "uk": "хмара"
+        }
+      },
+      {
+        "key": "infrastructure",
+        "i18n": {
+          "en": "infrastructure",
+          "uk": "інфраструктура"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/data-backup-server",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

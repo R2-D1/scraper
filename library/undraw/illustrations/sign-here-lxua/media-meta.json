@@ -1,0 +1,63 @@
+{
+  "slug": "sign-here-lxua",
+  "mediaKey": "e805f069-143d-4861-a919-920ee312166d",
+  "providerId": "690bd450e67c94207ecb0ffc",
+  "i18n": {
+    "name": {
+      "en": "Sign here",
+      "uk": "Підпишіть тут"
+    },
+    "alt": {
+      "en": "Sign here",
+      "uk": "Підпишіть тут"
+    },
+    "tags": [
+      {
+        "key": "sign-here",
+        "i18n": {
+          "en": "Sign here",
+          "uk": "Підпишіть тут"
+        }
+      },
+      {
+        "key": "sign",
+        "i18n": {
+          "en": "sign",
+          "uk": "знак"
+        }
+      },
+      {
+        "key": "here",
+        "i18n": {
+          "en": "here",
+          "uk": "here"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/sign-here_lxua.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 646,
+  "height": 800
+}

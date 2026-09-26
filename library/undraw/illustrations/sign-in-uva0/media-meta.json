@@ -1,0 +1,56 @@
+{
+  "slug": "sign-in-uva0",
+  "mediaKey": "8de605eb-9666-4eaf-b402-fb2918efa730",
+  "providerId": "60509a15c5c40700176db70a",
+  "i18n": {
+    "name": {
+      "en": "Sign in",
+      "uk": "Увійти"
+    },
+    "alt": {
+      "en": "Sign in",
+      "uk": "Увійти"
+    },
+    "tags": [
+      {
+        "key": "sign-in",
+        "i18n": {
+          "en": "Sign in",
+          "uk": "Увійти"
+        }
+      },
+      {
+        "key": "sign",
+        "i18n": {
+          "en": "sign",
+          "uk": "знак"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/sign-in_uva0.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 832,
+  "height": 500
+}

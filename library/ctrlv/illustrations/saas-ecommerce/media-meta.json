@@ -1,0 +1,97 @@
+{
+  "slug": "saas-ecommerce",
+  "mediaKey": "f455fb47-681c-41e9-a8a3-8b2761efea6b",
+  "i18n": {
+    "name": {
+      "en": "E-Commerce Platform",
+      "uk": "Платформа електронної комерції"
+    },
+    "alt": {
+      "en": "E-Commerce Platform",
+      "uk": "Платформа електронної комерції"
+    },
+    "tags": [
+      {
+        "key": "saas",
+        "i18n": {
+          "en": "saas",
+          "uk": "SaaS"
+        }
+      },
+      {
+        "key": "ecommerce",
+        "i18n": {
+          "en": "ecommerce",
+          "uk": "електронна комерція"
+        }
+      },
+      {
+        "key": "store",
+        "i18n": {
+          "en": "store",
+          "uk": "зберігати"
+        }
+      },
+      {
+        "key": "shop",
+        "i18n": {
+          "en": "shop",
+          "uk": "магазин"
+        }
+      },
+      {
+        "key": "cart",
+        "i18n": {
+          "en": "cart",
+          "uk": "візок"
+        }
+      },
+      {
+        "key": "products",
+        "i18n": {
+          "en": "products",
+          "uk": "продукти"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "retail",
+        "i18n": {
+          "en": "retail",
+          "uk": "ритейл"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/saas-ecommerce",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "bitcoin-p2-p-pykv",
+  "mediaKey": "a0d5609a-a905-4511-b982-d9010140dd0f",
+  "providerId": "5f3a5fb35add8e0017efcd8e",
+  "i18n": {
+    "name": {
+      "en": "Bitcoin P2P",
+      "uk": "Біткойн P2P"
+    },
+    "alt": {
+      "en": "Bitcoin P2P",
+      "uk": "Біткойн P2P"
+    },
+    "tags": [
+      {
+        "key": "bitcoin-p2p",
+        "i18n": {
+          "en": "Bitcoin P2P",
+          "uk": "Біткойн P2P"
+        }
+      },
+      {
+        "key": "bitcoin",
+        "i18n": {
+          "en": "bitcoin",
+          "uk": "біткойн"
+        }
+      },
+      {
+        "key": "p2p",
+        "i18n": {
+          "en": "p2p",
+          "uk": "p2p"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/bitcoin-p2-p_pykv.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 727,
+  "height": 478
+}

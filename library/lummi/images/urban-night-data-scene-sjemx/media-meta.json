@@ -1,0 +1,80 @@
+{
+  "slug": "urban-night-data-scene-sjemx",
+  "mediaKey": "75206cd2-d110-4851-b4aa-8d8de13890c6",
+  "i18n": {
+    "name": {
+      "en": "Urban Night Data Scene",
+      "uk": "Міська нічна сцена даних"
+    },
+    "alt": {
+      "en": "Urban Night Data Scene",
+      "uk": "Міська нічна сцена даних"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "bokeh",
+        "i18n": {
+          "en": "Bokeh",
+          "uk": "Боке"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "Night",
+          "uk": "Ніч"
+        }
+      },
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "Urban",
+          "uk": "Міський"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "technology"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "SHIHO",
+  "authorUrl": "https://www.lummi.ai/creator/ms.designs.0711-fcesu?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A vibrant urban night scene with blurred city lights in various colors, including red, green, and blue, creating a bokeh effect. Superimposed over the scene is a graphical representation of a fluctuating line chart, with red and green lines indicating changes, possibly symbolizing financial or data trends. The background suggests a bustling city street with illuminated signs and headlights, though the details are intentionally out of focus to emphasize the abstract and dynamic nature of the composition.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1856,
+  "height": 2464,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/urban-night-data-scene-sjemx/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/urban-night-data-scene-sjemx/urban-night-data-scene-sjemx.png",
+  "relativeAssetPath": "library/lummi/images/urban-night-data-scene-sjemx/urban-night-data-scene-sjemx.png"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-18541711",
+  "mediaKey": "pexels:18541711",
+  "i18n": {
+    "name": {
+      "en": "Red and cream gradient",
+      "uk": "Червоно-кремовий градієнт"
+    },
+    "alt": {
+      "en": "Colorful abstract gradient background with red and orange hues, perfect for creative designs.",
+      "uk": "Яскравий абстрактний фон із градієнтом у червоних та помаранчевих відтінках, який ідеально підходить для креативних дизайнів."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "soft-colors",
+        "i18n": {
+          "en": "soft colors",
+          "uk": "м'які кольори"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/colorful-background-wallpaper-4k-18541711/",
+  "sourceName": "Pexels",
+  "authorName": "Resource Boy",
+  "authorUrl": "https://www.pexels.com/@resourceboy",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

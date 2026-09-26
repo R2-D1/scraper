@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-12195867",
+  "mediaKey": "pexels:12195867",
+  "i18n": {
+    "name": {
+      "en": "Glowing doorway above a quiet sea",
+      "uk": "Світний портал над спокійним морем"
+    },
+    "alt": {
+      "en": "Surreal seascape featuring a small boat, pink clouds, and a serene sunset.",
+      "uk": "Сюрреалістичний морський пейзаж із маленьким човном, рожевими хмарами та спокійним заходом сонця."
+    },
+    "tags": [
+      {
+        "key": "surrealism",
+        "i18n": {
+          "en": "surrealism",
+          "uk": "сюрреалізм"
+        }
+      },
+      {
+        "key": "doorway",
+        "i18n": {
+          "en": "doorway",
+          "uk": "дверний проріз"
+        }
+      },
+      {
+        "key": "sea",
+        "i18n": {
+          "en": "sea",
+          "uk": "море"
+        }
+      },
+      {
+        "key": "glowing",
+        "i18n": {
+          "en": "glowing",
+          "uk": "світіння"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "surrealism"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/painting-of-a-boat-on-sea-among-pink-clouds-12195867/",
+  "sourceName": "Pexels",
+  "authorName": "Mo Eid",
+  "authorUrl": "https://www.pexels.com/@mo-eid-1268975",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2160,
+  "height": 2700
+}

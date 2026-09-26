@@ -1,0 +1,97 @@
+{
+  "slug": "alchemy-lab",
+  "mediaKey": "c09cae30-8801-4362-9d6b-8a73faa62731",
+  "i18n": {
+    "name": {
+      "en": "Alchemy Lab",
+      "uk": "Лабораторія алхімії"
+    },
+    "alt": {
+      "en": "Alchemy Lab",
+      "uk": "Лабораторія алхімії"
+    },
+    "tags": [
+      {
+        "key": "alchemy",
+        "i18n": {
+          "en": "alchemy",
+          "uk": "алхімія"
+        }
+      },
+      {
+        "key": "lab",
+        "i18n": {
+          "en": "lab",
+          "uk": "лабораторія"
+        }
+      },
+      {
+        "key": "potion",
+        "i18n": {
+          "en": "potion",
+          "uk": "зілля"
+        }
+      },
+      {
+        "key": "magic",
+        "i18n": {
+          "en": "magic",
+          "uk": "магія"
+        }
+      },
+      {
+        "key": "science",
+        "i18n": {
+          "en": "science",
+          "uk": "наука"
+        }
+      },
+      {
+        "key": "flask",
+        "i18n": {
+          "en": "flask",
+          "uk": "колба"
+        }
+      },
+      {
+        "key": "stars",
+        "i18n": {
+          "en": "stars",
+          "uk": "зірки"
+        }
+      },
+      {
+        "key": "universe",
+        "i18n": {
+          "en": "universe",
+          "uk": "всесвіт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/alchemy-lab",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

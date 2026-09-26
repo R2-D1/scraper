@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-12468014",
+  "mediaKey": "pexels:video:12468014",
+  "i18n": {
+    "name": {
+      "en": "Futuristic Orange Light Tunnel",
+      "uk": "Футуристичний тунель з помаранчевим світлом"
+    },
+    "alt": {
+      "en": "Pexels video 12468014",
+      "uk": "Відео з Pexels № 12468014"
+    },
+    "tags": [
+      {
+        "key": "futuristic",
+        "i18n": {
+          "en": "futuristic",
+          "uk": "футуристичний"
+        }
+      },
+      {
+        "key": "tunnel",
+        "i18n": {
+          "en": "tunnel",
+          "uk": "тунель"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "lights",
+        "i18n": {
+          "en": "lights",
+          "uk": "вогні"
+        }
+      },
+      {
+        "key": "smoke",
+        "i18n": {
+          "en": "smoke",
+          "uk": "дим"
+        }
+      },
+      {
+        "key": "geometric",
+        "i18n": {
+          "en": "geometric",
+          "uk": "геометричний"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/futuristic-abstract-tunnel-animation-12468014/",
+  "sourceName": "Pexels",
+  "authorName": "Nicola Narracci",
+  "authorUrl": "https://www.pexels.com/@nicola-narracci-157460431",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 10,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

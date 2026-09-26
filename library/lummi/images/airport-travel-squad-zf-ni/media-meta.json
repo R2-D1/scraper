@@ -1,0 +1,84 @@
+{
+  "slug": "airport-travel-squad-zf-ni",
+  "mediaKey": "75ff725c-2976-4878-995f-8775ede5fa54",
+  "i18n": {
+    "name": {
+      "en": "Airport Travel Squad",
+      "uk": "Команда «Airport Travel Squad»"
+    },
+    "alt": {
+      "en": "Airport Travel Squad",
+      "uk": "Команда «Airport Travel Squad»"
+    },
+    "tags": [
+      {
+        "key": "airport",
+        "i18n": {
+          "en": "Airport",
+          "uk": "Аеропорт"
+        }
+      },
+      {
+        "key": "women",
+        "i18n": {
+          "en": "Women",
+          "uk": "Жінки"
+        }
+      },
+      {
+        "key": "luggage",
+        "i18n": {
+          "en": "Luggage",
+          "uk": "Багаж"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "Travel",
+          "uk": "Подорожі"
+        }
+      },
+      {
+        "key": "sunny-day",
+        "i18n": {
+          "en": "sunny day",
+          "uk": "сонячний день"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "travel"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/airport-travel-squad-zf_ni",
+  "sourceName": "Lummi",
+  "authorName": "Mariana Pedroza",
+  "authorUrl": "https://www.lummi.ai/creator/mariana?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "Four young women are standing outdoors at an airport, each holding brightly colored luggage. They are all smiling widely, wearing sunglasses, and dressed in stylish, casual outfits. The women have fair skin tones and varying shades of brown hair, styled differently. The background shows a clear blue sky and parts of an airport runway with airplanes visible in the distance. The scene is brightly lit, suggesting a sunny day, and the overall atmosphere is cheerful and vibrant.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1345,
+  "mimeType": "image/webp"
+}

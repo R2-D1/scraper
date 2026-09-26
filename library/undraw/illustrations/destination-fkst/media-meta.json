@@ -1,0 +1,49 @@
+{
+  "slug": "destination-fkst",
+  "mediaKey": "faf115d3-048c-4a90-b2f5-e1896b797bf8",
+  "providerId": "676c91a8d254bcccc502ac93",
+  "i18n": {
+    "name": {
+      "en": "Destination",
+      "uk": "Пункт призначення"
+    },
+    "alt": {
+      "en": "Destination",
+      "uk": "Пункт призначення"
+    },
+    "tags": [
+      {
+        "key": "destination",
+        "i18n": {
+          "en": "Destination",
+          "uk": "Пункт призначення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/destination_fkst.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1033,
+  "height": 836
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-34204383",
+  "mediaKey": "pexels:34204383",
+  "i18n": {
+    "name": {
+      "en": "Blue geometric pyramid on a green background",
+      "uk": "Синя геометрична піраміда на зеленому тлі"
+    },
+    "alt": {
+      "en": "Colorful abstract 3D render with gradient background, perfect for digital design use.",
+      "uk": "Яскравий абстрактний 3D-рендер із фоном із градієнтом, який ідеально підходить для використання в цифровому дизайні."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "pyramid",
+        "i18n": {
+          "en": "pyramid",
+          "uk": "піраміда"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      },
+      {
+        "key": "geometry",
+        "i18n": {
+          "en": "geometry",
+          "uk": "геометрія"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/vibrant-abstract-3d-render-with-gradient-colors-34204383/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

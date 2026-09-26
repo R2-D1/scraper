@@ -1,0 +1,63 @@
+{
+  "slug": "link-shortener-9ro5",
+  "mediaKey": "5806550d-d522-4672-8c84-e83b0044e732",
+  "providerId": "5cf68d79f619f30015a80118",
+  "i18n": {
+    "name": {
+      "en": "Link shortener",
+      "uk": "Сервіс для скорочення посилань"
+    },
+    "alt": {
+      "en": "Link shortener",
+      "uk": "Сервіс для скорочення посилань"
+    },
+    "tags": [
+      {
+        "key": "link-shortener",
+        "i18n": {
+          "en": "Link shortener",
+          "uk": "Сервіс для скорочення посилань"
+        }
+      },
+      {
+        "key": "link",
+        "i18n": {
+          "en": "link",
+          "uk": "посилання"
+        }
+      },
+      {
+        "key": "shortener",
+        "i18n": {
+          "en": "shortener",
+          "uk": "скорочення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/link-shortener_9ro5.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 761,
+  "height": 701
+}

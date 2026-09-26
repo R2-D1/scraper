@@ -1,0 +1,70 @@
+{
+  "slug": "data-25jw",
+  "mediaKey": "9d841ca1-d5c0-4657-a801-52e454498b6d",
+  "providerId": "69618d46569c9ddf336be5ed",
+  "i18n": {
+    "name": {
+      "en": "Data",
+      "uk": "Дані"
+    },
+    "alt": {
+      "en": "Data",
+      "uk": "Дані"
+    },
+    "tags": [
+      {
+        "key": "analytics",
+        "i18n": {
+          "en": "analytics",
+          "uk": "аналітика"
+        }
+      },
+      {
+        "key": "chart",
+        "i18n": {
+          "en": "chart",
+          "uk": "діаграма"
+        }
+      },
+      {
+        "key": "presentation",
+        "i18n": {
+          "en": "presentation",
+          "uk": "презентація"
+        }
+      },
+      {
+        "key": "team",
+        "i18n": {
+          "en": "team",
+          "uk": "команда"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/data_25jw.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 601
+}

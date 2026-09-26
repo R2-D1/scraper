@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-8478578",
+  "mediaKey": "pexels:video:8478578",
+  "i18n": {
+    "name": {
+      "en": "Digital Glitch Texture",
+      "uk": "Текстура цифрового глюку"
+    },
+    "alt": {
+      "en": "Pexels video 8478578",
+      "uk": "Відео з Pexels № 8478578"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "glitch",
+        "i18n": {
+          "en": "glitch",
+          "uk": "глітч"
+        }
+      },
+      {
+        "key": "digital",
+        "i18n": {
+          "en": "digital",
+          "uk": "цифровий"
+        }
+      },
+      {
+        "key": "noise",
+        "i18n": {
+          "en": "noise",
+          "uk": "шум"
+        }
+      },
+      {
+        "key": "screen",
+        "i18n": {
+          "en": "screen",
+          "uk": "екран"
+        }
+      },
+      {
+        "key": "technology",
+        "i18n": {
+          "en": "technology",
+          "uk": "технологія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/a-video-of-a-digital-glitch-8478578/",
+  "sourceName": "Pexels",
+  "authorName": "Sergey  Meshkov",
+  "authorUrl": "https://www.pexels.com/@19x14",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 7,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

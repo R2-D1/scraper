@@ -1,0 +1,63 @@
+{
+  "slug": "online-art-eetx",
+  "mediaKey": "164726d3-f1b3-4666-a7ca-2b8cf1bea988",
+  "providerId": "623c545e54b12d0018fcc2b9",
+  "i18n": {
+    "name": {
+      "en": "Online art",
+      "uk": "Мистецтво в Інтернеті"
+    },
+    "alt": {
+      "en": "Online art",
+      "uk": "Мистецтво в Інтернеті"
+    },
+    "tags": [
+      {
+        "key": "online-art",
+        "i18n": {
+          "en": "Online art",
+          "uk": "Мистецтво в Інтернеті"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "art",
+          "uk": "мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/online-art_eetx.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 693,
+  "height": 528
+}

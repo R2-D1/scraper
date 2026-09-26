@@ -1,0 +1,63 @@
+{
+  "slug": "private-files-m2bw",
+  "mediaKey": "027f6ca6-dc58-4fb3-868c-bafb6798f108",
+  "providerId": "67e1bddcbe3434a2dacda953",
+  "i18n": {
+    "name": {
+      "en": "Private Files",
+      "uk": "Особисті файли"
+    },
+    "alt": {
+      "en": "Private Files",
+      "uk": "Особисті файли"
+    },
+    "tags": [
+      {
+        "key": "private-files",
+        "i18n": {
+          "en": "Private Files",
+          "uk": "Особисті файли"
+        }
+      },
+      {
+        "key": "private",
+        "i18n": {
+          "en": "private",
+          "uk": "приватний"
+        }
+      },
+      {
+        "key": "files",
+        "i18n": {
+          "en": "files",
+          "uk": "файли"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/private-files_m2bw.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 801,
+  "height": 745
+}

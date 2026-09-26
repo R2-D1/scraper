@@ -1,0 +1,63 @@
+{
+  "slug": "creative-drawing-8mni",
+  "mediaKey": "42115e2b-72f0-4801-806a-c123b69f4378",
+  "providerId": "6ab45dca939aab611cf25cc1",
+  "i18n": {
+    "name": {
+      "en": "Creative Drawing",
+      "uk": "Творче малювання"
+    },
+    "alt": {
+      "en": "Creative Drawing",
+      "uk": "Творче малювання"
+    },
+    "tags": [
+      {
+        "key": "creative-drawing",
+        "i18n": {
+          "en": "Creative Drawing",
+          "uk": "Творче малювання"
+        }
+      },
+      {
+        "key": "creative",
+        "i18n": {
+          "en": "creative",
+          "uk": "креативний"
+        }
+      },
+      {
+        "key": "drawing",
+        "i18n": {
+          "en": "drawing",
+          "uk": "малюнок"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/creative-drawing_8mni.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 498
+}

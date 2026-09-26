@@ -1,0 +1,49 @@
+{
+  "slug": "luggage-k1gn",
+  "mediaKey": "55b28f21-1d6c-4363-be66-ce5dab841e0e",
+  "providerId": "6841ee9ecd2e5e7f73512ee2",
+  "i18n": {
+    "name": {
+      "en": "Luggage",
+      "uk": "Багаж"
+    },
+    "alt": {
+      "en": "Luggage",
+      "uk": "Багаж"
+    },
+    "tags": [
+      {
+        "key": "luggage",
+        "i18n": {
+          "en": "Luggage",
+          "uk": "Багаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/luggage_k1gn.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 639,
+  "height": 605
+}

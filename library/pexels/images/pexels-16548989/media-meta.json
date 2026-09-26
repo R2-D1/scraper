@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-16548989",
+  "mediaKey": "pexels:16548989",
+  "i18n": {
+    "name": {
+      "en": "Woman carrying a brown handbag",
+      "uk": "Жінка несе коричневу сумку"
+    },
+    "alt": {
+      "en": "Stylish portrait of a confident model crouching outdoors in an urban setting, showcasing modern fashion.",
+      "uk": "Стильний портрет впевненої в собі моделі, яка сидить навпочіпки на відкритому повітрі в міському оточенні, демонструючи сучасну моду."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "handbag",
+        "i18n": {
+          "en": "handbag",
+          "uk": "сумочка"
+        }
+      },
+      {
+        "key": "street-style",
+        "i18n": {
+          "en": "street style",
+          "uk": "вуличний стиль"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-crouching-in-shorts-16548989/",
+  "sourceName": "Pexels",
+  "authorName": "Lucas Brown",
+  "authorUrl": "https://www.pexels.com/@lucas-brown-368306455",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

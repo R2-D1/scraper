@@ -1,0 +1,261 @@
+- generic [ref=f31e4]:
+  - navigation [ref=f31e5]:
+    - generic [ref=f31e6]:
+      - generic [ref=f31e7]:
+        - link "Unsplash Home" [ref=f31e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f31e9]
+        - link "Photos" [ref=f31e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f31e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f31e17]:
+        - button "Explore" [ref=f31e18] [cursor=pointer]
+        - button "Collections" [ref=f31e21] [cursor=pointer]
+        - button "Download History" [ref=f31e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f31e28] [cursor=pointer]
+    - generic [ref=f31e31]:
+      - link "Log in / Sign up" [ref=f31e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fphotos%2Fa-blurry-image-of-a-rainbow-colored-background-c4NhgQj3Wg4
+      - button "Language" [ref=f31e35] [cursor=pointer]
+      - button "Menu" [ref=f31e38] [cursor=pointer]
+  - generic [ref=f31e41]:
+    - generic [ref=f31e42]:
+      - navigation [ref=f31e43]:
+        - search "Find visuals sitewide" [ref=f31e45]:
+          - button "Search Unsplash" [ref=f31e46] [cursor=pointer]
+          - combobox [ref=f31e49]:
+            - searchbox "Search Unsplash" [ref=f31e50]
+            - listbox
+          - button "Visual search" [ref=f31e52] [cursor=pointer]
+        - generic [ref=f31e55]:
+          - link "Get Unsplash+" [ref=f31e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f31e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fphotos%2Fa-blurry-image-of-a-rainbow-colored-background-c4NhgQj3Wg4
+        - button "Submit an image" [ref=f31e59] [cursor=pointer]
+      - generic [ref=f31e60]:
+        - generic [ref=f31e61]:
+          - banner [ref=f31e63]:
+            - generic [ref=f31e65]:
+              - link [ref=f31e66] [cursor=pointer]:
+                - /url: /@francesco_ungaro
+              - generic [ref=f31e69]:
+                - link "Francesco Ungaro" [ref=f31e70] [cursor=pointer]:
+                  - /url: /@francesco_ungaro
+                - generic [ref=f31e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f31e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-rainbow-colored-background-c4NhgQj3Wg4
+            - generic [ref=f31e73]:
+              - button "Bookmark" [ref=f31e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f31e77] [cursor=pointer]
+              - button "Edit image" [ref=f31e80] [cursor=pointer]
+              - button "Download" [ref=f31e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f31e90]:
+            - img "a blurry image of a rainbow colored background" [ref=f31e91]
+          - generic [ref=f31e92]:
+            - generic [ref=f31e94]:
+              - button "Share this image" [ref=f31e95] [cursor=pointer]:
+                - generic [ref=f31e98]: Share
+              - button "More Actions" [ref=f31e99] [cursor=pointer]
+            - generic [ref=f31e103]:
+              - heading "a blurry image of a rainbow colored background" [level=1] [ref=f31e105]
+              - paragraph [ref=f31e109]: Download this HD photo of wallpaper, background, 8k wallpaper, and texture by Francesco Ungaro (@francesco_ungaro)
+              - generic [ref=f31e111]:
+                - generic [ref=f31e116]:
+                  - text: Published on
+                  - time [ref=f31e117]: December 6, 2023
+                - generic [ref=f31e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f31e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f31e124]:
+              - link "wallpaper" [ref=f31e125] [cursor=pointer]:
+                - /url: /s/photos/wallpaper
+              - link "background" [ref=f31e126] [cursor=pointer]:
+                - /url: /s/photos/background
+              - link "8k wallpaper" [ref=f31e127] [cursor=pointer]:
+                - /url: /s/photos/8k-wallpaper
+              - link "texture" [ref=f31e128] [cursor=pointer]:
+                - /url: /s/photos/texture
+              - link "abstract" [ref=f31e129] [cursor=pointer]:
+                - /url: /s/photos/abstract
+              - link "aesthetic" [ref=f31e130] [cursor=pointer]:
+                - /url: /s/photos/aesthetic
+              - link "gradient background" [ref=f31e131] [cursor=pointer]:
+                - /url: /s/photos/gradient-background
+              - link "gradient" [ref=f31e132] [cursor=pointer]:
+                - /url: /s/photos/gradient
+              - link "design" [ref=f31e133] [cursor=pointer]:
+                - /url: /s/photos/design
+              - link "presentation" [ref=f31e134] [cursor=pointer]:
+                - /url: /s/photos/presentation
+              - link "graphic design" [ref=f31e135] [cursor=pointer]:
+                - /url: /s/photos/graphic-design
+              - link "digital" [ref=f31e136] [cursor=pointer]:
+                - /url: /s/photos/digital
+              - link "backdrop" [ref=f31e137] [cursor=pointer]:
+                - /url: /s/photos/backdrop
+              - link "digital art" [ref=f31e138] [cursor=pointer]:
+                - /url: /s/photos/digital-art
+              - link "background design" [ref=f31e139] [cursor=pointer]:
+                - /url: /s/photos/background-design
+              - link "gradients" [ref=f31e140] [cursor=pointer]:
+                - /url: /s/photos/gradients
+              - link "artistic" [ref=f31e141] [cursor=pointer]:
+                - /url: /s/photos/artistic
+              - link "template" [ref=f31e142] [cursor=pointer]:
+                - /url: /s/photos/template
+              - link "color palette" [ref=f31e143] [cursor=pointer]:
+                - /url: /s/photos/color-palette
+              - link "creative background" [ref=f31e144] [cursor=pointer]:
+                - /url: /s/photos/creative-background
+        - generic [ref=f31e148]:
+          - heading "Related images" [level=4] [ref=f31e150]
+          - generic [ref=f31e154]:
+            - generic [ref=f31e155]:
+              - figure [ref=f31e156]:
+                - generic [ref=f31e158]:
+                  - link [ref=f31e159]:
+                    - /url: /photos/a-blurry-image-of-a-plane-flying-in-the-sky-8PvWXKt1PkQ
+                    - img "a blurry image of a plane flying in the sky" [ref=f31e160]
+                  - link [ref=f31e161] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-plane-flying-in-the-sky-8PvWXKt1PkQ
+              - figure [ref=f31e164]:
+                - generic [ref=f31e166]:
+                  - link [ref=f31e167]:
+                    - /url: /photos/a-multicolored-background-with-a-white-border-jaAckv_dsig
+                    - img "a multicolored background with a white border" [ref=f31e168]
+                  - link [ref=f31e169] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-multicolored-background-with-a-white-border-jaAckv_dsig
+              - figure [ref=f31e172]:
+                - generic [ref=f31e174]:
+                  - link [ref=f31e175]:
+                    - /url: /photos/a-blurry-image-of-a-rainbow-colored-background-Hl8KviXcTnc
+                    - img "a blurry image of a rainbow colored background" [ref=f31e176]
+                  - link [ref=f31e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-rainbow-colored-background-Hl8KviXcTnc
+              - figure [ref=f31e180]:
+                - generic [ref=f31e182]:
+                  - link [ref=f31e183]:
+                    - /url: /photos/a-blurry-image-of-a-multicolored-background-mti6COpdnvc
+                    - img "a blurry image of a multicolored background" [ref=f31e184]
+                  - link [ref=f31e185] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-multicolored-background-mti6COpdnvc
+              - figure [ref=f31e188]:
+                - generic [ref=f31e190]:
+                  - link [ref=f31e191]:
+                    - /url: /photos/a-blurry-image-of-a-multicolored-background-g4ukw5qjnAg
+                    - img "a blurry image of a multicolored background" [ref=f31e192]
+                  - link [ref=f31e193] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-multicolored-background-g4ukw5qjnAg
+              - figure [ref=f31e196]:
+                - generic [ref=f31e198]:
+                  - link [ref=f31e199]:
+                    - /url: /photos/a-blurry-image-of-a-pink-and-blue-background-s1ACcXFqnKw
+                    - img "a blurry image of a pink and blue background" [ref=f31e200]
+                  - link [ref=f31e201] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-pink-and-blue-background-s1ACcXFqnKw
+            - generic [ref=f31e204]:
+              - figure [ref=f31e205]:
+                - generic [ref=f31e207]:
+                  - link [ref=f31e208]:
+                    - /url: /photos/a-blurry-image-of-a-rainbow-colored-background-MQbjirdK3EI
+                    - img "a blurry image of a rainbow colored background" [ref=f31e209]
+                  - link [ref=f31e210] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-rainbow-colored-background-MQbjirdK3EI
+              - figure [ref=f31e213]:
+                - generic [ref=f31e215]:
+                  - link [ref=f31e216]:
+                    - /url: /photos/a-blurry-image-of-a-rainbow-colored-background-T_p4qsPYBsM
+                    - img "a blurry image of a rainbow colored background" [ref=f31e217]
+                  - link [ref=f31e218] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-rainbow-colored-background-T_p4qsPYBsM
+              - figure [ref=f31e221]:
+                - generic [ref=f31e223]:
+                  - link [ref=f31e224]:
+                    - /url: /photos/a-blurry-image-of-a-multicolored-background-asoE1xMeMFQ
+                    - img "a blurry image of a multicolored background" [ref=f31e225]
+                  - link [ref=f31e226] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-multicolored-background-asoE1xMeMFQ
+              - figure [ref=f31e229]:
+                - generic [ref=f31e231]:
+                  - link [ref=f31e232]:
+                    - /url: /photos/a-multicolored-background-with-a-plane-flying-in-the-sky-NBJpnXovDEU
+                    - img "a multicolored background with a plane flying in the sky" [ref=f31e233]
+                  - link [ref=f31e234] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-multicolored-background-with-a-plane-flying-in-the-sky-NBJpnXovDEU
+              - figure [ref=f31e237]:
+                - generic [ref=f31e239]:
+                  - link [ref=f31e240]:
+                    - /url: /photos/a-blurry-image-of-a-pink-and-blue-background-ukFSAwKFvbE
+                    - img "a blurry image of a pink and blue background" [ref=f31e241]
+                  - link [ref=f31e242] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-pink-and-blue-background-ukFSAwKFvbE
+              - figure [ref=f31e245]:
+                - generic [ref=f31e247]:
+                  - link [ref=f31e248]:
+                    - /url: /photos/a-blurry-image-of-a-multicolored-background-c355Di9D2ew
+                    - img "a blurry image of a multicolored background" [ref=f31e249]
+                  - link [ref=f31e250] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-multicolored-background-c355Di9D2ew
+              - figure [ref=f31e253]:
+                - generic [ref=f31e255]:
+                  - link [ref=f31e256]:
+                    - /url: /photos/a-blurry-image-of-a-vase-with-flowers-in-it-8DPYKeKIyH8
+                    - img "a blurry image of a vase with flowers in it" [ref=f31e257]
+                  - link [ref=f31e258] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-vase-with-flowers-in-it-8DPYKeKIyH8
+            - generic [ref=f31e261]:
+              - figure [ref=f31e262]:
+                - generic [ref=f31e264]:
+                  - link [ref=f31e265]:
+                    - /url: /photos/a-blurry-image-of-a-rainbow-colored-background-DIsAP1QHcJQ
+                    - img "a blurry image of a rainbow colored background" [ref=f31e266]
+                  - link [ref=f31e267] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-rainbow-colored-background-DIsAP1QHcJQ
+              - figure [ref=f31e270]:
+                - generic [ref=f31e272]:
+                  - link [ref=f31e273]:
+                    - /url: /photos/a-multicolored-background-with-a-white-border-Cb8aJ1PGKkQ
+                    - img "a multicolored background with a white border" [ref=f31e274]
+                  - link [ref=f31e275] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-multicolored-background-with-a-white-border-Cb8aJ1PGKkQ
+              - figure [ref=f31e278]:
+                - generic [ref=f31e280]:
+                  - link [ref=f31e281]:
+                    - /url: /photos/a-blurry-image-of-a-plane-flying-in-the-sky-B6K2tkYouXk
+                    - img "a blurry image of a plane flying in the sky" [ref=f31e282]
+                  - link [ref=f31e283] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-plane-flying-in-the-sky-B6K2tkYouXk
+              - figure [ref=f31e286]:
+                - generic [ref=f31e288]:
+                  - link [ref=f31e289]:
+                    - /url: /photos/a-blurry-image-of-a-pink-blue-and-green-background-ZSoNrv5pGjM
+                    - img "a blurry image of a pink, blue, and green background" [ref=f31e290]
+                  - link [ref=f31e291] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-pink-blue-and-green-background-ZSoNrv5pGjM
+              - figure [ref=f31e294]:
+                - generic [ref=f31e296]:
+                  - link [ref=f31e297]:
+                    - /url: /photos/a-blurry-image-of-a-multicolored-background-Z7wL5PACCQI
+                    - img "a blurry image of a multicolored background" [ref=f31e298]
+                  - link [ref=f31e299] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-multicolored-background-Z7wL5PACCQI
+              - figure [ref=f31e302]:
+                - generic [ref=f31e304]:
+                  - link [ref=f31e305]:
+                    - /url: /photos/a-blurry-image-of-a-pink-and-blue-background-8E0bQ03UcfE
+                    - img "a blurry image of a pink and blue background" [ref=f31e306]
+                  - link [ref=f31e307] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-pink-and-blue-background-8E0bQ03UcfE
+              - figure [ref=f31e310]:
+                - generic [ref=f31e312]:
+                  - link [ref=f31e313]:
+                    - /url: /photos/a-blurry-image-of-a-rainbow-colored-background-POXeld5_cps
+                    - img "a blurry image of a rainbow colored background" [ref=f31e314]
+                  - link [ref=f31e315] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-rainbow-colored-background-POXeld5_cps
+    - generic:
+      - region "Notifications"

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 851.89 1198.96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_364);
+      }
+
+      .cls-3 {
+        fill: url(#Gradiente_sem_nome_413);
+      }
+
+      .cls-4 {
+        fill: url(#Gradiente_sem_nome_471);
+      }
+
+      .cls-5 {
+        fill: url(#Gradiente_sem_nome_364-2);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_364" data-name="Gradiente sem nome 364" x1="-1282.97" y1="-1868.4" x2="-373.05" y2="-2952.81" gradientTransform="translate(1258.95 3010.08)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5d8fe"/>
+      <stop offset=".23" stop-color="#cd97f7"/>
+      <stop offset=".56" stop-color="#4f11e1"/>
+      <stop offset="1" stop-color="#1d1d1b"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_413" data-name="Gradiente sem nome 413" x1="-158.1" y1="-792.16" x2="499.62" y2="-134.43" gradientTransform="translate(406.86 -30.74) rotate(-180)" gradientUnits="userSpaceOnUse">
+      <stop offset=".14" stop-color="#f5d8fe"/>
+      <stop offset=".37" stop-color="#cd97f7"/>
+      <stop offset=".66" stop-color="#4f11e1"/>
+      <stop offset="1" stop-color="#0e0f0d"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_364-2" data-name="Gradiente sem nome 364" x1="2673.31" y1="-318.61" x2="2872.52" y2="-1017.42" gradientTransform="translate(-509.98 -2093.1) rotate(84.28)" xlink:href="#Gradiente_sem_nome_364"/>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="-168.53" y="178.53" width="1198.95" height="841.89" transform="translate(-168.53 1030.42) rotate(-90)"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_471" data-name="Gradiente sem nome 471" x1="525.78" y1="-80.44" x2="808.73" y2="1524.25" gradientUnits="userSpaceOnUse">
+      <stop offset=".37" stop-color="#f5d8fe"/>
+      <stop offset=".58" stop-color="#cd97f7"/>
+      <stop offset=".82" stop-color="#4f11e1"/>
+      <stop offset="1" stop-color="#0e0f0d"/>
+    </linearGradient>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g>
+      <rect class="cls-2" x="-168.53" y="178.53" width="1198.95" height="841.89" transform="translate(-168.53 1030.42) rotate(-90)"/>
+      <path class="cls-3" d="M810.24,4.2s15.55,553.64-374.45,563.38c-349.19,8.72-463.66,328.66-308.37,631.38H0s6.73-349.26,6.73-349.26V4.2"/>
+      <circle class="cls-5" cx="430.94" cy="599.48" r="363.23"/>
+      <g class="cls-6">
+        <path class="cls-4" d="M84.69,1453.18s-21.82-752.89,525.25-766.13c489.81-11.86,650.38-446.94,432.56-858.6h178.73l-9.44,474.96v1149.77"/>
+      </g>
+    </g>
+  </g>
+</svg>

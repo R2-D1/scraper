@@ -1,0 +1,63 @@
+{
+  "slug": "connected-world-anke",
+  "mediaKey": "5c531c73-a149-40e8-9bc0-c22b236d619a",
+  "providerId": "5c87e1e25837c90015d1d369",
+  "i18n": {
+    "name": {
+      "en": "Connected world",
+      "uk": "Світ, пов’язаний мережею"
+    },
+    "alt": {
+      "en": "Connected world",
+      "uk": "Світ, пов’язаний мережею"
+    },
+    "tags": [
+      {
+        "key": "connected-world",
+        "i18n": {
+          "en": "Connected world",
+          "uk": "Світ, пов’язаний мережею"
+        }
+      },
+      {
+        "key": "connected",
+        "i18n": {
+          "en": "connected",
+          "uk": "підключений"
+        }
+      },
+      {
+        "key": "world",
+        "i18n": {
+          "en": "world",
+          "uk": "світ"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/connected-world_anke.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1177,
+  "height": 874
+}

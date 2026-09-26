@@ -1,0 +1,49 @@
+{
+  "slug": "superhero-1qxm",
+  "mediaKey": "a3a518ea-d62e-448a-88c9-4ac165390234",
+  "providerId": "5a81b937f5749c001442f8f9",
+  "i18n": {
+    "name": {
+      "en": "Superhero",
+      "uk": "Супергерой"
+    },
+    "alt": {
+      "en": "Superhero",
+      "uk": "Супергерой"
+    },
+    "tags": [
+      {
+        "key": "superhero",
+        "i18n": {
+          "en": "Superhero",
+          "uk": "Супергерой"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/superhero_1qxm.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 215,
+  "height": 539
+}

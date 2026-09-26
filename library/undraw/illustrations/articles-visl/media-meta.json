@@ -1,0 +1,49 @@
+{
+  "slug": "articles-visl",
+  "mediaKey": "178916b7-9225-4488-b308-4a693b6272a1",
+  "providerId": "6294c17c7272790018d00240",
+  "i18n": {
+    "name": {
+      "en": "Articles",
+      "uk": "Статті"
+    },
+    "alt": {
+      "en": "Articles",
+      "uk": "Статті"
+    },
+    "tags": [
+      {
+        "key": "articles",
+        "i18n": {
+          "en": "Articles",
+          "uk": "Статті"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/articles_visl.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 492,
+  "height": 597
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-16247294",
+  "mediaKey": "pexels:16247294",
+  "i18n": {
+    "name": {
+      "en": "Man in a white outfit seated on grass",
+      "uk": "Чоловік у білому вбранні сидить на траві"
+    },
+    "alt": {
+      "en": "Adult male in white fashion with headphones relaxing on a grassy meadow, perfect for lifestyle concepts.",
+      "uk": "Дорослий чоловік у білому модному вбранні з навушниками, який відпочиває на трав’янистій галявині — ідеальний образ для концепцій у стилі «лайфстайл»."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "white-clothing",
+        "i18n": {
+          "en": "white clothing",
+          "uk": "білий одяг"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "grass",
+        "i18n": {
+          "en": "grass",
+          "uk": "трава"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/man-in-sunglasses-and-headphones-sitting-on-green-meadow-16247294/",
+  "sourceName": "Pexels",
+  "authorName": "Jacob Sierra",
+  "authorUrl": "https://www.pexels.com/@jacob-sierra-419902407",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

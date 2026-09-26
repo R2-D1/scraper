@@ -1,0 +1,83 @@
+{
+  "slug": "moving-average-smooth",
+  "mediaKey": "09d126ca-bee2-4bd2-8616-122ed6326b58",
+  "i18n": {
+    "name": {
+      "en": "Moving Average",
+      "uk": "Ковзна середня"
+    },
+    "alt": {
+      "en": "Moving Average",
+      "uk": "Ковзна середня"
+    },
+    "tags": [
+      {
+        "key": "moving-average",
+        "i18n": {
+          "en": "moving average",
+          "uk": "ковзаюча середня"
+        }
+      },
+      {
+        "key": "ma",
+        "i18n": {
+          "en": "ma",
+          "uk": "марокко"
+        }
+      },
+      {
+        "key": "chart",
+        "i18n": {
+          "en": "chart",
+          "uk": "діаграма"
+        }
+      },
+      {
+        "key": "trading",
+        "i18n": {
+          "en": "trading",
+          "uk": "трейдинг"
+        }
+      },
+      {
+        "key": "invest",
+        "i18n": {
+          "en": "invest",
+          "uk": "інвестувати"
+        }
+      },
+      {
+        "key": "finance",
+        "i18n": {
+          "en": "finance",
+          "uk": "фінанси"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/moving-average-smooth",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

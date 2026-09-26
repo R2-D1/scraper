@@ -1,0 +1,49 @@
+{
+  "slug": "blocked-ldel",
+  "mediaKey": "16d27f05-2b52-4333-ae21-8b3cb96bab27",
+  "providerId": "6ab1b024939aab611cf25cbd",
+  "i18n": {
+    "name": {
+      "en": "Blocked",
+      "uk": "Заблоковано"
+    },
+    "alt": {
+      "en": "Blocked",
+      "uk": "Заблоковано"
+    },
+    "tags": [
+      {
+        "key": "blocked",
+        "i18n": {
+          "en": "Blocked",
+          "uk": "Заблоковано"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/blocked_ldel.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 553
+}

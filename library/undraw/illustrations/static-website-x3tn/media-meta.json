@@ -1,0 +1,56 @@
+{
+  "slug": "static-website-x3tn",
+  "mediaKey": "f3bf387b-fd03-4415-9686-ea88432818ad",
+  "providerId": "621f5250ef6ceb001831ac37",
+  "i18n": {
+    "name": {
+      "en": "Static website",
+      "uk": "Статичний веб-сайт"
+    },
+    "alt": {
+      "en": "Static website",
+      "uk": "Статичний веб-сайт"
+    },
+    "tags": [
+      {
+        "key": "static-website",
+        "i18n": {
+          "en": "Static website",
+          "uk": "Статичний веб-сайт"
+        }
+      },
+      {
+        "key": "static",
+        "i18n": {
+          "en": "static",
+          "uk": "статичний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/static-website_x3tn.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 693,
+  "height": 528
+}

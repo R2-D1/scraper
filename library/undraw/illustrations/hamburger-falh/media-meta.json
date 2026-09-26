@@ -1,0 +1,49 @@
+{
+  "slug": "hamburger-falh",
+  "mediaKey": "e85165ae-8a69-49c2-a486-5ccf9d3b366b",
+  "providerId": "626bd924bcd8750018f42433",
+  "i18n": {
+    "name": {
+      "en": "Hamburger",
+      "uk": "Гамбургер"
+    },
+    "alt": {
+      "en": "Hamburger",
+      "uk": "Гамбургер"
+    },
+    "tags": [
+      {
+        "key": "hamburger",
+        "i18n": {
+          "en": "Hamburger",
+          "uk": "Гамбургер"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/hamburger_falh.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 427,
+  "height": 400
+}

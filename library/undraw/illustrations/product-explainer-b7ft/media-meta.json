@@ -1,0 +1,63 @@
+{
+  "slug": "product-explainer-b7ft",
+  "mediaKey": "3241b708-9622-4658-b7b4-cb681f5b2b4c",
+  "providerId": "6879698ac2f9f99bbb2815e0",
+  "i18n": {
+    "name": {
+      "en": "Product Explainer",
+      "uk": "Опис продукту"
+    },
+    "alt": {
+      "en": "Product Explainer",
+      "uk": "Опис продукту"
+    },
+    "tags": [
+      {
+        "key": "product-explainer",
+        "i18n": {
+          "en": "Product Explainer",
+          "uk": "Опис продукту"
+        }
+      },
+      {
+        "key": "product",
+        "i18n": {
+          "en": "product",
+          "uk": "продукт"
+        }
+      },
+      {
+        "key": "explainer",
+        "i18n": {
+          "en": "explainer",
+          "uk": "пояснення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/product-explainer_b7ft.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 786
+}

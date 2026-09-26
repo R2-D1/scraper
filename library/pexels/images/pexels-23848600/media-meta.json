@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-23848600",
+  "mediaKey": "pexels:23848600",
+  "i18n": {
+    "name": {
+      "en": "Passengers riding on a train",
+      "uk": "Пасажири, які їдуть у поїзді"
+    },
+    "alt": {
+      "en": "Passengers seated inside a commercial airplane enjoying a comfortable flight.",
+      "uk": "Пасажири, що сидять у салоні комерційного літака, насолоджуються комфортним польотом."
+    },
+    "tags": [
+      {
+        "key": "train",
+        "i18n": {
+          "en": "train",
+          "uk": "поїзд"
+        }
+      },
+      {
+        "key": "passengers",
+        "i18n": {
+          "en": "passengers",
+          "uk": "пасажири"
+        }
+      },
+      {
+        "key": "public-transport",
+        "i18n": {
+          "en": "public transport",
+          "uk": "громадський транспорт"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "interior",
+        "i18n": {
+          "en": "interior",
+          "uk": "інтер'єр"
+        }
+      },
+      {
+        "key": "commute",
+        "i18n": {
+          "en": "commute",
+          "uk": "дорога на роботу"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "travel"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/commercial-airplane-interior-23848600/",
+  "sourceName": "Pexels",
+  "authorName": "K",
+  "authorUrl": "https://www.pexels.com/@kelly",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3607
+}

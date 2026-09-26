@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "lavender-puffer-fashion-portrait",
+  "mediaKey": "custom:content:920e1f7e26480a3de6d38232ada432d03a02f74c952058d6b3af3e612ddf2862",
+  "pinned": true,
+  "collectionSlugs": [
+    "people"
+  ],
+  "sourceContentHash": "920e1f7e26480a3de6d38232ada432d03a02f74c952058d6b3af3e612ddf2862",
+  "i18n": {
+    "name": {
+      "en": "Lavender Puffer Fashion Portrait",
+      "uk": "Модний портрет у лавандовому пуховику"
+    },
+    "alt": {
+      "en": "Lavender Puffer Fashion Portrait",
+      "uk": "Модний портрет у лавандовому пуховику"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "puffer-jacket",
+        "i18n": {
+          "en": "Puffer Jacket",
+          "uk": "Пуховик"
+        }
+      },
+      {
+        "key": "lavender",
+        "i18n": {
+          "en": "Lavender",
+          "uk": "Лавандовий"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "Fashion",
+          "uk": "Мода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "Woman",
+        "Portrait",
+        "Puffer Jacket",
+        "Lavender",
+        "Fashion"
+      ],
+      "uk": [
+        "Жінка",
+        "Портрет",
+        "Пуховик",
+        "Лавандовий",
+        "Мода"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://divnex.com",
+  "sourceName": "Divnex",
+  "authorName": "Divnex",
+  "authorUrl": "https://divnex.com",
+  "licenseName": "Divnex Asset License",
+  "licenseUrl": "https://divnex.com/asset-license",
+  "width": 2400,
+  "height": 2400
+}

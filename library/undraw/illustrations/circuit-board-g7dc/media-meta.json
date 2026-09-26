@@ -1,0 +1,63 @@
+{
+  "slug": "circuit-board-g7dc",
+  "mediaKey": "2da1086b-7d32-4122-8a7b-4ee225c9c3aa",
+  "providerId": "623e094e5fcf6c0018f24b04",
+  "i18n": {
+    "name": {
+      "en": "Circuit board",
+      "uk": "Друкована плата"
+    },
+    "alt": {
+      "en": "Circuit board",
+      "uk": "Друкована плата"
+    },
+    "tags": [
+      {
+        "key": "circuit-board",
+        "i18n": {
+          "en": "Circuit board",
+          "uk": "Друкована плата"
+        }
+      },
+      {
+        "key": "circuit",
+        "i18n": {
+          "en": "circuit",
+          "uk": "гоночна траса"
+        }
+      },
+      {
+        "key": "board",
+        "i18n": {
+          "en": "board",
+          "uk": "дошка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/circuit-board_g7dc.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 458,
+  "height": 598
+}

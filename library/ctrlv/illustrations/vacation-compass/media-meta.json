@@ -1,0 +1,90 @@
+{
+  "slug": "vacation-compass",
+  "mediaKey": "15370862-e23a-4764-b885-11c61aa963b0",
+  "i18n": {
+    "name": {
+      "en": "Compass",
+      "uk": "Компас"
+    },
+    "alt": {
+      "en": "Compass",
+      "uk": "Компас"
+    },
+    "tags": [
+      {
+        "key": "vacation",
+        "i18n": {
+          "en": "vacation",
+          "uk": "відпустка"
+        }
+      },
+      {
+        "key": "compass",
+        "i18n": {
+          "en": "compass",
+          "uk": "компас"
+        }
+      },
+      {
+        "key": "navigation",
+        "i18n": {
+          "en": "navigation",
+          "uk": "навігація"
+        }
+      },
+      {
+        "key": "direction",
+        "i18n": {
+          "en": "direction",
+          "uk": "напрямок"
+        }
+      },
+      {
+        "key": "north",
+        "i18n": {
+          "en": "north",
+          "uk": "північ"
+        }
+      },
+      {
+        "key": "explore",
+        "i18n": {
+          "en": "explore",
+          "uk": "досліджувати"
+        }
+      },
+      {
+        "key": "guide",
+        "i18n": {
+          "en": "guide",
+          "uk": "керівництво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/vacation-compass",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

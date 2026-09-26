@@ -1,0 +1,49 @@
+{
+  "slug": "design-ewba",
+  "mediaKey": "083d8ccb-bdca-48ee-9b71-5d6bcc0d2111",
+  "providerId": "677d902bb5b0721c8d269fe1",
+  "i18n": {
+    "name": {
+      "en": "Design",
+      "uk": "Дизайн"
+    },
+    "alt": {
+      "en": "Design",
+      "uk": "Дизайн"
+    },
+    "tags": [
+      {
+        "key": "design",
+        "i18n": {
+          "en": "Design",
+          "uk": "Дизайн"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/design_ewba.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 611,
+  "height": 472
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "business-shop-b4su",
+  "mediaKey": "f2340601-3a82-436a-99d5-1094e9616744",
+  "providerId": "624586c27f356c00185ac97e",
+  "i18n": {
+    "name": {
+      "en": "Business shop",
+      "uk": "Бізнес-магазин"
+    },
+    "alt": {
+      "en": "Business shop",
+      "uk": "Бізнес-магазин"
+    },
+    "tags": [
+      {
+        "key": "business-shop",
+        "i18n": {
+          "en": "Business shop",
+          "uk": "Бізнес-магазин"
+        }
+      },
+      {
+        "key": "business",
+        "i18n": {
+          "en": "business",
+          "uk": "бізнес"
+        }
+      },
+      {
+        "key": "shop",
+        "i18n": {
+          "en": "shop",
+          "uk": "магазин"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/business-shop_b4su.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 584,
+  "height": 440
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "mello-uiud",
+  "mediaKey": "ad243464-4395-4c57-b259-7a27574da7fd",
+  "providerId": "5db724d140a1e10015eeab99",
+  "i18n": {
+    "name": {
+      "en": "Mello",
+      "uk": "Мелло"
+    },
+    "alt": {
+      "en": "Mello",
+      "uk": "Мелло"
+    },
+    "tags": [
+      {
+        "key": "mello",
+        "i18n": {
+          "en": "Mello",
+          "uk": "Мелло"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/mello_uiud.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 886,
+  "height": 763
+}

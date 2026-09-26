@@ -1,0 +1,63 @@
+{
+  "slug": "reading-a-book-4cap",
+  "mediaKey": "384f5c9a-3699-45a3-a25c-cac6b74db69f",
+  "providerId": "67eefb4338b70ac3c05a21c3",
+  "i18n": {
+    "name": {
+      "en": "Reading A Book",
+      "uk": "Читання книги"
+    },
+    "alt": {
+      "en": "Reading A Book",
+      "uk": "Читання книги"
+    },
+    "tags": [
+      {
+        "key": "reading-a-book",
+        "i18n": {
+          "en": "Reading A Book",
+          "uk": "Читання книги"
+        }
+      },
+      {
+        "key": "reading",
+        "i18n": {
+          "en": "reading",
+          "uk": "читання"
+        }
+      },
+      {
+        "key": "book",
+        "i18n": {
+          "en": "book",
+          "uk": "книга"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/reading-a-book_4cap.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 710,
+  "height": 789
+}

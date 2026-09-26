@@ -1,0 +1,63 @@
+{
+  "slug": "location-review-nzql",
+  "mediaKey": "97a85688-e09d-4a54-a2d7-9511bd593dd3",
+  "providerId": "5eac0bd0ba2420001728f7a7",
+  "i18n": {
+    "name": {
+      "en": "Location review",
+      "uk": "Огляд місцезнаходження"
+    },
+    "alt": {
+      "en": "Location review",
+      "uk": "Огляд місцезнаходження"
+    },
+    "tags": [
+      {
+        "key": "location-review",
+        "i18n": {
+          "en": "Location review",
+          "uk": "Огляд місцезнаходження"
+        }
+      },
+      {
+        "key": "location",
+        "i18n": {
+          "en": "location",
+          "uk": "місцезнаходження"
+        }
+      },
+      {
+        "key": "review",
+        "i18n": {
+          "en": "review",
+          "uk": "перегляд"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/location-review_nzql.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 490,
+  "height": 471
+}

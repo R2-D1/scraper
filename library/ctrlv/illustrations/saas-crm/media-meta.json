@@ -1,0 +1,97 @@
+{
+  "slug": "saas-crm",
+  "mediaKey": "39e9c0d4-76bd-4841-957c-345e2baa7089",
+  "i18n": {
+    "name": {
+      "en": "CRM Contacts",
+      "uk": "Контакти в CRM"
+    },
+    "alt": {
+      "en": "CRM Contacts",
+      "uk": "Контакти в CRM"
+    },
+    "tags": [
+      {
+        "key": "saas",
+        "i18n": {
+          "en": "saas",
+          "uk": "SaaS"
+        }
+      },
+      {
+        "key": "crm",
+        "i18n": {
+          "en": "crm",
+          "uk": "crm"
+        }
+      },
+      {
+        "key": "contacts",
+        "i18n": {
+          "en": "contacts",
+          "uk": "контакти"
+        }
+      },
+      {
+        "key": "leads",
+        "i18n": {
+          "en": "leads",
+          "uk": "проводить"
+        }
+      },
+      {
+        "key": "customers",
+        "i18n": {
+          "en": "customers",
+          "uk": "клієнти"
+        }
+      },
+      {
+        "key": "database",
+        "i18n": {
+          "en": "database",
+          "uk": "бази даних"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "people",
+          "uk": "люди"
+        }
+      },
+      {
+        "key": "sales",
+        "i18n": {
+          "en": "sales",
+          "uk": "продажі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/saas-crm",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

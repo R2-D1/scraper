@@ -1,0 +1,63 @@
+{
+  "slug": "image-focus-jdr2",
+  "mediaKey": "1f546929-455f-442a-b172-9e3990968b88",
+  "providerId": "6113b4b620fd140017a6671a",
+  "i18n": {
+    "name": {
+      "en": "Image focus",
+      "uk": "Фокус зображення"
+    },
+    "alt": {
+      "en": "Image focus",
+      "uk": "Фокус зображення"
+    },
+    "tags": [
+      {
+        "key": "image-focus",
+        "i18n": {
+          "en": "Image focus",
+          "uk": "Фокус зображення"
+        }
+      },
+      {
+        "key": "image",
+        "i18n": {
+          "en": "image",
+          "uk": "зображення"
+        }
+      },
+      {
+        "key": "focus",
+        "i18n": {
+          "en": "focus",
+          "uk": "фокус"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/image-focus_jdr2.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 781,
+  "height": 640
+}

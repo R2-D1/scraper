@@ -1,0 +1,49 @@
+{
+  "slug": "wishlist-0k5w",
+  "mediaKey": "9b32314c-4d71-4381-957c-855a01795a99",
+  "providerId": "67f8385bfdec5a58d45d81e3",
+  "i18n": {
+    "name": {
+      "en": "Wishlist",
+      "uk": "Список бажань"
+    },
+    "alt": {
+      "en": "Wishlist",
+      "uk": "Список бажань"
+    },
+    "tags": [
+      {
+        "key": "wishlist",
+        "i18n": {
+          "en": "Wishlist",
+          "uk": "Список бажань"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/wishlist_0k5w.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 802
+}

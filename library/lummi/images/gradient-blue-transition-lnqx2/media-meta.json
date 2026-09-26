@@ -1,0 +1,87 @@
+{
+  "slug": "gradient-blue-transition-lnqx2",
+  "mediaKey": "d0ed2911-b64a-4326-a68f-e02abf452b9c",
+  "i18n": {
+    "name": {
+      "en": "Gradient Blue Transition",
+      "uk": "Перехід у синій колір із градієнтом"
+    },
+    "alt": {
+      "en": "Gradient Blue Transition",
+      "uk": "Перехід у синій колір із градієнтом"
+    },
+    "tags": [
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "Blue",
+          "uk": "Синій"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "Gradient",
+          "uk": "Градієнт"
+        }
+      },
+      {
+        "key": "smooth",
+        "i18n": {
+          "en": "Smooth",
+          "uk": "Рівний"
+        }
+      },
+      {
+        "key": "color-transition",
+        "i18n": {
+          "en": "color transition",
+          "uk": "перехід кольорів"
+        }
+      },
+      {
+        "key": "visual-design",
+        "i18n": {
+          "en": "visual design",
+          "uk": "візуальний дизайн"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Sam Stoof",
+  "authorUrl": "https://www.lummi.ai/creator/samstoof?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A gradient transitioning from white at the top to deep blue at the bottom, creating a smooth and visually appealing color shift.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1345,
+  "mimeType": "image/png",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/gradient-blue-transition-lnqx2/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/gradient-blue-transition-lnqx2/gradient-blue-transition-lnqx2.png",
+  "relativeAssetPath": "library/lummi/images/gradient-blue-transition-lnqx2/gradient-blue-transition-lnqx2.png"
+}

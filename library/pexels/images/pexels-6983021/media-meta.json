@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-6983021",
+  "mediaKey": "pexels:6983021",
+  "i18n": {
+    "name": {
+      "en": "Woman reclining during a spa treatment",
+      "uk": "Жінка, що лежить під час спа-процедури"
+    },
+    "alt": {
+      "en": "Model posing with disco balls in a glam 80s-inspired fashion setting.",
+      "uk": "Модель позує з диско-кулями в гламурній обстановці, натхненній модою 80-х років."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "spa",
+        "i18n": {
+          "en": "spa",
+          "uk": "спа"
+        }
+      },
+      {
+        "key": "facial-treatment",
+        "i18n": {
+          "en": "facial treatment",
+          "uk": "догляд за обличчям"
+        }
+      },
+      {
+        "key": "relaxation",
+        "i18n": {
+          "en": "relaxation",
+          "uk": "відпочинок"
+        }
+      },
+      {
+        "key": "wellness",
+        "i18n": {
+          "en": "wellness",
+          "uk": "велнес"
+        }
+      },
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/photo-of-a-woman-lying-near-disco-balls-6983021/",
+  "sourceName": "Pexels",
+  "authorName": "KoolShooters",
+  "authorUrl": "https://www.pexels.com/@koolshooters",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

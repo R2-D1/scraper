@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-38209663",
+  "mediaKey": "pexels:38209663",
+  "i18n": {
+    "name": {
+      "en": "Man in a white tank top showing his arm",
+      "uk": "Чоловік у білій майці демонструє руку"
+    },
+    "alt": {
+      "en": "Portrait of a young man using a video camera, wearing a tank top and cap.",
+      "uk": "Портрет молодого чоловіка, який знімає на відеокамеру, одягненого в майку та бейсболку."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "tank-top",
+        "i18n": {
+          "en": "tank top",
+          "uk": "майка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "fitness",
+        "i18n": {
+          "en": "fitness",
+          "uk": "фітнес"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/young-man-with-video-camera-and-casual-attire-38209663/",
+  "sourceName": "Pexels",
+  "authorName": "Aj Collins  Artistry",
+  "authorUrl": "https://www.pexels.com/@aj-collins-artistry-1772576281",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

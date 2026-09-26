@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-6985193",
+  "mediaKey": "pexels:6985193",
+  "i18n": {
+    "name": {
+      "en": "Pastel multicolored gradient",
+      "uk": "Пастельний багатоколірний градієнт"
+    },
+    "alt": {
+      "en": "A soft and colorful gradient background with a blend of pastel hues. Ideal for designs.",
+      "uk": "М'який і барвистий фон із градієнтом, у якому поєднуються пастельні відтінки. Ідеально підходить для дизайну."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "pastel",
+        "i18n": {
+          "en": "pastel",
+          "uk": "пастель"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/bright-gradient-color-6985193/",
+  "sourceName": "Pexels",
+  "authorName": "Codioful (formerly Gradienta)",
+  "authorUrl": "https://www.pexels.com/@codioful",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

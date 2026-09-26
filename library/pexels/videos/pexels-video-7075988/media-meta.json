@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-7075988",
+  "mediaKey": "pexels:video:7075988",
+  "i18n": {
+    "name": {
+      "en": "Pink and Blue Ink Clouds",
+      "uk": "Рожеві та блакитні хмари з чорнила"
+    },
+    "alt": {
+      "en": "Pexels video 7075988",
+      "uk": "Відео з Pexels № 7075988"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "ink",
+        "i18n": {
+          "en": "ink",
+          "uk": "чорнило"
+        }
+      },
+      {
+        "key": "smoke",
+        "i18n": {
+          "en": "smoke",
+          "uk": "дим"
+        }
+      },
+      {
+        "key": "clouds",
+        "i18n": {
+          "en": "clouds",
+          "uk": "хмари"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/colorful-ink-in-water-7075988/",
+  "sourceName": "Pexels",
+  "authorName": "Engin Akyurt",
+  "authorUrl": "https://www.pexels.com/@enginakyurt",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1366,
+  "height": 720,
+  "duration": 59,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

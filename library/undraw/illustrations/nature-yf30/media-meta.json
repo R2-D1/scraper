@@ -1,0 +1,49 @@
+{
+  "slug": "nature-yf30",
+  "mediaKey": "44d0bf1d-ce35-4a84-b7d9-7dbc77daf962",
+  "providerId": "5ee9facb8c639a0017b569b5",
+  "i18n": {
+    "name": {
+      "en": "Nature",
+      "uk": "Природа"
+    },
+    "alt": {
+      "en": "Nature",
+      "uk": "Природа"
+    },
+    "tags": [
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "Nature",
+          "uk": "Природа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/nature_yf30.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 693,
+  "height": 749
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "polaroid-qqdz",
+  "mediaKey": "160f1c5a-ca1b-4859-9e4b-4b2e8ca125d1",
+  "providerId": "6144afe42ea38900174feec0",
+  "i18n": {
+    "name": {
+      "en": "Polaroid",
+      "uk": "Поларойд"
+    },
+    "alt": {
+      "en": "Polaroid",
+      "uk": "Поларойд"
+    },
+    "tags": [
+      {
+        "key": "polaroid",
+        "i18n": {
+          "en": "Polaroid",
+          "uk": "Поларойд"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/polaroid_qqdz.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 541,
+  "height": 606
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "dancing-doodle",
+  "mediaKey": "custom:content:0d4ff05d83f4777ed776c1ce0464e3c5f2335cc7c786d82abe7e7ed53850532c",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "0d4ff05d83f4777ed776c1ce0464e3c5f2335cc7c786d82abe7e7ed53850532c",
+  "i18n": {
+    "name": {
+      "en": "Dancing Doodle",
+      "uk": "Танцюючий Дудл"
+    },
+    "alt": {
+      "en": "Dancing Doodle",
+      "uk": "Танцюючий Дудл"
+    },
+    "tags": [
+      {
+        "key": "dancing",
+        "i18n": {
+          "en": "Dancing",
+          "uk": "Танці"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

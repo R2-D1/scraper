@@ -1,0 +1,63 @@
+{
+  "slug": "online-messaging-gjnh",
+  "mediaKey": "af70302f-3dea-429a-92bc-c3d0c1eb1425",
+  "providerId": "60377d0daf69f30017f462dd",
+  "i18n": {
+    "name": {
+      "en": "Online messaging",
+      "uk": "Обмін повідомленнями в Інтернеті"
+    },
+    "alt": {
+      "en": "Online messaging",
+      "uk": "Обмін повідомленнями в Інтернеті"
+    },
+    "tags": [
+      {
+        "key": "online-messaging",
+        "i18n": {
+          "en": "Online messaging",
+          "uk": "Обмін повідомленнями в Інтернеті"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "messaging",
+        "i18n": {
+          "en": "messaging",
+          "uk": "листування"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/online-messaging_gjnh.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 735,
+  "height": 780
+}

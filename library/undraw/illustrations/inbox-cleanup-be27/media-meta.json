@@ -1,0 +1,63 @@
+{
+  "slug": "inbox-cleanup-be27",
+  "mediaKey": "75d3866f-4c04-4e43-8413-51ea301ee086",
+  "providerId": "61644ac6ab846f00177418f4",
+  "i18n": {
+    "name": {
+      "en": "Inbox cleanup",
+      "uk": "Очищення папки «Вхідні»"
+    },
+    "alt": {
+      "en": "Inbox cleanup",
+      "uk": "Очищення папки «Вхідні»"
+    },
+    "tags": [
+      {
+        "key": "inbox-cleanup",
+        "i18n": {
+          "en": "Inbox cleanup",
+          "uk": "Очищення папки «Вхідні»"
+        }
+      },
+      {
+        "key": "inbox",
+        "i18n": {
+          "en": "inbox",
+          "uk": "вхідні"
+        }
+      },
+      {
+        "key": "cleanup",
+        "i18n": {
+          "en": "cleanup",
+          "uk": "прибирання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/inbox-cleanup_be27.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 844,
+  "height": 546
+}

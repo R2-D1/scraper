@@ -1,0 +1,9233 @@
+{
+  "360": {
+    "mediaKey": "558acbee-5bef-4b11-933d-5b07588425d3",
+    "i18n": {
+      "name": {
+        "en": "360",
+        "uk": "360"
+      },
+      "alt": {
+        "en": "360",
+        "uk": "360"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "360"
+        ],
+        "uk": [
+          "360"
+        ]
+      }
+    }
+  },
+  "404": {
+    "mediaKey": "47f90f91-c73e-4fd1-8e75-9d60e3eaac0a",
+    "i18n": {
+      "name": {
+        "en": "404",
+        "uk": "404"
+      },
+      "alt": {
+        "en": "404",
+        "uk": "404"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "404"
+        ],
+        "uk": [
+          "404"
+        ]
+      }
+    }
+  },
+  "alarm-clock": {
+    "mediaKey": "140ce986-06eb-4ee0-aa91-fb5b833d38e9",
+    "i18n": {
+      "name": {
+        "en": "Alarm clock",
+        "uk": "Будильник"
+      },
+      "alt": {
+        "en": "Alarm clock",
+        "uk": "Будильник"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⏰",
+          "🕒",
+          "alarm",
+          "alarm clock",
+          "analog clock",
+          "clock",
+          "sirena",
+          "time",
+          "watch",
+          "alarm-clock"
+        ],
+        "uk": [
+          "⏰",
+          "🕒",
+          "аларм",
+          "будильник",
+          "годинник",
+          "клокк",
+          "сигнал тривоги",
+          "тривога"
+        ]
+      }
+    }
+  },
+  "arrange-list": {
+    "mediaKey": "ff7afe75-d3f3-40cd-b445-1536fda82c8b",
+    "i18n": {
+      "name": {
+        "en": "Arrange list",
+        "uk": "Впорядкувати список"
+      },
+      "alt": {
+        "en": "Arrange list",
+        "uk": "Впорядкувати список"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrange",
+          "arrange icon",
+          "arrange items",
+          "bulleted list",
+          "enumeration",
+          "list",
+          "listing",
+          "organize",
+          "reorder",
+          "todo list",
+          "arrange-list"
+        ],
+        "uk": [
+          "впорядкувати",
+          "каталог",
+          "ліст",
+          "перелік",
+          "розкласти",
+          "розташувати",
+          "список",
+          "упорядкувати"
+        ]
+      }
+    }
+  },
+  "arrow-down": {
+    "mediaKey": "16dc28d7-47d6-4a64-8dd3-0dfa82d19ee1",
+    "i18n": {
+      "name": {
+        "en": "Arrow down",
+        "uk": "Стрілка вниз"
+      },
+      "alt": {
+        "en": "Arrow down",
+        "uk": "Стрілка вниз"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow downwards",
+          "arrow icon",
+          "descending arrow",
+          "down",
+          "down arrow",
+          "down direction",
+          "down icon",
+          "down swipe",
+          "download arrow",
+          "downward",
+          "move down",
+          "scroll down",
+          "arrow-down"
+        ],
+        "uk": [
+          "арров",
+          "вказівник",
+          "вниз",
+          "довн",
+          "напрямок",
+          "опустити",
+          "рух донизу",
+          "стрілка",
+          "стрілка вниз",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-dropdown": {
+    "mediaKey": "3b15faae-00b9-48c5-a4f5-a62ff51a531d",
+    "i18n": {
+      "name": {
+        "en": "Arrow dropdown",
+        "uk": "Стрілка випадне меню"
+      },
+      "alt": {
+        "en": "Arrow dropdown",
+        "uk": "Стрілка випадне меню"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow icon",
+          "dropdown",
+          "select",
+          "arrow-dropdown"
+        ],
+        "uk": [
+          "арров",
+          "випадаюче меню",
+          "випадний список",
+          "вказівник",
+          "дропдаун",
+          "напрямок",
+          "список",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-left": {
+    "mediaKey": "ce67bec7-c160-4739-bc97-ab3a716edaae",
+    "i18n": {
+      "name": {
+        "en": "Arrow left",
+        "uk": "Стрілка вліво"
+      },
+      "alt": {
+        "en": "Arrow left",
+        "uk": "Стрілка вліво"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "←",
+          "arrow",
+          "arrow icon",
+          "arrow left",
+          "left",
+          "left arrow",
+          "west",
+          "arrow-left"
+        ],
+        "uk": [
+          "←",
+          "арров",
+          "вказівник",
+          "зліва",
+          "лефт",
+          "ліва сторона",
+          "лівий бік",
+          "лівий напрямок",
+          "напрямок",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-left-long": {
+    "mediaKey": "5bc5fe9d-fcab-4e2f-bc24-f096a213e37b",
+    "i18n": {
+      "name": {
+        "en": "Arrow left long",
+        "uk": "Довга стрілка вліво"
+      },
+      "alt": {
+        "en": "Arrow left long",
+        "uk": "Довга стрілка вліво"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "←",
+          "arrow",
+          "arrow icon",
+          "arrow left",
+          "left",
+          "left arrow",
+          "long",
+          "long змінна",
+          "long datatype",
+          "long integer",
+          "long number",
+          "long value",
+          "west",
+          "arrow-left-long"
+        ],
+        "uk": [
+          "←",
+          "64-бітове значення",
+          "арров",
+          "вказівник",
+          "довгий",
+          "довгий тип",
+          "зліва",
+          "лефт",
+          "ліва сторона",
+          "лівий бік",
+          "лівий напрямок",
+          "напрямок",
+          "стрілка",
+          "стрілка напрям",
+          "long змінна"
+        ]
+      }
+    }
+  },
+  "arrow-nested": {
+    "mediaKey": "d05612cf-9577-4ece-a89e-eb4a5045007a",
+    "i18n": {
+      "name": {
+        "en": "Arrow nested",
+        "uk": "Стрілка вкладена"
+      },
+      "alt": {
+        "en": "Arrow nested",
+        "uk": "Стрілка вкладена"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow icon",
+          "hierarchy",
+          "nested",
+          "nested icon",
+          "nested list",
+          "nesting",
+          "arrow-nested"
+        ],
+        "uk": [
+          "арров",
+          "вбудований",
+          "вказівник",
+          "вкладений",
+          "напрямок",
+          "рівень вкладення",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-right": {
+    "mediaKey": "fbe4be8b-2eb2-4c38-9966-a186676830aa",
+    "i18n": {
+      "name": {
+        "en": "Arrow right",
+        "uk": "Стрілка вправо"
+      },
+      "alt": {
+        "en": "Arrow right",
+        "uk": "Стрілка вправо"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow icon",
+          "correct",
+          "right",
+          "right arrow",
+          "arrow-right"
+        ],
+        "uk": [
+          "арров",
+          "вказівник",
+          "напрямок",
+          "правильно",
+          "праворуч",
+          "ріґхт",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "arrow-right-long": {
+    "mediaKey": "246978fc-1c5c-4c11-83ee-98ba0649d7bb",
+    "i18n": {
+      "name": {
+        "en": "Arrow right long",
+        "uk": "Довга стрілка вправо"
+      },
+      "alt": {
+        "en": "Arrow right long",
+        "uk": "Довга стрілка вправо"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow icon",
+          "correct",
+          "long",
+          "long змінна",
+          "long datatype",
+          "long integer",
+          "long number",
+          "long value",
+          "right",
+          "right arrow",
+          "arrow-right-long"
+        ],
+        "uk": [
+          "64-бітове значення",
+          "арров",
+          "вказівник",
+          "довгий",
+          "довгий тип",
+          "напрямок",
+          "правильно",
+          "праворуч",
+          "ріґхт",
+          "стрілка",
+          "стрілка напрям",
+          "long змінна"
+        ]
+      }
+    }
+  },
+  "arrow-up": {
+    "mediaKey": "563832e8-93e9-4277-a322-f6e4d045dfcc",
+    "i18n": {
+      "name": {
+        "en": "Arrow up",
+        "uk": "Стрілка вгору"
+      },
+      "alt": {
+        "en": "Arrow up",
+        "uk": "Стрілка вгору"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow",
+          "arrow icon",
+          "arrow up",
+          "boost",
+          "up",
+          "arrow-up"
+        ],
+        "uk": [
+          "ап",
+          "арров",
+          "вгору",
+          "верх",
+          "вказівник",
+          "напрямок",
+          "підняти",
+          "стрілка",
+          "стрілка напрям"
+        ]
+      }
+    }
+  },
+  "article": {
+    "mediaKey": "929e3f00-f822-4f35-91e1-c01f3faf08b3",
+    "i18n": {
+      "name": {
+        "en": "Article",
+        "uk": "Стаття"
+      },
+      "alt": {
+        "en": "Article",
+        "uk": "Стаття"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "article",
+          "blog post"
+        ],
+        "uk": [
+          "артікле",
+          "матеріал",
+          "публікація",
+          "стаття"
+        ]
+      }
+    }
+  },
+  "back": {
+    "mediaKey": "85e42c56-5d81-44ed-aea1-068509812d7a",
+    "i18n": {
+      "name": {
+        "en": "Back",
+        "uk": "Назад"
+      },
+      "alt": {
+        "en": "Back",
+        "uk": "Назад"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "back",
+          "back button",
+          "previous"
+        ],
+        "uk": [
+          "бакк",
+          "назад",
+          "повернення"
+        ]
+      }
+    }
+  },
+  "bell": {
+    "mediaKey": "adae9aea-44a7-4ae8-ab73-88ec3f933f7f",
+    "i18n": {
+      "name": {
+        "en": "Bell",
+        "uk": "Дзвінок"
+      },
+      "alt": {
+        "en": "Bell",
+        "uk": "Дзвінок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🔔",
+          "alarm bell",
+          "bell",
+          "notif bell"
+        ],
+        "uk": [
+          "🔔",
+          "белл",
+          "дзвінок",
+          "дзвіночок",
+          "дзвоник"
+        ]
+      }
+    }
+  },
+  "bell-active": {
+    "mediaKey": "07684070-2d04-4fce-9038-24806bde768b",
+    "i18n": {
+      "name": {
+        "en": "Bell active",
+        "uk": "Дзвінок активний"
+      },
+      "alt": {
+        "en": "Bell active",
+        "uk": "Дзвінок активний"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🔔",
+          "active",
+          "alarm bell",
+          "bell",
+          "enabled",
+          "notif bell",
+          "online",
+          "bell-active"
+        ],
+        "uk": [
+          "🔔",
+          "активний",
+          "белл",
+          "в роботі",
+          "дзвінок",
+          "дзвіночок",
+          "дзвоник",
+          "живий статус",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "bookmark": {
+    "mediaKey": "61e450db-5169-40af-be68-9add0a5fac28",
+    "i18n": {
+      "name": {
+        "en": "Bookmark",
+        "uk": "Закладка"
+      },
+      "alt": {
+        "en": "Bookmark",
+        "uk": "Закладка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🔖",
+          "bookmark",
+          "bookmark icon",
+          "save"
+        ],
+        "uk": [
+          "🔖",
+          "боокмарк",
+          "закладка",
+          "стрічка"
+        ]
+      }
+    }
+  },
+  "bookmark-active": {
+    "mediaKey": "ac9562c1-0548-419c-95e8-c38c8fbad357",
+    "i18n": {
+      "name": {
+        "en": "Bookmark active",
+        "uk": "Закладка активна"
+      },
+      "alt": {
+        "en": "Bookmark active",
+        "uk": "Закладка активна"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🔖",
+          "active",
+          "bookmark",
+          "bookmark icon",
+          "enabled",
+          "online",
+          "save",
+          "bookmark-active"
+        ],
+        "uk": [
+          "🔖",
+          "активний",
+          "боокмарк",
+          "в роботі",
+          "живий статус",
+          "закладка",
+          "працює",
+          "стрічка",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "broadcast": {
+    "mediaKey": "f60a7d22-6c16-4c03-a1e9-006d6ab0987b",
+    "i18n": {
+      "name": {
+        "en": "Broadcast",
+        "uk": "Трансляція"
+      },
+      "alt": {
+        "en": "Broadcast",
+        "uk": "Трансляція"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "broadcast",
+          "broadcast tower",
+          "live"
+        ],
+        "uk": [
+          "броадкаст",
+          "ефір",
+          "трансляція"
+        ]
+      }
+    }
+  },
+  "bullet-square": {
+    "mediaKey": "e1709b46-d9a7-4f49-a9ce-28eabc66b356",
+    "i18n": {
+      "name": {
+        "en": "Bullet square",
+        "uk": "Маркер (квадратна)"
+      },
+      "alt": {
+        "en": "Bullet square",
+        "uk": "Маркер (квадратна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "платіжна система Square",
+          "фігура 4x4",
+          "bullet",
+          "list bullet",
+          "list item",
+          "marker",
+          "square",
+          "Squareup",
+          "bullet-square"
+        ],
+        "uk": [
+          "касовий термінал",
+          "квад",
+          "квадрат",
+          "крапка",
+          "маркер",
+          "маркер списку",
+          "маркований",
+          "платіжна система Square",
+          "плитка",
+          "площа",
+          "площі",
+          "пуля",
+          "точка списку",
+          "фігура 4x4"
+        ]
+      }
+    }
+  },
+  "bulleted-list": {
+    "mediaKey": "58c9d019-719a-4b14-bbf9-3d2f78362cfd",
+    "i18n": {
+      "name": {
+        "en": "Bulleted list",
+        "uk": "Маркірований список"
+      },
+      "alt": {
+        "en": "Bulleted list",
+        "uk": "Маркірований список"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bullet list",
+          "bulleted",
+          "bulleted list",
+          "enumeration",
+          "list",
+          "list format",
+          "list view",
+          "listing",
+          "marked",
+          "markers",
+          "todo list",
+          "bulleted-list"
+        ],
+        "uk": [
+          "каталог",
+          "ліст",
+          "маркований список",
+          "перелік",
+          "список",
+          "список з крапками",
+          "список з маркерами"
+        ]
+      }
+    }
+  },
+  "calendar": {
+    "mediaKey": "07aeb958-ba16-4254-b4be-70b7becc706d",
+    "i18n": {
+      "name": {
+        "en": "Calendar",
+        "uk": "Календар"
+      },
+      "alt": {
+        "en": "Calendar",
+        "uk": "Календар"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "📅",
+          "calendar",
+          "planner",
+          "schedule"
+        ],
+        "uk": [
+          "📅",
+          "дата",
+          "календар"
+        ]
+      }
+    }
+  },
+  "category": {
+    "mediaKey": "8e0641e5-05b4-4d9a-8e45-1cc83540ab10",
+    "i18n": {
+      "name": {
+        "en": "Category",
+        "uk": "Категорія"
+      },
+      "alt": {
+        "en": "Category",
+        "uk": "Категорія"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "category",
+          "classification",
+          "tag group"
+        ],
+        "uk": [
+          "категорія",
+          "катеґорй",
+          "рубрика"
+        ]
+      }
+    }
+  },
+  "category-active": {
+    "mediaKey": "d0142f2f-0f03-47c0-bb42-159d3c726d3d",
+    "i18n": {
+      "name": {
+        "en": "Category active",
+        "uk": "Категорія активна"
+      },
+      "alt": {
+        "en": "Category active",
+        "uk": "Категорія активна"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "category",
+          "classification",
+          "enabled",
+          "online",
+          "tag group",
+          "category-active"
+        ],
+        "uk": [
+          "активний",
+          "в роботі",
+          "живий статус",
+          "категорія",
+          "катеґорй",
+          "працює",
+          "рубрика",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "check": {
+    "mediaKey": "a2982ab9-bc1f-491d-a1bd-3c6b6ea71af1",
+    "i18n": {
+      "name": {
+        "en": "Check",
+        "uk": "Галочка"
+      },
+      "alt": {
+        "en": "Check",
+        "uk": "Галочка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "check",
+          "check mark",
+          "done"
+        ],
+        "uk": [
+          "галочка",
+          "перевірити",
+          "чекк"
+        ]
+      }
+    }
+  },
+  "check-active": {
+    "mediaKey": "197534dc-cbca-4add-a0b7-072fcacf749b",
+    "i18n": {
+      "name": {
+        "en": "Check active",
+        "uk": "Галочка"
+      },
+      "alt": {
+        "en": "Check active",
+        "uk": "Галочка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "check",
+          "check mark",
+          "done",
+          "enabled",
+          "online",
+          "check-active"
+        ],
+        "uk": [
+          "активний",
+          "в роботі",
+          "галочка",
+          "живий статус",
+          "перевірити",
+          "працює",
+          "увімкнений",
+          "чекк"
+        ]
+      }
+    }
+  },
+  "check-radio-unchecked": {
+    "mediaKey": "2985b7e1-5e7d-4314-854c-12e9b214adaa",
+    "i18n": {
+      "name": {
+        "en": "Check radio unchecked",
+        "uk": "Галочка"
+      },
+      "alt": {
+        "en": "Check radio unchecked",
+        "uk": "Галочка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "check",
+          "check mark",
+          "done",
+          "FM",
+          "radio",
+          "radio waves",
+          "unchecked",
+          "unchecked checkbox",
+          "unchecked flag",
+          "unchecked icon",
+          "unchecked state",
+          "check-radio-unchecked"
+        ],
+        "uk": [
+          "галочка",
+          "не вибрано",
+          "не підтверджено",
+          "не позначено",
+          "неперевірено",
+          "перевірити",
+          "радіо",
+          "чекк"
+        ]
+      }
+    }
+  },
+  "checkbox": {
+    "mediaKey": "e46b392f-a144-4997-b955-1ae9ab8ea3ff",
+    "i18n": {
+      "name": {
+        "en": "Checkbox",
+        "uk": "Прапорець"
+      },
+      "alt": {
+        "en": "Checkbox",
+        "uk": "Прапорець"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "checkbox",
+          "checkbox input",
+          "option box"
+        ],
+        "uk": [
+          "галочка поле",
+          "прапорець",
+          "чекбокс",
+          "чеккбокс"
+        ]
+      }
+    }
+  },
+  "checkbox-active": {
+    "mediaKey": "e52eb897-d565-49ae-8f6f-3c3834c7f683",
+    "i18n": {
+      "name": {
+        "en": "Checkbox active",
+        "uk": "Прапорець активний"
+      },
+      "alt": {
+        "en": "Checkbox active",
+        "uk": "Прапорець активний"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "checkbox",
+          "checkbox input",
+          "enabled",
+          "online",
+          "option box",
+          "checkbox-active"
+        ],
+        "uk": [
+          "активний",
+          "в роботі",
+          "галочка поле",
+          "живий статус",
+          "прапорець",
+          "працює",
+          "увімкнений",
+          "чекбокс",
+          "чеккбокс"
+        ]
+      }
+    }
+  },
+  "chevron-down": {
+    "mediaKey": "f09cef3a-fe75-4230-99e3-3401308da305",
+    "i18n": {
+      "name": {
+        "en": "Chevron down",
+        "uk": "Шеврон вниз"
+      },
+      "alt": {
+        "en": "Chevron down",
+        "uk": "Шеврон вниз"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "стрілка v",
+          "arrow downwards",
+          "chevron",
+          "descending arrow",
+          "down",
+          "down arrow",
+          "down direction",
+          "down icon",
+          "down swipe",
+          "download arrow",
+          "downward",
+          "move down",
+          "scroll down",
+          "chevron-down"
+        ],
+        "uk": [
+          "вказівник",
+          "вниз",
+          "галон",
+          "довн",
+          "опустити",
+          "рух донизу",
+          "стрілка вниз",
+          "стрілка v",
+          "чеврон",
+          "шеврон"
+        ]
+      }
+    }
+  },
+  "chevron-left": {
+    "mediaKey": "b26abcc5-6d2c-4b02-a8bc-b5da9e137262",
+    "i18n": {
+      "name": {
+        "en": "Chevron left",
+        "uk": "Шеврон ліворуч"
+      },
+      "alt": {
+        "en": "Chevron left",
+        "uk": "Шеврон ліворуч"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "←",
+          "стрілка v",
+          "arrow left",
+          "chevron",
+          "left",
+          "left arrow",
+          "west",
+          "chevron-left"
+        ],
+        "uk": [
+          "←",
+          "вказівник",
+          "галон",
+          "зліва",
+          "лефт",
+          "ліва сторона",
+          "лівий бік",
+          "лівий напрямок",
+          "стрілка v",
+          "чеврон",
+          "шеврон"
+        ]
+      }
+    }
+  },
+  "chevron-right": {
+    "mediaKey": "febdb736-3b54-47d0-a8e8-8714979706d2",
+    "i18n": {
+      "name": {
+        "en": "Chevron right",
+        "uk": "Шеврон праворуч"
+      },
+      "alt": {
+        "en": "Chevron right",
+        "uk": "Шеврон праворуч"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "стрілка v",
+          "chevron",
+          "correct",
+          "right",
+          "right arrow",
+          "chevron-right"
+        ],
+        "uk": [
+          "вказівник",
+          "галон",
+          "правильно",
+          "праворуч",
+          "ріґхт",
+          "стрілка v",
+          "чеврон",
+          "шеврон"
+        ]
+      }
+    }
+  },
+  "chevron-up": {
+    "mediaKey": "fd820933-27ab-4289-9db1-ffe15f29b214",
+    "i18n": {
+      "name": {
+        "en": "Chevron up",
+        "uk": "Шеврон вгору"
+      },
+      "alt": {
+        "en": "Chevron up",
+        "uk": "Шеврон вгору"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "стрілка v",
+          "arrow up",
+          "boost",
+          "chevron",
+          "up",
+          "chevron-up"
+        ],
+        "uk": [
+          "ап",
+          "вгору",
+          "верх",
+          "вказівник",
+          "галон",
+          "підняти",
+          "стрілка v",
+          "чеврон",
+          "шеврон"
+        ]
+      }
+    }
+  },
+  "clock": {
+    "mediaKey": "032d1b73-3239-4768-ad9e-751a3478f358",
+    "i18n": {
+      "name": {
+        "en": "Clock",
+        "uk": "Годинник"
+      },
+      "alt": {
+        "en": "Clock",
+        "uk": "Годинник"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🕒",
+          "analog clock",
+          "clock",
+          "time",
+          "watch"
+        ],
+        "uk": [
+          "🕒",
+          "годинник",
+          "клокк"
+        ]
+      }
+    }
+  },
+  "close": {
+    "mediaKey": "1606be6f-64cb-419d-96fd-2e36984a406f",
+    "i18n": {
+      "name": {
+        "en": "Close",
+        "uk": "Закрити"
+      },
+      "alt": {
+        "en": "Close",
+        "uk": "Закрити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cancel",
+          "close",
+          "close button",
+          "stop",
+          "x icon"
+        ],
+        "uk": [
+          "закрий",
+          "закрити",
+          "закрыть"
+        ]
+      }
+    }
+  },
+  "close-active": {
+    "mediaKey": "33d35e7e-cb4a-4871-a9a7-75d6dc9c7278",
+    "i18n": {
+      "name": {
+        "en": "Close active",
+        "uk": "Закрити (активне)"
+      },
+      "alt": {
+        "en": "Close active",
+        "uk": "Закрити (активне)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "cancel",
+          "close",
+          "close button",
+          "enabled",
+          "online",
+          "stop",
+          "x icon",
+          "close-active"
+        ],
+        "uk": [
+          "активний",
+          "в роботі",
+          "живий статус",
+          "закрий",
+          "закрити",
+          "закрыть",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "comment": {
+    "mediaKey": "5055ce62-ad2d-4ba1-9c32-5ff16df501be",
+    "i18n": {
+      "name": {
+        "en": "Comment",
+        "uk": "Коментар"
+      },
+      "alt": {
+        "en": "Comment",
+        "uk": "Коментар"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "comment",
+          "discussion",
+          "feedback",
+          "message",
+          "reply",
+          "talk",
+          "thread"
+        ],
+        "uk": [
+          "відгук",
+          "відповідь",
+          "додати коментар",
+          "замітка",
+          "комент",
+          "коментар",
+          "репліка"
+        ]
+      }
+    }
+  },
+  "dialogue": {
+    "mediaKey": "366bd7f9-3b3e-43da-957b-ef68302c57de",
+    "i18n": {
+      "name": {
+        "en": "Dialogue",
+        "uk": "Діалог"
+      },
+      "alt": {
+        "en": "Dialogue",
+        "uk": "Діалог"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "dialogue"
+        ],
+        "uk": [
+          "бренд",
+          "діалог",
+          "логотип"
+        ]
+      }
+    }
+  },
+  "dice-1": {
+    "mediaKey": "ae5e13c5-6e1c-481e-94cc-76027fecfa5c",
+    "i18n": {
+      "name": {
+        "en": "Dice 1",
+        "uk": "Кубики"
+      },
+      "alt": {
+        "en": "Dice 1",
+        "uk": "Кубики"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎲",
+          "1",
+          "cube roll",
+          "dice",
+          "dice game",
+          "dice icon",
+          "dice roll",
+          "game dice",
+          "pair of dice",
+          "random roll",
+          "dice-1"
+        ],
+        "uk": [
+          "🎲",
+          "1",
+          "гральні куби",
+          "діке",
+          "ігрові кості",
+          "кості",
+          "кубик",
+          "кубики",
+          "настільні ігри"
+        ]
+      }
+    }
+  },
+  "dice-1-active": {
+    "mediaKey": "1155d3d3-c8e3-40d2-9786-f275d41abed1",
+    "i18n": {
+      "name": {
+        "en": "Dice 1 active",
+        "uk": "Кубик 1 (активна)"
+      },
+      "alt": {
+        "en": "Dice 1 active",
+        "uk": "Кубик 1 (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎲",
+          "1",
+          "active",
+          "cube roll",
+          "dice",
+          "dice game",
+          "dice icon",
+          "dice roll",
+          "enabled",
+          "game dice",
+          "online",
+          "pair of dice",
+          "random roll",
+          "dice-1-active"
+        ],
+        "uk": [
+          "🎲",
+          "1",
+          "активний",
+          "в роботі",
+          "гральні куби",
+          "діке",
+          "живий статус",
+          "ігрові кості",
+          "кості",
+          "кубик",
+          "кубики",
+          "настільні ігри",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "dice-2": {
+    "mediaKey": "8b5946ed-7bea-48a8-af79-fee2423f7956",
+    "i18n": {
+      "name": {
+        "en": "Dice 2",
+        "uk": "Кубики"
+      },
+      "alt": {
+        "en": "Dice 2",
+        "uk": "Кубики"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎲",
+          "2",
+          "cube roll",
+          "dice",
+          "dice game",
+          "dice icon",
+          "dice roll",
+          "game dice",
+          "pair of dice",
+          "random roll",
+          "dice-2"
+        ],
+        "uk": [
+          "🎲",
+          "2",
+          "гральні куби",
+          "діке",
+          "ігрові кості",
+          "кості",
+          "кубик",
+          "кубики",
+          "настільні ігри"
+        ]
+      }
+    }
+  },
+  "dice-2-active": {
+    "mediaKey": "8b37c81a-5bfd-4a05-8ee7-b72479420360",
+    "i18n": {
+      "name": {
+        "en": "Dice 2 active",
+        "uk": "Кубик 2 (активна)"
+      },
+      "alt": {
+        "en": "Dice 2 active",
+        "uk": "Кубик 2 (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎲",
+          "2",
+          "active",
+          "cube roll",
+          "dice",
+          "dice game",
+          "dice icon",
+          "dice roll",
+          "enabled",
+          "game dice",
+          "online",
+          "pair of dice",
+          "random roll",
+          "dice-2-active"
+        ],
+        "uk": [
+          "🎲",
+          "2",
+          "активний",
+          "в роботі",
+          "гральні куби",
+          "діке",
+          "живий статус",
+          "ігрові кості",
+          "кості",
+          "кубик",
+          "кубики",
+          "настільні ігри",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "dice-3": {
+    "mediaKey": "c1e23e20-695e-42ed-b1c0-d72e99fcb48a",
+    "i18n": {
+      "name": {
+        "en": "Dice 3",
+        "uk": "Кубики"
+      },
+      "alt": {
+        "en": "Dice 3",
+        "uk": "Кубики"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎲",
+          "3",
+          "cube roll",
+          "dice",
+          "dice game",
+          "dice icon",
+          "dice roll",
+          "game dice",
+          "pair of dice",
+          "random roll",
+          "dice-3"
+        ],
+        "uk": [
+          "🎲",
+          "3",
+          "гральні куби",
+          "діке",
+          "ігрові кості",
+          "кості",
+          "кубик",
+          "кубики",
+          "настільні ігри"
+        ]
+      }
+    }
+  },
+  "dice-3-active": {
+    "mediaKey": "b1326495-21c6-452b-ad42-ca43a09355b7",
+    "i18n": {
+      "name": {
+        "en": "Dice 3 active",
+        "uk": "Кубик 3 (активна)"
+      },
+      "alt": {
+        "en": "Dice 3 active",
+        "uk": "Кубик 3 (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎲",
+          "3",
+          "active",
+          "cube roll",
+          "dice",
+          "dice game",
+          "dice icon",
+          "dice roll",
+          "enabled",
+          "game dice",
+          "online",
+          "pair of dice",
+          "random roll",
+          "dice-3-active"
+        ],
+        "uk": [
+          "🎲",
+          "3",
+          "активний",
+          "в роботі",
+          "гральні куби",
+          "діке",
+          "живий статус",
+          "ігрові кості",
+          "кості",
+          "кубик",
+          "кубики",
+          "настільні ігри",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "dice-4": {
+    "mediaKey": "d6593ae1-322e-4f18-bc11-f9ebc49239e2",
+    "i18n": {
+      "name": {
+        "en": "Dice 4",
+        "uk": "Кубики"
+      },
+      "alt": {
+        "en": "Dice 4",
+        "uk": "Кубики"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎲",
+          "4",
+          "cube roll",
+          "dice",
+          "dice game",
+          "dice icon",
+          "dice roll",
+          "game dice",
+          "pair of dice",
+          "random roll",
+          "dice-4"
+        ],
+        "uk": [
+          "🎲",
+          "4",
+          "гральні куби",
+          "діке",
+          "ігрові кості",
+          "кості",
+          "кубик",
+          "кубики",
+          "настільні ігри"
+        ]
+      }
+    }
+  },
+  "dice-4-active": {
+    "mediaKey": "71f3026e-a434-4054-b5ac-a7582d639dd9",
+    "i18n": {
+      "name": {
+        "en": "Dice 4 active",
+        "uk": "Кубик 4 (активна)"
+      },
+      "alt": {
+        "en": "Dice 4 active",
+        "uk": "Кубик 4 (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎲",
+          "4",
+          "active",
+          "cube roll",
+          "dice",
+          "dice game",
+          "dice icon",
+          "dice roll",
+          "enabled",
+          "game dice",
+          "online",
+          "pair of dice",
+          "random roll",
+          "dice-4-active"
+        ],
+        "uk": [
+          "🎲",
+          "4",
+          "активний",
+          "в роботі",
+          "гральні куби",
+          "діке",
+          "живий статус",
+          "ігрові кості",
+          "кості",
+          "кубик",
+          "кубики",
+          "настільні ігри",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "dice-5": {
+    "mediaKey": "e088756d-d098-40e6-b93c-67ae1a35a696",
+    "i18n": {
+      "name": {
+        "en": "Dice 5",
+        "uk": "Кубики"
+      },
+      "alt": {
+        "en": "Dice 5",
+        "uk": "Кубики"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎲",
+          "5",
+          "cube roll",
+          "dice",
+          "dice game",
+          "dice icon",
+          "dice roll",
+          "game dice",
+          "pair of dice",
+          "random roll",
+          "dice-5"
+        ],
+        "uk": [
+          "🎲",
+          "5",
+          "гральні куби",
+          "діке",
+          "ігрові кості",
+          "кості",
+          "кубик",
+          "кубики",
+          "настільні ігри"
+        ]
+      }
+    }
+  },
+  "dice-5-active": {
+    "mediaKey": "a50770c6-faa6-4839-adbc-93fe087ae82d",
+    "i18n": {
+      "name": {
+        "en": "Dice 5 active",
+        "uk": "Кубик 5 (активна)"
+      },
+      "alt": {
+        "en": "Dice 5 active",
+        "uk": "Кубик 5 (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎲",
+          "5",
+          "active",
+          "cube roll",
+          "dice",
+          "dice game",
+          "dice icon",
+          "dice roll",
+          "enabled",
+          "game dice",
+          "online",
+          "pair of dice",
+          "random roll",
+          "dice-5-active"
+        ],
+        "uk": [
+          "🎲",
+          "5",
+          "активний",
+          "в роботі",
+          "гральні куби",
+          "діке",
+          "живий статус",
+          "ігрові кості",
+          "кості",
+          "кубик",
+          "кубики",
+          "настільні ігри",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "dice-6": {
+    "mediaKey": "097f1faa-11f8-420b-b4e7-90f7f4edbca0",
+    "i18n": {
+      "name": {
+        "en": "Dice 6",
+        "uk": "Кубики"
+      },
+      "alt": {
+        "en": "Dice 6",
+        "uk": "Кубики"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎲",
+          "6",
+          "cube roll",
+          "dice",
+          "dice game",
+          "dice icon",
+          "dice roll",
+          "game dice",
+          "pair of dice",
+          "random roll",
+          "dice-6"
+        ],
+        "uk": [
+          "🎲",
+          "6",
+          "гральні куби",
+          "діке",
+          "ігрові кості",
+          "кості",
+          "кубик",
+          "кубики",
+          "настільні ігри"
+        ]
+      }
+    }
+  },
+  "dice-6-active": {
+    "mediaKey": "96f8701d-0119-4ba6-9527-094cad883971",
+    "i18n": {
+      "name": {
+        "en": "Dice 6 active",
+        "uk": "Кубик 6 (активна)"
+      },
+      "alt": {
+        "en": "Dice 6 active",
+        "uk": "Кубик 6 (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎲",
+          "6",
+          "active",
+          "cube roll",
+          "dice",
+          "dice game",
+          "dice icon",
+          "dice roll",
+          "enabled",
+          "game dice",
+          "online",
+          "pair of dice",
+          "random roll",
+          "dice-6-active"
+        ],
+        "uk": [
+          "🎲",
+          "6",
+          "активний",
+          "в роботі",
+          "гральні куби",
+          "діке",
+          "живий статус",
+          "ігрові кості",
+          "кості",
+          "кубик",
+          "кубики",
+          "настільні ігри",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "download": {
+    "mediaKey": "96594676-8ab2-433f-97cf-77e114f70ef9",
+    "i18n": {
+      "name": {
+        "en": "Download",
+        "uk": "Завантажити"
+      },
+      "alt": {
+        "en": "Download",
+        "uk": "Завантажити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cloud download",
+          "download",
+          "download arrow",
+          "download button",
+          "download data",
+          "download file",
+          "download icon",
+          "file download",
+          "import file",
+          "save arrow",
+          "save file",
+          "save offline"
+        ],
+        "uk": [
+          "довнлоад",
+          "завантаження",
+          "завантажити",
+          "завантажити файл"
+        ]
+      }
+    }
+  },
+  "downloaded": {
+    "mediaKey": "7ce526b7-89bd-4c43-8b65-8280389b01f1",
+    "i18n": {
+      "name": {
+        "en": "Downloaded",
+        "uk": "Завантажено"
+      },
+      "alt": {
+        "en": "Downloaded",
+        "uk": "Завантажено"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "completed",
+          "downloaded"
+        ],
+        "uk": [
+          "бренд",
+          "готово",
+          "завантажено",
+          "логотип",
+          "файл"
+        ]
+      }
+    }
+  },
+  "duration": {
+    "mediaKey": "abf28e7b-e250-48f5-a8d2-deede3f29c59",
+    "i18n": {
+      "name": {
+        "en": "Duration",
+        "uk": "Тривалість"
+      },
+      "alt": {
+        "en": "Duration",
+        "uk": "Тривалість"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "duration",
+          "duration bar",
+          "duration icon",
+          "duration time",
+          "elapsed time",
+          "length",
+          "length of clip",
+          "time span",
+          "timer duration",
+          "timing"
+        ],
+        "uk": [
+          "дуратіон",
+          "період",
+          "період часу",
+          "продовженість",
+          "тривалість",
+          "час"
+        ]
+      }
+    }
+  },
+  "edit": {
+    "mediaKey": "a446bd9f-2098-4e4e-8f99-cd8f54851a52",
+    "i18n": {
+      "name": {
+        "en": "Edit",
+        "uk": "Редагувати"
+      },
+      "alt": {
+        "en": "Edit",
+        "uk": "Редагувати"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "change",
+          "edit",
+          "edit button",
+          "edit field",
+          "edit icon",
+          "edit mode",
+          "edit pencil",
+          "modify",
+          "pencil edit"
+        ],
+        "uk": [
+          "едіт",
+          "правити",
+          "правка",
+          "редагування",
+          "редагувати",
+          "редагувати запис",
+          "режим редагування"
+        ]
+      }
+    }
+  },
+  "ellipsis": {
+    "mediaKey": "724bd3ef-f6d1-4c41-ac76-3c7c9fe852de",
+    "i18n": {
+      "name": {
+        "en": "Ellipsis",
+        "uk": "Многокрапка"
+      },
+      "alt": {
+        "en": "Ellipsis",
+        "uk": "Многокрапка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "...",
+          "ellipsis",
+          "more",
+          "more options"
+        ],
+        "uk": [
+          "...",
+          "додатково",
+          "контекстне меню",
+          "меню",
+          "три крапки"
+        ]
+      }
+    }
+  },
+  "ellipsis-active": {
+    "mediaKey": "811d3c04-8769-4c59-b3cc-666d6dbc8ba3",
+    "i18n": {
+      "name": {
+        "en": "Ellipsis active",
+        "uk": "Ellipsis (активна)"
+      },
+      "alt": {
+        "en": "Ellipsis active",
+        "uk": "Ellipsis (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "...",
+          "active",
+          "ellipsis",
+          "enabled",
+          "more",
+          "more options",
+          "online",
+          "ellipsis-active"
+        ],
+        "uk": [
+          "...",
+          "активний",
+          "в роботі",
+          "додатково",
+          "живий статус",
+          "контекстне меню",
+          "меню",
+          "працює",
+          "три крапки",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "fullscreen": {
+    "mediaKey": "ca22580b-a911-46e1-ab63-9cf4e1525d97",
+    "i18n": {
+      "name": {
+        "en": "Fullscreen",
+        "uk": "Повний екран"
+      },
+      "alt": {
+        "en": "Fullscreen",
+        "uk": "Повний екран"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "full view",
+          "fullscreen",
+          "maximize"
+        ],
+        "uk": [
+          "повний екран",
+          "фулскрін"
+        ]
+      }
+    }
+  },
+  "fullscreen-active": {
+    "mediaKey": "912c506f-4253-4913-a583-ad9763653b57",
+    "i18n": {
+      "name": {
+        "en": "Fullscreen active",
+        "uk": "Повний екран (активно)"
+      },
+      "alt": {
+        "en": "Fullscreen active",
+        "uk": "Повний екран (активно)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "enabled",
+          "full view",
+          "fullscreen",
+          "maximize",
+          "online",
+          "fullscreen-active"
+        ],
+        "uk": [
+          "активний",
+          "в роботі",
+          "живий статус",
+          "повний екран",
+          "працює",
+          "увімкнений",
+          "фулскрін"
+        ]
+      }
+    }
+  },
+  "gallery": {
+    "mediaKey": "beaf49fe-b08b-4c7f-a40d-4a126b1742fe",
+    "i18n": {
+      "name": {
+        "en": "Gallery",
+        "uk": "Галерея"
+      },
+      "alt": {
+        "en": "Gallery",
+        "uk": "Галерея"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "album",
+          "expo",
+          "gallery"
+        ],
+        "uk": [
+          "галерея",
+          "збірка"
+        ]
+      }
+    }
+  },
+  "geo": {
+    "mediaKey": "54f53766-6d7e-463f-9a44-0f3a988f5e0f",
+    "i18n": {
+      "name": {
+        "en": "Geo",
+        "uk": "Геомітка"
+      },
+      "alt": {
+        "en": "Geo",
+        "uk": "Геомітка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "coordinates",
+          "geo",
+          "geodata",
+          "gps",
+          "location",
+          "map"
+        ],
+        "uk": [
+          "гео",
+          "геолокація"
+        ]
+      }
+    }
+  },
+  "geo-active": {
+    "mediaKey": "f33f32f4-4b5c-4221-b1ef-966160526798",
+    "i18n": {
+      "name": {
+        "en": "Geo active",
+        "uk": "Гео (активна)"
+      },
+      "alt": {
+        "en": "Geo active",
+        "uk": "Гео (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "coordinates",
+          "enabled",
+          "geo",
+          "geodata",
+          "gps",
+          "location",
+          "map",
+          "online",
+          "geo-active"
+        ],
+        "uk": [
+          "активний",
+          "в роботі",
+          "гео",
+          "геолокація",
+          "живий статус",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "geopoint": {
+    "mediaKey": "de19d08a-99d6-4e23-b013-087f560f2749",
+    "i18n": {
+      "name": {
+        "en": "Geopoint",
+        "uk": "Геоточкa"
+      },
+      "alt": {
+        "en": "Geopoint",
+        "uk": "Геоточкa"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "geopoint"
+        ],
+        "uk": [
+          "бренд",
+          "геоточка",
+          "логотип"
+        ]
+      }
+    }
+  },
+  "geopoint-active": {
+    "mediaKey": "72a4bd23-94c5-4465-9e49-a164cc1d985e",
+    "i18n": {
+      "name": {
+        "en": "Geopoint active",
+        "uk": "Геоточкa (активна)"
+      },
+      "alt": {
+        "en": "Geopoint active",
+        "uk": "Геоточкa (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "enabled",
+          "geopoint",
+          "online",
+          "geopoint-active"
+        ],
+        "uk": [
+          "активний",
+          "бренд",
+          "в роботі",
+          "геоточка",
+          "живий статус",
+          "логотип",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "globe": {
+    "mediaKey": "e4055fbd-9dda-43aa-911e-4e5227bec71a",
+    "i18n": {
+      "name": {
+        "en": "Globe",
+        "uk": "Глобус"
+      },
+      "alt": {
+        "en": "Globe",
+        "uk": "Глобус"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🌍",
+          "earth",
+          "global icon",
+          "globe",
+          "world"
+        ],
+        "uk": [
+          "🌍",
+          "глобус",
+          "ґлобе"
+        ]
+      }
+    }
+  },
+  "hardware-camera": {
+    "mediaKey": "6d598310-3eb3-4e08-922b-bf217ef070bd",
+    "i18n": {
+      "name": {
+        "en": "Hardware camera",
+        "uk": "Камера"
+      },
+      "alt": {
+        "en": "Hardware camera",
+        "uk": "Камера"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "📷",
+          "camera",
+          "camera icon",
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "pcs hardware",
+          "photo",
+          "hardware-camera"
+        ],
+        "uk": [
+          "📷",
+          "апаратне забезпечення",
+          "залізо",
+          "камера",
+          "комплектуха",
+          "серверне залізо",
+          "фотоапарат"
+        ]
+      }
+    }
+  },
+  "hardware-computer": {
+    "mediaKey": "2878beef-1e57-4621-9074-fe0c0ec5dd64",
+    "i18n": {
+      "name": {
+        "en": "Hardware computer",
+        "uk": "Системний блок"
+      },
+      "alt": {
+        "en": "Hardware computer",
+        "uk": "Системний блок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "💻",
+          "computer",
+          "desktop",
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "pc",
+          "pcs hardware",
+          "hardware-computer"
+        ],
+        "uk": [
+          "💻",
+          "апаратне забезпечення",
+          "залізо",
+          "комп",
+          "комп'ютер",
+          "комплектуха",
+          "компутер",
+          "серверне залізо"
+        ]
+      }
+    }
+  },
+  "hardware-game": {
+    "mediaKey": "33effa20-4a96-4e56-9118-cc37ab82f9f9",
+    "i18n": {
+      "name": {
+        "en": "Hardware game",
+        "uk": "Ігрова консоль"
+      },
+      "alt": {
+        "en": "Hardware game",
+        "uk": "Ігрова консоль"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "game",
+          "game icon",
+          "gaming",
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "pcs hardware",
+          "play",
+          "hardware-game"
+        ],
+        "uk": [
+          "апаратне забезпечення",
+          "відеогра",
+          "гра",
+          "ґаме",
+          "залізо",
+          "комплектуха",
+          "серверне залізо"
+        ]
+      }
+    }
+  },
+  "hardware-headphones": {
+    "mediaKey": "12f8bbf5-6adc-445c-825b-d1f201f639b9",
+    "i18n": {
+      "name": {
+        "en": "Hardware headphones",
+        "uk": "Навушники"
+      },
+      "alt": {
+        "en": "Hardware headphones",
+        "uk": "Навушники"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎧",
+          "audio headset",
+          "earphones",
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "headphone icon",
+          "headphones",
+          "pcs hardware",
+          "hardware-headphones"
+        ],
+        "uk": [
+          "🎧",
+          "апаратне забезпечення",
+          "залізо",
+          "комплектуха",
+          "навушники",
+          "серверне залізо",
+          "хеадфонес"
+        ]
+      }
+    }
+  },
+  "hardware-laptop": {
+    "mediaKey": "c3151407-0bf6-427b-9ae8-0f51bff6ed5f",
+    "i18n": {
+      "name": {
+        "en": "Hardware laptop",
+        "uk": "Ноутбук"
+      },
+      "alt": {
+        "en": "Hardware laptop",
+        "uk": "Ноутбук"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "laptop",
+          "laptop icon",
+          "notebook",
+          "pcs hardware",
+          "portable pc",
+          "workstation",
+          "hardware-laptop"
+        ],
+        "uk": [
+          "апаратне забезпечення",
+          "залізо",
+          "комплектуха",
+          "лаптоп",
+          "ноут",
+          "ноутбук",
+          "портативний комп'ютер",
+          "серверне залізо"
+        ]
+      }
+    }
+  },
+  "hardware-microphone": {
+    "mediaKey": "5d584666-ce98-416b-934c-264ed74ed09a",
+    "i18n": {
+      "name": {
+        "en": "Hardware microphone",
+        "uk": "Мікрофон"
+      },
+      "alt": {
+        "en": "Hardware microphone",
+        "uk": "Мікрофон"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎙️",
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "mic",
+          "microphone",
+          "pcs hardware",
+          "voice recording",
+          "hardware-microphone"
+        ],
+        "uk": [
+          "🎙️",
+          "апаратне забезпечення",
+          "залізо",
+          "комплектуха",
+          "мікрофон",
+          "мікрофоне",
+          "мікрофончик",
+          "серверне залізо"
+        ]
+      }
+    }
+  },
+  "hardware-microphone-active": {
+    "mediaKey": "702d03c4-c7ab-4e94-8053-f6ed34496e1f",
+    "i18n": {
+      "name": {
+        "en": "Hardware microphone active",
+        "uk": "Мікрофон (активний)"
+      },
+      "alt": {
+        "en": "Hardware microphone active",
+        "uk": "Мікрофон (активний)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🎙️",
+          "active",
+          "enabled",
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "mic",
+          "microphone",
+          "online",
+          "pcs hardware",
+          "voice recording",
+          "hardware-microphone-active"
+        ],
+        "uk": [
+          "🎙️",
+          "активний",
+          "апаратне забезпечення",
+          "в роботі",
+          "живий статус",
+          "залізо",
+          "комплектуха",
+          "мікрофон",
+          "мікрофоне",
+          "мікрофончик",
+          "працює",
+          "серверне залізо",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "hardware-mobile": {
+    "mediaKey": "66a6b2fa-872b-4c2f-a819-99e9cea497d4",
+    "i18n": {
+      "name": {
+        "en": "Hardware mobile",
+        "uk": "Мобільний телефон"
+      },
+      "alt": {
+        "en": "Hardware mobile",
+        "uk": "Мобільний телефон"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cellular",
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "mobile",
+          "mobile phone",
+          "pcs hardware",
+          "hardware-mobile"
+        ],
+        "uk": [
+          "апаратне забезпечення",
+          "залізо",
+          "комплектуха",
+          "мобіле",
+          "мобілка",
+          "мобільний",
+          "серверне залізо",
+          "смартфон"
+        ]
+      }
+    }
+  },
+  "hardware-printer": {
+    "mediaKey": "d4c71496-a1d5-413c-8add-8879b29d9491",
+    "i18n": {
+      "name": {
+        "en": "Hardware printer",
+        "uk": "Принтер"
+      },
+      "alt": {
+        "en": "Hardware printer",
+        "uk": "Принтер"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "office printer",
+          "pcs hardware",
+          "printer",
+          "printing",
+          "hardware-printer"
+        ],
+        "uk": [
+          "апаратне забезпечення",
+          "залізо",
+          "комплектуха",
+          "принтер",
+          "прінтер",
+          "серверне залізо"
+        ]
+      }
+    }
+  },
+  "hardware-radio": {
+    "mediaKey": "2dc67e99-9bad-42ee-b33f-78cc217755b1",
+    "i18n": {
+      "name": {
+        "en": "Hardware radio",
+        "uk": "Радіоприймач"
+      },
+      "alt": {
+        "en": "Hardware radio",
+        "uk": "Радіоприймач"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "FM",
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "pcs hardware",
+          "radio",
+          "radio waves",
+          "hardware-radio"
+        ],
+        "uk": [
+          "апаратне забезпечення",
+          "залізо",
+          "комплектуха",
+          "радіо",
+          "серверне залізо"
+        ]
+      }
+    }
+  },
+  "hardware-smart-speaker": {
+    "mediaKey": "a3e1986d-68ec-48eb-8096-edfc2d645bb9",
+    "i18n": {
+      "name": {
+        "en": "Hardware smart speaker",
+        "uk": "Розумна колонка"
+      },
+      "alt": {
+        "en": "Hardware smart speaker",
+        "uk": "Розумна колонка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "audio",
+          "clever",
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "pcs hardware",
+          "smart",
+          "smart mode",
+          "sound speaker",
+          "speaker",
+          "hardware-smart-speaker"
+        ],
+        "uk": [
+          "апаратне забезпечення",
+          "голосник",
+          "динамік",
+          "залізо",
+          "інтелектуальний",
+          "кмітливий",
+          "колонка",
+          "комплектуха",
+          "розумний",
+          "розумний режим",
+          "серверне залізо",
+          "смарт",
+          "спікер"
+        ]
+      }
+    }
+  },
+  "hardware-smart-watch": {
+    "mediaKey": "e6c69c86-7930-4977-a4c5-7042067e740f",
+    "i18n": {
+      "name": {
+        "en": "Hardware smart watch",
+        "uk": "Розумний годинник"
+      },
+      "alt": {
+        "en": "Hardware smart watch",
+        "uk": "Розумний годинник"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "clever",
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "monitor",
+          "pcs hardware",
+          "smart",
+          "smart mode",
+          "timepiece",
+          "watch",
+          "watchface",
+          "hardware-smart-watch"
+        ],
+        "uk": [
+          "апаратне забезпечення",
+          "годинник",
+          "дивитися",
+          "залізо",
+          "інтелектуальний",
+          "кмітливий",
+          "комплектуха",
+          "розумний",
+          "розумний режим",
+          "серверне залізо",
+          "смарт",
+          "спостерігати"
+        ]
+      }
+    }
+  },
+  "hardware-speaker": {
+    "mediaKey": "c83291bb-1f0f-44c1-91d9-3f8b4eb0e443",
+    "i18n": {
+      "name": {
+        "en": "Hardware speaker",
+        "uk": "Колонка"
+      },
+      "alt": {
+        "en": "Hardware speaker",
+        "uk": "Колонка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "audio",
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "pcs hardware",
+          "sound speaker",
+          "speaker",
+          "hardware-speaker"
+        ],
+        "uk": [
+          "апаратне забезпечення",
+          "голосник",
+          "динамік",
+          "залізо",
+          "колонка",
+          "комплектуха",
+          "серверне залізо",
+          "спікер"
+        ]
+      }
+    }
+  },
+  "hardware-tablet": {
+    "mediaKey": "ae863335-94b0-4ee2-9122-9f68dd515a25",
+    "i18n": {
+      "name": {
+        "en": "Hardware tablet",
+        "uk": "Планшет"
+      },
+      "alt": {
+        "en": "Hardware tablet",
+        "uk": "Планшет"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "e-reader",
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "pcs hardware",
+          "tablet",
+          "tablet pc",
+          "hardware-tablet"
+        ],
+        "uk": [
+          "апаратне забезпечення",
+          "залізо",
+          "комплектуха",
+          "планшет",
+          "планшетний комп'ютер",
+          "серверне залізо",
+          "таблет",
+          "тач-пристрій"
+        ]
+      }
+    }
+  },
+  "hardware-tv": {
+    "mediaKey": "58ec1bcd-9987-4380-81d4-1d1b59c26cb9",
+    "i18n": {
+      "name": {
+        "en": "Hardware tv",
+        "uk": "Телевізор"
+      },
+      "alt": {
+        "en": "Hardware tv",
+        "uk": "Телевізор"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "pcs hardware",
+          "smart tv",
+          "tv",
+          "video",
+          "hardware-tv"
+        ],
+        "uk": [
+          "апаратне забезпечення",
+          "екран",
+          "залізо",
+          "комплектуха",
+          "серверне залізо",
+          "телебачення",
+          "телевізор"
+        ]
+      }
+    }
+  },
+  "hardware-watch": {
+    "mediaKey": "48dcbbe4-8d87-4086-90ba-44d90515b886",
+    "i18n": {
+      "name": {
+        "en": "Hardware watch",
+        "uk": "Годинник"
+      },
+      "alt": {
+        "en": "Hardware watch",
+        "uk": "Годинник"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "hardware",
+          "hardware components",
+          "hardware devices",
+          "monitor",
+          "pcs hardware",
+          "timepiece",
+          "watch",
+          "watchface",
+          "hardware-watch"
+        ],
+        "uk": [
+          "апаратне забезпечення",
+          "годинник",
+          "дивитися",
+          "залізо",
+          "комплектуха",
+          "серверне залізо",
+          "спостерігати"
+        ]
+      }
+    }
+  },
+  "heart": {
+    "mediaKey": "5b7e6d11-24c0-4bb1-a52a-aa86af4049bc",
+    "i18n": {
+      "name": {
+        "en": "Heart",
+        "uk": "Серце"
+      },
+      "alt": {
+        "en": "Heart",
+        "uk": "Серце"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "❤️",
+          "heart",
+          "heart icon",
+          "love"
+        ],
+        "uk": [
+          "❤️",
+          "кохання",
+          "серце",
+          "хеарт"
+        ]
+      }
+    }
+  },
+  "heart-active": {
+    "mediaKey": "2cb104ba-dd90-4204-a891-37c6fc97d54c",
+    "i18n": {
+      "name": {
+        "en": "Heart active",
+        "uk": "Серце активне"
+      },
+      "alt": {
+        "en": "Heart active",
+        "uk": "Серце активне"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "❤️",
+          "active",
+          "enabled",
+          "heart",
+          "heart icon",
+          "love",
+          "online",
+          "heart-active"
+        ],
+        "uk": [
+          "❤️",
+          "активний",
+          "в роботі",
+          "живий статус",
+          "кохання",
+          "працює",
+          "серце",
+          "увімкнений",
+          "хеарт"
+        ]
+      }
+    }
+  },
+  "help": {
+    "mediaKey": "588b9bbc-87bd-4892-9a33-a09dd66c9b6d",
+    "i18n": {
+      "name": {
+        "en": "Help",
+        "uk": "Допомога"
+      },
+      "alt": {
+        "en": "Help",
+        "uk": "Допомога"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "aid",
+          "help",
+          "help icon",
+          "support"
+        ],
+        "uk": [
+          "допомога",
+          "допомогти",
+          "хелп"
+        ]
+      }
+    }
+  },
+  "hide": {
+    "mediaKey": "d94dbb7e-5d1e-4dc1-aa94-5bfeef16ba46",
+    "i18n": {
+      "name": {
+        "en": "Hide",
+        "uk": "Приховати"
+      },
+      "alt": {
+        "en": "Hide",
+        "uk": "Приховати"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "conceal",
+          "hide",
+          "hide icon",
+          "invisible"
+        ],
+        "uk": [
+          "приховати",
+          "приховати елемент",
+          "хіде"
+        ]
+      }
+    }
+  },
+  "home": {
+    "mediaKey": "0eabaca3-66e2-4cae-a21f-719223af5662",
+    "i18n": {
+      "name": {
+        "en": "Home",
+        "uk": "Будинок"
+      },
+      "alt": {
+        "en": "Home",
+        "uk": "Будинок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🏠",
+          "home",
+          "homepage",
+          "house icon"
+        ],
+        "uk": [
+          "🏠",
+          "дім",
+          "додому",
+          "хоме"
+        ]
+      }
+    }
+  },
+  "home-active": {
+    "mediaKey": "85e647e0-c207-43e8-83ad-8e42d23865ba",
+    "i18n": {
+      "name": {
+        "en": "Home active",
+        "uk": "Будинок активне"
+      },
+      "alt": {
+        "en": "Home active",
+        "uk": "Будинок активне"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🏠",
+          "active",
+          "enabled",
+          "home",
+          "homepage",
+          "house icon",
+          "online",
+          "home-active"
+        ],
+        "uk": [
+          "🏠",
+          "активний",
+          "в роботі",
+          "дім",
+          "додому",
+          "живий статус",
+          "працює",
+          "увімкнений",
+          "хоме"
+        ]
+      }
+    }
+  },
+  "info": {
+    "mediaKey": "abba2978-cefa-4f03-93aa-ebfb72dd8dab",
+    "i18n": {
+      "name": {
+        "en": "Info",
+        "uk": "Інформація"
+      },
+      "alt": {
+        "en": "Info",
+        "uk": "Інформація"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "details",
+          "ℹ️",
+          "info",
+          "info icon",
+          "information"
+        ],
+        "uk": [
+          "інфо",
+          "інформація",
+          "ℹ️"
+        ]
+      }
+    }
+  },
+  "latest-news": {
+    "mediaKey": "a6ee0144-7c88-42a8-aed5-fa79ea8ecef2",
+    "i18n": {
+      "name": {
+        "en": "Latest news",
+        "uk": "Останні новини"
+      },
+      "alt": {
+        "en": "Latest news",
+        "uk": "Останні новини"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "breaking news",
+          "latest",
+          "news",
+          "news feed",
+          "latest-news"
+        ],
+        "uk": [
+          "бренд",
+          "логотип",
+          "невс",
+          "новини",
+          "останній",
+          "стрічка новин"
+        ]
+      }
+    }
+  },
+  "latest-news-active": {
+    "mediaKey": "a53c2b89-cbdb-44a1-b291-41b5bf183369",
+    "i18n": {
+      "name": {
+        "en": "Latest news active",
+        "uk": "Останні новини (активна)"
+      },
+      "alt": {
+        "en": "Latest news active",
+        "uk": "Останні новини (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "breaking news",
+          "enabled",
+          "latest",
+          "news",
+          "news feed",
+          "online",
+          "latest-news-active"
+        ],
+        "uk": [
+          "активний",
+          "бренд",
+          "в роботі",
+          "живий статус",
+          "логотип",
+          "невс",
+          "новини",
+          "останній",
+          "працює",
+          "стрічка новин",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "link": {
+    "mediaKey": "8e93d890-2dd4-4677-ad31-0de5c4b57064",
+    "i18n": {
+      "name": {
+        "en": "Link",
+        "uk": "Посилання"
+      },
+      "alt": {
+        "en": "Link",
+        "uk": "Посилання"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "chain",
+          "hyperlink",
+          "link",
+          "link icon",
+          "url",
+          "url-адреса"
+        ],
+        "uk": [
+          "гіперпосилання",
+          "зв'язок",
+          "лінк",
+          "посилання",
+          "url-адреса"
+        ]
+      }
+    }
+  },
+  "list": {
+    "mediaKey": "31912971-bd66-4405-8d0f-611e767041de",
+    "i18n": {
+      "name": {
+        "en": "List",
+        "uk": "Список"
+      },
+      "alt": {
+        "en": "List",
+        "uk": "Список"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bulleted list",
+          "enumeration",
+          "list",
+          "listing",
+          "todo list"
+        ],
+        "uk": [
+          "каталог",
+          "ліст",
+          "перелік",
+          "список"
+        ]
+      }
+    }
+  },
+  "list-active": {
+    "mediaKey": "ce74157f-9d2b-4bd8-9cf9-371e9fc0a04c",
+    "i18n": {
+      "name": {
+        "en": "List active",
+        "uk": "Список (активна)"
+      },
+      "alt": {
+        "en": "List active",
+        "uk": "Список (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "bulleted list",
+          "enabled",
+          "enumeration",
+          "list",
+          "listing",
+          "online",
+          "todo list",
+          "list-active"
+        ],
+        "uk": [
+          "активний",
+          "в роботі",
+          "живий статус",
+          "каталог",
+          "ліст",
+          "перелік",
+          "працює",
+          "список",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "live-activity": {
+    "mediaKey": "63698f7c-a22a-467a-a73e-24c8239fb06d",
+    "i18n": {
+      "name": {
+        "en": "Live activity",
+        "uk": "Жива активність"
+      },
+      "alt": {
+        "en": "Live activity",
+        "uk": "Жива активність"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "activity",
+          "activity log",
+          "live",
+          "live broadcast",
+          "live icon",
+          "live stream",
+          "real time",
+          "live-activity"
+        ],
+        "uk": [
+          "активність",
+          "актівіті",
+          "діяльність",
+          "жити",
+          "ліве",
+          "наживо",
+          "прямий ефір",
+          "статистика руху",
+          "фітнес графік"
+        ]
+      }
+    }
+  },
+  "live-activity-active": {
+    "mediaKey": "8bc8bc17-a7bf-42a3-91ba-d3dd4eb87969",
+    "i18n": {
+      "name": {
+        "en": "Live activity active",
+        "uk": "Жива активність (активна)"
+      },
+      "alt": {
+        "en": "Live activity active",
+        "uk": "Жива активність (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "activity",
+          "activity log",
+          "enabled",
+          "live",
+          "live broadcast",
+          "live icon",
+          "live stream",
+          "online",
+          "real time",
+          "live-activity-active"
+        ],
+        "uk": [
+          "активний",
+          "активність",
+          "актівіті",
+          "в роботі",
+          "діяльність",
+          "живий статус",
+          "жити",
+          "ліве",
+          "наживо",
+          "працює",
+          "прямий ефір",
+          "статистика руху",
+          "увімкнений",
+          "фітнес графік"
+        ]
+      }
+    }
+  },
+  "lock": {
+    "mediaKey": "c5dfe048-51db-46e9-a5a9-4d14a167dc44",
+    "i18n": {
+      "name": {
+        "en": "Lock",
+        "uk": "Замок"
+      },
+      "alt": {
+        "en": "Lock",
+        "uk": "Замок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "lock",
+          "security"
+        ],
+        "uk": [
+          "блокування",
+          "заблоковано",
+          "закритий доступ",
+          "замикання",
+          "замкнути",
+          "замок",
+          "замок безпеки",
+          "локк",
+          "падлок"
+        ]
+      }
+    }
+  },
+  "lock-active": {
+    "mediaKey": "7b3d6027-7321-4cb1-b754-17af7d111736",
+    "i18n": {
+      "name": {
+        "en": "Lock active",
+        "uk": "Замок (активна)"
+      },
+      "alt": {
+        "en": "Lock active",
+        "uk": "Замок (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "enabled",
+          "lock",
+          "online",
+          "security",
+          "lock-active"
+        ],
+        "uk": [
+          "активний",
+          "блокування",
+          "в роботі",
+          "живий статус",
+          "заблоковано",
+          "закритий доступ",
+          "замикання",
+          "замкнути",
+          "замок",
+          "замок безпеки",
+          "локк",
+          "падлок",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "logout": {
+    "mediaKey": "aec5ad25-d120-423c-96c0-09f8524f959b",
+    "i18n": {
+      "name": {
+        "en": "Logout",
+        "uk": "Вихід"
+      },
+      "alt": {
+        "en": "Logout",
+        "uk": "Вихід"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "logout",
+          "logout кнопка",
+          "sign out"
+        ],
+        "uk": [
+          "вийти з акаунта",
+          "вийти з системи",
+          "вихід з облікового запису",
+          "вихід із акаунта",
+          "завершення сеансу",
+          "logout кнопка"
+        ]
+      }
+    }
+  },
+  "longread": {
+    "mediaKey": "9781b9a5-58b5-4496-ae83-af0bb4c0549c",
+    "i18n": {
+      "name": {
+        "en": "Longread",
+        "uk": "Лонгрід"
+      },
+      "alt": {
+        "en": "Longread",
+        "uk": "Лонгрід"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "longread"
+        ],
+        "uk": [
+          "бренд",
+          "логотип",
+          "лонгрід"
+        ]
+      }
+    }
+  },
+  "longread-active": {
+    "mediaKey": "52d2b8d8-f850-4cb2-9a4c-701356e8631a",
+    "i18n": {
+      "name": {
+        "en": "Longread active",
+        "uk": "Лонгрід (активна)"
+      },
+      "alt": {
+        "en": "Longread active",
+        "uk": "Лонгрід (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "enabled",
+          "longread",
+          "online",
+          "longread-active"
+        ],
+        "uk": [
+          "активний",
+          "бренд",
+          "в роботі",
+          "живий статус",
+          "логотип",
+          "лонгрід",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "lyn": {
+    "mediaKey": "0a01b33d-8231-41b8-a613-c130c55aaa5f",
+    "i18n": {
+      "name": {
+        "en": "Lyn",
+        "uk": "Lyn"
+      },
+      "alt": {
+        "en": "Lyn",
+        "uk": "Lyn"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "lyn"
+        ],
+        "uk": [
+          "бренд",
+          "логотип"
+        ]
+      }
+    }
+  },
+  "mat": {
+    "mediaKey": "f1a935a6-c2b1-4823-8f3b-5f58e02f1463",
+    "i18n": {
+      "name": {
+        "en": "Mat",
+        "uk": "MAT"
+      },
+      "alt": {
+        "en": "Mat",
+        "uk": "MAT"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "doormat",
+          "exercise mat",
+          "floor pad",
+          "mat",
+          "yoga mat"
+        ],
+        "uk": [
+          "килимок",
+          "мат",
+          "тренувальний мат"
+        ]
+      }
+    }
+  },
+  "media-404-notfound": {
+    "mediaKey": "e91e4f88-12f7-4d4d-a768-535bad093126",
+    "i18n": {
+      "name": {
+        "en": "Media 404 notfound",
+        "uk": "Не знайдено"
+      },
+      "alt": {
+        "en": "Media 404 notfound",
+        "uk": "Не знайдено"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "404",
+          "broken link",
+          "media",
+          "media hub",
+          "not found",
+          "notfound",
+          "press",
+          "stream",
+          "media-404-notfound"
+        ],
+        "uk": [
+          "404",
+          "аудіо",
+          "відео",
+          "контент",
+          "медіа",
+          "не знайдено",
+          "помилка",
+          "сторінка"
+        ]
+      }
+    }
+  },
+  "media-agelimit-12": {
+    "mediaKey": "dc0262a6-435d-4d88-909d-6ff72ee8c0b4",
+    "i18n": {
+      "name": {
+        "en": "Media agelimit 12",
+        "uk": "Вікове обмеження"
+      },
+      "alt": {
+        "en": "Media agelimit 12",
+        "uk": "Вікове обмеження"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "12",
+          "agelimit",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-agelimit-12"
+        ],
+        "uk": [
+          "12",
+          "аудіо",
+          "бренд",
+          "відео",
+          "вікове обмеження",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-agelimit-15": {
+    "mediaKey": "a3ef3a60-7827-4895-b2e7-37da9fa610d2",
+    "i18n": {
+      "name": {
+        "en": "Media agelimit 15",
+        "uk": "Вікове обмеження"
+      },
+      "alt": {
+        "en": "Media agelimit 15",
+        "uk": "Вікове обмеження"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "15",
+          "agelimit",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-agelimit-15"
+        ],
+        "uk": [
+          "15",
+          "аудіо",
+          "бренд",
+          "відео",
+          "вікове обмеження",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-agelimit-18": {
+    "mediaKey": "1f284e6d-8bce-48b6-b7d0-597a6242b782",
+    "i18n": {
+      "name": {
+        "en": "Media agelimit 18",
+        "uk": "Вікове обмеження"
+      },
+      "alt": {
+        "en": "Media agelimit 18",
+        "uk": "Вікове обмеження"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "18",
+          "agelimit",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-agelimit-18"
+        ],
+        "uk": [
+          "18",
+          "аудіо",
+          "бренд",
+          "відео",
+          "вікове обмеження",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-agelimit-6": {
+    "mediaKey": "32d0f7ec-7b74-4632-a8da-fb3be3afe633",
+    "i18n": {
+      "name": {
+        "en": "Media agelimit 6",
+        "uk": "Вікове обмеження"
+      },
+      "alt": {
+        "en": "Media agelimit 6",
+        "uk": "Вікове обмеження"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "6",
+          "agelimit",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-agelimit-6"
+        ],
+        "uk": [
+          "6",
+          "аудіо",
+          "бренд",
+          "відео",
+          "вікове обмеження",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-agelimit-9": {
+    "mediaKey": "1bad8b29-b36c-4212-8781-ac90dc50cfe9",
+    "i18n": {
+      "name": {
+        "en": "Media agelimit 9",
+        "uk": "Вікове обмеження"
+      },
+      "alt": {
+        "en": "Media agelimit 9",
+        "uk": "Вікове обмеження"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "9",
+          "agelimit",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-agelimit-9"
+        ],
+        "uk": [
+          "9",
+          "аудіо",
+          "бренд",
+          "відео",
+          "вікове обмеження",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-agelimit-a": {
+    "mediaKey": "bbc80ede-ae41-4b2b-9920-f44929465189",
+    "i18n": {
+      "name": {
+        "en": "Media agelimit a",
+        "uk": "Вікове обмеження A"
+      },
+      "alt": {
+        "en": "Media agelimit a",
+        "uk": "Вікове обмеження A"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "латинська a",
+          "літера a",
+          "символ a",
+          "a",
+          "agelimit",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-agelimit-a"
+        ],
+        "uk": [
+          "а",
+          "аудіо",
+          "бренд",
+          "буква а",
+          "відео",
+          "вікове обмеження",
+          "контент",
+          "латинська a",
+          "літера a",
+          "логотип",
+          "медіа",
+          "символ a"
+        ]
+      }
+    }
+  },
+  "media-airplay": {
+    "mediaKey": "766f5e54-170e-497f-ae6c-92255aeeecca",
+    "i18n": {
+      "name": {
+        "en": "Media airplay",
+        "uk": "AirPlay (значок)"
+      },
+      "alt": {
+        "en": "Media airplay",
+        "uk": "AirPlay (значок)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "airplay",
+          "apple tv",
+          "beam video",
+          "media",
+          "media hub",
+          "press",
+          "screen mirroring",
+          "share screen",
+          "stream",
+          "stream device",
+          "wireless display",
+          "media-airplay"
+        ],
+        "uk": [
+          "аудіо",
+          "відео",
+          "дзеркалити екран",
+          "контент",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-airplay-active": {
+    "mediaKey": "3c941801-0465-4003-aae3-e9ed476aa1d0",
+    "i18n": {
+      "name": {
+        "en": "Media airplay active",
+        "uk": "AirPlay (активна)"
+      },
+      "alt": {
+        "en": "Media airplay active",
+        "uk": "AirPlay (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "airplay",
+          "apple tv",
+          "beam video",
+          "enabled",
+          "media",
+          "media hub",
+          "online",
+          "press",
+          "screen mirroring",
+          "share screen",
+          "stream",
+          "stream device",
+          "wireless display",
+          "media-airplay-active"
+        ],
+        "uk": [
+          "активний",
+          "аудіо",
+          "в роботі",
+          "відео",
+          "дзеркалити екран",
+          "живий статус",
+          "контент",
+          "медіа",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "media-beam-note": {
+    "mediaKey": "c8761321-08c3-47ab-8522-f4d9e8af79b9",
+    "i18n": {
+      "name": {
+        "en": "Media beam note",
+        "uk": "Beam (нота)"
+      },
+      "alt": {
+        "en": "Media beam note",
+        "uk": "Beam (нота)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "beam",
+          "beam light",
+          "media",
+          "media hub",
+          "note",
+          "note pad",
+          "press",
+          "sticky note",
+          "stream",
+          "media-beam-note"
+        ],
+        "uk": [
+          "аудіо",
+          "балка",
+          "беам",
+          "відео",
+          "контент",
+          "лазер",
+          "медіа",
+          "нотатка",
+          "ноте",
+          "примітка",
+          "промінь"
+        ]
+      }
+    }
+  },
+  "media-bluetooth": {
+    "mediaKey": "2e059072-e676-4f2a-8b73-882bf3f6a382",
+    "i18n": {
+      "name": {
+        "en": "Media bluetooth",
+        "uk": "Bluetooth (значок)"
+      },
+      "alt": {
+        "en": "Media bluetooth",
+        "uk": "Bluetooth (значок)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "2.4 ghz",
+          "bluetooth",
+          "bluetooth logo",
+          "bt",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-bluetooth"
+        ],
+        "uk": [
+          "аудіо",
+          "безпровідне з'єднання",
+          "блуетоот",
+          "відео",
+          "контент",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-chromecast": {
+    "mediaKey": "df3fb41c-79a2-4cc4-a49f-faac1832f25b",
+    "i18n": {
+      "name": {
+        "en": "Media chromecast",
+        "uk": "Chromecast (значок)"
+      },
+      "alt": {
+        "en": "Media chromecast",
+        "uk": "Chromecast (значок)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cast device",
+          "chromecast",
+          "chromecast stick",
+          "chromecast streaming",
+          "chromecast tv",
+          "chromecast ultra",
+          "google chromecast",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "stream to tv",
+          "media-chromecast"
+        ],
+        "uk": [
+          "аудіо",
+          "відео",
+          "контент",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-chromecast-1": {
+    "mediaKey": "5469960a-727e-4c3e-9cab-22bf34dff7c9",
+    "i18n": {
+      "name": {
+        "en": "Media chromecast 1",
+        "uk": "Chromecast (значок)"
+      },
+      "alt": {
+        "en": "Media chromecast 1",
+        "uk": "Chromecast (значок)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "1",
+          "cast device",
+          "chromecast",
+          "chromecast stick",
+          "chromecast streaming",
+          "chromecast tv",
+          "chromecast ultra",
+          "google chromecast",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "stream to tv",
+          "media-chromecast-1"
+        ],
+        "uk": [
+          "1",
+          "аудіо",
+          "відео",
+          "контент",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-chromecast-2": {
+    "mediaKey": "d4cd3f54-1a88-4ad6-b67d-80390f0bc1d8",
+    "i18n": {
+      "name": {
+        "en": "Media chromecast 2",
+        "uk": "Chromecast (значок)"
+      },
+      "alt": {
+        "en": "Media chromecast 2",
+        "uk": "Chromecast (значок)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "2",
+          "cast device",
+          "chromecast",
+          "chromecast stick",
+          "chromecast streaming",
+          "chromecast tv",
+          "chromecast ultra",
+          "google chromecast",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "stream to tv",
+          "media-chromecast-2"
+        ],
+        "uk": [
+          "2",
+          "аудіо",
+          "відео",
+          "контент",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-chromecast-3": {
+    "mediaKey": "ae4c2e76-87d8-41c1-aec6-abcc488aba86",
+    "i18n": {
+      "name": {
+        "en": "Media chromecast 3",
+        "uk": "Chromecast (значок)"
+      },
+      "alt": {
+        "en": "Media chromecast 3",
+        "uk": "Chromecast (значок)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "3",
+          "cast device",
+          "chromecast",
+          "chromecast stick",
+          "chromecast streaming",
+          "chromecast tv",
+          "chromecast ultra",
+          "google chromecast",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "stream to tv",
+          "media-chromecast-3"
+        ],
+        "uk": [
+          "3",
+          "аудіо",
+          "відео",
+          "контент",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-chromecast-active": {
+    "mediaKey": "5edbc722-28ec-4dbf-b657-d6e66d368f62",
+    "i18n": {
+      "name": {
+        "en": "Media chromecast active",
+        "uk": "Chromecast (активна)"
+      },
+      "alt": {
+        "en": "Media chromecast active",
+        "uk": "Chromecast (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "cast device",
+          "chromecast",
+          "chromecast stick",
+          "chromecast streaming",
+          "chromecast tv",
+          "chromecast ultra",
+          "enabled",
+          "google chromecast",
+          "media",
+          "media hub",
+          "online",
+          "press",
+          "stream",
+          "stream to tv",
+          "media-chromecast-active"
+        ],
+        "uk": [
+          "активний",
+          "аудіо",
+          "в роботі",
+          "відео",
+          "живий статус",
+          "контент",
+          "медіа",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "media-completed": {
+    "mediaKey": "da21b0ff-1bd0-427d-bb1f-49d7a62ade35",
+    "i18n": {
+      "name": {
+        "en": "Media completed",
+        "uk": "Завершено"
+      },
+      "alt": {
+        "en": "Media completed",
+        "uk": "Завершено"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "completed",
+          "done deal",
+          "finished",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-completed"
+        ],
+        "uk": [
+          "аудіо",
+          "виконано",
+          "відео",
+          "готово",
+          "завершено",
+          "контент",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-direkte": {
+    "mediaKey": "2f864c8e-bb21-4362-8f22-942e01146474",
+    "i18n": {
+      "name": {
+        "en": "Media direkte",
+        "uk": "Direkte (значок)"
+      },
+      "alt": {
+        "en": "Media direkte",
+        "uk": "Direkte (значок)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "direkte",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-direkte"
+        ],
+        "uk": [
+          "аудіо",
+          "бренд",
+          "відео",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-direkte-golive": {
+    "mediaKey": "07dbb09d-0815-41fe-9f60-25a01a73615a",
+    "i18n": {
+      "name": {
+        "en": "Media direkte golive",
+        "uk": "Direkte GoLive (значок)"
+      },
+      "alt": {
+        "en": "Media direkte golive",
+        "uk": "Direkte GoLive (значок)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "broadcast",
+          "direkte",
+          "go live",
+          "golive",
+          "live",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-direkte-golive"
+        ],
+        "uk": [
+          "аудіо",
+          "бренд",
+          "в ефір",
+          "відео",
+          "контент",
+          "логотип",
+          "медіа",
+          "прямий ефір",
+          "стрім",
+          "трансляція"
+        ]
+      }
+    }
+  },
+  "media-direkte-notlive": {
+    "mediaKey": "c61cae72-5314-4ab9-97c2-d2b69eb64b18",
+    "i18n": {
+      "name": {
+        "en": "Media direkte notlive",
+        "uk": "Direkte NotLive (значок)"
+      },
+      "alt": {
+        "en": "Media direkte notlive",
+        "uk": "Direkte NotLive (значок)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "direkte",
+          "media",
+          "media hub",
+          "notlive",
+          "offline",
+          "press",
+          "status",
+          "stream",
+          "media-direkte-notlive"
+        ],
+        "uk": [
+          "аудіо",
+          "бренд",
+          "відео",
+          "контент",
+          "логотип",
+          "медіа",
+          "не в ефірі",
+          "немає трансляції",
+          "офлайн"
+        ]
+      }
+    }
+  },
+  "media-direktetv": {
+    "mediaKey": "6f082eb9-c9dc-4b50-9a41-a45224bc2cb9",
+    "i18n": {
+      "name": {
+        "en": "Media direktetv",
+        "uk": "Direkte TV (значок)"
+      },
+      "alt": {
+        "en": "Media direktetv",
+        "uk": "Direkte TV (значок)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "direktetv",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-direktetv"
+        ],
+        "uk": [
+          "аудіо",
+          "бренд",
+          "відео",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-direktetv-active": {
+    "mediaKey": "4ba8ac10-72dd-41e7-899f-f67a6ef0af6a",
+    "i18n": {
+      "name": {
+        "en": "Media direktetv active",
+        "uk": "Media direktetv (активна)"
+      },
+      "alt": {
+        "en": "Media direktetv active",
+        "uk": "Media direktetv (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "direktetv",
+          "enabled",
+          "media",
+          "media hub",
+          "online",
+          "press",
+          "stream",
+          "media-direktetv-active"
+        ],
+        "uk": [
+          "активний",
+          "аудіо",
+          "бренд",
+          "в роботі",
+          "відео",
+          "живий статус",
+          "контент",
+          "логотип",
+          "медіа",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "media-ffw": {
+    "mediaKey": "136acd25-d074-4444-bd31-a354a9b51471",
+    "i18n": {
+      "name": {
+        "en": "Media ffw",
+        "uk": "Перемотка вперед"
+      },
+      "alt": {
+        "en": "Media ffw",
+        "uk": "Перемотка вперед"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "ffw",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-ffw"
+        ],
+        "uk": [
+          "аудіо",
+          "бренд",
+          "відео",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-ffw-15sec": {
+    "mediaKey": "e0a9859a-5e07-49e2-aefe-4c515e9fb816",
+    "i18n": {
+      "name": {
+        "en": "Media ffw 15sec",
+        "uk": "Перемотка вперед"
+      },
+      "alt": {
+        "en": "Media ffw 15sec",
+        "uk": "Перемотка вперед"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "15 sec",
+          "15sec",
+          "ffw",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-ffw-15sec"
+        ],
+        "uk": [
+          "15 сек",
+          "15 секунд",
+          "аудіо",
+          "бренд",
+          "відео",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-ffw-30sec": {
+    "mediaKey": "09e7c8ae-4e29-4223-a065-c74e24b7056b",
+    "i18n": {
+      "name": {
+        "en": "Media ffw 30sec",
+        "uk": "Перемотка вперед"
+      },
+      "alt": {
+        "en": "Media ffw 30sec",
+        "uk": "Перемотка вперед"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "30 sec",
+          "30sec",
+          "ffw",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-ffw-30sec"
+        ],
+        "uk": [
+          "30 сек",
+          "30 секунд",
+          "аудіо",
+          "бренд",
+          "відео",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-ffw-5sec": {
+    "mediaKey": "55035732-b6b5-45ae-88e6-dd65fa0165b4",
+    "i18n": {
+      "name": {
+        "en": "Media ffw 5sec",
+        "uk": "Перемотка вперед"
+      },
+      "alt": {
+        "en": "Media ffw 5sec",
+        "uk": "Перемотка вперед"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "5 sec",
+          "5sec",
+          "ffw",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-ffw-5sec"
+        ],
+        "uk": [
+          "5 сек",
+          "5 секунд",
+          "аудіо",
+          "бренд",
+          "відео",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-index-quaver-tiny": {
+    "mediaKey": "776fdd64-a8fa-4d6f-be45-b4a95c62f372",
+    "i18n": {
+      "name": {
+        "en": "Media index quaver tiny",
+        "uk": "Індекс тріоль (малий)"
+      },
+      "alt": {
+        "en": "Media index quaver tiny",
+        "uk": "Індекс тріоль (малий)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "eighth note",
+          "index",
+          "index number",
+          "index page",
+          "media",
+          "media hub",
+          "press",
+          "quaver",
+          "small",
+          "stream",
+          "summary",
+          "tiny",
+          "media-index-quaver-tiny"
+        ],
+        "uk": [
+          "аудіо",
+          "відео",
+          "восьма нота",
+          "дрібний",
+          "індекс",
+          "контент",
+          "крихітний",
+          "малий",
+          "медіа",
+          "музика",
+          "музична нота",
+          "нота",
+          "перелік"
+        ]
+      }
+    }
+  },
+  "media-jumpto": {
+    "mediaKey": "0a7ba962-8de2-446a-97cb-4a938dffef55",
+    "i18n": {
+      "name": {
+        "en": "Media jumpto",
+        "uk": "Перейти до"
+      },
+      "alt": {
+        "en": "Media jumpto",
+        "uk": "Перейти до"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "jumpto",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-jumpto"
+        ],
+        "uk": [
+          "аудіо",
+          "бренд",
+          "відео",
+          "контент",
+          "логотип",
+          "медіа",
+          "перехід"
+        ]
+      }
+    }
+  },
+  "media-media-complete": {
+    "mediaKey": "78c49fd2-3d74-45d0-b865-6ad3df57db69",
+    "i18n": {
+      "name": {
+        "en": "Media media complete",
+        "uk": "Медіа завершено"
+      },
+      "alt": {
+        "en": "Media media complete",
+        "uk": "Медіа завершено"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "complete",
+          "done",
+          "finished",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "media-media-complete"
+        ],
+        "uk": [
+          "аудіо",
+          "відео",
+          "готово",
+          "завершено",
+          "завершити",
+          "закінчено",
+          "контент",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-media-incomplete": {
+    "mediaKey": "288ad5f6-c8a6-4c9d-9a63-75d2490dcd0c",
+    "i18n": {
+      "name": {
+        "en": "Media media incomplete",
+        "uk": "Медіа незавершено"
+      },
+      "alt": {
+        "en": "Media media incomplete",
+        "uk": "Медіа незавершено"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "draft state",
+          "half done",
+          "in progress",
+          "incomplete",
+          "incomplete status",
+          "media",
+          "media hub",
+          "partial work",
+          "press",
+          "stream",
+          "unfinished",
+          "media-media-incomplete"
+        ],
+        "uk": [
+          "аудіо",
+          "відео",
+          "контент",
+          "медіа",
+          "незавершено"
+        ]
+      }
+    }
+  },
+  "media-next": {
+    "mediaKey": "9b5b0112-3fa9-44ec-aad2-99b893bffd7b",
+    "i18n": {
+      "name": {
+        "en": "Media next",
+        "uk": "Медіа далі"
+      },
+      "alt": {
+        "en": "Media next",
+        "uk": "Медіа далі"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "→",
+          "media",
+          "media hub",
+          "next",
+          "press",
+          "stream",
+          "up next",
+          "media-next"
+        ],
+        "uk": [
+          "→",
+          "аудіо",
+          "відео",
+          "далі",
+          "контент",
+          "медіа",
+          "наступна",
+          "наступний",
+          "некст"
+        ]
+      }
+    }
+  },
+  "media-ny": {
+    "mediaKey": "f3f7f306-a200-496e-b480-20c7a60acb70",
+    "i18n": {
+      "name": {
+        "en": "Media ny",
+        "uk": "Новий медіа"
+      },
+      "alt": {
+        "en": "Media ny",
+        "uk": "Новий медіа"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "media",
+          "media hub",
+          "new york",
+          "ny",
+          "nyc",
+          "press",
+          "stream",
+          "media-ny"
+        ],
+        "uk": [
+          "аудіо",
+          "відео",
+          "контент",
+          "манхеттен",
+          "медіа",
+          "нй",
+          "нью йорк",
+          "нью-йорк",
+          "штат нью-йорк"
+        ]
+      }
+    }
+  },
+  "media-pause": {
+    "mediaKey": "fa740262-c42a-4f22-80ed-ec54d1585200",
+    "i18n": {
+      "name": {
+        "en": "Media pause",
+        "uk": "Пауза"
+      },
+      "alt": {
+        "en": "Media pause",
+        "uk": "Пауза"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⏸️",
+          "media",
+          "media hub",
+          "pause",
+          "pause icon",
+          "press",
+          "stream",
+          "media-pause"
+        ],
+        "uk": [
+          "⏸️",
+          "аудіо",
+          "відео",
+          "контент",
+          "медіа",
+          "пауза",
+          "паусе",
+          "призупинити"
+        ]
+      }
+    }
+  },
+  "media-picture-in-picture": {
+    "mediaKey": "ed86ab5d-3b0d-41aa-a36b-cb82ea2dbfc6",
+    "i18n": {
+      "name": {
+        "en": "Media picture in picture",
+        "uk": "Картинка в картинці"
+      },
+      "alt": {
+        "en": "Media picture in picture",
+        "uk": "Картинка в картинці"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "image",
+          "in",
+          "in icon",
+          "input",
+          "inside",
+          "media",
+          "media hub",
+          "picture",
+          "picture icon",
+          "press",
+          "stream",
+          "media-picture-in-picture"
+        ],
+        "uk": [
+          "аудіо",
+          "в",
+          "відео",
+          "всередині",
+          "ін",
+          "картинка",
+          "контент",
+          "малюнок",
+          "медіа",
+          "піктуре"
+        ]
+      }
+    }
+  },
+  "media-picture-in-picture-active": {
+    "mediaKey": "78062a5d-a0ed-489c-adcd-5244f8e2f339",
+    "i18n": {
+      "name": {
+        "en": "Media picture in picture active",
+        "uk": "Картинка в картинці (активна)"
+      },
+      "alt": {
+        "en": "Media picture in picture active",
+        "uk": "Картинка в картинці (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "enabled",
+          "image",
+          "in",
+          "in icon",
+          "input",
+          "inside",
+          "media",
+          "media hub",
+          "online",
+          "picture",
+          "picture icon",
+          "press",
+          "stream",
+          "media-picture-in-picture-active"
+        ],
+        "uk": [
+          "активний",
+          "аудіо",
+          "в",
+          "в роботі",
+          "відео",
+          "всередині",
+          "живий статус",
+          "ін",
+          "картинка",
+          "контент",
+          "малюнок",
+          "медіа",
+          "піктуре",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "media-play": {
+    "mediaKey": "a461cc54-4877-4758-9ec0-85eadf6db0e0",
+    "i18n": {
+      "name": {
+        "en": "Media play",
+        "uk": "Відтворення"
+      },
+      "alt": {
+        "en": "Media play",
+        "uk": "Відтворення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "▶️",
+          "media",
+          "media hub",
+          "play",
+          "play button",
+          "press",
+          "stream",
+          "media-play"
+        ],
+        "uk": [
+          "▶️",
+          "аудіо",
+          "відео",
+          "грати",
+          "контент",
+          "медіа",
+          "плай"
+        ]
+      }
+    }
+  },
+  "media-play-fail": {
+    "mediaKey": "682ec1a9-2f2f-4989-8968-4915b5281d1b",
+    "i18n": {
+      "name": {
+        "en": "Media play fail",
+        "uk": "Відтворення"
+      },
+      "alt": {
+        "en": "Media play fail",
+        "uk": "Відтворення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "▶️",
+          "error",
+          "fail",
+          "lose",
+          "media",
+          "media hub",
+          "oops",
+          "play",
+          "play button",
+          "press",
+          "stream",
+          "media-play-fail"
+        ],
+        "uk": [
+          "▶️",
+          "аудіо",
+          "відео",
+          "грати",
+          "контент",
+          "медіа",
+          "невдача",
+          "плай",
+          "помилка",
+          "провал",
+          "фейл"
+        ]
+      }
+    }
+  },
+  "media-playlist": {
+    "mediaKey": "5f1043f9-dd4c-47ac-a929-1ba35ba40b90",
+    "i18n": {
+      "name": {
+        "en": "Media playlist",
+        "uk": "Плейлист"
+      },
+      "alt": {
+        "en": "Media playlist",
+        "uk": "Плейлист"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "media",
+          "media hub",
+          "music list",
+          "playlist",
+          "press",
+          "stream",
+          "media-playlist"
+        ],
+        "uk": [
+          "аудіо",
+          "відео",
+          "відтворення",
+          "контент",
+          "медіа",
+          "плайліст",
+          "список",
+          "список відтворення"
+        ]
+      }
+    }
+  },
+  "media-playlist-add": {
+    "mediaKey": "cab7a43c-6e26-40fd-9f02-7e2a1f0eacb3",
+    "i18n": {
+      "name": {
+        "en": "Media playlist add",
+        "uk": "Плейлист додати"
+      },
+      "alt": {
+        "en": "Media playlist add",
+        "uk": "Плейлист додати"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "add",
+          "add new",
+          "insert",
+          "media",
+          "media hub",
+          "music list",
+          "playlist",
+          "press",
+          "stream",
+          "media-playlist-add"
+        ],
+        "uk": [
+          "адд",
+          "аудіо",
+          "відео",
+          "відтворення",
+          "додати",
+          "додати ще",
+          "контент",
+          "медіа",
+          "плайліст",
+          "плюс",
+          "список",
+          "список відтворення"
+        ]
+      }
+    }
+  },
+  "media-playlist-add-later": {
+    "mediaKey": "ad532a10-ebcf-45d6-8bc1-aa7144d44a09",
+    "i18n": {
+      "name": {
+        "en": "Media playlist add later",
+        "uk": "Плейлист додати пізніше"
+      },
+      "alt": {
+        "en": "Media playlist add later",
+        "uk": "Плейлист додати пізніше"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "add",
+          "add new",
+          "afterwards",
+          "insert",
+          "later",
+          "later on",
+          "media",
+          "media hub",
+          "music list",
+          "playlist",
+          "press",
+          "stream",
+          "media-playlist-add-later"
+        ],
+        "uk": [
+          "адд",
+          "аудіо",
+          "відео",
+          "відтворення",
+          "додати",
+          "додати ще",
+          "згодом",
+          "контент",
+          "медіа",
+          "пізніше",
+          "плайліст",
+          "плюс",
+          "потім",
+          "список",
+          "список відтворення"
+        ]
+      }
+    }
+  },
+  "media-playlist-add-next": {
+    "mediaKey": "85ba9b8c-2289-47d4-96c7-1d36ed13b6a9",
+    "i18n": {
+      "name": {
+        "en": "Media playlist add next",
+        "uk": "Плейлист додати далі"
+      },
+      "alt": {
+        "en": "Media playlist add next",
+        "uk": "Плейлист додати далі"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "→",
+          "add",
+          "add new",
+          "insert",
+          "media",
+          "media hub",
+          "music list",
+          "next",
+          "playlist",
+          "press",
+          "stream",
+          "up next",
+          "media-playlist-add-next"
+        ],
+        "uk": [
+          "→",
+          "адд",
+          "аудіо",
+          "відео",
+          "відтворення",
+          "далі",
+          "додати",
+          "додати ще",
+          "контент",
+          "медіа",
+          "наступна",
+          "наступний",
+          "некст",
+          "плайліст",
+          "плюс",
+          "список",
+          "список відтворення"
+        ]
+      }
+    }
+  },
+  "media-playlist-added": {
+    "mediaKey": "dce5aaf5-9c55-4fb0-b330-1b34070ae92f",
+    "i18n": {
+      "name": {
+        "en": "Media playlist added",
+        "uk": "Плейлист"
+      },
+      "alt": {
+        "en": "Media playlist added",
+        "uk": "Плейлист"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "added",
+          "media",
+          "media hub",
+          "music list",
+          "new item",
+          "playlist",
+          "plus",
+          "press",
+          "stream",
+          "media-playlist-added"
+        ],
+        "uk": [
+          "аудіо",
+          "в списку",
+          "відео",
+          "відтворення",
+          "додано",
+          "додано до колекції",
+          "контент",
+          "медіа",
+          "нове",
+          "плайліст",
+          "список",
+          "список відтворення",
+          "щойно додано"
+        ]
+      }
+    }
+  },
+  "media-playlist-remove": {
+    "mediaKey": "cc11820e-3e83-4d5f-b3c0-2c6fbb01141e",
+    "i18n": {
+      "name": {
+        "en": "Media playlist remove",
+        "uk": "Плейлист видалити"
+      },
+      "alt": {
+        "en": "Media playlist remove",
+        "uk": "Плейлист видалити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "delete",
+          "media",
+          "media hub",
+          "music list",
+          "playlist",
+          "press",
+          "remove",
+          "stream",
+          "trash",
+          "media-playlist-remove"
+        ],
+        "uk": [
+          "аудіо",
+          "видалити",
+          "відео",
+          "відтворення",
+          "контент",
+          "медіа",
+          "плайліст",
+          "ремове",
+          "список",
+          "список відтворення"
+        ]
+      }
+    }
+  },
+  "media-previous": {
+    "mediaKey": "1b8ed0c4-e41a-4e26-a120-693c84b37bce",
+    "i18n": {
+      "name": {
+        "en": "Media previous",
+        "uk": "Медіа назад"
+      },
+      "alt": {
+        "en": "Media previous",
+        "uk": "Медіа назад"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "arrow back",
+          "back",
+          "media",
+          "media hub",
+          "press",
+          "prev",
+          "previous",
+          "return",
+          "rewind",
+          "stream",
+          "media-previous"
+        ],
+        "uk": [
+          "аудіо",
+          "відео",
+          "контент",
+          "медіа",
+          "назад",
+          "попередній"
+        ]
+      }
+    }
+  },
+  "media-programguide": {
+    "mediaKey": "bf8e183d-ec38-47dc-bdc4-247b24fa2f39",
+    "i18n": {
+      "name": {
+        "en": "Media programguide",
+        "uk": "Програма передач"
+      },
+      "alt": {
+        "en": "Media programguide",
+        "uk": "Програма передач"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "media",
+          "media hub",
+          "press",
+          "program guide",
+          "programguide",
+          "stream",
+          "media-programguide"
+        ],
+        "uk": [
+          "аудіо",
+          "відео",
+          "канали",
+          "контент",
+          "медіа",
+          "перегляд",
+          "розклад",
+          "тв",
+          "телепрограма"
+        ]
+      }
+    }
+  },
+  "media-programguide-active": {
+    "mediaKey": "d0408768-2f33-48d8-ae2e-11a2a29e9a11",
+    "i18n": {
+      "name": {
+        "en": "Media programguide active",
+        "uk": "Програма передач (активна)"
+      },
+      "alt": {
+        "en": "Media programguide active",
+        "uk": "Програма передач (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "enabled",
+          "media",
+          "media hub",
+          "online",
+          "press",
+          "program guide",
+          "programguide",
+          "stream",
+          "media-programguide-active"
+        ],
+        "uk": [
+          "активний",
+          "аудіо",
+          "в роботі",
+          "відео",
+          "живий статус",
+          "канали",
+          "контент",
+          "медіа",
+          "перегляд",
+          "працює",
+          "розклад",
+          "тв",
+          "телепрограма",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "media-quaver": {
+    "mediaKey": "e3c0e9a6-2a7a-4e7a-8460-8587732ac639",
+    "i18n": {
+      "name": {
+        "en": "Media quaver",
+        "uk": "Нота"
+      },
+      "alt": {
+        "en": "Media quaver",
+        "uk": "Нота"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "eighth note",
+          "media",
+          "media hub",
+          "press",
+          "quaver",
+          "stream",
+          "media-quaver"
+        ],
+        "uk": [
+          "аудіо",
+          "відео",
+          "восьма нота",
+          "контент",
+          "медіа",
+          "музика",
+          "музична нота",
+          "нота"
+        ]
+      }
+    }
+  },
+  "media-quaver-active": {
+    "mediaKey": "15988767-0077-4794-9cc3-b6c7b2e58609",
+    "i18n": {
+      "name": {
+        "en": "Media quaver active",
+        "uk": "Нота (активна)"
+      },
+      "alt": {
+        "en": "Media quaver active",
+        "uk": "Нота (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "eighth note",
+          "enabled",
+          "media",
+          "media hub",
+          "online",
+          "press",
+          "quaver",
+          "stream",
+          "media-quaver-active"
+        ],
+        "uk": [
+          "активний",
+          "аудіо",
+          "в роботі",
+          "відео",
+          "восьма нота",
+          "живий статус",
+          "контент",
+          "медіа",
+          "музика",
+          "музична нота",
+          "нота",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "media-quaver-off": {
+    "mediaKey": "64ec0b98-17fa-4da6-b6ee-5a66d7a1ae39",
+    "i18n": {
+      "name": {
+        "en": "Media quaver off",
+        "uk": "Нота (вимкнено)"
+      },
+      "alt": {
+        "en": "Media quaver off",
+        "uk": "Нота (вимкнено)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "disabled",
+          "eighth note",
+          "media",
+          "media hub",
+          "off",
+          "off status",
+          "press",
+          "quaver",
+          "stream",
+          "media-quaver-off"
+        ],
+        "uk": [
+          "аудіо",
+          "вимкнено",
+          "вимкнути",
+          "відео",
+          "восьма нота",
+          "контент",
+          "медіа",
+          "музика",
+          "музична нота",
+          "нота",
+          "офф"
+        ]
+      }
+    }
+  },
+  "media-rwd": {
+    "mediaKey": "fa2a8fc6-f43f-4760-8051-93ca00ce8ed0",
+    "i18n": {
+      "name": {
+        "en": "Media rwd",
+        "uk": "Перемотка"
+      },
+      "alt": {
+        "en": "Media rwd",
+        "uk": "Перемотка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "layout",
+          "media",
+          "media hub",
+          "press",
+          "responsive",
+          "responsive web design",
+          "rwd",
+          "stream",
+          "web",
+          "media-rwd"
+        ],
+        "uk": [
+          "адаптивний дизайн",
+          "аудіо",
+          "відео",
+          "контент",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-rwd-15sec": {
+    "mediaKey": "c3b609d5-c6d0-4b42-8f26-39c358906d03",
+    "i18n": {
+      "name": {
+        "en": "Media rwd 15sec",
+        "uk": "Перемотка 15 с"
+      },
+      "alt": {
+        "en": "Media rwd 15sec",
+        "uk": "Перемотка 15 с"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "15 sec",
+          "15sec",
+          "layout",
+          "media",
+          "media hub",
+          "press",
+          "responsive",
+          "responsive web design",
+          "rwd",
+          "stream",
+          "web",
+          "media-rwd-15sec"
+        ],
+        "uk": [
+          "15 сек",
+          "15 секунд",
+          "адаптивний дизайн",
+          "аудіо",
+          "відео",
+          "контент",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-rwd-30sec": {
+    "mediaKey": "5a06693d-eb36-446b-8e30-b526db2945d8",
+    "i18n": {
+      "name": {
+        "en": "Media rwd 30sec",
+        "uk": "Перемотка 30 с"
+      },
+      "alt": {
+        "en": "Media rwd 30sec",
+        "uk": "Перемотка 30 с"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "30 sec",
+          "30sec",
+          "layout",
+          "media",
+          "media hub",
+          "press",
+          "responsive",
+          "responsive web design",
+          "rwd",
+          "stream",
+          "web",
+          "media-rwd-30sec"
+        ],
+        "uk": [
+          "30 сек",
+          "30 секунд",
+          "адаптивний дизайн",
+          "аудіо",
+          "відео",
+          "контент",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-rwd-5sec": {
+    "mediaKey": "537284e5-4d43-4345-ab9c-dad5e17d0199",
+    "i18n": {
+      "name": {
+        "en": "Media rwd 5sec",
+        "uk": "Перемотка 5 с"
+      },
+      "alt": {
+        "en": "Media rwd 5sec",
+        "uk": "Перемотка 5 с"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "5 sec",
+          "5sec",
+          "layout",
+          "media",
+          "media hub",
+          "press",
+          "responsive",
+          "responsive web design",
+          "rwd",
+          "stream",
+          "web",
+          "media-rwd-5sec"
+        ],
+        "uk": [
+          "5 сек",
+          "5 секунд",
+          "адаптивний дизайн",
+          "аудіо",
+          "відео",
+          "контент",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-soundwave": {
+    "mediaKey": "caa3f57a-d27c-4fc6-b69a-1dbe8f9b0e36",
+    "i18n": {
+      "name": {
+        "en": "Media soundwave",
+        "uk": "Звукова хвиля"
+      },
+      "alt": {
+        "en": "Media soundwave",
+        "uk": "Звукова хвиля"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "audio signal",
+          "audio waveform",
+          "media",
+          "media hub",
+          "press",
+          "sound wave",
+          "soundwave",
+          "soundwave icon",
+          "stream",
+          "waveform",
+          "media-soundwave"
+        ],
+        "uk": [
+          "аудіо",
+          "аудіо хвиля",
+          "відео",
+          "звукова хвиля",
+          "контент",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-speed-0-8x": {
+    "mediaKey": "f896eb65-c613-44fe-818f-82cad47add1e",
+    "i18n": {
+      "name": {
+        "en": "Media speed 0 8x",
+        "uk": "Швидкість 0.8×"
+      },
+      "alt": {
+        "en": "Media speed 0 8x",
+        "uk": "Швидкість 0.8×"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "0",
+          "8 times",
+          "8x",
+          "8x zoom",
+          "оптика 8x",
+          "fast",
+          "gadgets zoom",
+          "media",
+          "media hub",
+          "press",
+          "speed",
+          "stream",
+          "velocity",
+          "zoom level 8",
+          "media-speed-0-8x"
+        ],
+        "uk": [
+          "0",
+          "8 крат",
+          "аудіо",
+          "відео",
+          "восьмиразовий зум",
+          "гонка",
+          "контент",
+          "медіа",
+          "оптика 8x",
+          "турбо",
+          "швидкість"
+        ]
+      }
+    }
+  },
+  "media-speed-1-25x": {
+    "mediaKey": "12368f9e-1cf0-47af-b6df-112eea3f9429",
+    "i18n": {
+      "name": {
+        "en": "Media speed 1 25x",
+        "uk": "Швидкість 1.25×"
+      },
+      "alt": {
+        "en": "Media speed 1 25x",
+        "uk": "Швидкість 1.25×"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "1",
+          "25 times",
+          "25 x",
+          "25x",
+          "fast",
+          "media",
+          "media hub",
+          "press",
+          "speed",
+          "stream",
+          "velocity",
+          "media-speed-1-25x"
+        ],
+        "uk": [
+          "1",
+          "25 разів",
+          "аудіо",
+          "відео",
+          "гонка",
+          "контент",
+          "медіа",
+          "турбо",
+          "швидкість"
+        ]
+      }
+    }
+  },
+  "media-speed-1-5x": {
+    "mediaKey": "a0c67d1d-bdec-40c0-9a3e-35d092138c10",
+    "i18n": {
+      "name": {
+        "en": "Media speed 1 5x",
+        "uk": "Швидкість 1.5×"
+      },
+      "alt": {
+        "en": "Media speed 1 5x",
+        "uk": "Швидкість 1.5×"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "1",
+          "5x",
+          "fast",
+          "media",
+          "media hub",
+          "press",
+          "speed",
+          "stream",
+          "superzoom",
+          "velocity",
+          "media-speed-1-5x"
+        ],
+        "uk": [
+          "1",
+          "5кс",
+          "5х збільшення",
+          "аудіо",
+          "відео",
+          "гонка",
+          "контент",
+          "макрозум",
+          "медіа",
+          "п'ятикратний зум",
+          "турбо",
+          "швидкість"
+        ]
+      }
+    }
+  },
+  "media-speed-1x": {
+    "mediaKey": "03e7bc5b-3979-462e-adb2-5d40124fc501",
+    "i18n": {
+      "name": {
+        "en": "Media speed 1x",
+        "uk": "Швидкість 1×"
+      },
+      "alt": {
+        "en": "Media speed 1x",
+        "uk": "Швидкість 1×"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "1x",
+          "fast",
+          "media",
+          "media hub",
+          "normal scale",
+          "press",
+          "speed",
+          "stream",
+          "velocity",
+          "media-speed-1x"
+        ],
+        "uk": [
+          "1кс",
+          "аудіо",
+          "відео",
+          "гонка",
+          "звичайний зум",
+          "контент",
+          "медіа",
+          "одинарний масштаб",
+          "стандартна роздільність",
+          "турбо",
+          "швидкість"
+        ]
+      }
+    }
+  },
+  "media-speed-2x": {
+    "mediaKey": "dbc06c60-962e-4ed4-930a-25f1166b21a7",
+    "i18n": {
+      "name": {
+        "en": "Media speed 2x",
+        "uk": "Швидкість 2×"
+      },
+      "alt": {
+        "en": "Media speed 2x",
+        "uk": "Швидкість 2×"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "2x",
+          "double zoom",
+          "fast",
+          "media",
+          "media hub",
+          "press",
+          "speed",
+          "stream",
+          "velocity",
+          "media-speed-2x"
+        ],
+        "uk": [
+          "2кс",
+          "2х масштаб",
+          "аудіо",
+          "вдвічі більше",
+          "відео",
+          "гонка",
+          "контент",
+          "медіа",
+          "подвійне збільшення",
+          "турбо",
+          "швидкість"
+        ]
+      }
+    }
+  },
+  "media-stop": {
+    "mediaKey": "40ccdca2-5106-4581-b759-ee89ee1238c3",
+    "i18n": {
+      "name": {
+        "en": "Media stop",
+        "uk": "Зупинити медіа"
+      },
+      "alt": {
+        "en": "Media stop",
+        "uk": "Зупинити медіа"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "halt",
+          "media",
+          "media hub",
+          "press",
+          "stop",
+          "stream",
+          "media-stop"
+        ],
+        "uk": [
+          "аудіо",
+          "відео",
+          "заборона",
+          "зупинити",
+          "зупинка",
+          "контент",
+          "медіа",
+          "пауза",
+          "стоп",
+          "стопкадр"
+        ]
+      }
+    }
+  },
+  "media-subtitles": {
+    "mediaKey": "e6e2c49e-a85f-412e-a28d-708d05ab8ff5",
+    "i18n": {
+      "name": {
+        "en": "Media subtitles",
+        "uk": "Субтитри"
+      },
+      "alt": {
+        "en": "Media subtitles",
+        "uk": "Субтитри"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "captions",
+          "cc",
+          "closed captions",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "subtitles",
+          "text overlay",
+          "media-subtitles"
+        ],
+        "uk": [
+          "аудіо",
+          "відео",
+          "контент",
+          "медіа",
+          "переклад",
+          "переклад відео",
+          "субтитри"
+        ]
+      }
+    }
+  },
+  "media-subtitles-active": {
+    "mediaKey": "913992c2-4d18-4dd1-85a0-0525848dc04f",
+    "i18n": {
+      "name": {
+        "en": "Media subtitles active",
+        "uk": "Media subtitles (активна)"
+      },
+      "alt": {
+        "en": "Media subtitles active",
+        "uk": "Media subtitles (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "captions",
+          "cc",
+          "closed captions",
+          "enabled",
+          "media",
+          "media hub",
+          "online",
+          "press",
+          "stream",
+          "subtitles",
+          "text overlay",
+          "media-subtitles-active"
+        ],
+        "uk": [
+          "активний",
+          "аудіо",
+          "в роботі",
+          "відео",
+          "живий статус",
+          "контент",
+          "медіа",
+          "переклад",
+          "переклад відео",
+          "працює",
+          "субтитри",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "media-subtitles-unavailable": {
+    "mediaKey": "d9546267-efc6-4251-9792-09ffcd1f5346",
+    "i18n": {
+      "name": {
+        "en": "Media subtitles unavailable",
+        "uk": "Субтитри недоступні"
+      },
+      "alt": {
+        "en": "Media subtitles unavailable",
+        "uk": "Субтитри недоступні"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "blocked",
+          "busy",
+          "captions",
+          "cc",
+          "closed captions",
+          "down",
+          "media",
+          "media hub",
+          "missing",
+          "not ready",
+          "offline",
+          "press",
+          "stream",
+          "subtitles",
+          "text overlay",
+          "unavailable",
+          "media-subtitles-unavailable"
+        ],
+        "uk": [
+          "аудіо",
+          "відео",
+          "контент",
+          "медіа",
+          "недоступний",
+          "недоступно",
+          "офлайн",
+          "переклад",
+          "переклад відео",
+          "субтитри"
+        ]
+      }
+    }
+  },
+  "media-theater": {
+    "mediaKey": "fe3135f3-6f21-43bd-98e4-7878efe547c4",
+    "i18n": {
+      "name": {
+        "en": "Media theater",
+        "uk": "Режим кінотеатру"
+      },
+      "alt": {
+        "en": "Media theater",
+        "uk": "Режим кінотеатру"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "media",
+          "media hub",
+          "play",
+          "press",
+          "stage",
+          "stream",
+          "theater",
+          "media-theater"
+        ],
+        "uk": [
+          "аудіо",
+          "вистава",
+          "відео",
+          "кінотеатр",
+          "контент",
+          "медіа",
+          "сцена",
+          "театр"
+        ]
+      }
+    }
+  },
+  "media-theater-active": {
+    "mediaKey": "d839827c-d9db-4c72-850f-990b1fb2fecc",
+    "i18n": {
+      "name": {
+        "en": "Media theater active",
+        "uk": "Media theater (активна)"
+      },
+      "alt": {
+        "en": "Media theater active",
+        "uk": "Media theater (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "enabled",
+          "media",
+          "media hub",
+          "online",
+          "play",
+          "press",
+          "stage",
+          "stream",
+          "theater",
+          "media-theater-active"
+        ],
+        "uk": [
+          "активний",
+          "аудіо",
+          "в роботі",
+          "вистава",
+          "відео",
+          "живий статус",
+          "кінотеатр",
+          "контент",
+          "медіа",
+          "працює",
+          "сцена",
+          "театр",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "media-tilgjengelighet-geoblocked": {
+    "mediaKey": "f16e4b35-6f02-496d-aa24-edd0bcac70c7",
+    "i18n": {
+      "name": {
+        "en": "Media tilgjengelighet geoblocked",
+        "uk": "Недоступно у регіоні"
+      },
+      "alt": {
+        "en": "Media tilgjengelighet geoblocked",
+        "uk": "Недоступно у регіоні"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "a11y",
+          "geoblocked",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "tilgjengelighet",
+          "media-tilgjengelighet-geoblocked"
+        ],
+        "uk": [
+          "аудіо",
+          "бренд",
+          "відео",
+          "геоблокування",
+          "доступність",
+          "інклюзивність",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-tilgjengelighet-ikkelengertilgjengelig": {
+    "mediaKey": "08376ed0-f852-41c4-abf3-f58e963249e3",
+    "i18n": {
+      "name": {
+        "en": "Media tilgjengelighet ikkelengertilgjengelig",
+        "uk": "Більше недоступно"
+      },
+      "alt": {
+        "en": "Media tilgjengelighet ikkelengertilgjengelig",
+        "uk": "Більше недоступно"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "a11y",
+          "ikkelengertilgjengelig",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "tilgjengelighet",
+          "media-tilgjengelighet-ikkelengertilgjengelig"
+        ],
+        "uk": [
+          "аудіо",
+          "бренд",
+          "відео",
+          "доступність",
+          "інклюзивність",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-tilgjengelighet-kommer": {
+    "mediaKey": "26aca64b-36f6-41b9-b289-8115b4e9d046",
+    "i18n": {
+      "name": {
+        "en": "Media tilgjengelighet kommer",
+        "uk": "Скоро доступне"
+      },
+      "alt": {
+        "en": "Media tilgjengelighet kommer",
+        "uk": "Скоро доступне"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "a11y",
+          "kommer",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "tilgjengelighet",
+          "media-tilgjengelighet-kommer"
+        ],
+        "uk": [
+          "аудіо",
+          "бренд",
+          "відео",
+          "доступність",
+          "інклюзивність",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-tilgjengelighet-snartutilgjengelig": {
+    "mediaKey": "93d855fc-8b62-4bb4-93fc-0dbc26246cda",
+    "i18n": {
+      "name": {
+        "en": "Media tilgjengelighet snartutilgjengelig",
+        "uk": "Скоро зникне"
+      },
+      "alt": {
+        "en": "Media tilgjengelighet snartutilgjengelig",
+        "uk": "Скоро зникне"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "a11y",
+          "media",
+          "media hub",
+          "press",
+          "snartutilgjengelig",
+          "stream",
+          "tilgjengelighet",
+          "media-tilgjengelighet-snartutilgjengelig"
+        ],
+        "uk": [
+          "аудіо",
+          "бренд",
+          "відео",
+          "доступність",
+          "інклюзивність",
+          "контент",
+          "логотип",
+          "медіа"
+        ]
+      }
+    }
+  },
+  "media-video": {
+    "mediaKey": "d90267bd-463e-4be5-840a-5a80c8ce2ff0",
+    "i18n": {
+      "name": {
+        "en": "Media video",
+        "uk": "Відеофайл"
+      },
+      "alt": {
+        "en": "Media video",
+        "uk": "Відеофайл"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "clip",
+          "media",
+          "media hub",
+          "press",
+          "stream",
+          "video",
+          "media-video"
+        ],
+        "uk": [
+          "аудіо",
+          "відео",
+          "відеозапис",
+          "кліп",
+          "контент",
+          "медіа",
+          "ролик"
+        ]
+      }
+    }
+  },
+  "media-volume-1": {
+    "mediaKey": "b6ebb0bf-d1dd-4968-9d9b-85af5e1de986",
+    "i18n": {
+      "name": {
+        "en": "Media volume 1",
+        "uk": "Гучність"
+      },
+      "alt": {
+        "en": "Media volume 1",
+        "uk": "Гучність"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "1",
+          "loudness",
+          "media",
+          "media hub",
+          "press",
+          "sound level",
+          "stream",
+          "volume",
+          "media-volume-1"
+        ],
+        "uk": [
+          "1",
+          "аудіо",
+          "відео",
+          "гучність",
+          "контент",
+          "медіа",
+          "об'єм",
+          "обсяг",
+          "повзунок",
+          "том"
+        ]
+      }
+    }
+  },
+  "media-volume-2": {
+    "mediaKey": "5100688d-27ca-4ef0-94a7-03f22f8ded15",
+    "i18n": {
+      "name": {
+        "en": "Media volume 2",
+        "uk": "Гучність"
+      },
+      "alt": {
+        "en": "Media volume 2",
+        "uk": "Гучність"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "2",
+          "loudness",
+          "media",
+          "media hub",
+          "press",
+          "sound level",
+          "stream",
+          "volume",
+          "media-volume-2"
+        ],
+        "uk": [
+          "2",
+          "аудіо",
+          "відео",
+          "гучність",
+          "контент",
+          "медіа",
+          "об'єм",
+          "обсяг",
+          "повзунок",
+          "том"
+        ]
+      }
+    }
+  },
+  "media-volume-3": {
+    "mediaKey": "5f68febb-6394-4967-9361-d15dc9ee3871",
+    "i18n": {
+      "name": {
+        "en": "Media volume 3",
+        "uk": "Гучність"
+      },
+      "alt": {
+        "en": "Media volume 3",
+        "uk": "Гучність"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "3",
+          "loudness",
+          "media",
+          "media hub",
+          "press",
+          "sound level",
+          "stream",
+          "volume",
+          "media-volume-3"
+        ],
+        "uk": [
+          "3",
+          "аудіо",
+          "відео",
+          "гучність",
+          "контент",
+          "медіа",
+          "об'єм",
+          "обсяг",
+          "повзунок",
+          "том"
+        ]
+      }
+    }
+  },
+  "media-volume-muted": {
+    "mediaKey": "d94882ea-507e-4c0f-9c9f-85da02895031",
+    "i18n": {
+      "name": {
+        "en": "Media volume muted",
+        "uk": "Гучність вимкнено"
+      },
+      "alt": {
+        "en": "Media volume muted",
+        "uk": "Гучність вимкнено"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "loudness",
+          "media",
+          "media hub",
+          "mute",
+          "muted",
+          "muted icon",
+          "press",
+          "silent",
+          "sound level",
+          "sound off",
+          "stream",
+          "volume",
+          "media-volume-muted"
+        ],
+        "uk": [
+          "аудіо",
+          "без звуку",
+          "вимкнути звук",
+          "відео",
+          "гучність",
+          "контент",
+          "медіа",
+          "об'єм",
+          "обсяг",
+          "повзунок",
+          "приглушено",
+          "том"
+        ]
+      }
+    }
+  },
+  "mening": {
+    "mediaKey": "d3f61b36-b719-4b73-bdec-717da8e431c0",
+    "i18n": {
+      "name": {
+        "en": "Mening",
+        "uk": "Mening"
+      },
+      "alt": {
+        "en": "Mening",
+        "uk": "Mening"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "mening"
+        ],
+        "uk": [
+          "компанія",
+          "менінг",
+          "онлайн",
+          "платформа",
+          "сервіс"
+        ]
+      }
+    }
+  },
+  "minus": {
+    "mediaKey": "ea39544a-118b-4add-8888-56bbdc0c5dbe",
+    "i18n": {
+      "name": {
+        "en": "Minus",
+        "uk": "Мінус"
+      },
+      "alt": {
+        "en": "Minus",
+        "uk": "Мінус"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "minus",
+          "negative",
+          "subtract"
+        ],
+        "uk": [
+          "відняти",
+          "знак мінус",
+          "мінус"
+        ]
+      }
+    }
+  },
+  "more": {
+    "mediaKey": "1b025b9f-979f-4e1f-b9a2-1a72bf654a2c",
+    "i18n": {
+      "name": {
+        "en": "More",
+        "uk": "Ще"
+      },
+      "alt": {
+        "en": "More",
+        "uk": "Ще"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "details",
+          "ellipsis",
+          "expand",
+          "more",
+          "more options"
+        ],
+        "uk": [
+          "більше",
+          "додатково",
+          "ще"
+        ]
+      }
+    }
+  },
+  "more-active": {
+    "mediaKey": "48a1666d-5b09-4cb0-a074-fcde8d4618eb",
+    "i18n": {
+      "name": {
+        "en": "More active",
+        "uk": "More (активна)"
+      },
+      "alt": {
+        "en": "More active",
+        "uk": "More (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "details",
+          "ellipsis",
+          "enabled",
+          "expand",
+          "more",
+          "more options",
+          "online",
+          "more-active"
+        ],
+        "uk": [
+          "активний",
+          "більше",
+          "в роботі",
+          "додатково",
+          "живий статус",
+          "працює",
+          "увімкнений",
+          "ще"
+        ]
+      }
+    }
+  },
+  "new-chat": {
+    "mediaKey": "b991ac82-fcec-44b9-a919-bf8209eee936",
+    "i18n": {
+      "name": {
+        "en": "New chat",
+        "uk": "Новий чат"
+      },
+      "alt": {
+        "en": "New chat",
+        "uk": "Новий чат"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "chat",
+          "conversation",
+          "fresh",
+          "message",
+          "messaging",
+          "messenger",
+          "new",
+          "new badge",
+          "talk",
+          "new-chat"
+        ],
+        "uk": [
+          "діалог",
+          "месенджер",
+          "нев",
+          "новий",
+          "новинка",
+          "переписка",
+          "повідомлення",
+          "розмова",
+          "спілкування",
+          "чат",
+          "чатик"
+        ]
+      }
+    }
+  },
+  "note-1": {
+    "mediaKey": "fd936421-375e-4e4d-b688-c3ad85b2e9dc",
+    "i18n": {
+      "name": {
+        "en": "Note 1",
+        "uk": "Примітка"
+      },
+      "alt": {
+        "en": "Note 1",
+        "uk": "Примітка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "1",
+          "note",
+          "note pad",
+          "sticky note",
+          "note-1"
+        ],
+        "uk": [
+          "1",
+          "нотатка",
+          "ноте",
+          "примітка"
+        ]
+      }
+    }
+  },
+  "note-1-off": {
+    "mediaKey": "7437ec17-fb63-47e5-bbba-1c18f6b0ad82",
+    "i18n": {
+      "name": {
+        "en": "Note 1 off",
+        "uk": "Note 1 (вимкнено)"
+      },
+      "alt": {
+        "en": "Note 1 off",
+        "uk": "Note 1 (вимкнено)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "1",
+          "disabled",
+          "note",
+          "note pad",
+          "off",
+          "off status",
+          "sticky note",
+          "note-1-off"
+        ],
+        "uk": [
+          "1",
+          "вимкнено",
+          "вимкнути",
+          "нотатка",
+          "ноте",
+          "офф",
+          "примітка"
+        ]
+      }
+    }
+  },
+  "note-2": {
+    "mediaKey": "e441d133-5d33-427e-90d5-407e0a90c83e",
+    "i18n": {
+      "name": {
+        "en": "Note 2",
+        "uk": "Примітка"
+      },
+      "alt": {
+        "en": "Note 2",
+        "uk": "Примітка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "2",
+          "note",
+          "note pad",
+          "sticky note",
+          "note-2"
+        ],
+        "uk": [
+          "2",
+          "нотатка",
+          "ноте",
+          "примітка"
+        ]
+      }
+    }
+  },
+  "offline": {
+    "mediaKey": "b37ab617-4942-469f-98dc-bc795f1e1da4",
+    "i18n": {
+      "name": {
+        "en": "Offline",
+        "uk": "Офлайн"
+      },
+      "alt": {
+        "en": "Offline",
+        "uk": "Офлайн"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "airplane mode",
+          "disconnect",
+          "no internet",
+          "offline"
+        ],
+        "uk": [
+          "без зв'язку",
+          "без мережі",
+          "відключений",
+          "офлайн"
+        ]
+      }
+    }
+  },
+  "online": {
+    "mediaKey": "5fdbb726-763e-4db4-a4fc-2884b731314f",
+    "i18n": {
+      "name": {
+        "en": "Online",
+        "uk": "Онлайн"
+      },
+      "alt": {
+        "en": "Online",
+        "uk": "Онлайн"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "connected",
+          "internet",
+          "live",
+          "online",
+          "online status"
+        ],
+        "uk": [
+          "в мережі",
+          "онлайн",
+          "підключено"
+        ]
+      }
+    }
+  },
+  "open-in-new": {
+    "mediaKey": "8de633f7-829a-4cf4-b9ab-164d14b823f7",
+    "i18n": {
+      "name": {
+        "en": "Open in new",
+        "uk": "Відкрити у новому"
+      },
+      "alt": {
+        "en": "Open in new",
+        "uk": "Відкрити у новому"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "fresh",
+          "in",
+          "in icon",
+          "input",
+          "inside",
+          "new",
+          "new badge",
+          "open",
+          "open icon",
+          "open state",
+          "open-in-new"
+        ],
+        "uk": [
+          "в",
+          "відкрити",
+          "відкритий",
+          "всередині",
+          "ін",
+          "нев",
+          "новий",
+          "новинка",
+          "опен"
+        ]
+      }
+    }
+  },
+  "person": {
+    "mediaKey": "bec95bb4-828d-412b-bb08-603ce3fd9fa2",
+    "i18n": {
+      "name": {
+        "en": "Person",
+        "uk": "Людина"
+      },
+      "alt": {
+        "en": "Person",
+        "uk": "Людина"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "account",
+          "avatar",
+          "human",
+          "person",
+          "profile",
+          "user"
+        ],
+        "uk": [
+          "користувач",
+          "людина",
+          "профіль"
+        ]
+      }
+    }
+  },
+  "plus": {
+    "mediaKey": "a4e48fb9-9a06-4372-bae3-95214b2a88c6",
+    "i18n": {
+      "name": {
+        "en": "Plus",
+        "uk": "Плюс"
+      },
+      "alt": {
+        "en": "Plus",
+        "uk": "Плюс"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "+",
+          "plus",
+          "positive"
+        ],
+        "uk": [
+          "+",
+          "додати",
+          "плус",
+          "плюс"
+        ]
+      }
+    }
+  },
+  "poll": {
+    "mediaKey": "36ae5daf-03f4-4f76-91a7-f0c95e149ea9",
+    "i18n": {
+      "name": {
+        "en": "Poll",
+        "uk": "Опитування"
+      },
+      "alt": {
+        "en": "Poll",
+        "uk": "Опитування"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "poll",
+          "survey",
+          "vote"
+        ],
+        "uk": [
+          "голосування",
+          "опитування"
+        ]
+      }
+    }
+  },
+  "progress": {
+    "mediaKey": "f6308a52-cba2-4076-b826-d76b11718eec",
+    "i18n": {
+      "name": {
+        "en": "Progress",
+        "uk": "Прогрес"
+      },
+      "alt": {
+        "en": "Progress",
+        "uk": "Прогрес"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "progress",
+          "progress bar"
+        ],
+        "uk": [
+          "прогрес",
+          "проґресс",
+          "просування"
+        ]
+      }
+    }
+  },
+  "quiz": {
+    "mediaKey": "6c320f8f-e7fd-4ef0-aadd-426784e8826b",
+    "i18n": {
+      "name": {
+        "en": "Quiz",
+        "uk": "Вікторина"
+      },
+      "alt": {
+        "en": "Quiz",
+        "uk": "Вікторина"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "QnA",
+          "quiz",
+          "quiz game",
+          "trivia"
+        ],
+        "uk": [
+          "вікторина",
+          "тест",
+          "тестування"
+        ]
+      }
+    }
+  },
+  "radio-active": {
+    "mediaKey": "5a3ef701-4bd4-4d92-b83b-81be5fdb53a0",
+    "i18n": {
+      "name": {
+        "en": "Radio active",
+        "uk": "Радіо активний"
+      },
+      "alt": {
+        "en": "Radio active",
+        "uk": "Радіо активний"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "enabled",
+          "FM",
+          "online",
+          "radio",
+          "radio waves",
+          "radio-active"
+        ],
+        "uk": [
+          "активний",
+          "в роботі",
+          "живий статус",
+          "працює",
+          "радіо",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "refresh": {
+    "mediaKey": "36a4562e-913b-4727-b406-92419c04cf3f",
+    "i18n": {
+      "name": {
+        "en": "Refresh",
+        "uk": "Оновити"
+      },
+      "alt": {
+        "en": "Refresh",
+        "uk": "Оновити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "refresh",
+          "refresh icon",
+          "reload"
+        ],
+        "uk": [
+          "оновити",
+          "рефреш"
+        ]
+      }
+    }
+  },
+  "refresh-expressive": {
+    "mediaKey": "778b6b8c-9816-48f8-b4ec-4c8d3757ef74",
+    "i18n": {
+      "name": {
+        "en": "Refresh expressive",
+        "uk": "Оновити виразний"
+      },
+      "alt": {
+        "en": "Refresh expressive",
+        "uk": "Оновити виразний"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "expressive",
+          "refresh",
+          "refresh icon",
+          "reload",
+          "refresh-expressive"
+        ],
+        "uk": [
+          "бренд",
+          "виразний",
+          "логотип",
+          "оновити",
+          "рефреш"
+        ]
+      }
+    }
+  },
+  "reload": {
+    "mediaKey": "d043a87d-a34e-46bc-a226-32e129a68655",
+    "i18n": {
+      "name": {
+        "en": "Reload",
+        "uk": "Перезавантажити"
+      },
+      "alt": {
+        "en": "Reload",
+        "uk": "Перезавантажити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "refresh page",
+          "reload",
+          "reload icon"
+        ],
+        "uk": [
+          "перезавантажити",
+          "релоад"
+        ]
+      }
+    }
+  },
+  "reload-expressive": {
+    "mediaKey": "36972f6e-795b-44d2-aa7b-877ceeaf21c4",
+    "i18n": {
+      "name": {
+        "en": "Reload expressive",
+        "uk": "Reload виразний"
+      },
+      "alt": {
+        "en": "Reload expressive",
+        "uk": "Reload виразний"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "expressive",
+          "refresh page",
+          "reload",
+          "reload icon",
+          "reload-expressive"
+        ],
+        "uk": [
+          "бренд",
+          "виразний",
+          "логотип",
+          "перезавантажити",
+          "релоад"
+        ]
+      }
+    }
+  },
+  "reorder": {
+    "mediaKey": "e4fccc58-19e4-4f87-969e-9e40e5ab85c4",
+    "i18n": {
+      "name": {
+        "en": "Reorder",
+        "uk": "Змінити порядок"
+      },
+      "alt": {
+        "en": "Reorder",
+        "uk": "Змінити порядок"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "drag reorder",
+          "reorder",
+          "sort order"
+        ],
+        "uk": [
+          "змінити",
+          "змінити порядок",
+          "перевпорядкувати",
+          "порядок",
+          "реордер"
+        ]
+      }
+    }
+  },
+  "rotate": {
+    "mediaKey": "372e2da3-0d4a-4906-b575-99de99a4d767",
+    "i18n": {
+      "name": {
+        "en": "Rotate",
+        "uk": "Поворот"
+      },
+      "alt": {
+        "en": "Rotate",
+        "uk": "Поворот"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "rotate",
+          "rotate icon",
+          "spin"
+        ],
+        "uk": [
+          "обернути",
+          "обертати",
+          "ротате"
+        ]
+      }
+    }
+  },
+  "search": {
+    "mediaKey": "d3ce018f-0c27-4063-867d-effa9c8b54a9",
+    "i18n": {
+      "name": {
+        "en": "Search",
+        "uk": "Пошук"
+      },
+      "alt": {
+        "en": "Search",
+        "uk": "Пошук"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "search"
+        ],
+        "uk": [
+          "лупа",
+          "пошук",
+          "сеарч",
+          "шукати"
+        ]
+      }
+    }
+  },
+  "search-active": {
+    "mediaKey": "61baeea2-5e15-4497-a176-cd38e4f31662",
+    "i18n": {
+      "name": {
+        "en": "Search active",
+        "uk": "Пошук активний"
+      },
+      "alt": {
+        "en": "Search active",
+        "uk": "Пошук активний"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "enabled",
+          "online",
+          "search",
+          "search-active"
+        ],
+        "uk": [
+          "активний",
+          "в роботі",
+          "живий статус",
+          "лупа",
+          "пошук",
+          "працює",
+          "сеарч",
+          "увімкнений",
+          "шукати"
+        ]
+      }
+    }
+  },
+  "settings": {
+    "mediaKey": "18b05270-1697-4382-88f3-fda6f8405cf6",
+    "i18n": {
+      "name": {
+        "en": "Settings",
+        "uk": "Налаштування"
+      },
+      "alt": {
+        "en": "Settings",
+        "uk": "Налаштування"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⚙️",
+          "options",
+          "preferences",
+          "settings"
+        ],
+        "uk": [
+          "⚙️",
+          "конфігурація",
+          "налаштування",
+          "налаштування системи",
+          "опції",
+          "параметри",
+          "установки"
+        ]
+      }
+    }
+  },
+  "settings-active": {
+    "mediaKey": "a603f245-8b96-498e-b2ad-69337290feb6",
+    "i18n": {
+      "name": {
+        "en": "Settings active",
+        "uk": "Налаштування активний"
+      },
+      "alt": {
+        "en": "Settings active",
+        "uk": "Налаштування активний"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⚙️",
+          "active",
+          "enabled",
+          "online",
+          "options",
+          "preferences",
+          "settings",
+          "settings-active"
+        ],
+        "uk": [
+          "⚙️",
+          "активний",
+          "в роботі",
+          "живий статус",
+          "конфігурація",
+          "налаштування",
+          "налаштування системи",
+          "опції",
+          "параметри",
+          "працює",
+          "увімкнений",
+          "установки"
+        ]
+      }
+    }
+  },
+  "show": {
+    "mediaKey": "1394d79c-a06e-4988-bd97-4b7144eac28f",
+    "i18n": {
+      "name": {
+        "en": "Show",
+        "uk": "Показати"
+      },
+      "alt": {
+        "en": "Show",
+        "uk": "Показати"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "performance",
+          "show"
+        ],
+        "uk": [
+          "виступ",
+          "демонстрація",
+          "показ",
+          "презентація",
+          "шов",
+          "шоу",
+          "шоу-програма"
+        ]
+      }
+    }
+  },
+  "sleep": {
+    "mediaKey": "806dd63a-29b6-438f-b5ad-6b0db0212cb1",
+    "i18n": {
+      "name": {
+        "en": "Sleep",
+        "uk": "Сон"
+      },
+      "alt": {
+        "en": "Sleep",
+        "uk": "Сон"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "sleep",
+          "zzz"
+        ],
+        "uk": [
+          "дрімота",
+          "сон",
+          "спати"
+        ]
+      }
+    }
+  },
+  "some-email": {
+    "mediaKey": "fcf8b19c-0886-4873-ab30-76b7b807c376",
+    "i18n": {
+      "name": {
+        "en": "Some email",
+        "uk": "Поділитися поштою"
+      },
+      "alt": {
+        "en": "Some email",
+        "uk": "Поділитися поштою"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "e-mail",
+          "email",
+          "inbox",
+          "mail",
+          "send mail",
+          "some",
+          "some-email"
+        ],
+        "uk": [
+          "бренд",
+          "деякі",
+          "електронна пошта",
+          "емейл",
+          "лист",
+          "логотип",
+          "мило",
+          "повідомлення",
+          "пошта"
+        ]
+      }
+    }
+  },
+  "some-email-expressive": {
+    "mediaKey": "4dfe5321-faf8-4cde-b929-77ae00365b25",
+    "i18n": {
+      "name": {
+        "en": "Some email expressive",
+        "uk": "Поділитися поштою"
+      },
+      "alt": {
+        "en": "Some email expressive",
+        "uk": "Поділитися поштою"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "e-mail",
+          "email",
+          "expressive",
+          "inbox",
+          "mail",
+          "send mail",
+          "some",
+          "some-email-expressive"
+        ],
+        "uk": [
+          "бренд",
+          "виразний",
+          "деякі",
+          "електронна пошта",
+          "емейл",
+          "лист",
+          "логотип",
+          "мило",
+          "повідомлення",
+          "пошта"
+        ]
+      }
+    }
+  },
+  "some-embed": {
+    "mediaKey": "72ad81f3-a5bc-41b8-aee9-a348a4ec0d7f",
+    "i18n": {
+      "name": {
+        "en": "Some embed",
+        "uk": "Вставити"
+      },
+      "alt": {
+        "en": "Some embed",
+        "uk": "Вставити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "embed",
+          "embed код",
+          "iframe",
+          "insert media",
+          "some",
+          "some-embed"
+        ],
+        "uk": [
+          "бренд",
+          "вбудувати",
+          "вставити",
+          "деякі",
+          "логотип",
+          "embed код"
+        ]
+      }
+    }
+  },
+  "some-facebook": {
+    "mediaKey": "9dbd24e4-5360-4380-a807-b288395fc99b",
+    "i18n": {
+      "name": {
+        "en": "Some facebook",
+        "uk": "Some Facebook"
+      },
+      "alt": {
+        "en": "Some facebook",
+        "uk": "Some Facebook"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "facebook",
+          "facebook app",
+          "facebook blue",
+          "facebook feed",
+          "facebook icon",
+          "facebook logo",
+          "facebook social network",
+          "facebook timeline",
+          "fb",
+          "fb platform",
+          "fb social",
+          "meta",
+          "meta app",
+          "some",
+          "some-facebook"
+        ],
+        "uk": [
+          "бренд",
+          "деякі",
+          "логотип",
+          "соцмережа",
+          "факебоок"
+        ]
+      }
+    }
+  },
+  "some-google": {
+    "mediaKey": "060a08c3-09d8-4431-9fa9-a8c46ef9e99f",
+    "i18n": {
+      "name": {
+        "en": "Some google",
+        "uk": "Some Google"
+      },
+      "alt": {
+        "en": "Some google",
+        "uk": "Some Google"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "alphabet",
+          "google",
+          "google app",
+          "google logo",
+          "search engine",
+          "some",
+          "some-google"
+        ],
+        "uk": [
+          "бренд",
+          "ґооґле",
+          "деякі",
+          "логотип"
+        ]
+      }
+    }
+  },
+  "some-instagram": {
+    "mediaKey": "fe852178-98ce-475b-b98e-00bd65cb8a3d",
+    "i18n": {
+      "name": {
+        "en": "Some instagram",
+        "uk": "Some Instagram"
+      },
+      "alt": {
+        "en": "Some instagram",
+        "uk": "Some Instagram"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "ig",
+          "instagram",
+          "instagram logo",
+          "instagram stories",
+          "some",
+          "some-instagram"
+        ],
+        "uk": [
+          "бренд",
+          "деякі",
+          "інста",
+          "інстаґрам",
+          "логотип"
+        ]
+      }
+    }
+  },
+  "some-pinterest": {
+    "mediaKey": "9eaee251-298f-449a-8dd3-f9e7cc1de7dd",
+    "i18n": {
+      "name": {
+        "en": "Some pinterest",
+        "uk": "Some Pinterest"
+      },
+      "alt": {
+        "en": "Some pinterest",
+        "uk": "Some Pinterest"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "pinboard",
+          "pinterest",
+          "pinterest app",
+          "Pinterest logo",
+          "some",
+          "some-pinterest"
+        ],
+        "uk": [
+          "бренд",
+          "деякі",
+          "логотип",
+          "пінтерест"
+        ]
+      }
+    }
+  },
+  "some-share": {
+    "mediaKey": "57ac2ca8-d10e-4c65-aaa8-80f08af7734a",
+    "i18n": {
+      "name": {
+        "en": "Some share",
+        "uk": "Поділитися"
+      },
+      "alt": {
+        "en": "Some share",
+        "uk": "Поділитися"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "distribute",
+          "share",
+          "some",
+          "some-share"
+        ],
+        "uk": [
+          "бренд",
+          "деякі",
+          "логотип",
+          "поділ",
+          "поділитися",
+          "поширити",
+          "поширити 🔗",
+          "розшарити",
+          "частка",
+          "шер",
+          "шерінг"
+        ]
+      }
+    }
+  },
+  "some-share-ios": {
+    "mediaKey": "a2e8d43c-ad42-48b2-91dd-e9a4020ac128",
+    "i18n": {
+      "name": {
+        "en": "Some share ios",
+        "uk": "Поділитися (iOS)"
+      },
+      "alt": {
+        "en": "Some share ios",
+        "uk": "Поділитися (iOS)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "apple ios",
+          "distribute",
+          "ios",
+          "ios icon",
+          "iphone system",
+          "mobile os",
+          "share",
+          "some",
+          "some-share-ios"
+        ],
+        "uk": [
+          "бренд",
+          "деякі",
+          "іос",
+          "логотип",
+          "поділ",
+          "поділитися",
+          "поширити",
+          "поширити 🔗",
+          "розшарити",
+          "частка",
+          "шер",
+          "шерінг"
+        ]
+      }
+    }
+  },
+  "some-snapchat": {
+    "mediaKey": "3f77c984-bf1f-482a-b41c-40b2c9fe9dc7",
+    "i18n": {
+      "name": {
+        "en": "Some snapchat",
+        "uk": "Some Snapchat"
+      },
+      "alt": {
+        "en": "Some snapchat",
+        "uk": "Some Snapchat"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "соцмережа Snapchat",
+          "snap",
+          "snapchat",
+          "some",
+          "some-snapchat"
+        ],
+        "uk": [
+          "бренд",
+          "деякі",
+          "логотип",
+          "миттєві фото",
+          "снапчат",
+          "соцмережа Snapchat",
+          "сторіс",
+          "фільтри"
+        ]
+      }
+    }
+  },
+  "some-tommelned": {
+    "mediaKey": "d773026b-1319-45c2-a444-560253e8e3e9",
+    "i18n": {
+      "name": {
+        "en": "Some tommelned",
+        "uk": "Палець вниз"
+      },
+      "alt": {
+        "en": "Some tommelned",
+        "uk": "Палець вниз"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "some",
+          "tommelned",
+          "some-tommelned"
+        ],
+        "uk": [
+          "бренд",
+          "деякі",
+          "логотип",
+          "палець вниз"
+        ]
+      }
+    }
+  },
+  "some-tommelned-active": {
+    "mediaKey": "80f7bd60-ab68-4a6b-94d0-662712772f96",
+    "i18n": {
+      "name": {
+        "en": "Some tommelned active",
+        "uk": "Палець вниз (активна)"
+      },
+      "alt": {
+        "en": "Some tommelned active",
+        "uk": "Палець вниз (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "enabled",
+          "online",
+          "some",
+          "tommelned",
+          "some-tommelned-active"
+        ],
+        "uk": [
+          "активний",
+          "бренд",
+          "в роботі",
+          "деякі",
+          "живий статус",
+          "логотип",
+          "палець вниз",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "some-tommelopp": {
+    "mediaKey": "9bd8145d-4b79-41a4-81ba-d412910266ec",
+    "i18n": {
+      "name": {
+        "en": "Some tommelopp",
+        "uk": "Палець вгору"
+      },
+      "alt": {
+        "en": "Some tommelopp",
+        "uk": "Палець вгору"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "some",
+          "tommelopp",
+          "some-tommelopp"
+        ],
+        "uk": [
+          "бренд",
+          "деякі",
+          "логотип",
+          "палець вгору"
+        ]
+      }
+    }
+  },
+  "some-tommelopp-active": {
+    "mediaKey": "efcead5d-84c3-482e-a713-8bab092d9c51",
+    "i18n": {
+      "name": {
+        "en": "Some tommelopp active",
+        "uk": "Палець вгору (активна)"
+      },
+      "alt": {
+        "en": "Some tommelopp active",
+        "uk": "Палець вгору (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "enabled",
+          "online",
+          "some",
+          "tommelopp",
+          "some-tommelopp-active"
+        ],
+        "uk": [
+          "активний",
+          "бренд",
+          "в роботі",
+          "деякі",
+          "живий статус",
+          "логотип",
+          "палець вгору",
+          "працює",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "some-twitter": {
+    "mediaKey": "6d15751d-09e2-4ed4-b64c-b40cdf658365",
+    "i18n": {
+      "name": {
+        "en": "Some twitter",
+        "uk": "Some Twitter"
+      },
+      "alt": {
+        "en": "Some twitter",
+        "uk": "Some Twitter"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "microblog",
+          "some",
+          "tweet",
+          "twitter",
+          "X",
+          "some-twitter"
+        ],
+        "uk": [
+          "бренд",
+          "деякі",
+          "логотип",
+          "соцмережа",
+          "твіти"
+        ]
+      }
+    }
+  },
+  "some-youtube": {
+    "mediaKey": "98895ca6-5eed-4383-81de-c04214e4bcda",
+    "i18n": {
+      "name": {
+        "en": "Some youtube",
+        "uk": "Some YouTube"
+      },
+      "alt": {
+        "en": "Some youtube",
+        "uk": "Some YouTube"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "some",
+          "youtube",
+          "yt",
+          "some-youtube"
+        ],
+        "uk": [
+          "бренд",
+          "відео",
+          "деякі",
+          "канал",
+          "логотип",
+          "стрім",
+          "ютуб"
+        ]
+      }
+    }
+  },
+  "spinner": {
+    "mediaKey": "38af5aab-8be5-48df-b062-475d3f50d018",
+    "i18n": {
+      "name": {
+        "en": "Spinner",
+        "uk": "Спінер"
+      },
+      "alt": {
+        "en": "Spinner",
+        "uk": "Спінер"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "fidget",
+          "loader",
+          "loading icon",
+          "spinner"
+        ],
+        "uk": [
+          "індикатор завантаження",
+          "крутилка",
+          "спінер"
+        ]
+      }
+    }
+  },
+  "star": {
+    "mediaKey": "44b2d3fe-6aee-46fc-8ba0-5fd0bed14ddb",
+    "i18n": {
+      "name": {
+        "en": "Star",
+        "uk": "Зірка"
+      },
+      "alt": {
+        "en": "Star",
+        "uk": "Зірка"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⭐",
+          "favorite",
+          "star"
+        ],
+        "uk": [
+          "⭐",
+          "відмітити",
+          "зірка",
+          "зоря",
+          "улюблене"
+        ]
+      }
+    }
+  },
+  "star-active": {
+    "mediaKey": "47e1cabd-e2aa-4309-8580-c8ab2837ae80",
+    "i18n": {
+      "name": {
+        "en": "Star active",
+        "uk": "Зірка активна"
+      },
+      "alt": {
+        "en": "Star active",
+        "uk": "Зірка активна"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "⭐",
+          "active",
+          "enabled",
+          "favorite",
+          "online",
+          "star",
+          "star-active"
+        ],
+        "uk": [
+          "⭐",
+          "активний",
+          "в роботі",
+          "відмітити",
+          "живий статус",
+          "зірка",
+          "зоря",
+          "працює",
+          "увімкнений",
+          "улюблене"
+        ]
+      }
+    }
+  },
+  "super-emoji-poop-angry": {
+    "mediaKey": "af1c4558-92b7-4a53-b9a0-c332345c20b1",
+    "i18n": {
+      "name": {
+        "en": "Super emoji poop angry",
+        "uk": "Супер емодзі сердитий кал"
+      },
+      "alt": {
+        "en": "Super emoji poop angry",
+        "uk": "Супер емодзі сердитий кал"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "💩",
+          "angry",
+          "angry face",
+          "blockchain",
+          "coin",
+          "crypto",
+          "cryptocurrency",
+          "emoji",
+          "emoji icon",
+          "emoticon",
+          "face icon",
+          "poo emoji",
+          "poop",
+          "rage",
+          "smiley",
+          "super",
+          "token",
+          "super-emoji-poop-angry"
+        ],
+        "uk": [
+          "💩",
+          "альта",
+          "анґрй",
+          "блокчейн",
+          "валюта",
+          "відходи",
+          "екскременти",
+          "емоджі",
+          "емодзі",
+          "емоційна піктограма",
+          "злий",
+          "злість",
+          "кака",
+          "какулі",
+          "коін",
+          "крипта",
+          "криптовалюта",
+          "монета",
+          "роздратування",
+          "токен",
+          "усміх смайлик",
+          "фекалії"
+        ]
+      }
+    }
+  },
+  "tilgjengelighet": {
+    "mediaKey": "f069b8a0-041c-4dc9-91a7-bf5de71dceb4",
+    "i18n": {
+      "name": {
+        "en": "Tilgjengelighet",
+        "uk": "Tilgjengelighet"
+      },
+      "alt": {
+        "en": "Tilgjengelighet",
+        "uk": "Tilgjengelighet"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "a11y",
+          "tilgjengelighet"
+        ],
+        "uk": [
+          "доступність",
+          "інклюзивність"
+        ]
+      }
+    }
+  },
+  "tilgjengelighet-horbarhet": {
+    "mediaKey": "d3fcfad6-7944-4ab6-855f-5b88c30fbf67",
+    "i18n": {
+      "name": {
+        "en": "Tilgjengelighet horbarhet",
+        "uk": "Доступність (звуковий опис)"
+      },
+      "alt": {
+        "en": "Tilgjengelighet horbarhet",
+        "uk": "Доступність (звуковий опис)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "a11y",
+          "horbarhet",
+          "tilgjengelighet",
+          "tilgjengelighet-horbarhet"
+        ],
+        "uk": [
+          "бренд",
+          "доступність",
+          "інклюзивність",
+          "логотип"
+        ]
+      }
+    }
+  },
+  "tilgjengelighet-lydtekst": {
+    "mediaKey": "92a3f31f-4599-4640-8a02-61ec8bbd7ea5",
+    "i18n": {
+      "name": {
+        "en": "Tilgjengelighet lydtekst",
+        "uk": "Доступність (аудіотекст)"
+      },
+      "alt": {
+        "en": "Tilgjengelighet lydtekst",
+        "uk": "Доступність (аудіотекст)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "a11y",
+          "lydtekst",
+          "tilgjengelighet",
+          "tilgjengelighet-lydtekst"
+        ],
+        "uk": [
+          "бренд",
+          "доступність",
+          "інклюзивність",
+          "логотип"
+        ]
+      }
+    }
+  },
+  "tilgjengelighet-synstolking": {
+    "mediaKey": "34c1e40e-136e-4f10-a394-2b920178ca3b",
+    "i18n": {
+      "name": {
+        "en": "Tilgjengelighet synstolking",
+        "uk": "Доступність (тифлокоментар)"
+      },
+      "alt": {
+        "en": "Tilgjengelighet synstolking",
+        "uk": "Доступність (тифлокоментар)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "a11y",
+          "synstolking",
+          "tilgjengelighet",
+          "tilgjengelighet-synstolking"
+        ],
+        "uk": [
+          "доступність",
+          "інклюзивність",
+          "обговорення",
+          "розмова",
+          "синхронізація",
+          "чат"
+        ]
+      }
+    }
+  },
+  "tilgjengelighet-tegnspraak": {
+    "mediaKey": "6b8db279-d4f0-4d27-97e2-aefe0e854339",
+    "i18n": {
+      "name": {
+        "en": "Tilgjengelighet tegnspraak",
+        "uk": "Доступність (жестова мова)"
+      },
+      "alt": {
+        "en": "Tilgjengelighet tegnspraak",
+        "uk": "Доступність (жестова мова)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "a11y",
+          "tegnspraak",
+          "tilgjengelighet",
+          "tilgjengelighet-tegnspraak"
+        ],
+        "uk": [
+          "бренд",
+          "доступність",
+          "інклюзивність",
+          "логотип"
+        ]
+      }
+    }
+  },
+  "trash": {
+    "mediaKey": "e1bf890f-917d-435f-8e16-0acd31aee7ab",
+    "i18n": {
+      "name": {
+        "en": "Trash",
+        "uk": "Сміття"
+      },
+      "alt": {
+        "en": "Trash",
+        "uk": "Сміття"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bin",
+          "delete",
+          "trash"
+        ],
+        "uk": [
+          "видалити",
+          "корзина",
+          "кошик",
+          "сміття"
+        ]
+      }
+    }
+  },
+  "trash-active": {
+    "mediaKey": "2a38bf19-d16a-4ce0-a0c3-935aaad55976",
+    "i18n": {
+      "name": {
+        "en": "Trash active",
+        "uk": "Кошик"
+      },
+      "alt": {
+        "en": "Trash active",
+        "uk": "Кошик"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "active",
+          "bin",
+          "delete",
+          "enabled",
+          "online",
+          "trash",
+          "trash-active"
+        ],
+        "uk": [
+          "активний",
+          "в роботі",
+          "видалити",
+          "живий статус",
+          "корзина",
+          "кошик",
+          "працює",
+          "сміття",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "unlock": {
+    "mediaKey": "5b8dc6bb-976a-4bb6-8881-fd826bf0d09f",
+    "i18n": {
+      "name": {
+        "en": "Unlock",
+        "uk": "Розблокувати"
+      },
+      "alt": {
+        "en": "Unlock",
+        "uk": "Розблокувати"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "access",
+          "free access",
+          "key",
+          "key unlock",
+          "lock open",
+          "open lock",
+          "security",
+          "unlock",
+          "unlock icon"
+        ],
+        "uk": [
+          "відкрити",
+          "відкрити замок",
+          "доступ відкрито",
+          "зняти блокування",
+          "розблокувати"
+        ]
+      }
+    }
+  },
+  "unlock-active": {
+    "mediaKey": "7be58b9b-5d81-415e-b6b9-a744b16fb5e8",
+    "i18n": {
+      "name": {
+        "en": "Unlock active",
+        "uk": "Відкритий замок (активна)"
+      },
+      "alt": {
+        "en": "Unlock active",
+        "uk": "Відкритий замок (активна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "access",
+          "active",
+          "enabled",
+          "free access",
+          "key",
+          "key unlock",
+          "lock open",
+          "online",
+          "open lock",
+          "security",
+          "unlock",
+          "unlock icon",
+          "unlock-active"
+        ],
+        "uk": [
+          "активний",
+          "в роботі",
+          "відкрити",
+          "відкрити замок",
+          "доступ відкрито",
+          "живий статус",
+          "зняти блокування",
+          "працює",
+          "розблокувати",
+          "увімкнений"
+        ]
+      }
+    }
+  },
+  "upload": {
+    "mediaKey": "37bccd05-65ec-4bf5-a2b6-b6da4369b433",
+    "i18n": {
+      "name": {
+        "en": "Upload",
+        "uk": "Завантажити"
+      },
+      "alt": {
+        "en": "Upload",
+        "uk": "Завантажити"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "send file",
+          "upload"
+        ],
+        "uk": [
+          "аплоад",
+          "відправити файл",
+          "завантаження",
+          "завантажити",
+          "залити"
+        ]
+      }
+    }
+  },
+  "user-avatar": {
+    "mediaKey": "f70e6ba2-be97-4f4a-9427-c43c0015465b",
+    "i18n": {
+      "name": {
+        "en": "User avatar",
+        "uk": "Аватар користувача"
+      },
+      "alt": {
+        "en": "User avatar",
+        "uk": "Аватар користувача"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "account",
+          "avatar",
+          "client",
+          "profile",
+          "profile picture",
+          "user",
+          "userpic",
+          "user-avatar"
+        ],
+        "uk": [
+          "аватар",
+          "акаунт",
+          "іконка користувача",
+          "користувач",
+          "користувача",
+          "профіль",
+          "юзер"
+        ]
+      }
+    }
+  },
+  "user-avatar-expressive": {
+    "mediaKey": "13829919-0c47-49fd-b4f0-06d5fe0af394",
+    "i18n": {
+      "name": {
+        "en": "User avatar expressive",
+        "uk": "Аватар (виразна)"
+      },
+      "alt": {
+        "en": "User avatar expressive",
+        "uk": "Аватар (виразна)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "account",
+          "avatar",
+          "client",
+          "expressive",
+          "profile",
+          "profile picture",
+          "user",
+          "userpic",
+          "user-avatar-expressive"
+        ],
+        "uk": [
+          "аватар",
+          "акаунт",
+          "бренд",
+          "виразний",
+          "іконка користувача",
+          "користувач",
+          "користувача",
+          "логотип",
+          "профіль",
+          "юзер"
+        ]
+      }
+    }
+  },
+  "user-loggedin": {
+    "mediaKey": "16804cd4-41be-40a6-8272-941ec5dddb11",
+    "i18n": {
+      "name": {
+        "en": "User loggedin",
+        "uk": "Користувач увійшов"
+      },
+      "alt": {
+        "en": "User loggedin",
+        "uk": "Користувач увійшов"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "account",
+          "client",
+          "loggedin",
+          "profile",
+          "user",
+          "user-loggedin"
+        ],
+        "uk": [
+          "акаунт",
+          "бренд",
+          "користувач",
+          "користувача",
+          "логотип",
+          "увійшов",
+          "юзер"
+        ]
+      }
+    }
+  },
+  "user-loggedin-active": {
+    "mediaKey": "1be5bba8-d481-4c49-a3a1-caa6bebc3780",
+    "i18n": {
+      "name": {
+        "en": "User loggedin active",
+        "uk": "Користувач увійшов (активний)"
+      },
+      "alt": {
+        "en": "User loggedin active",
+        "uk": "Користувач увійшов (активний)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "account",
+          "active",
+          "client",
+          "enabled",
+          "loggedin",
+          "online",
+          "profile",
+          "user",
+          "user-loggedin-active"
+        ],
+        "uk": [
+          "акаунт",
+          "активний",
+          "бренд",
+          "в роботі",
+          "живий статус",
+          "користувач",
+          "користувача",
+          "логотип",
+          "працює",
+          "увійшов",
+          "увімкнений",
+          "юзер"
+        ]
+      }
+    }
+  },
+  "user-notloggedin": {
+    "mediaKey": "6966050e-e35b-4de5-8f83-81617576dbd2",
+    "i18n": {
+      "name": {
+        "en": "User notloggedin",
+        "uk": "Користувач не увійшов"
+      },
+      "alt": {
+        "en": "User notloggedin",
+        "uk": "Користувач не увійшов"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "account",
+          "client",
+          "notloggedin",
+          "profile",
+          "sign in",
+          "user",
+          "user-notloggedin"
+        ],
+        "uk": [
+          "акаунт",
+          "вхід",
+          "гість",
+          "користувач",
+          "користувача",
+          "логін",
+          "не авторизовано",
+          "не увійшов",
+          "увійти",
+          "юзер"
+        ]
+      }
+    }
+  },
+  "user-notloggedin-active": {
+    "mediaKey": "061e45ea-ffef-4f90-ba10-2d3136209187",
+    "i18n": {
+      "name": {
+        "en": "User notloggedin active",
+        "uk": "Користувач не увійшов (активний)"
+      },
+      "alt": {
+        "en": "User notloggedin active",
+        "uk": "Користувач не увійшов (активний)"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "account",
+          "active",
+          "client",
+          "enabled",
+          "notloggedin",
+          "online",
+          "profile",
+          "sign in",
+          "user",
+          "user-notloggedin-active"
+        ],
+        "uk": [
+          "акаунт",
+          "активний",
+          "в роботі",
+          "вхід",
+          "гість",
+          "живий статус",
+          "користувач",
+          "користувача",
+          "логін",
+          "не авторизовано",
+          "не увійшов",
+          "працює",
+          "увійти",
+          "увімкнений",
+          "юзер"
+        ]
+      }
+    }
+  },
+  "warning": {
+    "mediaKey": "b4d948d9-2197-4394-bcc3-c4554e32f441",
+    "i18n": {
+      "name": {
+        "en": "Warning",
+        "uk": "Попередження"
+      },
+      "alt": {
+        "en": "Warning",
+        "uk": "Попередження"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "alert",
+          "danger",
+          "exclamation",
+          "warning",
+          "warning sign"
+        ],
+        "uk": [
+          "застереження",
+          "попередження",
+          "увага"
+        ]
+      }
+    }
+  }
+}

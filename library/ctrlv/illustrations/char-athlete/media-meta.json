@@ -1,0 +1,97 @@
+{
+  "slug": "char-athlete",
+  "mediaKey": "5bd6d70b-338d-4e75-b587-932768bbb556",
+  "i18n": {
+    "name": {
+      "en": "Athlete",
+      "uk": "Спортсмен"
+    },
+    "alt": {
+      "en": "Athlete",
+      "uk": "Спортсмен"
+    },
+    "tags": [
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      },
+      {
+        "key": "athlete",
+        "i18n": {
+          "en": "athlete",
+          "uk": "атлет"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "sports",
+          "uk": "спорт"
+        }
+      },
+      {
+        "key": "winner",
+        "i18n": {
+          "en": "winner",
+          "uk": "переможець"
+        }
+      },
+      {
+        "key": "trophy",
+        "i18n": {
+          "en": "trophy",
+          "uk": "трофей"
+        }
+      },
+      {
+        "key": "medal",
+        "i18n": {
+          "en": "medal",
+          "uk": "медаль"
+        }
+      },
+      {
+        "key": "stadium",
+        "i18n": {
+          "en": "stadium",
+          "uk": "стадіон"
+        }
+      },
+      {
+        "key": "track",
+        "i18n": {
+          "en": "track",
+          "uk": "трек"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/char-athlete",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

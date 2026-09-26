@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-39411015",
+  "mediaKey": "pexels:39411015",
+  "i18n": {
+    "name": {
+      "en": "Jellyfish glowing in dark water",
+      "uk": "Медузи, що світяться у темній воді"
+    },
+    "alt": {
+      "en": "Captivating light display of jellyfish glowing vividly in a dark aquarium.",
+      "uk": "Захоплююче світлове шоу медуз, що яскраво світяться в темному акваріумі."
+    },
+    "tags": [
+      {
+        "key": "jellyfish",
+        "i18n": {
+          "en": "jellyfish",
+          "uk": "медуза"
+        }
+      },
+      {
+        "key": "underwater",
+        "i18n": {
+          "en": "underwater",
+          "uk": "під водою"
+        }
+      },
+      {
+        "key": "aquatic",
+        "i18n": {
+          "en": "aquatic",
+          "uk": "водний"
+        }
+      },
+      {
+        "key": "glowing",
+        "i18n": {
+          "en": "glowing",
+          "uk": "світіння"
+        }
+      },
+      {
+        "key": "dark-background",
+        "i18n": {
+          "en": "dark background",
+          "uk": "темний фон"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "animals"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/vivid-jellyfish-illuminated-in-dark-aquarium-39411015/",
+  "sourceName": "Pexels",
+  "authorName": "Meryem Şahin",
+  "authorUrl": "https://www.pexels.com/@bigparadox",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

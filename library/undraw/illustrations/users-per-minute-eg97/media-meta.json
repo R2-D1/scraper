@@ -1,0 +1,70 @@
+{
+  "slug": "users-per-minute-eg97",
+  "mediaKey": "4a45e43a-5aad-436c-adc1-9d807dc99c0c",
+  "providerId": "663b958779c7d300169ffef7",
+  "i18n": {
+    "name": {
+      "en": "Users Per Minute",
+      "uk": "Кількість користувачів на хвилину"
+    },
+    "alt": {
+      "en": "Users Per Minute",
+      "uk": "Кількість користувачів на хвилину"
+    },
+    "tags": [
+      {
+        "key": "users-per-minute",
+        "i18n": {
+          "en": "Users Per Minute",
+          "uk": "Кількість користувачів на хвилину"
+        }
+      },
+      {
+        "key": "users",
+        "i18n": {
+          "en": "users",
+          "uk": "користувачів"
+        }
+      },
+      {
+        "key": "per",
+        "i18n": {
+          "en": "per",
+          "uk": "per"
+        }
+      },
+      {
+        "key": "minute",
+        "i18n": {
+          "en": "minute",
+          "uk": "хвилина"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/users-per-minute_eg97.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 679,
+  "height": 366
+}

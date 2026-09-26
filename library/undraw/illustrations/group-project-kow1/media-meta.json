@@ -1,0 +1,63 @@
+{
+  "slug": "group-project-kow1",
+  "mediaKey": "7be4dec4-6cb9-4a47-a100-3b880c6bbdd0",
+  "providerId": "68911e73f12aeced017640c9",
+  "i18n": {
+    "name": {
+      "en": "Group Project",
+      "uk": "Груповий проект"
+    },
+    "alt": {
+      "en": "Group Project",
+      "uk": "Груповий проект"
+    },
+    "tags": [
+      {
+        "key": "group-project",
+        "i18n": {
+          "en": "Group Project",
+          "uk": "Груповий проект"
+        }
+      },
+      {
+        "key": "group",
+        "i18n": {
+          "en": "group",
+          "uk": "група"
+        }
+      },
+      {
+        "key": "project",
+        "i18n": {
+          "en": "project",
+          "uk": "проєкт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/group-project_kow1.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 965,
+  "height": 624
+}

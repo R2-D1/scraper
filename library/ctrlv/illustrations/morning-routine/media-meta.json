@@ -1,0 +1,97 @@
+{
+  "slug": "morning-routine",
+  "mediaKey": "a70871f7-00f1-4940-b0ad-724f83b2692f",
+  "i18n": {
+    "name": {
+      "en": "Cozy Morning",
+      "uk": "Затишний ранок"
+    },
+    "alt": {
+      "en": "Cozy Morning",
+      "uk": "Затишний ранок"
+    },
+    "tags": [
+      {
+        "key": "morning",
+        "i18n": {
+          "en": "morning",
+          "uk": "ранок"
+        }
+      },
+      {
+        "key": "coffee",
+        "i18n": {
+          "en": "coffee",
+          "uk": "кава"
+        }
+      },
+      {
+        "key": "sun",
+        "i18n": {
+          "en": "sun",
+          "uk": "сонце"
+        }
+      },
+      {
+        "key": "routine",
+        "i18n": {
+          "en": "routine",
+          "uk": "рутина"
+        }
+      },
+      {
+        "key": "wake-up",
+        "i18n": {
+          "en": "wake up",
+          "uk": "прокинутися"
+        }
+      },
+      {
+        "key": "start",
+        "i18n": {
+          "en": "start",
+          "uk": "початок"
+        }
+      },
+      {
+        "key": "sunrise",
+        "i18n": {
+          "en": "sunrise",
+          "uk": "схід сонця"
+        }
+      },
+      {
+        "key": "cozy",
+        "i18n": {
+          "en": "cozy",
+          "uk": "затишний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/morning-routine",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

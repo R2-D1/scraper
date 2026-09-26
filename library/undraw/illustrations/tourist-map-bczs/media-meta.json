@@ -1,0 +1,63 @@
+{
+  "slug": "tourist-map-bczs",
+  "mediaKey": "fea473d8-bcb6-4c96-be65-7576b2a7967e",
+  "providerId": "5ff4483779bbc40017dc8734",
+  "i18n": {
+    "name": {
+      "en": "Tourist map",
+      "uk": "Туристична карта"
+    },
+    "alt": {
+      "en": "Tourist map",
+      "uk": "Туристична карта"
+    },
+    "tags": [
+      {
+        "key": "tourist-map",
+        "i18n": {
+          "en": "Tourist map",
+          "uk": "Туристична карта"
+        }
+      },
+      {
+        "key": "tourist",
+        "i18n": {
+          "en": "tourist",
+          "uk": "Ілюстрація: tourist"
+        }
+      },
+      {
+        "key": "map",
+        "i18n": {
+          "en": "map",
+          "uk": "карта"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/tourist-map_bczs.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 721,
+  "height": 583
+}

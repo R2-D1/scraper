@@ -1,0 +1,83 @@
+{
+  "slug": "emoji-nerd",
+  "mediaKey": "70a31cad-9236-4ae9-9369-446f2a36b942",
+  "i18n": {
+    "name": {
+      "en": "Nerd Emoji",
+      "uk": "Емоджі «ботанік»"
+    },
+    "alt": {
+      "en": "Nerd Emoji",
+      "uk": "Емоджі «ботанік»"
+    },
+    "tags": [
+      {
+        "key": "emoji",
+        "i18n": {
+          "en": "emoji",
+          "uk": "емодзі"
+        }
+      },
+      {
+        "key": "nerd",
+        "i18n": {
+          "en": "nerd",
+          "uk": "ботанік"
+        }
+      },
+      {
+        "key": "face",
+        "i18n": {
+          "en": "face",
+          "uk": "обличчя"
+        }
+      },
+      {
+        "key": "glasses",
+        "i18n": {
+          "en": "glasses",
+          "uk": "окуляри"
+        }
+      },
+      {
+        "key": "geek",
+        "i18n": {
+          "en": "geek",
+          "uk": "гік"
+        }
+      },
+      {
+        "key": "teeth",
+        "i18n": {
+          "en": "teeth",
+          "uk": "зуби"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emoji-nerd",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

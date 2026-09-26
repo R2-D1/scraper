@@ -1,0 +1,63 @@
+{
+  "slug": "playing-cards-yoqo",
+  "mediaKey": "5c94fa4a-81e9-4b6d-b042-2a628f608059",
+  "providerId": "5cf80000b920bf0015451a3b",
+  "i18n": {
+    "name": {
+      "en": "Playing cards",
+      "uk": "Гральні карти"
+    },
+    "alt": {
+      "en": "Playing cards",
+      "uk": "Гральні карти"
+    },
+    "tags": [
+      {
+        "key": "playing-cards",
+        "i18n": {
+          "en": "Playing cards",
+          "uk": "Гральні карти"
+        }
+      },
+      {
+        "key": "playing",
+        "i18n": {
+          "en": "playing",
+          "uk": "грає"
+        }
+      },
+      {
+        "key": "cards",
+        "i18n": {
+          "en": "cards",
+          "uk": "картки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/playing-cards_yoqo.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 921,
+  "height": 648
+}

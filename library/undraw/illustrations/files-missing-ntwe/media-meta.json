@@ -1,0 +1,63 @@
+{
+  "slug": "files-missing-ntwe",
+  "mediaKey": "31d91286-8487-4c46-9082-6ac0dd9b7886",
+  "providerId": "69eaa48879740242d59ddaf4",
+  "i18n": {
+    "name": {
+      "en": "Files Missing",
+      "uk": "Відсутні файли"
+    },
+    "alt": {
+      "en": "Files Missing",
+      "uk": "Відсутні файли"
+    },
+    "tags": [
+      {
+        "key": "files-missing",
+        "i18n": {
+          "en": "Files Missing",
+          "uk": "Відсутні файли"
+        }
+      },
+      {
+        "key": "files",
+        "i18n": {
+          "en": "files",
+          "uk": "файли"
+        }
+      },
+      {
+        "key": "missing",
+        "i18n": {
+          "en": "missing",
+          "uk": "відсутній"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/files-missing_ntwe.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1009,
+  "height": 880
+}

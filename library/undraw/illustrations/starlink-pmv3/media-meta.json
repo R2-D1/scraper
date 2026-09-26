@@ -1,0 +1,49 @@
+{
+  "slug": "starlink-pmv3",
+  "mediaKey": "ad299316-d08b-414c-b891-bf29b76afe8a",
+  "providerId": "61f7b15bcb672d00186f41e5",
+  "i18n": {
+    "name": {
+      "en": "Starlink",
+      "uk": "Starlink"
+    },
+    "alt": {
+      "en": "Starlink",
+      "uk": "Starlink"
+    },
+    "tags": [
+      {
+        "key": "starlink",
+        "i18n": {
+          "en": "Starlink",
+          "uk": "Starlink"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/starlink_pmv3.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 880,
+  "height": 739
+}

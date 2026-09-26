@@ -1,0 +1,77 @@
+{
+  "slug": "abstract-blurred-scene-a4pt3",
+  "mediaKey": "c8c30b2a-da31-4d86-9a36-54a1d4630ace",
+  "i18n": {
+    "name": {
+      "en": "Abstract Blurred Scene",
+      "uk": "Абстрактна розмита сцена"
+    },
+    "alt": {
+      "en": "Abstract Blurred Scene",
+      "uk": "Абстрактна розмита сцена"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "blurred",
+        "i18n": {
+          "en": "Blurred",
+          "uk": "Розмитий"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "Gradient",
+          "uk": "Градієнт"
+        }
+      },
+      {
+        "key": "red-white-blue",
+        "i18n": {
+          "en": "red white blue",
+          "uk": "червоний білий синій"
+        }
+      },
+      {
+        "key": "unfocused",
+        "i18n": {
+          "en": "unfocused",
+          "uk": "нефокусований"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/illustration/abstract-blurred-scene-a4pt3",
+  "sourceName": "Lummi",
+  "authorName": "Pablo Stanley",
+  "authorUrl": "https://www.lummi.ai/creator/pablostanley?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "The image is heavily blurred, making it difficult to discern specific details or subjects. The colors present include shades of red, white, and blue, blending together in a gradient-like manner. The overall composition suggests a scene with potential objects or figures, but the lack of clarity prevents identification. The background appears to transition from a lighter tone at the top to darker hues towards the bottom. The image gives an abstract impression due to the lack of focus.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1984,
+  "height": 2400,
+  "mimeType": "image/png"
+}

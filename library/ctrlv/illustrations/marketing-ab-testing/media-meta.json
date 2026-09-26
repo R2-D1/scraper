@@ -1,0 +1,83 @@
+{
+  "slug": "marketing-ab-testing",
+  "mediaKey": "d7feca1f-9918-4c0d-9a26-1ce972be0f2b",
+  "i18n": {
+    "name": {
+      "en": "A/B Testing",
+      "uk": "A/B-тестування"
+    },
+    "alt": {
+      "en": "A/B Testing",
+      "uk": "A/B-тестування"
+    },
+    "tags": [
+      {
+        "key": "marketing",
+        "i18n": {
+          "en": "marketing",
+          "uk": "маркетинг"
+        }
+      },
+      {
+        "key": "ab",
+        "i18n": {
+          "en": "ab",
+          "uk": "аб"
+        }
+      },
+      {
+        "key": "testing",
+        "i18n": {
+          "en": "testing",
+          "uk": "тестування"
+        }
+      },
+      {
+        "key": "split",
+        "i18n": {
+          "en": "split",
+          "uk": "розкол"
+        }
+      },
+      {
+        "key": "compare",
+        "i18n": {
+          "en": "compare",
+          "uk": "порівняти"
+        }
+      },
+      {
+        "key": "screens",
+        "i18n": {
+          "en": "screens",
+          "uk": "екрани"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/marketing-ab-testing",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

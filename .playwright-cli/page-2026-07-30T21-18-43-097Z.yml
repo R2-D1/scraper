@@ -1,0 +1,327 @@
+- generic [ref=f37e4]:
+  - navigation [ref=f37e5]:
+    - generic [ref=f37e6]:
+      - generic [ref=f37e7]:
+        - link "Unsplash Home" [ref=f37e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f37e9]
+        - link "Photos" [ref=f37e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f37e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f37e17]:
+        - button "Explore" [ref=f37e18] [cursor=pointer]
+        - button "Collections" [ref=f37e21] [cursor=pointer]
+        - button "Download History" [ref=f37e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f37e28] [cursor=pointer]
+    - generic [ref=f37e31]:
+      - link "Log in / Sign up" [ref=f37e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fastronaut-points-at-screen-with-smiley-face-jRZU1XxSYZI
+      - button "Language" [ref=f37e35] [cursor=pointer]
+      - button "Menu" [ref=f37e38] [cursor=pointer]
+  - generic [ref=f37e41]:
+    - generic [ref=f37e42]:
+      - navigation [ref=f37e43]:
+        - search "Find visuals sitewide" [ref=f37e45]:
+          - button "Search Unsplash" [ref=f37e46] [cursor=pointer]
+          - combobox [ref=f37e49]:
+            - searchbox "Search Unsplash" [ref=f37e50]
+            - listbox
+          - button "Visual search" [ref=f37e52] [cursor=pointer]
+        - generic [ref=f37e55]:
+          - link "Get Unsplash+" [ref=f37e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f37e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fastronaut-points-at-screen-with-smiley-face-jRZU1XxSYZI
+        - button "Submit an image" [ref=f37e59] [cursor=pointer]
+      - generic [ref=f37e60]:
+        - generic [ref=f37e61]:
+          - banner [ref=f37e63]:
+            - generic [ref=f37e65]:
+              - link [ref=f37e66] [cursor=pointer]:
+                - /url: /@getillustrations/illustrations
+              - generic [ref=f37e69]:
+                - link "Getillustrations" [ref=f37e70] [cursor=pointer]:
+                  - /url: /@getillustrations/illustrations
+                - generic [ref=f37e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f37e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fastronaut-points-at-screen-with-smiley-face-jRZU1XxSYZI
+            - generic [ref=f37e73]:
+              - button "Bookmark" [ref=f37e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f37e77] [cursor=pointer]
+              - button "Edit image" [ref=f37e80] [cursor=pointer]
+              - button "Download" [ref=f37e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f37e90]:
+            - img "Astronaut points at screen with smiley face." [ref=f37e91]
+          - generic [ref=f37e92]:
+            - generic [ref=f37e94]:
+              - button "Share this image" [ref=f37e95] [cursor=pointer]:
+                - generic [ref=f37e98]: Share
+              - button "More Actions" [ref=f37e99] [cursor=pointer]
+            - generic [ref=f37e103]:
+              - heading "Astronaut points at screen with smiley face." [level=1] [ref=f37e105]
+              - paragraph [ref=f37e109]: Bloomie Life
+              - generic [ref=f37e111]:
+                - generic [ref=f37e116]:
+                  - text: Published on
+                  - time [ref=f37e117]: November 12, 2025
+                - generic [ref=f37e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f37e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f37e124]:
+              - link "abstract" [ref=f37e125] [cursor=pointer]:
+                - /url: /s/illustrations/abstract
+              - link "technology" [ref=f37e126] [cursor=pointer]:
+                - /url: /s/illustrations/technology
+              - link "blue" [ref=f37e127] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "artificial intelligence" [ref=f37e128] [cursor=pointer]:
+                - /url: /s/illustrations/artificial-intelligence
+              - link "tech" [ref=f37e129] [cursor=pointer]:
+                - /url: /s/illustrations/tech
+              - link "green" [ref=f37e130] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "illustration" [ref=f37e131] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "cartoon" [ref=f37e132] [cursor=pointer]:
+                - /url: /s/illustrations/cartoon
+              - link "data" [ref=f37e133] [cursor=pointer]:
+                - /url: /s/illustrations/data
+              - link "design" [ref=f37e134] [cursor=pointer]:
+                - /url: /s/illustrations/design
+              - link "presentation" [ref=f37e135] [cursor=pointer]:
+                - /url: /s/illustrations/presentation
+              - link "orange" [ref=f37e136] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "red" [ref=f37e137] [cursor=pointer]:
+                - /url: /s/illustrations/red
+              - link "digital" [ref=f37e138] [cursor=pointer]:
+                - /url: /s/illustrations/digital
+              - link "research" [ref=f37e139] [cursor=pointer]:
+                - /url: /s/illustrations/research
+              - link "future" [ref=f37e140] [cursor=pointer]:
+                - /url: /s/illustrations/future
+              - link "science" [ref=f37e141] [cursor=pointer]:
+                - /url: /s/illustrations/science
+              - link "robot" [ref=f37e142] [cursor=pointer]:
+                - /url: /s/illustrations/robot
+              - link "innovation" [ref=f37e143] [cursor=pointer]:
+                - /url: /s/illustrations/innovation
+              - link "web design" [ref=f37e144] [cursor=pointer]:
+                - /url: /s/illustrations/web-design
+        - generic [ref=f37e147]:
+          - generic [ref=f37e148]:
+            - paragraph [ref=f37e150]: From this series
+            - generic [ref=f37e152]:
+              - button "scroll list to the right" [ref=f37e154] [cursor=pointer]
+              - generic [ref=f37e157]:
+                - generic [ref=f37e158]:
+                  - link [ref=f37e159] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgreen-alligator-waters-a-flower-under-the-sun-wPSw5X6mPsU
+                  - link [ref=f37e162]:
+                    - /url: /illustrations/green-alligator-waters-a-flower-under-the-sun-wPSw5X6mPsU
+                    - img "Green alligator waters a flower under the sun" [ref=f37e163]
+                - generic [ref=f37e164]:
+                  - link [ref=f37e165] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-smiling-smartwatch-with-flowers-gives-a-thumbs-up-ZhO81rzdo3U
+                  - link [ref=f37e168]:
+                    - /url: /illustrations/a-smiling-smartwatch-with-flowers-gives-a-thumbs-up-ZhO81rzdo3U
+                    - img "A smiling smartwatch with flowers gives a thumbs up." [ref=f37e169]
+                - generic [ref=f37e170]:
+                  - link [ref=f37e171] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-fried-egg-character-running-happily-outdoors-lXo4fbC5Yww
+                  - link [ref=f37e174]:
+                    - /url: /illustrations/a-cartoon-fried-egg-character-running-happily-outdoors-lXo4fbC5Yww
+                    - img "A cartoon fried egg character running happily outdoors." [ref=f37e175]
+                - generic [ref=f37e176]:
+                  - link [ref=f37e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fblue-creature-rides-an-orange-bicycle-with-sparkles-Ii38MW-T8wI
+                  - link [ref=f37e180]:
+                    - /url: /illustrations/blue-creature-rides-an-orange-bicycle-with-sparkles-Ii38MW-T8wI
+                    - img "Blue creature rides an orange bicycle with sparkles" [ref=f37e181]
+                - generic [ref=f37e182]:
+                  - link [ref=f37e183] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgreen-muscular-figure-with-crown-on-skateboard-with-cat-UHvYyQaZ5VQ
+                  - link [ref=f37e186]:
+                    - /url: /illustrations/green-muscular-figure-with-crown-on-skateboard-with-cat-UHvYyQaZ5VQ
+                    - img "Green muscular figure with crown on skateboard with cat" [ref=f37e187]
+                - generic [ref=f37e188]:
+                  - link [ref=f37e189] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgreen-diver-with-magnifying-glass-and-orange-fish-z8ryrPfMHK0
+                  - link [ref=f37e192]:
+                    - /url: /illustrations/green-diver-with-magnifying-glass-and-orange-fish-z8ryrPfMHK0
+                    - img "Green diver with magnifying glass and orange fish." [ref=f37e193]
+                - generic [ref=f37e194]:
+                  - link [ref=f37e195] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fpink-bird-feeding-purple-bird-with-flowers-0aeztra6-oI
+                  - link [ref=f37e198]:
+                    - /url: /illustrations/pink-bird-feeding-purple-bird-with-flowers-0aeztra6-oI
+                    - img "Pink bird feeding purple bird with flowers" [ref=f37e199]
+                - generic [ref=f37e200]:
+                  - link [ref=f37e201] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-duck-rides-a-swan-with-a-carrot-bqoJZ74eLhU
+                  - link [ref=f37e204]:
+                    - /url: /illustrations/a-duck-rides-a-swan-with-a-carrot-bqoJZ74eLhU
+                    - img "A duck rides a swan with a carrot." [ref=f37e205]
+                - generic [ref=f37e206]:
+                  - link [ref=f37e207] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-person-hugs-a-fluffy-yellow-cat-with-hearts-tFRemLE7QYk
+                  - link [ref=f37e210]:
+                    - /url: /illustrations/a-person-hugs-a-fluffy-yellow-cat-with-hearts-tFRemLE7QYk
+                    - img "A person hugs a fluffy yellow cat with hearts." [ref=f37e211]
+                - generic [ref=f37e212]:
+                  - link [ref=f37e213] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Forange-figure-holding-a-fishbowl-with-a-goldfish-Xzlk-lUfiJo
+                  - link [ref=f37e216]:
+                    - /url: /illustrations/orange-figure-holding-a-fishbowl-with-a-goldfish-Xzlk-lUfiJo
+                    - img "Orange figure holding a fishbowl with a goldfish" [ref=f37e217]
+          - generic [ref=f37e218]:
+            - heading "Related images" [level=4] [ref=f37e220]
+            - generic [ref=f37e224]:
+              - generic [ref=f37e225]:
+                - figure [ref=f37e226]:
+                  - generic [ref=f37e228]:
+                    - link [ref=f37e229]:
+                      - /url: /illustrations/a-man-is-standing-in-front-of-a-robot-8ude2_lcTwQ
+                      - img "A man is standing in front of a robot" [ref=f37e230]
+                    - link [ref=f37e231] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-is-standing-in-front-of-a-robot-8ude2_lcTwQ
+                - figure [ref=f37e234]:
+                  - generic [ref=f37e236]:
+                    - link [ref=f37e237]:
+                      - /url: /illustrations/a-robot-that-is-laying-down-on-the-ground-BrHUI6LMQCc
+                      - img "A robot that is laying down on the ground" [ref=f37e238]
+                    - link [ref=f37e239] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-robot-that-is-laying-down-on-the-ground-BrHUI6LMQCc
+                - figure [ref=f37e242]:
+                  - generic [ref=f37e244]:
+                    - link [ref=f37e245]:
+                      - /url: /illustrations/a-man-is-standing-in-front-of-a-phone-8sELJ6xvDkg
+                      - img "A man is standing in front of a phone" [ref=f37e246]
+                    - link [ref=f37e247] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-is-standing-in-front-of-a-phone-8sELJ6xvDkg
+                - figure [ref=f37e250]:
+                  - generic [ref=f37e252]:
+                    - link [ref=f37e253]:
+                      - /url: /illustrations/a-drawing-of-a-robot-with-a-speech-bubble-above-it-DPGprFoAqK0
+                      - img "A drawing of a robot with a speech bubble above it" [ref=f37e254]
+                    - link [ref=f37e255] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-drawing-of-a-robot-with-a-speech-bubble-above-it-DPGprFoAqK0
+                - figure [ref=f37e258]:
+                  - generic [ref=f37e260]:
+                    - link [ref=f37e261]:
+                      - /url: /illustrations/a-woman-looking-at-a-robot-on-a-paper-8f1dEhS70hg
+                      - img "A woman looking at a robot on a paper" [ref=f37e262]
+                    - link [ref=f37e263] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-looking-at-a-robot-on-a-paper-8f1dEhS70hg
+                - figure [ref=f37e266]:
+                  - generic [ref=f37e268]:
+                    - link [ref=f37e269]:
+                      - /url: /illustrations/a-woman-is-looking-at-a-cell-phone-aFOmc-OzW6k
+                      - img "A woman is looking at a cell phone" [ref=f37e270]
+                    - link [ref=f37e271] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-is-looking-at-a-cell-phone-aFOmc-OzW6k
+                - figure [ref=f37e274]:
+                  - generic [ref=f37e276]:
+                    - link [ref=f37e277]:
+                      - /url: /illustrations/a-man-standing-next-to-a-giant-cell-phone-EM2NRwvueg8
+                      - img "A man standing next to a giant cell phone" [ref=f37e278]
+                    - link [ref=f37e279] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-standing-next-to-a-giant-cell-phone-EM2NRwvueg8
+              - generic [ref=f37e282]:
+                - figure [ref=f37e283]:
+                  - generic [ref=f37e285]:
+                    - link [ref=f37e286]:
+                      - /url: /illustrations/an-image-of-a-robot-with-a-light-bulb-above-it-7lyIYzubCyY
+                      - img "An image of a robot with a light bulb above it" [ref=f37e287]
+                    - link [ref=f37e288] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fan-image-of-a-robot-with-a-light-bulb-above-it-7lyIYzubCyY
+                - figure [ref=f37e291]:
+                  - generic [ref=f37e293]:
+                    - link [ref=f37e294]:
+                      - /url: /illustrations/a-person-holding-a-phone-with-a-robot-on-it-D1RufFrWHak
+                      - img "A person holding a phone with a robot on it" [ref=f37e295]
+                    - link [ref=f37e296] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-holding-a-phone-with-a-robot-on-it-D1RufFrWHak
+                - figure [ref=f37e299]:
+                  - generic [ref=f37e301]:
+                    - link [ref=f37e302]:
+                      - /url: /illustrations/an-astronaut-is-holding-a-ball-in-his-hand-1eVlAFo7yp8
+                      - img "An astronaut is holding a ball in his hand" [ref=f37e303]
+                    - link [ref=f37e304] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fan-astronaut-is-holding-a-ball-in-his-hand-1eVlAFo7yp8
+                - figure [ref=f37e307]:
+                  - generic [ref=f37e309]:
+                    - link [ref=f37e310]:
+                      - /url: /illustrations/a-man-waving-at-a-robot-in-front-of-him-sWeFN0nAVr8
+                      - img "A man waving at a robot in front of him" [ref=f37e311]
+                    - link [ref=f37e312] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-waving-at-a-robot-in-front-of-him-sWeFN0nAVr8
+                - figure [ref=f37e315]:
+                  - generic [ref=f37e317]:
+                    - link [ref=f37e318]:
+                      - /url: /illustrations/an-illustration-of-an-astronaut-in-a-space-suit--oAfb73WmUs
+                      - img "An illustration of an astronaut in a space suit" [ref=f37e319]
+                    - link [ref=f37e320] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fan-illustration-of-an-astronaut-in-a-space-suit--oAfb73WmUs
+                - figure [ref=f37e323]:
+                  - generic [ref=f37e325]:
+                    - link [ref=f37e326]:
+                      - /url: /illustrations/a-man-in-bed-with-a-robot-next-to-him-wdhJpxyeQEo
+                      - img "A man in bed with a robot next to him" [ref=f37e327]
+                    - link [ref=f37e328] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-in-bed-with-a-robot-next-to-him-wdhJpxyeQEo
+                - figure [ref=f37e331]:
+                  - generic [ref=f37e333]:
+                    - link [ref=f37e334]:
+                      - /url: /illustrations/an-astronaut-on-the-moon-holding-a-sign-dP4lUxEUn1g
+                      - img "An astronaut on the moon holding a sign" [ref=f37e335]
+                    - link [ref=f37e336] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fan-astronaut-on-the-moon-holding-a-sign-dP4lUxEUn1g
+              - generic [ref=f37e339]:
+                - figure [ref=f37e340]:
+                  - generic [ref=f37e342]:
+                    - link [ref=f37e343]:
+                      - /url: /illustrations/a-drawing-of-an-elephant-holding-a-clock-5SFdeYlC5l4
+                      - img "A drawing of an elephant holding a clock" [ref=f37e344]
+                    - link [ref=f37e345] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-drawing-of-an-elephant-holding-a-clock-5SFdeYlC5l4
+                - figure [ref=f37e348]:
+                  - generic [ref=f37e350]:
+                    - link [ref=f37e351]:
+                      - /url: /illustrations/an-illustration-of-an-astronaut-in-a-space-suit-O-E6IQGyysg
+                      - img "An illustration of an astronaut in a space suit" [ref=f37e352]
+                    - link [ref=f37e353] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fan-illustration-of-an-astronaut-in-a-space-suit-O-E6IQGyysg
+                - figure [ref=f37e356]:
+                  - generic [ref=f37e358]:
+                    - link [ref=f37e359]:
+                      - /url: /illustrations/a-picture-of-a-robot-with-speech-bubbles-YBeK0rGU78Y
+                      - img "A picture of a robot with speech bubbles" [ref=f37e360]
+                    - link [ref=f37e361] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-a-robot-with-speech-bubbles-YBeK0rGU78Y
+                - figure [ref=f37e364]:
+                  - generic [ref=f37e366]:
+                    - link [ref=f37e367]:
+                      - /url: /illustrations/a-cartoon-robot-with-a-screwdriver-waves-hello-tlF0yc-C7zE
+                      - img "A cartoon robot with a screwdriver waves hello." [ref=f37e368]
+                    - link [ref=f37e369] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-robot-with-a-screwdriver-waves-hello-tlF0yc-C7zE
+                - figure [ref=f37e372]:
+                  - generic [ref=f37e374]:
+                    - link [ref=f37e375]:
+                      - /url: /illustrations/an-astronaut-with-a-fist-up-in-the-air-gs2KaqLCS6Y
+                      - img "An astronaut with a fist up in the air" [ref=f37e376]
+                    - link [ref=f37e377] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fan-astronaut-with-a-fist-up-in-the-air-gs2KaqLCS6Y
+                - figure [ref=f37e380]:
+                  - generic [ref=f37e382]:
+                    - link [ref=f37e383]:
+                      - /url: /illustrations/an-astronaut-in-a-space-suit-with-stars-around-him-9swlzTdxH-U
+                      - img "An astronaut in a space suit with stars around him" [ref=f37e384]
+                    - link [ref=f37e385] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fan-astronaut-in-a-space-suit-with-stars-around-him-9swlzTdxH-U
+    - generic:
+      - region "Notifications"

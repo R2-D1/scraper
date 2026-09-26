@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-2332257",
+  "mediaKey": "pexels:2332257",
+  "i18n": {
+    "name": {
+      "en": "Aerial view of a city skyline",
+      "uk": "Панорама міста з висоти пташиного польоту"
+    },
+    "alt": {
+      "en": "Aerial view of Chicago's skyline featuring the iconic Willis Tower at dusk.",
+      "uk": "Панорамний вид на горизонт Чикаго з культовою вежею «Вілліс-Тауер» у сутінках."
+    },
+    "tags": [
+      {
+        "key": "city-skyline",
+        "i18n": {
+          "en": "city skyline",
+          "uk": "силует міста"
+        }
+      },
+      {
+        "key": "aerial-view",
+        "i18n": {
+          "en": "aerial view",
+          "uk": "вид з висоти пташиного польоту"
+        }
+      },
+      {
+        "key": "buildings",
+        "i18n": {
+          "en": "buildings",
+          "uk": "будівлі"
+        }
+      },
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "urban",
+          "uk": "урбаністичний"
+        }
+      },
+      {
+        "key": "architecture",
+        "i18n": {
+          "en": "architecture",
+          "uk": "архітектура"
+        }
+      },
+      {
+        "key": "daytime",
+        "i18n": {
+          "en": "daytime",
+          "uk": "денний час"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "urban"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/aerial-view-of-city-building-2332257/",
+  "sourceName": "Pexels",
+  "authorName": "Ricky Esquivel",
+  "authorUrl": "https://www.pexels.com/@rickyesquivel",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

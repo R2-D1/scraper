@@ -1,0 +1,49 @@
+{
+  "slug": "coolness-xbgc",
+  "mediaKey": "48bbff16-d517-42cd-a6a7-7c3aeb773907",
+  "providerId": "625d43b63c361f0018c95f3e",
+  "i18n": {
+    "name": {
+      "en": "Coolness",
+      "uk": "Крутість"
+    },
+    "alt": {
+      "en": "Coolness",
+      "uk": "Крутість"
+    },
+    "tags": [
+      {
+        "key": "coolness",
+        "i18n": {
+          "en": "Coolness",
+          "uk": "Крутість"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/coolness_xbgc.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 706,
+  "height": 465
+}

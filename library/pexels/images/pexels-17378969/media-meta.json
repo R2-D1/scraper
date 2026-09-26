@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-17378969",
+  "mediaKey": "pexels:17378969",
+  "i18n": {
+    "name": {
+      "en": "Woman lying in a field of flowers",
+      "uk": "Жінка лежить серед польових квітів"
+    },
+    "alt": {
+      "en": "A woman in a white top relaxes in a meadow of wildflowers, eyes closed, enjoying tranquility.",
+      "uk": "Жінка в білій блузці відпочиває на лузі, вкритому польовими квітами, з закритими очима, насолоджуючись спокоєм."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "white-dress",
+        "i18n": {
+          "en": "white dress",
+          "uk": "біла сукня"
+        }
+      },
+      {
+        "key": "meadow",
+        "i18n": {
+          "en": "meadow",
+          "uk": "луг"
+        }
+      },
+      {
+        "key": "flowers",
+        "i18n": {
+          "en": "flowers",
+          "uk": "квіти"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/blonde-woman-in-white-top-lying-down-on-meadow-17378969/",
+  "sourceName": "Pexels",
+  "authorName": "Jean-Daniel Francoeur",
+  "authorUrl": "https://www.pexels.com/@jean-daniel",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

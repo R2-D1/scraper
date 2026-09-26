@@ -1,0 +1,63 @@
+{
+  "slug": "alarm-ringing-4deu",
+  "mediaKey": "a29fbe26-59b5-416b-a550-ccc7cfe6de58",
+  "providerId": "694c517e13ba1ab040db361c",
+  "i18n": {
+    "name": {
+      "en": "Alarm Ringing",
+      "uk": "Звучить сигнал тривоги"
+    },
+    "alt": {
+      "en": "Alarm Ringing",
+      "uk": "Звучить сигнал тривоги"
+    },
+    "tags": [
+      {
+        "key": "alarm-ringing",
+        "i18n": {
+          "en": "Alarm Ringing",
+          "uk": "Звучить сигнал тривоги"
+        }
+      },
+      {
+        "key": "alarm",
+        "i18n": {
+          "en": "alarm",
+          "uk": "тривога"
+        }
+      },
+      {
+        "key": "ringing",
+        "i18n": {
+          "en": "ringing",
+          "uk": "дзвін"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/alarm-ringing_4deu.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 799,
+  "height": 552
+}

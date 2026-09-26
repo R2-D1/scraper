@@ -1,0 +1,97 @@
+{
+  "slug": "saas-video-call",
+  "mediaKey": "c2932c1d-dc63-4869-a213-4357b6f70091",
+  "i18n": {
+    "name": {
+      "en": "Video Conference",
+      "uk": "Відеоконференція"
+    },
+    "alt": {
+      "en": "Video Conference",
+      "uk": "Відеоконференція"
+    },
+    "tags": [
+      {
+        "key": "saas",
+        "i18n": {
+          "en": "saas",
+          "uk": "SaaS"
+        }
+      },
+      {
+        "key": "video",
+        "i18n": {
+          "en": "video",
+          "uk": "відео"
+        }
+      },
+      {
+        "key": "call",
+        "i18n": {
+          "en": "call",
+          "uk": "виклик"
+        }
+      },
+      {
+        "key": "meeting",
+        "i18n": {
+          "en": "meeting",
+          "uk": "зустріч"
+        }
+      },
+      {
+        "key": "webcam",
+        "i18n": {
+          "en": "webcam",
+          "uk": "вебкамера"
+        }
+      },
+      {
+        "key": "remote",
+        "i18n": {
+          "en": "remote",
+          "uk": "дистанційний"
+        }
+      },
+      {
+        "key": "collaboration",
+        "i18n": {
+          "en": "collaboration",
+          "uk": "співпраця"
+        }
+      },
+      {
+        "key": "conference",
+        "i18n": {
+          "en": "conference",
+          "uk": "конференція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/saas-video-call",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

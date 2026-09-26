@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-28553436",
+  "mediaKey": "pexels:28553436",
+  "i18n": {
+    "name": {
+      "en": "Softly glowing multicolor sphere",
+      "uk": "М'яко світиться різнокольорова куля"
+    },
+    "alt": {
+      "en": "A vibrant abstract image featuring a colorful blurred sphere and wavy patterns.",
+      "uk": "Яскраве абстрактне зображення, на якому зображено барвисту розмиту сферу та хвилясті візерунки."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "sphere",
+        "i18n": {
+          "en": "sphere",
+          "uk": "сфера"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/colorful-abstract-sphere-art-background-28553436/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

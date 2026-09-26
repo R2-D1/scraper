@@ -1,0 +1,66 @@
+{
+  "slug": "a-black-and-white-photo-of-an-abstract-object-vbrvcspzov4",
+  "mediaKey": "a181a105-2576-4ec5-88b9-c5abed489c55",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "A black and white photo of an abstract object",
+      "uk": "Чорно-білий абстрактний об'єкт"
+    },
+    "alt": {
+      "en": "A black and white photo of an abstract object",
+      "uk": "Чорно-білий абстрактний об'єкт"
+    },
+    "tags": [
+      {
+        "key": "black",
+        "i18n": {
+          "en": "black",
+          "uk": "чорний"
+        }
+      },
+      {
+        "key": "cubes",
+        "i18n": {
+          "en": "cubes",
+          "uk": "куби"
+        }
+      },
+      {
+        "key": "digital-image",
+        "i18n": {
+          "en": "digital image",
+          "uk": "цифрове зображення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "abstract",
+        "minimalistic"
+      ],
+      "uk": [
+        "абстракція",
+        "мінімалістичний"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/a-black-and-white-photo-of-an-abstract-object-VbRvcSpzOV4",
+  "sourceName": "Unsplash",
+  "authorName": "Dima Solomin",
+  "authorUrl": "https://unsplash.com/@solomin",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 3600,
+  "collectionSlugs": [
+    "abstract"
+  ]
+}

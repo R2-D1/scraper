@@ -1,0 +1,261 @@
+- generic [ref=f79e4]:
+  - navigation [ref=f79e5]:
+    - generic [ref=f79e6]:
+      - generic [ref=f79e7]:
+        - link "Unsplash Home" [ref=f79e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f79e9]
+        - link "Photos" [ref=f79e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f79e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f79e17]:
+        - button "Explore" [ref=f79e18] [cursor=pointer]
+        - button "Collections" [ref=f79e21] [cursor=pointer]
+        - button "Download History" [ref=f79e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f79e28] [cursor=pointer]
+    - generic [ref=f79e31]:
+      - link "Log in / Sign up" [ref=f79e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fphotos%2Fabstract-fluid-shapes-with-vibrant-pink-and-orange-hues-pquJ1L9VSXY
+      - button "Language" [ref=f79e35] [cursor=pointer]
+      - button "Menu" [ref=f79e38] [cursor=pointer]
+  - generic [ref=f79e41]:
+    - generic [ref=f79e42]:
+      - navigation [ref=f79e43]:
+        - search "Find visuals sitewide" [ref=f79e45]:
+          - button "Search Unsplash" [ref=f79e46] [cursor=pointer]
+          - combobox [ref=f79e49]:
+            - searchbox "Search Unsplash" [ref=f79e50]
+            - listbox
+          - button "Visual search" [ref=f79e52] [cursor=pointer]
+        - generic [ref=f79e55]:
+          - link "Get Unsplash+" [ref=f79e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f79e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fphotos%2Fabstract-fluid-shapes-with-vibrant-pink-and-orange-hues-pquJ1L9VSXY
+        - button "Submit an image" [ref=f79e59] [cursor=pointer]
+      - generic [ref=f79e60]:
+        - generic [ref=f79e61]:
+          - banner [ref=f79e63]:
+            - generic [ref=f79e65]:
+              - link [ref=f79e66] [cursor=pointer]:
+                - /url: /@ruliffand
+              - generic [ref=f79e69]:
+                - link "Ruliff Andrean" [ref=f79e70] [cursor=pointer]:
+                  - /url: /@ruliffand
+                - generic [ref=f79e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f79e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-fluid-shapes-with-vibrant-pink-and-orange-hues-pquJ1L9VSXY
+            - generic [ref=f79e73]:
+              - button "Bookmark" [ref=f79e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f79e77] [cursor=pointer]
+              - button "Edit image" [ref=f79e80] [cursor=pointer]
+              - button "Download" [ref=f79e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f79e90]:
+            - img "Abstract fluid shapes with vibrant pink and orange hues" [ref=f79e91]
+          - generic [ref=f79e92]:
+            - generic [ref=f79e94]:
+              - button "Share this image" [ref=f79e95] [cursor=pointer]:
+                - generic [ref=f79e98]: Share
+              - button "More Actions" [ref=f79e99] [cursor=pointer]
+            - generic [ref=f79e103]:
+              - heading "Abstract fluid shapes with vibrant pink and orange hues" [level=1] [ref=f79e105]
+              - paragraph [ref=f79e109]: Download this HD photo of wallpaper, texture, gradient, and abstract background by Ruliff Andrean (@ruliffand)
+              - generic [ref=f79e111]:
+                - generic [ref=f79e116]:
+                  - text: Published on
+                  - time [ref=f79e117]: October 3, 2025
+                - generic [ref=f79e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f79e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f79e124]:
+              - link "wallpaper" [ref=f79e125] [cursor=pointer]:
+                - /url: /s/photos/wallpaper
+              - link "texture" [ref=f79e126] [cursor=pointer]:
+                - /url: /s/photos/texture
+              - link "gradient" [ref=f79e127] [cursor=pointer]:
+                - /url: /s/photos/gradient
+              - link "abstract background" [ref=f79e128] [cursor=pointer]:
+                - /url: /s/photos/abstract-background
+              - link "dark background" [ref=f79e129] [cursor=pointer]:
+                - /url: /s/photos/dark-background
+              - link "vintage" [ref=f79e130] [cursor=pointer]:
+                - /url: /s/photos/vintage
+              - link "graphic design" [ref=f79e131] [cursor=pointer]:
+                - /url: /s/photos/graphic-design
+              - link "red" [ref=f79e132] [cursor=pointer]:
+                - /url: /s/photos/red
+              - link "abstract art" [ref=f79e133] [cursor=pointer]:
+                - /url: /s/photos/abstract-art
+              - link "retro" [ref=f79e134] [cursor=pointer]:
+                - /url: /s/photos/retro
+              - link "3d render" [ref=f79e135] [cursor=pointer]:
+                - /url: /s/photos/3d-render
+              - link "noise texture" [ref=f79e136] [cursor=pointer]:
+                - /url: /s/photos/noise-texture
+              - link "digital art" [ref=f79e137] [cursor=pointer]:
+                - /url: /s/photos/digital-art
+              - link "background design" [ref=f79e138] [cursor=pointer]:
+                - /url: /s/photos/background-design
+              - link "nostalgia" [ref=f79e139] [cursor=pointer]:
+                - /url: /s/photos/nostalgia
+              - link "moody" [ref=f79e140] [cursor=pointer]:
+                - /url: /s/photos/moody
+              - link "dreamy" [ref=f79e141] [cursor=pointer]:
+                - /url: /s/photos/dreamy
+              - link "abstract gradient" [ref=f79e142] [cursor=pointer]:
+                - /url: /s/photos/abstract-gradient
+              - link "artistic" [ref=f79e143] [cursor=pointer]:
+                - /url: /s/photos/artistic
+              - link "abstract pattern" [ref=f79e144] [cursor=pointer]:
+                - /url: /s/photos/abstract-pattern
+        - generic [ref=f79e148]:
+          - heading "Related images" [level=4] [ref=f79e150]
+          - generic [ref=f79e154]:
+            - generic [ref=f79e155]:
+              - figure [ref=f79e156]:
+                - generic [ref=f79e158]:
+                  - link [ref=f79e159]:
+                    - /url: /photos/abstract-fluid-with-blue-and-orange-hues-F4G9qhZs7hs
+                    - img "Abstract fluid with blue and orange hues" [ref=f79e160]
+                  - link [ref=f79e161] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-fluid-with-blue-and-orange-hues-F4G9qhZs7hs
+              - figure [ref=f79e164]:
+                - generic [ref=f79e166]:
+                  - link [ref=f79e167]:
+                    - /url: /photos/abstract-and-colorful-shapes-blend-together-VW23d6Q76kY
+                    - img "Abstract and colorful shapes blend together." [ref=f79e168]
+                  - link [ref=f79e169] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-and-colorful-shapes-blend-together-VW23d6Q76kY
+              - figure [ref=f79e172]:
+                - generic [ref=f79e174]:
+                  - link [ref=f79e175]:
+                    - /url: /photos/abstract-purple-and-yellow-swirling-patterns--9dWKetFLxk
+                    - img "Abstract purple and yellow swirling patterns" [ref=f79e176]
+                  - link [ref=f79e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-purple-and-yellow-swirling-patterns--9dWKetFLxk
+              - figure [ref=f79e180]:
+                - generic [ref=f79e182]:
+                  - link [ref=f79e183]:
+                    - /url: /photos/abstract-waves-of-color-and-light-i7qN_JUBO3Y
+                    - img "Abstract waves of color and light." [ref=f79e184]
+                  - link [ref=f79e185] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-waves-of-color-and-light-i7qN_JUBO3Y
+              - figure [ref=f79e188]:
+                - generic [ref=f79e190]:
+                  - link [ref=f79e191]:
+                    - /url: /photos/a-close-up-of-a-womans-face-with-a-blurry-background-54O5lhLDw-0
+                    - img "a close up of a woman's face with a blurry background" [ref=f79e192]
+                  - link [ref=f79e193] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-close-up-of-a-womans-face-with-a-blurry-background-54O5lhLDw-0
+              - figure [ref=f79e196]:
+                - generic [ref=f79e198]:
+                  - link [ref=f79e199]:
+                    - /url: /photos/abstract-purple-and-orange-swirls-on-dark-background-iK_Fn2sAiRo
+                    - img "Abstract purple and orange swirls on dark background" [ref=f79e200]
+                  - link [ref=f79e201] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-purple-and-orange-swirls-on-dark-background-iK_Fn2sAiRo
+              - figure [ref=f79e204]:
+                - generic [ref=f79e206]:
+                  - link [ref=f79e207]:
+                    - /url: /photos/a-blurry-image-of-a-purple-and-brown-background-7yRtgGCDp2w
+                    - img "a blurry image of a purple and brown background" [ref=f79e208]
+                  - link [ref=f79e209] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-purple-and-brown-background-7yRtgGCDp2w
+            - generic [ref=f79e212]:
+              - figure [ref=f79e213]:
+                - generic [ref=f79e215]:
+                  - link [ref=f79e216]:
+                    - /url: /photos/abstract-swirling-colors-of-purple-and-orange-PZjUM9EF4C8
+                    - img "Abstract swirling colors of purple and orange" [ref=f79e217]
+                  - link [ref=f79e218] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-swirling-colors-of-purple-and-orange-PZjUM9EF4C8
+              - figure [ref=f79e221]:
+                - generic [ref=f79e223]:
+                  - link [ref=f79e224]:
+                    - /url: /photos/abstract-swirling-colors-of-orange-and-blue-e_Xd58KmSH4
+                    - img "Abstract swirling colors of orange and blue" [ref=f79e225]
+                  - link [ref=f79e226] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-swirling-colors-of-orange-and-blue-e_Xd58KmSH4
+              - figure [ref=f79e229]:
+                - generic [ref=f79e231]:
+                  - link [ref=f79e232]:
+                    - /url: /photos/abstract-metallic-texture-with-flowing-colors-mjsfNQyheoo
+                    - img "Abstract metallic texture with flowing colors" [ref=f79e233]
+                  - link [ref=f79e234] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-metallic-texture-with-flowing-colors-mjsfNQyheoo
+              - figure [ref=f79e237]:
+                - generic [ref=f79e239]:
+                  - link [ref=f79e240]:
+                    - /url: /photos/abstract-warm-gradient-with-soft-focus-6I8X06hscAc
+                    - img "Abstract warm gradient with soft focus." [ref=f79e241]
+                  - link [ref=f79e242] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-warm-gradient-with-soft-focus-6I8X06hscAc
+              - figure [ref=f79e245]:
+                - generic [ref=f79e247]:
+                  - link [ref=f79e248]:
+                    - /url: /photos/purple-and-teal-colors-blend-smoothly-SWMLdYkwpdI
+                    - img "Purple and teal colors blend smoothly." [ref=f79e249]
+                  - link [ref=f79e250] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fpurple-and-teal-colors-blend-smoothly-SWMLdYkwpdI
+              - figure [ref=f79e253]:
+                - generic [ref=f79e255]:
+                  - link [ref=f79e256]:
+                    - /url: /photos/iridescent-metallic-liquid-flowing-and-swirling-abstractly-gPGqSR18bZo
+                    - img "Iridescent metallic liquid flowing and swirling abstractly." [ref=f79e257]
+                  - link [ref=f79e258] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Firidescent-metallic-liquid-flowing-and-swirling-abstractly-gPGqSR18bZo
+              - figure [ref=f79e261]:
+                - generic [ref=f79e263]:
+                  - link [ref=f79e264]:
+                    - /url: /photos/abstract-fluid-metallic-texture-with-purple-and-pink-hues-wqSOTt-iLnc
+                    - img "Abstract fluid metallic texture with purple and pink hues" [ref=f79e265]
+                  - link [ref=f79e266] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-fluid-metallic-texture-with-purple-and-pink-hues-wqSOTt-iLnc
+            - generic [ref=f79e269]:
+              - figure [ref=f79e270]:
+                - generic [ref=f79e272]:
+                  - link [ref=f79e273]:
+                    - /url: /photos/abstract-bokeh-lights-with-purple-and-yellow-hues-Wtuq5KU20Jk
+                    - img "Abstract bokeh lights with purple and yellow hues" [ref=f79e274]
+                  - link [ref=f79e275] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-bokeh-lights-with-purple-and-yellow-hues-Wtuq5KU20Jk
+              - figure [ref=f79e278]:
+                - generic [ref=f79e280]:
+                  - link [ref=f79e281]:
+                    - /url: /photos/abstract-purple-and-pink-swirling-colors-4yBizwVXP-0
+                    - img "Abstract purple and pink swirling colors" [ref=f79e282]
+                  - link [ref=f79e283] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-purple-and-pink-swirling-colors-4yBizwVXP-0
+              - figure [ref=f79e286]:
+                - generic [ref=f79e288]:
+                  - link [ref=f79e289]:
+                    - /url: /photos/abstract-colorful-hues-create-a-vibrant-blurred-image-KA5FcAlUdZs
+                    - img "Abstract colorful hues create a vibrant, blurred image." [ref=f79e290]
+                  - link [ref=f79e291] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-colorful-hues-create-a-vibrant-blurred-image-KA5FcAlUdZs
+              - figure [ref=f79e294]:
+                - generic [ref=f79e296]:
+                  - link [ref=f79e297]:
+                    - /url: /photos/a-blurry-image-of-a-red-and-pink-background-rMnMX9ThjvU
+                    - img "a blurry image of a red and pink background" [ref=f79e298]
+                  - link [ref=f79e299] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-red-and-pink-background-rMnMX9ThjvU
+              - figure [ref=f79e302]:
+                - generic [ref=f79e304]:
+                  - link [ref=f79e305]:
+                    - /url: /photos/abstract-shapes-glow-with-vibrant-colors-sxxH0aQejw8
+                    - img "Abstract shapes glow with vibrant colors." [ref=f79e306]
+                  - link [ref=f79e307] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-shapes-glow-with-vibrant-colors-sxxH0aQejw8
+              - figure [ref=f79e310]:
+                - generic [ref=f79e312]:
+                  - link [ref=f79e313]:
+                    - /url: /photos/abstract-purple-and-orange-swirls-on-black-background-X3tMW3CZuLQ
+                    - img "Abstract purple and orange swirls on black background" [ref=f79e314]
+                  - link [ref=f79e315] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-purple-and-orange-swirls-on-black-background-X3tMW3CZuLQ
+    - generic:
+      - region "Notifications"

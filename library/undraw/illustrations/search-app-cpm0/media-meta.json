@@ -1,0 +1,63 @@
+{
+  "slug": "search-app-cpm0",
+  "mediaKey": "5421b31d-35e6-4e3d-a912-9a04239260b0",
+  "providerId": "640072b8341010001662eda2",
+  "i18n": {
+    "name": {
+      "en": "Search App",
+      "uk": "Додаток для пошуку"
+    },
+    "alt": {
+      "en": "Search App",
+      "uk": "Додаток для пошуку"
+    },
+    "tags": [
+      {
+        "key": "search-app",
+        "i18n": {
+          "en": "Search App",
+          "uk": "Додаток для пошуку"
+        }
+      },
+      {
+        "key": "search",
+        "i18n": {
+          "en": "search",
+          "uk": "пошук"
+        }
+      },
+      {
+        "key": "app",
+        "i18n": {
+          "en": "app",
+          "uk": "додаток"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/search-app_cpm0.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 717,
+  "height": 683
+}

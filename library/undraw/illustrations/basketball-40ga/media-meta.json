@@ -1,0 +1,49 @@
+{
+  "slug": "basketball-40ga",
+  "mediaKey": "7dcac1b0-1fed-4f52-91e7-eaccec7f848d",
+  "providerId": "637cade1a1ec5b001835e916",
+  "i18n": {
+    "name": {
+      "en": "Basketball",
+      "uk": "Баскетбол"
+    },
+    "alt": {
+      "en": "Basketball",
+      "uk": "Баскетбол"
+    },
+    "tags": [
+      {
+        "key": "basketball",
+        "i18n": {
+          "en": "Basketball",
+          "uk": "Баскетбол"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/basketball_40ga.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 375,
+  "height": 728
+}

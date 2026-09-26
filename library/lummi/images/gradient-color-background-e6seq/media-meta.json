@@ -1,0 +1,80 @@
+{
+  "slug": "gradient-color-background-e6seq",
+  "mediaKey": "c4847094-2c4d-4fea-bfdf-40d159c90ed5",
+  "i18n": {
+    "name": {
+      "en": "Gradient Color Background",
+      "uk": "Фон із градієнтом кольорів"
+    },
+    "alt": {
+      "en": "Gradient Color Background",
+      "uk": "Фон із градієнтом кольорів"
+    },
+    "tags": [
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "Colorful",
+          "uk": "Барвистий"
+        }
+      },
+      {
+        "key": "cool",
+        "i18n": {
+          "en": "Cool",
+          "uk": "Круто"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "Gradient",
+          "uk": "Градієнт"
+        }
+      },
+      {
+        "key": "warm",
+        "i18n": {
+          "en": "Warm",
+          "uk": "Тепло"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Pablo Stanley",
+  "authorUrl": "https://www.lummi.ai/creator/pablostanley?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A gradient background transitioning from warm red and orange tones on the top left to cool purple and blue tones on the bottom right.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2048,
+  "height": 2048,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/gradient-color-background-e6seq/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/gradient-color-background-e6seq/gradient-color-background-e6seq.png",
+  "relativeAssetPath": "library/lummi/images/gradient-color-background-e6seq/gradient-color-background-e6seq.png"
+}

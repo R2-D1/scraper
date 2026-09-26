@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-21529168",
+  "mediaKey": "pexels:21529168",
+  "i18n": {
+    "name": {
+      "en": "Veiled figure beside a quiet lake",
+      "uk": "Постать у вуалі біля тихого озера"
+    },
+    "alt": {
+      "en": "An enigmatic figure in a suit with a veil in an open field creates a mysterious atmosphere.",
+      "uk": "Загадкова постать у костюмі з вуаллю на відкритому полі створює таємничу атмосферу."
+    },
+    "tags": [
+      {
+        "key": "surrealism",
+        "i18n": {
+          "en": "surrealism",
+          "uk": "сюрреалізм"
+        }
+      },
+      {
+        "key": "figure",
+        "i18n": {
+          "en": "figure",
+          "uk": "фігура"
+        }
+      },
+      {
+        "key": "lake",
+        "i18n": {
+          "en": "lake",
+          "uk": "озеро"
+        }
+      },
+      {
+        "key": "veil",
+        "i18n": {
+          "en": "veil",
+          "uk": "вуаль"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "surrealism"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/man-in-suit-with-veil-on-head-21529168/",
+  "sourceName": "Pexels",
+  "authorName": "Юлія-Марія Повх",
+  "authorUrl": "https://www.pexels.com/@1032268979",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

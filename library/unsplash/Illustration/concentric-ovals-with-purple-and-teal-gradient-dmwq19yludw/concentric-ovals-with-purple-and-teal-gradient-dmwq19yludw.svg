@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 841.89 1190.55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_21382-7);
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_21382-5);
+      }
+
+      .cls-3 {
+        fill: url(#Gradiente_sem_nome_21382-6);
+      }
+
+      .cls-4 {
+        fill: url(#Gradiente_sem_nome_21382-4);
+      }
+
+      .cls-5 {
+        fill: url(#Gradiente_sem_nome_21382-3);
+      }
+
+      .cls-6 {
+        fill: url(#Gradiente_sem_nome_21382-2);
+      }
+
+      .cls-7 {
+        fill: url(#Gradiente_sem_nome_21382);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_21382" data-name="Gradiente sem nome 21382" x1="420.94" y1="0" x2="420.94" y2="1190.55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#71f0f9"/>
+      <stop offset=".07" stop-color="#9ee0dc"/>
+      <stop offset=".16" stop-color="#d2cfba"/>
+      <stop offset=".23" stop-color="#f2c4a5"/>
+      <stop offset=".27" stop-color="#ffc09e"/>
+      <stop offset=".59" stop-color="#a65dba"/>
+      <stop offset=".66" stop-color="#9d47c3"/>
+      <stop offset=".79" stop-color="#8910dd"/>
+      <stop offset=".83" stop-color="#8300e5"/>
+      <stop offset=".96" stop-color="#2b1137"/>
+      <stop offset="1" stop-color="#101700"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_21382-2" data-name="Gradiente sem nome 21382" x1="2368.98" y1="-734.68" x2="1283.17" y2="-887.28" gradientTransform="translate(-1405.13 1405.13)" xlink:href="#Gradiente_sem_nome_21382"/>
+    <linearGradient id="Gradiente_sem_nome_21382-3" data-name="Gradiente sem nome 21382" x1="-523.18" y1="1652.87" x2="-1445.19" y2="1652.87" gradientTransform="translate(1405.13 -1058.73)" xlink:href="#Gradiente_sem_nome_21382"/>
+    <linearGradient id="Gradiente_sem_nome_21382-4" data-name="Gradiente sem nome 21382" x1="1625.85" y1="2218.86" x2="1625.85" y2="1411.67" gradientTransform="translate(-1204.9 -1221.12)" xlink:href="#Gradiente_sem_nome_21382"/>
+    <linearGradient id="Gradiente_sem_nome_21382-5" data-name="Gradiente sem nome 21382" x1="1625.85" y1="2135.36" x2="1625.85" y2="1495.17" gradientTransform="translate(-1204.9 -1221.12)" xlink:href="#Gradiente_sem_nome_21382"/>
+    <linearGradient id="Gradiente_sem_nome_21382-6" data-name="Gradiente sem nome 21382" x1="1625.85" y1="2064.74" x2="1625.85" y2="1565.79" gradientTransform="translate(-1204.9 -1221.12)" xlink:href="#Gradiente_sem_nome_21382"/>
+    <linearGradient id="Gradiente_sem_nome_21382-7" data-name="Gradiente sem nome 21382" x1="1625.85" y1="2005.38" x2="1625.85" y2="1625.15" gradientTransform="translate(-1204.9 -1221.12)" xlink:href="#Gradiente_sem_nome_21382"/>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g>
+      <rect class="cls-7" width="841.89" height="1190.55"/>
+      <g>
+        <rect class="cls-6" x="-122.08" y="231.94" width="1086.04" height="724.42" rx="308.57" ry="308.57" transform="translate(1015.09 173.2) rotate(90)"/>
+        <rect class="cls-5" x="-40.06" y="299.11" width="922" height="590.08" rx="254.06" ry="254.06" transform="translate(-173.2 1015.09) rotate(-90)"/>
+        <rect class="cls-4" x="188.63" y="190.55" width="464.63" height="807.18" rx="211.12" ry="211.12"/>
+        <rect class="cls-2" x="261.54" y="274.05" width="318.8" height="640.19" rx="159.4" ry="159.4" transform="translate(841.89 1188.29) rotate(180)"/>
+        <rect class="cls-3" x="327.98" y="344.67" width="185.92" height="498.95" rx="92.96" ry="92.96"/>
+        <rect class="cls-1" x="367.86" y="404.03" width="106.16" height="380.23" rx="53.08" ry="53.08" transform="translate(841.89 1188.29) rotate(-180)"/>
+      </g>
+    </g>
+  </g>
+</svg>

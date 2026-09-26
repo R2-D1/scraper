@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-15439671",
+  "mediaKey": "pexels:video:15439671",
+  "i18n": {
+    "name": {
+      "en": "Neon Geometric Platform",
+      "uk": "Неонова геометрична платформа"
+    },
+    "alt": {
+      "en": "Pexels video 15439671",
+      "uk": "Відео з Pexels № 15439671"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "neon",
+        "i18n": {
+          "en": "neon",
+          "uk": "неон"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "geometric",
+        "i18n": {
+          "en": "geometric",
+          "uk": "геометричний"
+        }
+      },
+      {
+        "key": "platform",
+        "i18n": {
+          "en": "platform",
+          "uk": "платформа"
+        }
+      },
+      {
+        "key": "lights",
+        "i18n": {
+          "en": "lights",
+          "uk": "вогні"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/digital-animation-of-a-futuristic-abstract-pattern-15439671/",
+  "sourceName": "Pexels",
+  "authorName": "Pachon in Motion",
+  "authorUrl": "https://www.pexels.com/@pachon-in-motion-426015731",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 29,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

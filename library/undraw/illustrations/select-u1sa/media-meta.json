@@ -1,0 +1,49 @@
+{
+  "slug": "select-u1sa",
+  "mediaKey": "ecc8f749-50e9-42a6-a8dd-f9a3d4de8e94",
+  "providerId": "5fa9221eaaf077001797bb8e",
+  "i18n": {
+    "name": {
+      "en": "Select",
+      "uk": "Вибрати"
+    },
+    "alt": {
+      "en": "Select",
+      "uk": "Вибрати"
+    },
+    "tags": [
+      {
+        "key": "select",
+        "i18n": {
+          "en": "Select",
+          "uk": "Вибрати"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/select_u1sa.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 974,
+  "height": 729
+}

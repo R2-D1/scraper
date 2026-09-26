@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-9826063",
+  "mediaKey": "pexels:9826063",
+  "i18n": {
+    "name": {
+      "en": "Woman walking with motion blur outdoors",
+      "uk": "Жінка, що йде на відкритому повітрі, з ефектом розмиття руху"
+    },
+    "alt": {
+      "en": "A woman walks outdoors with motion blur against a green background.",
+      "uk": "Жінка йде на вулиці, її фігура розмита через рух на зеленому тлі."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "walking",
+        "i18n": {
+          "en": "walking",
+          "uk": "ходьба"
+        }
+      },
+      {
+        "key": "motion-blur",
+        "i18n": {
+          "en": "motion blur",
+          "uk": "розмиття в русі"
+        }
+      },
+      {
+        "key": "outdoors",
+        "i18n": {
+          "en": "outdoors",
+          "uk": "на відкритому повітрі"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/blurred-photo-of-a-woman-in-a-bikini-9826063/",
+  "sourceName": "Pexels",
+  "authorName": "Alexandre Weiss",
+  "authorUrl": "https://www.pexels.com/@alexandre-weiss-102944387",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

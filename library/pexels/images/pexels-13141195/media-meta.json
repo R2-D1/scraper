@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-13141195",
+  "mediaKey": "pexels:13141195",
+  "i18n": {
+    "name": {
+      "en": "Woman stretching in a red convertible in the desert",
+      "uk": "Жінка, яка розминається в червоному кабріолеті в пустелі"
+    },
+    "alt": {
+      "en": "Woman stretching in a red cabriolet in Texas City's desert. Summer road trip vibes.",
+      "uk": "Жінка, яка розминається в червоному кабріолеті в пустелі Техас-Сіті. Атмосфера літньої подорожі на машині."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "stretching",
+        "i18n": {
+          "en": "stretching",
+          "uk": "розтягування"
+        }
+      },
+      {
+        "key": "red-convertible",
+        "i18n": {
+          "en": "red convertible",
+          "uk": "червоний кабріолет"
+        }
+      },
+      {
+        "key": "desert",
+        "i18n": {
+          "en": "desert",
+          "uk": "пустеля"
+        }
+      },
+      {
+        "key": "road-trip",
+        "i18n": {
+          "en": "road trip",
+          "uk": "автоподорож"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/portrait-of-young-beautiful-woman-stretching-in-a-red-car-13141195/",
+  "sourceName": "Pexels",
+  "authorName": "Pouriya Kafaei",
+  "authorUrl": "https://www.pexels.com/@pouriyakafaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

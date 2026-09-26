@@ -1,0 +1,63 @@
+{
+  "slug": "artist-at-work-yos7",
+  "mediaKey": "e08d7122-11f3-49c4-9245-9f1b94760156",
+  "providerId": "680fe7bc1183f2e4c4319d2d",
+  "i18n": {
+    "name": {
+      "en": "Artist at Work",
+      "uk": "Художник за роботою"
+    },
+    "alt": {
+      "en": "Artist at Work",
+      "uk": "Художник за роботою"
+    },
+    "tags": [
+      {
+        "key": "artist-at-work",
+        "i18n": {
+          "en": "Artist at Work",
+          "uk": "Художник за роботою"
+        }
+      },
+      {
+        "key": "artist",
+        "i18n": {
+          "en": "artist",
+          "uk": "художник"
+        }
+      },
+      {
+        "key": "work",
+        "i18n": {
+          "en": "work",
+          "uk": "робота"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/artist-at-work_yos7.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 531,
+  "height": 824
+}

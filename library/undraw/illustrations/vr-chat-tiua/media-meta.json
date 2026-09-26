@@ -1,0 +1,63 @@
+{
+  "slug": "vr-chat-tiua",
+  "mediaKey": "e0c0cf69-279b-4bee-b111-4f5a01a97e07",
+  "providerId": "61602e5cc93b860017b4020a",
+  "i18n": {
+    "name": {
+      "en": "VR chat",
+      "uk": "VR-чат"
+    },
+    "alt": {
+      "en": "VR chat",
+      "uk": "VR-чат"
+    },
+    "tags": [
+      {
+        "key": "vr-chat",
+        "i18n": {
+          "en": "VR chat",
+          "uk": "VR-чат"
+        }
+      },
+      {
+        "key": "vr",
+        "i18n": {
+          "en": "vr",
+          "uk": "вр"
+        }
+      },
+      {
+        "key": "chat",
+        "i18n": {
+          "en": "chat",
+          "uk": "чат"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/vr-chat_tiua.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1157,
+  "height": 499
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "share-location-28ap",
+  "mediaKey": "00e0e556-99a8-47fd-b2a5-e3bf5c9cd32f",
+  "providerId": "69e2ba4379740242d59ddaed",
+  "i18n": {
+    "name": {
+      "en": "Share Location",
+      "uk": "Поділитися місцем розташування"
+    },
+    "alt": {
+      "en": "Share Location",
+      "uk": "Поділитися місцем розташування"
+    },
+    "tags": [
+      {
+        "key": "share-location",
+        "i18n": {
+          "en": "Share Location",
+          "uk": "Поділитися місцем розташування"
+        }
+      },
+      {
+        "key": "share",
+        "i18n": {
+          "en": "share",
+          "uk": "частка"
+        }
+      },
+      {
+        "key": "location",
+        "i18n": {
+          "en": "location",
+          "uk": "місцезнаходження"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/share-location_28ap.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 747,
+  "height": 880
+}

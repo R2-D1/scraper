@@ -1,0 +1,63 @@
+{
+  "slug": "weather-app-4cp0",
+  "mediaKey": "001861f2-24b6-4b65-93cc-a5ee1c736dc1",
+  "providerId": "5f906e2ead48360017fd621b",
+  "i18n": {
+    "name": {
+      "en": "Weather app",
+      "uk": "Додаток про погоду"
+    },
+    "alt": {
+      "en": "Weather app",
+      "uk": "Додаток про погоду"
+    },
+    "tags": [
+      {
+        "key": "weather-app",
+        "i18n": {
+          "en": "Weather app",
+          "uk": "Додаток про погоду"
+        }
+      },
+      {
+        "key": "weather",
+        "i18n": {
+          "en": "weather",
+          "uk": "погода"
+        }
+      },
+      {
+        "key": "app",
+        "i18n": {
+          "en": "app",
+          "uk": "додаток"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/weather-app_4cp0.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 859,
+  "height": 633
+}

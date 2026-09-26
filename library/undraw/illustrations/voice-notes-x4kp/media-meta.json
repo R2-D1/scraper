@@ -1,0 +1,63 @@
+{
+  "slug": "voice-notes-x4kp",
+  "mediaKey": "513c7397-6580-4318-be91-81351af76e64",
+  "providerId": "69d42b6b79740242d59ddadd",
+  "i18n": {
+    "name": {
+      "en": "Voice Notes",
+      "uk": "Голосові нотатки"
+    },
+    "alt": {
+      "en": "Voice Notes",
+      "uk": "Голосові нотатки"
+    },
+    "tags": [
+      {
+        "key": "voice-notes",
+        "i18n": {
+          "en": "Voice Notes",
+          "uk": "Голосові нотатки"
+        }
+      },
+      {
+        "key": "voice",
+        "i18n": {
+          "en": "voice",
+          "uk": "голос"
+        }
+      },
+      {
+        "key": "notes",
+        "i18n": {
+          "en": "notes",
+          "uk": "примітки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/voice-notes_x4kp.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 652
+}

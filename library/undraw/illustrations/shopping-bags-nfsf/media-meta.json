@@ -1,0 +1,63 @@
+{
+  "slug": "shopping-bags-nfsf",
+  "mediaKey": "05cfa241-4fce-442f-ad91-e725399b38d7",
+  "providerId": "6758b8a9f6a3c70016708e54",
+  "i18n": {
+    "name": {
+      "en": "Shopping Bags",
+      "uk": "Покупкові сумки"
+    },
+    "alt": {
+      "en": "Shopping Bags",
+      "uk": "Покупкові сумки"
+    },
+    "tags": [
+      {
+        "key": "shopping-bags",
+        "i18n": {
+          "en": "Shopping Bags",
+          "uk": "Покупкові сумки"
+        }
+      },
+      {
+        "key": "shopping",
+        "i18n": {
+          "en": "shopping",
+          "uk": "покупки"
+        }
+      },
+      {
+        "key": "bags",
+        "i18n": {
+          "en": "bags",
+          "uk": "сумки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/shopping-bags_nfsf.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 732,
+  "height": 511
+}

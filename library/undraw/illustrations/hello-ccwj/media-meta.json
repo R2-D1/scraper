@@ -1,0 +1,49 @@
+{
+  "slug": "hello-ccwj",
+  "mediaKey": "453b8572-3982-4ee0-8182-e5481fa6e9a8",
+  "providerId": "679d55b286390736da00774f",
+  "i18n": {
+    "name": {
+      "en": "Hello",
+      "uk": "Привіт"
+    },
+    "alt": {
+      "en": "Hello",
+      "uk": "Привіт"
+    },
+    "tags": [
+      {
+        "key": "hello",
+        "i18n": {
+          "en": "Hello",
+          "uk": "Привіт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/hello_ccwj.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 881,
+  "height": 523
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-5069876",
+  "mediaKey": "pexels:5069876",
+  "i18n": {
+    "name": {
+      "en": "Colorful concentric circular pattern",
+      "uk": "Барвистий концентричний круговий візерунок"
+    },
+    "alt": {
+      "en": "Vibrant abstract close-up image with colorful circular patterns and liquid texture.",
+      "uk": "Яскраве абстрактне зображення крупним планом із барвистими круговими візерунками та текстурою, що нагадує рідину."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "concentric-circles",
+        "i18n": {
+          "en": "concentric circles",
+          "uk": "концентричні кола"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      },
+      {
+        "key": "circular-motif",
+        "i18n": {
+          "en": "circular motif",
+          "uk": "круговий мотив"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "teal",
+        "i18n": {
+          "en": "teal",
+          "uk": "бірюзовий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/colorful-texture-and-bubbles-5069876/",
+  "sourceName": "Pexels",
+  "authorName": "Anni Roenkae",
+  "authorUrl": "https://www.pexels.com/@anniroenkae",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

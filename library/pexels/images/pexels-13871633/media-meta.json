@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-13871633",
+  "mediaKey": "pexels:13871633",
+  "i18n": {
+    "name": {
+      "en": "Woman in a white dress in a meadow",
+      "uk": "Жінка в білій сукні на квітковому лузі"
+    },
+    "alt": {
+      "en": "Ethereal image of a woman standing amidst nature, holding a bouquet with blurred bokeh background.",
+      "uk": "Ефірний образ жінки, що стоїть посеред природи, тримаючи букет, на тлі розмитого ефекту «боке»."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "white-dress",
+        "i18n": {
+          "en": "white dress",
+          "uk": "біла сукня"
+        }
+      },
+      {
+        "key": "meadow",
+        "i18n": {
+          "en": "meadow",
+          "uk": "луг"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/standing-woman-holding-a-bouquet-13871633/",
+  "sourceName": "Pexels",
+  "authorName": "Matheus Bertelli",
+  "authorUrl": "https://www.pexels.com/@bertellifotografia",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3599
+}

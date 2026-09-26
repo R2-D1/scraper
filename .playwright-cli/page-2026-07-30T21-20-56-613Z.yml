@@ -1,0 +1,276 @@
+- generic [ref=f85e4]:
+  - navigation [ref=f85e5]:
+    - generic [ref=f85e6]:
+      - generic [ref=f85e7]:
+        - link "Unsplash Home" [ref=f85e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f85e9]
+        - link "Photos" [ref=f85e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f85e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f85e17]:
+        - button "Explore" [ref=f85e18] [cursor=pointer]
+        - button "Collections" [ref=f85e21] [cursor=pointer]
+        - button "Download History" [ref=f85e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f85e28] [cursor=pointer]
+    - generic [ref=f85e31]:
+      - link "Log in / Sign up" [ref=f85e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fwoman-reading-a-book-with-hello-and-%25EC%2595%2588%25EB%2585%2595%25ED%2595%2598%25EC%2584%25B8%25EC%259A%2594-bubbles--E6QjORFcCE
+      - button "Language" [ref=f85e35] [cursor=pointer]
+      - button "Menu" [ref=f85e38] [cursor=pointer]
+  - generic [ref=f85e41]:
+    - generic [ref=f85e42]:
+      - navigation [ref=f85e43]:
+        - search "Find visuals sitewide" [ref=f85e45]:
+          - button "Search Unsplash" [ref=f85e46] [cursor=pointer]
+          - combobox [ref=f85e49]:
+            - searchbox "Search Unsplash" [ref=f85e50]
+            - listbox
+          - button "Visual search" [ref=f85e52] [cursor=pointer]
+        - generic [ref=f85e55]:
+          - link "Get Unsplash+" [ref=f85e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f85e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fwoman-reading-a-book-with-hello-and-%25EC%2595%2588%25EB%2585%2595%25ED%2595%2598%25EC%2584%25B8%25EC%259A%2594-bubbles--E6QjORFcCE
+        - button "Submit an image" [ref=f85e59] [cursor=pointer]
+      - generic [ref=f85e60]:
+        - generic [ref=f85e61]:
+          - banner [ref=f85e63]:
+            - generic [ref=f85e65]:
+              - link [ref=f85e66] [cursor=pointer]:
+                - /url: /@byyuniaz/illustrations
+              - generic [ref=f85e69]:
+                - link "By Yuniaz" [ref=f85e70] [cursor=pointer]:
+                  - /url: /@byyuniaz/illustrations
+                - generic [ref=f85e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f85e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fwoman-reading-a-book-with-hello-and-%25EC%2595%2588%25EB%2585%2595%25ED%2595%2598%25EC%2584%25B8%25EC%259A%2594-bubbles--E6QjORFcCE
+            - generic [ref=f85e73]:
+              - button "Bookmark" [ref=f85e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f85e77] [cursor=pointer]
+              - button "Edit image" [ref=f85e80] [cursor=pointer]
+              - button "Download" [ref=f85e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f85e90]:
+            - img "Woman reading a book with hello and 안녕하세요 bubbles" [ref=f85e91]
+          - generic [ref=f85e92]:
+            - generic [ref=f85e93]:
+              - generic [ref=f85e95]:
+                - heading "Featured in" [level=3] [ref=f85e96]
+                - link "Business & Tech" [ref=f85e98] [cursor=pointer]:
+                  - /url: /t/illustration-business-tech
+              - generic [ref=f85e99]:
+                - button "Share this image" [ref=f85e100] [cursor=pointer]:
+                  - generic [ref=f85e103]: Share
+                - button "More Actions" [ref=f85e104] [cursor=pointer]
+            - generic [ref=f85e108]:
+              - heading "Woman reading a book with hello and 안녕하세요 bubbles" [level=1] [ref=f85e110]
+              - paragraph [ref=f85e114]: Download this illustration of education, book, illustration, and pink by By Yuniaz (@byyuniaz)
+              - generic [ref=f85e116]:
+                - generic [ref=f85e121]:
+                  - text: Published on
+                  - time [ref=f85e122]: December 18, 2025
+                - generic [ref=f85e126]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f85e127] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f85e129]:
+              - link "education" [ref=f85e130] [cursor=pointer]:
+                - /url: /s/illustrations/education
+              - link "book" [ref=f85e131] [cursor=pointer]:
+                - /url: /s/illustrations/book
+              - link "illustration" [ref=f85e132] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "pink" [ref=f85e133] [cursor=pointer]:
+                - /url: /s/illustrations/pink
+              - link "study" [ref=f85e134] [cursor=pointer]:
+                - /url: /s/illustrations/study
+              - link "red" [ref=f85e135] [cursor=pointer]:
+                - /url: /s/illustrations/red
+              - link "communication" [ref=f85e136] [cursor=pointer]:
+                - /url: /s/illustrations/communication
+              - link "reading" [ref=f85e137] [cursor=pointer]:
+                - /url: /s/illustrations/reading
+              - link "vector" [ref=f85e138] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "global" [ref=f85e139] [cursor=pointer]:
+                - /url: /s/illustrations/global
+              - link "hello" [ref=f85e140] [cursor=pointer]:
+                - /url: /s/illustrations/hello
+              - link "language" [ref=f85e141] [cursor=pointer]:
+                - /url: /s/illustrations/language
+              - link "personal growth" [ref=f85e142] [cursor=pointer]:
+                - /url: /s/illustrations/personal-growth
+              - link "alphabet" [ref=f85e143] [cursor=pointer]:
+                - /url: /s/illustrations/alphabet
+              - link "curiosity" [ref=f85e144] [cursor=pointer]:
+                - /url: /s/illustrations/curiosity
+              - link "translation" [ref=f85e145] [cursor=pointer]:
+                - /url: /s/illustrations/translation
+              - link "discovery" [ref=f85e146] [cursor=pointer]:
+                - /url: /s/illustrations/discovery
+              - link "understanding" [ref=f85e147] [cursor=pointer]:
+                - /url: /s/illustrations/understanding
+              - link "language learning" [ref=f85e148] [cursor=pointer]:
+                - /url: /s/illustrations/language-learning
+              - link "self improvement" [ref=f85e149] [cursor=pointer]:
+                - /url: /s/illustrations/self-improvement
+        - generic [ref=f85e152]:
+          - generic [ref=f85e153]:
+            - paragraph [ref=f85e155]: From this series
+            - generic [ref=f85e158]:
+              - generic:
+                - link [ref=f85e159] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fwoman-typing-on-laptop-with-foreign-greetings-xN6DaOLbUi0
+                - link "Woman typing on laptop with foreign greetings":
+                  - /url: /illustrations/woman-typing-on-laptop-with-foreign-greetings-xN6DaOLbUi0
+                  - img "Woman typing on laptop with foreign greetings"
+          - generic [ref=f85e162]:
+            - heading "Related images" [level=4] [ref=f85e164]
+            - generic [ref=f85e168]:
+              - generic [ref=f85e169]:
+                - figure [ref=f85e170]:
+                  - generic [ref=f85e172]:
+                    - link [ref=f85e173]:
+                      - /url: /illustrations/hands-holding-book-with-greetings-in-different-languages-1H5_17UtRCY
+                      - img "Hands holding book with greetings in different languages." [ref=f85e174]
+                    - link [ref=f85e175] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhands-holding-book-with-greetings-in-different-languages-1H5_17UtRCY
+                - figure [ref=f85e178]:
+                  - generic [ref=f85e180]:
+                    - link [ref=f85e181]:
+                      - /url: /illustrations/people-communicating-with-greetings-in-different-languages-DJWdkg2GgVs
+                      - img "People communicating with greetings in different languages." [ref=f85e182]
+                    - link [ref=f85e183] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fpeople-communicating-with-greetings-in-different-languages-DJWdkg2GgVs
+                - figure [ref=f85e186]:
+                  - generic [ref=f85e188]:
+                    - link [ref=f85e189]:
+                      - /url: /illustrations/girl-reading-a-book-with-hola-and-hello-speech-bubbles-qKFtpC6SjM8
+                      - img "Girl reading a book with 'hola' and 'hello' speech bubbles." [ref=f85e190]
+                    - link [ref=f85e191] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fgirl-reading-a-book-with-hola-and-hello-speech-bubbles-qKFtpC6SjM8
+                - figure [ref=f85e194]:
+                  - generic [ref=f85e196]:
+                    - link [ref=f85e197]:
+                      - /url: /illustrations/a-drawing-of-a-woman-reading-a-book-Co5Aer_QwNs
+                      - img "A drawing of a woman reading a book" [ref=f85e198]
+                    - link [ref=f85e199] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-drawing-of-a-woman-reading-a-book-Co5Aer_QwNs
+                - figure [ref=f85e202]:
+                  - generic [ref=f85e204]:
+                    - link [ref=f85e205]:
+                      - /url: /illustrations/a-person-sitting-at-a-desk-reading-a-book-nciQSR034Q4
+                      - img "A person sitting at a desk reading a book" [ref=f85e206]
+                    - link [ref=f85e207] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-sitting-at-a-desk-reading-a-book-nciQSR034Q4
+                - figure [ref=f85e210]:
+                  - generic [ref=f85e212]:
+                    - link [ref=f85e213]:
+                      - /url: /illustrations/a-woman-reading-a-book-with-a-thought-bubble-above-her-head-sYYbk5uQ-GU
+                      - img "A woman reading a book with a thought bubble above her head" [ref=f85e214]
+                    - link [ref=f85e215] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-reading-a-book-with-a-thought-bubble-above-her-head-sYYbk5uQ-GU
+                - figure [ref=f85e218]:
+                  - generic [ref=f85e220]:
+                    - link [ref=f85e221]:
+                      - /url: /illustrations/a-girl-is-reading-a-book-while-sitting-on-the-floor-ZIK98TCiLhE
+                      - img "a girl is reading a book while sitting on the floor" [ref=f85e222]
+                    - link [ref=f85e223] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-girl-is-reading-a-book-while-sitting-on-the-floor-ZIK98TCiLhE
+              - generic [ref=f85e226]:
+                - figure [ref=f85e227]:
+                  - generic [ref=f85e229]:
+                    - link [ref=f85e230]:
+                      - /url: /illustrations/woman-reading-a-book-with-foreign-language-symbols-rmpP9xIrwaM
+                      - img "Woman reading a book with foreign language symbols." [ref=f85e231]
+                    - link [ref=f85e232] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-reading-a-book-with-foreign-language-symbols-rmpP9xIrwaM
+                - figure [ref=f85e235]:
+                  - generic [ref=f85e237]:
+                    - link [ref=f85e238]:
+                      - /url: /illustrations/hands-using-phone-for-language-translation-app-pjEaenq-1IY
+                      - img "Hands using phone for language translation app." [ref=f85e239]
+                    - link [ref=f85e240] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhands-using-phone-for-language-translation-app-pjEaenq-1IY
+                - figure [ref=f85e243]:
+                  - generic [ref=f85e245]:
+                    - link [ref=f85e246]:
+                      - /url: /illustrations/open-book-with-greetings-in-different-languages-oyFHqLtpXHo
+                      - img "Open book with greetings in different languages." [ref=f85e247]
+                    - link [ref=f85e248] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fopen-book-with-greetings-in-different-languages-oyFHqLtpXHo
+                - figure [ref=f85e251]:
+                  - generic [ref=f85e253]:
+                    - link [ref=f85e254]:
+                      - /url: /illustrations/a-person-reading-a-book-with-pencils-in-front-of-them--3uxY3KQnzA
+                      - img "A person reading a book with pencils in front of them" [ref=f85e255]
+                    - link [ref=f85e256] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-reading-a-book-with-pencils-in-front-of-them--3uxY3KQnzA
+                - figure [ref=f85e259]:
+                  - generic [ref=f85e261]:
+                    - link [ref=f85e262]:
+                      - /url: /illustrations/cartoon-girl-singing-with-a-microphone-and-musical-notes-0LFR0UsVfFQ
+                      - img "Cartoon girl singing with a microphone and musical notes." [ref=f85e263]
+                    - link [ref=f85e264] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcartoon-girl-singing-with-a-microphone-and-musical-notes-0LFR0UsVfFQ
+                - figure [ref=f85e267]:
+                  - generic [ref=f85e269]:
+                    - link [ref=f85e270]:
+                      - /url: /illustrations/a-drawing-of-a-woman-reading-a-book-HfqnGAjEKuc
+                      - img "A drawing of a woman reading a book" [ref=f85e271]
+                    - link [ref=f85e272] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-drawing-of-a-woman-reading-a-book-HfqnGAjEKuc
+                - figure [ref=f85e275]:
+                  - generic [ref=f85e277]:
+                    - link [ref=f85e278]:
+                      - /url: /illustrations/a-person-reads-a-book-with-colorful-shapes-_e-ZdzuVyMI
+                      - img "A person reads a book with colorful shapes." [ref=f85e279]
+                    - link [ref=f85e280] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-reads-a-book-with-colorful-shapes-_e-ZdzuVyMI
+              - generic [ref=f85e283]:
+                - figure [ref=f85e284]:
+                  - generic [ref=f85e286]:
+                    - link [ref=f85e287]:
+                      - /url: /illustrations/a-drawing-of-a-person-with-speech-bubbles-kab0YGU8ZB8
+                      - img "A drawing of a person with speech bubbles" [ref=f85e288]
+                    - link [ref=f85e289] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-drawing-of-a-person-with-speech-bubbles-kab0YGU8ZB8
+                - figure [ref=f85e292]:
+                  - generic [ref=f85e294]:
+                    - link [ref=f85e295]:
+                      - /url: /illustrations/person-reading-a-book-about-languages-4FFTe41yja8
+                      - img "Person reading a book about languages" [ref=f85e296]
+                    - link [ref=f85e297] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fperson-reading-a-book-about-languages-4FFTe41yja8
+                - figure [ref=f85e300]:
+                  - generic [ref=f85e302]:
+                    - link [ref=f85e303]:
+                      - /url: /illustrations/two-children-communicating-through-a-translation-app-WfJyS06mEaw
+                      - img "Two children communicating through a translation app" [ref=f85e304]
+                    - link [ref=f85e305] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ftwo-children-communicating-through-a-translation-app-WfJyS06mEaw
+                - figure [ref=f85e308]:
+                  - generic [ref=f85e310]:
+                    - link [ref=f85e311]:
+                      - /url: /illustrations/woman-using-computer-for-language-translation-4XDvpahU9VM
+                      - img "Woman using computer for language translation" [ref=f85e312]
+                    - link [ref=f85e313] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-using-computer-for-language-translation-4XDvpahU9VM
+                - figure [ref=f85e316]:
+                  - generic [ref=f85e318]:
+                    - link [ref=f85e319]:
+                      - /url: /illustrations/hands-interacting-with-a-tablet-displaying-text-and-translation-icon-M9NJjRMzcuw
+                      - img "Hands interacting with a tablet displaying text and translation icon." [ref=f85e320]
+                    - link [ref=f85e321] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhands-interacting-with-a-tablet-displaying-text-and-translation-icon-M9NJjRMzcuw
+                - figure [ref=f85e324]:
+                  - generic [ref=f85e326]:
+                    - link [ref=f85e327]:
+                      - /url: /illustrations/a-woman-reading-a-book-with-a-rainbow-in-the-background-G-mLYhQZNnw
+                      - img "A woman reading a book with a rainbow in the background" [ref=f85e328]
+                    - link [ref=f85e329] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-reading-a-book-with-a-rainbow-in-the-background-G-mLYhQZNnw
+    - generic:
+      - region "Notifications"

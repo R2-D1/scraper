@@ -1,0 +1,90 @@
+{
+  "slug": "security-mfa",
+  "mediaKey": "0cf97d7e-b151-45bd-9761-dd8cfabab3d2",
+  "i18n": {
+    "name": {
+      "en": "Multi-Factor Auth",
+      "uk": "Багатофакторна автентифікація"
+    },
+    "alt": {
+      "en": "Multi-Factor Auth",
+      "uk": "Багатофакторна автентифікація"
+    },
+    "tags": [
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "mfa",
+        "i18n": {
+          "en": "mfa",
+          "uk": "mfa"
+        }
+      },
+      {
+        "key": "2fa",
+        "i18n": {
+          "en": "2fa",
+          "uk": "2fa"
+        }
+      },
+      {
+        "key": "authentication",
+        "i18n": {
+          "en": "authentication",
+          "uk": "автентифікація"
+        }
+      },
+      {
+        "key": "phone",
+        "i18n": {
+          "en": "phone",
+          "uk": "телефон"
+        }
+      },
+      {
+        "key": "code",
+        "i18n": {
+          "en": "code",
+          "uk": "код"
+        }
+      },
+      {
+        "key": "password",
+        "i18n": {
+          "en": "password",
+          "uk": "пароль"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/security-mfa",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

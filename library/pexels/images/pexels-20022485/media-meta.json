@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-20022485",
+  "mediaKey": "pexels:20022485",
+  "i18n": {
+    "name": {
+      "en": "Full moon against a dark sky",
+      "uk": "Повний місяць на темному небі"
+    },
+    "alt": {
+      "en": "A bright full moon isolated in a dark night sky.",
+      "uk": "Яскравий повний місяць, що виразно виділяється на тлі темного нічного неба."
+    },
+    "tags": [
+      {
+        "key": "moon",
+        "i18n": {
+          "en": "moon",
+          "uk": "місяць"
+        }
+      },
+      {
+        "key": "space",
+        "i18n": {
+          "en": "space",
+          "uk": "космос"
+        }
+      },
+      {
+        "key": "astronomy",
+        "i18n": {
+          "en": "astronomy",
+          "uk": "астрономія"
+        }
+      },
+      {
+        "key": "night-sky",
+        "i18n": {
+          "en": "night sky",
+          "uk": "нічне небо"
+        }
+      },
+      {
+        "key": "dark-background",
+        "i18n": {
+          "en": "dark background",
+          "uk": "темний фон"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "space"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/20022485/",
+  "sourceName": "Pexels",
+  "authorName": "Fatih Turan",
+  "authorUrl": "https://www.pexels.com/@fatih-turan-63325184",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1673,
+  "height": 2975
+}

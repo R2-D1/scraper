@@ -1,0 +1,63 @@
+{
+  "slug": "online-meetings-zutp",
+  "mediaKey": "83d226cd-fe27-4cc7-9fc6-1a3bd061060c",
+  "providerId": "68d5b66b5be80b29a350604b",
+  "i18n": {
+    "name": {
+      "en": "Online Meetings",
+      "uk": "Онлайн-засідання"
+    },
+    "alt": {
+      "en": "Online Meetings",
+      "uk": "Онлайн-засідання"
+    },
+    "tags": [
+      {
+        "key": "online-meetings",
+        "i18n": {
+          "en": "Online Meetings",
+          "uk": "Онлайн-засідання"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "meetings",
+        "i18n": {
+          "en": "meetings",
+          "uk": "зустрічі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/online-meetings_zutp.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 660
+}

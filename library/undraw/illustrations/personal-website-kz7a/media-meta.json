@@ -1,0 +1,56 @@
+{
+  "slug": "personal-website-kz7a",
+  "mediaKey": "8e6f51c7-d18c-44bc-851c-9f0ec1c76d5e",
+  "providerId": "67771e34c85843671579b896",
+  "i18n": {
+    "name": {
+      "en": "My website",
+      "uk": "Мій веб-сайт"
+    },
+    "alt": {
+      "en": "My website",
+      "uk": "Мій веб-сайт"
+    },
+    "tags": [
+      {
+        "key": "my-website",
+        "i18n": {
+          "en": "My website",
+          "uk": "Мій веб-сайт"
+        }
+      },
+      {
+        "key": "my",
+        "i18n": {
+          "en": "my",
+          "uk": "мій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/personal-website_kz7a.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1014,
+  "height": 674
+}

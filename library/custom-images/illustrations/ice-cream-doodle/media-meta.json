@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "ice-cream-doodle",
+  "mediaKey": "custom:content:e49e8e0b956297f3a5e91b1df4f66b0f500a17c1c50fdfb4cc0515da31d0c365",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "e49e8e0b956297f3a5e91b1df4f66b0f500a17c1c50fdfb4cc0515da31d0c365",
+  "i18n": {
+    "name": {
+      "en": "Ice Cream Doodle",
+      "uk": "Малюнок із морозивом"
+    },
+    "alt": {
+      "en": "Ice Cream Doodle",
+      "uk": "Малюнок із морозивом"
+    },
+    "tags": [
+      {
+        "key": "ice",
+        "i18n": {
+          "en": "Ice",
+          "uk": "Лід"
+        }
+      },
+      {
+        "key": "cream",
+        "i18n": {
+          "en": "Cream",
+          "uk": "Крем"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

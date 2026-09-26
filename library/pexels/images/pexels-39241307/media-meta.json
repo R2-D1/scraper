@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-39241307",
+  "mediaKey": "pexels:39241307",
+  "i18n": {
+    "name": {
+      "en": "Man wearing sunglasses against a blue backdrop",
+      "uk": "Чоловік у сонцезахисних окулярах на синьому тлі"
+    },
+    "alt": {
+      "en": "Chic portrait of a man in modern attire with sunglasses against a blue background.",
+      "uk": "Стильний портрет чоловіка в сучасному вбранні та сонцезахисних окулярах на синьому тлі."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "sunglasses",
+        "i18n": {
+          "en": "sunglasses",
+          "uk": "сонцезахисні окуляри"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/stylish-portrait-of-a-fashionable-man-39241307/",
+  "sourceName": "Pexels",
+  "authorName": "Maury  Pires",
+  "authorUrl": "https://www.pexels.com/@maury-pires-1662054371",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

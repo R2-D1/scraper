@@ -1,0 +1,76 @@
+{
+  "slug": "microphone-stand",
+  "mediaKey": "cd1c9abc-ac93-415f-8d02-03509110e708",
+  "i18n": {
+    "name": {
+      "en": "Live Session",
+      "uk": "Пряма трансляція"
+    },
+    "alt": {
+      "en": "Live Session",
+      "uk": "Пряма трансляція"
+    },
+    "tags": [
+      {
+        "key": "microphone",
+        "i18n": {
+          "en": "microphone",
+          "uk": "мікрофон"
+        }
+      },
+      {
+        "key": "podcast",
+        "i18n": {
+          "en": "podcast",
+          "uk": "подкаст"
+        }
+      },
+      {
+        "key": "singing",
+        "i18n": {
+          "en": "singing",
+          "uk": "спів"
+        }
+      },
+      {
+        "key": "concert",
+        "i18n": {
+          "en": "concert",
+          "uk": "концерт"
+        }
+      },
+      {
+        "key": "voice",
+        "i18n": {
+          "en": "voice",
+          "uk": "голос"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/microphone-stand",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

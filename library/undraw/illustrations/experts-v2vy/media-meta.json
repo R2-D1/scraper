@@ -1,0 +1,49 @@
+{
+  "slug": "experts-v2vy",
+  "mediaKey": "fbad74e3-3d46-4d36-8f8d-4798e36bc984",
+  "providerId": "60892dce78bb7a0017ef2c8d",
+  "i18n": {
+    "name": {
+      "en": "Experts",
+      "uk": "Експерти"
+    },
+    "alt": {
+      "en": "Experts",
+      "uk": "Експерти"
+    },
+    "tags": [
+      {
+        "key": "experts",
+        "i18n": {
+          "en": "Experts",
+          "uk": "Експерти"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/experts_v2vy.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 795,
+  "height": 499
+}

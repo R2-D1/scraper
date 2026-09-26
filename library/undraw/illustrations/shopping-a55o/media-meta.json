@@ -1,0 +1,49 @@
+{
+  "slug": "shopping-a55o",
+  "mediaKey": "04c9ace1-a521-4b7d-9327-a83b406fd5a3",
+  "providerId": "61c1b7780012cb0018ec6fdb",
+  "i18n": {
+    "name": {
+      "en": "Shopping",
+      "uk": "Покупки"
+    },
+    "alt": {
+      "en": "Shopping",
+      "uk": "Покупки"
+    },
+    "tags": [
+      {
+        "key": "shopping",
+        "i18n": {
+          "en": "Shopping",
+          "uk": "Покупки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/shopping_a55o.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 709,
+  "height": 516
+}

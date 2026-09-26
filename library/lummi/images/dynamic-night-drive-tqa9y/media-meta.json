@@ -1,0 +1,87 @@
+{
+  "slug": "dynamic-night-drive-tqa9y",
+  "mediaKey": "461300b5-e3f8-4f0a-ab6e-ed8d6592eb2e",
+  "i18n": {
+    "name": {
+      "en": "Dynamic Night Drive",
+      "uk": "Динамічна нічна поїздка"
+    },
+    "alt": {
+      "en": "Dynamic Night Drive",
+      "uk": "Динамічна нічна поїздка"
+    },
+    "tags": [
+      {
+        "key": "light-streaks",
+        "i18n": {
+          "en": "Light streaks",
+          "uk": "Світлові смуги"
+        }
+      },
+      {
+        "key": "car",
+        "i18n": {
+          "en": "Car",
+          "uk": "Автомобіль"
+        }
+      },
+      {
+        "key": "motion",
+        "i18n": {
+          "en": "Motion",
+          "uk": "Рух"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "Night",
+          "uk": "Ніч"
+        }
+      },
+      {
+        "key": "speed",
+        "i18n": {
+          "en": "Speed",
+          "uk": "Швидкість"
+        }
+      },
+      {
+        "key": "cars",
+        "i18n": {
+          "en": "Cars",
+          "uk": "Автомобілі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "vehicles"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Sam Stoof",
+  "authorUrl": "https://www.lummi.ai/creator/samstoof?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A blurred image of a white car with illuminated headlights and taillights, captured at night against a dark blue sky. The car's motion creates a dynamic, streaked light effect, emphasizing its movement. The surrounding environment is dimly lit, with faint outlines of terrain visible. The overall composition conveys a sense of speed and energy.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1856,
+  "height": 2464,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/dynamic-night-drive-tqa9y/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/dynamic-night-drive-tqa9y/dynamic-night-drive-tqa9y.png",
+  "relativeAssetPath": "library/lummi/images/dynamic-night-drive-tqa9y/dynamic-night-drive-tqa9y.png"
+}

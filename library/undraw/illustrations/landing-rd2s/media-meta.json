@@ -1,0 +1,49 @@
+{
+  "slug": "landing-rd2s",
+  "mediaKey": "30cdfda1-87eb-4bf7-866f-6b564dfb4fe4",
+  "providerId": "6759ef4ced8cc20016c0ba61",
+  "i18n": {
+    "name": {
+      "en": "Landing",
+      "uk": "Приземлення"
+    },
+    "alt": {
+      "en": "Landing",
+      "uk": "Приземлення"
+    },
+    "tags": [
+      {
+        "key": "landing",
+        "i18n": {
+          "en": "Landing",
+          "uk": "Приземлення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/landing_rd2s.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 685,
+  "height": 385
+}

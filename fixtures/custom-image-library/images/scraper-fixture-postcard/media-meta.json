@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "scraper-fixture-postcard",
+  "mediaKey": "scraper:fixture:postcard",
+  "collectionSlugs": [
+    "scraper-fixture-travel"
+  ],
+  "pinned": false,
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "i18n": {
+    "name": {
+      "en": "Fixture postcard",
+      "uk": "Тестова листівка"
+    },
+    "alt": {
+      "en": "Abstract blue postcard fixture",
+      "uk": "Абстрактна синя тестова листівка"
+    },
+    "tags": [],
+    "keywords": {
+      "en": [
+        "travel"
+      ],
+      "uk": [
+        "подорож"
+      ]
+    }
+  },
+  "source": "https://example.com/divnex/scraper-fixture/postcard",
+  "sourceName": "Divnex scraper fixture",
+  "licenseName": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

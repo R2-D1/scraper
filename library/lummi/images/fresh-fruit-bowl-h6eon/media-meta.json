@@ -1,0 +1,91 @@
+{
+  "slug": "fresh-fruit-bowl-h6eon",
+  "mediaKey": "f45a2682-1d49-44a1-a536-356d74f12f63",
+  "i18n": {
+    "name": {
+      "en": "Fresh Fruit Bowl",
+      "uk": "Миска зі свіжими фруктами"
+    },
+    "alt": {
+      "en": "Fresh Fruit Bowl",
+      "uk": "Миска зі свіжими фруктами"
+    },
+    "tags": [
+      {
+        "key": "bowl",
+        "i18n": {
+          "en": "Bowl",
+          "uk": "Чаша"
+        }
+      },
+      {
+        "key": "fresh",
+        "i18n": {
+          "en": "Fresh",
+          "uk": "Свіжі"
+        }
+      },
+      {
+        "key": "fruit",
+        "i18n": {
+          "en": "Fruit",
+          "uk": "Фрукти"
+        }
+      },
+      {
+        "key": "shadows",
+        "i18n": {
+          "en": "Shadows",
+          "uk": "Тіні"
+        }
+      },
+      {
+        "key": "natural-light",
+        "i18n": {
+          "en": "natural light",
+          "uk": "природне світло"
+        }
+      },
+      {
+        "key": "still-life",
+        "i18n": {
+          "en": "Still Life",
+          "uk": "Натюрморт"
+        }
+      },
+      {
+        "key": "food-and-drink",
+        "i18n": {
+          "en": "Food and Drink",
+          "uk": "Їжа та напої"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/fresh-fruit-bowl-h6eon",
+  "sourceName": "Lummi",
+  "authorName": "Ajith",
+  "authorUrl": "https://www.lummi.ai/creator/4jith?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A close-up view of a bowl containing a colorful assortment of fresh fruit pieces, including strawberries, watermelon, orange segments, and honeydew melon. The fruits are vibrant and glistening, suggesting freshness and juiciness. The bowl is white with a subtle texture, and the scene is illuminated by natural light filtered through blinds, creating striped shadows across the composition. The interplay of light and shadow adds depth and visual interest to the image.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1984,
+  "height": 2400,
+  "mimeType": "image/webp"
+}

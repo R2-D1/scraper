@@ -1,0 +1,63 @@
+{
+  "slug": "my-universe-qqch",
+  "mediaKey": "d13857d8-6613-4139-b45e-65f5937e65cf",
+  "providerId": "678ac102ed18e71b1140a1e8",
+  "i18n": {
+    "name": {
+      "en": "My universe",
+      "uk": "Мій світ"
+    },
+    "alt": {
+      "en": "My universe",
+      "uk": "Мій світ"
+    },
+    "tags": [
+      {
+        "key": "my-universe",
+        "i18n": {
+          "en": "My universe",
+          "uk": "Мій світ"
+        }
+      },
+      {
+        "key": "my",
+        "i18n": {
+          "en": "my",
+          "uk": "мій"
+        }
+      },
+      {
+        "key": "universe",
+        "i18n": {
+          "en": "universe",
+          "uk": "всесвіт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/my-universe_qqch.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 880,
+  "height": 813
+}

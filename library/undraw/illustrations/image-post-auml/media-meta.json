@@ -1,0 +1,63 @@
+{
+  "slug": "image-post-auml",
+  "mediaKey": "935b09c3-dd5d-4a2f-b9ba-e1157fbf3c85",
+  "providerId": "61684dd8be11060017c219aa",
+  "i18n": {
+    "name": {
+      "en": "Image post",
+      "uk": "Публікація із зображенням"
+    },
+    "alt": {
+      "en": "Image post",
+      "uk": "Публікація із зображенням"
+    },
+    "tags": [
+      {
+        "key": "image-post",
+        "i18n": {
+          "en": "Image post",
+          "uk": "Публікація із зображенням"
+        }
+      },
+      {
+        "key": "image",
+        "i18n": {
+          "en": "image",
+          "uk": "зображення"
+        }
+      },
+      {
+        "key": "post",
+        "i18n": {
+          "en": "post",
+          "uk": "стовп"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/image-post_auml.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 743,
+  "height": 589
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-8263055",
+  "mediaKey": "pexels:8263055",
+  "i18n": {
+    "name": {
+      "en": "Person in white among blue clouds",
+      "uk": "Людина в білому серед блакитних хмар"
+    },
+    "alt": {
+      "en": "Surreal image of a woman in white surrounded by ethereal floating clouds.",
+      "uk": "Сюрреалістичний образ жінки в білому, оточеної невагомими хмарами, що пливуть у повітрі."
+    },
+    "tags": [
+      {
+        "key": "surrealism",
+        "i18n": {
+          "en": "surrealism",
+          "uk": "сюрреалізм"
+        }
+      },
+      {
+        "key": "person",
+        "i18n": {
+          "en": "person",
+          "uk": "людина"
+        }
+      },
+      {
+        "key": "clouds",
+        "i18n": {
+          "en": "clouds",
+          "uk": "хмари"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "surrealism"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-sitting-among-white-clouds-8263055/",
+  "sourceName": "Pexels",
+  "authorName": "Ron Lach",
+  "authorUrl": "https://www.pexels.com/@ron-lach",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

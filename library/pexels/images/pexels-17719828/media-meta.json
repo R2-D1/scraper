@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-17719828",
+  "mediaKey": "pexels:17719828",
+  "i18n": {
+    "name": {
+      "en": "Person standing beside a city mural",
+      "uk": "Людина біля міського розпису"
+    },
+    "alt": {
+      "en": "A person stands beside a colorful mural on a city wall.",
+      "uk": "Людина стоїть біля барвистої фрески на міській стіні."
+    },
+    "tags": [
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "urban",
+          "uk": "урбаністичний"
+        }
+      },
+      {
+        "key": "street-art",
+        "i18n": {
+          "en": "street art",
+          "uk": "вуличне мистецтво"
+        }
+      },
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "person",
+        "i18n": {
+          "en": "person",
+          "uk": "людина"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "urban"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/17719828/",
+  "sourceName": "Pexels",
+  "authorName": "Mathias Reding",
+  "authorUrl": "https://www.pexels.com/@matreding",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3599
+}

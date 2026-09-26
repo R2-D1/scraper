@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-26797493",
+  "mediaKey": "pexels:26797493",
+  "i18n": {
+    "name": {
+      "en": "Flowing teal and green abstract texture",
+      "uk": "Хвиляста бірюзово-зелена абстрактна фактура"
+    },
+    "alt": {
+      "en": "Ethereal abstract art featuring swirling teal and earthy browns creating a dynamic, textured vortex pattern.",
+      "uk": "Ефірне абстрактне мистецтво, в якому вируючі відтінки бірюзового та землисто-коричневого створюють динамічний, фактурний віхровий візерунок."
+    },
+    "tags": [
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "teal",
+        "i18n": {
+          "en": "teal",
+          "uk": "бірюзовий"
+        }
+      },
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "textures"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-green-and-blue-abstract-painting-26797493/",
+  "sourceName": "Pexels",
+  "authorName": "Robert Clark",
+  "authorUrl": "https://www.pexels.com/@robert-clark-504241532",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

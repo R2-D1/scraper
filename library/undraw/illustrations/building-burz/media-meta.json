@@ -1,0 +1,49 @@
+{
+  "slug": "building-burz",
+  "mediaKey": "4a19bdc2-4e3e-4032-ba3c-1ae7ee027346",
+  "providerId": "5ff5a0dc2ff5770017d8630c",
+  "i18n": {
+    "name": {
+      "en": "Building",
+      "uk": "Будівництво"
+    },
+    "alt": {
+      "en": "Building",
+      "uk": "Будівництво"
+    },
+    "tags": [
+      {
+        "key": "building",
+        "i18n": {
+          "en": "Building",
+          "uk": "Будівництво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/building_burz.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1010,
+  "height": 771
+}

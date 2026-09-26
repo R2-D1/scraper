@@ -1,0 +1,63 @@
+{
+  "slug": "teddy-bear-6rqf",
+  "mediaKey": "724fbde3-ad2c-4567-8145-194a5f569f53",
+  "providerId": "5bf44863a739f10014a872e5",
+  "i18n": {
+    "name": {
+      "en": "Teddy bear",
+      "uk": "Плюшевий ведмедик"
+    },
+    "alt": {
+      "en": "Teddy bear",
+      "uk": "Плюшевий ведмедик"
+    },
+    "tags": [
+      {
+        "key": "teddy-bear",
+        "i18n": {
+          "en": "Teddy bear",
+          "uk": "Плюшевий ведмедик"
+        }
+      },
+      {
+        "key": "teddy",
+        "i18n": {
+          "en": "teddy",
+          "uk": "ведмедик"
+        }
+      },
+      {
+        "key": "bear",
+        "i18n": {
+          "en": "bear",
+          "uk": "ведмідь"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/teddy-bear_6rqf.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1071,
+  "height": 838
+}

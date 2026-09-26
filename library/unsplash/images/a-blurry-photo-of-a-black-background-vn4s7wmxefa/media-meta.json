@@ -1,0 +1,78 @@
+{
+  "slug": "a-blurry-photo-of-a-black-background-vn4s7wmxefa",
+  "mediaKey": "3c2d929c-0719-4b5b-a5e0-ef935e3388ef",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "A blurry photo of a black background",
+      "uk": "Розмите фото з чорним фоном"
+    },
+    "alt": {
+      "en": "A blurry photo of a black background",
+      "uk": "Розмите фото з чорним фоном"
+    },
+    "tags": [
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "digital-image",
+        "i18n": {
+          "en": "digital image",
+          "uk": "цифрове зображення"
+        }
+      },
+      {
+        "key": "grey",
+        "i18n": {
+          "en": "grey",
+          "uk": "сірий"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "abstract"
+      ],
+      "uk": [
+        "абстракція"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/a-blurry-photo-of-a-black-background-VN4S7wmxeFA",
+  "sourceName": "Unsplash",
+  "authorName": "Pawel Czerwinski",
+  "authorUrl": "https://unsplash.com/@pawel_czerwinski",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 3600,
+  "collectionSlugs": [
+    "abstract"
+  ]
+}

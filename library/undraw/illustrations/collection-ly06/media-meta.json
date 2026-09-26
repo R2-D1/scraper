@@ -1,0 +1,49 @@
+{
+  "slug": "collection-ly06",
+  "mediaKey": "a8a21280-32d4-46a6-9c31-252f6fcff382",
+  "providerId": "5f92c396ba3a4b0017e202ed",
+  "i18n": {
+    "name": {
+      "en": "Collection",
+      "uk": "Колекція"
+    },
+    "alt": {
+      "en": "Collection",
+      "uk": "Колекція"
+    },
+    "tags": [
+      {
+        "key": "collection",
+        "i18n": {
+          "en": "Collection",
+          "uk": "Колекція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/collection_ly06.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 766,
+  "height": 589
+}

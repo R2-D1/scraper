@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-38774606",
+  "mediaKey": "pexels:38774606",
+  "i18n": {
+    "name": {
+      "en": "Blurred autumn leaves in warm colors",
+      "uk": "Розмиті осінні листя в теплих тонах"
+    },
+    "alt": {
+      "en": "A captivating abstract of blurred flowers and greenery in warm tones, creating a dreamy effect.",
+      "uk": "Захоплююча абстракція із розмитих квітів та зелені в теплих тонах, що створює мрійливий ефект."
+    },
+    "tags": [
+      {
+        "key": "autumn-leaves",
+        "i18n": {
+          "en": "autumn leaves",
+          "uk": "осіннє листя"
+        }
+      },
+      {
+        "key": "foliage",
+        "i18n": {
+          "en": "foliage",
+          "uk": "листя"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      },
+      {
+        "key": "motion-blur",
+        "i18n": {
+          "en": "motion blur",
+          "uk": "розмиття в русі"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "nature"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/abstract-blur-of-colorful-flowers-and-greenery-38774606/",
+  "sourceName": "Pexels",
+  "authorName": "Letícia Alvares",
+  "authorUrl": "https://www.pexels.com/@leticia-alvares-1805702",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

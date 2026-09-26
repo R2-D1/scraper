@@ -1,0 +1,259 @@
+- generic [ref=f69e4]:
+  - navigation [ref=f69e5]:
+    - generic [ref=f69e6]:
+      - generic [ref=f69e7]:
+        - link "Unsplash Home" [ref=f69e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f69e9]
+        - link "Photos" [ref=f69e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f69e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f69e17]:
+        - button "Explore" [ref=f69e18] [cursor=pointer]
+        - button "Collections" [ref=f69e21] [cursor=pointer]
+        - button "Download History" [ref=f69e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f69e28] [cursor=pointer]
+    - generic [ref=f69e31]:
+      - link "Log in / Sign up" [ref=f69e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fcouple-sharing-a-broken-heart-symbol-9EB9RBO7dUw
+      - button "Language" [ref=f69e35] [cursor=pointer]
+      - button "Menu" [ref=f69e38] [cursor=pointer]
+  - generic [ref=f69e41]:
+    - generic [ref=f69e42]:
+      - navigation [ref=f69e43]:
+        - search "Find visuals sitewide" [ref=f69e45]:
+          - button "Search Unsplash" [ref=f69e46] [cursor=pointer]
+          - combobox [ref=f69e49]:
+            - searchbox "Search Unsplash" [ref=f69e50]
+            - listbox
+          - button "Visual search" [ref=f69e52] [cursor=pointer]
+        - generic [ref=f69e55]:
+          - link "Get Unsplash+" [ref=f69e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f69e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fcouple-sharing-a-broken-heart-symbol-9EB9RBO7dUw
+        - button "Submit an image" [ref=f69e59] [cursor=pointer]
+      - generic [ref=f69e60]:
+        - generic [ref=f69e61]:
+          - banner [ref=f69e63]:
+            - generic [ref=f69e65]:
+              - link [ref=f69e66] [cursor=pointer]:
+                - /url: /@riskyming/illustrations
+              - generic [ref=f69e69]:
+                - link "Risky Ming" [ref=f69e70] [cursor=pointer]:
+                  - /url: /@riskyming/illustrations
+                - generic [ref=f69e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f69e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcouple-sharing-a-broken-heart-symbol-9EB9RBO7dUw
+            - generic [ref=f69e73]:
+              - button "Bookmark" [ref=f69e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f69e77] [cursor=pointer]
+              - button "Edit image" [ref=f69e80] [cursor=pointer]
+              - button "Download" [ref=f69e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f69e90]:
+            - img "Couple sharing a broken heart symbol" [ref=f69e91]
+          - generic [ref=f69e92]:
+            - generic [ref=f69e94]:
+              - button "Share this image" [ref=f69e95] [cursor=pointer]:
+                - generic [ref=f69e98]: Share
+              - button "More Actions" [ref=f69e99] [cursor=pointer]
+            - generic [ref=f69e103]:
+              - heading "Couple sharing a broken heart symbol" [level=1] [ref=f69e105]
+              - paragraph [ref=f69e109]: Download this illustration of blue, couple, orange, and purple by Risky Ming (@riskyming)
+              - generic [ref=f69e111]:
+                - generic [ref=f69e116]:
+                  - text: Published on
+                  - time [ref=f69e117]: August 15, 2025
+                - generic [ref=f69e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f69e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f69e124]:
+              - link "blue" [ref=f69e125] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "couple" [ref=f69e126] [cursor=pointer]:
+                - /url: /s/illustrations/couple
+              - link "orange" [ref=f69e127] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "purple" [ref=f69e128] [cursor=pointer]:
+                - /url: /s/illustrations/purple
+              - link "broken heart" [ref=f69e129] [cursor=pointer]:
+                - /url: /s/illustrations/broken-heart
+              - link "sad couple" [ref=f69e130] [cursor=pointer]:
+                - /url: /s/illustrations/sad-couple
+              - link "sadness" [ref=f69e131] [cursor=pointer]:
+                - /url: /s/illustrations/sadness
+              - link "grief" [ref=f69e132] [cursor=pointer]:
+                - /url: /s/illustrations/grief
+              - link "loneliness" [ref=f69e133] [cursor=pointer]:
+                - /url: /s/illustrations/loneliness
+              - link "illustrations" [ref=f69e134] [cursor=pointer]:
+                - /url: /s/illustrations/illustrations
+              - link "heartbreak" [ref=f69e135] [cursor=pointer]:
+                - /url: /s/illustrations/heartbreak
+              - link "unhappy" [ref=f69e136] [cursor=pointer]:
+                - /url: /s/illustrations/unhappy
+              - link "emotional distress" [ref=f69e137] [cursor=pointer]:
+                - /url: /s/illustrations/emotional-distress
+              - link "emotional pain" [ref=f69e138] [cursor=pointer]:
+                - /url: /s/illustrations/emotional-pain
+              - link "relationship problems" [ref=f69e139] [cursor=pointer]:
+                - /url: /s/illustrations/relationship-problems
+              - link "relationship conflict" [ref=f69e140] [cursor=pointer]:
+                - /url: /s/illustrations/relationship-conflict
+              - link "unrequited love" [ref=f69e141] [cursor=pointer]:
+                - /url: /s/illustrations/unrequited-love
+              - link "heartache" [ref=f69e142] [cursor=pointer]:
+                - /url: /s/illustrations/heartache
+              - link "relationship breakdown" [ref=f69e143] [cursor=pointer]:
+                - /url: /s/illustrations/relationship-breakdown
+        - generic [ref=f69e147]:
+          - heading "Related images" [level=4] [ref=f69e149]
+          - generic [ref=f69e153]:
+            - generic [ref=f69e154]:
+              - figure [ref=f69e155]:
+                - generic [ref=f69e157]:
+                  - link [ref=f69e158]:
+                    - /url: /illustrations/a-woman-holding-a-child-in-her-arms-BW8M-KkwYs4
+                    - img "A woman holding a child in her arms" [ref=f69e159]
+                  - link [ref=f69e160] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-woman-holding-a-child-in-her-arms-BW8M-KkwYs4
+              - figure [ref=f69e163]:
+                - generic [ref=f69e165]:
+                  - link [ref=f69e166]:
+                    - /url: /illustrations/a-man-and-a-woman-hugging-each-other-0OyEKvjXNxw
+                    - img "A man and a woman hugging each other" [ref=f69e167]
+                  - link [ref=f69e168] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-hugging-each-other-0OyEKvjXNxw
+              - figure [ref=f69e171]:
+                - generic [ref=f69e173]:
+                  - link [ref=f69e174]:
+                    - /url: /illustrations/a-couple-of-people-sitting-on-top-of-a-couch-ne4nDn0p-gQ
+                    - img "A couple of people sitting on top of a couch" [ref=f69e175]
+                  - link [ref=f69e176] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-couple-of-people-sitting-on-top-of-a-couch-ne4nDn0p-gQ
+              - figure [ref=f69e179]:
+                - generic [ref=f69e181]:
+                  - link [ref=f69e182]:
+                    - /url: /illustrations/a-drawing-of-a-woman-holding-a-dog-on-a-pink-background-3XPHSaxScKc
+                    - img "A drawing of a woman holding a dog on a pink background" [ref=f69e183]
+                  - link [ref=f69e184] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-drawing-of-a-woman-holding-a-dog-on-a-pink-background-3XPHSaxScKc
+              - figure [ref=f69e187]:
+                - generic [ref=f69e189]:
+                  - link [ref=f69e190]:
+                    - /url: /illustrations/diversity-friends-group-characters-avatars-G-ulFZEzaEQ
+                    - img "diversity friends group characters avatars" [ref=f69e191]
+                  - link [ref=f69e192] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fdiversity-friends-group-characters-avatars-G-ulFZEzaEQ
+              - figure [ref=f69e195]:
+                - generic [ref=f69e197]:
+                  - link [ref=f69e198]:
+                    - /url: /illustrations/a-group-of-people-standing-next-to-each-other-on-a-pink-background-1vx4sqLFBOk
+                    - img "A group of people standing next to each other on a pink background" [ref=f69e199]
+                  - link [ref=f69e200] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-group-of-people-standing-next-to-each-other-on-a-pink-background-1vx4sqLFBOk
+              - figure [ref=f69e203]:
+                - generic [ref=f69e205]:
+                  - link [ref=f69e206]:
+                    - /url: /illustrations/vector-young-woman-and-man-in-casual-clothing-talking-to-each-other-gesticulating-with-empty-speech-bubble-above-head-friends-or-colleagues-and-social-communication-flat-illustration-WgC0-LZP2wY
+                    - img "Vector young woman and man in casual clothing talking to each other gesticulating with empty speech bubble above head. Friends or colleagues and social communication. Flat illustration" [ref=f69e207]
+                  - link [ref=f69e208] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fvector-young-woman-and-man-in-casual-clothing-talking-to-each-other-gesticulating-with-empty-speech-bubble-above-head-friends-or-colleagues-and-social-communication-flat-illustration-WgC0-LZP2wY
+            - generic [ref=f69e211]:
+              - figure [ref=f69e212]:
+                - generic [ref=f69e214]:
+                  - link [ref=f69e215]:
+                    - /url: /illustrations/two-boxers-facing-each-other-with-colorful-background-AcWZlF8mrp8
+                    - img "Two boxers facing each other with colorful background" [ref=f69e216]
+                  - link [ref=f69e217] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ftwo-boxers-facing-each-other-with-colorful-background-AcWZlF8mrp8
+              - figure [ref=f69e220]:
+                - generic [ref=f69e222]:
+                  - link [ref=f69e223]:
+                    - /url: /illustrations/a-man-standing-next-to-a-giant-blue-bird-jbwA0Sp44HA
+                    - img "A man standing next to a giant blue bird" [ref=f69e224]
+                  - link [ref=f69e225] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-standing-next-to-a-giant-blue-bird-jbwA0Sp44HA
+              - figure [ref=f69e228]:
+                - generic [ref=f69e230]:
+                  - link [ref=f69e231]:
+                    - /url: /illustrations/large-hands-holding-smartphone-with-crying-person-e1pCAEpuBTw
+                    - img "Large hands holding smartphone with crying person" [ref=f69e232]
+                  - link [ref=f69e233] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Flarge-hands-holding-smartphone-with-crying-person-e1pCAEpuBTw
+              - figure [ref=f69e236]:
+                - generic [ref=f69e238]:
+                  - link [ref=f69e239]:
+                    - /url: /illustrations/fractured-figure-chaotic-thoughts-reaching-for-a-star-5_POqFo_hK0
+                    - img "Fractured figure, chaotic thoughts, reaching for a star." [ref=f69e240]
+                  - link [ref=f69e241] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ffractured-figure-chaotic-thoughts-reaching-for-a-star-5_POqFo_hK0
+              - figure [ref=f69e244]:
+                - generic [ref=f69e246]:
+                  - link [ref=f69e247]:
+                    - /url: /illustrations/a-happy-lesbian-couple-of-women-standing-in-casual-clothes-and-holding-hands-homosexual-couple-concept-isolated-vector-icon-illustration-on-a-white-background-in-cartoon-style-cwmyMsioH_c
+                    - img "A happy lesbian couple of women standing in casual clothes and holding hands. Homosexual couple concept. Isolated vector icon illustration on a white background in cartoon style." [ref=f69e248]
+                  - link [ref=f69e249] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-happy-lesbian-couple-of-women-standing-in-casual-clothes-and-holding-hands-homosexual-couple-concept-isolated-vector-icon-illustration-on-a-white-background-in-cartoon-style-cwmyMsioH_c
+              - figure [ref=f69e252]:
+                - generic [ref=f69e254]:
+                  - link [ref=f69e255]:
+                    - /url: /illustrations/woman-looking-at-a-holographic-man-with-a-heart--5wMoa-yp9Q
+                    - img "Woman looking at a holographic man with a heart" [ref=f69e256]
+                  - link [ref=f69e257] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fwoman-looking-at-a-holographic-man-with-a-heart--5wMoa-yp9Q
+            - generic [ref=f69e260]:
+              - figure [ref=f69e261]:
+                - generic [ref=f69e263]:
+                  - link [ref=f69e264]:
+                    - /url: /illustrations/stylized-couple-dancing-together-on-a-gray-background-bVkmFVT4S2c
+                    - img "Stylized couple dancing together on a gray background" [ref=f69e265]
+                  - link [ref=f69e266] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fstylized-couple-dancing-together-on-a-gray-background-bVkmFVT4S2c
+              - figure [ref=f69e269]:
+                - generic [ref=f69e271]:
+                  - link [ref=f69e272]:
+                    - /url: /illustrations/business-woman-and-man-shaking-hands-in-flat-style-isolated-on-white-background-vector-illustration-of-greeting-or-agreement-concept-with-young-people-with-handshake-gesture-h2SUxr_kj5M
+                    - img "Business woman and man shaking hands in flat style isolated on white background. Vector illustration of greeting or agreement concept with young people with handshake gesture." [ref=f69e273]
+                  - link [ref=f69e274] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fbusiness-woman-and-man-shaking-hands-in-flat-style-isolated-on-white-background-vector-illustration-of-greeting-or-agreement-concept-with-young-people-with-handshake-gesture-h2SUxr_kj5M
+              - figure [ref=f69e277]:
+                - generic [ref=f69e279]:
+                  - link [ref=f69e280]:
+                    - /url: /illustrations/smiling-woman-in-white-hat-holding-hands-cDp0sGBylGA
+                    - img "Smiling woman in white hat holding hands" [ref=f69e281]
+                  - link [ref=f69e282] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fsmiling-woman-in-white-hat-holding-hands-cDp0sGBylGA
+              - figure [ref=f69e285]:
+                - generic [ref=f69e287]:
+                  - link [ref=f69e288]:
+                    - /url: /illustrations/happy-smiling-people-flat-vector-illustration-isolated-on-white-background-friendship-man-and-woman-happy-aqHjYkILrok
+                    - img "Happy smiling people flat vector illustration isolated on white background. Friendship. Man and woman happy" [ref=f69e289]
+                  - link [ref=f69e290] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhappy-smiling-people-flat-vector-illustration-isolated-on-white-background-friendship-man-and-woman-happy-aqHjYkILrok
+              - figure [ref=f69e293]:
+                - generic [ref=f69e295]:
+                  - link [ref=f69e296]:
+                    - /url: /illustrations/stylized-figures-shaming-a-distressed-person-6X1HNYTualk
+                    - img "Stylized figures shaming a distressed person" [ref=f69e297]
+                  - link [ref=f69e298] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fstylized-figures-shaming-a-distressed-person-6X1HNYTualk
+              - figure [ref=f69e301]:
+                - generic [ref=f69e303]:
+                  - link [ref=f69e304]:
+                    - /url: /illustrations/a-man-and-a-woman-standing-next-to-each-other-EKTshMxSkVI
+                    - img "A man and a woman standing next to each other" [ref=f69e305]
+                  - link [ref=f69e306] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-standing-next-to-each-other-EKTshMxSkVI
+              - figure [ref=f69e309]:
+                - generic [ref=f69e311]:
+                  - link [ref=f69e312]:
+                    - /url: /illustrations/couple-forming-a-heart-shape-with-arms-GWFa8e7h3lY
+                    - img "Couple forming a heart shape with arms" [ref=f69e313]
+                  - link [ref=f69e314] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcouple-forming-a-heart-shape-with-arms-GWFa8e7h3lY
+    - generic:
+      - region "Notifications"

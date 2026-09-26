@@ -1,0 +1,83 @@
+{
+  "slug": "startup-spirit",
+  "mediaKey": "d18f20c2-0160-4b9d-a9b9-d057dd06f2c9",
+  "i18n": {
+    "name": {
+      "en": "Startup Energy",
+      "uk": "Енергія стартапів"
+    },
+    "alt": {
+      "en": "Startup Energy",
+      "uk": "Енергія стартапів"
+    },
+    "tags": [
+      {
+        "key": "startup",
+        "i18n": {
+          "en": "startup",
+          "uk": "стартап"
+        }
+      },
+      {
+        "key": "rocket",
+        "i18n": {
+          "en": "rocket",
+          "uk": "ракета"
+        }
+      },
+      {
+        "key": "laptop",
+        "i18n": {
+          "en": "laptop",
+          "uk": "ноутбук"
+        }
+      },
+      {
+        "key": "launch",
+        "i18n": {
+          "en": "launch",
+          "uk": "запуск"
+        }
+      },
+      {
+        "key": "energy",
+        "i18n": {
+          "en": "energy",
+          "uk": "енергія"
+        }
+      },
+      {
+        "key": "grind",
+        "i18n": {
+          "en": "grind",
+          "uk": "подрібнювати"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/startup-spirit",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

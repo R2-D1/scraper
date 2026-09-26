@@ -1,0 +1,49 @@
+{
+  "slug": "details-sgb2",
+  "mediaKey": "373615df-79da-4bb2-ba48-5f22caa750b5",
+  "providerId": "6183f6601141f9001785a3d2",
+  "i18n": {
+    "name": {
+      "en": "Details",
+      "uk": "Деталі"
+    },
+    "alt": {
+      "en": "Details",
+      "uk": "Деталі"
+    },
+    "tags": [
+      {
+        "key": "details",
+        "i18n": {
+          "en": "Details",
+          "uk": "Деталі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/details_sgb2.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 860,
+  "height": 609
+}

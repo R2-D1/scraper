@@ -1,0 +1,90 @@
+{
+  "slug": "history-steam-engine",
+  "mediaKey": "da16e22b-28fd-4a5c-8ea0-0f2d3107c1d8",
+  "i18n": {
+    "name": {
+      "en": "Steam Engine",
+      "uk": "Парова машина"
+    },
+    "alt": {
+      "en": "Steam Engine",
+      "uk": "Парова машина"
+    },
+    "tags": [
+      {
+        "key": "history",
+        "i18n": {
+          "en": "history",
+          "uk": "історії"
+        }
+      },
+      {
+        "key": "steam",
+        "i18n": {
+          "en": "steam",
+          "uk": "Steam"
+        }
+      },
+      {
+        "key": "engine",
+        "i18n": {
+          "en": "engine",
+          "uk": "двигун"
+        }
+      },
+      {
+        "key": "train",
+        "i18n": {
+          "en": "train",
+          "uk": "поїзд"
+        }
+      },
+      {
+        "key": "locomotive",
+        "i18n": {
+          "en": "locomotive",
+          "uk": "локомотив"
+        }
+      },
+      {
+        "key": "industrial",
+        "i18n": {
+          "en": "industrial",
+          "uk": "промисловий"
+        }
+      },
+      {
+        "key": "revolution",
+        "i18n": {
+          "en": "revolution",
+          "uk": "революція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/history-steam-engine",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

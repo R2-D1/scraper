@@ -1,0 +1,91 @@
+{
+  "slug": "dynamic-red-portrait-8b-nf",
+  "mediaKey": "fb29f8f0-fe38-4516-9e64-6fdede046844",
+  "i18n": {
+    "name": {
+      "en": "Dynamic Red Portrait",
+      "uk": "Динамічний червоний портрет"
+    },
+    "alt": {
+      "en": "Dynamic Red Portrait",
+      "uk": "Динамічний червоний портрет"
+    },
+    "tags": [
+      {
+        "key": "glasses",
+        "i18n": {
+          "en": "Glasses",
+          "uk": "Окуляри"
+        }
+      },
+      {
+        "key": "motion-blur",
+        "i18n": {
+          "en": "motion blur",
+          "uk": "розмиття в русі"
+        }
+      },
+      {
+        "key": "dynamic-lighting",
+        "i18n": {
+          "en": "dynamic lighting",
+          "uk": "динамічне освітлення"
+        }
+      },
+      {
+        "key": "vibrant-contrast",
+        "i18n": {
+          "en": "vibrant contrast",
+          "uk": "яскравий контраст"
+        }
+      },
+      {
+        "key": "red-hoodie",
+        "i18n": {
+          "en": "red hoodie",
+          "uk": "червона толстовка з капюшоном"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "Fashion",
+          "uk": "Мода"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/dynamic-red-portrait-8b-nf",
+  "sourceName": "Lummi",
+  "authorName": "Berryone",
+  "authorUrl": "https://www.lummi.ai/creator/berryone?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A person is depicted wearing a vibrant red hoodie with a logo on the chest, paired with dark pants. The individual has a short haircut and is wearing glasses. The background is a deep red, complementing the hoodie and creating a striking visual contrast. The image has a dynamic, motion-blurred effect, emphasizing movement and energy. The lighting highlights the contours of the subject's face and the texture of the clothing, adding depth and dimension to the scene.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 816,
+  "height": 1456,
+  "mimeType": "image/webp"
+}

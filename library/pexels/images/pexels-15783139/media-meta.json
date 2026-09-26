@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-15783139",
+  "mediaKey": "pexels:15783139",
+  "i18n": {
+    "name": {
+      "en": "White-haired model with dramatic eye makeup",
+      "uk": "Модель зі світлим волоссям і виразним макіяжем очей"
+    },
+    "alt": {
+      "en": "Close-up portrait of glamorous woman with red eye makeup and white wig.",
+      "uk": "Портрет гламурної жінки крупним планом з червоним макіяжем очей та білою перукою."
+    },
+    "tags": [
+      {
+        "key": "makeup",
+        "i18n": {
+          "en": "makeup",
+          "uk": "макіяж"
+        }
+      },
+      {
+        "key": "eyeshadow",
+        "i18n": {
+          "en": "eyeshadow",
+          "uk": "тіні для повік"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "beauty"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/model-in-wig-with-glamour-makeup-15783139/",
+  "sourceName": "Pexels",
+  "authorName": "Mohammadreza Babaei",
+  "authorUrl": "https://www.pexels.com/@mohammadrezababaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

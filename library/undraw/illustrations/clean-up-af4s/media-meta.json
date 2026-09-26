@@ -1,0 +1,63 @@
+{
+  "slug": "clean-up-af4s",
+  "mediaKey": "e08ce091-bbe7-4ff0-8aeb-99a709d67d14",
+  "providerId": "62582c7846d0550018908dd6",
+  "i18n": {
+    "name": {
+      "en": "Clean up",
+      "uk": "Прибрати"
+    },
+    "alt": {
+      "en": "Clean up",
+      "uk": "Прибрати"
+    },
+    "tags": [
+      {
+        "key": "clean-up",
+        "i18n": {
+          "en": "Clean up",
+          "uk": "Прибрати"
+        }
+      },
+      {
+        "key": "clean",
+        "i18n": {
+          "en": "clean",
+          "uk": "чистий"
+        }
+      },
+      {
+        "key": "up",
+        "i18n": {
+          "en": "up",
+          "uk": "вгору"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/clean-up_af4s.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 473,
+  "height": 359
+}

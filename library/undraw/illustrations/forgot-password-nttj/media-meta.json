@@ -1,0 +1,63 @@
+{
+  "slug": "forgot-password-nttj",
+  "mediaKey": "6774516b-bc95-41c3-8fce-5a7dce17e335",
+  "providerId": "6887ccec7f3bd9484f47f5ae",
+  "i18n": {
+    "name": {
+      "en": "Forgot Password",
+      "uk": "Забули пароль?"
+    },
+    "alt": {
+      "en": "Forgot Password",
+      "uk": "Забули пароль?"
+    },
+    "tags": [
+      {
+        "key": "forgot-password",
+        "i18n": {
+          "en": "Forgot Password",
+          "uk": "Забули пароль?"
+        }
+      },
+      {
+        "key": "forgot",
+        "i18n": {
+          "en": "forgot",
+          "uk": "забув"
+        }
+      },
+      {
+        "key": "password",
+        "i18n": {
+          "en": "password",
+          "uk": "пароль"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/forgot-password_nttj.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 645
+}

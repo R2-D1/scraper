@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-38160950",
+  "mediaKey": "pexels:video:38160950",
+  "i18n": {
+    "name": {
+      "en": "Red City Lights Bokeh",
+      "uk": "«Червоні вогні міста» — ефект боке"
+    },
+    "alt": {
+      "en": "Pexels video 38160950",
+      "uk": "Відео з Pexels № 38160950"
+    },
+    "tags": [
+      {
+        "key": "bokeh",
+        "i18n": {
+          "en": "bokeh",
+          "uk": "боке"
+        }
+      },
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "lights",
+        "i18n": {
+          "en": "lights",
+          "uk": "вогні"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      },
+      {
+        "key": "defocused",
+        "i18n": {
+          "en": "defocused",
+          "uk": "розфокусований"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/vibrant-urban-night-traffic-bokeh-lights-38160950/",
+  "sourceName": "Pexels",
+  "authorName": "Larkkid Dung",
+  "authorUrl": "https://www.pexels.com/@larkkid-dung-363901731",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 18,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

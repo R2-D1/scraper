@@ -1,0 +1,266 @@
+- generic [ref=f15e4]:
+  - navigation [ref=f15e5]:
+    - generic [ref=f15e6]:
+      - generic [ref=f15e7]:
+        - link "Unsplash Home" [ref=f15e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f15e9]
+        - link "Photos" [ref=f15e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f15e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f15e17]:
+        - button "Explore" [ref=f15e18] [cursor=pointer]
+        - button "Collections" [ref=f15e21] [cursor=pointer]
+        - button "Download History" [ref=f15e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f15e28] [cursor=pointer]
+    - generic [ref=f15e31]:
+      - link "Log in / Sign up" [ref=f15e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-painting-of-a-person-sitting-in-a-chair-P8KOI0zh31E
+      - button "Language" [ref=f15e35] [cursor=pointer]
+      - button "Menu" [ref=f15e38] [cursor=pointer]
+  - generic [ref=f15e41]:
+    - generic [ref=f15e42]:
+      - navigation [ref=f15e43]:
+        - search "Find visuals sitewide" [ref=f15e45]:
+          - button "Search Unsplash" [ref=f15e46] [cursor=pointer]
+          - combobox [ref=f15e49]:
+            - searchbox "Search Unsplash" [ref=f15e50]
+            - listbox
+          - button "Visual search" [ref=f15e52] [cursor=pointer]
+        - generic [ref=f15e55]:
+          - link "Get Unsplash+" [ref=f15e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f15e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-painting-of-a-person-sitting-in-a-chair-P8KOI0zh31E
+        - button "Submit an image" [ref=f15e59] [cursor=pointer]
+      - generic [ref=f15e60]:
+        - generic [ref=f15e61]:
+          - banner [ref=f15e63]:
+            - generic [ref=f15e65]:
+              - link [ref=f15e66] [cursor=pointer]:
+                - /url: /@summerizze
+              - generic [ref=f15e69]:
+                - link "Summerizze" [ref=f15e70] [cursor=pointer]:
+                  - /url: /@summerizze
+                - generic [ref=f15e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f15e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-person-sitting-in-a-chair-P8KOI0zh31E
+            - generic [ref=f15e73]:
+              - button "Bookmark" [ref=f15e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f15e77] [cursor=pointer]
+              - button "Edit image" [ref=f15e80] [cursor=pointer]
+              - button "Download" [ref=f15e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f15e90]:
+            - img "A painting of a person sitting in a chair" [ref=f15e91]
+          - generic [ref=f15e92]:
+            - generic [ref=f15e93]:
+              - generic [ref=f15e95]:
+                - heading "Featured in" [level=3] [ref=f15e96]
+                - link "Illustrations" [ref=f15e98] [cursor=pointer]:
+                  - /url: /illustrations
+              - generic [ref=f15e99]:
+                - button "Share this image" [ref=f15e100] [cursor=pointer]:
+                  - generic [ref=f15e103]: Share
+                - button "More Actions" [ref=f15e104] [cursor=pointer]
+            - generic [ref=f15e108]:
+              - heading "A painting of a person sitting in a chair" [level=1] [ref=f15e110]
+              - paragraph [ref=f15e114]: Download this illustration of art, blue, green, and interior design by Summerizze (@summerizze)
+              - generic [ref=f15e116]:
+                - generic [ref=f15e121]:
+                  - text: Published on
+                  - time [ref=f15e122]: January 10, 2025
+                - generic [ref=f15e126]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f15e127] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f15e129]:
+              - link "art" [ref=f15e130] [cursor=pointer]:
+                - /url: /s/illustrations/art
+              - link "blue" [ref=f15e131] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "green" [ref=f15e132] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "interior design" [ref=f15e133] [cursor=pointer]:
+                - /url: /s/illustrations/interior-design
+              - link "illustration" [ref=f15e134] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "pattern" [ref=f15e135] [cursor=pointer]:
+                - /url: /s/illustrations/pattern
+              - link "pink" [ref=f15e136] [cursor=pointer]:
+                - /url: /s/illustrations/pink
+              - link "graphic design" [ref=f15e137] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "red" [ref=f15e138] [cursor=pointer]:
+                - /url: /s/illustrations/red
+              - link "interior" [ref=f15e139] [cursor=pointer]:
+                - /url: /s/illustrations/interior
+              - link "colorful" [ref=f15e140] [cursor=pointer]:
+                - /url: /s/illustrations/colorful
+              - link "drawing" [ref=f15e141] [cursor=pointer]:
+                - /url: /s/illustrations/drawing
+              - link "abstract art" [ref=f15e142] [cursor=pointer]:
+                - /url: /s/illustrations/abstract-art
+              - link "vector" [ref=f15e143] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "pink background" [ref=f15e144] [cursor=pointer]:
+                - /url: /s/illustrations/pink-background
+              - link "floral" [ref=f15e145] [cursor=pointer]:
+                - /url: /s/illustrations/floral
+              - link "home decor" [ref=f15e146] [cursor=pointer]:
+                - /url: /s/illustrations/home-decor
+              - link "modern art" [ref=f15e147] [cursor=pointer]:
+                - /url: /s/illustrations/modern-art
+              - link "relaxation" [ref=f15e148] [cursor=pointer]:
+                - /url: /s/illustrations/relaxation
+              - link "geometric pattern" [ref=f15e149] [cursor=pointer]:
+                - /url: /s/illustrations/geometric-pattern
+        - generic [ref=f15e153]:
+          - heading "Related images" [level=4] [ref=f15e155]
+          - generic [ref=f15e159]:
+            - generic [ref=f15e160]:
+              - figure [ref=f15e161]:
+                - generic [ref=f15e163]:
+                  - link [ref=f15e164]:
+                    - /url: /illustrations/a-painting-of-a-woman-sitting-on-a-couch-WmoCjifRgY4
+                    - img "A painting of a woman sitting on a couch" [ref=f15e165]
+                  - link [ref=f15e166] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-woman-sitting-on-a-couch-WmoCjifRgY4
+              - figure [ref=f15e169]:
+                - generic [ref=f15e171]:
+                  - link [ref=f15e172]:
+                    - /url: /illustrations/a-woman-sitting-on-a-couch-in-front-of-a-window-mC3JoBjPBPQ
+                    - img "A woman sitting on a couch in front of a window" [ref=f15e173]
+                  - link [ref=f15e174] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-on-a-couch-in-front-of-a-window-mC3JoBjPBPQ
+              - figure [ref=f15e177]:
+                - generic [ref=f15e179]:
+                  - link [ref=f15e180]:
+                    - /url: /illustrations/a-painting-of-a-woman-holding-a-cup-of-coffee-MQcQEPMHf8o
+                    - img "A painting of a woman holding a cup of coffee" [ref=f15e181]
+                  - link [ref=f15e182] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-woman-holding-a-cup-of-coffee-MQcQEPMHf8o
+              - figure [ref=f15e185]:
+                - generic [ref=f15e187]:
+                  - link [ref=f15e188]:
+                    - /url: /illustrations/a-painting-of-a-woman-sitting-on-a-bed-n_PwxJesjRc
+                    - img "A painting of a woman sitting on a bed" [ref=f15e189]
+                  - link [ref=f15e190] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-woman-sitting-on-a-bed-n_PwxJesjRc
+              - figure [ref=f15e193]:
+                - generic [ref=f15e195]:
+                  - link [ref=f15e196]:
+                    - /url: /illustrations/woman-sits-thoughtfully-in-a-colorful-room-1XHegBOEWKQ
+                    - img "Woman sits thoughtfully in a colorful room." [ref=f15e197]
+                  - link [ref=f15e198] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fwoman-sits-thoughtfully-in-a-colorful-room-1XHegBOEWKQ
+              - figure [ref=f15e201]:
+                - generic [ref=f15e203]:
+                  - link [ref=f15e204]:
+                    - /url: /illustrations/a-woman-sitting-in-a-chair-next-to-a-cactus-pQUAkqSxjq0
+                    - img "A woman sitting in a chair next to a cactus" [ref=f15e205]
+                  - link [ref=f15e206] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-in-a-chair-next-to-a-cactus-pQUAkqSxjq0
+              - figure [ref=f15e209]:
+                - generic [ref=f15e211]:
+                  - link [ref=f15e212]:
+                    - /url: /illustrations/a-living-room-with-a-blue-couch-and-paintings-on-the-wall-4FJ5x69R1UA
+                    - img "A living room with a blue couch and paintings on the wall" [ref=f15e213]
+                  - link [ref=f15e214] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-blue-couch-and-paintings-on-the-wall-4FJ5x69R1UA
+            - generic [ref=f15e217]:
+              - figure [ref=f15e218]:
+                - generic [ref=f15e220]:
+                  - link [ref=f15e221]:
+                    - /url: /illustrations/a-painting-of-a-woman-sitting-on-a-couch-WmOPj9nHUFU
+                    - img "A painting of a woman sitting on a couch" [ref=f15e222]
+                  - link [ref=f15e223] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-woman-sitting-on-a-couch-WmOPj9nHUFU
+              - figure [ref=f15e226]:
+                - generic [ref=f15e228]:
+                  - link [ref=f15e229]:
+                    - /url: /illustrations/a-living-room-with-a-couch-and-a-rug-txLkKp6YQt4
+                    - img "A living room with a couch and a rug" [ref=f15e230]
+                  - link [ref=f15e231] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-couch-and-a-rug-txLkKp6YQt4
+              - figure [ref=f15e234]:
+                - generic [ref=f15e236]:
+                  - link [ref=f15e237]:
+                    - /url: /illustrations/a-painting-of-a-woman-sitting-on-a-couch-5GiD1PLEbvc
+                    - img "A painting of a woman sitting on a couch" [ref=f15e238]
+                  - link [ref=f15e239] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-woman-sitting-on-a-couch-5GiD1PLEbvc
+              - figure [ref=f15e242]:
+                - generic [ref=f15e244]:
+                  - link [ref=f15e245]:
+                    - /url: /illustrations/a-woman-sitting-in-a-chair-reading-a-book-cPenuhMLn0Y
+                    - img "A woman sitting in a chair reading a book" [ref=f15e246]
+                  - link [ref=f15e247] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-in-a-chair-reading-a-book-cPenuhMLn0Y
+              - figure [ref=f15e250]:
+                - generic [ref=f15e252]:
+                  - link [ref=f15e253]:
+                    - /url: /illustrations/a-painting-of-a-woman-sitting-on-a-chair-7OWx-078r4M
+                    - img "A painting of a woman sitting on a chair" [ref=f15e254]
+                  - link [ref=f15e255] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-woman-sitting-on-a-chair-7OWx-078r4M
+              - figure [ref=f15e258]:
+                - generic [ref=f15e260]:
+                  - link [ref=f15e261]:
+                    - /url: /illustrations/a-woman-sitting-on-a-bean-bag-chair-in-a-room-vkdsC61DPDc
+                    - img "A woman sitting on a bean bag chair in a room" [ref=f15e262]
+                  - link [ref=f15e263] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-on-a-bean-bag-chair-in-a-room-vkdsC61DPDc
+            - generic [ref=f15e266]:
+              - figure [ref=f15e267]:
+                - generic [ref=f15e269]:
+                  - link [ref=f15e270]:
+                    - /url: /illustrations/a-woman-sitting-on-a-couch-in-a-living-room-BvJZ_gq6vZg
+                    - img "A woman sitting on a couch in a living room" [ref=f15e271]
+                  - link [ref=f15e272] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-on-a-couch-in-a-living-room-BvJZ_gq6vZg
+              - figure [ref=f15e275]:
+                - generic [ref=f15e277]:
+                  - link [ref=f15e278]:
+                    - /url: /illustrations/a-painting-of-a-woman-sitting-in-a-chair-surrounded-by-flowers-sdwrEwI2pcs
+                    - img "A painting of a woman sitting in a chair surrounded by flowers" [ref=f15e279]
+                  - link [ref=f15e280] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-woman-sitting-in-a-chair-surrounded-by-flowers-sdwrEwI2pcs
+              - figure [ref=f15e283]:
+                - generic [ref=f15e285]:
+                  - link [ref=f15e286]:
+                    - /url: /illustrations/a-painting-of-a-woman-sitting-on-a-couch-9LpQ48PL9ak
+                    - img "A painting of a woman sitting on a couch" [ref=f15e287]
+                  - link [ref=f15e288] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-woman-sitting-on-a-couch-9LpQ48PL9ak
+              - figure [ref=f15e291]:
+                - generic [ref=f15e293]:
+                  - link [ref=f15e294]:
+                    - /url: /illustrations/a-pink-chair-sitting-in-front-of-a-window-jVZddBhADHA
+                    - img "A pink chair sitting in front of a window" [ref=f15e295]
+                  - link [ref=f15e296] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-pink-chair-sitting-in-front-of-a-window-jVZddBhADHA
+              - figure [ref=f15e299]:
+                - generic [ref=f15e301]:
+                  - link [ref=f15e302]:
+                    - /url: /illustrations/a-living-room-with-a-red-chair-and-potted-plants-3gsrk1khzbU
+                    - img "A living room with a red chair and potted plants" [ref=f15e303]
+                  - link [ref=f15e304] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-red-chair-and-potted-plants-3gsrk1khzbU
+              - figure [ref=f15e307]:
+                - generic [ref=f15e309]:
+                  - link [ref=f15e310]:
+                    - /url: /illustrations/a-living-room-with-a-chair-and-a-table-kEc0qOKpdOU
+                    - img "A living room with a chair and a table" [ref=f15e311]
+                  - link [ref=f15e312] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-chair-and-a-table-kEc0qOKpdOU
+              - figure [ref=f15e315]:
+                - generic [ref=f15e317]:
+                  - link [ref=f15e318]:
+                    - /url: /illustrations/a-woman-is-walking-through-a-room-with-a-cactus-PvSbzeLgnto
+                    - img "A woman is walking through a room with a cactus" [ref=f15e319]
+                  - link [ref=f15e320] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-woman-is-walking-through-a-room-with-a-cactus-PvSbzeLgnto
+    - generic:
+      - region "Notifications"

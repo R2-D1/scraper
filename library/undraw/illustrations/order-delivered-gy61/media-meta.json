@@ -1,0 +1,63 @@
+{
+  "slug": "order-delivered-gy61",
+  "mediaKey": "14a47248-5cc6-4832-9866-2e728eb5a1e7",
+  "providerId": "6a7ba4c3939aab611cf25c8e",
+  "i18n": {
+    "name": {
+      "en": "Order Delivered",
+      "uk": "Замовлення доставлено"
+    },
+    "alt": {
+      "en": "Order Delivered",
+      "uk": "Замовлення доставлено"
+    },
+    "tags": [
+      {
+        "key": "order-delivered",
+        "i18n": {
+          "en": "Order Delivered",
+          "uk": "Замовлення доставлено"
+        }
+      },
+      {
+        "key": "order",
+        "i18n": {
+          "en": "order",
+          "uk": "порядок"
+        }
+      },
+      {
+        "key": "delivered",
+        "i18n": {
+          "en": "delivered",
+          "uk": "доставлено"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/order-delivered_gy61.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 790,
+  "height": 800
+}

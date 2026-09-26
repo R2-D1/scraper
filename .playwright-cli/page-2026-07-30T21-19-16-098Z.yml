@@ -1,0 +1,316 @@
+- generic [ref=f49e4]:
+  - navigation [ref=f49e5]:
+    - generic [ref=f49e6]:
+      - generic [ref=f49e7]:
+        - link "Unsplash Home" [ref=f49e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f49e9]
+        - link "Photos" [ref=f49e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f49e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f49e17]:
+        - button "Explore" [ref=f49e18] [cursor=pointer]
+        - button "Collections" [ref=f49e21] [cursor=pointer]
+        - button "Download History" [ref=f49e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f49e28] [cursor=pointer]
+    - generic [ref=f49e31]:
+      - link "Log in / Sign up" [ref=f49e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-phone-case-with-the-letter-b-on-it-wL8NAjVSCyU
+      - button "Language" [ref=f49e35] [cursor=pointer]
+      - button "Menu" [ref=f49e38] [cursor=pointer]
+  - generic [ref=f49e41]:
+    - generic [ref=f49e42]:
+      - navigation [ref=f49e43]:
+        - search "Find visuals sitewide" [ref=f49e45]:
+          - button "Search Unsplash" [ref=f49e46] [cursor=pointer]
+          - combobox [ref=f49e49]:
+            - searchbox "Search Unsplash" [ref=f49e50]
+            - listbox
+          - button "Visual search" [ref=f49e52] [cursor=pointer]
+        - generic [ref=f49e55]:
+          - link "Get Unsplash+" [ref=f49e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f49e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-phone-case-with-the-letter-b-on-it-wL8NAjVSCyU
+        - button "Submit an image" [ref=f49e59] [cursor=pointer]
+      - generic [ref=f49e60]:
+        - generic [ref=f49e61]:
+          - banner [ref=f49e63]:
+            - generic [ref=f49e65]:
+              - link [ref=f49e66] [cursor=pointer]:
+                - /url: /@hartonocreativestudio
+              - generic [ref=f49e69]:
+                - link "Hartono Creative Studio" [ref=f49e70] [cursor=pointer]:
+                  - /url: /@hartonocreativestudio
+                - generic [ref=f49e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f49e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-phone-case-with-the-letter-b-on-it-wL8NAjVSCyU
+            - generic [ref=f49e73]:
+              - button "Bookmark" [ref=f49e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f49e77] [cursor=pointer]
+              - button "Edit image" [ref=f49e80] [cursor=pointer]
+              - button "Download" [ref=f49e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f49e90]:
+            - img "A phone case with the letter b on it" [ref=f49e91]
+          - generic [ref=f49e92]:
+            - generic [ref=f49e93]:
+              - generic [ref=f49e95]:
+                - heading "Featured in" [level=3] [ref=f49e96]
+                - link "3D" [ref=f49e98] [cursor=pointer]:
+                  - /url: /t/3d
+              - generic [ref=f49e99]:
+                - button "Share this image" [ref=f49e100] [cursor=pointer]:
+                  - generic [ref=f49e103]: Share
+                - button "More Actions" [ref=f49e104] [cursor=pointer]
+            - generic [ref=f49e108]:
+              - heading "A phone case with the letter b on it" [level=1] [ref=f49e110]
+              - paragraph [ref=f49e114]: Retro-Futuristic Style Gradients. Vector Illustration.
+              - generic [ref=f49e116]:
+                - generic [ref=f49e121]:
+                  - text: Published on
+                  - time [ref=f49e122]: January 14, 2025
+                - generic [ref=f49e126]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f49e127] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f49e129]:
+              - link "background" [ref=f49e130] [cursor=pointer]:
+                - /url: /s/illustrations/background
+              - link "blue" [ref=f49e131] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "gradient" [ref=f49e132] [cursor=pointer]:
+                - /url: /s/illustrations/gradient
+              - link "pink" [ref=f49e133] [cursor=pointer]:
+                - /url: /s/illustrations/pink
+              - link "graphic design" [ref=f49e134] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "purple" [ref=f49e135] [cursor=pointer]:
+                - /url: /s/illustrations/purple
+              - link "abstract art" [ref=f49e136] [cursor=pointer]:
+                - /url: /s/illustrations/abstract-art
+              - link "creative" [ref=f49e137] [cursor=pointer]:
+                - /url: /s/illustrations/creative
+              - link "teal" [ref=f49e138] [cursor=pointer]:
+                - /url: /s/illustrations/teal
+              - link "artistic" [ref=f49e139] [cursor=pointer]:
+                - /url: /s/illustrations/artistic
+              - link "visual" [ref=f49e140] [cursor=pointer]:
+                - /url: /s/illustrations/visual
+              - link "modern design" [ref=f49e141] [cursor=pointer]:
+                - /url: /s/illustrations/modern-design
+              - link "abstract shape" [ref=f49e142] [cursor=pointer]:
+                - /url: /s/illustrations/abstract-shape
+              - link "geometric shape" [ref=f49e143] [cursor=pointer]:
+                - /url: /s/illustrations/geometric-shape
+              - link "3d shape" [ref=f49e144] [cursor=pointer]:
+                - /url: /s/illustrations/3d-shape
+              - link "neon colors" [ref=f49e145] [cursor=pointer]:
+                - /url: /s/illustrations/neon-colors
+        - generic [ref=f49e148]:
+          - generic [ref=f49e149]:
+            - paragraph [ref=f49e151]: From this series
+            - generic [ref=f49e154]:
+              - generic [ref=f49e155]:
+                - link [ref=f49e156] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-purple-and-pink-triangle-with-a-black-background-7MKeGdSBh-Q
+                - link [ref=f49e159]:
+                  - /url: /illustrations/a-purple-and-pink-triangle-with-a-black-background-7MKeGdSBh-Q
+                  - img "A purple and pink triangle with a black background" [ref=f49e160]
+              - generic [ref=f49e161]:
+                - link [ref=f49e162] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-phone-case-with-a-colorful-design-on-it-ptX42n_4Zfs
+                - link [ref=f49e165]:
+                  - /url: /illustrations/a-phone-case-with-a-colorful-design-on-it-ptX42n_4Zfs
+                  - img "A phone case with a colorful design on it" [ref=f49e166]
+              - generic [ref=f49e167]:
+                - link [ref=f49e168] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-poster-of-a-circular-object-with-stars-around-it-K7oKOOqkNBQ
+                - link [ref=f49e171]:
+                  - /url: /illustrations/a-poster-of-a-circular-object-with-stars-around-it-K7oKOOqkNBQ
+                  - img "A poster of a circular object with stars around it" [ref=f49e172]
+              - generic [ref=f49e173]:
+                - link [ref=f49e174] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-black-background-with-a-multicolored-image-of-a-person--Zgxgpg8xH4
+                - link [ref=f49e177]:
+                  - /url: /illustrations/a-black-background-with-a-multicolored-image-of-a-person--Zgxgpg8xH4
+                  - img "A black background with a multicolored image of a person" [ref=f49e178]
+              - generic [ref=f49e179]:
+                - link [ref=f49e180] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-colorful-rainbow-swirl-on-a-black-background-z9GKh0_f43Y
+                - link [ref=f49e183]:
+                  - /url: /illustrations/a-colorful-rainbow-swirl-on-a-black-background-z9GKh0_f43Y
+                  - img "A colorful rainbow swirl on a black background" [ref=f49e184]
+              - generic [ref=f49e185]:
+                - link [ref=f49e186] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-purple-and-pink-object-on-a-black-background-GgPP35maguI
+                - link [ref=f49e189]:
+                  - /url: /illustrations/a-purple-and-pink-object-on-a-black-background-GgPP35maguI
+                  - img "A purple and pink object on a black background" [ref=f49e190]
+              - generic [ref=f49e191]:
+                - link [ref=f49e192] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-colorful-logo-with-a-lightning-bolt-in-the-middle-of-it-K-gcwq5e9Gk
+                - link [ref=f49e195]:
+                  - /url: /illustrations/a-colorful-logo-with-a-lightning-bolt-in-the-middle-of-it-K-gcwq5e9Gk
+                  - img "A colorful logo with a lightning bolt in the middle of it" [ref=f49e196]
+              - generic [ref=f49e197]:
+                - link [ref=f49e198] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-a-cell-phone-with-a-purple-and-pink-background-EwSQe5tiChM
+                - link [ref=f49e201]:
+                  - /url: /illustrations/a-picture-of-a-cell-phone-with-a-purple-and-pink-background-EwSQe5tiChM
+                  - img "A picture of a cell phone with a purple and pink background" [ref=f49e202]
+              - generic [ref=f49e203]:
+                - link [ref=f49e204] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-black-background-with-a-pink-and-blue-design-JIfZvnQwykk
+                - link [ref=f49e207]:
+                  - /url: /illustrations/a-black-background-with-a-pink-and-blue-design-JIfZvnQwykk
+                  - img "A black background with a pink and blue design" [ref=f49e208]
+          - generic [ref=f49e209]:
+            - heading "Related images" [level=4] [ref=f49e211]
+            - generic [ref=f49e215]:
+              - generic [ref=f49e216]:
+                - figure [ref=f49e217]:
+                  - generic [ref=f49e219]:
+                    - link [ref=f49e220]:
+                      - /url: /illustrations/a-picture-of-a-group-of-rings-on-a-purple-and-orange-background-Rf6Mj8kPIXc
+                      - img "A picture of a group of rings on a purple and orange background" [ref=f49e221]
+                    - link [ref=f49e222] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-a-group-of-rings-on-a-purple-and-orange-background-Rf6Mj8kPIXc
+                - figure [ref=f49e225]:
+                  - generic [ref=f49e227]:
+                    - link [ref=f49e228]:
+                      - /url: /illustrations/a-blue-and-pink-logo-with-the-letter-o-yuOTJRxLhwE
+                      - img "A blue and pink logo with the letter o" [ref=f49e229]
+                    - link [ref=f49e230] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-blue-and-pink-logo-with-the-letter-o-yuOTJRxLhwE
+                - figure [ref=f49e233]:
+                  - generic [ref=f49e235]:
+                    - link [ref=f49e236]:
+                      - /url: /illustrations/a-black-background-with-a-red-yellow-and-green-object-4svV4GZR29c
+                      - img "A black background with a red, yellow, and green object" [ref=f49e237]
+                    - link [ref=f49e238] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-black-background-with-a-red-yellow-and-green-object-4svV4GZR29c
+                - figure [ref=f49e241]:
+                  - generic [ref=f49e243]:
+                    - link [ref=f49e244]:
+                      - /url: /illustrations/a-red-and-green-link-on-a-blue-background-_ikR5sswLzg
+                      - img "A red and green link on a blue background" [ref=f49e245]
+                    - link [ref=f49e246] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-red-and-green-link-on-a-blue-background-_ikR5sswLzg
+                - figure [ref=f49e249]:
+                  - generic [ref=f49e251]:
+                    - link [ref=f49e252]:
+                      - /url: /illustrations/abstract-flowing-tubes-with-vibrant-purple-and-orange-gradients-Pp_Wlyo98Ts
+                      - img "Abstract flowing tubes with vibrant purple and orange gradients" [ref=f49e253]
+                    - link [ref=f49e254] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-flowing-tubes-with-vibrant-purple-and-orange-gradients-Pp_Wlyo98Ts
+                - figure [ref=f49e257]:
+                  - generic [ref=f49e259]:
+                    - link [ref=f49e260]:
+                      - /url: /illustrations/abstract-purple-lines-against-a-pink-and-orange-gradient-RgHzLZcgDzg
+                      - img "Abstract purple lines against a pink and orange gradient." [ref=f49e261]
+                    - link [ref=f49e262] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-purple-lines-against-a-pink-and-orange-gradient-RgHzLZcgDzg
+              - generic [ref=f49e265]:
+                - figure [ref=f49e266]:
+                  - generic [ref=f49e268]:
+                    - link [ref=f49e269]:
+                      - /url: /illustrations/abstract-colorful-gradient-ribbon-on-dark-background-ZX7iejJYRgI
+                      - img "Abstract colorful gradient ribbon on dark background" [ref=f49e270]
+                    - link [ref=f49e271] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-colorful-gradient-ribbon-on-dark-background-ZX7iejJYRgI
+                - figure [ref=f49e274]:
+                  - generic [ref=f49e276]:
+                    - link [ref=f49e277]:
+                      - /url: /illustrations/a-computer-generated-image-of-a-colorful-object-eVcnZdkit3Y
+                      - img "A computer generated image of a colorful object" [ref=f49e278]
+                    - link [ref=f49e279] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-computer-generated-image-of-a-colorful-object-eVcnZdkit3Y
+                - figure [ref=f49e282]:
+                  - generic [ref=f49e284]:
+                    - link [ref=f49e285]:
+                      - /url: /illustrations/a-picture-of-a-cell-phone-with-a-purple-and-pink-background-EwSQe5tiChM
+                      - img "A picture of a cell phone with a purple and pink background" [ref=f49e286]
+                    - link [ref=f49e287] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-a-cell-phone-with-a-purple-and-pink-background-EwSQe5tiChM
+                - figure [ref=f49e290]:
+                  - generic [ref=f49e292]:
+                    - link [ref=f49e293]:
+                      - /url: /illustrations/a-purple-intertwined-mobius-strip-on-red-kLF0OjFfCBw
+                      - img "A purple, intertwined mobius strip on red." [ref=f49e294]
+                    - link [ref=f49e295] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-purple-intertwined-mobius-strip-on-red-kLF0OjFfCBw
+                - figure [ref=f49e298]:
+                  - generic [ref=f49e300]:
+                    - link [ref=f49e301]:
+                      - /url: /illustrations/a-poster-of-a-circular-object-with-stars-around-it-K7oKOOqkNBQ
+                      - img "A poster of a circular object with stars around it" [ref=f49e302]
+                    - link [ref=f49e303] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-poster-of-a-circular-object-with-stars-around-it-K7oKOOqkNBQ
+                - figure [ref=f49e306]:
+                  - generic [ref=f49e308]:
+                    - link [ref=f49e309]:
+                      - /url: /illustrations/abstract-neon-shapes-on-a-dark-purple-background-ie1QZnyhtKM
+                      - img "Abstract neon shapes on a dark purple background" [ref=f49e310]
+                    - link [ref=f49e311] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-neon-shapes-on-a-dark-purple-background-ie1QZnyhtKM
+                - figure [ref=f49e314]:
+                  - generic [ref=f49e316]:
+                    - link [ref=f49e317]:
+                      - /url: /illustrations/two-iridescent-spheres-on-a-metallic-abstract-shape-bga5mLUkiqQ
+                      - img "Two iridescent spheres on a metallic, abstract shape." [ref=f49e318]
+                    - link [ref=f49e319] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ftwo-iridescent-spheres-on-a-metallic-abstract-shape-bga5mLUkiqQ
+              - generic [ref=f49e322]:
+                - figure [ref=f49e323]:
+                  - generic [ref=f49e325]:
+                    - link [ref=f49e326]:
+                      - /url: /illustrations/a-black-background-with-a-multicolored-image-of-a-person--Zgxgpg8xH4
+                      - img "A black background with a multicolored image of a person" [ref=f49e327]
+                    - link [ref=f49e328] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-black-background-with-a-multicolored-image-of-a-person--Zgxgpg8xH4
+                - figure [ref=f49e331]:
+                  - generic [ref=f49e333]:
+                    - link [ref=f49e334]:
+                      - /url: /illustrations/a-phone-case-with-a-colorful-design-on-it-ptX42n_4Zfs
+                      - img "A phone case with a colorful design on it" [ref=f49e335]
+                    - link [ref=f49e336] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-phone-case-with-a-colorful-design-on-it-ptX42n_4Zfs
+                - figure [ref=f49e339]:
+                  - generic [ref=f49e341]:
+                    - link [ref=f49e342]:
+                      - /url: /illustrations/a-purple-and-pink-triangle-with-a-black-background-7MKeGdSBh-Q
+                      - img "A purple and pink triangle with a black background" [ref=f49e343]
+                    - link [ref=f49e344] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-purple-and-pink-triangle-with-a-black-background-7MKeGdSBh-Q
+                - figure [ref=f49e347]:
+                  - generic [ref=f49e349]:
+                    - link [ref=f49e350]:
+                      - /url: /illustrations/abstract-geometric-shapes-in-purple-pink-and-blue-_O6TNlP-WNA
+                      - img "Abstract geometric shapes in purple, pink, and blue." [ref=f49e351]
+                    - link [ref=f49e352] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-geometric-shapes-in-purple-pink-and-blue-_O6TNlP-WNA
+                - figure [ref=f49e355]:
+                  - generic [ref=f49e357]:
+                    - link [ref=f49e358]:
+                      - /url: /illustrations/a-group-of-red-circles-on-a-purple-background-a1ZIcZwCc-0
+                      - img "A group of red circles on a purple background" [ref=f49e359]
+                    - link [ref=f49e360] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-group-of-red-circles-on-a-purple-background-a1ZIcZwCc-0
+                - figure [ref=f49e363]:
+                  - generic [ref=f49e365]:
+                    - link [ref=f49e366]:
+                      - /url: /illustrations/a-colorful-abstract-design-on-a-black-background-cw7QvQfX-9U
+                      - img "A colorful abstract design on a black background" [ref=f49e367]
+                    - link [ref=f49e368] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-colorful-abstract-design-on-a-black-background-cw7QvQfX-9U
+                - figure [ref=f49e371]:
+                  - generic [ref=f49e373]:
+                    - link [ref=f49e374]:
+                      - /url: /illustrations/stack-of-colorful-gradient-discs-on-white-background-OT-NrQYFkc8
+                      - img "Stack of colorful gradient discs on white background" [ref=f49e375]
+                    - link [ref=f49e376] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fstack-of-colorful-gradient-discs-on-white-background-OT-NrQYFkc8
+    - generic:
+      - region "Notifications"

@@ -1,0 +1,90 @@
+{
+  "slug": "security-surveillance",
+  "mediaKey": "ac548fed-336e-4369-a53d-d461a800d90e",
+  "i18n": {
+    "name": {
+      "en": "Surveillance",
+      "uk": "Спостереження"
+    },
+    "alt": {
+      "en": "Surveillance",
+      "uk": "Спостереження"
+    },
+    "tags": [
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "surveillance",
+        "i18n": {
+          "en": "surveillance",
+          "uk": "нагляд"
+        }
+      },
+      {
+        "key": "cctv",
+        "i18n": {
+          "en": "cctv",
+          "uk": "відеоспостереження"
+        }
+      },
+      {
+        "key": "camera",
+        "i18n": {
+          "en": "camera",
+          "uk": "камера"
+        }
+      },
+      {
+        "key": "monitor",
+        "i18n": {
+          "en": "monitor",
+          "uk": "монітор"
+        }
+      },
+      {
+        "key": "watch",
+        "i18n": {
+          "en": "watch",
+          "uk": "дивитися"
+        }
+      },
+      {
+        "key": "eye",
+        "i18n": {
+          "en": "eye",
+          "uk": "око"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/security-surveillance",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "device-router",
+  "mediaKey": "da39d091-13be-417a-83cf-7c586ad96328",
+  "i18n": {
+    "name": {
+      "en": "Wireless Router",
+      "uk": "Бездротовий маршрутизатор"
+    },
+    "alt": {
+      "en": "Wireless Router",
+      "uk": "Бездротовий маршрутизатор"
+    },
+    "tags": [
+      {
+        "key": "router",
+        "i18n": {
+          "en": "router",
+          "uk": "маршрутизатор"
+        }
+      },
+      {
+        "key": "wifi",
+        "i18n": {
+          "en": "wifi",
+          "uk": "Wi-Fi"
+        }
+      },
+      {
+        "key": "internet",
+        "i18n": {
+          "en": "internet",
+          "uk": "інтернет"
+        }
+      },
+      {
+        "key": "wireless",
+        "i18n": {
+          "en": "wireless",
+          "uk": "бездротовий"
+        }
+      },
+      {
+        "key": "connection",
+        "i18n": {
+          "en": "connection",
+          "uk": "підключення"
+        }
+      },
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/device-router",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

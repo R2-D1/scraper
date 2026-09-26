@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-15783142",
+  "mediaKey": "pexels:15783142",
+  "i18n": {
+    "name": {
+      "en": "Close-up beauty portrait with white hair",
+      "uk": "Крупний план моделі зі світлим волоссям"
+    },
+    "alt": {
+      "en": "Close-up studio portrait of a woman with white hair and striking makeup.",
+      "uk": "Крупний план студійного портрета жінки з білим волоссям та яскравим макіяжем."
+    },
+    "tags": [
+      {
+        "key": "makeup",
+        "i18n": {
+          "en": "makeup",
+          "uk": "макіяж"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      },
+      {
+        "key": "close-up",
+        "i18n": {
+          "en": "close up",
+          "uk": "крупний план"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "beauty"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/portrait-of-woman-with-white-white-hair-15783142/",
+  "sourceName": "Pexels",
+  "authorName": "Mohammadreza Babaei",
+  "authorUrl": "https://www.pexels.com/@mohammadrezababaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

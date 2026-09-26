@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-8262600",
+  "mediaKey": "pexels:8262600",
+  "i18n": {
+    "name": {
+      "en": "Person among blue clouds",
+      "uk": "Людина серед блакитних хмар"
+    },
+    "alt": {
+      "en": "Asian woman holding glowing orb on bed in surreal cloud-filled room, serene night.",
+      "uk": "Азіатка, що тримає у руках сяючу кулю, лежить на ліжку в сюрреалістичній кімнаті, заповненій хмарами, — тиха ніч."
+    },
+    "tags": [
+      {
+        "key": "surrealism",
+        "i18n": {
+          "en": "surrealism",
+          "uk": "сюрреалізм"
+        }
+      },
+      {
+        "key": "person",
+        "i18n": {
+          "en": "person",
+          "uk": "людина"
+        }
+      },
+      {
+        "key": "clouds",
+        "i18n": {
+          "en": "clouds",
+          "uk": "хмари"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "surrealism"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-sitting-on-white-bed-among-clouds-8262600/",
+  "sourceName": "Pexels",
+  "authorName": "Ron Lach",
+  "authorUrl": "https://www.pexels.com/@ron-lach",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

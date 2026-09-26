@@ -1,0 +1,94 @@
+{
+  "slug": "shimmering-surface-ffrym",
+  "mediaKey": "df3dfe84-bb65-480d-820b-7a4a0cd1d46d",
+  "i18n": {
+    "name": {
+      "en": "Shimmering Surface",
+      "uk": "Мерехтлива поверхня"
+    },
+    "alt": {
+      "en": "Shimmering Surface",
+      "uk": "Мерехтлива поверхня"
+    },
+    "tags": [
+      {
+        "key": "reflective",
+        "i18n": {
+          "en": "Reflective",
+          "uk": "Відбиваючий"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "Blue",
+          "uk": "Синій"
+        }
+      },
+      {
+        "key": "silver",
+        "i18n": {
+          "en": "Silver",
+          "uk": "Срібло"
+        }
+      },
+      {
+        "key": "sparkling",
+        "i18n": {
+          "en": "Sparkling",
+          "uk": "Іскристий"
+        }
+      },
+      {
+        "key": "textured",
+        "i18n": {
+          "en": "Textured",
+          "uk": "Текстурований"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "textures"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Ricardo Matos",
+  "authorUrl": "https://www.lummi.ai/creator/ricardomatos?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "The image displays a close-up view of a surface covered in sparkling, reflective particles. The particles are arranged in a seemingly random pattern, creating a shimmering effect. The colors predominantly include shades of blue and silver, with occasional hints of warmer tones. The surface appears textured, with visible lines or ridges running through it, adding depth to the composition. The overall effect is mesmerizing, resembling a starry night sky or a glittering fabric under light.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1345,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/shimmering-surface-ffrym/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/shimmering-surface-ffrym/shimmering-surface-ffrym.png",
+  "relativeAssetPath": "library/lummi/images/shimmering-surface-ffrym/shimmering-surface-ffrym.png"
+}

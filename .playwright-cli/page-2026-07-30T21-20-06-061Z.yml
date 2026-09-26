@@ -1,0 +1,307 @@
+- generic [ref=f67e4]:
+  - navigation [ref=f67e5]:
+    - generic [ref=f67e6]:
+      - generic [ref=f67e7]:
+        - link "Unsplash Home" [ref=f67e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f67e9]
+        - link "Photos" [ref=f67e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f67e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f67e17]:
+        - button "Explore" [ref=f67e18] [cursor=pointer]
+        - button "Collections" [ref=f67e21] [cursor=pointer]
+        - button "Download History" [ref=f67e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f67e28] [cursor=pointer]
+    - generic [ref=f67e31]:
+      - link "Log in / Sign up" [ref=f67e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-painting-of-a-womans-face-surrounded-by-abstract-shapes--rHQZsoG2fs
+      - button "Language" [ref=f67e35] [cursor=pointer]
+      - button "Menu" [ref=f67e38] [cursor=pointer]
+  - generic [ref=f67e41]:
+    - generic [ref=f67e42]:
+      - navigation [ref=f67e43]:
+        - search "Find visuals sitewide" [ref=f67e45]:
+          - button "Search Unsplash" [ref=f67e46] [cursor=pointer]
+          - combobox [ref=f67e49]:
+            - searchbox "Search Unsplash" [ref=f67e50]
+            - listbox
+          - button "Visual search" [ref=f67e52] [cursor=pointer]
+        - generic [ref=f67e55]:
+          - link "Get Unsplash+" [ref=f67e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f67e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-painting-of-a-womans-face-surrounded-by-abstract-shapes--rHQZsoG2fs
+        - button "Submit an image" [ref=f67e59] [cursor=pointer]
+      - generic [ref=f67e60]:
+        - generic [ref=f67e61]:
+          - banner [ref=f67e63]:
+            - generic [ref=f67e65]:
+              - link [ref=f67e66] [cursor=pointer]:
+                - /url: /@yetiglesias/illustrations
+              - generic [ref=f67e69]:
+                - link "Yeti Iglesias" [ref=f67e70] [cursor=pointer]:
+                  - /url: /@yetiglesias/illustrations
+                - generic [ref=f67e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f67e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-womans-face-surrounded-by-abstract-shapes--rHQZsoG2fs
+            - generic [ref=f67e73]:
+              - button "Bookmark" [ref=f67e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f67e77] [cursor=pointer]
+              - button "Edit image" [ref=f67e80] [cursor=pointer]
+              - button "Download" [ref=f67e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f67e90]:
+            - img "a painting of a woman's face surrounded by abstract shapes" [ref=f67e91]
+          - generic [ref=f67e92]:
+            - generic [ref=f67e94]:
+              - button "Share this image" [ref=f67e95] [cursor=pointer]:
+                - generic [ref=f67e98]: Share
+              - button "More Actions" [ref=f67e99] [cursor=pointer]
+            - generic [ref=f67e103]:
+              - heading "a painting of a woman's face surrounded by abstract shapes" [level=1] [ref=f67e105]
+              - paragraph [ref=f67e109]: Download this illustration of graphic design, vector, creativity, and modern art by Yeti Iglesias (@yetiglesias)
+              - generic [ref=f67e111]:
+                - generic [ref=f67e116]:
+                  - text: Published on
+                  - time [ref=f67e117]: May 30, 2024
+                - generic [ref=f67e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f67e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f67e124]:
+              - link "graphic design" [ref=f67e125] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "vector" [ref=f67e126] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "creativity" [ref=f67e127] [cursor=pointer]:
+                - /url: /s/illustrations/creativity
+              - link "modern art" [ref=f67e128] [cursor=pointer]:
+                - /url: /s/illustrations/modern-art
+              - link "illustrations" [ref=f67e129] [cursor=pointer]:
+                - /url: /s/illustrations/illustrations
+              - link "imagination" [ref=f67e130] [cursor=pointer]:
+                - /url: /s/illustrations/imagination
+              - link "abstract shapes" [ref=f67e131] [cursor=pointer]:
+                - /url: /s/illustrations/abstract-shapes
+              - link "flat design" [ref=f67e132] [cursor=pointer]:
+                - /url: /s/illustrations/flat-design
+              - link "visual art" [ref=f67e133] [cursor=pointer]:
+                - /url: /s/illustrations/visual-art
+              - link "surreal art" [ref=f67e134] [cursor=pointer]:
+                - /url: /s/illustrations/surreal-art
+              - link "psychedelic art" [ref=f67e135] [cursor=pointer]:
+                - /url: /s/illustrations/psychedelic-art
+              - link "geometric patterns" [ref=f67e136] [cursor=pointer]:
+                - /url: /s/illustrations/geometric-patterns
+              - link "vibrant colors" [ref=f67e137] [cursor=pointer]:
+                - /url: /s/illustrations/vibrant-colors
+              - link "abstract expressionism" [ref=f67e138] [cursor=pointer]:
+                - /url: /s/illustrations/abstract-expressionism
+              - link "flowing lines" [ref=f67e139] [cursor=pointer]:
+                - /url: /s/illustrations/flowing-lines
+              - link "organic forms" [ref=f67e140] [cursor=pointer]:
+                - /url: /s/illustrations/organic-forms
+        - generic [ref=f67e143]:
+          - generic [ref=f67e144]:
+            - paragraph [ref=f67e146]: From this series
+            - generic [ref=f67e148]:
+              - button "scroll list to the right" [ref=f67e150] [cursor=pointer]
+              - generic [ref=f67e153]:
+                - generic [ref=f67e154]:
+                  - link [ref=f67e155] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-person-with-multiple-colored-lines-and-stars-iMdrk2si-6s
+                  - link [ref=f67e158]:
+                    - /url: /illustrations/a-painting-of-a-person-with-multiple-colored-lines-and-stars-iMdrk2si-6s
+                    - img "a painting of a person with multiple colored lines and stars" [ref=f67e159]
+                - generic [ref=f67e160]:
+                  - link [ref=f67e161] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-colorful-background-with-a-pair-of-vinyl-records-ZtXxqzXlV9c
+                  - link [ref=f67e164]:
+                    - /url: /illustrations/a-colorful-background-with-a-pair-of-vinyl-records-ZtXxqzXlV9c
+                    - img "a colorful background with a pair of vinyl records" [ref=f67e165]
+                - generic [ref=f67e166]:
+                  - link [ref=f67e167] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-colorful-poster-with-an-eye-on-it-MZ17yVJ32v4
+                  - link [ref=f67e170]:
+                    - /url: /illustrations/a-colorful-poster-with-an-eye-on-it-MZ17yVJ32v4
+                    - img "a colorful poster with an eye on it" [ref=f67e171]
+                - generic [ref=f67e172]:
+                  - link [ref=f67e173] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-stylized-image-of-a-face-with-stars-around-it-ze1gwo_uImk
+                  - link [ref=f67e176]:
+                    - /url: /illustrations/a-stylized-image-of-a-face-with-stars-around-it-ze1gwo_uImk
+                    - img "a stylized image of a face with stars around it" [ref=f67e177]
+                - generic [ref=f67e178]:
+                  - link [ref=f67e179] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-couple-of-cats-that-are-next-to-each-other-yGTLB1U4GLg
+                  - link [ref=f67e182]:
+                    - /url: /illustrations/a-couple-of-cats-that-are-next-to-each-other-yGTLB1U4GLg
+                    - img "a couple of cats that are next to each other" [ref=f67e183]
+                - generic [ref=f67e184]:
+                  - link [ref=f67e185] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-a-cat-that-is-floating-in-the-air-l68xCy3qJ5Q
+                  - link [ref=f67e188]:
+                    - /url: /illustrations/a-picture-of-a-cat-that-is-floating-in-the-air-l68xCy3qJ5Q
+                    - img "a picture of a cat that is floating in the air" [ref=f67e189]
+                - generic [ref=f67e190]:
+                  - link [ref=f67e191] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-drawing-of-a-bowl-with-candles-sticking-out-of-it-SSq8OVf88S0
+                  - link [ref=f67e194]:
+                    - /url: /illustrations/a-drawing-of-a-bowl-with-candles-sticking-out-of-it-SSq8OVf88S0
+                    - img "a drawing of a bowl with candles sticking out of it" [ref=f67e195]
+                - generic [ref=f67e196]:
+                  - link [ref=f67e197] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-colorful-abstract-painting-with-stars-in-the-background-kZEOxSsojpg
+                  - link [ref=f67e200]:
+                    - /url: /illustrations/a-colorful-abstract-painting-with-stars-in-the-background-kZEOxSsojpg
+                    - img "a colorful abstract painting with stars in the background" [ref=f67e201]
+          - generic [ref=f67e202]:
+            - heading "Related images" [level=4] [ref=f67e204]
+            - generic [ref=f67e208]:
+              - generic [ref=f67e209]:
+                - figure [ref=f67e210]:
+                  - generic [ref=f67e212]:
+                    - link [ref=f67e213]:
+                      - /url: /illustrations/abstract-composition-with-eye-and-geometric-shapes-hdB0UPM3gTE
+                      - img "Abstract composition with eye and geometric shapes" [ref=f67e214]
+                    - link [ref=f67e215] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-composition-with-eye-and-geometric-shapes-hdB0UPM3gTE
+                - figure [ref=f67e218]:
+                  - generic [ref=f67e220]:
+                    - link [ref=f67e221]:
+                      - /url: /illustrations/abstract-landscape-with-surreal-eyes-in-trees-Gm7dsxYj0J0
+                      - img "Abstract landscape with surreal eyes in trees" [ref=f67e222]
+                    - link [ref=f67e223] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-landscape-with-surreal-eyes-in-trees-Gm7dsxYj0J0
+                - figure [ref=f67e226]:
+                  - generic [ref=f67e228]:
+                    - link [ref=f67e229]:
+                      - /url: /illustrations/cartoon-faces-with-various-shapes-and-patterns-MtNITtYrDoA
+                      - img "Cartoon faces with various shapes and patterns." [ref=f67e230]
+                    - link [ref=f67e231] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcartoon-faces-with-various-shapes-and-patterns-MtNITtYrDoA
+                - figure [ref=f67e234]:
+                  - generic [ref=f67e236]:
+                    - link [ref=f67e237]:
+                      - /url: /illustrations/a-painting-of-a-person-with-an-eye-on-it--Q2YfXCk1oQ
+                      - img "a painting of a person with an eye on it" [ref=f67e238]
+                    - link [ref=f67e239] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-person-with-an-eye-on-it--Q2YfXCk1oQ
+                - figure [ref=f67e242]:
+                  - generic [ref=f67e244]:
+                    - link [ref=f67e245]:
+                      - /url: /illustrations/a-colorful-abstract-design-with-circles-and-lines-fcY9mkjGx7U
+                      - img "A colorful abstract design with circles and lines" [ref=f67e246]
+                    - link [ref=f67e247] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-colorful-abstract-design-with-circles-and-lines-fcY9mkjGx7U
+                - figure [ref=f67e250]:
+                  - generic [ref=f67e252]:
+                    - link [ref=f67e253]:
+                      - /url: /illustrations/a-painting-of-a-womans-mouth-and-tongue-Ops6bCnAza0
+                      - img "a painting of a woman's mouth and tongue" [ref=f67e254]
+                    - link [ref=f67e255] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-womans-mouth-and-tongue-Ops6bCnAza0
+                - figure [ref=f67e258]:
+                  - generic [ref=f67e260]:
+                    - link [ref=f67e261]:
+                      - /url: /illustrations/a-painting-of-a-person-with-a-knife-and-a-bowl-of-food-0Q10MUyVTak
+                      - img "A painting of a person with a knife and a bowl of food" [ref=f67e262]
+                    - link [ref=f67e263] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-person-with-a-knife-and-a-bowl-of-food-0Q10MUyVTak
+              - generic [ref=f67e266]:
+                - figure [ref=f67e267]:
+                  - generic [ref=f67e269]:
+                    - link [ref=f67e270]:
+                      - /url: /illustrations/a-colorful-abstract-painting-on-a-beige-background-uMQfGiulGMk
+                      - img "A colorful abstract painting on a beige background" [ref=f67e271]
+                    - link [ref=f67e272] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-colorful-abstract-painting-on-a-beige-background-uMQfGiulGMk
+                - figure [ref=f67e275]:
+                  - generic [ref=f67e277]:
+                    - link [ref=f67e278]:
+                      - /url: /illustrations/a-painting-of-a-bird-with-an-eye-on-it-XyOAK83bTJc
+                      - img "A painting of a bird with an eye on it" [ref=f67e279]
+                    - link [ref=f67e280] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-bird-with-an-eye-on-it-XyOAK83bTJc
+                - figure [ref=f67e283]:
+                  - generic [ref=f67e285]:
+                    - link [ref=f67e286]:
+                      - /url: /illustrations/a-painting-of-a-person-with-a-green-background-T1Z4Ub6kvjc
+                      - img "A painting of a person with a green background" [ref=f67e287]
+                    - link [ref=f67e288] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-person-with-a-green-background-T1Z4Ub6kvjc
+                - figure [ref=f67e291]:
+                  - generic [ref=f67e293]:
+                    - link [ref=f67e294]:
+                      - /url: /illustrations/a-pink-background-with-an-abstract-design-d9j7PxFzzx4
+                      - img "A pink background with an abstract design" [ref=f67e295]
+                    - link [ref=f67e296] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-pink-background-with-an-abstract-design-d9j7PxFzzx4
+                - figure [ref=f67e299]:
+                  - generic [ref=f67e301]:
+                    - link [ref=f67e302]:
+                      - /url: /illustrations/cubism-modern-young-man-portrait-dUViHH3mI3Q
+                      - img "Cubism modern young man portrait" [ref=f67e303]
+                    - link [ref=f67e304] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcubism-modern-young-man-portrait-dUViHH3mI3Q
+                - figure [ref=f67e307]:
+                  - generic [ref=f67e309]:
+                    - link [ref=f67e310]:
+                      - /url: /illustrations/a-poster-with-an-eyeball-in-the-middle-of-it-T6e9HsAYSi4
+                      - img "A poster with an eyeball in the middle of it" [ref=f67e311]
+                    - link [ref=f67e312] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-poster-with-an-eyeball-in-the-middle-of-it-T6e9HsAYSi4
+                - figure [ref=f67e315]:
+                  - generic [ref=f67e317]:
+                    - link [ref=f67e318]:
+                      - /url: /illustrations/a-picture-of-a-bird-sitting-on-top-of-a-tree-rWi-29b3rlI
+                      - img "A picture of a bird sitting on top of a tree" [ref=f67e319]
+                    - link [ref=f67e320] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-a-bird-sitting-on-top-of-a-tree-rWi-29b3rlI
+              - generic [ref=f67e323]:
+                - figure [ref=f67e324]:
+                  - generic [ref=f67e326]:
+                    - link [ref=f67e327]:
+                      - /url: /illustrations/abstract-shapes-and-colors-create-a-balanced-composition-evLQYqqpLvI
+                      - img "Abstract shapes and colors create a balanced composition." [ref=f67e328]
+                    - link [ref=f67e329] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-shapes-and-colors-create-a-balanced-composition-evLQYqqpLvI
+                - figure [ref=f67e332]:
+                  - generic [ref=f67e334]:
+                    - link [ref=f67e335]:
+                      - /url: /illustrations/faces-connect-thoughts-flow-in-a-cosmic-scene-H4xnhwu7Egg
+                      - img "Faces connect, thoughts flow in a cosmic scene." [ref=f67e336]
+                    - link [ref=f67e337] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ffaces-connect-thoughts-flow-in-a-cosmic-scene-H4xnhwu7Egg
+                - figure [ref=f67e340]:
+                  - generic [ref=f67e342]:
+                    - link [ref=f67e343]:
+                      - /url: /illustrations/a-green-background-with-a-colorful-design-on-it-ky067-OFArI
+                      - img "A green background with a colorful design on it" [ref=f67e344]
+                    - link [ref=f67e345] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-green-background-with-a-colorful-design-on-it-ky067-OFArI
+                - figure [ref=f67e348]:
+                  - generic [ref=f67e350]:
+                    - link [ref=f67e351]:
+                      - /url: /illustrations/a-poster-with-an-eye-and-a-star-on-it-_f3lP0TYVpg
+                      - img "A poster with an eye and a star on it" [ref=f67e352]
+                    - link [ref=f67e353] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-poster-with-an-eye-and-a-star-on-it-_f3lP0TYVpg
+                - figure [ref=f67e356]:
+                  - generic [ref=f67e358]:
+                    - link [ref=f67e359]:
+                      - /url: /illustrations/an-image-of-a-painting-with-stars-and-eyes-gJvGXqOJrPI
+                      - img "An image of a painting with stars and eyes" [ref=f67e360]
+                    - link [ref=f67e361] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fan-image-of-a-painting-with-stars-and-eyes-gJvGXqOJrPI
+                - figure [ref=f67e364]:
+                  - generic [ref=f67e366]:
+                    - link [ref=f67e367]:
+                      - /url: /illustrations/a-yellow-background-with-a-picture-of-a-woman-ta8jcIM33Ss
+                      - img "A yellow background with a picture of a woman" [ref=f67e368]
+                    - link [ref=f67e369] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-yellow-background-with-a-picture-of-a-woman-ta8jcIM33Ss
+    - generic:
+      - region "Notifications"

@@ -1,0 +1,87 @@
+{
+  "slug": "glowing-capsule-object-keohv",
+  "mediaKey": "4cad3969-3aaf-4c21-8b41-931aef725a46",
+  "i18n": {
+    "name": {
+      "en": "Glowing Capsule Object",
+      "uk": "Світиться об’єкт у формі капсули"
+    },
+    "alt": {
+      "en": "Glowing Capsule Object",
+      "uk": "Світиться об’єкт у формі капсули"
+    },
+    "tags": [
+      {
+        "key": "textured-surface",
+        "i18n": {
+          "en": "textured surface",
+          "uk": "текстурована поверхня"
+        }
+      },
+      {
+        "key": "realistic-lighting",
+        "i18n": {
+          "en": "realistic lighting",
+          "uk": "реалістичне освітлення"
+        }
+      },
+      {
+        "key": "3d-rendering",
+        "i18n": {
+          "en": "3d rendering",
+          "uk": "тривимірний рендеринг"
+        }
+      },
+      {
+        "key": "glowing-center",
+        "i18n": {
+          "en": "glowing center",
+          "uk": "сяюче ядро"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Ricardo Matos",
+  "authorUrl": "https://www.lummi.ai/creator/ricardomatos?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A 3D-rendered object resembling a rounded capsule with a textured surface. The outer layer is a dark, rough material, while the center glows with a warm, reddish-orange hue, creating a striking contrast. The background is a gradient of soft, muted colors, transitioning from light gray to pale green, emphasizing the central object. The lighting highlights the texture and curvature of the object, giving it a realistic and tactile appearance.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1856,
+  "height": 2464,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/glowing-capsule-object-keohv/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/glowing-capsule-object-keohv/glowing-capsule-object-keohv.png",
+  "relativeAssetPath": "library/lummi/images/glowing-capsule-object-keohv/glowing-capsule-object-keohv.png"
+}

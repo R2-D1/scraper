@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-28574492",
+  "mediaKey": "pexels:28574492",
+  "i18n": {
+    "name": {
+      "en": "Tennis ball on a blue court line",
+      "uk": "Тенісний м'яч на синій лінії корту"
+    },
+    "alt": {
+      "en": "28574492",
+      "uk": "Тенісний м'яч на синій лінії корту"
+    },
+    "tags": [
+      {
+        "key": "tennis-ball",
+        "i18n": {
+          "en": "tennis ball",
+          "uk": "тенісний м’яч"
+        }
+      },
+      {
+        "key": "tennis-court",
+        "i18n": {
+          "en": "tennis court",
+          "uk": "тенісний корт"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "sports",
+          "uk": "спорт"
+        }
+      },
+      {
+        "key": "minimal",
+        "i18n": {
+          "en": "minimal",
+          "uk": "мінімальний"
+        }
+      },
+      {
+        "key": "graphic",
+        "i18n": {
+          "en": "graphic",
+          "uk": "графічний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/28574492/",
+  "sourceName": "Pexels",
+  "authorName": "Zeynep Tekin",
+  "authorUrl": "https://www.pexels.com/@zeynep-tekin-1462737863",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3200
+}

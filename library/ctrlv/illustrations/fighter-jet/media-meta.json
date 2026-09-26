@@ -1,0 +1,83 @@
+{
+  "slug": "fighter-jet",
+  "mediaKey": "106d3b88-c962-4303-9486-c2c630c55ee5",
+  "i18n": {
+    "name": {
+      "en": "Fighter Jet",
+      "uk": "Винищувач"
+    },
+    "alt": {
+      "en": "Fighter Jet",
+      "uk": "Винищувач"
+    },
+    "tags": [
+      {
+        "key": "jet",
+        "i18n": {
+          "en": "jet",
+          "uk": "реактивний"
+        }
+      },
+      {
+        "key": "plane",
+        "i18n": {
+          "en": "plane",
+          "uk": "літак"
+        }
+      },
+      {
+        "key": "fighter",
+        "i18n": {
+          "en": "fighter",
+          "uk": "боєць"
+        }
+      },
+      {
+        "key": "military",
+        "i18n": {
+          "en": "military",
+          "uk": "військовий"
+        }
+      },
+      {
+        "key": "aviation",
+        "i18n": {
+          "en": "aviation",
+          "uk": "авіація"
+        }
+      },
+      {
+        "key": "supersonic",
+        "i18n": {
+          "en": "supersonic",
+          "uk": "надзвуковий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/fighter-jet",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

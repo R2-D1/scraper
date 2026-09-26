@@ -1,0 +1,307 @@
+- generic [ref=f77e4]:
+  - navigation [ref=f77e5]:
+    - generic [ref=f77e6]:
+      - generic [ref=f77e7]:
+        - link "Unsplash Home" [ref=f77e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f77e9]
+        - link "Photos" [ref=f77e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f77e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f77e17]:
+        - button "Explore" [ref=f77e18] [cursor=pointer]
+        - button "Collections" [ref=f77e21] [cursor=pointer]
+        - button "Download History" [ref=f77e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f77e28] [cursor=pointer]
+    - generic [ref=f77e31]:
+      - link "Log in / Sign up" [ref=f77e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fphotos%2Fa-close-up-of-a-pink-satin-fabric-vxJQN-AVLyc
+      - button "Language" [ref=f77e35] [cursor=pointer]
+      - button "Menu" [ref=f77e38] [cursor=pointer]
+  - generic [ref=f77e41]:
+    - generic [ref=f77e42]:
+      - navigation [ref=f77e43]:
+        - search "Find visuals sitewide" [ref=f77e45]:
+          - button "Search Unsplash" [ref=f77e46] [cursor=pointer]
+          - combobox [ref=f77e49]:
+            - searchbox "Search Unsplash" [ref=f77e50]
+            - listbox
+          - button "Visual search" [ref=f77e52] [cursor=pointer]
+        - generic [ref=f77e55]:
+          - link "Get Unsplash+" [ref=f77e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f77e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fphotos%2Fa-close-up-of-a-pink-satin-fabric-vxJQN-AVLyc
+        - button "Submit an image" [ref=f77e59] [cursor=pointer]
+      - generic [ref=f77e60]:
+        - generic [ref=f77e61]:
+          - banner [ref=f77e63]:
+            - generic [ref=f77e65]:
+              - link [ref=f77e66] [cursor=pointer]:
+                - /url: /@a_chosensoul
+              - generic [ref=f77e69]:
+                - link "A Chosen Soul" [ref=f77e70] [cursor=pointer]:
+                  - /url: /@a_chosensoul
+                - generic [ref=f77e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f77e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-close-up-of-a-pink-satin-fabric-vxJQN-AVLyc
+            - generic [ref=f77e73]:
+              - button "Bookmark" [ref=f77e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f77e77] [cursor=pointer]
+              - button "Edit image" [ref=f77e80] [cursor=pointer]
+              - button "Download" [ref=f77e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f77e90]:
+            - img "A close up of a pink satin fabric" [ref=f77e91]
+          - generic [ref=f77e92]:
+            - generic [ref=f77e94]:
+              - button "Share this image" [ref=f77e95] [cursor=pointer]:
+                - generic [ref=f77e98]: Share
+              - button "More Actions" [ref=f77e99] [cursor=pointer]
+            - generic [ref=f77e103]:
+              - heading "A close up of a pink satin fabric" [level=1] [ref=f77e105]
+              - paragraph [ref=f77e109]: Download this HD photo of background, texture, pattern, and pink by A Chosen Soul (@a_chosensoul)
+              - generic [ref=f77e111]:
+                - generic [ref=f77e116]:
+                  - text: Published on
+                  - time [ref=f77e117]: February 10, 2025
+                - generic [ref=f77e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f77e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f77e124]:
+              - link "background" [ref=f77e125] [cursor=pointer]:
+                - /url: /s/photos/background
+              - link "texture" [ref=f77e126] [cursor=pointer]:
+                - /url: /s/photos/texture
+              - link "pattern" [ref=f77e127] [cursor=pointer]:
+                - /url: /s/photos/pattern
+              - link "pink" [ref=f77e128] [cursor=pointer]:
+                - /url: /s/photos/pink
+              - link "red" [ref=f77e129] [cursor=pointer]:
+                - /url: /s/photos/red
+              - link "luxury" [ref=f77e130] [cursor=pointer]:
+                - /url: /s/photos/luxury
+              - link "purple" [ref=f77e131] [cursor=pointer]:
+                - /url: /s/photos/purple
+              - link "fabric" [ref=f77e132] [cursor=pointer]:
+                - /url: /s/photos/fabric
+              - link "silk" [ref=f77e133] [cursor=pointer]:
+                - /url: /s/photos/silk
+              - link "light background" [ref=f77e134] [cursor=pointer]:
+                - /url: /s/photos/light-background
+              - link "textile" [ref=f77e135] [cursor=pointer]:
+                - /url: /s/photos/textile
+              - link "material" [ref=f77e136] [cursor=pointer]:
+                - /url: /s/photos/material
+              - link "elegance" [ref=f77e137] [cursor=pointer]:
+                - /url: /s/photos/elegance
+              - link "smooth" [ref=f77e138] [cursor=pointer]:
+                - /url: /s/photos/smooth
+              - link "satin" [ref=f77e139] [cursor=pointer]:
+                - /url: /s/photos/satin
+              - link "shiny" [ref=f77e140] [cursor=pointer]:
+                - /url: /s/photos/shiny
+              - link "light wallpaper" [ref=f77e141] [cursor=pointer]:
+                - /url: /s/photos/light-wallpaper
+              - link "delicate" [ref=f77e142] [cursor=pointer]:
+                - /url: /s/photos/delicate
+              - link "wrinkle" [ref=f77e143] [cursor=pointer]:
+                - /url: /s/photos/wrinkle
+              - link "drape" [ref=f77e144] [cursor=pointer]:
+                - /url: /s/photos/drape
+        - generic [ref=f77e147]:
+          - generic [ref=f77e148]:
+            - paragraph [ref=f77e150]: From this series
+            - generic [ref=f77e153]:
+              - generic [ref=f77e154]:
+                - link [ref=f77e155] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fphotos%2Fa-close-up-of-a-wavy-pattern-on-a-white-background-zJ1O4zF_WCo
+                - link [ref=f77e158]:
+                  - /url: /photos/a-close-up-of-a-wavy-pattern-on-a-white-background-zJ1O4zF_WCo
+                  - img "A close up of a wavy pattern on a white background" [ref=f77e159]
+              - generic [ref=f77e160]:
+                - link [ref=f77e161] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fphotos%2Fa-close-up-of-a-pink-and-purple-object-on-a-white-background-UtScSM0IJYo
+                - link [ref=f77e164]:
+                  - /url: /photos/a-close-up-of-a-pink-and-purple-object-on-a-white-background-UtScSM0IJYo
+                  - img "A close up of a pink and purple object on a white background" [ref=f77e165]
+              - generic [ref=f77e166]:
+                - link [ref=f77e167] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fphotos%2Fa-blurry-photo-of-a-plant-with-long-brown-hair-G10KWAlP7aM
+                - link [ref=f77e170]:
+                  - /url: /photos/a-blurry-photo-of-a-plant-with-long-brown-hair-G10KWAlP7aM
+                  - img "A blurry photo of a plant with long brown hair" [ref=f77e171]
+              - generic [ref=f77e172]:
+                - link [ref=f77e173] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fphotos%2Fa-close-up-view-of-a-beige-fabric-tVsRJ4x-bo4
+                - link [ref=f77e176]:
+                  - /url: /photos/a-close-up-view-of-a-beige-fabric-tVsRJ4x-bo4
+                  - img "A close up view of a beige fabric" [ref=f77e177]
+              - generic [ref=f77e178]:
+                - link [ref=f77e179] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fphotos%2Fa-close-up-of-a-pink-ruffled-fabric-RDO6CtsZuLg
+                - link [ref=f77e182]:
+                  - /url: /photos/a-close-up-of-a-pink-ruffled-fabric-RDO6CtsZuLg
+                  - img "A close up of a pink ruffled fabric" [ref=f77e183]
+              - generic [ref=f77e184]:
+                - link [ref=f77e185] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fphotos%2Fa-close-up-of-a-vase-with-wavy-designs-jwE6nQd0qBg
+                - link [ref=f77e188]:
+                  - /url: /photos/a-close-up-of-a-vase-with-wavy-designs-jwE6nQd0qBg
+                  - img "A close up of a vase with wavy designs" [ref=f77e189]
+              - generic [ref=f77e190]:
+                - link [ref=f77e191] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fphotos%2Fa-close-up-of-a-pink-and-blue-pattern-c5rOOvpY5O4
+                - link [ref=f77e194]:
+                  - /url: /photos/a-close-up-of-a-pink-and-blue-pattern-c5rOOvpY5O4
+                  - img "A close up of a pink and blue pattern" [ref=f77e195]
+          - generic [ref=f77e196]:
+            - heading "Related images" [level=4] [ref=f77e198]
+            - generic [ref=f77e202]:
+              - generic [ref=f77e203]:
+                - figure [ref=f77e204]:
+                  - generic [ref=f77e206]:
+                    - link [ref=f77e207]:
+                      - /url: /photos/soft-draped-fabric-in-pale-pink-and-cream-BVlPZbcQwZI
+                      - img "Soft, draped fabric in pale pink and cream" [ref=f77e208]
+                    - link [ref=f77e209] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fsoft-draped-fabric-in-pale-pink-and-cream-BVlPZbcQwZI
+                - figure [ref=f77e212]:
+                  - generic [ref=f77e214]:
+                    - link [ref=f77e215]:
+                      - /url: /photos/a-close-up-view-of-a-beige-fabric-b2rcoCmSbRY
+                      - img "a close up view of a beige fabric" [ref=f77e216]
+                    - link [ref=f77e217] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-view-of-a-beige-fabric-b2rcoCmSbRY
+                - figure [ref=f77e220]:
+                  - generic [ref=f77e222]:
+                    - link [ref=f77e223]:
+                      - /url: /photos/a-close-up-view-of-a-white-fabric-mGa_MCJc2-U
+                      - img "a close up view of a white fabric" [ref=f77e224]
+                    - link [ref=f77e225] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-view-of-a-white-fabric-mGa_MCJc2-U
+                - figure [ref=f77e228]:
+                  - generic [ref=f77e230]:
+                    - link [ref=f77e231]:
+                      - /url: /photos/a-close-up-view-of-a-satin-fabric-M6vt0TT8kZU
+                      - img "a close up view of a satin fabric" [ref=f77e232]
+                    - link [ref=f77e233] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-view-of-a-satin-fabric-M6vt0TT8kZU
+                - figure [ref=f77e236]:
+                  - generic [ref=f77e238]:
+                    - link [ref=f77e239]:
+                      - /url: /photos/a-close-up-view-of-a-satin-fabric-pOLkDtzVuB0
+                      - img "a close up view of a satin fabric" [ref=f77e240]
+                    - link [ref=f77e241] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-view-of-a-satin-fabric-pOLkDtzVuB0
+                - figure [ref=f77e244]:
+                  - generic [ref=f77e246]:
+                    - link [ref=f77e247]:
+                      - /url: /photos/a-close-up-view-of-a-purple-fabric-KtNwmhygAkM
+                      - img "a close up view of a purple fabric" [ref=f77e248]
+                    - link [ref=f77e249] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-view-of-a-purple-fabric-KtNwmhygAkM
+                - figure [ref=f77e252]:
+                  - generic [ref=f77e254]:
+                    - link [ref=f77e255]:
+                      - /url: /photos/a-close-up-view-of-a-satin-fabric-jJSZdmuf_xo
+                      - img "a close up view of a satin fabric" [ref=f77e256]
+                    - link [ref=f77e257] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-view-of-a-satin-fabric-jJSZdmuf_xo
+              - generic [ref=f77e260]:
+                - figure [ref=f77e261]:
+                  - generic [ref=f77e263]:
+                    - link [ref=f77e264]:
+                      - /url: /photos/a-close-up-of-a-pink-satin-material-_yKz8-KXBuc
+                      - img "A close up of a pink satin material" [ref=f77e265]
+                    - link [ref=f77e266] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-of-a-pink-satin-material-_yKz8-KXBuc
+                - figure [ref=f77e269]:
+                  - generic [ref=f77e271]:
+                    - link [ref=f77e272]:
+                      - /url: /photos/a-close-up-of-a-peach-colored-fabric-MbRP_FtUKts
+                      - img "a close up of a peach colored fabric" [ref=f77e273]
+                    - link [ref=f77e274] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-of-a-peach-colored-fabric-MbRP_FtUKts
+                - figure [ref=f77e277]:
+                  - generic [ref=f77e279]:
+                    - link [ref=f77e280]:
+                      - /url: /photos/a-blurry-image-of-a-white-fabric-TRyUSL-x8GQ
+                      - img "a blurry image of a white fabric" [ref=f77e281]
+                    - link [ref=f77e282] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-white-fabric-TRyUSL-x8GQ
+                - figure [ref=f77e285]:
+                  - generic [ref=f77e287]:
+                    - link [ref=f77e288]:
+                      - /url: /photos/a-close-up-view-of-a-satin-fabric-wCw8ymwKIoQ
+                      - img "a close up view of a satin fabric" [ref=f77e289]
+                    - link [ref=f77e290] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-view-of-a-satin-fabric-wCw8ymwKIoQ
+                - figure [ref=f77e293]:
+                  - generic [ref=f77e295]:
+                    - link [ref=f77e296]:
+                      - /url: /photos/a-white-background-with-a-very-smooth-surface-FFAgMGDSVFQ
+                      - img "a white background with a very smooth surface" [ref=f77e297]
+                    - link [ref=f77e298] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-white-background-with-a-very-smooth-surface-FFAgMGDSVFQ
+                - figure [ref=f77e301]:
+                  - generic [ref=f77e303]:
+                    - link [ref=f77e304]:
+                      - /url: /photos/a-close-up-view-of-a-white-fabric-SRxxFFUrIWs
+                      - img "a close up view of a white fabric" [ref=f77e305]
+                    - link [ref=f77e306] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-view-of-a-white-fabric-SRxxFFUrIWs
+                - figure [ref=f77e309]:
+                  - generic [ref=f77e311]:
+                    - link [ref=f77e312]:
+                      - /url: /photos/blue-satin-fabric-with-elegant-folds-and-highlights-Yt8k5GWMv6w
+                      - img "Blue satin fabric with elegant folds and highlights" [ref=f77e313]
+                    - link [ref=f77e314] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fblue-satin-fabric-with-elegant-folds-and-highlights-Yt8k5GWMv6w
+              - generic [ref=f77e317]:
+                - figure [ref=f77e318]:
+                  - generic [ref=f77e320]:
+                    - link [ref=f77e321]:
+                      - /url: /photos/a-close-up-of-a-pink-satin-fabric-UKzKnbS6ojU
+                      - img "A close up of a pink satin fabric" [ref=f77e322]
+                    - link [ref=f77e323] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-of-a-pink-satin-fabric-UKzKnbS6ojU
+                - figure [ref=f77e326]:
+                  - generic [ref=f77e328]:
+                    - link [ref=f77e329]:
+                      - /url: /photos/a-blurry-image-of-a-pink-and-white-background-kn06loOZEuk
+                      - img "a blurry image of a pink and white background" [ref=f77e330]
+                    - link [ref=f77e331] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-pink-and-white-background-kn06loOZEuk
+                - figure [ref=f77e334]:
+                  - generic [ref=f77e336]:
+                    - link [ref=f77e337]:
+                      - /url: /photos/a-close-up-view-of-a-wavy-fabric-o6Wr_xmgqRQ
+                      - img "A close up view of a wavy fabric" [ref=f77e338]
+                    - link [ref=f77e339] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-view-of-a-wavy-fabric-o6Wr_xmgqRQ
+                - figure [ref=f77e342]:
+                  - generic [ref=f77e344]:
+                    - link [ref=f77e345]:
+                      - /url: /photos/a-close-up-view-of-a-white-fabric-gkBEOWJM9SQ
+                      - img "a close up view of a white fabric" [ref=f77e346]
+                    - link [ref=f77e347] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-view-of-a-white-fabric-gkBEOWJM9SQ
+                - figure [ref=f77e350]:
+                  - generic [ref=f77e352]:
+                    - link [ref=f77e353]:
+                      - /url: /photos/a-close-up-view-of-a-white-fabric-5qqNW63o9Gc
+                      - img "a close up view of a white fabric" [ref=f77e354]
+                    - link [ref=f77e355] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-view-of-a-white-fabric-5qqNW63o9Gc
+                - figure [ref=f77e358]:
+                  - generic [ref=f77e360]:
+                    - link [ref=f77e361]:
+                      - /url: /photos/a-close-up-view-of-a-white-fabric-M6aa39diA8g
+                      - img "a close up view of a white fabric" [ref=f77e362]
+                    - link [ref=f77e363] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-close-up-view-of-a-white-fabric-M6aa39diA8g
+    - generic:
+      - region "Notifications"

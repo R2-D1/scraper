@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "aristocratic-beauty-portrait",
+  "mediaKey": "custom:content:336f8595006fa58142d7d0d373748b87b5143a4f44e539d68edd8b0dcaa60287",
+  "pinned": true,
+  "collectionSlugs": [
+    "people"
+  ],
+  "sourceContentHash": "336f8595006fa58142d7d0d373748b87b5143a4f44e539d68edd8b0dcaa60287",
+  "i18n": {
+    "name": {
+      "en": "Aristocratic Beauty Portrait",
+      "uk": "Аристократичний б'юті-портрет"
+    },
+    "alt": {
+      "en": "Aristocratic Beauty Portrait",
+      "uk": "Аристократичний б'юті-портрет"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "white-hair",
+        "i18n": {
+          "en": "White Hair",
+          "uk": "Біле волосся"
+        }
+      },
+      {
+        "key": "sunglasses",
+        "i18n": {
+          "en": "Sunglasses",
+          "uk": "Сонцезахисні окуляри"
+        }
+      },
+      {
+        "key": "elegant",
+        "i18n": {
+          "en": "Elegant",
+          "uk": "Елегантне"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "Woman",
+        "Portrait",
+        "White Hair",
+        "Sunglasses",
+        "Elegant"
+      ],
+      "uk": [
+        "Жінка",
+        "Портрет",
+        "Біле волосся",
+        "Сонцезахисні окуляри",
+        "Елегантне"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://divnex.com",
+  "sourceName": "Divnex",
+  "authorName": "Divnex",
+  "authorUrl": "https://divnex.com",
+  "licenseName": "Divnex Asset License",
+  "licenseUrl": "https://divnex.com/asset-license",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/custom-images/images/aristocratic-beauty-portrait/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/custom-images/images/aristocratic-beauty-portrait/aristocratic-beauty-portrait.png",
+  "thumbnailPath": "/Users/taras/HOLE/Projects/scraper/tmp/custom-images/images/aristocratic-beauty-portrait/aristocratic-beauty-portrait_thumb.webp",
+  "relativeAssetPath": "library/custom-images/images/aristocratic-beauty-portrait/aristocratic-beauty-portrait.png",
+  "width": 2400,
+  "height": 3200
+}

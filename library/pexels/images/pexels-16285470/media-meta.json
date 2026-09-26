@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-16285470",
+  "mediaKey": "pexels:16285470",
+  "i18n": {
+    "name": {
+      "en": "Woman sitting in a shopping cart",
+      "uk": "Жінка сидить у металевому візку"
+    },
+    "alt": {
+      "en": "Adult woman sitting in a shopping cart wearing a sweater and sunglasses in a modern indoor setting.",
+      "uk": "Доросла жінка, що сидить у візку для покупок, одягнена у светр та сонцезахисні окуляри, у сучасному приміщенні."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "shopping-cart",
+        "i18n": {
+          "en": "shopping cart",
+          "uk": "візок для покупок"
+        }
+      },
+      {
+        "key": "sunglasses",
+        "i18n": {
+          "en": "sunglasses",
+          "uk": "сонцезахисні окуляри"
+        }
+      },
+      {
+        "key": "black-outfit",
+        "i18n": {
+          "en": "black outfit",
+          "uk": "чорний одяг"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/brunette-in-shopping-cart-16285470/",
+  "sourceName": "Pexels",
+  "authorName": "Behrad Rouhi",
+  "authorUrl": "https://www.pexels.com/@behrad-rouhi-510290506",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3599
+}

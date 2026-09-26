@@ -1,0 +1,97 @@
+{
+  "slug": "festival-carnival",
+  "mediaKey": "c331b10b-b33f-480b-8500-e7ef43f7d0b6",
+  "i18n": {
+    "name": {
+      "en": "Rio Carnival",
+      "uk": "Карнавал у Ріо"
+    },
+    "alt": {
+      "en": "Rio Carnival",
+      "uk": "Карнавал у Ріо"
+    },
+    "tags": [
+      {
+        "key": "festival",
+        "i18n": {
+          "en": "festival",
+          "uk": "фестиваль"
+        }
+      },
+      {
+        "key": "carnival",
+        "i18n": {
+          "en": "carnival",
+          "uk": "карнавал"
+        }
+      },
+      {
+        "key": "rio",
+        "i18n": {
+          "en": "rio",
+          "uk": "ріо"
+        }
+      },
+      {
+        "key": "brazil",
+        "i18n": {
+          "en": "brazil",
+          "uk": "бразилія"
+        }
+      },
+      {
+        "key": "samba",
+        "i18n": {
+          "en": "samba",
+          "uk": "самба"
+        }
+      },
+      {
+        "key": "dance",
+        "i18n": {
+          "en": "dance",
+          "uk": "танець"
+        }
+      },
+      {
+        "key": "celebration",
+        "i18n": {
+          "en": "celebration",
+          "uk": "святкування"
+        }
+      },
+      {
+        "key": "costume",
+        "i18n": {
+          "en": "costume",
+          "uk": "костюм"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/festival-carnival",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "server-down-lxs9",
+  "mediaKey": "e6473e42-b9aa-43e7-b09b-68dca305b81d",
+  "providerId": "5c88025f67966c00154778a1",
+  "i18n": {
+    "name": {
+      "en": "Server down",
+      "uk": "Сервер не працює"
+    },
+    "alt": {
+      "en": "Server down",
+      "uk": "Сервер не працює"
+    },
+    "tags": [
+      {
+        "key": "server-down",
+        "i18n": {
+          "en": "Server down",
+          "uk": "Сервер не працює"
+        }
+      },
+      {
+        "key": "server",
+        "i18n": {
+          "en": "server",
+          "uk": "сервер"
+        }
+      },
+      {
+        "key": "down",
+        "i18n": {
+          "en": "down",
+          "uk": "вниз"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/server-down_lxs9.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1120,
+  "height": 699
+}

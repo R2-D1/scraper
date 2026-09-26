@@ -1,0 +1,83 @@
+{
+  "slug": "choose-card",
+  "mediaKey": "2cbc1015-40f4-4233-b5c3-5250e23da808",
+  "i18n": {
+    "name": {
+      "en": "Payment Selection",
+      "uk": "Вибір способу оплати"
+    },
+    "alt": {
+      "en": "Payment Selection",
+      "uk": "Вибір способу оплати"
+    },
+    "tags": [
+      {
+        "key": "payment",
+        "i18n": {
+          "en": "payment",
+          "uk": "оплата"
+        }
+      },
+      {
+        "key": "card",
+        "i18n": {
+          "en": "card",
+          "uk": "картка"
+        }
+      },
+      {
+        "key": "billing",
+        "i18n": {
+          "en": "billing",
+          "uk": "білінг"
+        }
+      },
+      {
+        "key": "checkout",
+        "i18n": {
+          "en": "checkout",
+          "uk": "оформлення"
+        }
+      },
+      {
+        "key": "finance",
+        "i18n": {
+          "en": "finance",
+          "uk": "фінанси"
+        }
+      },
+      {
+        "key": "ops",
+        "i18n": {
+          "en": "ops",
+          "uk": "ops"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/choose-card",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

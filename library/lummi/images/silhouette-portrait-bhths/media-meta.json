@@ -1,0 +1,84 @@
+{
+  "slug": "silhouette-portrait-bhths",
+  "mediaKey": "15b452a1-d325-4fa4-ad14-6978455fb45a",
+  "i18n": {
+    "name": {
+      "en": "Silhouette Portrait",
+      "uk": "«Силуетний портрет»"
+    },
+    "alt": {
+      "en": "Silhouette Portrait",
+      "uk": "«Силуетний портрет»"
+    },
+    "tags": [
+      {
+        "key": "minimalistic",
+        "i18n": {
+          "en": "Minimalistic",
+          "uk": "Мінімалістичний"
+        }
+      },
+      {
+        "key": "silhouette",
+        "i18n": {
+          "en": "Silhouette",
+          "uk": "Силует"
+        }
+      },
+      {
+        "key": "dramatic-lighting",
+        "i18n": {
+          "en": "dramatic lighting",
+          "uk": "драматичне освітлення"
+        }
+      },
+      {
+        "key": "modern-aesthetic",
+        "i18n": {
+          "en": "modern aesthetic",
+          "uk": "сучасна естетика"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/silhouette-portrait-bhths",
+  "sourceName": "Lummi",
+  "authorName": "Sanna Granqvist",
+  "authorUrl": "https://www.lummi.ai/creator/granqvistsanna-xh1cz?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "The image depicts a silhouette of a person against a teal background. The individual has a shaved head and is wearing a dark top. The lighting creates a dramatic contrast, emphasizing the contours of the face and shoulders while leaving the rest in shadow. The background is uniformly teal, providing a clean and modern aesthetic. The overall composition is minimalistic, focusing on the interplay of light and shadow.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1696,
+  "height": 960,
+  "mimeType": "image/webp"
+}

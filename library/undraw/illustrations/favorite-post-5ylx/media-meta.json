@@ -1,0 +1,63 @@
+{
+  "slug": "favorite-post-5ylx",
+  "mediaKey": "b7dd1981-f21f-40b8-a7c1-c640ad3f3264",
+  "providerId": "677d9174b5b0721c8d269fe2",
+  "i18n": {
+    "name": {
+      "en": "Favorite Post",
+      "uk": "Улюблений допис"
+    },
+    "alt": {
+      "en": "Favorite Post",
+      "uk": "Улюблений допис"
+    },
+    "tags": [
+      {
+        "key": "favorite-post",
+        "i18n": {
+          "en": "Favorite Post",
+          "uk": "Улюблений допис"
+        }
+      },
+      {
+        "key": "favorite",
+        "i18n": {
+          "en": "favorite",
+          "uk": "вибране"
+        }
+      },
+      {
+        "key": "post",
+        "i18n": {
+          "en": "post",
+          "uk": "стовп"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/favorite-post_5ylx.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 732,
+  "height": 668
+}

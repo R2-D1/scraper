@@ -1,0 +1,63 @@
+{
+  "slug": "special-event-hv54",
+  "mediaKey": "26512a67-bdb0-4acb-98c8-e1ef1ae1049c",
+  "providerId": "5d3b06c23f60490015404053",
+  "i18n": {
+    "name": {
+      "en": "Special event",
+      "uk": "Спеціальна подія"
+    },
+    "alt": {
+      "en": "Special event",
+      "uk": "Спеціальна подія"
+    },
+    "tags": [
+      {
+        "key": "special-event",
+        "i18n": {
+          "en": "Special event",
+          "uk": "Спеціальна подія"
+        }
+      },
+      {
+        "key": "special",
+        "i18n": {
+          "en": "special",
+          "uk": "особливий"
+        }
+      },
+      {
+        "key": "event",
+        "i18n": {
+          "en": "event",
+          "uk": "подія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/special-event_hv54.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 998,
+  "height": 773
+}

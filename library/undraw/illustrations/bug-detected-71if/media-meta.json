@@ -1,0 +1,63 @@
+{
+  "slug": "bug-detected-71if",
+  "mediaKey": "11cab87f-d99d-454f-a79b-2e7abfc7bd79",
+  "providerId": "6a90bdee939aab611cf25ca3",
+  "i18n": {
+    "name": {
+      "en": "Bug Detected",
+      "uk": "Виявлено помилку"
+    },
+    "alt": {
+      "en": "Bug Detected",
+      "uk": "Виявлено помилку"
+    },
+    "tags": [
+      {
+        "key": "bug-detected",
+        "i18n": {
+          "en": "Bug Detected",
+          "uk": "Виявлено помилку"
+        }
+      },
+      {
+        "key": "bug",
+        "i18n": {
+          "en": "bug",
+          "uk": "помилка"
+        }
+      },
+      {
+        "key": "detected",
+        "i18n": {
+          "en": "detected",
+          "uk": "виявлено"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/bug-detected_71if.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 556
+}

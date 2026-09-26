@@ -1,0 +1,49 @@
+{
+  "slug": "email-b5yu",
+  "mediaKey": "92fa55a1-c65f-4618-8e29-d5db4b086658",
+  "providerId": "685dbcad6996f2c1d37a2036",
+  "i18n": {
+    "name": {
+      "en": "Email",
+      "uk": "Електронна пошта"
+    },
+    "alt": {
+      "en": "Email",
+      "uk": "Електронна пошта"
+    },
+    "tags": [
+      {
+        "key": "email",
+        "i18n": {
+          "en": "Email",
+          "uk": "Електронна пошта"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/email_b5yu.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 799,
+  "height": 552
+}

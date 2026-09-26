@@ -1,0 +1,77 @@
+{
+  "slug": "gradient-orange-to-white-j3vct",
+  "mediaKey": "c8d9e58d-06ab-495c-8798-189d9653ada9",
+  "i18n": {
+    "name": {
+      "en": "Gradient Orange to White",
+      "uk": "Перехід від помаранчевого до білого"
+    },
+    "alt": {
+      "en": "Gradient Orange to White",
+      "uk": "Перехід від помаранчевого до білого"
+    },
+    "tags": [
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "Orange",
+          "uk": "Помаранчевий"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "Gradient",
+          "uk": "Градієнт"
+        }
+      },
+      {
+        "key": "smooth",
+        "i18n": {
+          "en": "Smooth",
+          "uk": "Рівний"
+        }
+      },
+      {
+        "key": "white",
+        "i18n": {
+          "en": "White",
+          "uk": "Білий"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/illustration/gradient-orange-to-white-j3vct",
+  "sourceName": "Lummi",
+  "authorName": "Pablo Stanley",
+  "authorUrl": "https://www.lummi.ai/creator/pablostanley?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A gradient background transitioning from a vibrant orange at the top to a soft white at the bottom, creating a smooth and warm visual effect.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1808,
+  "mimeType": "image/png"
+}

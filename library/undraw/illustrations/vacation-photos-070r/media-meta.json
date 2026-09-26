@@ -1,0 +1,63 @@
+{
+  "slug": "vacation-photos-070r",
+  "mediaKey": "2ff5809e-5101-481a-9fc8-9bc62e26f5a8",
+  "providerId": "6a86345b939aab611cf25c98",
+  "i18n": {
+    "name": {
+      "en": "Vacation Photos",
+      "uk": "Фотографії з відпустки"
+    },
+    "alt": {
+      "en": "Vacation Photos",
+      "uk": "Фотографії з відпустки"
+    },
+    "tags": [
+      {
+        "key": "vacation-photos",
+        "i18n": {
+          "en": "Vacation Photos",
+          "uk": "Фотографії з відпустки"
+        }
+      },
+      {
+        "key": "vacation",
+        "i18n": {
+          "en": "vacation",
+          "uk": "відпустка"
+        }
+      },
+      {
+        "key": "photos",
+        "i18n": {
+          "en": "photos",
+          "uk": "фотографії"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/vacation-photos_070r.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 950,
+  "height": 365
+}

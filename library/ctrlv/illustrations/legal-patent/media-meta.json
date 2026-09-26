@@ -1,0 +1,90 @@
+{
+  "slug": "legal-patent",
+  "mediaKey": "066fc279-834b-4f57-bc8b-a63ddf8e4151",
+  "i18n": {
+    "name": {
+      "en": "Patent",
+      "uk": "Патент"
+    },
+    "alt": {
+      "en": "Patent",
+      "uk": "Патент"
+    },
+    "tags": [
+      {
+        "key": "legal",
+        "i18n": {
+          "en": "legal",
+          "uk": "юридичний"
+        }
+      },
+      {
+        "key": "patent",
+        "i18n": {
+          "en": "patent",
+          "uk": "патент"
+        }
+      },
+      {
+        "key": "invention",
+        "i18n": {
+          "en": "invention",
+          "uk": "винахід"
+        }
+      },
+      {
+        "key": "idea",
+        "i18n": {
+          "en": "idea",
+          "uk": "ідея"
+        }
+      },
+      {
+        "key": "certificate",
+        "i18n": {
+          "en": "certificate",
+          "uk": "сертифікат"
+        }
+      },
+      {
+        "key": "ip",
+        "i18n": {
+          "en": "ip",
+          "uk": "ip"
+        }
+      },
+      {
+        "key": "lightbulb",
+        "i18n": {
+          "en": "lightbulb",
+          "uk": "лампочка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/legal-patent",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

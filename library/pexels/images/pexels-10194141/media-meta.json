@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-10194141",
+  "mediaKey": "pexels:10194141",
+  "i18n": {
+    "name": {
+      "en": "Floating modular cubes on a turquoise background",
+      "uk": "Плаваючі модульні куби на бірюзовому тлі"
+    },
+    "alt": {
+      "en": "Abstract 3D cubes forming a complex geometric pattern with a futuristic style.",
+      "uk": "Абстрактні 3D-куби, що утворюють складний геометричний візерунок у футуристичному стилі."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "cubes",
+        "i18n": {
+          "en": "cubes",
+          "uk": "куби"
+        }
+      },
+      {
+        "key": "geometry",
+        "i18n": {
+          "en": "geometry",
+          "uk": "геометрія"
+        }
+      },
+      {
+        "key": "turquoise",
+        "i18n": {
+          "en": "turquoise",
+          "uk": "бірюзовий"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/cubes-3d-render-digital-art-10194141/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "dog-jump-doodle",
+  "mediaKey": "custom:content:4f032398b2801961ff8aa36a2c3c161abfca9a12b1298e7e5599d05749a4c690",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "4f032398b2801961ff8aa36a2c3c161abfca9a12b1298e7e5599d05749a4c690",
+  "i18n": {
+    "name": {
+      "en": "Dog Jump Doodle",
+      "uk": "Dog Jump Doodle"
+    },
+    "alt": {
+      "en": "Dog Jump Doodle",
+      "uk": "Dog Jump Doodle"
+    },
+    "tags": [
+      {
+        "key": "dog",
+        "i18n": {
+          "en": "Dog",
+          "uk": "Собака"
+        }
+      },
+      {
+        "key": "jump",
+        "i18n": {
+          "en": "Jump",
+          "uk": "Перейти"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

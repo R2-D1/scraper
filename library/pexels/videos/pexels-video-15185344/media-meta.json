@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-15185344",
+  "mediaKey": "pexels:video:15185344",
+  "i18n": {
+    "name": {
+      "en": "Magenta Topographic Pattern",
+      "uk": "Топографічний візерунок кольору магента"
+    },
+    "alt": {
+      "en": "Pexels video 15185344",
+      "uk": "Відео з Pexels № 15185344"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "magenta",
+        "i18n": {
+          "en": "magenta",
+          "uk": "пурпуровий"
+        }
+      },
+      {
+        "key": "topographic",
+        "i18n": {
+          "en": "topographic",
+          "uk": "топографічний"
+        }
+      },
+      {
+        "key": "contours",
+        "i18n": {
+          "en": "contours",
+          "uk": "контури"
+        }
+      },
+      {
+        "key": "repeating",
+        "i18n": {
+          "en": "repeating",
+          "uk": "повторюючи"
+        }
+      },
+      {
+        "key": "organic",
+        "i18n": {
+          "en": "organic",
+          "uk": "органічний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/top-view-of-a-digitally-animated-geometric-texture-15185344/",
+  "sourceName": "Pexels",
+  "authorName": "Pachon in Motion",
+  "authorUrl": "https://www.pexels.com/@pachon-in-motion-426015731",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 20,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

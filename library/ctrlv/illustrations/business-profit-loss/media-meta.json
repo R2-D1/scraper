@@ -1,0 +1,97 @@
+{
+  "slug": "business-profit-loss",
+  "mediaKey": "183ed8c2-cbe9-4b8e-9c8a-9fc9f9a50a9f",
+  "i18n": {
+    "name": {
+      "en": "Profit & Loss",
+      "uk": "Прибуток і збитки"
+    },
+    "alt": {
+      "en": "Profit & Loss",
+      "uk": "Прибуток і збитки"
+    },
+    "tags": [
+      {
+        "key": "business",
+        "i18n": {
+          "en": "business",
+          "uk": "бізнес"
+        }
+      },
+      {
+        "key": "profit",
+        "i18n": {
+          "en": "profit",
+          "uk": "прибуток"
+        }
+      },
+      {
+        "key": "loss",
+        "i18n": {
+          "en": "loss",
+          "uk": "втрата"
+        }
+      },
+      {
+        "key": "finance",
+        "i18n": {
+          "en": "finance",
+          "uk": "фінанси"
+        }
+      },
+      {
+        "key": "scale",
+        "i18n": {
+          "en": "scale",
+          "uk": "масштаб"
+        }
+      },
+      {
+        "key": "balance",
+        "i18n": {
+          "en": "balance",
+          "uk": "баланс"
+        }
+      },
+      {
+        "key": "money",
+        "i18n": {
+          "en": "money",
+          "uk": "гроші"
+        }
+      },
+      {
+        "key": "accounting",
+        "i18n": {
+          "en": "accounting",
+          "uk": "бухгалтерія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/business-profit-loss",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

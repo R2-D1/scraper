@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-8989453",
+  "mediaKey": "pexels:8989453",
+  "i18n": {
+    "name": {
+      "en": "Woman relaxing with a cup at home",
+      "uk": "Жінка відпочиває вдома з чашкою в руках"
+    },
+    "alt": {
+      "en": "Elegant woman in a brown snakeskin dress lounging with an albino python indoors.",
+      "uk": "Елегантна жінка в коричневій сукні зі зміїної шкіри відпочиває в приміщенні разом із пітоном-альбіносом."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "cup",
+        "i18n": {
+          "en": "cup",
+          "uk": "чашка"
+        }
+      },
+      {
+        "key": "relaxation",
+        "i18n": {
+          "en": "relaxation",
+          "uk": "відпочинок"
+        }
+      },
+      {
+        "key": "home",
+        "i18n": {
+          "en": "home",
+          "uk": "додому"
+        }
+      },
+      {
+        "key": "lifestyle",
+        "i18n": {
+          "en": "lifestyle",
+          "uk": "спосіб життя"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-in-black-brassiere-holding-banana-8989453/",
+  "sourceName": "Pexels",
+  "authorName": "KoolShooters",
+  "authorUrl": "https://www.pexels.com/@koolshooters",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

@@ -1,0 +1,318 @@
+- generic [ref=f45e4]:
+  - navigation [ref=f45e5]:
+    - generic [ref=f45e6]:
+      - generic [ref=f45e7]:
+        - link "Unsplash Home" [ref=f45e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f45e9]
+        - link "Photos" [ref=f45e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f45e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f45e17]:
+        - button "Explore" [ref=f45e18] [cursor=pointer]
+        - button "Collections" [ref=f45e21] [cursor=pointer]
+        - button "Download History" [ref=f45e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f45e28] [cursor=pointer]
+    - generic [ref=f45e31]:
+      - link "Log in / Sign up" [ref=f45e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fcolorful-isometric-buildings-against-a-gradient-background-2oxKgM-yNFs
+      - button "Language" [ref=f45e35] [cursor=pointer]
+      - button "Menu" [ref=f45e38] [cursor=pointer]
+  - generic [ref=f45e41]:
+    - generic [ref=f45e42]:
+      - navigation [ref=f45e43]:
+        - search "Find visuals sitewide" [ref=f45e45]:
+          - button "Search Unsplash" [ref=f45e46] [cursor=pointer]
+          - combobox [ref=f45e49]:
+            - searchbox "Search Unsplash" [ref=f45e50]
+            - listbox
+          - button "Visual search" [ref=f45e52] [cursor=pointer]
+        - generic [ref=f45e55]:
+          - link "Get Unsplash+" [ref=f45e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f45e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fcolorful-isometric-buildings-against-a-gradient-background-2oxKgM-yNFs
+        - button "Submit an image" [ref=f45e59] [cursor=pointer]
+      - generic [ref=f45e60]:
+        - generic [ref=f45e61]:
+          - banner [ref=f45e63]:
+            - generic [ref=f45e65]:
+              - link [ref=f45e66] [cursor=pointer]:
+                - /url: /@owl_illustration/illustrations
+              - generic [ref=f45e69]:
+                - link "Owl Illustration Agency" [ref=f45e70] [cursor=pointer]:
+                  - /url: /@owl_illustration/illustrations
+                - generic [ref=f45e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f45e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcolorful-isometric-buildings-against-a-gradient-background-2oxKgM-yNFs
+            - generic [ref=f45e73]:
+              - button "Bookmark" [ref=f45e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f45e77] [cursor=pointer]
+              - button "Edit image" [ref=f45e80] [cursor=pointer]
+              - button "Download" [ref=f45e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f45e90]:
+            - img "Colorful isometric buildings against a gradient background." [ref=f45e91]
+          - generic [ref=f45e92]:
+            - generic [ref=f45e93]:
+              - generic [ref=f45e95]:
+                - heading "Featured in" [level=3] [ref=f45e96]
+                - link "3D" [ref=f45e98] [cursor=pointer]:
+                  - /url: /t/3d
+              - generic [ref=f45e99]:
+                - button "Share this image" [ref=f45e100] [cursor=pointer]:
+                  - generic [ref=f45e103]: Share
+                - button "More Actions" [ref=f45e104] [cursor=pointer]
+            - generic [ref=f45e108]:
+              - heading "Colorful isometric buildings against a gradient background." [level=1] [ref=f45e110]
+              - paragraph [ref=f45e114]: Download this illustration of city, blue, green, and illustration by Owl Illustration Agency (@owl_illustration)
+              - generic [ref=f45e116]:
+                - generic [ref=f45e121]:
+                  - text: Published on
+                  - time [ref=f45e122]: November 27, 2025
+                - generic [ref=f45e126]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f45e127] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f45e129]:
+              - link "city" [ref=f45e130] [cursor=pointer]:
+                - /url: /s/illustrations/city
+              - link "blue" [ref=f45e131] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "green" [ref=f45e132] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "illustration" [ref=f45e133] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "abstract background" [ref=f45e134] [cursor=pointer]:
+                - /url: /s/illustrations/abstract-background
+              - link "graphic design" [ref=f45e135] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "orange" [ref=f45e136] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "red" [ref=f45e137] [cursor=pointer]:
+                - /url: /s/illustrations/red
+              - link "purple" [ref=f45e138] [cursor=pointer]:
+                - /url: /s/illustrations/purple
+              - link "vector" [ref=f45e139] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "digital art" [ref=f45e140] [cursor=pointer]:
+                - /url: /s/illustrations/digital-art
+              - link "modern architecture" [ref=f45e141] [cursor=pointer]:
+                - /url: /s/illustrations/modern-architecture
+              - link "vector art" [ref=f45e142] [cursor=pointer]:
+                - /url: /s/illustrations/vector-art
+              - link "abstract architecture" [ref=f45e143] [cursor=pointer]:
+                - /url: /s/illustrations/abstract-architecture
+              - link "urban landscape" [ref=f45e144] [cursor=pointer]:
+                - /url: /s/illustrations/urban-landscape
+              - link "modern city" [ref=f45e145] [cursor=pointer]:
+                - /url: /s/illustrations/modern-city
+              - link "creative background" [ref=f45e146] [cursor=pointer]:
+                - /url: /s/illustrations/creative-background
+              - link "geometric shapes" [ref=f45e147] [cursor=pointer]:
+                - /url: /s/illustrations/geometric-shapes
+              - link "modern design" [ref=f45e148] [cursor=pointer]:
+                - /url: /s/illustrations/modern-design
+              - link "3d illustration" [ref=f45e149] [cursor=pointer]:
+                - /url: /s/illustrations/3d-illustration
+        - generic [ref=f45e152]:
+          - generic [ref=f45e153]:
+            - paragraph [ref=f45e155]: From this series
+            - generic [ref=f45e158]:
+              - generic [ref=f45e159]:
+                - link [ref=f45e160] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fthe-word-no-in-bold-3d-letters-DAGgU9y2Reg
+                - link [ref=f45e163]:
+                  - /url: /illustrations/the-word-no-in-bold-3d-letters-DAGgU9y2Reg
+                  - img "The word no in bold 3D letters." [ref=f45e164]
+              - generic [ref=f45e165]:
+                - link [ref=f45e166] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fmodern-living-room-with-furniture-and-doorway-VtKKm98bFLM
+                - link [ref=f45e169]:
+                  - /url: /illustrations/modern-living-room-with-furniture-and-doorway-VtKKm98bFLM
+                  - img "Modern living room with furniture and doorway" [ref=f45e170]
+              - generic [ref=f45e171]:
+                - link [ref=f45e172] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fcolored-pencils-in-a-light-blue-holder-puwubyf_GB4
+                - link [ref=f45e175]:
+                  - /url: /illustrations/colored-pencils-in-a-light-blue-holder-puwubyf_GB4
+                  - img "Colored pencils in a light blue holder" [ref=f45e176]
+              - generic [ref=f45e177]:
+                - link [ref=f45e178] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fdark-gray-filing-cabinet-with-open-drawer-37JhNRfAiN0
+                - link [ref=f45e181]:
+                  - /url: /illustrations/dark-gray-filing-cabinet-with-open-drawer-37JhNRfAiN0
+                  - img "Dark gray filing cabinet with open drawer" [ref=f45e182]
+              - generic [ref=f45e183]:
+                - link [ref=f45e184] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Ftwo-arched-bridges-cross-blue-water-channels-6FXKHLpI2gE
+                - link [ref=f45e187]:
+                  - /url: /illustrations/two-arched-bridges-cross-blue-water-channels-6FXKHLpI2gE
+                  - img "Two arched bridges cross blue water channels." [ref=f45e188]
+              - generic [ref=f45e189]:
+                - link [ref=f45e190] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fisometric-building-illustration-on-a-dark-background-rrZnMg2DrLQ
+                - link [ref=f45e193]:
+                  - /url: /illustrations/isometric-building-illustration-on-a-dark-background-rrZnMg2DrLQ
+                  - img "Isometric building illustration on a dark background" [ref=f45e194]
+              - generic [ref=f45e195]:
+                - link [ref=f45e196] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fcolorful-buildings-against-a-gradient-sky-goW1_enYolw
+                - link [ref=f45e199]:
+                  - /url: /illustrations/colorful-buildings-against-a-gradient-sky-goW1_enYolw
+                  - img "Colorful buildings against a gradient sky." [ref=f45e200]
+              - generic:
+                - link [ref=f45e201] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fminimalist-bedroom-with-modern-furniture-and-decor-4MUKiWXaduY
+                - link "Minimalist bedroom with modern furniture and decor.":
+                  - /url: /illustrations/minimalist-bedroom-with-modern-furniture-and-decor-4MUKiWXaduY
+                  - img "Minimalist bedroom with modern furniture and decor."
+          - generic [ref=f45e204]:
+            - heading "Related images" [level=4] [ref=f45e206]
+            - generic [ref=f45e210]:
+              - generic [ref=f45e211]:
+                - figure [ref=f45e212]:
+                  - generic [ref=f45e214]:
+                    - link [ref=f45e215]:
+                      - /url: /illustrations/abstract-building-with-glowing-windows-and-purple-background-seRplgDgtxc
+                      - img "Abstract building with glowing windows and purple background" [ref=f45e216]
+                    - link [ref=f45e217] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-building-with-glowing-windows-and-purple-background-seRplgDgtxc
+                - figure [ref=f45e220]:
+                  - generic [ref=f45e222]:
+                    - link [ref=f45e223]:
+                      - /url: /illustrations/abstract-geometric-shapes-with-purple-and-white-gradient-HxkGBxxRvng
+                      - img "Abstract geometric shapes with purple and white gradient." [ref=f45e224]
+                    - link [ref=f45e225] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-geometric-shapes-with-purple-and-white-gradient-HxkGBxxRvng
+                - figure [ref=f45e228]:
+                  - generic [ref=f45e230]:
+                    - link [ref=f45e231]:
+                      - /url: /illustrations/isometric-cityscape-with-colorful-buildings-and-trees-240lFHIHPu0
+                      - img "Isometric cityscape with colorful buildings and trees" [ref=f45e232]
+                    - link [ref=f45e233] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fisometric-cityscape-with-colorful-buildings-and-trees-240lFHIHPu0
+                - figure [ref=f45e236]:
+                  - generic [ref=f45e238]:
+                    - link [ref=f45e239]:
+                      - /url: /illustrations/isometric-cityscape-with-cars-on-roads-GYqdLZ7hl8Q
+                      - img "Isometric cityscape with cars on roads" [ref=f45e240]
+                    - link [ref=f45e241] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fisometric-cityscape-with-cars-on-roads-GYqdLZ7hl8Q
+                - figure [ref=f45e244]:
+                  - generic [ref=f45e246]:
+                    - link [ref=f45e247]:
+                      - /url: /illustrations/a-poster-of-a-building-with-a-sky-background-f8gkhiF5ZCM
+                      - img "A poster of a building with a sky background" [ref=f45e248]
+                    - link [ref=f45e249] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-poster-of-a-building-with-a-sky-background-f8gkhiF5ZCM
+                - figure [ref=f45e252]:
+                  - generic [ref=f45e254]:
+                    - link [ref=f45e255]:
+                      - /url: /illustrations/cartoon-robot-with-screen-face-and-glowing-tubes-gawurjqrwKU
+                      - img "Cartoon robot with screen face and glowing tubes" [ref=f45e256]
+                    - link [ref=f45e257] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcartoon-robot-with-screen-face-and-glowing-tubes-gawurjqrwKU
+              - generic [ref=f45e260]:
+                - figure [ref=f45e261]:
+                  - generic [ref=f45e263]:
+                    - link [ref=f45e264]:
+                      - /url: /illustrations/a-blue-house-with-a-red-roof-and-balcony-bWqChjxnc8U
+                      - img "A blue house with a red roof and balcony." [ref=f45e265]
+                    - link [ref=f45e266] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-blue-house-with-a-red-roof-and-balcony-bWqChjxnc8U
+                - figure [ref=f45e269]:
+                  - generic [ref=f45e271]:
+                    - link [ref=f45e272]:
+                      - /url: /illustrations/geometric-shapes-and-spheres-on-a-blue-background-jg2C_NuSues
+                      - img "Geometric shapes and spheres on a blue background" [ref=f45e273]
+                    - link [ref=f45e274] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fgeometric-shapes-and-spheres-on-a-blue-background-jg2C_NuSues
+                - figure [ref=f45e277]:
+                  - generic [ref=f45e279]:
+                    - link [ref=f45e280]:
+                      - /url: /illustrations/geometric-architectural-design-with-stairs-and-arches-3C_X8F1mRJU
+                      - img "Geometric architectural design with stairs and arches." [ref=f45e281]
+                    - link [ref=f45e282] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fgeometric-architectural-design-with-stairs-and-arches-3C_X8F1mRJU
+                - figure [ref=f45e285]:
+                  - generic [ref=f45e287]:
+                    - link [ref=f45e288]:
+                      - /url: /illustrations/abstract-geometric-structure-with-colorful-platforms-and-shapes-GrPbi6EPzL0
+                      - img "Abstract geometric structure with colorful platforms and shapes." [ref=f45e289]
+                    - link [ref=f45e290] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-geometric-structure-with-colorful-platforms-and-shapes-GrPbi6EPzL0
+                - figure [ref=f45e293]:
+                  - generic [ref=f45e295]:
+                    - link [ref=f45e296]:
+                      - /url: /illustrations/isometric-city-skyline-in-purple-and-yellow-tones-7X6ZXSHjJ8s
+                      - img "Isometric city skyline in purple and yellow tones." [ref=f45e297]
+                    - link [ref=f45e298] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fisometric-city-skyline-in-purple-and-yellow-tones-7X6ZXSHjJ8s
+                - figure [ref=f45e301]:
+                  - generic [ref=f45e303]:
+                    - link [ref=f45e304]:
+                      - /url: /illustrations/stylized-isometric-building-with-clouds-and-shadow-TkPtTBGfKuM
+                      - img "Stylized isometric building with clouds and shadow." [ref=f45e305]
+                    - link [ref=f45e306] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fstylized-isometric-building-with-clouds-and-shadow-TkPtTBGfKuM
+                - figure [ref=f45e309]:
+                  - generic [ref=f45e311]:
+                    - link [ref=f45e312]:
+                      - /url: /illustrations/abstract-art-installation-with-glowing-stars-on-sky-background-HgdOehDnGPI
+                      - img "Abstract art installation with glowing stars on sky background" [ref=f45e313]
+                    - link [ref=f45e314] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-art-installation-with-glowing-stars-on-sky-background-HgdOehDnGPI
+              - generic [ref=f45e317]:
+                - figure [ref=f45e318]:
+                  - generic [ref=f45e320]:
+                    - link [ref=f45e321]:
+                      - /url: /illustrations/a-computer-screen-with-a-building-on-top-of-it-U52arSxhEiw
+                      - img "A computer screen with a building on top of it" [ref=f45e322]
+                    - link [ref=f45e323] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-computer-screen-with-a-building-on-top-of-it-U52arSxhEiw
+                - figure [ref=f45e326]:
+                  - generic [ref=f45e328]:
+                    - link [ref=f45e329]:
+                      - /url: /illustrations/isometric-cityscape-with-colorful-buildings-and-two-people-crossing-street-JVTkzJcpuNs
+                      - img "Isometric cityscape with colorful buildings and two people crossing street" [ref=f45e330]
+                    - link [ref=f45e331] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fisometric-cityscape-with-colorful-buildings-and-two-people-crossing-street-JVTkzJcpuNs
+                - figure [ref=f45e334]:
+                  - generic [ref=f45e336]:
+                    - link [ref=f45e337]:
+                      - /url: /illustrations/isometric-pencil-sharpener-with-a-pencil-KFPlyZckBbo
+                      - img "Isometric pencil sharpener with a pencil" [ref=f45e338]
+                    - link [ref=f45e339] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fisometric-pencil-sharpener-with-a-pencil-KFPlyZckBbo
+                - figure [ref=f45e342]:
+                  - generic [ref=f45e344]:
+                    - link [ref=f45e345]:
+                      - /url: /illustrations/a-colorful-city-with-tall-buildings-and-windows-kMXURJqi4xY
+                      - img "A colorful city with tall buildings and windows" [ref=f45e346]
+                    - link [ref=f45e347] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-colorful-city-with-tall-buildings-and-windows-kMXURJqi4xY
+                - figure [ref=f45e350]:
+                  - generic [ref=f45e352]:
+                    - link [ref=f45e353]:
+                      - /url: /illustrations/abstract-geometric-shape-with-barcode-and-barcode-bd8eCGN6ECI
+                      - img "Abstract geometric shape with barcode and barcode" [ref=f45e354]
+                    - link [ref=f45e355] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-geometric-shape-with-barcode-and-barcode-bd8eCGN6ECI
+                - figure [ref=f45e358]:
+                  - generic [ref=f45e360]:
+                    - link [ref=f45e361]:
+                      - /url: /illustrations/colorful-buildings-against-a-gradient-sky-goW1_enYolw
+                      - img "Colorful buildings against a gradient sky." [ref=f45e362]
+                    - link [ref=f45e363] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcolorful-buildings-against-a-gradient-sky-goW1_enYolw
+                - figure [ref=f45e366]:
+                  - generic [ref=f45e368]:
+                    - link [ref=f45e369]:
+                      - /url: /illustrations/blue-factory-building-with-green-accents-on-gradient-background-3VRRrGMDxGU
+                      - img "Blue factory building with green accents on gradient background" [ref=f45e370]
+                    - link [ref=f45e371] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fblue-factory-building-with-green-accents-on-gradient-background-3VRRrGMDxGU
+    - generic:
+      - region "Notifications"

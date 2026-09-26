@@ -1,0 +1,63 @@
+{
+  "slug": "video-call-i5de",
+  "mediaKey": "248bd9b6-65c3-4a5c-9a48-64a33641c57f",
+  "providerId": "68926cd54a7dc573784794bf",
+  "i18n": {
+    "name": {
+      "en": "Video Call",
+      "uk": "Відеодзвінок"
+    },
+    "alt": {
+      "en": "Video Call",
+      "uk": "Відеодзвінок"
+    },
+    "tags": [
+      {
+        "key": "video-call",
+        "i18n": {
+          "en": "Video Call",
+          "uk": "Відеодзвінок"
+        }
+      },
+      {
+        "key": "video",
+        "i18n": {
+          "en": "video",
+          "uk": "відео"
+        }
+      },
+      {
+        "key": "call",
+        "i18n": {
+          "en": "call",
+          "uk": "виклик"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/video-call_i5de.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 619
+}

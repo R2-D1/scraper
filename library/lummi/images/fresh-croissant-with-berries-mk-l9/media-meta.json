@@ -1,0 +1,91 @@
+{
+  "slug": "fresh-croissant-with-berries-mk-l9",
+  "mediaKey": "6e07535f-2fde-4dda-b6c8-720be4333997",
+  "i18n": {
+    "name": {
+      "en": "Fresh Croissant with Berries",
+      "uk": "Свіжий круасан з ягодами"
+    },
+    "alt": {
+      "en": "Fresh Croissant with Berries",
+      "uk": "Свіжий круасан з ягодами"
+    },
+    "tags": [
+      {
+        "key": "gourmet",
+        "i18n": {
+          "en": "Gourmet",
+          "uk": "Гурман"
+        }
+      },
+      {
+        "key": "pastry",
+        "i18n": {
+          "en": "Pastry",
+          "uk": "Кондитерські вироби"
+        }
+      },
+      {
+        "key": "berries",
+        "i18n": {
+          "en": "Berries",
+          "uk": "Ягоди"
+        }
+      },
+      {
+        "key": "food-photography",
+        "i18n": {
+          "en": "food photography",
+          "uk": "фотографія їжі"
+        }
+      },
+      {
+        "key": "croissant",
+        "i18n": {
+          "en": "croissant",
+          "uk": "круасан"
+        }
+      },
+      {
+        "key": "still-life",
+        "i18n": {
+          "en": "Still Life",
+          "uk": "Натюрморт"
+        }
+      },
+      {
+        "key": "food-and-drink",
+        "i18n": {
+          "en": "Food and Drink",
+          "uk": "Їжа та напої"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/fresh-croissant-with-berries-mk-l9",
+  "sourceName": "Lummi",
+  "authorName": "Mariana Pedroza",
+  "authorUrl": "https://www.lummi.ai/creator/mariana?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A beautifully crafted pastry sits elegantly on a neutral background. The pastry is golden brown, with a glossy finish that highlights its flaky, layered texture. Atop the pastry, a cluster of fresh blackberries and a single raspberry are artfully arranged, dusted lightly with powdered sugar. The berries add a pop of deep red and purple, contrasting with the warm tones of the pastry. The overall presentation is both appetizing and visually appealing, showcasing the delicate craftsmanship involved in its creation.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1024,
+  "height": 1024,
+  "mimeType": "image/webp"
+}

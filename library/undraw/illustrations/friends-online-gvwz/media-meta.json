@@ -1,0 +1,63 @@
+{
+  "slug": "friends-online-gvwz",
+  "mediaKey": "03be6928-a1ee-406f-8dc0-06668e9f6ebb",
+  "providerId": "68190d2d5ba277c7d694cc67",
+  "i18n": {
+    "name": {
+      "en": "Friends online",
+      "uk": "Друзі в Інтернеті"
+    },
+    "alt": {
+      "en": "Friends online",
+      "uk": "Друзі в Інтернеті"
+    },
+    "tags": [
+      {
+        "key": "friends-online",
+        "i18n": {
+          "en": "Friends online",
+          "uk": "Друзі в Інтернеті"
+        }
+      },
+      {
+        "key": "friends",
+        "i18n": {
+          "en": "friends",
+          "uk": "друзі"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/friends-online_gvwz.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 355,
+  "height": 800
+}

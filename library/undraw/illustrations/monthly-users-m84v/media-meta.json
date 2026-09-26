@@ -1,0 +1,63 @@
+{
+  "slug": "monthly-users-m84v",
+  "mediaKey": "6878641a-22a4-4ea2-9c3d-1f5a5167eb57",
+  "providerId": "66277943e1f30e001686f211",
+  "i18n": {
+    "name": {
+      "en": "Monthly Users",
+      "uk": "Кількість користувачів за місяць"
+    },
+    "alt": {
+      "en": "Monthly Users",
+      "uk": "Кількість користувачів за місяць"
+    },
+    "tags": [
+      {
+        "key": "monthly-users",
+        "i18n": {
+          "en": "Monthly Users",
+          "uk": "Кількість користувачів за місяць"
+        }
+      },
+      {
+        "key": "monthly",
+        "i18n": {
+          "en": "monthly",
+          "uk": "щомісячно"
+        }
+      },
+      {
+        "key": "users",
+        "i18n": {
+          "en": "users",
+          "uk": "користувачів"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/monthly-users_m84v.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 549,
+  "height": 500
+}

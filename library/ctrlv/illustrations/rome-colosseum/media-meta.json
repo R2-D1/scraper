@@ -1,0 +1,90 @@
+{
+  "slug": "rome-colosseum",
+  "mediaKey": "58a8a029-e53f-4fb3-96a5-d221d9e3c115",
+  "i18n": {
+    "name": {
+      "en": "Rome, Italy",
+      "uk": "Рим, Італія"
+    },
+    "alt": {
+      "en": "Rome, Italy",
+      "uk": "Рим, Італія"
+    },
+    "tags": [
+      {
+        "key": "rome",
+        "i18n": {
+          "en": "rome",
+          "uk": "Рим"
+        }
+      },
+      {
+        "key": "italy",
+        "i18n": {
+          "en": "italy",
+          "uk": "Італія"
+        }
+      },
+      {
+        "key": "colosseum",
+        "i18n": {
+          "en": "colosseum",
+          "uk": "колізей"
+        }
+      },
+      {
+        "key": "arena",
+        "i18n": {
+          "en": "arena",
+          "uk": "арена"
+        }
+      },
+      {
+        "key": "ancient",
+        "i18n": {
+          "en": "ancient",
+          "uk": "давній"
+        }
+      },
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "landmark",
+        "i18n": {
+          "en": "landmark",
+          "uk": "орієнтир"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/rome-colosseum",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

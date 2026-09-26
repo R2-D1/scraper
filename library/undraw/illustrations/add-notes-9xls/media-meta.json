@@ -1,0 +1,63 @@
+{
+  "slug": "add-notes-9xls",
+  "mediaKey": "d96def14-c7be-4562-ab56-d9782006dd6e",
+  "providerId": "5fbd0e3f477c430017304492",
+  "i18n": {
+    "name": {
+      "en": "Add notes",
+      "uk": "Додати примітки"
+    },
+    "alt": {
+      "en": "Add notes",
+      "uk": "Додати примітки"
+    },
+    "tags": [
+      {
+        "key": "add-notes",
+        "i18n": {
+          "en": "Add notes",
+          "uk": "Додати примітки"
+        }
+      },
+      {
+        "key": "add",
+        "i18n": {
+          "en": "add",
+          "uk": "додати"
+        }
+      },
+      {
+        "key": "notes",
+        "i18n": {
+          "en": "notes",
+          "uk": "примітки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/add-notes_9xls.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 486,
+  "height": 484
+}

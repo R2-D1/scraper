@@ -1,0 +1,63 @@
+{
+  "slug": "voice-interface-vo02",
+  "mediaKey": "3363d237-564e-4d9e-a955-2d70745134f0",
+  "providerId": "61fcf5d80a123b0018720c35",
+  "i18n": {
+    "name": {
+      "en": "Voice interface",
+      "uk": "Голосовий інтерфейс"
+    },
+    "alt": {
+      "en": "Voice interface",
+      "uk": "Голосовий інтерфейс"
+    },
+    "tags": [
+      {
+        "key": "voice-interface",
+        "i18n": {
+          "en": "Voice interface",
+          "uk": "Голосовий інтерфейс"
+        }
+      },
+      {
+        "key": "voice",
+        "i18n": {
+          "en": "voice",
+          "uk": "голос"
+        }
+      },
+      {
+        "key": "interface",
+        "i18n": {
+          "en": "interface",
+          "uk": "інтерфейс"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/voice-interface_vo02.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 655,
+  "height": 360
+}

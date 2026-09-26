@@ -1,0 +1,63 @@
+{
+  "slug": "invite-only-373f",
+  "mediaKey": "99bbe2e5-c693-43a1-8dcb-180469396488",
+  "providerId": "681138061d04c23ff626c501",
+  "i18n": {
+    "name": {
+      "en": "Invite Only",
+      "uk": "Тільки за запрошенням"
+    },
+    "alt": {
+      "en": "Invite Only",
+      "uk": "Тільки за запрошенням"
+    },
+    "tags": [
+      {
+        "key": "invite-only",
+        "i18n": {
+          "en": "Invite Only",
+          "uk": "Тільки за запрошенням"
+        }
+      },
+      {
+        "key": "invite",
+        "i18n": {
+          "en": "invite",
+          "uk": "запросити"
+        }
+      },
+      {
+        "key": "only",
+        "i18n": {
+          "en": "only",
+          "uk": "лише"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/invite-only_373f.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 799,
+  "height": 775
+}

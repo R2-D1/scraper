@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-15783141",
+  "mediaKey": "pexels:15783141",
+  "i18n": {
+    "name": {
+      "en": "White-haired model posing in a beauty portrait",
+      "uk": "Модель зі світлим волоссям у портреті краси"
+    },
+    "alt": {
+      "en": "Close-up portrait of a woman with a white bob haircut showcasing bold makeup in a studio setting.",
+      "uk": "Портрет жінки крупним планом із білою зачіскою «боб» та яскравим макіяжем, зроблений у студії."
+    },
+    "tags": [
+      {
+        "key": "makeup",
+        "i18n": {
+          "en": "makeup",
+          "uk": "макіяж"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      },
+      {
+        "key": "white-hair",
+        "i18n": {
+          "en": "white hair",
+          "uk": "біле волосся"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "beauty"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/portrait-of-woman-with-white-white-hair-15783141/",
+  "sourceName": "Pexels",
+  "authorName": "Mohammadreza Babaei",
+  "authorUrl": "https://www.pexels.com/@mohammadrezababaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

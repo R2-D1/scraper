@@ -1,0 +1,63 @@
+{
+  "slug": "delete-files-ozzz",
+  "mediaKey": "bec8404f-e64b-4e5c-a611-e79b6225fe74",
+  "providerId": "6a10d8c879740242d59ddb1c",
+  "i18n": {
+    "name": {
+      "en": "Delete Files",
+      "uk": "Видалити файли"
+    },
+    "alt": {
+      "en": "Delete Files",
+      "uk": "Видалити файли"
+    },
+    "tags": [
+      {
+        "key": "delete-files",
+        "i18n": {
+          "en": "Delete Files",
+          "uk": "Видалити файли"
+        }
+      },
+      {
+        "key": "delete",
+        "i18n": {
+          "en": "delete",
+          "uk": "видалити"
+        }
+      },
+      {
+        "key": "files",
+        "i18n": {
+          "en": "files",
+          "uk": "файли"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/delete-files_ozzz.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 739
+}

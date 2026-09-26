@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-37131920",
+  "mediaKey": "pexels:37131920",
+  "i18n": {
+    "name": {
+      "en": "Red classic car driving at sunset",
+      "uk": "Червоний класичний автомобіль їде на заході сонця"
+    },
+    "alt": {
+      "en": "A sleek midnight purple sports car speeds on a highway in Pippu, Hokkaido at twilight, with a stunning sunset backdrop.",
+      "uk": "Елегантний спортивний автомобіль темно-фіолетового кольору мчить по шосе в місті Піппу на Хоккайдо в сутінках на тлі приголомшливого заходу сонця."
+    },
+    "tags": [
+      {
+        "key": "car",
+        "i18n": {
+          "en": "car",
+          "uk": "автомобіль"
+        }
+      },
+      {
+        "key": "classic-car",
+        "i18n": {
+          "en": "classic car",
+          "uk": "класичний автомобіль"
+        }
+      },
+      {
+        "key": "driving",
+        "i18n": {
+          "en": "driving",
+          "uk": "водіння"
+        }
+      },
+      {
+        "key": "sunset",
+        "i18n": {
+          "en": "sunset",
+          "uk": "захід сонця"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "vehicles"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/dynamic-midnight-purple-sports-car-at-twilight-37131920/",
+  "sourceName": "Pexels",
+  "authorName": "Hensan Aranha",
+  "authorUrl": "https://www.pexels.com/@wearelivingart",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1500
+}

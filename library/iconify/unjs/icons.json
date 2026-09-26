@@ -1,0 +1,2059 @@
+{
+  "automd": {
+    "mediaKey": "bde001f7-3fa4-461d-9e55-101bc5bfb6db",
+    "i18n": {
+      "name": {
+        "en": "Automd",
+        "uk": "Automd"
+      },
+      "alt": {
+        "en": "Automd",
+        "uk": "Automd"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "auto markdown",
+          "automd",
+          "doc automation",
+          "markdown генератор",
+          "markdown bot",
+          "md pipeline",
+          "md tool"
+        ],
+        "uk": [
+          "документація автоматично",
+          "markdown генератор"
+        ]
+      }
+    }
+  },
+  "bundle-runner": {
+    "mediaKey": "644359d9-a951-4009-ab19-4a1f78af5e2d",
+    "i18n": {
+      "name": {
+        "en": "Bundle runner",
+        "uk": "Bundle Runner"
+      },
+      "alt": {
+        "en": "Bundle runner",
+        "uk": "Bundle Runner"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "athlete",
+          "bundle",
+          "bundle pack",
+          "jogger",
+          "kit",
+          "package",
+          "run",
+          "runner",
+          "bundle-runner"
+        ],
+        "uk": [
+          "бігун",
+          "збірка",
+          "комплект",
+          "марафон",
+          "набір",
+          "пакет",
+          "спорт",
+          "спортсмен"
+        ]
+      }
+    }
+  },
+  "c12": {
+    "mediaKey": "2728452b-0f36-4eb9-8729-18f2d0083a88",
+    "i18n": {
+      "name": {
+        "en": "C12",
+        "uk": "C12"
+      },
+      "alt": {
+        "en": "C12",
+        "uk": "C12"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "команда c12",
+          "brand c12",
+          "c12",
+          "c12 icon",
+          "c12 logo",
+          "c12 project",
+          "c12 toolkit",
+          "digital c12"
+        ],
+        "uk": [
+          "команда c12"
+        ]
+      }
+    }
+  },
+  "changelogen": {
+    "mediaKey": "5c755ef8-7554-447e-9105-349c5c376029",
+    "i18n": {
+      "name": {
+        "en": "Changelogen",
+        "uk": "Changelogen"
+      },
+      "alt": {
+        "en": "Changelogen",
+        "uk": "Changelogen"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "auto changelog",
+          "change log generator",
+          "changelog",
+          "changelogen",
+          "deploy log",
+          "release notes"
+        ],
+        "uk": [
+          "версії",
+          "релізний журнал"
+        ]
+      }
+    }
+  },
+  "citty": {
+    "mediaKey": "c8a4154b-d7ac-4993-8aaf-22addfef470b",
+    "i18n": {
+      "name": {
+        "en": "Citty",
+        "uk": "Citty"
+      },
+      "alt": {
+        "en": "Citty",
+        "uk": "Citty"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "citty",
+          "city",
+          "cityscape",
+          "megapolis",
+          "urban"
+        ],
+        "uk": [
+          "місто",
+          "міський пейзаж",
+          "сіті"
+        ]
+      }
+    }
+  },
+  "confbox": {
+    "mediaKey": "872a4d9b-a61f-49c8-9f35-c26e8c3a22e3",
+    "i18n": {
+      "name": {
+        "en": "Confbox",
+        "uk": "Confbox"
+      },
+      "alt": {
+        "en": "Confbox",
+        "uk": "Confbox"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "confbox",
+          "config box",
+          "config storage",
+          "configurator",
+          "settings container",
+          "toolbox"
+        ],
+        "uk": [
+          "конфіг",
+          "налаштування"
+        ]
+      }
+    }
+  },
+  "consola": {
+    "mediaKey": "32c89f67-c80e-4d73-a6bd-c4ba7cc9a382",
+    "i18n": {
+      "name": {
+        "en": "Consola",
+        "uk": "Consola"
+      },
+      "alt": {
+        "en": "Consola",
+        "uk": "Consola"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "consola",
+          "console",
+          "console logger",
+          "debug",
+          "devtools",
+          "log viewer",
+          "terminal"
+        ],
+        "uk": [
+          "логгер"
+        ]
+      }
+    }
+  },
+  "cookie-es": {
+    "mediaKey": "a51d37a2-34d6-4fcb-a957-6ed2dc29a691",
+    "i18n": {
+      "name": {
+        "en": "Cookie es",
+        "uk": "Cookie ES"
+      },
+      "alt": {
+        "en": "Cookie es",
+        "uk": "Cookie ES"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "🍪",
+          "browser cookie",
+          "cookie",
+          "cookie файл",
+          "ecmascript",
+          "es",
+          "es module",
+          "esm",
+          "javascript стандарт",
+          "js",
+          "language spec",
+          "script",
+          "cookie-es"
+        ],
+        "uk": [
+          "🍪",
+          "коокіе",
+          "печиво",
+          "cookie файл",
+          "javascript стандарт"
+        ]
+      }
+    }
+  },
+  "crossws": {
+    "mediaKey": "d7cdf4c2-e6c8-44d7-aed6-428742de5a05",
+    "i18n": {
+      "name": {
+        "en": "Crossws",
+        "uk": "Crossws"
+      },
+      "alt": {
+        "en": "Crossws",
+        "uk": "Crossws"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "collaboration",
+          "cross service",
+          "cross workspace",
+          "crossws",
+          "multi workspace",
+          "platform bridge"
+        ],
+        "uk": [
+          "інтеграція",
+          "крос-сервіс"
+        ]
+      }
+    }
+  },
+  "db0": {
+    "mediaKey": "2af1ab23-0077-4330-87f7-c65553a73c90",
+    "i18n": {
+      "name": {
+        "en": "Db0",
+        "uk": "DB0"
+      },
+      "alt": {
+        "en": "Db0",
+        "uk": "DB0"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cache",
+          "database zero",
+          "db tool",
+          "db0",
+          "in-memory db",
+          "key value",
+          "storage"
+        ],
+        "uk": [
+          "дані"
+        ]
+      }
+    }
+  },
+  "defu": {
+    "mediaKey": "75e6d753-0a1f-4a0e-8435-3a1676c4ea29",
+    "i18n": {
+      "name": {
+        "en": "Defu",
+        "uk": "Defu"
+      },
+      "alt": {
+        "en": "Defu",
+        "uk": "Defu"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "combine defaults",
+          "config merge",
+          "deep merge",
+          "default merge",
+          "defu",
+          "merge tool",
+          "unjs defu",
+          "utility"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "destr": {
+    "mediaKey": "302862bc-810a-4c7a-8812-30e84eed4194",
+    "i18n": {
+      "name": {
+        "en": "Destr",
+        "uk": "Destr"
+      },
+      "alt": {
+        "en": "Destr",
+        "uk": "Destr"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "data parsing",
+          "deserialize",
+          "destr",
+          "json parse",
+          "parser",
+          "safe parse",
+          "string to json",
+          "unjs destr"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "fontaine": {
+    "mediaKey": "9a664f56-85e2-480a-800a-9cb5bee569cf",
+    "i18n": {
+      "name": {
+        "en": "Fontaine",
+        "uk": "Fontaine"
+      },
+      "alt": {
+        "en": "Fontaine",
+        "uk": "Fontaine"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "font loader",
+          "font manager",
+          "font optimizer",
+          "fontaine",
+          "fontaine nuxt",
+          "web font"
+        ],
+        "uk": [
+          "типографіка",
+          "шрифти"
+        ]
+      }
+    }
+  },
+  "fs-memo": {
+    "mediaKey": "7ff0a02f-d793-4a7c-a7a4-5c33d15e73a3",
+    "i18n": {
+      "name": {
+        "en": "Fs memo",
+        "uk": "FS Memo"
+      },
+      "alt": {
+        "en": "Fs memo",
+        "uk": "FS Memo"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "disk",
+          "file system",
+          "files",
+          "fs",
+          "memo",
+          "memo pad",
+          "message",
+          "node fs",
+          "notes",
+          "storage",
+          "fs-memo"
+        ],
+        "uk": [
+          "директорія",
+          "замітка",
+          "нагадування",
+          "нотатка",
+          "пам'ятка",
+          "файлова система"
+        ]
+      }
+    }
+  },
+  "get-port-please": {
+    "mediaKey": "9e7a9a83-846e-447a-ae2a-7983a59d9dcb",
+    "i18n": {
+      "name": {
+        "en": "Get port please",
+        "uk": "Запросити порт"
+      },
+      "alt": {
+        "en": "Get port please",
+        "uk": "Запросити порт"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "dock",
+          "fetch",
+          "gateway",
+          "get",
+          "harbor",
+          "http get",
+          "kindly",
+          "network port",
+          "please",
+          "please icon",
+          "port",
+          "request",
+          "tcp port",
+          "get-port-please"
+        ],
+        "uk": [
+          "будь ласка",
+          "будьласка",
+          "ґет",
+          "дістати",
+          "отримання",
+          "отримати",
+          "порт",
+          "пристань",
+          "просимо",
+          "прохання"
+        ]
+      }
+    }
+  },
+  "giget": {
+    "mediaKey": "bfe52c9f-279d-4b87-acd1-cafcdba0d90c",
+    "i18n": {
+      "name": {
+        "en": "Giget",
+        "uk": "Giget"
+      },
+      "alt": {
+        "en": "Giget",
+        "uk": "Giget"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cli",
+          "giget",
+          "project generator",
+          "scaffold",
+          "scaffolding",
+          "starter kit",
+          "template download"
+        ],
+        "uk": [
+          "швидкий старт"
+        ]
+      }
+    }
+  },
+  "h3": {
+    "mediaKey": "4b1172bc-3176-4208-a132-97b572eb01c4",
+    "i18n": {
+      "name": {
+        "en": "H3",
+        "uk": "H3"
+      },
+      "alt": {
+        "en": "H3",
+        "uk": "H3"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "h3",
+          "heading level 3",
+          "html h3",
+          "markup",
+          "section title",
+          "subtitle",
+          "title"
+        ],
+        "uk": [
+          "заголовок"
+        ]
+      }
+    }
+  },
+  "hookable": {
+    "mediaKey": "fadbf5bc-41be-40ae-9696-c38584778a65",
+    "i18n": {
+      "name": {
+        "en": "Hookable",
+        "uk": "Hookable"
+      },
+      "alt": {
+        "en": "Hookable",
+        "uk": "Hookable"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "event hooks",
+          "extendable",
+          "hook manager",
+          "hookable",
+          "hooks system",
+          "lifecycle",
+          "plugin hooks",
+          "webhooks"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "httpxy": {
+    "mediaKey": "ec06830a-50d1-4930-896e-00d4280f7eca",
+    "i18n": {
+      "name": {
+        "en": "Httpxy",
+        "uk": "HTTPXY"
+      },
+      "alt": {
+        "en": "Httpxy",
+        "uk": "HTTPXY"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "gateway",
+          "http proxy",
+          "http tool",
+          "httpxy",
+          "network",
+          "proxy",
+          "reverse proxy",
+          "routing"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "image-meta": {
+    "mediaKey": "d761f923-bbfa-4c16-acf6-488fe2c40665",
+    "i18n": {
+      "name": {
+        "en": "Image meta",
+        "uk": "Метадані зображення"
+      },
+      "alt": {
+        "en": "Image meta",
+        "uk": "Метадані зображення"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "компанія Meta",
+          "graphic",
+          "image",
+          "image file",
+          "meta",
+          "Meta logo",
+          "Meta Platforms",
+          "picture",
+          "image-meta"
+        ],
+        "uk": [
+          "зображення",
+          "імаґе",
+          "компанія Meta",
+          "мета",
+          "фото"
+        ]
+      }
+    }
+  },
+  "ipx": {
+    "mediaKey": "6aac7360-b417-441e-acce-ab8a75d2b6fe",
+    "i18n": {
+      "name": {
+        "en": "Ipx",
+        "uk": "IPX"
+      },
+      "alt": {
+        "en": "Ipx",
+        "uk": "IPX"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "ip exchange",
+          "ip routing",
+          "ipx",
+          "ipx network",
+          "ipx service",
+          "mobile roaming",
+          "network hub",
+          "telecom exchange"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "jimp-compact": {
+    "mediaKey": "2a3812c1-407a-4fa8-8447-cacb54381853",
+    "i18n": {
+      "name": {
+        "en": "Jimp compact",
+        "uk": "Jimp Compact"
+      },
+      "alt": {
+        "en": "Jimp compact",
+        "uk": "Jimp Compact"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bitmap",
+          "compact",
+          "compressed",
+          "graphics",
+          "image editor",
+          "image processing",
+          "jimp",
+          "mini",
+          "node image",
+          "photo edit",
+          "picture tool",
+          "jimp-compact"
+        ],
+        "uk": [
+          "компакт",
+          "компактний",
+          "щільний"
+        ]
+      }
+    }
+  },
+  "jiti": {
+    "mediaKey": "8a1fb48a-7631-4efe-af4a-c8071d832af0",
+    "i18n": {
+      "name": {
+        "en": "Jiti",
+        "uk": "Jiti"
+      },
+      "alt": {
+        "en": "Jiti",
+        "uk": "Jiti"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "code loader",
+          "dynamic import",
+          "hot reload",
+          "jiti",
+          "just-in-time import",
+          "module loader",
+          "nuxt jiti",
+          "runtime loader"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "knitwork": {
+    "mediaKey": "0310a5fa-3eeb-4df0-9677-d3882bef0818",
+    "i18n": {
+      "name": {
+        "en": "Knitwork",
+        "uk": "В'язання"
+      },
+      "alt": {
+        "en": "Knitwork",
+        "uk": "В'язання"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "handmade",
+          "knit",
+          "knitwork"
+        ],
+        "uk": [
+          "в'язання",
+          "в'язати",
+          "нитки",
+          "ручна робота",
+          "трикотаж"
+        ]
+      }
+    }
+  },
+  "listhen": {
+    "mediaKey": "0b884328-f0d7-4b27-b87f-497b7cb2f1aa",
+    "i18n": {
+      "name": {
+        "en": "Listhen",
+        "uk": "Listhen"
+      },
+      "alt": {
+        "en": "Listhen",
+        "uk": "Listhen"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "dev server",
+          "http server",
+          "listen",
+          "listhen",
+          "local server",
+          "node server",
+          "nuxt dev",
+          "preview server"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "magic-regexp": {
+    "mediaKey": "e5c20fb7-6a62-49eb-80d6-fc4c8baf4667",
+    "i18n": {
+      "name": {
+        "en": "Magic regexp",
+        "uk": "Magic RegExp"
+      },
+      "alt": {
+        "en": "Magic regexp",
+        "uk": "Magic RegExp"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "magic",
+          "magic wand",
+          "pattern",
+          "regex",
+          "regexp",
+          "regular expression",
+          "sparkles",
+          "string match",
+          "wizardry",
+          "wow",
+          "magic-regexp"
+        ],
+        "uk": [
+          "диво",
+          "магія",
+          "пошук",
+          "регулярки",
+          "чари",
+          "шаблон"
+        ]
+      }
+    }
+  },
+  "magicast": {
+    "mediaKey": "05662a8a-664f-4b11-acf8-f4a0b662f75f",
+    "i18n": {
+      "name": {
+        "en": "Magicast",
+        "uk": "Magicast"
+      },
+      "alt": {
+        "en": "Magicast",
+        "uk": "Magicast"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "abstract syntax",
+          "ast",
+          "code transform",
+          "compiler",
+          "dev tooling",
+          "magic ast",
+          "magicast"
+        ],
+        "uk": [
+          "кодогенерація"
+        ]
+      }
+    }
+  },
+  "mdbox": {
+    "mediaKey": "acd3bf13-0e35-4ab7-a55e-09bf398602a4",
+    "i18n": {
+      "name": {
+        "en": "Mdbox",
+        "uk": "Mdbox"
+      },
+      "alt": {
+        "en": "Mdbox",
+        "uk": "Mdbox"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "content box",
+          "docs storage",
+          "documentation",
+          "markdown box",
+          "md container",
+          "md toolkit",
+          "mdbox",
+          "notes"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "mkdist": {
+    "mediaKey": "af490b07-7857-44ea-b5d4-239ca7e79901",
+    "i18n": {
+      "name": {
+        "en": "Mkdist",
+        "uk": "Mkdist"
+      },
+      "alt": {
+        "en": "Mkdist",
+        "uk": "Mkdist"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "build tool",
+          "bundle",
+          "dist generator",
+          "library build",
+          "mkdist",
+          "npm build",
+          "packager",
+          "publish"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "mlly": {
+    "mediaKey": "ac4b1024-9b46-4b4e-9eb0-e44c654c2fe2",
+    "i18n": {
+      "name": {
+        "en": "Mlly",
+        "uk": "Mlly"
+      },
+      "alt": {
+        "en": "Mlly",
+        "uk": "Mlly"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "esm resolver",
+          "imports",
+          "loader",
+          "mlly",
+          "module loader",
+          "module tools",
+          "module utils",
+          "package resolver"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "mongoz": {
+    "mediaKey": "06e93c88-3df0-4f97-a2e7-a4bd47507000",
+    "i18n": {
+      "name": {
+        "en": "Mongoz",
+        "uk": "Mongoz"
+      },
+      "alt": {
+        "en": "Mongoz",
+        "uk": "Mongoz"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "database explorer",
+          "mongo client",
+          "mongo gui",
+          "mongo shell",
+          "mongo tools",
+          "mongo ui",
+          "mongodb",
+          "mongoz"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "nanotar": {
+    "mediaKey": "c31d5eb0-d2a2-4a7f-bd26-1843fd663856",
+    "i18n": {
+      "name": {
+        "en": "Nanotar",
+        "uk": "Nanotar"
+      },
+      "alt": {
+        "en": "Nanotar",
+        "uk": "Nanotar"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "avatar",
+          "brand nanotar",
+          "micro icon",
+          "mini profile",
+          "nano avatar",
+          "nanotar",
+          "nanotar logo",
+          "tiny icon"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "nitro": {
+    "mediaKey": "d34cc4aa-2911-4695-8a9a-e8e243558157",
+    "i18n": {
+      "name": {
+        "en": "Nitro",
+        "uk": "Nitro"
+      },
+      "alt": {
+        "en": "Nitro",
+        "uk": "Nitro"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "boost",
+          "discord nitro",
+          "nitro",
+          "power",
+          "rocket",
+          "turbo"
+        ],
+        "uk": [
+          "нітро",
+          "швидкість"
+        ]
+      }
+    }
+  },
+  "node-fetch-native": {
+    "mediaKey": "d2e5e4df-d2ad-4157-be7b-e7da5e5cff12",
+    "i18n": {
+      "name": {
+        "en": "Node fetch native",
+        "uk": "Node Fetch Native"
+      },
+      "alt": {
+        "en": "Node fetch native",
+        "uk": "Node Fetch Native"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "api запит",
+          "backend",
+          "data fetch",
+          "download",
+          "fetch",
+          "http fetch",
+          "javascript runtime",
+          "js runtime",
+          "native",
+          "native app",
+          "network request",
+          "node",
+          "node.js",
+          "nodejs",
+          "server js",
+          "serverside",
+          "node-fetch-native"
+        ],
+        "uk": [
+          "вбудований",
+          "витягнути",
+          "вузол",
+          "нативний",
+          "натіве",
+          "отримати",
+          "отримати дані",
+          "рідний",
+          "рідномовний",
+          "api запит"
+        ]
+      }
+    }
+  },
+  "nypm": {
+    "mediaKey": "f1ef3fbc-9449-4ead-8c81-be84cc478053",
+    "i18n": {
+      "name": {
+        "en": "Nypm",
+        "uk": "Nypm"
+      },
+      "alt": {
+        "en": "Nypm",
+        "uk": "Nypm"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cli nypm",
+          "dependency manager",
+          "npm proxy",
+          "nuxt packages",
+          "nypm",
+          "package manager",
+          "packages",
+          "registry"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "ofetch": {
+    "mediaKey": "53d060c9-f584-401d-a26b-3f69e7370c4e",
+    "i18n": {
+      "name": {
+        "en": "Ofetch",
+        "uk": "Ofetch"
+      },
+      "alt": {
+        "en": "Ofetch",
+        "uk": "Ofetch"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "api запит",
+          "data fetch",
+          "fetch wrapper",
+          "http client",
+          "network fetch",
+          "nuxt fetch",
+          "ofetch",
+          "rest client"
+        ],
+        "uk": [
+          "api запит"
+        ]
+      }
+    }
+  },
+  "ohash": {
+    "mediaKey": "1a3323e8-58d0-41d2-8380-2d62834b1cc2",
+    "i18n": {
+      "name": {
+        "en": "Ohash",
+        "uk": "Ohash"
+      },
+      "alt": {
+        "en": "Ohash",
+        "uk": "Ohash"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cache key",
+          "checksum",
+          "hash util",
+          "hashing",
+          "object hash",
+          "ohash"
+        ],
+        "uk": [
+          "ідентифікатор",
+          "унікальний ключ"
+        ]
+      }
+    }
+  },
+  "pathe": {
+    "mediaKey": "d0650bda-65f6-4705-b5cd-5e54ac54112e",
+    "i18n": {
+      "name": {
+        "en": "Pathe",
+        "uk": "Pathe"
+      },
+      "alt": {
+        "en": "Pathe",
+        "uk": "Pathe"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cinema",
+          "movie",
+          "pathe",
+          "pathe logo"
+        ],
+        "uk": [
+          "кіно",
+          "кіностудія",
+          "кінотеатр",
+          "французький бренд"
+        ]
+      }
+    }
+  },
+  "perfect-debounce": {
+    "mediaKey": "f7ea1add-ea30-4c3e-952b-20b33905f76b",
+    "i18n": {
+      "name": {
+        "en": "Perfect debounce",
+        "uk": "Perfect Debounce"
+      },
+      "alt": {
+        "en": "Perfect debounce",
+        "uk": "Perfect Debounce"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "antispam",
+          "debounce",
+          "debouncer",
+          "delay input",
+          "excellent",
+          "flawless",
+          "great",
+          "input control",
+          "perfect",
+          "throttle",
+          "top",
+          "perfect-debounce"
+        ],
+        "uk": [
+          "відмінно",
+          "дебаунс",
+          "затримка",
+          "ідеально",
+          "профіт"
+        ]
+      }
+    }
+  },
+  "pkg-types": {
+    "mediaKey": "5b9c50c4-8519-421a-b2fb-37fcaa4a9020",
+    "i18n": {
+      "name": {
+        "en": "Pkg types",
+        "uk": "Pkg Types"
+      },
+      "alt": {
+        "en": "Pkg types",
+        "uk": "Pkg Types"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "bundle",
+          "data types",
+          "dependency",
+          "generics",
+          "library",
+          "npm package",
+          "pack",
+          "package",
+          "package json",
+          "pkg",
+          "ts",
+          "type system",
+          "types",
+          "pkg-types"
+        ],
+        "uk": [
+          "анотації",
+          "пакет",
+          "типи",
+          "типізація"
+        ]
+      }
+    }
+  },
+  "radix3": {
+    "mediaKey": "c61906b6-1853-4f4d-b745-947e696177f4",
+    "i18n": {
+      "name": {
+        "en": "Radix3",
+        "uk": "Radix3"
+      },
+      "alt": {
+        "en": "Radix3",
+        "uk": "Radix3"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "component library",
+          "design system",
+          "headless ui",
+          "radix brand",
+          "radix icons",
+          "radix ui",
+          "radix3",
+          "ui kit"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "rc9": {
+    "mediaKey": "e26440f4-a7bf-48f4-8ca9-70993ec4ba94",
+    "i18n": {
+      "name": {
+        "en": "Rc9",
+        "uk": "RC9"
+      },
+      "alt": {
+        "en": "Rc9",
+        "uk": "RC9"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "beta",
+          "build rc",
+          "pre-release",
+          "rc9",
+          "release candidate",
+          "version tag"
+        ],
+        "uk": [
+          "версія",
+          "реліз кандидат"
+        ]
+      }
+    }
+  },
+  "scule": {
+    "mediaKey": "c1e69f98-6bc0-40f9-8160-34e522557e2a",
+    "i18n": {
+      "name": {
+        "en": "Scule",
+        "uk": "Scule"
+      },
+      "alt": {
+        "en": "Scule",
+        "uk": "Scule"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cache",
+          "data utils",
+          "key value",
+          "kv",
+          "nuxt scule",
+          "scalable utils",
+          "scule",
+          "storage"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "serve-placeholder": {
+    "mediaKey": "85c3a45f-b60c-448d-9918-852034fb3f60",
+    "i18n": {
+      "name": {
+        "en": "Serve placeholder",
+        "uk": "Заглушка сервісу"
+      },
+      "alt": {
+        "en": "Serve placeholder",
+        "uk": "Заглушка сервісу"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "dummy field",
+          "help",
+          "placeholder",
+          "placeholder text",
+          "serve",
+          "service",
+          "serve-placeholder"
+        ],
+        "uk": [
+          "заповнювач",
+          "обслуговувати",
+          "плакехолдер",
+          "подати",
+          "сервер",
+          "сервіс",
+          "служити"
+        ]
+      }
+    }
+  },
+  "std-env": {
+    "mediaKey": "55e5ee8a-a99f-4e72-bccc-c1c44e02151a",
+    "i18n": {
+      "name": {
+        "en": "Std env",
+        "uk": "Std Env"
+      },
+      "alt": {
+        "en": "Std env",
+        "uk": "Std Env"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "base",
+          "common utils",
+          "config",
+          "default",
+          "dotenv",
+          "env",
+          "env файл",
+          "environment variables",
+          "standard",
+          "standard library",
+          "std",
+          "stdlib",
+          "system env",
+          "std-env"
+        ],
+        "uk": [
+          "бібліотека",
+          "довкілля",
+          "конфіг",
+          "налаштування",
+          "env файл"
+        ]
+      }
+    }
+  },
+  "theme-colors": {
+    "mediaKey": "501bf622-bb3c-4e93-891a-691d563deafd",
+    "i18n": {
+      "name": {
+        "en": "Theme colors",
+        "uk": "Кольори теми"
+      },
+      "alt": {
+        "en": "Theme colors",
+        "uk": "Кольори теми"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "палiтра",
+          "appearance",
+          "color palette",
+          "colors",
+          "palette",
+          "rgb",
+          "skin",
+          "template",
+          "theme",
+          "theme-colors"
+        ],
+        "uk": [
+          "відтінки",
+          "дизайн",
+          "колір",
+          "кольори",
+          "оформлення",
+          "палiтра",
+          "стиль",
+          "тема"
+        ]
+      }
+    }
+  },
+  "ufo": {
+    "mediaKey": "538a9226-0ccb-423e-8b28-ad6a179afce4",
+    "i18n": {
+      "name": {
+        "en": "Ufo",
+        "uk": "НЛО"
+      },
+      "alt": {
+        "en": "Ufo",
+        "uk": "НЛО"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "alien",
+          "flying saucer",
+          "UAP",
+          "ufo"
+        ],
+        "uk": [
+          "літаюча тарілка",
+          "НЛО",
+          "прибульці"
+        ]
+      }
+    }
+  },
+  "unbuild": {
+    "mediaKey": "084c2974-9a94-4bab-b4ce-79d0f7e5bcc9",
+    "i18n": {
+      "name": {
+        "en": "Unbuild",
+        "uk": "Unbuild"
+      },
+      "alt": {
+        "en": "Unbuild",
+        "uk": "Unbuild"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "build tool",
+          "builder",
+          "bundle",
+          "library build",
+          "nuxt build",
+          "packager",
+          "publish",
+          "unbuild"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "uncrypto": {
+    "mediaKey": "05157deb-f012-462c-99ce-87a279338f6a",
+    "i18n": {
+      "name": {
+        "en": "Uncrypto",
+        "uk": "Uncrypto"
+      },
+      "alt": {
+        "en": "Uncrypto",
+        "uk": "Uncrypto"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "crypto helper",
+          "crypto utils",
+          "cryptography",
+          "decode",
+          "encryption",
+          "hash",
+          "security",
+          "uncrypto"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "unctx": {
+    "mediaKey": "a56bdcbf-f274-4a44-91c7-8db652613ee9",
+    "i18n": {
+      "name": {
+        "en": "Unctx",
+        "uk": "Unctx"
+      },
+      "alt": {
+        "en": "Unctx",
+        "uk": "Unctx"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "context api",
+          "context helper",
+          "context utils",
+          "nuxt context",
+          "reactivity",
+          "state",
+          "state manager",
+          "unctx"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "undocs": {
+    "mediaKey": "30a6baa5-2b5c-4a69-bc45-1ca889f4721f",
+    "i18n": {
+      "name": {
+        "en": "Undocs",
+        "uk": "Undocs"
+      },
+      "alt": {
+        "en": "Undocs",
+        "uk": "Undocs"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "docs",
+          "docs portal",
+          "documentation",
+          "guide",
+          "help center",
+          "knowledge base",
+          "nuxt docs",
+          "undocs"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "unenv": {
+    "mediaKey": "b9a384c8-deba-4055-8ab8-0d8b866b4b8f",
+    "i18n": {
+      "name": {
+        "en": "Unenv",
+        "uk": "Unenv"
+      },
+      "alt": {
+        "en": "Unenv",
+        "uk": "Unenv"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cross platform",
+          "env shim",
+          "environment polyfill",
+          "environment utils",
+          "node env",
+          "nuxt env",
+          "runtime",
+          "unenv"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "ungh": {
+    "mediaKey": "be7d42fd-d986-4c84-8222-1dd5bcc8768b",
+    "i18n": {
+      "name": {
+        "en": "Ungh",
+        "uk": "Ungh"
+      },
+      "alt": {
+        "en": "Ungh",
+        "uk": "Ungh"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "commit insights",
+          "git history",
+          "git timeline",
+          "history viewer",
+          "nuxt devtools",
+          "repo stats",
+          "repository",
+          "ungh"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "unhead": {
+    "mediaKey": "4fb39c86-4aa6-41a7-99b4-a4a93b39a2c4",
+    "i18n": {
+      "name": {
+        "en": "Unhead",
+        "uk": "Unhead"
+      },
+      "alt": {
+        "en": "Unhead",
+        "uk": "Unhead"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "document head",
+          "head control",
+          "head manager",
+          "headless",
+          "meta tags",
+          "nuxt head",
+          "seo",
+          "unhead"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "unimport": {
+    "mediaKey": "427a96c0-5b4a-40a1-8991-1a5b97550793",
+    "i18n": {
+      "name": {
+        "en": "Unimport",
+        "uk": "Unimport"
+      },
+      "alt": {
+        "en": "Unimport",
+        "uk": "Unimport"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "auto imports",
+          "imports helper",
+          "imports manager",
+          "module imports",
+          "nuxt imports",
+          "tree shaking",
+          "unimport"
+        ],
+        "uk": [
+          "імпорти"
+        ]
+      }
+    }
+  },
+  "unpdf": {
+    "mediaKey": "219511db-6182-43e9-b415-c026538dd527",
+    "i18n": {
+      "name": {
+        "en": "Unpdf",
+        "uk": "Unpdf"
+      },
+      "alt": {
+        "en": "Unpdf",
+        "uk": "Unpdf"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "document viewer",
+          "pdf",
+          "pdf convert",
+          "pdf parser",
+          "pdf processing",
+          "pdf tools",
+          "pdf utility",
+          "unpdf"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "unplugin": {
+    "mediaKey": "700d5a58-b02c-4c51-a2d2-cf8d988b8813",
+    "i18n": {
+      "name": {
+        "en": "Unplugin",
+        "uk": "Unplugin"
+      },
+      "alt": {
+        "en": "Unplugin",
+        "uk": "Unplugin"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "build plugin",
+          "nuxt plugin",
+          "plugin framework",
+          "plugin toolkit",
+          "rollup plugin",
+          "unplugin",
+          "vite plugin",
+          "webpack plugin"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "unstorage": {
+    "mediaKey": "3bcd70eb-7ebb-4c03-b499-cf7422831388",
+    "i18n": {
+      "name": {
+        "en": "Unstorage",
+        "uk": "Unstorage"
+      },
+      "alt": {
+        "en": "Unstorage",
+        "uk": "Unstorage"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "cache",
+          "data store",
+          "key value",
+          "nuxt storage",
+          "storage api",
+          "storage util",
+          "unjs storage",
+          "unstorage"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "untun": {
+    "mediaKey": "649f4405-588f-4aa7-8054-3867645be7b6",
+    "i18n": {
+      "name": {
+        "en": "Untun",
+        "uk": "Untun"
+      },
+      "alt": {
+        "en": "Untun",
+        "uk": "Untun"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "network tunnel",
+          "nuxt untun",
+          "proxy",
+          "reverse tunnel",
+          "secure tunnel",
+          "tunnel",
+          "untun",
+          "vpn"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "untyped": {
+    "mediaKey": "924d8db4-8090-43b7-9c11-b1e758d7c082",
+    "i18n": {
+      "name": {
+        "en": "Untyped",
+        "uk": "Untyped"
+      },
+      "alt": {
+        "en": "Untyped",
+        "uk": "Untyped"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "any",
+          "js",
+          "nuxt types",
+          "runtime types",
+          "type helper",
+          "types utils",
+          "untyped"
+        ],
+        "uk": [
+          "без типів"
+        ]
+      }
+    }
+  },
+  "unwasm": {
+    "mediaKey": "3b745e15-2a58-4349-acf8-a8263a56d825",
+    "i18n": {
+      "name": {
+        "en": "Unwasm",
+        "uk": "Unwasm"
+      },
+      "alt": {
+        "en": "Unwasm",
+        "uk": "Unwasm"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "module",
+          "nuxt wasm",
+          "runtime",
+          "unwasm",
+          "wasm",
+          "wasm loader",
+          "web assembly",
+          "webassembly"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "uqr": {
+    "mediaKey": "671af6fd-370d-4134-8e84-b93b6bb8334f",
+    "i18n": {
+      "name": {
+        "en": "Uqr",
+        "uk": "UQR"
+      },
+      "alt": {
+        "en": "Uqr",
+        "uk": "UQR"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "nuxt qr",
+          "qr builder",
+          "qr code",
+          "qr generator",
+          "qr toolkit",
+          "quick response",
+          "scan",
+          "uqr"
+        ],
+        "uk": []
+      }
+    }
+  },
+  "webpackbar": {
+    "mediaKey": "1f18e901-5905-48b6-9edf-ab794eec2094",
+    "i18n": {
+      "name": {
+        "en": "Webpackbar",
+        "uk": "Webpackbar"
+      },
+      "alt": {
+        "en": "Webpackbar",
+        "uk": "Webpackbar"
+      },
+      "tags": {
+        "en": [],
+        "uk": []
+      },
+      "keywords": {
+        "en": [
+          "build bar",
+          "build status",
+          "bundler",
+          "dev tool",
+          "progress bar",
+          "webpack plugin",
+          "webpack progress",
+          "webpackbar"
+        ],
+        "uk": []
+      }
+    }
+  }
+}

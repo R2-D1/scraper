@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-25630346",
+  "mediaKey": "pexels:25630346",
+  "i18n": {
+    "name": {
+      "en": "White ribbed sculptural forms",
+      "uk": "Білі ребристі скульптурні форми"
+    },
+    "alt": {
+      "en": "Dynamic abstract shapes showcasing intricate details and futuristic design.",
+      "uk": "Динамічні абстрактні форми, що вирізняються витонченими деталями та футуристичним дизайном."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "sculpture",
+        "i18n": {
+          "en": "sculpture",
+          "uk": "скульптура"
+        }
+      },
+      {
+        "key": "white",
+        "i18n": {
+          "en": "white",
+          "uk": "білий"
+        }
+      },
+      {
+        "key": "ribbed",
+        "i18n": {
+          "en": "ribbed",
+          "uk": "ребристий"
+        }
+      },
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/ai-generated-futuristic-graphic-25630346/",
+  "sourceName": "Pexels",
+  "authorName": "Google DeepMind",
+  "authorUrl": "https://www.pexels.com/@googledeepmind",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3414
+}

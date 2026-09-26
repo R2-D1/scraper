@@ -1,0 +1,69 @@
+{
+  "slug": "high-five",
+  "mediaKey": "3adecd32-83dd-451b-b966-57b5d7635a93",
+  "i18n": {
+    "name": {
+      "en": "High Five",
+      "uk": "«Дай п’ять»"
+    },
+    "alt": {
+      "en": "High Five",
+      "uk": "«Дай п’ять»"
+    },
+    "tags": [
+      {
+        "key": "success",
+        "i18n": {
+          "en": "success",
+          "uk": "успіх"
+        }
+      },
+      {
+        "key": "collaboration",
+        "i18n": {
+          "en": "collaboration",
+          "uk": "співпраця"
+        }
+      },
+      {
+        "key": "teamwork",
+        "i18n": {
+          "en": "teamwork",
+          "uk": "командна робота"
+        }
+      },
+      {
+        "key": "win",
+        "i18n": {
+          "en": "win",
+          "uk": "перемога"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/high-five",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

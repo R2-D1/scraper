@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-33995250",
+  "mediaKey": "pexels:33995250",
+  "i18n": {
+    "name": {
+      "en": "Runner crossing a city street",
+      "uk": "Бігун, що перебігає міську вулицю"
+    },
+    "alt": {
+      "en": "Blurred motion shot of a runner crossing the street in Montréal, capturing urban energy and speed.",
+      "uk": "Знімок із розмитим рухом, на якому зображено бігуна, що перебігає вулицю в Монреалі; на ньому передано енергію та швидкість міського життя."
+    },
+    "tags": [
+      {
+        "key": "runner",
+        "i18n": {
+          "en": "runner",
+          "uk": "бігун"
+        }
+      },
+      {
+        "key": "running",
+        "i18n": {
+          "en": "running",
+          "uk": "біг"
+        }
+      },
+      {
+        "key": "city-street",
+        "i18n": {
+          "en": "city street",
+          "uk": "міська вулиця"
+        }
+      },
+      {
+        "key": "motion-blur",
+        "i18n": {
+          "en": "motion blur",
+          "uk": "розмиття в русі"
+        }
+      },
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "urban",
+          "uk": "урбаністичний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/runner-in-motion-on-montreal-city-street-33995250/",
+  "sourceName": "Pexels",
+  "authorName": "Mathias Reding",
+  "authorUrl": "https://www.pexels.com/@matreding",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

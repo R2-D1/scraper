@@ -1,0 +1,261 @@
+- generic [ref=f17e4]:
+  - navigation [ref=f17e5]:
+    - generic [ref=f17e6]:
+      - generic [ref=f17e7]:
+        - link "Unsplash Home" [ref=f17e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f17e9]
+        - link "Photos" [ref=f17e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f17e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f17e17]:
+        - button "Explore" [ref=f17e18] [cursor=pointer]
+        - button "Collections" [ref=f17e21] [cursor=pointer]
+        - button "Download History" [ref=f17e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f17e28] [cursor=pointer]
+    - generic [ref=f17e31]:
+      - link "Log in / Sign up" [ref=f17e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-pink-background-with-a-picture-of-a-film-strip-and-a-pair-of-scissors-FdJQZftXqsQ
+      - button "Language" [ref=f17e35] [cursor=pointer]
+      - button "Menu" [ref=f17e38] [cursor=pointer]
+  - generic [ref=f17e41]:
+    - generic [ref=f17e42]:
+      - navigation [ref=f17e43]:
+        - search "Find visuals sitewide" [ref=f17e45]:
+          - button "Search Unsplash" [ref=f17e46] [cursor=pointer]
+          - combobox [ref=f17e49]:
+            - searchbox "Search Unsplash" [ref=f17e50]
+            - listbox
+          - button "Visual search" [ref=f17e52] [cursor=pointer]
+        - generic [ref=f17e55]:
+          - link "Get Unsplash+" [ref=f17e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f17e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-pink-background-with-a-picture-of-a-film-strip-and-a-pair-of-scissors-FdJQZftXqsQ
+        - button "Submit an image" [ref=f17e59] [cursor=pointer]
+      - generic [ref=f17e60]:
+        - generic [ref=f17e61]:
+          - banner [ref=f17e63]:
+            - generic [ref=f17e65]:
+              - link [ref=f17e66] [cursor=pointer]:
+                - /url: /@hjproject/illustrations
+              - generic [ref=f17e69]:
+                - link "HJ Project" [ref=f17e70] [cursor=pointer]:
+                  - /url: /@hjproject/illustrations
+                - generic [ref=f17e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f17e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-pink-background-with-a-picture-of-a-film-strip-and-a-pair-of-scissors-FdJQZftXqsQ
+            - generic [ref=f17e73]:
+              - button "Bookmark" [ref=f17e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f17e77] [cursor=pointer]
+              - button "Edit image" [ref=f17e80] [cursor=pointer]
+              - button "Download" [ref=f17e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f17e90]:
+            - img "A pink background with a picture of a film strip and a pair of scissors" [ref=f17e91]
+          - generic [ref=f17e92]:
+            - generic [ref=f17e94]:
+              - button "Share this image" [ref=f17e95] [cursor=pointer]:
+                - generic [ref=f17e98]: Share
+              - button "More Actions" [ref=f17e99] [cursor=pointer]
+            - generic [ref=f17e103]:
+              - heading "A pink background with a picture of a film strip and a pair of scissors" [level=1] [ref=f17e105]
+              - paragraph [ref=f17e109]: Download this illustration of technology, tech, green, and illustration by HJ Project (@hjproject)
+              - generic [ref=f17e111]:
+                - generic [ref=f17e116]:
+                  - text: Published on
+                  - time [ref=f17e117]: November 29, 2024
+                - generic [ref=f17e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f17e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f17e124]:
+              - link "technology" [ref=f17e125] [cursor=pointer]:
+                - /url: /s/illustrations/technology
+              - link "tech" [ref=f17e126] [cursor=pointer]:
+                - /url: /s/illustrations/tech
+              - link "green" [ref=f17e127] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "illustration" [ref=f17e128] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "pink" [ref=f17e129] [cursor=pointer]:
+                - /url: /s/illustrations/pink
+              - link "phone" [ref=f17e130] [cursor=pointer]:
+                - /url: /s/illustrations/phone
+              - link "video" [ref=f17e131] [cursor=pointer]:
+                - /url: /s/illustrations/video
+              - link "white" [ref=f17e132] [cursor=pointer]:
+                - /url: /s/illustrations/white
+              - link "graphic design" [ref=f17e133] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "orange" [ref=f17e134] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "red" [ref=f17e135] [cursor=pointer]:
+                - /url: /s/illustrations/red
+              - link "innovation" [ref=f17e136] [cursor=pointer]:
+                - /url: /s/illustrations/innovation
+              - link "vector" [ref=f17e137] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "software" [ref=f17e138] [cursor=pointer]:
+                - /url: /s/illustrations/software
+              - link "smartphone" [ref=f17e139] [cursor=pointer]:
+                - /url: /s/illustrations/smartphone
+              - link "creativity" [ref=f17e140] [cursor=pointer]:
+                - /url: /s/illustrations/creativity
+              - link "digital art" [ref=f17e141] [cursor=pointer]:
+                - /url: /s/illustrations/digital-art
+              - link "video editing" [ref=f17e142] [cursor=pointer]:
+                - /url: /s/illustrations/video-editing
+              - link "apps" [ref=f17e143] [cursor=pointer]:
+                - /url: /s/illustrations/apps
+              - link "software development" [ref=f17e144] [cursor=pointer]:
+                - /url: /s/illustrations/software-development
+        - generic [ref=f17e148]:
+          - heading "Related images" [level=4] [ref=f17e150]
+          - generic [ref=f17e154]:
+            - generic [ref=f17e155]:
+              - figure [ref=f17e156]:
+                - generic [ref=f17e158]:
+                  - link [ref=f17e159]:
+                    - /url: /illustrations/a-cartoon-of-a-movie-projector-and-a-movie-clapper-RAV8sqtphW0
+                    - img "A cartoon of a movie projector and a movie clapper" [ref=f17e160]
+                  - link [ref=f17e161] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-of-a-movie-projector-and-a-movie-clapper-RAV8sqtphW0
+              - figure [ref=f17e164]:
+                - generic [ref=f17e166]:
+                  - link [ref=f17e167]:
+                    - /url: /illustrations/a-film-reel-and-clapperboard-represent-cinema-9HNr6M2k060
+                    - img "A film reel and clapperboard represent cinema." [ref=f17e168]
+                  - link [ref=f17e169] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-film-reel-and-clapperboard-represent-cinema-9HNr6M2k060
+              - figure [ref=f17e172]:
+                - generic [ref=f17e174]:
+                  - link [ref=f17e175]:
+                    - /url: /illustrations/a-phone-with-a-film-strip-around-it-MIBJlQY34Vs
+                    - img "A phone with a film strip around it" [ref=f17e176]
+                  - link [ref=f17e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-phone-with-a-film-strip-around-it-MIBJlQY34Vs
+              - figure [ref=f17e180]:
+                - generic [ref=f17e182]:
+                  - link [ref=f17e183]:
+                    - /url: /illustrations/film-reels-and-strip-represent-cinema-UjiaD9CkW_Y
+                    - img "Film reels and strip represent cinema." [ref=f17e184]
+                  - link [ref=f17e185] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ffilm-reels-and-strip-represent-cinema-UjiaD9CkW_Y
+              - figure [ref=f17e188]:
+                - generic [ref=f17e190]:
+                  - link [ref=f17e191]:
+                    - /url: /illustrations/a-computer-a-camera-and-a-phone-are-shown-zIqXZ97LhS8
+                    - img "A computer, a camera, and a phone are shown" [ref=f17e192]
+                  - link [ref=f17e193] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-computer-a-camera-and-a-phone-are-shown-zIqXZ97LhS8
+              - figure [ref=f17e196]:
+                - generic [ref=f17e198]:
+                  - link [ref=f17e199]:
+                    - /url: /illustrations/hands-holding-a-film-clapperboard-with-movie-reel-background-o8ZixUVtSi0
+                    - img "Hands holding a film clapperboard with movie reel background" [ref=f17e200]
+                  - link [ref=f17e201] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhands-holding-a-film-clapperboard-with-movie-reel-background-o8ZixUVtSi0
+            - generic [ref=f17e204]:
+              - figure [ref=f17e205]:
+                - generic [ref=f17e207]:
+                  - link [ref=f17e208]:
+                    - /url: /illustrations/a-laptop-computer-sitting-on-top-of-a-table-msKOPUqU8xE
+                    - img "A laptop computer sitting on top of a table" [ref=f17e209]
+                  - link [ref=f17e210] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-laptop-computer-sitting-on-top-of-a-table-msKOPUqU8xE
+              - figure [ref=f17e213]:
+                - generic [ref=f17e215]:
+                  - link [ref=f17e216]:
+                    - /url: /illustrations/filmmaking-elements-with-popcorn-and-notes-oQA3ceyD2MY
+                    - img "Filmmaking elements with popcorn and notes." [ref=f17e217]
+                  - link [ref=f17e218] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ffilmmaking-elements-with-popcorn-and-notes-oQA3ceyD2MY
+              - figure [ref=f17e221]:
+                - generic [ref=f17e223]:
+                  - link [ref=f17e224]:
+                    - /url: /illustrations/a-cell-phone-with-a-video-player-on-the-screen-IGhzArQwnkA
+                    - img "A cell phone with a video player on the screen" [ref=f17e225]
+                  - link [ref=f17e226] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cell-phone-with-a-video-player-on-the-screen-IGhzArQwnkA
+              - figure [ref=f17e229]:
+                - generic [ref=f17e231]:
+                  - link [ref=f17e232]:
+                    - /url: /illustrations/a-flat-screen-monitor-with-a-green-background-Oklsja62NAM
+                    - img "A flat screen monitor with a green background" [ref=f17e233]
+                  - link [ref=f17e234] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-flat-screen-monitor-with-a-green-background-Oklsja62NAM
+              - figure [ref=f17e237]:
+                - generic [ref=f17e239]:
+                  - link [ref=f17e240]:
+                    - /url: /illustrations/a-flat-screen-tv-sitting-on-top-of-a-desk-MN9cWvd9a4g
+                    - img "A flat screen TV sitting on top of a desk" [ref=f17e241]
+                  - link [ref=f17e242] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-flat-screen-tv-sitting-on-top-of-a-desk-MN9cWvd9a4g
+              - figure [ref=f17e245]:
+                - generic [ref=f17e247]:
+                  - link [ref=f17e248]:
+                    - /url: /illustrations/vintage-film-camera-and-reel-with-colorful-accents-Uigpu8NmCcc
+                    - img "Vintage film camera and reel with colorful accents" [ref=f17e249]
+                  - link [ref=f17e250] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fvintage-film-camera-and-reel-with-colorful-accents-Uigpu8NmCcc
+              - figure [ref=f17e253]:
+                - generic [ref=f17e255]:
+                  - link [ref=f17e256]:
+                    - /url: /illustrations/hands-framing-a-film-reel-and-film-strip-9752bROo9_g
+                    - img "Hands framing a film reel and film strip" [ref=f17e257]
+                  - link [ref=f17e258] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhands-framing-a-film-reel-and-film-strip-9752bROo9_g
+            - generic [ref=f17e261]:
+              - figure [ref=f17e262]:
+                - generic [ref=f17e264]:
+                  - link [ref=f17e265]:
+                    - /url: /illustrations/a-hand-holding-a-cell-phone-with-a-video-on-it--HlHHvz5I5Y
+                    - img "A hand holding a cell phone with a video on it" [ref=f17e266]
+                  - link [ref=f17e267] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-hand-holding-a-cell-phone-with-a-video-on-it--HlHHvz5I5Y
+              - figure [ref=f17e270]:
+                - generic [ref=f17e272]:
+                  - link [ref=f17e273]:
+                    - /url: /illustrations/a-man-standing-in-front-of-a-movie-camera-oOuwXgUQ1fA
+                    - img "A man standing in front of a movie camera" [ref=f17e274]
+                  - link [ref=f17e275] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-standing-in-front-of-a-movie-camera-oOuwXgUQ1fA
+              - figure [ref=f17e278]:
+                - generic [ref=f17e280]:
+                  - link [ref=f17e281]:
+                    - /url: /illustrations/clapperboard-and-film-reel-on-purple-background-0YtTZicUYJQ
+                    - img "Clapperboard and film reel on purple background" [ref=f17e282]
+                  - link [ref=f17e283] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fclapperboard-and-film-reel-on-purple-background-0YtTZicUYJQ
+              - figure [ref=f17e286]:
+                - generic [ref=f17e288]:
+                  - link [ref=f17e289]:
+                    - /url: /illustrations/computer-screen-displaying-digital-files-and-folders-_TUCGsliPxA
+                    - img "Computer screen displaying digital files and folders." [ref=f17e290]
+                  - link [ref=f17e291] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcomputer-screen-displaying-digital-files-and-folders-_TUCGsliPxA
+              - figure [ref=f17e294]:
+                - generic [ref=f17e296]:
+                  - link [ref=f17e297]:
+                    - /url: /illustrations/clapperboard-and-film-strip-on-a-light-background-USzrwT0t0Lg
+                    - img "Clapperboard and film strip on a light background" [ref=f17e298]
+                  - link [ref=f17e299] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fclapperboard-and-film-strip-on-a-light-background-USzrwT0t0Lg
+              - figure [ref=f17e302]:
+                - generic [ref=f17e304]:
+                  - link [ref=f17e305]:
+                    - /url: /illustrations/a-flat-icon-of-a-movie-clapper-6HusiGbZML8
+                    - img "A flat icon of a movie clapper" [ref=f17e306]
+                  - link [ref=f17e307] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-flat-icon-of-a-movie-clapper-6HusiGbZML8
+              - figure [ref=f17e310]:
+                - generic [ref=f17e312]:
+                  - link [ref=f17e313]:
+                    - /url: /illustrations/a-movie-projector-with-people-around-it-RfgXQQY1Fco
+                    - img "A movie projector with people around it" [ref=f17e314]
+                  - link [ref=f17e315] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-movie-projector-with-people-around-it-RfgXQQY1Fco
+    - generic:
+      - region "Notifications"

@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-23928513",
+  "mediaKey": "pexels:23928513",
+  "i18n": {
+    "name": {
+      "en": "Golden mountains at sunset",
+      "uk": "Золоті гори на заході сонця"
+    },
+    "alt": {
+      "en": "Majestic snow-covered mountain peaks bathed in golden sunlight, captured from Sangla, India.",
+      "uk": "Величні засніжені гірські вершини, осяяні золотистим сонячним світлом, зняті в Санглі, Індія."
+    },
+    "tags": [
+      {
+        "key": "mountains",
+        "i18n": {
+          "en": "mountains",
+          "uk": "гори"
+        }
+      },
+      {
+        "key": "sunset",
+        "i18n": {
+          "en": "sunset",
+          "uk": "захід сонця"
+        }
+      },
+      {
+        "key": "golden-light",
+        "i18n": {
+          "en": "golden light",
+          "uk": "золоте світло"
+        }
+      },
+      {
+        "key": "landscape",
+        "i18n": {
+          "en": "landscape",
+          "uk": "пейзаж"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      },
+      {
+        "key": "sky",
+        "i18n": {
+          "en": "sky",
+          "uk": "небо"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "nature"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/sunlight-illuminating-mountain-peaks-under-blue-sky-23928513/",
+  "sourceName": "Pexels",
+  "authorName": "Yogendra  Singh",
+  "authorUrl": "https://www.pexels.com/@yogendras31",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3200
+}

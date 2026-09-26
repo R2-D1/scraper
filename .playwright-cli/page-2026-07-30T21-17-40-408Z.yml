@@ -1,0 +1,283 @@
+- generic [ref=f11e4]:
+  - navigation [ref=f11e5]:
+    - generic [ref=f11e6]:
+      - generic [ref=f11e7]:
+        - link "Unsplash Home" [ref=f11e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f11e9]
+        - link "Photos" [ref=f11e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f11e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f11e17]:
+        - button "Explore" [ref=f11e18] [cursor=pointer]
+        - button "Collections" [ref=f11e21] [cursor=pointer]
+        - button "Download History" [ref=f11e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f11e28] [cursor=pointer]
+    - generic [ref=f11e31]:
+      - link "Log in / Sign up" [ref=f11e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fvitamins-and-fruits-are-bursting-out-of-a-capsule-QURIe08u0Co
+      - button "Language" [ref=f11e35] [cursor=pointer]
+      - button "Menu" [ref=f11e38] [cursor=pointer]
+  - generic [ref=f11e41]:
+    - generic [ref=f11e42]:
+      - navigation [ref=f11e43]:
+        - search "Find visuals sitewide" [ref=f11e45]:
+          - button "Search Unsplash" [ref=f11e46] [cursor=pointer]
+          - combobox [ref=f11e49]:
+            - searchbox "Search Unsplash" [ref=f11e50]
+            - listbox
+          - button "Visual search" [ref=f11e52] [cursor=pointer]
+        - generic [ref=f11e55]:
+          - link "Get Unsplash+" [ref=f11e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f11e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fvitamins-and-fruits-are-bursting-out-of-a-capsule-QURIe08u0Co
+        - button "Submit an image" [ref=f11e59] [cursor=pointer]
+      - generic [ref=f11e60]:
+        - generic [ref=f11e61]:
+          - banner [ref=f11e63]:
+            - generic [ref=f11e65]:
+              - link [ref=f11e66] [cursor=pointer]:
+                - /url: /@graphicook_studio/illustrations
+              - generic [ref=f11e69]:
+                - link "Graphicook Studio" [ref=f11e70] [cursor=pointer]:
+                  - /url: /@graphicook_studio/illustrations
+                - generic [ref=f11e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f11e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fvitamins-and-fruits-are-bursting-out-of-a-capsule-QURIe08u0Co
+            - generic [ref=f11e73]:
+              - button "Bookmark" [ref=f11e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f11e77] [cursor=pointer]
+              - button "Edit image" [ref=f11e80] [cursor=pointer]
+              - button "Download" [ref=f11e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f11e90]:
+            - img "Vitamins and fruits are bursting out of a capsule." [ref=f11e91]
+          - generic [ref=f11e92]:
+            - generic [ref=f11e94]:
+              - button "Share this image" [ref=f11e95] [cursor=pointer]:
+                - generic [ref=f11e98]: Share
+              - button "More Actions" [ref=f11e99] [cursor=pointer]
+            - generic [ref=f11e103]:
+              - heading "Vitamins and fruits are bursting out of a capsule." [level=1] [ref=f11e105]
+              - paragraph [ref=f11e109]: Download this illustration of food, blue, green, and illustration by Graphicook Studio (@graphicook_studio)
+              - generic [ref=f11e111]:
+                - generic [ref=f11e116]:
+                  - text: Published on
+                  - time [ref=f11e117]: June 16, 2025
+                - generic [ref=f11e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f11e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f11e124]:
+              - link "food" [ref=f11e125] [cursor=pointer]:
+                - /url: /s/illustrations/food
+              - link "blue" [ref=f11e126] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "green" [ref=f11e127] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "illustration" [ref=f11e128] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "health" [ref=f11e129] [cursor=pointer]:
+                - /url: /s/illustrations/health
+              - link "fruit" [ref=f11e130] [cursor=pointer]:
+                - /url: /s/illustrations/fruit
+              - link "wellness" [ref=f11e131] [cursor=pointer]:
+                - /url: /s/illustrations/wellness
+              - link "graphic design" [ref=f11e132] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "red" [ref=f11e133] [cursor=pointer]:
+                - /url: /s/illustrations/red
+              - link "energy" [ref=f11e134] [cursor=pointer]:
+                - /url: /s/illustrations/energy
+              - link "colorful" [ref=f11e135] [cursor=pointer]:
+                - /url: /s/illustrations/colorful
+              - link "banana" [ref=f11e136] [cursor=pointer]:
+                - /url: /s/illustrations/banana
+              - link "leaf" [ref=f11e137] [cursor=pointer]:
+                - /url: /s/illustrations/leaf
+              - link "strawberry" [ref=f11e138] [cursor=pointer]:
+                - /url: /s/illustrations/strawberry
+              - link "vector" [ref=f11e139] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "graphic" [ref=f11e140] [cursor=pointer]:
+                - /url: /s/illustrations/graphic
+              - link "watermelon" [ref=f11e141] [cursor=pointer]:
+                - /url: /s/illustrations/watermelon
+              - link "healthy" [ref=f11e142] [cursor=pointer]:
+                - /url: /s/illustrations/healthy
+              - link "nutrition" [ref=f11e143] [cursor=pointer]:
+                - /url: /s/illustrations/nutrition
+              - link "avocado" [ref=f11e144] [cursor=pointer]:
+                - /url: /s/illustrations/avocado
+        - generic [ref=f11e147]:
+          - generic [ref=f11e148]:
+            - paragraph [ref=f11e150]: From this series
+            - generic [ref=f11e153]:
+              - generic [ref=f11e154]:
+                - link [ref=f11e155] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-dropper-pours-liquid-into-a-glass-5yQh8JWfGAA
+                - link [ref=f11e158]:
+                  - /url: /illustrations/a-dropper-pours-liquid-into-a-glass-5yQh8JWfGAA
+                  - img "A dropper pours liquid into a glass." [ref=f11e159]
+              - generic:
+                - link [ref=f11e160] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fman-extracts-healthy-food-from-a-giant-pill-ztQolVzaV0Y
+                - link "Man extracts healthy food from a giant pill.":
+                  - /url: /illustrations/man-extracts-healthy-food-from-a-giant-pill-ztQolVzaV0Y
+                  - img "Man extracts healthy food from a giant pill."
+              - generic:
+                - link [ref=f11e163] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Ffruit-shaped-pills-in-a-medicine-box-9Chd-_5XSfY
+                - link "Fruit-shaped pills in a medicine box.":
+                  - /url: /illustrations/fruit-shaped-pills-in-a-medicine-box-9Chd-_5XSfY
+                  - img "Fruit-shaped pills in a medicine box."
+          - generic [ref=f11e166]:
+            - heading "Related images" [level=4] [ref=f11e168]
+            - generic [ref=f11e172]:
+              - generic [ref=f11e173]:
+                - figure [ref=f11e174]:
+                  - generic [ref=f11e176]:
+                    - link [ref=f11e177]:
+                      - /url: /illustrations/a-group-of-vegetables-that-are-on-a-yellow-background-zSEVT7m9FUI
+                      - img "A group of vegetables that are on a yellow background" [ref=f11e178]
+                    - link [ref=f11e179] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-group-of-vegetables-that-are-on-a-yellow-background-zSEVT7m9FUI
+                - figure [ref=f11e182]:
+                  - generic [ref=f11e184]:
+                    - link [ref=f11e185]:
+                      - /url: /illustrations/a-painting-of-a-bunch-of-fruit-and-vegetables-HtxO-hgKzZc
+                      - img "a painting of a bunch of fruit and vegetables" [ref=f11e186]
+                    - link [ref=f11e187] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-painting-of-a-bunch-of-fruit-and-vegetables-HtxO-hgKzZc
+                - figure [ref=f11e190]:
+                  - generic [ref=f11e192]:
+                    - link [ref=f11e193]:
+                      - /url: /illustrations/a-bunch-of-fruit-sitting-on-top-of-each-other-Ei_ARzze34M
+                      - img "A bunch of fruit sitting on top of each other" [ref=f11e194]
+                    - link [ref=f11e195] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bunch-of-fruit-sitting-on-top-of-each-other-Ei_ARzze34M
+                - figure [ref=f11e198]:
+                  - generic [ref=f11e200]:
+                    - link [ref=f11e201]:
+                      - /url: /illustrations/collection-of-stylized-fruits-on-a-light-background-4a0Ivisr3lg
+                      - img "Collection of stylized fruits on a light background." [ref=f11e202]
+                    - link [ref=f11e203] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcollection-of-stylized-fruits-on-a-light-background-4a0Ivisr3lg
+                - figure [ref=f11e206]:
+                  - generic [ref=f11e208]:
+                    - link [ref=f11e209]:
+                      - /url: /illustrations/a-table-topped-with-lots-of-different-types-of-food-_VvVw8MxXCM
+                      - img "A table topped with lots of different types of food" [ref=f11e210]
+                    - link [ref=f11e211] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-table-topped-with-lots-of-different-types-of-food-_VvVw8MxXCM
+                - figure [ref=f11e214]:
+                  - generic [ref=f11e216]:
+                    - link [ref=f11e217]:
+                      - /url: /illustrations/a-christmas-tree-with-presents-under-it-zeT8kOQhpUQ
+                      - img "a christmas tree with presents under it" [ref=f11e218]
+                    - link [ref=f11e219] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-christmas-tree-with-presents-under-it-zeT8kOQhpUQ
+                - figure [ref=f11e222]:
+                  - generic [ref=f11e224]:
+                    - link [ref=f11e225]:
+                      - /url: /illustrations/a-box-filled-with-assorted-items-on-top-of-a-table-PxtuiWY7QPs
+                      - img "A box filled with assorted items on top of a table" [ref=f11e226]
+                    - link [ref=f11e227] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-box-filled-with-assorted-items-on-top-of-a-table-PxtuiWY7QPs
+              - generic [ref=f11e230]:
+                - figure [ref=f11e231]:
+                  - generic [ref=f11e233]:
+                    - link [ref=f11e234]:
+                      - /url: /illustrations/a-variety-of-fruits-are-arranged-on-a-green-background-zPHBUKWhrew
+                      - img "A variety of fruits are arranged on a green background" [ref=f11e235]
+                    - link [ref=f11e236] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-variety-of-fruits-are-arranged-on-a-green-background-zPHBUKWhrew
+                - figure [ref=f11e239]:
+                  - generic [ref=f11e241]:
+                    - link [ref=f11e242]:
+                      - /url: /illustrations/healthy-food-assortment-inside-a-digestive-tract-illustration-07llUQKx4LY
+                      - img "Healthy food assortment inside a digestive tract illustration" [ref=f11e243]
+                    - link [ref=f11e244] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhealthy-food-assortment-inside-a-digestive-tract-illustration-07llUQKx4LY
+                - figure [ref=f11e247]:
+                  - generic [ref=f11e249]:
+                    - link [ref=f11e250]:
+                      - /url: /illustrations/assortment-of-colorful-fruits-including-apple-lemon-and-berries-7XplQRZmLKQ
+                      - img "Assortment of colorful fruits including apple, lemon, and berries" [ref=f11e251]
+                    - link [ref=f11e252] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fassortment-of-colorful-fruits-including-apple-lemon-and-berries-7XplQRZmLKQ
+                - figure [ref=f11e255]:
+                  - generic [ref=f11e257]:
+                    - link [ref=f11e258]:
+                      - /url: /illustrations/a-slice-of-watermelon-with-seeds-OKZY7Kt4UHY
+                      - img "A slice of watermelon with seeds" [ref=f11e259]
+                    - link [ref=f11e260] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-slice-of-watermelon-with-seeds-OKZY7Kt4UHY
+                - figure [ref=f11e263]:
+                  - generic [ref=f11e265]:
+                    - link [ref=f11e266]:
+                      - /url: /illustrations/assortment-of-colorful-fruits-and-vegetables-on-pink-background-e_BS-tp7N2w
+                      - img "Assortment of colorful fruits and vegetables on pink background" [ref=f11e267]
+                    - link [ref=f11e268] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fassortment-of-colorful-fruits-and-vegetables-on-pink-background-e_BS-tp7N2w
+                - figure [ref=f11e271]:
+                  - generic [ref=f11e273]:
+                    - link [ref=f11e274]:
+                      - /url: /illustrations/abstract-arrangement-of-fruits-in-a-bowl-FFBVb79D4F0
+                      - img "Abstract arrangement of fruits in a bowl" [ref=f11e275]
+                    - link [ref=f11e276] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-arrangement-of-fruits-in-a-bowl-FFBVb79D4F0
+                - figure [ref=f11e279]:
+                  - generic [ref=f11e281]:
+                    - link [ref=f11e282]:
+                      - /url: /illustrations/a-plate-of-salad-with-tomatoes-lettuce-and-olives-QZczCdNV5JI
+                      - img "A plate of salad with tomatoes, lettuce and olives" [ref=f11e283]
+                    - link [ref=f11e284] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-plate-of-salad-with-tomatoes-lettuce-and-olives-QZczCdNV5JI
+              - generic [ref=f11e287]:
+                - figure [ref=f11e288]:
+                  - generic [ref=f11e290]:
+                    - link [ref=f11e291]:
+                      - /url: /illustrations/assortment-of-colorful-fruits-on-a-yellow-background-eLFMvyTRynM
+                      - img "Assortment of colorful fruits on a yellow background" [ref=f11e292]
+                    - link [ref=f11e293] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fassortment-of-colorful-fruits-on-a-yellow-background-eLFMvyTRynM
+                - figure [ref=f11e296]:
+                  - generic [ref=f11e298]:
+                    - link [ref=f11e299]:
+                      - /url: /illustrations/assortment-of-fruits-and-vegetables-on-blue-background-KW-2Jj54TCQ
+                      - img "Assortment of fruits and vegetables on blue background" [ref=f11e300]
+                    - link [ref=f11e301] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fassortment-of-fruits-and-vegetables-on-blue-background-KW-2Jj54TCQ
+                - figure [ref=f11e304]:
+                  - generic [ref=f11e306]:
+                    - link [ref=f11e307]:
+                      - /url: /illustrations/a-picture-of-a-bunch-of-fruit-on-a-yellow-background-KFcmzuKY7e8
+                      - img "A picture of a bunch of fruit on a yellow background" [ref=f11e308]
+                    - link [ref=f11e309] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-a-bunch-of-fruit-on-a-yellow-background-KFcmzuKY7e8
+                - figure [ref=f11e312]:
+                  - generic [ref=f11e314]:
+                    - link [ref=f11e315]:
+                      - /url: /illustrations/a-blue-reusable-bag-filled-with-fruits-and-a-tomato-o0PHtujS-CE
+                      - img "A blue reusable bag filled with fruits and a tomato." [ref=f11e316]
+                    - link [ref=f11e317] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-blue-reusable-bag-filled-with-fruits-and-a-tomato-o0PHtujS-CE
+                - figure [ref=f11e320]:
+                  - generic [ref=f11e322]:
+                    - link [ref=f11e323]:
+                      - /url: /illustrations/a-picture-of-different-fruits-and-vegetables-eLsxfn1PnkA
+                      - img "A picture of different fruits and vegetables" [ref=f11e324]
+                    - link [ref=f11e325] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-different-fruits-and-vegetables-eLsxfn1PnkA
+                - figure [ref=f11e328]:
+                  - generic [ref=f11e330]:
+                    - link [ref=f11e331]:
+                      - /url: /illustrations/a-basket-of-fruit-sitting-on-top-of-a-table-UMn5ZjP8xAI
+                      - img "A basket of fruit sitting on top of a table" [ref=f11e332]
+                    - link [ref=f11e333] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-basket-of-fruit-sitting-on-top-of-a-table-UMn5ZjP8xAI
+    - generic:
+      - region "Notifications"

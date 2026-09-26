@@ -1,0 +1,63 @@
+{
+  "slug": "server-status-7viz",
+  "mediaKey": "b0dbc89b-d9ba-42f6-90d9-9972ab1f41a5",
+  "providerId": "68c88e377b049ec28734299f",
+  "i18n": {
+    "name": {
+      "en": "Server Status",
+      "uk": "Стан сервера"
+    },
+    "alt": {
+      "en": "Server Status",
+      "uk": "Стан сервера"
+    },
+    "tags": [
+      {
+        "key": "server-status",
+        "i18n": {
+          "en": "Server Status",
+          "uk": "Стан сервера"
+        }
+      },
+      {
+        "key": "server",
+        "i18n": {
+          "en": "server",
+          "uk": "сервер"
+        }
+      },
+      {
+        "key": "status",
+        "i18n": {
+          "en": "status",
+          "uk": "статус"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/server-status_7viz.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 720,
+  "height": 606
+}

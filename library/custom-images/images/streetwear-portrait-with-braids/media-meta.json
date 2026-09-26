@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "streetwear-portrait-with-braids",
+  "mediaKey": "custom:content:244ad8ea0a587f9cc5918866ca9c85f934ae1c96a8775e36cfc3eed8f28ba182",
+  "pinned": true,
+  "collectionSlugs": [
+    "people"
+  ],
+  "sourceContentHash": "244ad8ea0a587f9cc5918866ca9c85f934ae1c96a8775e36cfc3eed8f28ba182",
+  "i18n": {
+    "name": {
+      "en": "Streetwear Portrait with Braids",
+      "uk": "Стрітвер-портрет із косами"
+    },
+    "alt": {
+      "en": "Streetwear Portrait with Braids",
+      "uk": "Стрітвер-портрет із косами"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "streetwear",
+        "i18n": {
+          "en": "Streetwear",
+          "uk": "Стрітвер"
+        }
+      },
+      {
+        "key": "braids",
+        "i18n": {
+          "en": "Braids",
+          "uk": "Коси"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "Orange",
+          "uk": "Помаранчевий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "Woman",
+        "Portrait",
+        "Streetwear",
+        "Braids",
+        "Orange"
+      ],
+      "uk": [
+        "Жінка",
+        "Портрет",
+        "Стрітвер",
+        "Коси",
+        "Помаранчевий"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://divnex.com",
+  "sourceName": "Divnex",
+  "authorName": "Divnex",
+  "authorUrl": "https://divnex.com",
+  "licenseName": "Divnex Asset License",
+  "licenseUrl": "https://divnex.com/asset-license",
+  "width": 2306,
+  "height": 4096
+}

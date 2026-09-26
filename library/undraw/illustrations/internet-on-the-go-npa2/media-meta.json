@@ -1,0 +1,63 @@
+{
+  "slug": "internet-on-the-go-npa2",
+  "mediaKey": "5796a63b-0618-4bab-b317-512bdee6e9e1",
+  "providerId": "5ffc2b413fafd2001780d939",
+  "i18n": {
+    "name": {
+      "en": "Internet on the go",
+      "uk": "Інтернет у дорозі"
+    },
+    "alt": {
+      "en": "Internet on the go",
+      "uk": "Інтернет у дорозі"
+    },
+    "tags": [
+      {
+        "key": "internet-on-the-go",
+        "i18n": {
+          "en": "Internet on the go",
+          "uk": "Інтернет у дорозі"
+        }
+      },
+      {
+        "key": "internet",
+        "i18n": {
+          "en": "internet",
+          "uk": "інтернет"
+        }
+      },
+      {
+        "key": "go",
+        "i18n": {
+          "en": "go",
+          "uk": "йти"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/internet-on-the-go_npa2.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 725,
+  "height": 527
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "goodbye-mkv7",
+  "mediaKey": "7cf45b05-443f-4f25-8b98-9e2a347eb1ae",
+  "providerId": "69a0d7354c2552a2fca092f4",
+  "i18n": {
+    "name": {
+      "en": "Goodbye",
+      "uk": "До побачення"
+    },
+    "alt": {
+      "en": "Goodbye",
+      "uk": "До побачення"
+    },
+    "tags": [
+      {
+        "key": "goodbye",
+        "i18n": {
+          "en": "Goodbye",
+          "uk": "До побачення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/goodbye_mkv7.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 493
+}

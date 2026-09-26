@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-34188077",
+  "mediaKey": "pexels:video:34188077",
+  "i18n": {
+    "name": {
+      "en": "Blue Kaleidoscope Tunnel",
+      "uk": "Синій тунель-калейдоскоп"
+    },
+    "alt": {
+      "en": "Pexels video 34188077",
+      "uk": "Відео з Pexels № 34188077"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "kaleidoscope",
+        "i18n": {
+          "en": "kaleidoscope",
+          "uk": "калейдоскоп"
+        }
+      },
+      {
+        "key": "tunnel",
+        "i18n": {
+          "en": "tunnel",
+          "uk": "тунель"
+        }
+      },
+      {
+        "key": "symmetry",
+        "i18n": {
+          "en": "symmetry",
+          "uk": "симетрія"
+        }
+      },
+      {
+        "key": "digital",
+        "i18n": {
+          "en": "digital",
+          "uk": "цифровий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/dynamic-blue-kaleidoscope-tunnel-animation-34188077/",
+  "sourceName": "Pexels",
+  "authorName": "Colors Motion  Graphics",
+  "authorUrl": "https://www.pexels.com/@colors-motion-graphics-183847699",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 58,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

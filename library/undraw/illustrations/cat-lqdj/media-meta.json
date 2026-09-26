@@ -1,0 +1,49 @@
+{
+  "slug": "cat-lqdj",
+  "mediaKey": "33b02861-80ad-4a8d-9e00-c7b2a8e1e83d",
+  "providerId": "640f2fc6e0bca700160fe6e4",
+  "i18n": {
+    "name": {
+      "en": "Cat",
+      "uk": "Кіт"
+    },
+    "alt": {
+      "en": "Cat",
+      "uk": "Кіт"
+    },
+    "tags": [
+      {
+        "key": "cat",
+        "i18n": {
+          "en": "Cat",
+          "uk": "Кіт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/cat_lqdj.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 888,
+  "height": 342
+}

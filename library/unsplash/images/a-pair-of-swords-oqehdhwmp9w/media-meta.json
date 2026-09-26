@@ -1,0 +1,58 @@
+{
+  "slug": "a-pair-of-swords-oqehdhwmp9w",
+  "mediaKey": "c976fdda-81e5-4b48-9d1a-be4e72546fa5",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "Production Item #TF-1.001 | RSDB",
+      "uk": "Пара мечів"
+    },
+    "alt": {
+      "en": "Production Item #TF-1.001 | RSDB",
+      "uk": "Пара мечів"
+    },
+    "tags": [
+      {
+        "key": "digital-image",
+        "i18n": {
+          "en": "digital image",
+          "uk": "цифрове зображення"
+        }
+      },
+      {
+        "key": "grey",
+        "i18n": {
+          "en": "grey",
+          "uk": "сірий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "authorName": "Resource Database",
+  "authorUrl": "https://unsplash.com/@resourcedatabase",
+  "description": "Production Item #TF-1.001 | RSDB",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2000,
+  "height": 2500,
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/unsplash/images/a-pair-of-swords-oqehdhwmp9w/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/unsplash/images/a-pair-of-swords-oqehdhwmp9w/a-pair-of-swords-oqehdhwmp9w.jpg",
+  "thumbnailPath": "/Users/taras/HOLE/Projects/scraper/tmp/images/a-pair-of-swords-oqehdhwmp9w/a-pair-of-swords-oqehdhwmp9w_thumb.webp",
+  "relativeAssetPath": "library/unsplash/images/a-pair-of-swords-oqehdhwmp9w/a-pair-of-swords-oqehdhwmp9w.jpg"
+}

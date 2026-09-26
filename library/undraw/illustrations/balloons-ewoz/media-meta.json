@@ -1,0 +1,49 @@
+{
+  "slug": "balloons-ewoz",
+  "mediaKey": "1b3cd537-91c0-476d-a795-006324c566f0",
+  "providerId": "600eadf61b14620017555e8f",
+  "i18n": {
+    "name": {
+      "en": "Balloons",
+      "uk": "Повітряні кульки"
+    },
+    "alt": {
+      "en": "Balloons",
+      "uk": "Повітряні кульки"
+    },
+    "tags": [
+      {
+        "key": "balloons",
+        "i18n": {
+          "en": "Balloons",
+          "uk": "Повітряні кульки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/balloons_ewoz.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 572,
+  "height": 700
+}

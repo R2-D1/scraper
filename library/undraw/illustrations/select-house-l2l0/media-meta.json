@@ -1,0 +1,63 @@
+{
+  "slug": "select-house-l2l0",
+  "mediaKey": "797771f6-c86b-4205-905b-71dcd75a3b39",
+  "providerId": "5ef5ccadf4ec2b001705176a",
+  "i18n": {
+    "name": {
+      "en": "Select house",
+      "uk": "Вибрати будинок"
+    },
+    "alt": {
+      "en": "Select house",
+      "uk": "Вибрати будинок"
+    },
+    "tags": [
+      {
+        "key": "select-house",
+        "i18n": {
+          "en": "Select house",
+          "uk": "Вибрати будинок"
+        }
+      },
+      {
+        "key": "select",
+        "i18n": {
+          "en": "select",
+          "uk": "вибрати"
+        }
+      },
+      {
+        "key": "house",
+        "i18n": {
+          "en": "house",
+          "uk": "будинок"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/select-house_l2l0.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 734,
+  "height": 459
+}

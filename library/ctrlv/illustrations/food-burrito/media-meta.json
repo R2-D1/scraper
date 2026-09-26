@@ -1,0 +1,97 @@
+{
+  "slug": "food-burrito",
+  "mediaKey": "457dd96c-92d9-4b1b-aa9f-b3970e6a23f1",
+  "i18n": {
+    "name": {
+      "en": "Mexican Burrito",
+      "uk": "Мексиканський буріто"
+    },
+    "alt": {
+      "en": "Mexican Burrito",
+      "uk": "Мексиканський буріто"
+    },
+    "tags": [
+      {
+        "key": "food",
+        "i18n": {
+          "en": "food",
+          "uk": "їжа"
+        }
+      },
+      {
+        "key": "burrito",
+        "i18n": {
+          "en": "burrito",
+          "uk": "буріто"
+        }
+      },
+      {
+        "key": "mexico",
+        "i18n": {
+          "en": "mexico",
+          "uk": "мексика"
+        }
+      },
+      {
+        "key": "usa",
+        "i18n": {
+          "en": "usa",
+          "uk": "США"
+        }
+      },
+      {
+        "key": "cuisine",
+        "i18n": {
+          "en": "cuisine",
+          "uk": "кухня"
+        }
+      },
+      {
+        "key": "tortilla",
+        "i18n": {
+          "en": "tortilla",
+          "uk": "тортілья"
+        }
+      },
+      {
+        "key": "wrap",
+        "i18n": {
+          "en": "wrap",
+          "uk": "загорнути"
+        }
+      },
+      {
+        "key": "lunch",
+        "i18n": {
+          "en": "lunch",
+          "uk": "обід"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/food-burrito",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "apartment-rent-oodr",
+  "mediaKey": "f6e13dc4-b522-4dae-958e-38e52d2a9636",
+  "providerId": "5c72b96cf834850014593938",
+  "i18n": {
+    "name": {
+      "en": "Apartment rent",
+      "uk": "Оренда квартири"
+    },
+    "alt": {
+      "en": "Apartment rent",
+      "uk": "Оренда квартири"
+    },
+    "tags": [
+      {
+        "key": "apartment-rent",
+        "i18n": {
+          "en": "Apartment rent",
+          "uk": "Оренда квартири"
+        }
+      },
+      {
+        "key": "apartment",
+        "i18n": {
+          "en": "apartment",
+          "uk": "квартира"
+        }
+      },
+      {
+        "key": "rent",
+        "i18n": {
+          "en": "rent",
+          "uk": "оренда"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/apartment-rent_oodr.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1007,
+  "height": 762
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "bus-stop-m7q9",
+  "mediaKey": "2ce8d969-477b-4669-b27c-a2209c6ba582",
+  "providerId": "60813f4a6d89730017d180c5",
+  "i18n": {
+    "name": {
+      "en": "Bus stop",
+      "uk": "Автобусна зупинка"
+    },
+    "alt": {
+      "en": "Bus stop",
+      "uk": "Автобусна зупинка"
+    },
+    "tags": [
+      {
+        "key": "bus-stop",
+        "i18n": {
+          "en": "Bus stop",
+          "uk": "Автобусна зупинка"
+        }
+      },
+      {
+        "key": "bus",
+        "i18n": {
+          "en": "bus",
+          "uk": "автобус"
+        }
+      },
+      {
+        "key": "stop",
+        "i18n": {
+          "en": "stop",
+          "uk": "зупинка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/bus-stop_m7q9.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 955,
+  "height": 470
+}

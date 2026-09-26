@@ -1,0 +1,63 @@
+{
+  "slug": "job-hunt-5umi",
+  "mediaKey": "97b9b9d1-c6db-42fd-ab07-87ad35d38862",
+  "providerId": "611e6a2228c22e001787948d",
+  "i18n": {
+    "name": {
+      "en": "Job hunt",
+      "uk": "Пошук роботи"
+    },
+    "alt": {
+      "en": "Job hunt",
+      "uk": "Пошук роботи"
+    },
+    "tags": [
+      {
+        "key": "job-hunt",
+        "i18n": {
+          "en": "Job hunt",
+          "uk": "Пошук роботи"
+        }
+      },
+      {
+        "key": "job",
+        "i18n": {
+          "en": "job",
+          "uk": "робота"
+        }
+      },
+      {
+        "key": "hunt",
+        "i18n": {
+          "en": "hunt",
+          "uk": "hunt"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/job-hunt_5umi.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 726,
+  "height": 705
+}

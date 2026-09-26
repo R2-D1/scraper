@@ -1,0 +1,63 @@
+{
+  "slug": "online-video-ecqg",
+  "mediaKey": "b99c8ee5-d921-4c12-8c43-d30604c2380d",
+  "providerId": "61532c6585bf2a001765a1f7",
+  "i18n": {
+    "name": {
+      "en": "Online video",
+      "uk": "Відео в Інтернеті"
+    },
+    "alt": {
+      "en": "Online video",
+      "uk": "Відео в Інтернеті"
+    },
+    "tags": [
+      {
+        "key": "online-video",
+        "i18n": {
+          "en": "Online video",
+          "uk": "Відео в Інтернеті"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "video",
+        "i18n": {
+          "en": "video",
+          "uk": "відео"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/online-video_ecqg.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 526,
+  "height": 580
+}

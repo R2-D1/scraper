@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 841.89 1190.55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_297);
+      }
+
+      .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: url(#Gradiente_sem_nome_297-2);
+      }
+
+      .cls-4 {
+        fill: url(#Gradiente_sem_nome_297-3);
+      }
+
+      .cls-4, .cls-5 {
+        mix-blend-mode: lighten;
+      }
+
+      .cls-5 {
+        fill: url(#Gradiente_sem_nome_297-4);
+      }
+
+      .cls-6 {
+        fill: #260d20;
+      }
+    </style>
+    <radialGradient id="Gradiente_sem_nome_297" data-name="Gradiente sem nome 297" cx="1289.25" cy="383.68" fx="1289.25" fy="383.68" r="371.48" gradientTransform="translate(-1066.2 95.73) scale(1.16 1.28)" gradientUnits="userSpaceOnUse">
+      <stop offset=".23" stop-color="#161412" stop-opacity="0"/>
+      <stop offset=".31" stop-color="#22141a" stop-opacity=".11"/>
+      <stop offset=".48" stop-color="#43142f" stop-opacity=".4"/>
+      <stop offset=".71" stop-color="#791551" stop-opacity=".87"/>
+      <stop offset=".77" stop-color="#88165b"/>
+      <stop offset=".79" stop-color="#951b57"/>
+      <stop offset=".85" stop-color="#b5274e"/>
+      <stop offset=".9" stop-color="#cb3048"/>
+      <stop offset=".95" stop-color="#d93645"/>
+      <stop offset="1" stop-color="#de3844"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_297-2" data-name="Gradiente sem nome 297" cx="2868.67" cy="383.68" fx="2868.67" fy="383.68" r="260.07" gradientTransform="translate(-4331.17 95.73) scale(1.66 1.28)" xlink:href="#Gradiente_sem_nome_297"/>
+    <radialGradient id="Gradiente_sem_nome_297-3" data-name="Gradiente sem nome 297" cx="4753.17" cy="297.19" fx="4753.17" fy="297.19" r="127.15" gradientTransform="translate(-15712.92 168.88) scale(3.4 1.41)" xlink:href="#Gradiente_sem_nome_297"/>
+    <radialGradient id="Gradiente_sem_nome_297-4" data-name="Gradiente sem nome 297" cx="4753.17" cy="1796.35" fx="4753.17" fy="1796.35" r="127.15" gradientTransform="translate(-15712.92 -345.31) scale(3.4 .52)" xlink:href="#Gradiente_sem_nome_297"/>
+  </defs>
+  <g class="cls-2">
+    <g id="Camada_2" data-name="Camada 2">
+      <g id="Camada_1-2" data-name="Camada 1">
+        <g>
+          <rect class="cls-6" width="841.89" height="1190.55"/>
+          <g>
+            <ellipse class="cls-1" cx="432.73" cy="586.56" rx="329.09" ry="484.46"/>
+            <ellipse class="cls-3" cx="432.73" cy="586.56" rx="329.09" ry="339.17"/>
+            <ellipse class="cls-4" cx="432.73" cy="586.56" rx="329.09" ry="182.17"/>
+            <ellipse class="cls-5" cx="432.73" cy="586.56" rx="329.09" ry="67.24"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

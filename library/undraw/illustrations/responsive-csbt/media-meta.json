@@ -1,0 +1,49 @@
+{
+  "slug": "responsive-csbt",
+  "mediaKey": "36a0ef2c-17bc-4898-acc9-e0fc4cd5f666",
+  "providerId": "6124fee2d373bf0017f4b437",
+  "i18n": {
+    "name": {
+      "en": "Responsive",
+      "uk": "Адаптивний"
+    },
+    "alt": {
+      "en": "Responsive",
+      "uk": "Адаптивний"
+    },
+    "tags": [
+      {
+        "key": "responsive",
+        "i18n": {
+          "en": "Responsive",
+          "uk": "Адаптивний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/responsive_csbt.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 732,
+  "height": 436
+}

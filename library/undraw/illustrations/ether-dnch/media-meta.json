@@ -1,0 +1,49 @@
+{
+  "slug": "ether-dnch",
+  "mediaKey": "10b98a00-6a19-4a2e-abbb-38ba1ff1cfc4",
+  "providerId": "61c61245da81d6001817c7ce",
+  "i18n": {
+    "name": {
+      "en": "Ether",
+      "uk": "Ефір"
+    },
+    "alt": {
+      "en": "Ether",
+      "uk": "Ефір"
+    },
+    "tags": [
+      {
+        "key": "ether",
+        "i18n": {
+          "en": "Ether",
+          "uk": "Ефір"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/ether_dnch.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 424,
+  "height": 533
+}

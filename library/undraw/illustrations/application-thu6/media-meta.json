@@ -1,0 +1,49 @@
+{
+  "slug": "application-thu6",
+  "mediaKey": "143c9301-7d10-4884-95df-0528f39f022b",
+  "providerId": "66cf88733556c90016fe8a46",
+  "i18n": {
+    "name": {
+      "en": "Application",
+      "uk": "Заявка"
+    },
+    "alt": {
+      "en": "Application",
+      "uk": "Заявка"
+    },
+    "tags": [
+      {
+        "key": "application",
+        "i18n": {
+          "en": "Application",
+          "uk": "Заявка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/application_thu6.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 360,
+  "height": 517
+}

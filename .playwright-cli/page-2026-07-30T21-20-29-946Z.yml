@@ -1,0 +1,313 @@
+- generic [ref=f73e4]:
+  - navigation [ref=f73e5]:
+    - generic [ref=f73e6]:
+      - generic [ref=f73e7]:
+        - link "Unsplash Home" [ref=f73e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f73e9]
+        - link "Photos" [ref=f73e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f73e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f73e17]:
+        - button "Explore" [ref=f73e18] [cursor=pointer]
+        - button "Collections" [ref=f73e21] [cursor=pointer]
+        - button "Download History" [ref=f73e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f73e28] [cursor=pointer]
+    - generic [ref=f73e31]:
+      - link "Log in / Sign up" [ref=f73e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Felectric-car-charging-station-with-plug-inserted-rNasNJQ6Fio
+      - button "Language" [ref=f73e35] [cursor=pointer]
+      - button "Menu" [ref=f73e38] [cursor=pointer]
+  - generic [ref=f73e41]:
+    - generic [ref=f73e42]:
+      - navigation [ref=f73e43]:
+        - search "Find visuals sitewide" [ref=f73e45]:
+          - button "Search Unsplash" [ref=f73e46] [cursor=pointer]
+          - combobox [ref=f73e49]:
+            - searchbox "Search Unsplash" [ref=f73e50]
+            - listbox
+          - button "Visual search" [ref=f73e52] [cursor=pointer]
+        - generic [ref=f73e55]:
+          - link "Get Unsplash+" [ref=f73e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f73e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Felectric-car-charging-station-with-plug-inserted-rNasNJQ6Fio
+        - button "Submit an image" [ref=f73e59] [cursor=pointer]
+      - generic [ref=f73e60]:
+        - generic [ref=f73e61]:
+          - banner [ref=f73e63]:
+            - generic [ref=f73e65]:
+              - link [ref=f73e66] [cursor=pointer]:
+                - /url: /@triwiranto/illustrations
+              - generic [ref=f73e69]:
+                - link "Tri wiranto" [ref=f73e70] [cursor=pointer]:
+                  - /url: /@triwiranto/illustrations
+                - generic [ref=f73e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f73e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Felectric-car-charging-station-with-plug-inserted-rNasNJQ6Fio
+            - generic [ref=f73e73]:
+              - button "Bookmark" [ref=f73e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f73e77] [cursor=pointer]
+              - button "Edit image" [ref=f73e80] [cursor=pointer]
+              - button "Download" [ref=f73e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f73e90]:
+            - img "Electric car charging station with plug inserted" [ref=f73e91]
+          - generic [ref=f73e92]:
+            - generic [ref=f73e94]:
+              - button "Share this image" [ref=f73e95] [cursor=pointer]:
+                - generic [ref=f73e98]: Share
+              - button "More Actions" [ref=f73e99] [cursor=pointer]
+            - generic [ref=f73e103]:
+              - heading "Electric car charging station with plug inserted" [level=1] [ref=f73e105]
+              - paragraph [ref=f73e109]: Download this illustration of technology, blue, green, and illustration by Tri wiranto (@triwiranto)
+              - generic [ref=f73e111]:
+                - generic [ref=f73e116]:
+                  - text: Published on
+                  - time [ref=f73e117]: October 28, 2025
+                - generic [ref=f73e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f73e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f73e124]:
+              - link "technology" [ref=f73e125] [cursor=pointer]:
+                - /url: /s/illustrations/technology
+              - link "blue" [ref=f73e126] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "green" [ref=f73e127] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "illustration" [ref=f73e128] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "white" [ref=f73e129] [cursor=pointer]:
+                - /url: /s/illustrations/white
+              - link "design" [ref=f73e130] [cursor=pointer]:
+                - /url: /s/illustrations/design
+              - link "graphic design" [ref=f73e131] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "energy" [ref=f73e132] [cursor=pointer]:
+                - /url: /s/illustrations/energy
+              - link "future" [ref=f73e133] [cursor=pointer]:
+                - /url: /s/illustrations/future
+              - link "innovation" [ref=f73e134] [cursor=pointer]:
+                - /url: /s/illustrations/innovation
+              - link "vector" [ref=f73e135] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "electricity" [ref=f73e136] [cursor=pointer]:
+                - /url: /s/illustrations/electricity
+              - link "transportation" [ref=f73e137] [cursor=pointer]:
+                - /url: /s/illustrations/transportation
+              - link "renewable energy" [ref=f73e138] [cursor=pointer]:
+                - /url: /s/illustrations/renewable-energy
+              - link "power" [ref=f73e139] [cursor=pointer]:
+                - /url: /s/illustrations/power
+              - link "digital art" [ref=f73e140] [cursor=pointer]:
+                - /url: /s/illustrations/digital-art
+              - link "green energy" [ref=f73e141] [cursor=pointer]:
+                - /url: /s/illustrations/green-energy
+              - link "automotive" [ref=f73e142] [cursor=pointer]:
+                - /url: /s/illustrations/automotive
+              - link "perspective" [ref=f73e143] [cursor=pointer]:
+                - /url: /s/illustrations/perspective
+              - link "eco friendly" [ref=f73e144] [cursor=pointer]:
+                - /url: /s/illustrations/eco-friendly
+        - generic [ref=f73e147]:
+          - generic [ref=f73e148]:
+            - paragraph [ref=f73e150]: From this series
+            - generic [ref=f73e153]:
+              - generic [ref=f73e154]:
+                - link [ref=f73e155] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fdigital-lock-with-fingerprint-scanner-on-blue-background-aBsn55xI4JI
+                - link [ref=f73e158]:
+                  - /url: /illustrations/digital-lock-with-fingerprint-scanner-on-blue-background-aBsn55xI4JI
+                  - img "Digital lock with fingerprint scanner on blue background" [ref=f73e159]
+              - generic [ref=f73e160]:
+                - link [ref=f73e161] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fballot-box-with-paper-ballots-on-blue-background-qa0o9eG1HA8
+                - link [ref=f73e164]:
+                  - /url: /illustrations/ballot-box-with-paper-ballots-on-blue-background-qa0o9eG1HA8
+                  - img "Ballot box with paper ballots on blue background" [ref=f73e165]
+              - generic:
+                - link [ref=f73e166] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fbitcoin-mining-rig-with-a-cart-full-of-coins-lD_MbQemVDw
+                - link "Bitcoin mining rig with a cart full of coins":
+                  - /url: /illustrations/bitcoin-mining-rig-with-a-cart-full-of-coins-lD_MbQemVDw
+                  - img "Bitcoin mining rig with a cart full of coins"
+              - generic [ref=f73e169]:
+                - link [ref=f73e170] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Ftest-tubes-with-colorful-liquids-in-a-rack-r9O940V-_N8
+                - link [ref=f73e173]:
+                  - /url: /illustrations/test-tubes-with-colorful-liquids-in-a-rack-r9O940V-_N8
+                  - img "Test tubes with colorful liquids in a rack." [ref=f73e174]
+              - generic [ref=f73e175]:
+                - link [ref=f73e176] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fsmartphone-displaying-gold-bars-and-dollar-sign-gQui43Ucb5A
+                - link [ref=f73e179]:
+                  - /url: /illustrations/smartphone-displaying-gold-bars-and-dollar-sign-gQui43Ucb5A
+                  - img "Smartphone displaying gold bars and dollar sign." [ref=f73e180]
+              - generic [ref=f73e181]:
+                - link [ref=f73e182] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-stylized-plant-in-a-futuristic-pot-with-solar-panels-W_ZswRpsrvo
+                - link [ref=f73e185]:
+                  - /url: /illustrations/a-stylized-plant-in-a-futuristic-pot-with-solar-panels-W_ZswRpsrvo
+                  - img "A stylized plant in a futuristic pot with solar panels" [ref=f73e186]
+              - generic:
+                - link [ref=f73e187] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fdigital-clock-with-glowing-numbers-on-screen-8pfzos8qD9Y
+                - link "Digital clock with glowing numbers on screen":
+                  - /url: /illustrations/digital-clock-with-glowing-numbers-on-screen-8pfzos8qD9Y
+                  - img "Digital clock with glowing numbers on screen"
+              - generic [ref=f73e190]:
+                - link [ref=f73e191] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-futuristic-pot-of-soup-with-a-spoon-r6pvh0u08AE
+                - link [ref=f73e194]:
+                  - /url: /illustrations/a-futuristic-pot-of-soup-with-a-spoon-r6pvh0u08AE
+                  - img "A futuristic pot of soup with a spoon." [ref=f73e195]
+          - generic [ref=f73e196]:
+            - heading "Related images" [level=4] [ref=f73e198]
+            - generic [ref=f73e202]:
+              - generic [ref=f73e203]:
+                - figure [ref=f73e204]:
+                  - generic [ref=f73e206]:
+                    - link [ref=f73e207]:
+                      - /url: /illustrations/abstract-digital-technology-components-stacked-together-YpP7rdzJx8k
+                      - img "Abstract digital technology components stacked together" [ref=f73e208]
+                    - link [ref=f73e209] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-digital-technology-components-stacked-together-YpP7rdzJx8k
+                - figure [ref=f73e212]:
+                  - generic [ref=f73e214]:
+                    - link [ref=f73e215]:
+                      - /url: /illustrations/isometric-view-of-a-futuristic-server-rack-with-circuits-tQ-TpWUM1lA
+                      - img "Isometric view of a futuristic server rack with circuits" [ref=f73e216]
+                    - link [ref=f73e217] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fisometric-view-of-a-futuristic-server-rack-with-circuits-tQ-TpWUM1lA
+                - figure [ref=f73e220]:
+                  - generic [ref=f73e222]:
+                    - link [ref=f73e223]:
+                      - /url: /illustrations/abstract-robot-with-traffic-lights-and-game-board-WEQdzCGlUNE
+                      - img "Abstract robot with traffic lights and game board" [ref=f73e224]
+                    - link [ref=f73e225] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-robot-with-traffic-lights-and-game-board-WEQdzCGlUNE
+                - figure [ref=f73e228]:
+                  - generic [ref=f73e230]:
+                    - link [ref=f73e231]:
+                      - /url: /illustrations/abstract-isometric-factory-with-pink-and-blue-elements-O3rlJIRb-8c
+                      - img "Abstract isometric factory with pink and blue elements." [ref=f73e232]
+                    - link [ref=f73e233] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-isometric-factory-with-pink-and-blue-elements-O3rlJIRb-8c
+                - figure [ref=f73e236]:
+                  - generic [ref=f73e238]:
+                    - link [ref=f73e239]:
+                      - /url: /illustrations/green-electric-car-charging-at-solar-powered-station-kb-ySDjpDdY
+                      - img "Green electric car charging at solar-powered station." [ref=f73e240]
+                    - link [ref=f73e241] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fgreen-electric-car-charging-at-solar-powered-station-kb-ySDjpDdY
+                - figure [ref=f73e244]:
+                  - generic [ref=f73e246]:
+                    - link [ref=f73e247]:
+                      - /url: /illustrations/a-blue-and-green-plug-with-a-green-leaf-on-it-fL9QO_AOPYc
+                      - img "A blue and green plug with a green leaf on it" [ref=f73e248]
+                    - link [ref=f73e249] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-blue-and-green-plug-with-a-green-leaf-on-it-fL9QO_AOPYc
+              - generic [ref=f73e252]:
+                - figure [ref=f73e253]:
+                  - generic [ref=f73e255]:
+                    - link [ref=f73e256]:
+                      - /url: /illustrations/a-glowing-light-bulb-atop-a-futuristic-machine-haxBPOa5lRA
+                      - img "A glowing light bulb atop a futuristic machine." [ref=f73e257]
+                    - link [ref=f73e258] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-glowing-light-bulb-atop-a-futuristic-machine-haxBPOa5lRA
+                - figure [ref=f73e261]:
+                  - generic [ref=f73e263]:
+                    - link [ref=f73e264]:
+                      - /url: /illustrations/isometric-computer-tower-with-usb-drive-connected-a0MveO3wNms
+                      - img "Isometric computer tower with usb drive connected" [ref=f73e265]
+                    - link [ref=f73e266] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fisometric-computer-tower-with-usb-drive-connected-a0MveO3wNms
+                - figure [ref=f73e269]:
+                  - generic [ref=f73e271]:
+                    - link [ref=f73e272]:
+                      - /url: /illustrations/two-electrical-plugs-connecting-on-a-dark-background-z-fcHKoV2DA
+                      - img "Two electrical plugs connecting on a dark background" [ref=f73e273]
+                    - link [ref=f73e274] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ftwo-electrical-plugs-connecting-on-a-dark-background-z-fcHKoV2DA
+                - figure [ref=f73e277]:
+                  - generic [ref=f73e279]:
+                    - link [ref=f73e280]:
+                      - /url: /illustrations/green-battery-charging-with-blue-plug-and-leaves-mmtrZdNihEg
+                      - img "Green battery charging with blue plug and leaves" [ref=f73e281]
+                    - link [ref=f73e282] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fgreen-battery-charging-with-blue-plug-and-leaves-mmtrZdNihEg
+                - figure [ref=f73e285]:
+                  - generic [ref=f73e287]:
+                    - link [ref=f73e288]:
+                      - /url: /illustrations/a-green-gas-pump-with-a-lightning-coming-out-of-it-mVUQJfHIdzU
+                      - img "A green gas pump with a lightning coming out of it" [ref=f73e289]
+                    - link [ref=f73e290] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-green-gas-pump-with-a-lightning-coming-out-of-it-mVUQJfHIdzU
+                - figure [ref=f73e293]:
+                  - generic [ref=f73e295]:
+                    - link [ref=f73e296]:
+                      - /url: /illustrations/a-futuristic-robot-with-a-camera-on-a-blue-background-CkPX-CwHUNQ
+                      - img "A futuristic robot with a camera on a blue background" [ref=f73e297]
+                    - link [ref=f73e298] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-futuristic-robot-with-a-camera-on-a-blue-background-CkPX-CwHUNQ
+                - figure [ref=f73e301]:
+                  - generic [ref=f73e303]:
+                    - link [ref=f73e304]:
+                      - /url: /illustrations/a-battery-with-a-lightning-symbol-above-it-RczcygFTGZs
+                      - img "A battery with a lightning symbol above it" [ref=f73e305]
+                    - link [ref=f73e306] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-battery-with-a-lightning-symbol-above-it-RczcygFTGZs
+              - generic [ref=f73e309]:
+                - figure [ref=f73e310]:
+                  - generic [ref=f73e312]:
+                    - link [ref=f73e313]:
+                      - /url: /illustrations/backpack-with-solar-panel-and-batteries-LSzq3W6S7q8
+                      - img "Backpack with solar panel and batteries" [ref=f73e314]
+                    - link [ref=f73e315] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fbackpack-with-solar-panel-and-batteries-LSzq3W6S7q8
+                - figure [ref=f73e318]:
+                  - generic [ref=f73e320]:
+                    - link [ref=f73e321]:
+                      - /url: /illustrations/electrical-adapter-with-usb-ports-and-plug-kZ_5XJtWsmc
+                      - img "Electrical adapter with usb ports and plug" [ref=f73e322]
+                    - link [ref=f73e323] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Felectrical-adapter-with-usb-ports-and-plug-kZ_5XJtWsmc
+                - figure [ref=f73e326]:
+                  - generic [ref=f73e328]:
+                    - link [ref=f73e329]:
+                      - /url: /illustrations/electric-car-charging-at-a-station-AXic1LYeSpg
+                      - img "Electric car charging at a station" [ref=f73e330]
+                    - link [ref=f73e331] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Felectric-car-charging-at-a-station-AXic1LYeSpg
+                - figure [ref=f73e334]:
+                  - generic [ref=f73e336]:
+                    - link [ref=f73e337]:
+                      - /url: /illustrations/electric-car-charging-station-with-wifi-symbol-mJQnz1MWQ5w
+                      - img "Electric car charging station with wifi symbol." [ref=f73e338]
+                    - link [ref=f73e339] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Felectric-car-charging-station-with-wifi-symbol-mJQnz1MWQ5w
+                - figure [ref=f73e342]:
+                  - generic [ref=f73e344]:
+                    - link [ref=f73e345]:
+                      - /url: /illustrations/a-car-at-a-gas-pump-with-a-city-in-the-background-tcxhKWz8Jsg
+                      - img "A car at a gas pump with a city in the background" [ref=f73e346]
+                    - link [ref=f73e347] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-car-at-a-gas-pump-with-a-city-in-the-background-tcxhKWz8Jsg
+                - figure [ref=f73e350]:
+                  - generic [ref=f73e352]:
+                    - link [ref=f73e353]:
+                      - /url: /illustrations/electric-car-charging-station-on-a-green-road-Rfj0JB2_NpE
+                      - img "Electric car charging station on a green road" [ref=f73e354]
+                    - link [ref=f73e355] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Felectric-car-charging-station-on-a-green-road-Rfj0JB2_NpE
+                - figure [ref=f73e358]:
+                  - generic [ref=f73e360]:
+                    - link [ref=f73e361]:
+                      - /url: /illustrations/a-modern-gas-pump-station-with-blue-accents-fpCZy1Ft88Q
+                      - img "A modern gas pump station with blue accents" [ref=f73e362]
+                    - link [ref=f73e363] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-modern-gas-pump-station-with-blue-accents-fpCZy1Ft88Q
+    - generic:
+      - region "Notifications"

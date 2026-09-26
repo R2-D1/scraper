@@ -1,0 +1,63 @@
+{
+  "slug": "document-warning-2es6",
+  "mediaKey": "56ffed7d-142d-47e7-ae37-09953a336b3b",
+  "providerId": "699ce0303c25b52867054d46",
+  "i18n": {
+    "name": {
+      "en": "Document Warning",
+      "uk": "Попередження щодо документа"
+    },
+    "alt": {
+      "en": "Document Warning",
+      "uk": "Попередження щодо документа"
+    },
+    "tags": [
+      {
+        "key": "document-warning",
+        "i18n": {
+          "en": "Document Warning",
+          "uk": "Попередження щодо документа"
+        }
+      },
+      {
+        "key": "document",
+        "i18n": {
+          "en": "document",
+          "uk": "документ"
+        }
+      },
+      {
+        "key": "warning",
+        "i18n": {
+          "en": "warning",
+          "uk": "попередження"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/document-warning_2es6.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 607,
+  "height": 720
+}

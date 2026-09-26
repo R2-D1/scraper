@@ -1,0 +1,49 @@
+{
+  "slug": "hire-hadq",
+  "mediaKey": "75fedcc5-726d-468b-b4e3-2bc6d0cec9bd",
+  "providerId": "5fbd139b477c430017304493",
+  "i18n": {
+    "name": {
+      "en": "Hire",
+      "uk": "Найняти"
+    },
+    "alt": {
+      "en": "Hire",
+      "uk": "Найняти"
+    },
+    "tags": [
+      {
+        "key": "hire",
+        "i18n": {
+          "en": "Hire",
+          "uk": "Найняти"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/hire_hadq.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 898,
+  "height": 399
+}

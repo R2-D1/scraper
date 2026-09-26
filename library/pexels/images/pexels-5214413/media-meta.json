@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-5214413",
+  "mediaKey": "pexels:5214413",
+  "i18n": {
+    "name": {
+      "en": "Red taillights of a car in the dark",
+      "uk": "Червоні задні ліхтарі автомобіля в темряві"
+    },
+    "alt": {
+      "en": "Modern black automobile with body kit and red headlight parked on street near brick wall in night time in city",
+      "uk": "Сучасний чорний автомобіль з обвісом та червоними фарами, припаркований вночі на вулиці біля цегляної стіни в місті"
+    },
+    "tags": [
+      {
+        "key": "car",
+        "i18n": {
+          "en": "car",
+          "uk": "автомобіль"
+        }
+      },
+      {
+        "key": "taillights",
+        "i18n": {
+          "en": "taillights",
+          "uk": "задні ліхтарі"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "vehicles"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/red-headlight-on-black-car-5214413/",
+  "sourceName": "Pexels",
+  "authorName": "Erik Mclean",
+  "authorUrl": "https://www.pexels.com/@introspectivedsgn",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

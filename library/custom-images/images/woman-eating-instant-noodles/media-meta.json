@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "woman-eating-instant-noodles",
+  "mediaKey": "custom:content:c9ab95f0e06070411e418579fb2a9a5c670fd1c9f6752809cd4c8feb0d2a90a2",
+  "pinned": true,
+  "collectionSlugs": [
+    "food-drink",
+    "people"
+  ],
+  "sourceContentHash": "c9ab95f0e06070411e418579fb2a9a5c670fd1c9f6752809cd4c8feb0d2a90a2",
+  "i18n": {
+    "name": {
+      "en": "Woman Eating Instant Noodles",
+      "uk": "Жінка їсть локшину швидкого приготування"
+    },
+    "alt": {
+      "en": "Woman Eating Instant Noodles",
+      "uk": "Жінка їсть локшину швидкого приготування"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "noodles",
+        "i18n": {
+          "en": "Noodles",
+          "uk": "Локшина"
+        }
+      },
+      {
+        "key": "food",
+        "i18n": {
+          "en": "Food",
+          "uk": "Їжа"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "youth-culture",
+        "i18n": {
+          "en": "Youth Culture",
+          "uk": "Молодіжна культура"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "Woman",
+        "Noodles",
+        "Food",
+        "Portrait",
+        "Youth Culture"
+      ],
+      "uk": [
+        "Жінка",
+        "Локшина",
+        "Їжа",
+        "Портрет",
+        "Молодіжна культура"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://divnex.com",
+  "sourceName": "Divnex",
+  "authorName": "Divnex",
+  "authorUrl": "https://divnex.com",
+  "licenseName": "Divnex Asset License",
+  "licenseUrl": "https://divnex.com/asset-license",
+  "width": 2160,
+  "height": 3840
+}

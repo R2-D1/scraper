@@ -1,0 +1,91 @@
+{
+  "slug": "dramatic-portrait-m4wch",
+  "mediaKey": "ffd526e9-7615-4c63-9b9e-17d1846b8e01",
+  "i18n": {
+    "name": {
+      "en": "Dramatic Portrait",
+      "uk": "Драматичний портрет"
+    },
+    "alt": {
+      "en": "Dramatic Portrait",
+      "uk": "Драматичний портрет"
+    },
+    "tags": [
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "red-background",
+        "i18n": {
+          "en": "red background",
+          "uk": "червоний фон"
+        }
+      },
+      {
+        "key": "dramatic-lighting",
+        "i18n": {
+          "en": "dramatic lighting",
+          "uk": "драматичне освітлення"
+        }
+      },
+      {
+        "key": "contemplative-pose",
+        "i18n": {
+          "en": "contemplative pose",
+          "uk": "задумлива поза"
+        }
+      },
+      {
+        "key": "braided-hair",
+        "i18n": {
+          "en": "braided hair",
+          "uk": "заплетене волосся"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/dramatic-portrait-m4wch",
+  "sourceName": "Lummi",
+  "authorName": "Sanna Granqvist",
+  "authorUrl": "https://www.lummi.ai/creator/granqvistsanna-xh1cz?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A person with long braided hair is depicted against a vibrant red background. The lighting emphasizes the contours of their face and shoulders, creating a dramatic and striking visual effect. The individual is wearing a dark outfit, and their pose suggests a sense of movement or contemplation. The red background contrasts sharply with the dark tones of the subject, enhancing the overall intensity of the image.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1696,
+  "height": 960,
+  "mimeType": "image/webp"
+}

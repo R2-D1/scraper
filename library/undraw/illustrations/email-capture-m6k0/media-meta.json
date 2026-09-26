@@ -1,0 +1,63 @@
+{
+  "slug": "email-capture-m6k0",
+  "mediaKey": "3c4e2ebc-e7e5-4d89-aa25-2b84a3153aef",
+  "providerId": "614b3a1272f3a30017195b79",
+  "i18n": {
+    "name": {
+      "en": "Email capture",
+      "uk": "Збір адрес електронної пошти"
+    },
+    "alt": {
+      "en": "Email capture",
+      "uk": "Збір адрес електронної пошти"
+    },
+    "tags": [
+      {
+        "key": "email-capture",
+        "i18n": {
+          "en": "Email capture",
+          "uk": "Збір адрес електронної пошти"
+        }
+      },
+      {
+        "key": "email",
+        "i18n": {
+          "en": "email",
+          "uk": "електронна пошта"
+        }
+      },
+      {
+        "key": "capture",
+        "i18n": {
+          "en": "capture",
+          "uk": "захоплення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/email-capture_m6k0.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 505,
+  "height": 452
+}

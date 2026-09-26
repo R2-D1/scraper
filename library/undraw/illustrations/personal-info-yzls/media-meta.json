@@ -1,0 +1,63 @@
+{
+  "slug": "personal-info-yzls",
+  "mediaKey": "4dfbe363-6a7a-4ed6-8f6a-4189553d081f",
+  "providerId": "62024d89aa2542001853e49c",
+  "i18n": {
+    "name": {
+      "en": "Personal info",
+      "uk": "Особисті дані"
+    },
+    "alt": {
+      "en": "Personal info",
+      "uk": "Особисті дані"
+    },
+    "tags": [
+      {
+        "key": "personal-info",
+        "i18n": {
+          "en": "Personal info",
+          "uk": "Особисті дані"
+        }
+      },
+      {
+        "key": "personal",
+        "i18n": {
+          "en": "personal",
+          "uk": "особистий"
+        }
+      },
+      {
+        "key": "info",
+        "i18n": {
+          "en": "info",
+          "uk": "інформація"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/personal-info_yzls.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 722,
+  "height": 364
+}

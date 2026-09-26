@@ -1,0 +1,56 @@
+{
+  "slug": "for-sale-7qjb",
+  "mediaKey": "366e7a56-b2b5-4b8c-8206-79ade719677b",
+  "providerId": "5ff8714d1578a2001713774b",
+  "i18n": {
+    "name": {
+      "en": "For sale",
+      "uk": "На продаж"
+    },
+    "alt": {
+      "en": "For sale",
+      "uk": "На продаж"
+    },
+    "tags": [
+      {
+        "key": "for-sale",
+        "i18n": {
+          "en": "For sale",
+          "uk": "На продаж"
+        }
+      },
+      {
+        "key": "sale",
+        "i18n": {
+          "en": "sale",
+          "uk": "розпродаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/for-sale_7qjb.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 997,
+  "height": 465
+}

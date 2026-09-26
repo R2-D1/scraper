@@ -1,0 +1,94 @@
+{
+  "slug": "vibrant-portrait-mt6js",
+  "mediaKey": "2cba1b4a-0392-42fa-9c40-3b78dd08b06b",
+  "i18n": {
+    "name": {
+      "en": "Vibrant Portrait",
+      "uk": "Яскравий портрет"
+    },
+    "alt": {
+      "en": "Vibrant Portrait",
+      "uk": "Яскравий портрет"
+    },
+    "tags": [
+      {
+        "key": "reflective-sunglasses",
+        "i18n": {
+          "en": "reflective sunglasses",
+          "uk": "сонячні окуляри з дзеркальним покриттям"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "dramatic-lighting",
+        "i18n": {
+          "en": "dramatic lighting",
+          "uk": "драматичне освітлення"
+        }
+      },
+      {
+        "key": "vibrant-colors",
+        "i18n": {
+          "en": "vibrant colors",
+          "uk": "яскраві кольори"
+        }
+      },
+      {
+        "key": "bold-fashion",
+        "i18n": {
+          "en": "bold fashion",
+          "uk": "смiлива мода"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "Fashion",
+          "uk": "Мода"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Ava Thiery",
+  "authorUrl": "https://www.lummi.ai/creator/ava_thiery?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A striking portrait of a man with dark skin wearing reflective, round sunglasses that display vibrant pink and orange hues. He is dressed in a bright orange suit jacket over a dark shirt, creating a bold contrast. The lighting is dramatic, with blue and pink highlights accentuating his features against a solid orange background. His expression is calm and confident, and his short hair is neatly styled. The composition emphasizes the interplay of colors and the subject's poised demeanor.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2048,
+  "height": 2048,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/vibrant-portrait-mt6js/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/vibrant-portrait-mt6js/vibrant-portrait-mt6js.png",
+  "relativeAssetPath": "library/lummi/images/vibrant-portrait-mt6js/vibrant-portrait-mt6js.png"
+}

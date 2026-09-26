@@ -1,0 +1,63 @@
+{
+  "slug": "empty-street-3ogh",
+  "mediaKey": "65ede556-1b21-4e86-8afa-b43c096c4c7c",
+  "providerId": "628371c64409e40018b146e1",
+  "i18n": {
+    "name": {
+      "en": "Empty street",
+      "uk": "Порожня вулиця"
+    },
+    "alt": {
+      "en": "Empty street",
+      "uk": "Порожня вулиця"
+    },
+    "tags": [
+      {
+        "key": "empty-street",
+        "i18n": {
+          "en": "Empty street",
+          "uk": "Порожня вулиця"
+        }
+      },
+      {
+        "key": "empty",
+        "i18n": {
+          "en": "empty",
+          "uk": "порожній"
+        }
+      },
+      {
+        "key": "street",
+        "i18n": {
+          "en": "street",
+          "uk": "вулиця"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/empty-street_3ogh.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 968,
+  "height": 354
+}

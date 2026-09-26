@@ -1,0 +1,97 @@
+{
+  "slug": "maternity-newborn",
+  "mediaKey": "186dd9d1-a77e-4df1-ae50-30c2596cf7df",
+  "i18n": {
+    "name": {
+      "en": "Newborn",
+      "uk": "Новонароджений"
+    },
+    "alt": {
+      "en": "Newborn",
+      "uk": "Новонароджений"
+    },
+    "tags": [
+      {
+        "key": "newborn",
+        "i18n": {
+          "en": "newborn",
+          "uk": "новонароджений"
+        }
+      },
+      {
+        "key": "baby",
+        "i18n": {
+          "en": "baby",
+          "uk": "немовля"
+        }
+      },
+      {
+        "key": "infant",
+        "i18n": {
+          "en": "infant",
+          "uk": "немовля"
+        }
+      },
+      {
+        "key": "birth",
+        "i18n": {
+          "en": "birth",
+          "uk": "народження"
+        }
+      },
+      {
+        "key": "swaddle",
+        "i18n": {
+          "en": "swaddle",
+          "uk": "закутати"
+        }
+      },
+      {
+        "key": "maternity",
+        "i18n": {
+          "en": "maternity",
+          "uk": "материнство"
+        }
+      },
+      {
+        "key": "care",
+        "i18n": {
+          "en": "care",
+          "uk": "догляд"
+        }
+      },
+      {
+        "key": "cradle",
+        "i18n": {
+          "en": "cradle",
+          "uk": "док-станція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/maternity-newborn",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

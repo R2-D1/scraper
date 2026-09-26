@@ -1,0 +1,49 @@
+{
+  "slug": "flagged-c6mx",
+  "mediaKey": "e3e5cde9-2c0b-4d21-bd03-939102ec09f2",
+  "providerId": "602a4ea2b448e60017eb9932",
+  "i18n": {
+    "name": {
+      "en": "Flagged",
+      "uk": "Позначено"
+    },
+    "alt": {
+      "en": "Flagged",
+      "uk": "Позначено"
+    },
+    "tags": [
+      {
+        "key": "flagged",
+        "i18n": {
+          "en": "Flagged",
+          "uk": "Позначено"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/flagged_c6mx.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 576,
+  "height": 524
+}

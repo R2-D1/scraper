@@ -1,0 +1,101 @@
+{
+  "slug": "contemplative-profile-yhiii",
+  "mediaKey": "80598cdc-2c29-4101-952b-3515bb29fdf8",
+  "i18n": {
+    "name": {
+      "en": "Contemplative Profile",
+      "uk": "Профіль для медитації"
+    },
+    "alt": {
+      "en": "Contemplative Profile",
+      "uk": "Профіль для медитації"
+    },
+    "tags": [
+      {
+        "key": "serene-mood",
+        "i18n": {
+          "en": "serene mood",
+          "uk": "спокійний настрій"
+        }
+      },
+      {
+        "key": "contemplative",
+        "i18n": {
+          "en": "Contemplative",
+          "uk": "Контемплативний"
+        }
+      },
+      {
+        "key": "asian",
+        "i18n": {
+          "en": "Asian",
+          "uk": "Азіатський"
+        }
+      },
+      {
+        "key": "profile",
+        "i18n": {
+          "en": "Profile",
+          "uk": "Профіль"
+        }
+      },
+      {
+        "key": "orange-background",
+        "i18n": {
+          "en": "orange background",
+          "uk": "помаранчевий фон"
+        }
+      },
+      {
+        "key": "artistic-lighting",
+        "i18n": {
+          "en": "artistic lighting",
+          "uk": "художнє освітлення"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Lloyd Creates",
+  "authorUrl": "https://www.lummi.ai/creator/lloydcreates?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A young individual is depicted in profile against a vibrant orange background. The subject has a focused expression, with their hair tied back, and is wearing a light-colored sleeveless top. The lighting emphasizes the contours of their face and shoulders, creating a dramatic and artistic effect. The background features subtle wave-like patterns, adding depth and texture to the composition. The overall mood is serene and contemplative, with a strong emphasis on the interplay of light and color.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1345,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/contemplative-profile-yhiii/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/contemplative-profile-yhiii/contemplative-profile-yhiii.png",
+  "relativeAssetPath": "library/lummi/images/contemplative-profile-yhiii/contemplative-profile-yhiii.png"
+}

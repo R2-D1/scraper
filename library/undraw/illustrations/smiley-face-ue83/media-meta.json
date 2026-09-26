@@ -1,0 +1,63 @@
+{
+  "slug": "smiley-face-ue83",
+  "mediaKey": "a8ea0bc7-a1a9-4070-a7d2-d1bce776b850",
+  "providerId": "5f730f0d32c1ac0017b2cbf7",
+  "i18n": {
+    "name": {
+      "en": "Smiley face",
+      "uk": "Смайлик"
+    },
+    "alt": {
+      "en": "Smiley face",
+      "uk": "Смайлик"
+    },
+    "tags": [
+      {
+        "key": "smiley-face",
+        "i18n": {
+          "en": "Smiley face",
+          "uk": "Смайлик"
+        }
+      },
+      {
+        "key": "smiley",
+        "i18n": {
+          "en": "smiley",
+          "uk": "смайлик"
+        }
+      },
+      {
+        "key": "face",
+        "i18n": {
+          "en": "face",
+          "uk": "обличчя"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/smiley-face_ue83.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 871,
+  "height": 477
+}

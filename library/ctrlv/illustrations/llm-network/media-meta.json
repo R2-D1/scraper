@@ -1,0 +1,90 @@
+{
+  "slug": "llm-network",
+  "mediaKey": "000a4633-7aab-48cd-b26d-339f6d010162",
+  "i18n": {
+    "name": {
+      "en": "Language Model",
+      "uk": "Мовна модель"
+    },
+    "alt": {
+      "en": "Language Model",
+      "uk": "Мовна модель"
+    },
+    "tags": [
+      {
+        "key": "llm",
+        "i18n": {
+          "en": "llm",
+          "uk": "llm"
+        }
+      },
+      {
+        "key": "language-model",
+        "i18n": {
+          "en": "language model",
+          "uk": "мовна модель"
+        }
+      },
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      },
+      {
+        "key": "chat",
+        "i18n": {
+          "en": "chat",
+          "uk": "чат"
+        }
+      },
+      {
+        "key": "prompt",
+        "i18n": {
+          "en": "prompt",
+          "uk": "підказка"
+        }
+      },
+      {
+        "key": "nodes",
+        "i18n": {
+          "en": "nodes",
+          "uk": "вузли"
+        }
+      },
+      {
+        "key": "ai",
+        "i18n": {
+          "en": "ai",
+          "uk": "ai"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/llm-network",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

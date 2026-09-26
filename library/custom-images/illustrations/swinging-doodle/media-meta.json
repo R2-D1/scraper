@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "swinging-doodle",
+  "mediaKey": "custom:content:0c911ef0152df385f0216973994e7d7df39240df9b47358361544cf4602bec91",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "0c911ef0152df385f0216973994e7d7df39240df9b47358361544cf4602bec91",
+  "i18n": {
+    "name": {
+      "en": "Swinging Doodle",
+      "uk": "Гойдалка-малюнок"
+    },
+    "alt": {
+      "en": "Swinging Doodle",
+      "uk": "Гойдалка-малюнок"
+    },
+    "tags": [
+      {
+        "key": "swinging",
+        "i18n": {
+          "en": "Swinging",
+          "uk": "Свінг"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

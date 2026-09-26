@@ -1,0 +1,90 @@
+{
+  "slug": "marketing-landing-page",
+  "mediaKey": "7cbdd14f-893e-485e-be68-69cf078125c8",
+  "i18n": {
+    "name": {
+      "en": "Landing Page",
+      "uk": "Початкова сторінка"
+    },
+    "alt": {
+      "en": "Landing Page",
+      "uk": "Початкова сторінка"
+    },
+    "tags": [
+      {
+        "key": "marketing",
+        "i18n": {
+          "en": "marketing",
+          "uk": "маркетинг"
+        }
+      },
+      {
+        "key": "landing",
+        "i18n": {
+          "en": "landing",
+          "uk": "посадка"
+        }
+      },
+      {
+        "key": "page",
+        "i18n": {
+          "en": "page",
+          "uk": "сторінка"
+        }
+      },
+      {
+        "key": "cta",
+        "i18n": {
+          "en": "cta",
+          "uk": "cta"
+        }
+      },
+      {
+        "key": "button",
+        "i18n": {
+          "en": "button",
+          "uk": "кнопка"
+        }
+      },
+      {
+        "key": "lead",
+        "i18n": {
+          "en": "lead",
+          "uk": "свинець"
+        }
+      },
+      {
+        "key": "capture",
+        "i18n": {
+          "en": "capture",
+          "uk": "захоплення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/marketing-landing-page",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

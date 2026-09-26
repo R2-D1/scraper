@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "scraper-fixture-unassigned",
+  "mediaKey": "scraper:fixture:unassigned",
+  "pinned": false,
+  "collectionSlugs": [],
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "i18n": {
+    "name": {
+      "en": "Fixture unassigned",
+      "uk": "Тестове без колекції"
+    },
+    "alt": {
+      "en": "Unassigned abstract image fixture",
+      "uk": "Абстрактне тестове зображення без колекції"
+    },
+    "tags": [],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "source": "https://example.com/divnex/scraper-fixture/unassigned",
+  "sourceName": "Divnex scraper fixture",
+  "licenseName": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

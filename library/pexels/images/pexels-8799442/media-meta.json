@@ -1,0 +1,89 @@
+{
+  "slug": "pexels-8799442",
+  "mediaKey": "pexels:8799442",
+  "i18n": {
+    "name": {
+      "en": "Surfer riding an ocean wave",
+      "uk": "Серфер на океанській хвилі"
+    },
+    "alt": {
+      "en": "A surfer catches a perfect wave, silhouetted against the sunlit ocean.",
+      "uk": "Серфер ловить ідеальну хвилю, його силует вимальовується на тлі освітленого сонцем океану."
+    },
+    "tags": [
+      {
+        "key": "surfer",
+        "i18n": {
+          "en": "surfer",
+          "uk": "серфер"
+        }
+      },
+      {
+        "key": "surfing",
+        "i18n": {
+          "en": "surfing",
+          "uk": "серфінг"
+        }
+      },
+      {
+        "key": "ocean-wave",
+        "i18n": {
+          "en": "ocean wave",
+          "uk": "океанська хвиля"
+        }
+      },
+      {
+        "key": "surfboard",
+        "i18n": {
+          "en": "surfboard",
+          "uk": "дошка для серфінгу"
+        }
+      },
+      {
+        "key": "sea",
+        "i18n": {
+          "en": "sea",
+          "uk": "море"
+        }
+      },
+      {
+        "key": "silhouette",
+        "i18n": {
+          "en": "silhouette",
+          "uk": "силует"
+        }
+      },
+      {
+        "key": "water-sport",
+        "i18n": {
+          "en": "water sport",
+          "uk": "водний спорт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-surfer-under-a-wave-8799442/",
+  "sourceName": "Pexels",
+  "authorName": "Gabriel Passos",
+  "authorUrl": "https://www.pexels.com/@gabriel-passos-71368745",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1646,
+  "height": 2814
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "open-letter-xc4r",
+  "mediaKey": "92400bc8-62db-4542-9707-951c96d77b0d",
+  "providerId": "67bf0e9c8cd73744d85c9aeb",
+  "i18n": {
+    "name": {
+      "en": "Open Letter",
+      "uk": "Відкритий лист"
+    },
+    "alt": {
+      "en": "Open Letter",
+      "uk": "Відкритий лист"
+    },
+    "tags": [
+      {
+        "key": "open-letter",
+        "i18n": {
+          "en": "Open Letter",
+          "uk": "Відкритий лист"
+        }
+      },
+      {
+        "key": "open",
+        "i18n": {
+          "en": "open",
+          "uk": "відкритий"
+        }
+      },
+      {
+        "key": "letter",
+        "i18n": {
+          "en": "letter",
+          "uk": "лист"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/open-letter_xc4r.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 766,
+  "height": 740
+}

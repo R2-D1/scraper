@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-5171422",
+  "mediaKey": "pexels:5171422",
+  "i18n": {
+    "name": {
+      "en": "French bulldog sitting in a car",
+      "uk": "Французький бульдог сидить в автомобілі"
+    },
+    "alt": {
+      "en": "Cute little French Bulldog with tongue out in costume resting in expensive new automobile",
+      "uk": "Милий маленький французький бульдог у костюмі з висунутим язиком відпочиває в дорогому новому автомобілі"
+    },
+    "tags": [
+      {
+        "key": "dog",
+        "i18n": {
+          "en": "dog",
+          "uk": "собака"
+        }
+      },
+      {
+        "key": "french-bulldog",
+        "i18n": {
+          "en": "french bulldog",
+          "uk": "французький бульдог"
+        }
+      },
+      {
+        "key": "pet",
+        "i18n": {
+          "en": "pet",
+          "uk": "домашня тварина"
+        }
+      },
+      {
+        "key": "car",
+        "i18n": {
+          "en": "car",
+          "uk": "автомобіль"
+        }
+      },
+      {
+        "key": "animal-portrait",
+        "i18n": {
+          "en": "animal portrait",
+          "uk": "портрет тварини"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "animals"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/funny-dog-sitting-in-interior-of-modern-car-5171422/",
+  "sourceName": "Pexels",
+  "authorName": "Erik Mclean",
+  "authorUrl": "https://www.pexels.com/@introspectivedsgn",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

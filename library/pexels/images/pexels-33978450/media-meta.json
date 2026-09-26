@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-33978450",
+  "mediaKey": "pexels:33978450",
+  "i18n": {
+    "name": {
+      "en": "Pink abstract sculptural shapes",
+      "uk": "Рожеві абстрактні скульптурні форми"
+    },
+    "alt": {
+      "en": "A vibrant abstract 3D wave with a deep red tone, perfect for backgrounds.",
+      "uk": "Яскрава абстрактна 3D-хвиля глибокого червоного відтінку, яка ідеально підходить для фонів."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "sculptural-forms",
+        "i18n": {
+          "en": "sculptural forms",
+          "uk": "скульптурні форми"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      },
+      {
+        "key": "curves",
+        "i18n": {
+          "en": "curves",
+          "uk": "вигини"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/abstract-red-3d-wave-background-design-33978450/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

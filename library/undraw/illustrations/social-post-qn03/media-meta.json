@@ -1,0 +1,63 @@
+{
+  "slug": "social-post-qn03",
+  "mediaKey": "02e39227-291c-4f4d-83fc-7615435960e6",
+  "providerId": "696eb5ce5b870ed77c2b6ee9",
+  "i18n": {
+    "name": {
+      "en": "Social Post",
+      "uk": "Публікація в соцмережах"
+    },
+    "alt": {
+      "en": "Social Post",
+      "uk": "Публікація в соцмережах"
+    },
+    "tags": [
+      {
+        "key": "social-post",
+        "i18n": {
+          "en": "Social Post",
+          "uk": "Публікація в соцмережах"
+        }
+      },
+      {
+        "key": "social",
+        "i18n": {
+          "en": "social",
+          "uk": "соціальні"
+        }
+      },
+      {
+        "key": "post",
+        "i18n": {
+          "en": "post",
+          "uk": "стовп"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/social-post_qn03.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 717,
+  "height": 801
+}

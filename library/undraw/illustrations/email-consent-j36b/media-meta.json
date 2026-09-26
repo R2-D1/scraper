@@ -1,0 +1,63 @@
+{
+  "slug": "email-consent-j36b",
+  "mediaKey": "0e0d290c-2e14-47a3-b459-c4c6a6c7525d",
+  "providerId": "67ef099a38b70ac3c05a21c4",
+  "i18n": {
+    "name": {
+      "en": "Email Consent",
+      "uk": "Згода на отримання електронних листів"
+    },
+    "alt": {
+      "en": "Email Consent",
+      "uk": "Згода на отримання електронних листів"
+    },
+    "tags": [
+      {
+        "key": "email-consent",
+        "i18n": {
+          "en": "Email Consent",
+          "uk": "Згода на отримання електронних листів"
+        }
+      },
+      {
+        "key": "email",
+        "i18n": {
+          "en": "email",
+          "uk": "електронна пошта"
+        }
+      },
+      {
+        "key": "consent",
+        "i18n": {
+          "en": "consent",
+          "uk": "згода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/email-consent_j36b.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 664,
+  "height": 799
+}

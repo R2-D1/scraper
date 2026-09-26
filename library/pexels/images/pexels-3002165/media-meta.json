@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-3002165",
+  "mediaKey": "pexels:3002165",
+  "i18n": {
+    "name": {
+      "en": "Person walking along a coastal road",
+      "uk": "Людина, що йде вздовж прибережної дороги"
+    },
+    "alt": {
+      "en": "A woman sits playfully on a mountain road, basking in the sunshine with scenic views.",
+      "uk": "Жінка грайливо сидить на гірській дорозі, насолоджуючись сонячним промінням і мальовничими краєвидами."
+    },
+    "tags": [
+      {
+        "key": "coast",
+        "i18n": {
+          "en": "coast",
+          "uk": "узбережжя"
+        }
+      },
+      {
+        "key": "road",
+        "i18n": {
+          "en": "road",
+          "uk": "дорога"
+        }
+      },
+      {
+        "key": "traveler",
+        "i18n": {
+          "en": "traveler",
+          "uk": "мандрівник"
+        }
+      },
+      {
+        "key": "landscape",
+        "i18n": {
+          "en": "landscape",
+          "uk": "пейзаж"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "outdoors",
+        "i18n": {
+          "en": "outdoors",
+          "uk": "на відкритому повітрі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "travel"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-sitting-on-empty-road-3002165/",
+  "sourceName": "Pexels",
+  "authorName": "Ricky Esquivel",
+  "authorUrl": "https://www.pexels.com/@rickyesquivel",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

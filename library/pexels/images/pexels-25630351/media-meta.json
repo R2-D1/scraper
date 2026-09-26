@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-25630351",
+  "mediaKey": "pexels:25630351",
+  "i18n": {
+    "name": {
+      "en": "Metallic gold folded abstract texture",
+      "uk": "Абстрактна текстура у вигляді металізованих золотих складок"
+    },
+    "alt": {
+      "en": "Intricate 3D rendering of futuristic glass structures and spirals reflecting modern art concepts.",
+      "uk": "Складний 3D-візуалізація футуристичних скляних конструкцій та спіралей, що відображають концепції сучасного мистецтва."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "gold",
+        "i18n": {
+          "en": "gold",
+          "uk": "золото"
+        }
+      },
+      {
+        "key": "metallic",
+        "i18n": {
+          "en": "metallic",
+          "uk": "металевий"
+        }
+      },
+      {
+        "key": "folded",
+        "i18n": {
+          "en": "folded",
+          "uk": "складений"
+        }
+      },
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/bstract-glass-structures-in-dynamic-composition-25630351/",
+  "sourceName": "Pexels",
+  "authorName": "Google DeepMind",
+  "authorUrl": "https://www.pexels.com/@googledeepmind",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 2400
+}

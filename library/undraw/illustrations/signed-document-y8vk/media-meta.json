@@ -1,0 +1,63 @@
+{
+  "slug": "signed-document-y8vk",
+  "mediaKey": "a029e776-9ab2-4562-b32c-f33495c55cb9",
+  "providerId": "69f9137879740242d59ddb01",
+  "i18n": {
+    "name": {
+      "en": "Signed Document",
+      "uk": "Підписаний документ"
+    },
+    "alt": {
+      "en": "Signed Document",
+      "uk": "Підписаний документ"
+    },
+    "tags": [
+      {
+        "key": "signed-document",
+        "i18n": {
+          "en": "Signed Document",
+          "uk": "Підписаний документ"
+        }
+      },
+      {
+        "key": "signed",
+        "i18n": {
+          "en": "signed",
+          "uk": "підписано"
+        }
+      },
+      {
+        "key": "document",
+        "i18n": {
+          "en": "document",
+          "uk": "документ"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/signed-document_y8vk.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 749,
+  "height": 800
+}

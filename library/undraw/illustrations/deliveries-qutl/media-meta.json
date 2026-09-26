@@ -1,0 +1,49 @@
+{
+  "slug": "deliveries-qutl",
+  "mediaKey": "6968743b-b62d-46a1-a0b8-d0c6e117531d",
+  "providerId": "6887d0677f3bd9484f47f5af",
+  "i18n": {
+    "name": {
+      "en": "Deliveries",
+      "uk": "Доставка"
+    },
+    "alt": {
+      "en": "Deliveries",
+      "uk": "Доставка"
+    },
+    "tags": [
+      {
+        "key": "deliveries",
+        "i18n": {
+          "en": "Deliveries",
+          "uk": "Доставка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/deliveries_qutl.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 453
+}

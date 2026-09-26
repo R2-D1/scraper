@@ -1,0 +1,49 @@
+{
+  "slug": "gaming-v7a6",
+  "mediaKey": "70a1275e-af3d-4927-9d54-c7f86156e015",
+  "providerId": "61389ef23874e6001779c16e",
+  "i18n": {
+    "name": {
+      "en": "Gaming",
+      "uk": "Ігри"
+    },
+    "alt": {
+      "en": "Gaming",
+      "uk": "Ігри"
+    },
+    "tags": [
+      {
+        "key": "gaming",
+        "i18n": {
+          "en": "Gaming",
+          "uk": "Ігри"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/gaming_v7a6.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 917,
+  "height": 612
+}

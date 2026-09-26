@@ -1,0 +1,63 @@
+{
+  "slug": "pending-approval-6cdu",
+  "mediaKey": "d318af9f-a2e4-4175-9845-863672e58bd5",
+  "providerId": "5fe239fb8f07c000174e3dfa",
+  "i18n": {
+    "name": {
+      "en": "Pending approval",
+      "uk": "Очікується затвердження"
+    },
+    "alt": {
+      "en": "Pending approval",
+      "uk": "Очікується затвердження"
+    },
+    "tags": [
+      {
+        "key": "pending-approval",
+        "i18n": {
+          "en": "Pending approval",
+          "uk": "Очікується затвердження"
+        }
+      },
+      {
+        "key": "pending",
+        "i18n": {
+          "en": "pending",
+          "uk": "очікує"
+        }
+      },
+      {
+        "key": "approval",
+        "i18n": {
+          "en": "approval",
+          "uk": "затвердження"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/pending-approval_6cdu.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 516,
+  "height": 464
+}

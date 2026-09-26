@@ -1,0 +1,63 @@
+{
+  "slug": "both-sides-mrcf",
+  "mediaKey": "140969f0-20b1-4983-b6df-31e8fb7ce36c",
+  "providerId": "5da9cd150d3cd90015592c1c",
+  "i18n": {
+    "name": {
+      "en": "Both sides",
+      "uk": "Обидві сторони"
+    },
+    "alt": {
+      "en": "Both sides",
+      "uk": "Обидві сторони"
+    },
+    "tags": [
+      {
+        "key": "both-sides",
+        "i18n": {
+          "en": "Both sides",
+          "uk": "Обидві сторони"
+        }
+      },
+      {
+        "key": "both",
+        "i18n": {
+          "en": "both",
+          "uk": "обидва"
+        }
+      },
+      {
+        "key": "sides",
+        "i18n": {
+          "en": "sides",
+          "uk": "сторони"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/both-sides_mrcf.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 979,
+  "height": 640
+}

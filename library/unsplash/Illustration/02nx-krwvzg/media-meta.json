@@ -1,0 +1,59 @@
+{
+  "slug": "02nx-krwvzg",
+  "mediaKey": "65f1ebc7-6f3c-4eda-97b1-f7289d042d4e",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "Geometric pattern with triangles",
+      "uk": "Геометричний патерн з трикутників"
+    },
+    "alt": {
+      "en": "Geometric pattern with triangles",
+      "uk": "Геометричний патерн з трикутників"
+    },
+    "tags": [
+      {
+        "key": "bold",
+        "i18n": {
+          "en": "bold",
+          "uk": "жирний"
+        }
+      },
+      {
+        "key": "triangles",
+        "i18n": {
+          "en": "triangles",
+          "uk": "трикутники"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "frame",
+        "geometric"
+      ],
+      "uk": [
+        "рамка",
+        "геометричний"
+      ]
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "pattern-illustrations"
+  ],
+  "source": "https://unsplash.com/illustrations/02nx_KrWvZg",
+  "sourceName": "Unsplash",
+  "authorName": "Greg Daines",
+  "authorUrl": "https://unsplash.com/@gregdaines1990",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 850,
+  "height": 1134
+}

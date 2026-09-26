@@ -1,0 +1,68 @@
+{
+  "slug": "blue-and-red-planet-earth-aphqnheqxsc",
+  "mediaKey": "9730af24-2211-4130-b4e2-2c77075872b1",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "My Bubble Planet",
+      "uk": "Синьо-червона планета міхур"
+    },
+    "alt": {
+      "en": "My Bubble Planet",
+      "uk": "Синьо-червона планета міхур"
+    },
+    "tags": [
+      {
+        "key": "bubble",
+        "i18n": {
+          "en": "bubble",
+          "uk": "міхур"
+        }
+      },
+      {
+        "key": "planets",
+        "i18n": {
+          "en": "planets",
+          "uk": "планети"
+        }
+      },
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "universe",
+        "i18n": {
+          "en": "universe",
+          "uk": "всесвіт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/blue-and-red-planet-earth-aphQNheQXsc",
+  "sourceName": "Unsplash",
+  "authorName": "ZQ Lee",
+  "authorUrl": "https://unsplash.com/@zqlee",
+  "description": "My Bubble Planet",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 1600,
+  "collectionSlugs": [
+    "textures"
+  ]
+}

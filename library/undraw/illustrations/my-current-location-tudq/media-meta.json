@@ -1,0 +1,70 @@
+{
+  "slug": "my-current-location-tudq",
+  "mediaKey": "b4d7aeea-a49e-4831-9867-238186a02e5a",
+  "providerId": "67903063f456bbb92fb614c2",
+  "i18n": {
+    "name": {
+      "en": "My current location",
+      "uk": "Моє поточне місцезнаходження"
+    },
+    "alt": {
+      "en": "My current location",
+      "uk": "Моє поточне місцезнаходження"
+    },
+    "tags": [
+      {
+        "key": "my-current-location",
+        "i18n": {
+          "en": "My current location",
+          "uk": "Моє поточне місцезнаходження"
+        }
+      },
+      {
+        "key": "my",
+        "i18n": {
+          "en": "my",
+          "uk": "мій"
+        }
+      },
+      {
+        "key": "current",
+        "i18n": {
+          "en": "current",
+          "uk": "поточний"
+        }
+      },
+      {
+        "key": "location",
+        "i18n": {
+          "en": "location",
+          "uk": "місцезнаходження"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/my-current-location_tudq.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 911,
+  "height": 705
+}

@@ -1,0 +1,276 @@
+- generic [ref=f57e4]:
+  - navigation [ref=f57e5]:
+    - generic [ref=f57e6]:
+      - generic [ref=f57e7]:
+        - link "Unsplash Home" [ref=f57e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f57e9]
+        - link "Photos" [ref=f57e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f57e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f57e17]:
+        - button "Explore" [ref=f57e18] [cursor=pointer]
+        - button "Collections" [ref=f57e21] [cursor=pointer]
+        - button "Download History" [ref=f57e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f57e28] [cursor=pointer]
+    - generic [ref=f57e31]:
+      - link "Log in / Sign up" [ref=f57e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fphotos%2Fa-blurry-image-of-a-man-in-a-hat-lMbySJNgBK4
+      - button "Language" [ref=f57e35] [cursor=pointer]
+      - button "Menu" [ref=f57e38] [cursor=pointer]
+  - generic [ref=f57e41]:
+    - generic [ref=f57e42]:
+      - navigation [ref=f57e43]:
+        - search "Find visuals sitewide" [ref=f57e45]:
+          - button "Search Unsplash" [ref=f57e46] [cursor=pointer]
+          - combobox [ref=f57e49]:
+            - searchbox "Search Unsplash" [ref=f57e50]
+            - listbox
+          - button "Visual search" [ref=f57e52] [cursor=pointer]
+        - generic [ref=f57e55]:
+          - link "Get Unsplash+" [ref=f57e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f57e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fphotos%2Fa-blurry-image-of-a-man-in-a-hat-lMbySJNgBK4
+        - button "Submit an image" [ref=f57e59] [cursor=pointer]
+      - generic [ref=f57e60]:
+        - generic [ref=f57e61]:
+          - banner [ref=f57e63]:
+            - generic [ref=f57e65]:
+              - link [ref=f57e66] [cursor=pointer]:
+                - /url: /@adolfofelix
+              - generic [ref=f57e69]:
+                - link "Adolfo Félix" [ref=f57e70] [cursor=pointer]:
+                  - /url: /@adolfofelix
+                - generic [ref=f57e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f57e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-man-in-a-hat-lMbySJNgBK4
+            - generic [ref=f57e73]:
+              - button "Bookmark" [ref=f57e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f57e77] [cursor=pointer]
+              - button "Edit image" [ref=f57e80] [cursor=pointer]
+              - button "Download" [ref=f57e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f57e90]:
+            - img "A blurry image of a man in a hat" [ref=f57e91]
+          - generic [ref=f57e92]:
+            - generic [ref=f57e94]:
+              - button "Share this image" [ref=f57e95] [cursor=pointer]:
+                - generic [ref=f57e98]: Share
+              - button "More Actions" [ref=f57e99] [cursor=pointer]
+            - generic [ref=f57e103]:
+              - heading "A blurry image of a man in a hat" [level=1] [ref=f57e105]
+              - paragraph [ref=f57e109]: Download this HD photo of abstract, blue, profile, and green by Adolfo Félix (@adolfofelix)
+              - generic [ref=f57e111]:
+                - generic [ref=f57e116]:
+                  - text: Published on
+                  - time [ref=f57e117]: October 10, 2024
+                - button "FUJIFILM, X-T5" [ref=f57e122] [cursor=pointer]
+                - generic [ref=f57e126]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f57e127] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f57e129]:
+              - link "abstract" [ref=f57e130] [cursor=pointer]:
+                - /url: /s/photos/abstract
+              - link "blue" [ref=f57e131] [cursor=pointer]:
+                - /url: /s/photos/blue
+              - link "profile" [ref=f57e132] [cursor=pointer]:
+                - /url: /s/photos/profile
+              - link "green" [ref=f57e133] [cursor=pointer]:
+                - /url: /s/photos/green
+              - link "face" [ref=f57e134] [cursor=pointer]:
+                - /url: /s/photos/face
+              - link "gradient" [ref=f57e135] [cursor=pointer]:
+                - /url: /s/photos/gradient
+              - link "abstract art" [ref=f57e136] [cursor=pointer]:
+                - /url: /s/photos/abstract-art
+              - link "silhouette" [ref=f57e137] [cursor=pointer]:
+                - /url: /s/photos/silhouette
+              - link "modern art" [ref=f57e138] [cursor=pointer]:
+                - /url: /s/photos/modern-art
+              - link "digital art" [ref=f57e139] [cursor=pointer]:
+                - /url: /s/photos/digital-art
+              - link "head" [ref=f57e140] [cursor=pointer]:
+                - /url: /s/photos/head
+              - link "artistic" [ref=f57e141] [cursor=pointer]:
+                - /url: /s/photos/artistic
+              - link "color gradient" [ref=f57e142] [cursor=pointer]:
+                - /url: /s/photos/color-gradient
+              - link "heatmap" [ref=f57e143] [cursor=pointer]:
+                - /url: /s/photos/heatmap
+              - link "heat map" [ref=f57e144] [cursor=pointer]:
+                - /url: /s/photos/heat-map
+              - link "vibrant colors" [ref=f57e145] [cursor=pointer]:
+                - /url: /s/photos/vibrant-colors
+              - link "blue green gradient" [ref=f57e146] [cursor=pointer]:
+                - /url: /s/photos/blue-green-gradient
+              - link "visual effect" [ref=f57e147] [cursor=pointer]:
+                - /url: /s/photos/visual-effect
+              - link "heatmap effect" [ref=f57e148] [cursor=pointer]:
+                - /url: /s/photos/heatmap-effect
+        - generic [ref=f57e151]:
+          - generic [ref=f57e152]:
+            - paragraph [ref=f57e154]: From this series
+            - generic [ref=f57e157]:
+              - generic [ref=f57e158]:
+                - link [ref=f57e159] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fphotos%2Ftwo-hands-reaching-up-into-the-air-c0D1KLUkl3A
+                - link [ref=f57e162]:
+                  - /url: /photos/two-hands-reaching-up-into-the-air-c0D1KLUkl3A
+                  - img "Two hands reaching up into the air" [ref=f57e163]
+              - generic [ref=f57e164]:
+                - link [ref=f57e165] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fphotos%2Fa-person-wearing-a-hat-and-holding-a-tennis-racquet-Q4CdDsWscV0
+                - link [ref=f57e168]:
+                  - /url: /photos/a-person-wearing-a-hat-and-holding-a-tennis-racquet-Q4CdDsWscV0
+                  - img "A person wearing a hat and holding a tennis racquet" [ref=f57e169]
+          - generic [ref=f57e170]:
+            - heading "Related images" [level=4] [ref=f57e172]
+            - generic [ref=f57e176]:
+              - generic [ref=f57e177]:
+                - figure [ref=f57e178]:
+                  - generic [ref=f57e180]:
+                    - link [ref=f57e181]:
+                      - /url: /photos/abstract-portrait-with-vibrant-green-and-red-colors-tG-bgVmoPDI
+                      - img "Abstract portrait with vibrant green and red colors" [ref=f57e182]
+                    - link [ref=f57e183] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fabstract-portrait-with-vibrant-green-and-red-colors-tG-bgVmoPDI
+                - figure [ref=f57e186]:
+                  - generic [ref=f57e188]:
+                    - link [ref=f57e189]:
+                      - /url: /photos/blurred-figure-with-red-and-green-background-9fbWYCnrcA4
+                      - img "Blurred figure with red and green background" [ref=f57e190]
+                    - link [ref=f57e191] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fblurred-figure-with-red-and-green-background-9fbWYCnrcA4
+                - figure [ref=f57e194]:
+                  - generic [ref=f57e196]:
+                    - link [ref=f57e197]:
+                      - /url: /photos/a-distorted-portrait-against-a-green-backdrop-d5aVNVCRWUI
+                      - img "A distorted portrait against a green backdrop." [ref=f57e198]
+                    - link [ref=f57e199] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-distorted-portrait-against-a-green-backdrop-d5aVNVCRWUI
+                - figure [ref=f57e202]:
+                  - generic [ref=f57e204]:
+                    - link [ref=f57e205]:
+                      - /url: /photos/silhouette-of-a-person-looking-up-against-red-background-yDmSgkq7zMg
+                      - img "Silhouette of a person looking up against red background" [ref=f57e206]
+                    - link [ref=f57e207] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fsilhouette-of-a-person-looking-up-against-red-background-yDmSgkq7zMg
+                - figure [ref=f57e210]:
+                  - generic [ref=f57e212]:
+                    - link [ref=f57e213]:
+                      - /url: /photos/person-looking-up-at-colorful-aura-uU2pqQ3Y_xQ
+                      - img "Person looking up at colorful aura" [ref=f57e214]
+                    - link [ref=f57e215] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fperson-looking-up-at-colorful-aura-uU2pqQ3Y_xQ
+                - figure [ref=f57e218]:
+                  - generic [ref=f57e220]:
+                    - link [ref=f57e221]:
+                      - /url: /photos/blurred-man-against-a-vibrant-green-background-W8oBXCzyrsM
+                      - img "Blurred man against a vibrant green background" [ref=f57e222]
+                    - link [ref=f57e223] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fblurred-man-against-a-vibrant-green-background-W8oBXCzyrsM
+                - figure [ref=f57e226]:
+                  - generic [ref=f57e228]:
+                    - link [ref=f57e229]:
+                      - /url: /photos/blurred-figure-in-a-hooded-sweatshirt-with-neon-light-effects-K7ZjmizBCxU
+                      - img "Blurred figure in a hooded sweatshirt with neon light effects." [ref=f57e230]
+                    - link [ref=f57e231] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fblurred-figure-in-a-hooded-sweatshirt-with-neon-light-effects-K7ZjmizBCxU
+              - generic [ref=f57e234]:
+                - figure [ref=f57e235]:
+                  - generic [ref=f57e237]:
+                    - link [ref=f57e238]:
+                      - /url: /photos/blurred-figure-with-orange-glow-against-green-background-J-6PgzRU-dg
+                      - img "Blurred figure with orange glow against green background" [ref=f57e239]
+                    - link [ref=f57e240] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fblurred-figure-with-orange-glow-against-green-background-J-6PgzRU-dg
+                - figure [ref=f57e243]:
+                  - generic [ref=f57e245]:
+                    - link [ref=f57e246]:
+                      - /url: /photos/a-blurry-image-of-a-mans-face-in-blue-and-yellow-QntutcxTcLw
+                      - img "A blurry image of a man's face in blue and yellow" [ref=f57e247]
+                    - link [ref=f57e248] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-mans-face-in-blue-and-yellow-QntutcxTcLw
+                - figure [ref=f57e251]:
+                  - generic [ref=f57e253]:
+                    - link [ref=f57e254]:
+                      - /url: /photos/a-blurry-image-of-a-mans-face-in-red-and-blue-bGt_8lZlIzM
+                      - img "A blurry image of a man's face in red and blue" [ref=f57e255]
+                    - link [ref=f57e256] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-mans-face-in-red-and-blue-bGt_8lZlIzM
+                - figure [ref=f57e259]:
+                  - generic [ref=f57e261]:
+                    - link [ref=f57e262]:
+                      - /url: /photos/abstract-depiction-of-a-person-in-fiery-colors-cLuJQKwUj1c
+                      - img "Abstract depiction of a person in fiery colors" [ref=f57e263]
+                    - link [ref=f57e264] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fabstract-depiction-of-a-person-in-fiery-colors-cLuJQKwUj1c
+                - figure [ref=f57e267]:
+                  - generic [ref=f57e269]:
+                    - link [ref=f57e270]:
+                      - /url: /photos/a-blurred-person-in-a-white-suit-underwater-StZfRF5oYQk
+                      - img "A blurred person in a white suit underwater" [ref=f57e271]
+                    - link [ref=f57e272] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-blurred-person-in-a-white-suit-underwater-StZfRF5oYQk
+                - figure [ref=f57e275]:
+                  - generic [ref=f57e277]:
+                    - link [ref=f57e278]:
+                      - /url: /photos/a-woman-standing-in-front-of-a-purple-background-e_qfcXiAxok
+                      - img "A woman standing in front of a purple background" [ref=f57e279]
+                    - link [ref=f57e280] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-woman-standing-in-front-of-a-purple-background-e_qfcXiAxok
+              - generic [ref=f57e283]:
+                - figure [ref=f57e284]:
+                  - generic [ref=f57e286]:
+                    - link [ref=f57e287]:
+                      - /url: /photos/a-blurry-image-of-a-man-riding-a-skateboard-qauZJflyGrQ
+                      - img "A blurry image of a man riding a skateboard" [ref=f57e288]
+                    - link [ref=f57e289] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-blurry-image-of-a-man-riding-a-skateboard-qauZJflyGrQ
+                - figure [ref=f57e292]:
+                  - generic [ref=f57e294]:
+                    - link [ref=f57e295]:
+                      - /url: /photos/blurred-silhouette-of-a-person-against-a-vibrant-gradient-background-PDQDMVwPXjE
+                      - img "Blurred silhouette of a person against a vibrant gradient background" [ref=f57e296]
+                    - link [ref=f57e297] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fblurred-silhouette-of-a-person-against-a-vibrant-gradient-background-PDQDMVwPXjE
+                - figure [ref=f57e300]:
+                  - generic [ref=f57e302]:
+                    - link [ref=f57e303]:
+                      - /url: /photos/abstract-portrait-with-vibrant-warm-and-cool-colors-z_N4rJkSU7I
+                      - img "Abstract portrait with vibrant, warm and cool colors" [ref=f57e304]
+                    - link [ref=f57e305] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fabstract-portrait-with-vibrant-warm-and-cool-colors-z_N4rJkSU7I
+                - figure [ref=f57e308]:
+                  - generic [ref=f57e310]:
+                    - link [ref=f57e311]:
+                      - /url: /photos/person-in-a-red-hoodie-with-green-accents-OH2ZdWMQl5I
+                      - img "Person in a red hoodie with green accents" [ref=f57e312]
+                    - link [ref=f57e313] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fperson-in-a-red-hoodie-with-green-accents-OH2ZdWMQl5I
+                - figure [ref=f57e316]:
+                  - generic [ref=f57e318]:
+                    - link [ref=f57e319]:
+                      - /url: /photos/a-portrait-appears-through-lines-of-green-VLfRTpAWQkI
+                      - img "A portrait appears through lines of green." [ref=f57e320]
+                    - link [ref=f57e321] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-portrait-appears-through-lines-of-green-VLfRTpAWQkI
+                - figure [ref=f57e324]:
+                  - generic [ref=f57e326]:
+                    - link [ref=f57e327]:
+                      - /url: /photos/a-surreal-abstract-portrait-with-alien-like-features-RTGT3uGVoK0
+                      - img "A surreal, abstract portrait with alien-like features." [ref=f57e328]
+                    - link [ref=f57e329] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-surreal-abstract-portrait-with-alien-like-features-RTGT3uGVoK0
+                - figure [ref=f57e332]:
+                  - generic [ref=f57e334]:
+                    - link [ref=f57e335]:
+                      - /url: /photos/blurred-man-in-red-shirt-against-green-background-YsvF_y7xPLs
+                      - img "Blurred man in red shirt against green background" [ref=f57e336]
+                    - link [ref=f57e337] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fblurred-man-in-red-shirt-against-green-background-YsvF_y7xPLs
+    - generic:
+      - region "Notifications"

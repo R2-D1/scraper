@@ -1,0 +1,49 @@
+{
+  "slug": "post-eok2",
+  "mediaKey": "dcc0e88a-3020-4257-a526-d42ef4b742c6",
+  "providerId": "5fcf637cc25a5c0017bd21de",
+  "i18n": {
+    "name": {
+      "en": "Post",
+      "uk": "Публікація"
+    },
+    "alt": {
+      "en": "Post",
+      "uk": "Публікація"
+    },
+    "tags": [
+      {
+        "key": "post",
+        "i18n": {
+          "en": "Post",
+          "uk": "Публікація"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/post_eok2.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 844,
+  "height": 641
+}

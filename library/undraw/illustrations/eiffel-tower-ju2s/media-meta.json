@@ -1,0 +1,63 @@
+{
+  "slug": "eiffel-tower-ju2s",
+  "mediaKey": "403f1e1c-82c7-489c-a94b-997d35b5f0b5",
+  "providerId": "624eb8da55530800188ebde2",
+  "i18n": {
+    "name": {
+      "en": "Eiffel tower",
+      "uk": "Ейфелева вежа"
+    },
+    "alt": {
+      "en": "Eiffel tower",
+      "uk": "Ейфелева вежа"
+    },
+    "tags": [
+      {
+        "key": "eiffel-tower",
+        "i18n": {
+          "en": "Eiffel tower",
+          "uk": "Ейфелева вежа"
+        }
+      },
+      {
+        "key": "eiffel",
+        "i18n": {
+          "en": "eiffel",
+          "uk": "Ейфель"
+        }
+      },
+      {
+        "key": "tower",
+        "i18n": {
+          "en": "tower",
+          "uk": "вежа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/eiffel-tower_ju2s.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 705,
+  "height": 736
+}

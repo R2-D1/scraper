@@ -1,0 +1,63 @@
+{
+  "slug": "delivery-address-409g",
+  "mediaKey": "2bc4e5f9-1605-46f6-a2eb-c8c2837c2150",
+  "providerId": "615f0036c93b860017b40208",
+  "i18n": {
+    "name": {
+      "en": "Delivery address",
+      "uk": "Адреса доставки"
+    },
+    "alt": {
+      "en": "Delivery address",
+      "uk": "Адреса доставки"
+    },
+    "tags": [
+      {
+        "key": "delivery-address",
+        "i18n": {
+          "en": "Delivery address",
+          "uk": "Адреса доставки"
+        }
+      },
+      {
+        "key": "delivery",
+        "i18n": {
+          "en": "delivery",
+          "uk": "доставка"
+        }
+      },
+      {
+        "key": "address",
+        "i18n": {
+          "en": "address",
+          "uk": "адресу"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/delivery-address_409g.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 808,
+  "height": 713
+}

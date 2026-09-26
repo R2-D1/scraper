@@ -1,0 +1,49 @@
+{
+  "slug": "dreamer-gb41",
+  "mediaKey": "24bdbf31-41fa-43fd-af7c-eb04ed56f6a7",
+  "providerId": "61b9bf7ab79ce60018522ed6",
+  "i18n": {
+    "name": {
+      "en": "Dreamer",
+      "uk": "Мрійник"
+    },
+    "alt": {
+      "en": "Dreamer",
+      "uk": "Мрійник"
+    },
+    "tags": [
+      {
+        "key": "dreamer",
+        "i18n": {
+          "en": "Dreamer",
+          "uk": "Мрійник"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/dreamer_gb41.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1018,
+  "height": 752
+}

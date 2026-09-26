@@ -1,0 +1,63 @@
+{
+  "slug": "file-manager-yics",
+  "mediaKey": "cb5f8fb7-88aa-4b96-8316-423ef0eb61ae",
+  "providerId": "6217708500625d0018d5b73f",
+  "i18n": {
+    "name": {
+      "en": "File manager",
+      "uk": "Файловий менеджер"
+    },
+    "alt": {
+      "en": "File manager",
+      "uk": "Файловий менеджер"
+    },
+    "tags": [
+      {
+        "key": "file-manager",
+        "i18n": {
+          "en": "File manager",
+          "uk": "Файловий менеджер"
+        }
+      },
+      {
+        "key": "file",
+        "i18n": {
+          "en": "file",
+          "uk": "файл"
+        }
+      },
+      {
+        "key": "manager",
+        "i18n": {
+          "en": "manager",
+          "uk": "менеджер"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/file-manager_yics.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 735,
+  "height": 684
+}

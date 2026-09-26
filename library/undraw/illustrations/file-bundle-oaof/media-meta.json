@@ -1,0 +1,63 @@
+{
+  "slug": "file-bundle-oaof",
+  "mediaKey": "1f6f4542-30bf-4c18-a788-3f630ad78104",
+  "providerId": "6154466112458f00171645b1",
+  "i18n": {
+    "name": {
+      "en": "File bundle",
+      "uk": "Набір файлів"
+    },
+    "alt": {
+      "en": "File bundle",
+      "uk": "Набір файлів"
+    },
+    "tags": [
+      {
+        "key": "file-bundle",
+        "i18n": {
+          "en": "File bundle",
+          "uk": "Набір файлів"
+        }
+      },
+      {
+        "key": "file",
+        "i18n": {
+          "en": "file",
+          "uk": "файл"
+        }
+      },
+      {
+        "key": "bundle",
+        "i18n": {
+          "en": "bundle",
+          "uk": "пакет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/file-bundle_oaof.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 785,
+  "height": 508
+}

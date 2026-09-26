@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-7130501",
+  "mediaKey": "pexels:7130501",
+  "i18n": {
+    "name": {
+      "en": "Lavender and cream gradient",
+      "uk": "Лавандово-кремовий градієнт"
+    },
+    "alt": {
+      "en": "Colorful vivid bright abstract background with white and blue soft colored gradient lights",
+      "uk": "Яскравий, барвистий абстрактний фон із м’якими біло-блакитними світловими переходами"
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "soft-colors",
+        "i18n": {
+          "en": "soft colors",
+          "uk": "м'які кольори"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "yellow",
+        "i18n": {
+          "en": "yellow",
+          "uk": "жовтий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/gradient-background-with-bright-multicolored-lights-7130501/",
+  "sourceName": "Pexels",
+  "authorName": "Codioful (formerly Gradienta)",
+  "authorUrl": "https://www.pexels.com/@codioful",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-3129769",
+  "mediaKey": "pexels:video:3129769",
+  "i18n": {
+    "name": {
+      "en": "Bright Clouds from Above",
+      "uk": "Яскраві хмари з неба"
+    },
+    "alt": {
+      "en": "Pexels video 3129769",
+      "uk": "Відео з Pexels № 3129769"
+    },
+    "tags": [
+      {
+        "key": "clouds",
+        "i18n": {
+          "en": "clouds",
+          "uk": "хмари"
+        }
+      },
+      {
+        "key": "sky",
+        "i18n": {
+          "en": "sky",
+          "uk": "небо"
+        }
+      },
+      {
+        "key": "aerial",
+        "i18n": {
+          "en": "aerial",
+          "uk": "аерофотозйомка"
+        }
+      },
+      {
+        "key": "bright",
+        "i18n": {
+          "en": "bright",
+          "uk": "яскравий"
+        }
+      },
+      {
+        "key": "white",
+        "i18n": {
+          "en": "white",
+          "uk": "білий"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/cumulus-clouds-formation-in-the-sky-3129769/",
+  "sourceName": "Pexels",
+  "authorName": "Pressmaster",
+  "authorUrl": "https://www.pexels.com/@pressmaster",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 15,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

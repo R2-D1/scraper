@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-38169692",
+  "mediaKey": "pexels:38169692",
+  "i18n": {
+    "name": {
+      "en": "Close-up beauty portrait in green tones",
+      "uk": "Крупний план портрета в зелених тонах"
+    },
+    "alt": {
+      "en": "Unique and artistic dark-toned close-up portrait of a woman's face, focusing on skin texture.",
+      "uk": "Унікальний і художній портрет обличчя жінки в темних тонах, зроблений крупним планом, з акцентом на текстурі шкіри."
+    },
+    "tags": [
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "face",
+        "i18n": {
+          "en": "face",
+          "uk": "обличчя"
+        }
+      },
+      {
+        "key": "makeup",
+        "i18n": {
+          "en": "makeup",
+          "uk": "макіяж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/artistic-close-up-portrait-of-a-woman-38169692/",
+  "sourceName": "Pexels",
+  "authorName": "Ola Szkolda",
+  "authorUrl": "https://www.pexels.com/@olaszkolda",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1665,
+  "height": 2497
+}

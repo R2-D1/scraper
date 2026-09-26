@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "moshing-doodle",
+  "mediaKey": "custom:content:eaf511ca335791df689a2f79ae88c08fcba6c3acf62d842464ab38d4b6250273",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "eaf511ca335791df689a2f79ae88c08fcba6c3acf62d842464ab38d4b6250273",
+  "i18n": {
+    "name": {
+      "en": "Moshing Doodle",
+      "uk": "Мошинг-дудл"
+    },
+    "alt": {
+      "en": "Moshing Doodle",
+      "uk": "Мошинг-дудл"
+    },
+    "tags": [
+      {
+        "key": "moshing",
+        "i18n": {
+          "en": "Moshing",
+          "uk": "Мошинг"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

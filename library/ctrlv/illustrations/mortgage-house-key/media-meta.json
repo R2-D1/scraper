@@ -1,0 +1,90 @@
+{
+  "slug": "mortgage-house-key",
+  "mediaKey": "e0e4b31e-fde3-42bf-afa1-59a3ccc3f381",
+  "i18n": {
+    "name": {
+      "en": "Home Mortgage",
+      "uk": "Іпотечний кредит на житло"
+    },
+    "alt": {
+      "en": "Home Mortgage",
+      "uk": "Іпотечний кредит на житло"
+    },
+    "tags": [
+      {
+        "key": "mortgage",
+        "i18n": {
+          "en": "mortgage",
+          "uk": "іпотека"
+        }
+      },
+      {
+        "key": "house",
+        "i18n": {
+          "en": "house",
+          "uk": "будинок"
+        }
+      },
+      {
+        "key": "loan",
+        "i18n": {
+          "en": "loan",
+          "uk": "кредит"
+        }
+      },
+      {
+        "key": "property",
+        "i18n": {
+          "en": "property",
+          "uk": "властивість"
+        }
+      },
+      {
+        "key": "bank",
+        "i18n": {
+          "en": "bank",
+          "uk": "банку"
+        }
+      },
+      {
+        "key": "invest",
+        "i18n": {
+          "en": "invest",
+          "uk": "інвестувати"
+        }
+      },
+      {
+        "key": "real-estate",
+        "i18n": {
+          "en": "real estate",
+          "uk": "нерухомість"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/mortgage-house-key",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

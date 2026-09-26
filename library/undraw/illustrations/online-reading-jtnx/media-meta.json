@@ -1,0 +1,63 @@
+{
+  "slug": "online-reading-jtnx",
+  "mediaKey": "cf291e39-c0b2-408a-975c-ccb1de530bca",
+  "providerId": "5f217969349c81001722326b",
+  "i18n": {
+    "name": {
+      "en": "Online reading",
+      "uk": "Читання в Інтернеті"
+    },
+    "alt": {
+      "en": "Online reading",
+      "uk": "Читання в Інтернеті"
+    },
+    "tags": [
+      {
+        "key": "online-reading",
+        "i18n": {
+          "en": "Online reading",
+          "uk": "Читання в Інтернеті"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "reading",
+        "i18n": {
+          "en": "reading",
+          "uk": "читання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/online-reading_jtnx.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 837,
+  "height": 607
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-31622943",
+  "mediaKey": "pexels:31622943",
+  "i18n": {
+    "name": {
+      "en": "Red neon arc on a black background",
+      "uk": "Червона неонова дуга на чорному тлі"
+    },
+    "alt": {
+      "en": "Vibrant abstract spiral design with a purple and red gradient on a dark background.",
+      "uk": "Яскравий абстрактний спіральний візерунок із фіолетово-червоним градієнтом на темному тлі."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "neon",
+        "i18n": {
+          "en": "neon",
+          "uk": "неон"
+        }
+      },
+      {
+        "key": "arc",
+        "i18n": {
+          "en": "arc",
+          "uk": "Arc"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "black-background",
+        "i18n": {
+          "en": "black background",
+          "uk": "чорний фон"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/abstract-spiral-with-purple-and-red-gradient-31622943/",
+  "sourceName": "Pexels",
+  "authorName": "Mahmoud Ramadan",
+  "authorUrl": "https://www.pexels.com/@mahmoudramadan",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "groceries-4via",
+  "mediaKey": "0367c9fd-1702-407a-964e-5d1720bf28e3",
+  "providerId": "6769d3573f1c6bdbde7be22f",
+  "i18n": {
+    "name": {
+      "en": "Groceries",
+      "uk": "Продукти харчування"
+    },
+    "alt": {
+      "en": "Groceries",
+      "uk": "Продукти харчування"
+    },
+    "tags": [
+      {
+        "key": "groceries",
+        "i18n": {
+          "en": "Groceries",
+          "uk": "Продукти харчування"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/groceries_4via.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 662,
+  "height": 646
+}

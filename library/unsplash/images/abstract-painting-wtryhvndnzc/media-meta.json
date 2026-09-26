@@ -1,0 +1,71 @@
+{
+  "slug": "abstract-painting-wtryhvndnzc",
+  "mediaKey": "c90e9ee7-12f4-4bec-bd90-f38201e8f7c0",
+  "i18n": {
+    "name": {
+      "en": "abstract painting",
+      "uk": "абстрактне живопис"
+    },
+    "alt": {
+      "en": "abstract painting",
+      "uk": "абстрактне живопис"
+    },
+    "tags": [
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "budapest",
+        "i18n": {
+          "en": "budapest",
+          "uk": "Будапешт"
+        }
+      },
+      {
+        "key": "hungary",
+        "i18n": {
+          "en": "hungary",
+          "uk": "угорщина"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "authorName": "Daniel Olah",
+  "authorUrl": "https://unsplash.com/@danesduet",
+  "description": "My bubble project fit to screen.",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "pinned": false,
+  "width": 2400,
+  "height": 4267,
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/unsplash/images/abstract-painting-wtryhvndnzc/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/unsplash/images/abstract-painting-wtryhvndnzc/abstract-painting-wtryhvndnzc.jpg",
+  "relativeAssetPath": "library/unsplash/images/abstract-painting-wtryhvndnzc/abstract-painting-wtryhvndnzc.jpg",
+  "collectionSlugs": [
+    "abstract"
+  ]
+}

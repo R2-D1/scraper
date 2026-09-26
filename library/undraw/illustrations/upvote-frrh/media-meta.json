@@ -1,0 +1,49 @@
+{
+  "slug": "upvote-frrh",
+  "mediaKey": "ff098be6-64c4-4ede-9edf-968159d4f8b9",
+  "providerId": "5fdb51b602989700175ca1f7",
+  "i18n": {
+    "name": {
+      "en": "Upvote",
+      "uk": "Проголосувати «за»"
+    },
+    "alt": {
+      "en": "Upvote",
+      "uk": "Проголосувати «за»"
+    },
+    "tags": [
+      {
+        "key": "upvote",
+        "i18n": {
+          "en": "Upvote",
+          "uk": "Проголосувати «за»"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/upvote_frrh.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 725,
+  "height": 477
+}

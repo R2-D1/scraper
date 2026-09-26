@@ -1,0 +1,49 @@
+{
+  "slug": "town-oesm",
+  "mediaKey": "b1c38886-e8c5-4d41-8ca0-a6ae19478ea4",
+  "providerId": "5e171188c0c2870015c67a30",
+  "i18n": {
+    "name": {
+      "en": "Town",
+      "uk": "Місто"
+    },
+    "alt": {
+      "en": "Town",
+      "uk": "Місто"
+    },
+    "tags": [
+      {
+        "key": "town",
+        "i18n": {
+          "en": "Town",
+          "uk": "Місто"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/town_oesm.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1037,
+  "height": 576
+}

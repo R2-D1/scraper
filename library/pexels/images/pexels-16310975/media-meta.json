@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-16310975",
+  "mediaKey": "pexels:16310975",
+  "i18n": {
+    "name": {
+      "en": "Man wearing a white mask and dark glasses",
+      "uk": "Чоловік у білій масці й темних окулярах"
+    },
+    "alt": {
+      "en": "Black and white portrait of a mysterious figure in a balaclava and suit against an urban wall.",
+      "uk": "Чорно-білий портрет загадкової постаті в балаклаві та костюмі на тлі міської стіни."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "face-mask",
+        "i18n": {
+          "en": "face mask",
+          "uk": "маска для обличчя"
+        }
+      },
+      {
+        "key": "sunglasses",
+        "i18n": {
+          "en": "sunglasses",
+          "uk": "сонцезахисні окуляри"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/person-in-suit-and-balaclava-smoking-16310975/",
+  "sourceName": "Pexels",
+  "authorName": "Behrad Rouhi",
+  "authorUrl": "https://www.pexels.com/@behrad-rouhi-510290506",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "teacher-n0ow",
+  "mediaKey": "a22f0323-1fd7-4931-adac-5cf620d9e607",
+  "providerId": "6a35c4e4939aab611cf25c52",
+  "i18n": {
+    "name": {
+      "en": "Teacher",
+      "uk": "Вчитель"
+    },
+    "alt": {
+      "en": "Teacher",
+      "uk": "Вчитель"
+    },
+    "tags": [
+      {
+        "key": "teacher",
+        "i18n": {
+          "en": "Teacher",
+          "uk": "Вчитель"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/teacher_n0ow.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 621
+}

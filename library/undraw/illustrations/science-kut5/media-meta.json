@@ -1,0 +1,49 @@
+{
+  "slug": "science-kut5",
+  "mediaKey": "5df25ff1-3077-4ad1-a807-a59a4485dd35",
+  "providerId": "61938a9ba7039f001783b2b7",
+  "i18n": {
+    "name": {
+      "en": "Science",
+      "uk": "Наука"
+    },
+    "alt": {
+      "en": "Science",
+      "uk": "Наука"
+    },
+    "tags": [
+      {
+        "key": "science",
+        "i18n": {
+          "en": "Science",
+          "uk": "Наука"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/science_kut5.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 638,
+  "height": 543
+}

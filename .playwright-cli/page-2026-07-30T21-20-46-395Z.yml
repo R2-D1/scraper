@@ -1,0 +1,283 @@
+- generic [ref=f81e4]:
+  - navigation [ref=f81e5]:
+    - generic [ref=f81e6]:
+      - generic [ref=f81e7]:
+        - link "Unsplash Home" [ref=f81e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f81e9]
+        - link "Photos" [ref=f81e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f81e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f81e17]:
+        - button "Explore" [ref=f81e18] [cursor=pointer]
+        - button "Collections" [ref=f81e21] [cursor=pointer]
+        - button "Download History" [ref=f81e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f81e28] [cursor=pointer]
+    - generic [ref=f81e31]:
+      - link "Log in / Sign up" [ref=f81e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fshopping-cart-climbs-an-upward-trend-arrow-FaH8TgOHcxA
+      - button "Language" [ref=f81e35] [cursor=pointer]
+      - button "Menu" [ref=f81e38] [cursor=pointer]
+  - generic [ref=f81e41]:
+    - generic [ref=f81e42]:
+      - navigation [ref=f81e43]:
+        - search "Find visuals sitewide" [ref=f81e45]:
+          - button "Search Unsplash" [ref=f81e46] [cursor=pointer]
+          - combobox [ref=f81e49]:
+            - searchbox "Search Unsplash" [ref=f81e50]
+            - listbox
+          - button "Visual search" [ref=f81e52] [cursor=pointer]
+        - generic [ref=f81e55]:
+          - link "Get Unsplash+" [ref=f81e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f81e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fshopping-cart-climbs-an-upward-trend-arrow-FaH8TgOHcxA
+        - button "Submit an image" [ref=f81e59] [cursor=pointer]
+      - generic [ref=f81e60]:
+        - generic [ref=f81e61]:
+          - banner [ref=f81e63]:
+            - generic [ref=f81e65]:
+              - link [ref=f81e66] [cursor=pointer]:
+                - /url: /@tehangat/illustrations
+              - generic [ref=f81e69]:
+                - link "HandRush Supply" [ref=f81e70] [cursor=pointer]:
+                  - /url: /@tehangat/illustrations
+                - generic [ref=f81e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f81e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fshopping-cart-climbs-an-upward-trend-arrow-FaH8TgOHcxA
+            - generic [ref=f81e73]:
+              - button "Bookmark" [ref=f81e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f81e77] [cursor=pointer]
+              - button "Edit image" [ref=f81e80] [cursor=pointer]
+              - button "Download" [ref=f81e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f81e90]:
+            - img "Shopping cart climbs an upward trend arrow." [ref=f81e91]
+          - generic [ref=f81e92]:
+            - generic [ref=f81e94]:
+              - button "Share this image" [ref=f81e95] [cursor=pointer]:
+                - generic [ref=f81e98]: Share
+              - button "More Actions" [ref=f81e99] [cursor=pointer]
+            - generic [ref=f81e103]:
+              - heading "Shopping cart climbs an upward trend arrow." [level=1] [ref=f81e105]
+              - paragraph [ref=f81e109]: Download this illustration of business, illustration, pink, and orange by HandRush Supply (@tehangat)
+              - generic [ref=f81e111]:
+                - generic [ref=f81e116]:
+                  - text: Published on
+                  - time [ref=f81e117]: April 26, 2025
+                - generic [ref=f81e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f81e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f81e124]:
+              - link "business" [ref=f81e125] [cursor=pointer]:
+                - /url: /s/illustrations/business
+              - link "illustration" [ref=f81e126] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "pink" [ref=f81e127] [cursor=pointer]:
+                - /url: /s/illustrations/pink
+              - link "orange" [ref=f81e128] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "purple" [ref=f81e129] [cursor=pointer]:
+                - /url: /s/illustrations/purple
+              - link "stock market" [ref=f81e130] [cursor=pointer]:
+                - /url: /s/illustrations/stock-market
+              - link "vector" [ref=f81e131] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "retail" [ref=f81e132] [cursor=pointer]:
+                - /url: /s/illustrations/retail
+              - link "business growth" [ref=f81e133] [cursor=pointer]:
+                - /url: /s/illustrations/business-growth
+              - link "shopping cart" [ref=f81e134] [cursor=pointer]:
+                - /url: /s/illustrations/shopping-cart
+              - link "boxes" [ref=f81e135] [cursor=pointer]:
+                - /url: /s/illustrations/boxes
+              - link "struggle" [ref=f81e136] [cursor=pointer]:
+                - /url: /s/illustrations/struggle
+              - link "commerce" [ref=f81e137] [cursor=pointer]:
+                - /url: /s/illustrations/commerce
+              - link "growth chart" [ref=f81e138] [cursor=pointer]:
+                - /url: /s/illustrations/growth-chart
+              - link "economic growth" [ref=f81e139] [cursor=pointer]:
+                - /url: /s/illustrations/economic-growth
+              - link "effort" [ref=f81e140] [cursor=pointer]:
+                - /url: /s/illustrations/effort
+              - link "financial crisis" [ref=f81e141] [cursor=pointer]:
+                - /url: /s/illustrations/financial-crisis
+              - link "global economy" [ref=f81e142] [cursor=pointer]:
+                - /url: /s/illustrations/global-economy
+              - link "upward trend" [ref=f81e143] [cursor=pointer]:
+                - /url: /s/illustrations/upward-trend
+              - link "pushing" [ref=f81e144] [cursor=pointer]:
+                - /url: /s/illustrations/pushing
+        - generic [ref=f81e147]:
+          - generic [ref=f81e148]:
+            - paragraph [ref=f81e150]: From this series
+            - generic [ref=f81e153]:
+              - generic [ref=f81e154]:
+                - link [ref=f81e155] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Ffinancial-losses-cause-a-dramatic-downfall-FWHkkjwXRSg
+                - link [ref=f81e158]:
+                  - /url: /illustrations/financial-losses-cause-a-dramatic-downfall-FWHkkjwXRSg
+                  - img "Financial losses cause a dramatic downfall." [ref=f81e159]
+              - generic [ref=f81e160]:
+                - link [ref=f81e161] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fbusiness-down-man-trying-to-hold-on-0YipFA1NhBg
+                - link [ref=f81e164]:
+                  - /url: /illustrations/business-down-man-trying-to-hold-on-0YipFA1NhBg
+                  - img "Business down, man trying to hold on." [ref=f81e165]
+              - generic [ref=f81e166]:
+                - link [ref=f81e167] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fpeople-try-to-stabilize-a-falling-stock-chart-Dy4_wQzmebE
+                - link [ref=f81e170]:
+                  - /url: /illustrations/people-try-to-stabilize-a-falling-stock-chart-Dy4_wQzmebE
+                  - img "People try to stabilize a falling stock chart." [ref=f81e171]
+          - generic [ref=f81e172]:
+            - heading "Related images" [level=4] [ref=f81e174]
+            - generic [ref=f81e178]:
+              - generic [ref=f81e179]:
+                - figure [ref=f81e180]:
+                  - generic [ref=f81e182]:
+                    - link [ref=f81e183]:
+                      - /url: /illustrations/rising-prices-are-increasing-and-affecting-shoppers-R_IwA50vJ3c
+                      - img "Rising prices are increasing and affecting shoppers." [ref=f81e184]
+                    - link [ref=f81e185] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Frising-prices-are-increasing-and-affecting-shoppers-R_IwA50vJ3c
+                - figure [ref=f81e188]:
+                  - generic [ref=f81e190]:
+                    - link [ref=f81e191]:
+                      - /url: /illustrations/housing-prices-are-rising-in-the-market-KCFnEekneaA
+                      - img "Housing prices are rising in the market." [ref=f81e192]
+                    - link [ref=f81e193] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhousing-prices-are-rising-in-the-market-KCFnEekneaA
+                - figure [ref=f81e196]:
+                  - generic [ref=f81e198]:
+                    - link [ref=f81e199]:
+                      - /url: /illustrations/a-woman-pushing-a-shopping-cart-next-to-a-stack-of-coins-a60AqrnWFxs
+                      - img "A woman pushing a shopping cart next to a stack of coins" [ref=f81e200]
+                    - link [ref=f81e201] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-pushing-a-shopping-cart-next-to-a-stack-of-coins-a60AqrnWFxs
+                - figure [ref=f81e204]:
+                  - generic [ref=f81e206]:
+                    - link [ref=f81e207]:
+                      - /url: /illustrations/a-man-sitting-on-the-ground-with-money-falling-from-his-head-9lvzW0qVwJU
+                      - img "A man sitting on the ground with money falling from his head" [ref=f81e208]
+                    - link [ref=f81e209] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-on-the-ground-with-money-falling-from-his-head-9lvzW0qVwJU
+                - figure [ref=f81e212]:
+                  - generic [ref=f81e214]:
+                    - link [ref=f81e215]:
+                      - /url: /illustrations/businessman-tries-stick-to-push-up-red-arrow-graph-business-growth-idea-symbol-of-success-ambition-and-motivation-illustration-vector-eps10-6GNhdMIiyRM
+                      - img "Businessman tries stick to push up red arrow graph. business growth idea symbol of success Ambition and Motivation. Illustration vector Eps10" [ref=f81e216]
+                    - link [ref=f81e217] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fbusinessman-tries-stick-to-push-up-red-arrow-graph-business-growth-idea-symbol-of-success-ambition-and-motivation-illustration-vector-eps10-6GNhdMIiyRM
+                - figure [ref=f81e220]:
+                  - generic [ref=f81e222]:
+                    - link [ref=f81e223]:
+                      - /url: /illustrations/a-man-falling-down-a-red-arrow-with-money-coming-out-of-it-8cc1YoVIOb8
+                      - img "A man falling down a red arrow with money coming out of it" [ref=f81e224]
+                    - link [ref=f81e225] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-falling-down-a-red-arrow-with-money-coming-out-of-it-8cc1YoVIOb8
+                - figure [ref=f81e228]:
+                  - generic [ref=f81e230]:
+                    - link [ref=f81e231]:
+                      - /url: /illustrations/bankruptcy-business-administration-businessman-and-businesswoman-falling-from-down-arrow-chart-coin-spreads-recessions-crises-and-financial-losses-in-the-trading-market-illustration-vector-eps10-8IWnPOOhbz8
+                      - img "Bankruptcy business administration Businessman and Businesswoman falling from down arrow chart Coin spreads, recessions, crises and financial losses in the trading market. illustration vector Eps10" [ref=f81e232]
+                    - link [ref=f81e233] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fbankruptcy-business-administration-businessman-and-businesswoman-falling-from-down-arrow-chart-coin-spreads-recessions-crises-and-financial-losses-in-the-trading-market-illustration-vector-eps10-8IWnPOOhbz8
+              - generic [ref=f81e236]:
+                - figure [ref=f81e237]:
+                  - generic [ref=f81e239]:
+                    - link [ref=f81e240]:
+                      - /url: /illustrations/a-man-falling-down-a-graph-with-a-shopping-cart-on-top-of-it-vuvvCiNjCqc
+                      - img "A man falling down a graph with a shopping cart on top of it" [ref=f81e241]
+                    - link [ref=f81e242] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-falling-down-a-graph-with-a-shopping-cart-on-top-of-it-vuvvCiNjCqc
+                - figure [ref=f81e245]:
+                  - generic [ref=f81e247]:
+                    - link [ref=f81e248]:
+                      - /url: /illustrations/a-man-standing-on-top-of-a-bar-chart-oZ468Ph4reA
+                      - img "A man standing on top of a bar chart" [ref=f81e249]
+                    - link [ref=f81e250] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-standing-on-top-of-a-bar-chart-oZ468Ph4reA
+                - figure [ref=f81e253]:
+                  - generic [ref=f81e255]:
+                    - link [ref=f81e256]:
+                      - /url: /illustrations/young-man-and-woman-business-characters-work-on-laptop-look-on-computer-monitor-sitting-on-growing-arrow-chart-learing-business-financial-data-analysis-graphs-cartoon-people-vector-illustration-Ssb2N5A7FaY
+                      - img "Young Man and Woman Business Characters Work on Laptop Look on Computer Monitor Sitting on Growing Arrow Chart Learing Business Financial Data Analysis Graphs. Cartoon People Vector Illustration" [ref=f81e257]
+                    - link [ref=f81e258] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fyoung-man-and-woman-business-characters-work-on-laptop-look-on-computer-monitor-sitting-on-growing-arrow-chart-learing-business-financial-data-analysis-graphs-cartoon-people-vector-illustration-Ssb2N5A7FaY
+                - figure [ref=f81e261]:
+                  - generic [ref=f81e263]:
+                    - link [ref=f81e264]:
+                      - /url: /illustrations/a-man-is-jumping-over-a-bar-chart-2D467sQv7ys
+                      - img "A man is jumping over a bar chart" [ref=f81e265]
+                    - link [ref=f81e266] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-is-jumping-over-a-bar-chart-2D467sQv7ys
+                - figure [ref=f81e269]:
+                  - generic [ref=f81e271]:
+                    - link [ref=f81e272]:
+                      - /url: /illustrations/a-man-is-running-up-a-chart-with-money-CMLvdThA3cE
+                      - img "A man is running up a chart with money" [ref=f81e273]
+                    - link [ref=f81e274] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-is-running-up-a-chart-with-money-CMLvdThA3cE
+                - figure [ref=f81e277]:
+                  - generic [ref=f81e279]:
+                    - link [ref=f81e280]:
+                      - /url: /illustrations/woman-carrying-a-large-yellow-arrow-upwards-w_D0Rjl7cI0
+                      - img "Woman carrying a large yellow arrow upwards." [ref=f81e281]
+                    - link [ref=f81e282] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-carrying-a-large-yellow-arrow-upwards-w_D0Rjl7cI0
+              - generic [ref=f81e285]:
+                - figure [ref=f81e286]:
+                  - generic [ref=f81e288]:
+                    - link [ref=f81e289]:
+                      - /url: /illustrations/arrow-graph-of-rising-oil-prices-crude-oil-growth-from-war-crisis-at-record-high-businessmen-shocked-by-gallons-of-oil-on-higher-coins-isometric-vector-illustration-VNv49JGidyQ
+                      - img "Arrow graph of rising oil prices Crude Oil Growth from War Crisis at Record High Businessmen shocked by gallons of oil on higher coins. isometric vector illustration." [ref=f81e290]
+                    - link [ref=f81e291] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Farrow-graph-of-rising-oil-prices-crude-oil-growth-from-war-crisis-at-record-high-businessmen-shocked-by-gallons-of-oil-on-higher-coins-isometric-vector-illustration-VNv49JGidyQ
+                - figure [ref=f81e294]:
+                  - generic [ref=f81e296]:
+                    - link [ref=f81e297]:
+                      - /url: /illustrations/a-man-pushing-a-shopping-cart-up-a-red-arrow-zXohyA5ZYNM
+                      - img "A man pushing a shopping cart up a red arrow" [ref=f81e298]
+                    - link [ref=f81e299] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-pushing-a-shopping-cart-up-a-red-arrow-zXohyA5ZYNM
+                - figure [ref=f81e302]:
+                  - generic [ref=f81e304]:
+                    - link [ref=f81e305]:
+                      - /url: /illustrations/a-man-in-a-blue-jacket-is-running-with-money-eO09SEmnyC0
+                      - img "A man in a blue jacket is running with money" [ref=f81e306]
+                    - link [ref=f81e307] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-in-a-blue-jacket-is-running-with-money-eO09SEmnyC0
+                - figure [ref=f81e310]:
+                  - generic [ref=f81e312]:
+                    - link [ref=f81e313]:
+                      - /url: /illustrations/a-person-pushing-a-shopping-cart-with-a-percentage-sign-on-it-RO2KqlfdkoU
+                      - img "A person pushing a shopping cart with a percentage sign on it" [ref=f81e314]
+                    - link [ref=f81e315] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-pushing-a-shopping-cart-with-a-percentage-sign-on-it-RO2KqlfdkoU
+                - figure [ref=f81e318]:
+                  - generic [ref=f81e320]:
+                    - link [ref=f81e321]:
+                      - /url: /illustrations/a-man-pushing-a-shopping-cart-filled-with-money-kroQz2HIWvA
+                      - img "A man pushing a shopping cart filled with money" [ref=f81e322]
+                    - link [ref=f81e323] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-pushing-a-shopping-cart-filled-with-money-kroQz2HIWvA
+                - figure [ref=f81e326]:
+                  - generic [ref=f81e328]:
+                    - link [ref=f81e329]:
+                      - /url: /illustrations/a-man-jumping-over-a-red-arrow-with-money-coming-out-of-it-y5kM4_oLUvc
+                      - img "A man jumping over a red arrow with money coming out of it" [ref=f81e330]
+                    - link [ref=f81e331] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-jumping-over-a-red-arrow-with-money-coming-out-of-it-y5kM4_oLUvc
+                - figure [ref=f81e334]:
+                  - generic [ref=f81e336]:
+                    - link [ref=f81e337]:
+                      - /url: /illustrations/a-man-sitting-on-top-of-a-pile-of-money-V7qTk5-72Tc
+                      - img "A man sitting on top of a pile of money" [ref=f81e338]
+                    - link [ref=f81e339] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-on-top-of-a-pile-of-money-V7qTk5-72Tc
+    - generic:
+      - region "Notifications"

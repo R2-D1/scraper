@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-15783146",
+  "mediaKey": "pexels:15783146",
+  "i18n": {
+    "name": {
+      "en": "Makeup artist applying eye makeup",
+      "uk": "Візажист наносить макіяж очей"
+    },
+    "alt": {
+      "en": "Close-up of a woman with makeup and piercing, reflected in a mirror.",
+      "uk": "Крупний план жінки з макіяжем і пірсингом, що відбивається у дзеркалі."
+    },
+    "tags": [
+      {
+        "key": "makeup",
+        "i18n": {
+          "en": "makeup",
+          "uk": "макіяж"
+        }
+      },
+      {
+        "key": "makeup-artist",
+        "i18n": {
+          "en": "makeup artist",
+          "uk": "візажист"
+        }
+      },
+      {
+        "key": "eyeshadow",
+        "i18n": {
+          "en": "eyeshadow",
+          "uk": "тіні для повік"
+        }
+      },
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "beauty"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-face-with-makeup-15783146/",
+  "sourceName": "Pexels",
+  "authorName": "Mohammadreza Babaei",
+  "authorUrl": "https://www.pexels.com/@mohammadrezababaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

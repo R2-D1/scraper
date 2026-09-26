@@ -1,0 +1,90 @@
+{
+  "slug": "const-3d-cad",
+  "mediaKey": "755f7a5a-4e4f-4a95-ad45-7b8bb7e89450",
+  "i18n": {
+    "name": {
+      "en": "3D CAD",
+      "uk": "3D-САПР"
+    },
+    "alt": {
+      "en": "3D CAD",
+      "uk": "3D-САПР"
+    },
+    "tags": [
+      {
+        "key": "architecture",
+        "i18n": {
+          "en": "architecture",
+          "uk": "архітектура"
+        }
+      },
+      {
+        "key": "cad",
+        "i18n": {
+          "en": "cad",
+          "uk": "CAD"
+        }
+      },
+      {
+        "key": "computer",
+        "i18n": {
+          "en": "computer",
+          "uk": "комп'ютер"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      },
+      {
+        "key": "screen",
+        "i18n": {
+          "en": "screen",
+          "uk": "екран"
+        }
+      },
+      {
+        "key": "wireframe",
+        "i18n": {
+          "en": "wireframe",
+          "uk": "каркас"
+        }
+      },
+      {
+        "key": "model",
+        "i18n": {
+          "en": "model",
+          "uk": "модель"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/const-3d-cad",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "investment-portfolio",
+  "mediaKey": "f17a7859-f9e3-4500-8c07-5d8763a969b7",
+  "i18n": {
+    "name": {
+      "en": "Investment Portfolio",
+      "uk": "Інвестиційний портфель"
+    },
+    "alt": {
+      "en": "Investment Portfolio",
+      "uk": "Інвестиційний портфель"
+    },
+    "tags": [
+      {
+        "key": "portfolio",
+        "i18n": {
+          "en": "portfolio",
+          "uk": "портфоліо"
+        }
+      },
+      {
+        "key": "investments",
+        "i18n": {
+          "en": "investments",
+          "uk": "інвестиції"
+        }
+      },
+      {
+        "key": "diversify",
+        "i18n": {
+          "en": "diversify",
+          "uk": "диверсифікація"
+        }
+      },
+      {
+        "key": "assets",
+        "i18n": {
+          "en": "assets",
+          "uk": "ресурси"
+        }
+      },
+      {
+        "key": "dashboard",
+        "i18n": {
+          "en": "dashboard",
+          "uk": "приладова панель"
+        }
+      },
+      {
+        "key": "stock",
+        "i18n": {
+          "en": "stock",
+          "uk": "запас"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/investment-portfolio",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

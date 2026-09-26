@@ -1,0 +1,49 @@
+{
+  "slug": "netflix-qmju",
+  "mediaKey": "55bda9e6-6ab9-4aca-9eb1-70eecb51abae",
+  "providerId": "5d9647b083c537001573246a",
+  "i18n": {
+    "name": {
+      "en": "Netflix",
+      "uk": "Netflix"
+    },
+    "alt": {
+      "en": "Netflix",
+      "uk": "Netflix"
+    },
+    "tags": [
+      {
+        "key": "netflix",
+        "i18n": {
+          "en": "Netflix",
+          "uk": "Netflix"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/netflix_qmju.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1004,
+  "height": 712
+}

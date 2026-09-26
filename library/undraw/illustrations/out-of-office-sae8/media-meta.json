@@ -1,0 +1,63 @@
+{
+  "slug": "out-of-office-sae8",
+  "mediaKey": "f99d6c52-8db0-47a0-9876-609204a9c80c",
+  "providerId": "697be6118c5e9e73cee4505f",
+  "i18n": {
+    "name": {
+      "en": "Out of Office",
+      "uk": "Відсутність на роботі"
+    },
+    "alt": {
+      "en": "Out of Office",
+      "uk": "Відсутність на роботі"
+    },
+    "tags": [
+      {
+        "key": "out-of-office",
+        "i18n": {
+          "en": "Out of Office",
+          "uk": "Відсутність на роботі"
+        }
+      },
+      {
+        "key": "out",
+        "i18n": {
+          "en": "out",
+          "uk": "поза"
+        }
+      },
+      {
+        "key": "office",
+        "i18n": {
+          "en": "office",
+          "uk": "Office"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/out-of-office_sae8.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 660
+}

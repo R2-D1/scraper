@@ -1,0 +1,90 @@
+{
+  "slug": "security-zero-trust",
+  "mediaKey": "24883985-790c-42bf-a631-6c3217479956",
+  "i18n": {
+    "name": {
+      "en": "Zero Trust",
+      "uk": "«Нульова довіра»"
+    },
+    "alt": {
+      "en": "Zero Trust",
+      "uk": "«Нульова довіра»"
+    },
+    "tags": [
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "zero",
+        "i18n": {
+          "en": "zero",
+          "uk": "нуль"
+        }
+      },
+      {
+        "key": "trust",
+        "i18n": {
+          "en": "trust",
+          "uk": "довіра"
+        }
+      },
+      {
+        "key": "gate",
+        "i18n": {
+          "en": "gate",
+          "uk": "ворота"
+        }
+      },
+      {
+        "key": "verify",
+        "i18n": {
+          "en": "verify",
+          "uk": "перевірити"
+        }
+      },
+      {
+        "key": "auth",
+        "i18n": {
+          "en": "auth",
+          "uk": "авт"
+        }
+      },
+      {
+        "key": "eye",
+        "i18n": {
+          "en": "eye",
+          "uk": "око"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/security-zero-trust",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

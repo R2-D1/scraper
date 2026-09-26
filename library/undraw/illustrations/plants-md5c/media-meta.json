@@ -1,0 +1,49 @@
+{
+  "slug": "plants-md5c",
+  "mediaKey": "346de166-8530-4bda-b011-62a51ca8e04d",
+  "providerId": "6a4d7cec939aab611cf25c65",
+  "i18n": {
+    "name": {
+      "en": "Plants",
+      "uk": "Рослини"
+    },
+    "alt": {
+      "en": "Plants",
+      "uk": "Рослини"
+    },
+    "tags": [
+      {
+        "key": "plants",
+        "i18n": {
+          "en": "Plants",
+          "uk": "Рослини"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/plants_md5c.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 501
+}

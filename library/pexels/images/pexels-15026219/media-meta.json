@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-15026219",
+  "mediaKey": "pexels:15026219",
+  "i18n": {
+    "name": {
+      "en": "Hiker looking across a misty mountain landscape",
+      "uk": "Турист, що споглядає туманний гірський пейзаж"
+    },
+    "alt": {
+      "en": "Backpacker enjoying a hike in the mountains with stunning cloud and peak views.",
+      "uk": "Мандрівник, який насолоджується походом у горах, милуючись приголомшливими краєвидами хмар і гірських вершин."
+    },
+    "tags": [
+      {
+        "key": "hiker",
+        "i18n": {
+          "en": "hiker",
+          "uk": "турист"
+        }
+      },
+      {
+        "key": "mountains",
+        "i18n": {
+          "en": "mountains",
+          "uk": "гори"
+        }
+      },
+      {
+        "key": "mist",
+        "i18n": {
+          "en": "mist",
+          "uk": "імла"
+        }
+      },
+      {
+        "key": "landscape",
+        "i18n": {
+          "en": "landscape",
+          "uk": "пейзаж"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "outdoors",
+        "i18n": {
+          "en": "outdoors",
+          "uk": "на відкритому повітрі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "travel"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/backpacker-hiking-in-mountains-15026219/",
+  "sourceName": "Pexels",
+  "authorName": "Yogendra  Singh",
+  "authorUrl": "https://www.pexels.com/@yogendras31",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

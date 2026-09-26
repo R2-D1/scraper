@@ -1,0 +1,63 @@
+{
+  "slug": "windy-day-xe10",
+  "mediaKey": "6a9ddf0f-1b71-41cb-8056-a458ba54f5ed",
+  "providerId": "5d892f88edc5bb001526f110",
+  "i18n": {
+    "name": {
+      "en": "Windy day",
+      "uk": "Вітряний день"
+    },
+    "alt": {
+      "en": "Windy day",
+      "uk": "Вітряний день"
+    },
+    "tags": [
+      {
+        "key": "windy-day",
+        "i18n": {
+          "en": "Windy day",
+          "uk": "Вітряний день"
+        }
+      },
+      {
+        "key": "windy",
+        "i18n": {
+          "en": "windy",
+          "uk": "Windy"
+        }
+      },
+      {
+        "key": "day",
+        "i18n": {
+          "en": "day",
+          "uk": "день"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/windy-day_xe10.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1099,
+  "height": 826
+}

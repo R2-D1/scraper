@@ -1,0 +1,49 @@
+{
+  "slug": "avatars-xsfb",
+  "mediaKey": "4a8e9bbe-e976-4441-9983-ee0ef15b3fdc",
+  "providerId": "67c0ee349e8d2ce76fec4e58",
+  "i18n": {
+    "name": {
+      "en": "Avatars",
+      "uk": "Аватари"
+    },
+    "alt": {
+      "en": "Avatars",
+      "uk": "Аватари"
+    },
+    "tags": [
+      {
+        "key": "avatars",
+        "i18n": {
+          "en": "Avatars",
+          "uk": "Аватари"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/avatars_xsfb.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 799,
+  "height": 552
+}

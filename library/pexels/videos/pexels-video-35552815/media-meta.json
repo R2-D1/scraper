@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-35552815",
+  "mediaKey": "pexels:video:35552815",
+  "i18n": {
+    "name": {
+      "en": "Floating Dust in Darkness",
+      "uk": "Плавучий пил у темряві"
+    },
+    "alt": {
+      "en": "Pexels video 35552815",
+      "uk": "Відео з Pexels № 35552815"
+    },
+    "tags": [
+      {
+        "key": "dust",
+        "i18n": {
+          "en": "dust",
+          "uk": "пил"
+        }
+      },
+      {
+        "key": "particles",
+        "i18n": {
+          "en": "particles",
+          "uk": "частинки"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "floating",
+        "i18n": {
+          "en": "floating",
+          "uk": "плаваючий"
+        }
+      },
+      {
+        "key": "atmospheric",
+        "i18n": {
+          "en": "atmospheric",
+          "uk": "атмосферний"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/abstract-falling-snow-particles-on-black-background-35552815/",
+  "sourceName": "Pexels",
+  "authorName": "T Honkamies",
+  "authorUrl": "https://www.pexels.com/@honkamies",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 69,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

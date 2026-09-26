@@ -1,0 +1,63 @@
+{
+  "slug": "landing-page-zc5e",
+  "mediaKey": "942a8a9c-7212-41ee-8302-63ee69c90964",
+  "providerId": "691f99f7185332b54e55d265",
+  "i18n": {
+    "name": {
+      "en": "Landing Page",
+      "uk": "Початкова сторінка"
+    },
+    "alt": {
+      "en": "Landing Page",
+      "uk": "Початкова сторінка"
+    },
+    "tags": [
+      {
+        "key": "landing-page",
+        "i18n": {
+          "en": "Landing Page",
+          "uk": "Початкова сторінка"
+        }
+      },
+      {
+        "key": "landing",
+        "i18n": {
+          "en": "landing",
+          "uk": "посадка"
+        }
+      },
+      {
+        "key": "page",
+        "i18n": {
+          "en": "page",
+          "uk": "сторінка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/landing-page_zc5e.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 613
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "code-sample-kpju",
+  "mediaKey": "194fd0c9-a9d4-4289-82bf-9e89a0b6edbc",
+  "providerId": "69e010a479740242d59ddae9",
+  "i18n": {
+    "name": {
+      "en": "Code Sample",
+      "uk": "Приклад коду"
+    },
+    "alt": {
+      "en": "Code Sample",
+      "uk": "Приклад коду"
+    },
+    "tags": [
+      {
+        "key": "code-sample",
+        "i18n": {
+          "en": "Code Sample",
+          "uk": "Приклад коду"
+        }
+      },
+      {
+        "key": "code",
+        "i18n": {
+          "en": "code",
+          "uk": "код"
+        }
+      },
+      {
+        "key": "sample",
+        "i18n": {
+          "en": "sample",
+          "uk": "зразок"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/code-sample_kpju.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 880,
+  "height": 608
+}

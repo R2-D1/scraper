@@ -1,0 +1,63 @@
+{
+  "slug": "phone-call-ov3z",
+  "mediaKey": "cc74b802-cf2a-465a-b607-a140e612fb0a",
+  "providerId": "67edaa7184ae746fa5d284c6",
+  "i18n": {
+    "name": {
+      "en": "Phone Call",
+      "uk": "Телефонний дзвінок"
+    },
+    "alt": {
+      "en": "Phone Call",
+      "uk": "Телефонний дзвінок"
+    },
+    "tags": [
+      {
+        "key": "phone-call",
+        "i18n": {
+          "en": "Phone Call",
+          "uk": "Телефонний дзвінок"
+        }
+      },
+      {
+        "key": "phone",
+        "i18n": {
+          "en": "phone",
+          "uk": "телефон"
+        }
+      },
+      {
+        "key": "call",
+        "i18n": {
+          "en": "call",
+          "uk": "виклик"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/phone-call_ov3z.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 501,
+  "height": 800
+}

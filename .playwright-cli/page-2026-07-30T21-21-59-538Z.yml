@@ -1,0 +1,261 @@
+- generic [ref=f107e4]:
+  - navigation [ref=f107e5]:
+    - generic [ref=f107e6]:
+      - generic [ref=f107e7]:
+        - link "Unsplash Home" [ref=f107e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f107e9]
+        - link "Photos" [ref=f107e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f107e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f107e17]:
+        - button "Explore" [ref=f107e18] [cursor=pointer]
+        - button "Collections" [ref=f107e21] [cursor=pointer]
+        - button "Download History" [ref=f107e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f107e28] [cursor=pointer]
+    - generic [ref=f107e31]:
+      - link "Log in / Sign up" [ref=f107e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-man-and-a-woman-dancing-in-front-of-a-disco-ball-XRfHcbboUlk
+      - button "Language" [ref=f107e35] [cursor=pointer]
+      - button "Menu" [ref=f107e38] [cursor=pointer]
+  - generic [ref=f107e41]:
+    - generic [ref=f107e42]:
+      - navigation [ref=f107e43]:
+        - search "Find visuals sitewide" [ref=f107e45]:
+          - button "Search Unsplash" [ref=f107e46] [cursor=pointer]
+          - combobox [ref=f107e49]:
+            - searchbox "Search Unsplash" [ref=f107e50]
+            - listbox
+          - button "Visual search" [ref=f107e52] [cursor=pointer]
+        - generic [ref=f107e55]:
+          - link "Get Unsplash+" [ref=f107e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f107e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-man-and-a-woman-dancing-in-front-of-a-disco-ball-XRfHcbboUlk
+        - button "Submit an image" [ref=f107e59] [cursor=pointer]
+      - generic [ref=f107e60]:
+        - generic [ref=f107e61]:
+          - banner [ref=f107e63]:
+            - generic [ref=f107e65]:
+              - link [ref=f107e66] [cursor=pointer]:
+                - /url: /@byyuniaz/illustrations
+              - generic [ref=f107e69]:
+                - link "By Yuniaz" [ref=f107e70] [cursor=pointer]:
+                  - /url: /@byyuniaz/illustrations
+                - generic [ref=f107e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f107e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-dancing-in-front-of-a-disco-ball-XRfHcbboUlk
+            - generic [ref=f107e73]:
+              - button "Bookmark" [ref=f107e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f107e77] [cursor=pointer]
+              - button "Edit image" [ref=f107e80] [cursor=pointer]
+              - button "Download" [ref=f107e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f107e90]:
+            - img "a man and a woman dancing in front of a disco ball" [ref=f107e91]
+          - generic [ref=f107e92]:
+            - generic [ref=f107e94]:
+              - button "Share this image" [ref=f107e95] [cursor=pointer]:
+                - generic [ref=f107e98]: Share
+              - button "More Actions" [ref=f107e99] [cursor=pointer]
+            - generic [ref=f107e103]:
+              - heading "a man and a woman dancing in front of a disco ball" [level=1] [ref=f107e105]
+              - paragraph [ref=f107e109]: Download this illustration of couple, love, illustration, and wedding by By Yuniaz (@byyuniaz)
+              - generic [ref=f107e111]:
+                - generic [ref=f107e116]:
+                  - text: Published on
+                  - time [ref=f107e117]: June 13, 2024
+                - generic [ref=f107e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f107e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f107e124]:
+              - link "couple" [ref=f107e125] [cursor=pointer]:
+                - /url: /s/illustrations/couple
+              - link "love" [ref=f107e126] [cursor=pointer]:
+                - /url: /s/illustrations/love
+              - link "illustration" [ref=f107e127] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "wedding" [ref=f107e128] [cursor=pointer]:
+                - /url: /s/illustrations/wedding
+              - link "party" [ref=f107e129] [cursor=pointer]:
+                - /url: /s/illustrations/party
+              - link "event" [ref=f107e130] [cursor=pointer]:
+                - /url: /s/illustrations/event
+              - link "celebration" [ref=f107e131] [cursor=pointer]:
+                - /url: /s/illustrations/celebration
+              - link "vector" [ref=f107e132] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "wedding couple" [ref=f107e133] [cursor=pointer]:
+                - /url: /s/illustrations/wedding-couple
+              - link "romance" [ref=f107e134] [cursor=pointer]:
+                - /url: /s/illustrations/romance
+              - link "joy" [ref=f107e135] [cursor=pointer]:
+                - /url: /s/illustrations/joy
+              - link "happiness" [ref=f107e136] [cursor=pointer]:
+                - /url: /s/illustrations/happiness
+              - link "dancing" [ref=f107e137] [cursor=pointer]:
+                - /url: /s/illustrations/dancing
+              - link "relationship" [ref=f107e138] [cursor=pointer]:
+                - /url: /s/illustrations/relationship
+              - link "marriage" [ref=f107e139] [cursor=pointer]:
+                - /url: /s/illustrations/marriage
+              - link "suit" [ref=f107e140] [cursor=pointer]:
+                - /url: /s/illustrations/suit
+              - link "bride" [ref=f107e141] [cursor=pointer]:
+                - /url: /s/illustrations/bride
+              - link "disco ball" [ref=f107e142] [cursor=pointer]:
+                - /url: /s/illustrations/disco-ball
+              - link "entertainment" [ref=f107e143] [cursor=pointer]:
+                - /url: /s/illustrations/entertainment
+              - link "togetherness" [ref=f107e144] [cursor=pointer]:
+                - /url: /s/illustrations/togetherness
+        - generic [ref=f107e148]:
+          - heading "Related images" [level=4] [ref=f107e150]
+          - generic [ref=f107e154]:
+            - generic [ref=f107e155]:
+              - figure [ref=f107e156]:
+                - generic [ref=f107e158]:
+                  - link [ref=f107e159]:
+                    - /url: /illustrations/a-couple-of-people-that-are-standing-in-front-of-a-ball-v-y00-zCRiI
+                    - img "A couple of people that are standing in front of a ball" [ref=f107e160]
+                  - link [ref=f107e161] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-couple-of-people-that-are-standing-in-front-of-a-ball-v-y00-zCRiI
+              - figure [ref=f107e164]:
+                - generic [ref=f107e166]:
+                  - link [ref=f107e167]:
+                    - /url: /illustrations/couple-dancing-vibrant-latin-music-with-spotlights-Pyp1AgCvAAI
+                    - img "Couple dancing vibrant latin music with spotlights" [ref=f107e168]
+                  - link [ref=f107e169] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcouple-dancing-vibrant-latin-music-with-spotlights-Pyp1AgCvAAI
+              - figure [ref=f107e172]:
+                - generic [ref=f107e174]:
+                  - link [ref=f107e175]:
+                    - /url: /illustrations/a-couple-of-women-standing-on-top-of-a-runway-59hdRccwtZY
+                    - img "A couple of women standing on top of a runway" [ref=f107e176]
+                  - link [ref=f107e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-couple-of-women-standing-on-top-of-a-runway-59hdRccwtZY
+              - figure [ref=f107e180]:
+                - generic [ref=f107e182]:
+                  - link [ref=f107e183]:
+                    - /url: /illustrations/couple-dancing-lively-latin-dance-against-pink-background-iDmp00A5REE
+                    - img "Couple dancing lively latin dance against pink background" [ref=f107e184]
+                  - link [ref=f107e185] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcouple-dancing-lively-latin-dance-against-pink-background-iDmp00A5REE
+              - figure [ref=f107e188]:
+                - generic [ref=f107e190]:
+                  - link [ref=f107e191]:
+                    - /url: /illustrations/a-couple-dancing-on-a-red-carpet-in-front-of-a-stage-J5v9zWZrivk
+                    - img "A couple dancing on a red carpet in front of a stage" [ref=f107e192]
+                  - link [ref=f107e193] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-couple-dancing-on-a-red-carpet-in-front-of-a-stage-J5v9zWZrivk
+              - figure [ref=f107e196]:
+                - generic [ref=f107e198]:
+                  - link [ref=f107e199]:
+                    - /url: /illustrations/a-man-in-a-yellow-suit-is-dancing-Ns1xmSovSpg
+                    - img "A man in a yellow suit is dancing" [ref=f107e200]
+                  - link [ref=f107e201] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-in-a-yellow-suit-is-dancing-Ns1xmSovSpg
+              - figure [ref=f107e204]:
+                - generic [ref=f107e206]:
+                  - link [ref=f107e207]:
+                    - /url: /illustrations/a-couple-of-people-standing-next-to-each-other-on-a-red-carpet-db_nsunyvr4
+                    - img "A couple of people standing next to each other on a red carpet" [ref=f107e208]
+                  - link [ref=f107e209] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-couple-of-people-standing-next-to-each-other-on-a-red-carpet-db_nsunyvr4
+            - generic [ref=f107e212]:
+              - figure [ref=f107e213]:
+                - generic [ref=f107e215]:
+                  - link [ref=f107e216]:
+                    - /url: /illustrations/a-couple-of-people-that-are-playing-with-a-ball-xSH8mto1lNY
+                    - img "A couple of people that are playing with a ball" [ref=f107e217]
+                  - link [ref=f107e218] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-couple-of-people-that-are-playing-with-a-ball-xSH8mto1lNY
+              - figure [ref=f107e221]:
+                - generic [ref=f107e223]:
+                  - link [ref=f107e224]:
+                    - /url: /illustrations/a-man-and-a-woman-dancing-with-a-disco-ball-in-the-background---upJl4TA4M
+                    - img "A man and a woman dancing with a disco ball in the background" [ref=f107e225]
+                  - link [ref=f107e226] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-dancing-with-a-disco-ball-in-the-background---upJl4TA4M
+              - figure [ref=f107e229]:
+                - generic [ref=f107e231]:
+                  - link [ref=f107e232]:
+                    - /url: /illustrations/a-newly-married-couple-dances-under-a-disco-ball-EH9uCu09PVI
+                    - img "A newly married couple dances under a disco ball." [ref=f107e233]
+                  - link [ref=f107e234] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-newly-married-couple-dances-under-a-disco-ball-EH9uCu09PVI
+              - figure [ref=f107e237]:
+                - generic [ref=f107e239]:
+                  - link [ref=f107e240]:
+                    - /url: /illustrations/happy-newlywed-couple-perform-wedding-dancing-during-celebration-concept-just-married-bride-and-groom-characters-dance-marriage-ceremony-husband-and-wife-waltz-cartoon-people-vector-illustration-SUh6cXBr9gA
+                    - img "Happy Newlywed Couple Perform Wedding Dancing during Celebration Concept. Just Married Bride and Groom Characters Dance, Marriage Ceremony, Husband and Wife Waltz. Cartoon People Vector Illustration" [ref=f107e241]
+                  - link [ref=f107e242] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhappy-newlywed-couple-perform-wedding-dancing-during-celebration-concept-just-married-bride-and-groom-characters-dance-marriage-ceremony-husband-and-wife-waltz-cartoon-people-vector-illustration-SUh6cXBr9gA
+              - figure [ref=f107e245]:
+                - generic [ref=f107e247]:
+                  - link [ref=f107e248]:
+                    - /url: /illustrations/two-people-are-dancing-on-a-record-player-mo1SI5zMYRk
+                    - img "Two people are dancing on a record player" [ref=f107e249]
+                  - link [ref=f107e250] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ftwo-people-are-dancing-on-a-record-player-mo1SI5zMYRk
+              - figure [ref=f107e253]:
+                - generic [ref=f107e255]:
+                  - link [ref=f107e256]:
+                    - /url: /illustrations/a-couple-of-men-standing-next-to-each-other-dly5xHk9qHI
+                    - img "A couple of men standing next to each other" [ref=f107e257]
+                  - link [ref=f107e258] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-couple-of-men-standing-next-to-each-other-dly5xHk9qHI
+            - generic [ref=f107e261]:
+              - figure [ref=f107e262]:
+                - generic [ref=f107e264]:
+                  - link [ref=f107e265]:
+                    - /url: /illustrations/a-man-and-a-woman-dancing-together-in-a-party-4tYXICcLMkQ
+                    - img "a man and a woman dancing together in a party" [ref=f107e266]
+                  - link [ref=f107e267] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-dancing-together-in-a-party-4tYXICcLMkQ
+              - figure [ref=f107e270]:
+                - generic [ref=f107e272]:
+                  - link [ref=f107e273]:
+                    - /url: /illustrations/two-people-dancing-with-a-disco-ball-hanging-from-the-ceiling-N4NXZ2bfymQ
+                    - img "Two people dancing with a disco ball hanging from the ceiling" [ref=f107e274]
+                  - link [ref=f107e275] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ftwo-people-dancing-with-a-disco-ball-hanging-from-the-ceiling-N4NXZ2bfymQ
+              - figure [ref=f107e278]:
+                - generic [ref=f107e280]:
+                  - link [ref=f107e281]:
+                    - /url: /illustrations/a-man-and-a-woman-dancing-on-a-dance-floor-jXeN9SsJmj4
+                    - img "A man and a woman dancing on a dance floor" [ref=f107e282]
+                  - link [ref=f107e283] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-a-woman-dancing-on-a-dance-floor-jXeN9SsJmj4
+              - figure [ref=f107e286]:
+                - generic [ref=f107e288]:
+                  - link [ref=f107e289]:
+                    - /url: /illustrations/people-dance-joyfully-at-a-disco-party-30CaxSYLxNc
+                    - img "People dance joyfully at a disco party." [ref=f107e290]
+                  - link [ref=f107e291] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fpeople-dance-joyfully-at-a-disco-party-30CaxSYLxNc
+              - figure [ref=f107e294]:
+                - generic [ref=f107e296]:
+                  - link [ref=f107e297]:
+                    - /url: /illustrations/a-group-of-people-holding-wine-glasses-in-front-of-a-globe-Db5e_p5IWJA
+                    - img "A group of people holding wine glasses in front of a globe" [ref=f107e298]
+                  - link [ref=f107e299] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-group-of-people-holding-wine-glasses-in-front-of-a-globe-Db5e_p5IWJA
+              - figure [ref=f107e302]:
+                - generic [ref=f107e304]:
+                  - link [ref=f107e305]:
+                    - /url: /illustrations/a-group-of-people-dancing-at-a-party-QaqJI8ITeZs
+                    - img "A group of people dancing at a party" [ref=f107e306]
+                  - link [ref=f107e307] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-group-of-people-dancing-at-a-party-QaqJI8ITeZs
+              - figure [ref=f107e310]:
+                - generic [ref=f107e312]:
+                  - link [ref=f107e313]:
+                    - /url: /illustrations/a-man-and-woman-dancing-salsa-under-spotlights-near-drums-rxXNVGwUE2M
+                    - img "A man and woman dancing salsa under spotlights near drums." [ref=f107e314]
+                  - link [ref=f107e315] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-woman-dancing-salsa-under-spotlights-near-drums-rxXNVGwUE2M
+    - generic:
+      - region "Notifications"

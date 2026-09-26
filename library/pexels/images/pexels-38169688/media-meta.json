@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-38169688",
+  "mediaKey": "pexels:38169688",
+  "i18n": {
+    "name": {
+      "en": "Woman's face in a dark green beauty portrait",
+      "uk": "Обличчя жінки в темно-зеленому портреті краси"
+    },
+    "alt": {
+      "en": "Portrait of a young woman in a blazer, exuding modern fashion and style.",
+      "uk": "Портрет молодої жінки в блейзері, що втілює сучасну моду та стиль."
+    },
+    "tags": [
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "face",
+        "i18n": {
+          "en": "face",
+          "uk": "обличчя"
+        }
+      },
+      {
+        "key": "makeup",
+        "i18n": {
+          "en": "makeup",
+          "uk": "макіяж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/stylish-young-woman-in-fashionable-attire-38169688/",
+  "sourceName": "Pexels",
+  "authorName": "Ola Szkolda",
+  "authorUrl": "https://www.pexels.com/@olaszkolda",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2027,
+  "height": 3040
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "goal-v712",
+  "mediaKey": "fa20b21c-cc2a-4aed-a6d1-c7dbf4aa41b6",
+  "providerId": "6a29dc1a939aab611cf25c45",
+  "i18n": {
+    "name": {
+      "en": "Goal",
+      "uk": "Мета"
+    },
+    "alt": {
+      "en": "Goal",
+      "uk": "Мета"
+    },
+    "tags": [
+      {
+        "key": "goal",
+        "i18n": {
+          "en": "Goal",
+          "uk": "Мета"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/goal_v712.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 484
+}

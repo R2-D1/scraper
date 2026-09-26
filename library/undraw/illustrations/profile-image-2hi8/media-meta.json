@@ -1,0 +1,63 @@
+{
+  "slug": "profile-image-2hi8",
+  "mediaKey": "2c68e321-6d7f-4434-a168-16aad5c063f7",
+  "providerId": "602fb23240bed50017fe607a",
+  "i18n": {
+    "name": {
+      "en": "Profile image",
+      "uk": "Аватар"
+    },
+    "alt": {
+      "en": "Profile image",
+      "uk": "Аватар"
+    },
+    "tags": [
+      {
+        "key": "profile-image",
+        "i18n": {
+          "en": "Profile image",
+          "uk": "Аватар"
+        }
+      },
+      {
+        "key": "profile",
+        "i18n": {
+          "en": "profile",
+          "uk": "профіль"
+        }
+      },
+      {
+        "key": "image",
+        "i18n": {
+          "en": "image",
+          "uk": "зображення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/profile-image_2hi8.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 742,
+  "height": 713
+}

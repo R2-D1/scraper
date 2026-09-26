@@ -1,0 +1,87 @@
+{
+  "slug": "decorated-horse-portrait-1ayli",
+  "mediaKey": "5c441dc7-3657-4aa8-93ef-7bf3bc10ee24",
+  "i18n": {
+    "name": {
+      "en": "Decorated Horse Portrait",
+      "uk": "Портрет прикрашеного коня"
+    },
+    "alt": {
+      "en": "Decorated Horse Portrait",
+      "uk": "Портрет прикрашеного коня"
+    },
+    "tags": [
+      {
+        "key": "decorative",
+        "i18n": {
+          "en": "Decorative",
+          "uk": "Декоративні"
+        }
+      },
+      {
+        "key": "horse",
+        "i18n": {
+          "en": "horse",
+          "uk": "кінь"
+        }
+      },
+      {
+        "key": "checkered-garment",
+        "i18n": {
+          "en": "checkered garment",
+          "uk": "одяг у клітинку"
+        }
+      },
+      {
+        "key": "lace-bonnet",
+        "i18n": {
+          "en": "lace bonnet",
+          "uk": "мереживна шапочка"
+        }
+      },
+      {
+        "key": "animals",
+        "i18n": {
+          "en": "Animals",
+          "uk": "Тварини"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "animals"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "SHIHO",
+  "authorUrl": "https://www.lummi.ai/creator/ms.designs.0711-fcesu?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A horse is adorned with an elaborate outfit, including a black-and-white checkered garment and a lace bonnet with floral embellishments. The horse's head is framed by a green background, emphasizing the contrast between the subject and the backdrop. The intricate details of the lace and the decorative headpiece add a whimsical and artistic touch to the scene. The horse's calm demeanor and the careful arrangement of the attire suggest a staged and creative photoshoot.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1984,
+  "height": 2400,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/decorated-horse-portrait-1ayli/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/decorated-horse-portrait-1ayli/decorated-horse-portrait-1ayli.png",
+  "relativeAssetPath": "library/lummi/images/decorated-horse-portrait-1ayli/decorated-horse-portrait-1ayli.png"
+}

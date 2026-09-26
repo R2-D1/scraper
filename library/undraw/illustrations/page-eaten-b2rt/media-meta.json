@@ -1,0 +1,63 @@
+{
+  "slug": "page-eaten-b2rt",
+  "mediaKey": "3b8b9dd2-9fa7-46b5-b797-15019f7ec5ad",
+  "providerId": "68015f62191609385b7ac230",
+  "i18n": {
+    "name": {
+      "en": "Page Eaten",
+      "uk": "Сторінка зникла"
+    },
+    "alt": {
+      "en": "Page Eaten",
+      "uk": "Сторінка зникла"
+    },
+    "tags": [
+      {
+        "key": "page-eaten",
+        "i18n": {
+          "en": "Page Eaten",
+          "uk": "Сторінка зникла"
+        }
+      },
+      {
+        "key": "page",
+        "i18n": {
+          "en": "page",
+          "uk": "сторінка"
+        }
+      },
+      {
+        "key": "eaten",
+        "i18n": {
+          "en": "eaten",
+          "uk": "з'їли"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/page-eaten_b2rt.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 645,
+  "height": 750
+}

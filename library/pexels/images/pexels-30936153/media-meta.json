@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-30936153",
+  "mediaKey": "pexels:30936153",
+  "i18n": {
+    "name": {
+      "en": "Woman resting beneath a sheer veil",
+      "uk": "Жінка відпочиває під напівпрозорою вуаллю"
+    },
+    "alt": {
+      "en": "Creative portrait of a woman in motion blur wearing ear muffs, evoking a winter mood.",
+      "uk": "Креативний портрет жінки з ефектом розмиття руху, яка носить навушники-шапочки, що створює зимовий настрій."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "veil",
+        "i18n": {
+          "en": "veil",
+          "uk": "вуаль"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/artistic-portrait-with-motion-blur-and-ear-muffs-30936153/",
+  "sourceName": "Pexels",
+  "authorName": "Jean-Daniel Francoeur",
+  "authorUrl": "https://www.pexels.com/@jean-daniel",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

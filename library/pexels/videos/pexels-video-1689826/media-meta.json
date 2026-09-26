@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-1689826",
+  "mediaKey": "pexels:video:1689826",
+  "i18n": {
+    "name": {
+      "en": "Yellow Chrysanthemums in Bloom",
+      "uk": "Жовті хризантеми у розквіті"
+    },
+    "alt": {
+      "en": "Pexels video 1689826",
+      "uk": "Відео з Pexels № 1689826"
+    },
+    "tags": [
+      {
+        "key": "flowers",
+        "i18n": {
+          "en": "flowers",
+          "uk": "квіти"
+        }
+      },
+      {
+        "key": "chrysanthemums",
+        "i18n": {
+          "en": "chrysanthemums",
+          "uk": "хризантеми"
+        }
+      },
+      {
+        "key": "yellow",
+        "i18n": {
+          "en": "yellow",
+          "uk": "жовтий"
+        }
+      },
+      {
+        "key": "blossoms",
+        "i18n": {
+          "en": "blossoms",
+          "uk": "цвітіння"
+        }
+      },
+      {
+        "key": "garden",
+        "i18n": {
+          "en": "garden",
+          "uk": "сад"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/a-bunch-of-beautiful-flowers-1689826/",
+  "sourceName": "Pexels",
+  "authorName": "Chris G",
+  "authorUrl": "https://www.pexels.com/@gochrisgoxyz",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 19,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

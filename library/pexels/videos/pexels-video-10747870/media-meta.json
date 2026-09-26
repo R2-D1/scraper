@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-10747870",
+  "mediaKey": "pexels:video:10747870",
+  "i18n": {
+    "name": {
+      "en": "Glowing Cyan Particle Wave",
+      "uk": "Сяюча хвиля частинок блакитного кольору"
+    },
+    "alt": {
+      "en": "Pexels video 10747870",
+      "uk": "Відео з Pexels № 10747870"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "cyan",
+        "i18n": {
+          "en": "cyan",
+          "uk": "бірюзовий"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "particles",
+        "i18n": {
+          "en": "particles",
+          "uk": "частинки"
+        }
+      },
+      {
+        "key": "wave",
+        "i18n": {
+          "en": "wave",
+          "uk": "хвиля"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "digital",
+        "i18n": {
+          "en": "digital",
+          "uk": "цифровий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/trippy-abstract-animation-10747870/",
+  "sourceName": "Pexels",
+  "authorName": "Merlin Lightpainting",
+  "authorUrl": "https://www.pexels.com/@merlin",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 61,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

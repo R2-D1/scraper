@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "groovy-doodle",
+  "mediaKey": "custom:content:31c1d6eec488032c8de8d1692ddf4e09abe0a36161ae8f510b24a16ddc8a0634",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "31c1d6eec488032c8de8d1692ddf4e09abe0a36161ae8f510b24a16ddc8a0634",
+  "i18n": {
+    "name": {
+      "en": "Groovy Doodle",
+      "uk": "Груві Дудл"
+    },
+    "alt": {
+      "en": "Groovy Doodle",
+      "uk": "Груві Дудл"
+    },
+    "tags": [
+      {
+        "key": "groovy",
+        "i18n": {
+          "en": "Groovy",
+          "uk": "Груві"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

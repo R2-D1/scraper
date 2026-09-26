@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-28952059",
+  "mediaKey": "pexels:28952059",
+  "i18n": {
+    "name": {
+      "en": "Tall green trees viewed from below",
+      "uk": "Високі зелені дерева, побачені знизу"
+    },
+    "alt": {
+      "en": "Detailed view of a vibrant green cactus under a clear blue sky.",
+      "uk": "Детальний вид на яскраво-зелений кактус під чистим блакитним небом."
+    },
+    "tags": [
+      {
+        "key": "trees",
+        "i18n": {
+          "en": "trees",
+          "uk": "дерева"
+        }
+      },
+      {
+        "key": "forest",
+        "i18n": {
+          "en": "forest",
+          "uk": "ліс"
+        }
+      },
+      {
+        "key": "tall-trees",
+        "i18n": {
+          "en": "tall trees",
+          "uk": "високі дерева"
+        }
+      },
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      },
+      {
+        "key": "landscape",
+        "i18n": {
+          "en": "landscape",
+          "uk": "пейзаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "nature"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/close-up-of-green-cactus-against-blue-sky-28952059/",
+  "sourceName": "Pexels",
+  "authorName": "Bruno Thethe",
+  "authorUrl": "https://www.pexels.com/@bruthethe",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

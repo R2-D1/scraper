@@ -1,0 +1,49 @@
+{
+  "slug": "create-8val",
+  "mediaKey": "153d829c-82f5-4bff-9fd7-bb21912ddc7d",
+  "providerId": "605b8c22cab56500172cb6e0",
+  "i18n": {
+    "name": {
+      "en": "Create",
+      "uk": "Створити"
+    },
+    "alt": {
+      "en": "Create",
+      "uk": "Створити"
+    },
+    "tags": [
+      {
+        "key": "create",
+        "i18n": {
+          "en": "Create",
+          "uk": "Створити"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/create_8val.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 922,
+  "height": 544
+}

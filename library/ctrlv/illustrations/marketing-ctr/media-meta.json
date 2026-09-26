@@ -1,0 +1,97 @@
+{
+  "slug": "marketing-ctr",
+  "mediaKey": "6af87ec0-3f72-4dce-a6b2-100f7dbfac25",
+  "i18n": {
+    "name": {
+      "en": "Click-Through Rate",
+      "uk": "Коефіцієнт кліків"
+    },
+    "alt": {
+      "en": "Click-Through Rate",
+      "uk": "Коефіцієнт кліків"
+    },
+    "tags": [
+      {
+        "key": "marketing",
+        "i18n": {
+          "en": "marketing",
+          "uk": "маркетинг"
+        }
+      },
+      {
+        "key": "ctr",
+        "i18n": {
+          "en": "ctr",
+          "uk": "ctr"
+        }
+      },
+      {
+        "key": "click",
+        "i18n": {
+          "en": "click",
+          "uk": "натисніть"
+        }
+      },
+      {
+        "key": "through",
+        "i18n": {
+          "en": "through",
+          "uk": "крізь"
+        }
+      },
+      {
+        "key": "rate",
+        "i18n": {
+          "en": "rate",
+          "uk": "швидкість"
+        }
+      },
+      {
+        "key": "arrow",
+        "i18n": {
+          "en": "arrow",
+          "uk": "стрілка"
+        }
+      },
+      {
+        "key": "cursor",
+        "i18n": {
+          "en": "cursor",
+          "uk": "курсор"
+        }
+      },
+      {
+        "key": "success",
+        "i18n": {
+          "en": "success",
+          "uk": "успіх"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/marketing-ctr",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

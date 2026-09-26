@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-3328337",
+  "mediaKey": "pexels:3328337",
+  "i18n": {
+    "name": {
+      "en": "Silhouette of a woman between red curtains",
+      "uk": "Силует жінки між червоними шторами"
+    },
+    "alt": {
+      "en": "Artistic silhouette of a person standing against a blurred neon pink light display.",
+      "uk": "Художній силует людини, що стоїть на тлі розмитого неонового рожевого світлового фону."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "silhouette",
+        "i18n": {
+          "en": "silhouette",
+          "uk": "силует"
+        }
+      },
+      {
+        "key": "red-curtains",
+        "i18n": {
+          "en": "red curtains",
+          "uk": "червоні штори"
+        }
+      },
+      {
+        "key": "stage",
+        "i18n": {
+          "en": "stage",
+          "uk": "сцена"
+        }
+      },
+      {
+        "key": "dramatic-light",
+        "i18n": {
+          "en": "dramatic light",
+          "uk": "драматичне світло"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-standing-beside-window-with-pink-curtain-3328337/",
+  "sourceName": "Pexels",
+  "authorName": "Hakeem James Hausley",
+  "authorUrl": "https://www.pexels.com/@jameshausley",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

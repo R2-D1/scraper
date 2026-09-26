@@ -1,0 +1,73 @@
+{
+  "slug": "gradient-color-background-srvq7",
+  "mediaKey": "2279c14a-7da0-4f7c-aa08-6d00a4f810ff",
+  "i18n": {
+    "name": {
+      "en": "Gradient Color Background",
+      "uk": "Фон із градієнтом кольорів"
+    },
+    "alt": {
+      "en": "Gradient Color Background",
+      "uk": "Фон із градієнтом кольорів"
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "Gradient",
+          "uk": "Градієнт"
+        }
+      },
+      {
+        "key": "warm-tones",
+        "i18n": {
+          "en": "warm tones",
+          "uk": "теплі тони"
+        }
+      },
+      {
+        "key": "cool-tones",
+        "i18n": {
+          "en": "cool tones",
+          "uk": "холодні відтінки"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Pablo Stanley",
+  "authorUrl": "https://www.lummi.ai/creator/pablostanley?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A gradient background transitioning smoothly from warm tones like yellow and orange on the bottom left to cool tones like blue and green on the top right. The colors blend seamlessly, creating a soft and visually pleasing effect.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1856,
+  "height": 2464,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/gradient-color-background-srvq7/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/gradient-color-background-srvq7/gradient-color-background-srvq7.png",
+  "relativeAssetPath": "library/lummi/images/gradient-color-background-srvq7/gradient-color-background-srvq7.png"
+}

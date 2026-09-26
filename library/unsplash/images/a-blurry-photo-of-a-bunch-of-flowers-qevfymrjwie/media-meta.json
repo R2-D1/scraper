@@ -1,0 +1,50 @@
+{
+  "slug": "a-blurry-photo-of-a-bunch-of-flowers-qevfymrjwie",
+  "mediaKey": "f060e856-5fba-4d52-b8e2-9bf179b1b7db",
+  "i18n": {
+    "name": {
+      "en": "a blurry photo of a bunch of flowers",
+      "uk": "розмите фото букета квітів"
+    },
+    "alt": {
+      "en": "a blurry photo of a bunch of flowers",
+      "uk": "розмите фото букета квітів"
+    },
+    "tags": [
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "authorName": "Geronimo Giqueaux",
+  "authorUrl": "https://unsplash.com/@ggiqueaux",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "pinned": false,
+  "width": 2400,
+  "height": 3600,
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/unsplash/images/a-blurry-photo-of-a-bunch-of-flowers-qevfymrjwie/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/unsplash/images/a-blurry-photo-of-a-bunch-of-flowers-qevfymrjwie/a-blurry-photo-of-a-bunch-of-flowers-qevfymrjwie.jpg",
+  "thumbnailPath": "/Users/taras/HOLE/Projects/scraper/tmp/images/a-blurry-photo-of-a-bunch-of-flowers-qevfymrjwie/a-blurry-photo-of-a-bunch-of-flowers-qevfymrjwie_thumb.webp",
+  "relativeAssetPath": "library/unsplash/images/a-blurry-photo-of-a-bunch-of-flowers-qevfymrjwie/a-blurry-photo-of-a-bunch-of-flowers-qevfymrjwie.jpg"
+}

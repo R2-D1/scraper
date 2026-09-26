@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-27627980",
+  "mediaKey": "pexels:27627980",
+  "i18n": {
+    "name": {
+      "en": "Blue iguana resting on a branch",
+      "uk": "Синя ігуана, що відпочиває на гілці"
+    },
+    "alt": {
+      "en": "Monitor Lizard",
+      "uk": "Ящірка-монітор"
+    },
+    "tags": [
+      {
+        "key": "iguana",
+        "i18n": {
+          "en": "iguana",
+          "uk": "ігуана"
+        }
+      },
+      {
+        "key": "reptile",
+        "i18n": {
+          "en": "reptile",
+          "uk": "плазуни"
+        }
+      },
+      {
+        "key": "branch",
+        "i18n": {
+          "en": "branch",
+          "uk": "відділення"
+        }
+      },
+      {
+        "key": "blue-scales",
+        "i18n": {
+          "en": "blue scales",
+          "uk": "сині луски"
+        }
+      },
+      {
+        "key": "close-up",
+        "i18n": {
+          "en": "close-up",
+          "uk": "крупний план"
+        }
+      },
+      {
+        "key": "animal",
+        "i18n": {
+          "en": "animal",
+          "uk": "тварина"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "animals"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/monitor-lizard-27627980/",
+  "sourceName": "Pexels",
+  "authorName": "Christian Halaguena",
+  "authorUrl": "https://www.pexels.com/@iamxtian",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2058,
+  "height": 2573
+}

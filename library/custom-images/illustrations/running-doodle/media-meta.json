@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "running-doodle",
+  "mediaKey": "custom:content:90cf5da09e2766b5c57658d7f564713d4fd57f306645315174885664d3823989",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "90cf5da09e2766b5c57658d7f564713d4fd57f306645315174885664d3823989",
+  "i18n": {
+    "name": {
+      "en": "Running Doodle",
+      "uk": "Біг-дудл"
+    },
+    "alt": {
+      "en": "Running Doodle",
+      "uk": "Біг-дудл"
+    },
+    "tags": [
+      {
+        "key": "running",
+        "i18n": {
+          "en": "Running",
+          "uk": "Біг"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

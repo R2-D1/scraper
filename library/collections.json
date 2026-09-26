@@ -1,0 +1,407 @@
+{
+  "schemaVersion": 1,
+  "collections": {
+    "videos": {
+      "name": {
+        "en": "Videos",
+        "uk": "Відео"
+      },
+      "category": "videos",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "d8utsjo"
+        }
+      ]
+    },
+    "abstract": {
+      "name": {
+        "en": "Abstract",
+        "uk": "Абстракції"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "ii7aptt"
+        }
+      ],
+      "previewMediaKeys": [
+        "289fe129-7ae9-4e7d-917e-c434349a2d46"
+      ]
+    },
+    "animals": {
+      "name": {
+        "en": "Animals",
+        "uk": "Тварини"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "r99qjma"
+        }
+      ],
+      "previewMediaKeys": [
+        "pexels:39299786"
+      ]
+    },
+    "vehicles": {
+      "name": {
+        "en": "Vehicles",
+        "uk": "Транспорт"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "gygwr2x"
+        }
+      ],
+      "previewMediaKeys": [
+        "fc263cce-d75b-4c22-903f-63192d0611a3"
+      ]
+    },
+    "surrealism": {
+      "name": {
+        "en": "Surrealism",
+        "uk": "Сюрреалізм"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "czzsy6z"
+        }
+      ]
+    },
+    "beauty": {
+      "name": {
+        "en": "Beauty",
+        "uk": "Краса"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "pxtqhqk"
+        }
+      ],
+      "previewMediaKeys": [
+        "c4674943-b1dd-4435-b230-8d0314823751"
+      ]
+    },
+    "business": {
+      "name": {
+        "en": "Business",
+        "uk": "Бізнес"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "fsvinvf"
+        }
+      ],
+      "previewMediaKeys": [
+        "7975cb12-6f02-4676-89ba-939e8021833c"
+      ]
+    },
+    "food-drink": {
+      "name": {
+        "en": "Food & Drink",
+        "uk": "Їжа та напої"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "ddxlohl"
+        }
+      ],
+      "previewMediaKeys": [
+        "5605b034-70fb-4c04-bbf8-cac0c8669bf1"
+      ]
+    },
+    "gradients": {
+      "name": {
+        "en": "Gradients",
+        "uk": "Градієнти"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "axmxq4a"
+        }
+      ],
+      "previewMediaKeys": [
+        "f3ec60ff-52e2-4064-959c-95692f9d9f55"
+      ]
+    },
+    "interiors": {
+      "name": {
+        "en": "Interiors",
+        "uk": "Інтер'єри"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "zeqorx7"
+        }
+      ],
+      "previewMediaKeys": [
+        "3a5e1610-64f1-47d3-b27f-5144133c8e65"
+      ]
+    },
+    "nature": {
+      "name": {
+        "en": "Nature",
+        "uk": "Природа"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "qqv6dnu"
+        }
+      ]
+    },
+    "other": {
+      "name": {
+        "en": "Other",
+        "uk": "Інше"
+      },
+      "category": "images",
+      "previewMediaKeys": [
+        "cd240d9b-5b35-4c7f-b847-1ca0abd45025"
+      ]
+    },
+    "illustration-abstract": {
+      "name": {
+        "en": "Abstract",
+        "uk": "Абстракції"
+      },
+      "category": "illustrations"
+    },
+    "illustration-animals": {
+      "name": {
+        "en": "Animals",
+        "uk": "Тварини"
+      },
+      "category": "illustrations"
+    },
+    "illustration-architecture": {
+      "name": {
+        "en": "Architecture",
+        "uk": "Архітектура"
+      },
+      "category": "illustrations"
+    },
+    "illustration-food-drink": {
+      "name": {
+        "en": "Food & Drink",
+        "uk": "Їжа та напої"
+      },
+      "category": "illustrations"
+    },
+    "illustration-holidays": {
+      "name": {
+        "en": "Holidays",
+        "uk": "Свята"
+      },
+      "category": "illustrations"
+    },
+    "illustration-nature": {
+      "name": {
+        "en": "Nature",
+        "uk": "Природа"
+      },
+      "category": "illustrations"
+    },
+    "illustration-people": {
+      "name": {
+        "en": "People",
+        "uk": "Люди"
+      },
+      "category": "illustrations"
+    },
+    "illustration-technology": {
+      "name": {
+        "en": "Technology",
+        "uk": "Технології"
+      },
+      "category": "illustrations"
+    },
+    "pattern-illustrations": {
+      "name": {
+        "en": "Pattern illustrations",
+        "uk": "Патернні ілюстрації"
+      },
+      "category": "illustrations"
+    },
+    "ctrlv-illustrations": {
+      "name": {
+        "en": "CtrlV Illustrations",
+        "uk": "Ілюстрації CtrlV"
+      },
+      "category": "illustrations"
+    },
+    "undraw-illustrations": {
+      "name": {
+        "en": "unDraw Illustrations",
+        "uk": "Ілюстрації unDraw"
+      },
+      "category": "illustrations"
+    },
+    "illustration-other": {
+      "name": {
+        "en": "Other",
+        "uk": "Інше"
+      },
+      "category": "illustrations"
+    },
+    "patterns": {
+      "name": {
+        "en": "Patterns",
+        "uk": "Патерни"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "kx6hj1i"
+        }
+      ],
+      "previewMediaKeys": [
+        "ed56afb9-a061-454c-a6a0-cfbe9a77f201"
+      ]
+    },
+    "people": {
+      "name": {
+        "en": "People",
+        "uk": "Люди"
+      },
+      "category": "images",
+      "previewMediaKeys": [
+        "d057d02e-54d4-4a8f-8140-72a4aec8f166"
+      ],
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "sjejuqt"
+        }
+      ]
+    },
+    "space": {
+      "name": {
+        "en": "Space",
+        "uk": "Космос"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "ovmee6e"
+        }
+      ],
+      "previewMediaKeys": [
+        "ee64733f-0f62-4cb4-9a02-8b82f3d0c039"
+      ]
+    },
+    "sports": {
+      "name": {
+        "en": "Sports",
+        "uk": "Спорт"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "xm5ps32"
+        }
+      ],
+      "previewMediaKeys": [
+        "33cf9cb1-9f88-4e66-911a-72b9d341b4a9"
+      ]
+    },
+    "technology": {
+      "name": {
+        "en": "Technology",
+        "uk": "Технології"
+      },
+      "category": "images"
+    },
+    "travel": {
+      "name": {
+        "en": "Travel",
+        "uk": "Подорожі"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "vu06elm"
+        }
+      ]
+    },
+    "textures": {
+      "name": {
+        "en": "Textures",
+        "uk": "Текстури"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "90346ms"
+        }
+      ],
+      "previewMediaKeys": [
+        "b09ddd5c-4f64-4e6c-ad5f-8ddb91b6421e"
+      ]
+    },
+    "urban": {
+      "name": {
+        "en": "Urban",
+        "uk": "Міське життя"
+      },
+      "category": "images",
+      "providerCollections": [
+        {
+          "provider": "pexels",
+          "collectionId": "jqq5g0h"
+        }
+      ]
+    },
+    "open-doodles": {
+      "name": {
+        "en": "Open Doodles",
+        "uk": "Open Doodles"
+      },
+      "category": "illustrations"
+    },
+    "illustration-ideas-decisions": {
+      "name": {
+        "en": "Ideas & Decisions",
+        "uk": "Ідеї та рішення"
+      },
+      "category": "illustrations"
+    },
+    "illustration-everyday-life": {
+      "name": {
+        "en": "Everyday Life",
+        "uk": "Повсякденне життя"
+      },
+      "category": "illustrations"
+    },
+    "illustration-people-communities": {
+      "name": {
+        "en": "People & Communities",
+        "uk": "Люди й спільноти"
+      },
+      "category": "illustrations"
+    }
+  }
+}

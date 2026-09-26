@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "strolling-doodle",
+  "mediaKey": "custom:content:cd3ed54c97cf0b789847fa38a193c735cf5fa9389cf2388affc9e3a82a4fcdc3",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "cd3ed54c97cf0b789847fa38a193c735cf5fa9389cf2388affc9e3a82a4fcdc3",
+  "i18n": {
+    "name": {
+      "en": "Strolling Doodle",
+      "uk": "Прогулянка з Дудлом"
+    },
+    "alt": {
+      "en": "Strolling Doodle",
+      "uk": "Прогулянка з Дудлом"
+    },
+    "tags": [
+      {
+        "key": "strolling",
+        "i18n": {
+          "en": "Strolling",
+          "uk": "Прогулянка"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

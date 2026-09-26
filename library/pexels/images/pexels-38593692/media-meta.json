@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-38593692",
+  "mediaKey": "pexels:38593692",
+  "i18n": {
+    "name": {
+      "en": "Woman holding a tennis racket by the net",
+      "uk": "Жінка, яка тримає тенісну ракетку біля сітки"
+    },
+    "alt": {
+      "en": "38593692",
+      "uk": "Жінка, яка тримає тенісну ракетку біля сітки"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "tennis",
+        "i18n": {
+          "en": "tennis",
+          "uk": "теніс"
+        }
+      },
+      {
+        "key": "racket",
+        "i18n": {
+          "en": "racket",
+          "uk": "ракетка"
+        }
+      },
+      {
+        "key": "court",
+        "i18n": {
+          "en": "court",
+          "uk": "суд"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "sports",
+          "uk": "спорт"
+        }
+      },
+      {
+        "key": "athlete",
+        "i18n": {
+          "en": "athlete",
+          "uk": "атлет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/38593692/",
+  "sourceName": "Pexels",
+  "authorName": "melbourne ross",
+  "authorUrl": "https://www.pexels.com/@mjrfilms",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "rolling-doodle",
+  "mediaKey": "custom:content:683f05af4c3eb040f13254c6563a252229468cb06047f600dace66add98d10eb",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "683f05af4c3eb040f13254c6563a252229468cb06047f600dace66add98d10eb",
+  "i18n": {
+    "name": {
+      "en": "Rolling Doodle",
+      "uk": "Рухомий малюнок"
+    },
+    "alt": {
+      "en": "Rolling Doodle",
+      "uk": "Рухомий малюнок"
+    },
+    "tags": [
+      {
+        "key": "rolling",
+        "i18n": {
+          "en": "Rolling",
+          "uk": "Кочення"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

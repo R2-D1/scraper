@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-4582814",
+  "mediaKey": "pexels:4582814",
+  "i18n": {
+    "name": {
+      "en": "Tattooed leg wearing a white sneaker",
+      "uk": "Нога з татуюванням у білому кросівку"
+    },
+    "alt": {
+      "en": "Crop tattooed leg of anonymous man in trendy sneakers and pink socks leaning on knee",
+      "uk": "Знімок татуйованої ноги невідомого чоловіка в модних кросівках і рожевих шкарпетках, який спирається на коліно"
+    },
+    "tags": [
+      {
+        "key": "tattoo",
+        "i18n": {
+          "en": "tattoo",
+          "uk": "тату"
+        }
+      },
+      {
+        "key": "sneaker",
+        "i18n": {
+          "en": "sneaker",
+          "uk": "кросівок"
+        }
+      },
+      {
+        "key": "shoe",
+        "i18n": {
+          "en": "shoe",
+          "uk": "взуття"
+        }
+      },
+      {
+        "key": "foot",
+        "i18n": {
+          "en": "foot",
+          "uk": "ступня"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/crop-faceless-guy-in-stylish-sneakers-4582814/",
+  "sourceName": "Pexels",
+  "authorName": "Malcolm Garret",
+  "authorUrl": "https://www.pexels.com/@malcolm-garret-3023588",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

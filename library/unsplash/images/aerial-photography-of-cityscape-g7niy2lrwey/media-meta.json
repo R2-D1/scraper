@@ -1,0 +1,80 @@
+{
+  "slug": "aerial-photography-of-cityscape-g7niy2lrwey",
+  "mediaKey": "573216a5-3b83-40ca-adbe-20f91aff9b69",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "Aerial photography of cityscape",
+      "uk": "Аерофото міста"
+    },
+    "alt": {
+      "en": "Aerial photography of cityscape",
+      "uk": "Аерофото міста"
+    },
+    "tags": [
+      {
+        "key": "building",
+        "i18n": {
+          "en": "building",
+          "uk": "будівля"
+        }
+      },
+      {
+        "key": "downtown",
+        "i18n": {
+          "en": "downtown",
+          "uk": "центр міста"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      },
+      {
+        "key": "town",
+        "i18n": {
+          "en": "town",
+          "uk": "містечко"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "city",
+        "lighting",
+        "night life",
+        "outdoors",
+        "stage",
+        "urban"
+      ],
+      "uk": [
+        "місто",
+        "освітлення",
+        "нічне життя",
+        "на відкритому повітрі",
+        "сцена"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/aerial-photography-of-cityscape-G7NIY2lrweY",
+  "sourceName": "Unsplash",
+  "authorName": "Lisheng Chang",
+  "authorUrl": "https://unsplash.com/@changlisheng",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 1591,
+  "collectionSlugs": [
+    "urban"
+  ]
+}

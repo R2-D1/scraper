@@ -1,0 +1,63 @@
+{
+  "slug": "weather-notification-5wuk",
+  "mediaKey": "f753ee32-5492-4bc1-95e6-9ac21f5bdfce",
+  "providerId": "60dc3d69b1007e00175a2d18",
+  "i18n": {
+    "name": {
+      "en": "Weather notification",
+      "uk": "Повідомлення про погоду"
+    },
+    "alt": {
+      "en": "Weather notification",
+      "uk": "Повідомлення про погоду"
+    },
+    "tags": [
+      {
+        "key": "weather-notification",
+        "i18n": {
+          "en": "Weather notification",
+          "uk": "Повідомлення про погоду"
+        }
+      },
+      {
+        "key": "weather",
+        "i18n": {
+          "en": "weather",
+          "uk": "погода"
+        }
+      },
+      {
+        "key": "notification",
+        "i18n": {
+          "en": "notification",
+          "uk": "повідомлення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/weather-notification_5wuk.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 943,
+  "height": 697
+}

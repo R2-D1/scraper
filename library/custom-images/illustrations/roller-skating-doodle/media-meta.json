@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "roller-skating-doodle",
+  "mediaKey": "custom:content:0d6b7894772db74695f800c5eead26b59fa1d047e6a89625035a00100d9841f1",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "0d6b7894772db74695f800c5eead26b59fa1d047e6a89625035a00100d9841f1",
+  "i18n": {
+    "name": {
+      "en": "Roller Skating Doodle",
+      "uk": "Малюнок на тему катання на роликових ковзанах"
+    },
+    "alt": {
+      "en": "Roller Skating Doodle",
+      "uk": "Малюнок на тему катання на роликових ковзанах"
+    },
+    "tags": [
+      {
+        "key": "roller",
+        "i18n": {
+          "en": "Roller",
+          "uk": "Ролик"
+        }
+      },
+      {
+        "key": "skating",
+        "i18n": {
+          "en": "Skating",
+          "uk": "Катання на ковзанах"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

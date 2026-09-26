@@ -1,0 +1,90 @@
+{
+  "slug": "festival-cherry-blossom",
+  "mediaKey": "29e98a0f-f73b-4a86-8ee0-01cc4e4abbc2",
+  "i18n": {
+    "name": {
+      "en": "Japanese Hanami",
+      "uk": "Японське ханамі"
+    },
+    "alt": {
+      "en": "Japanese Hanami",
+      "uk": "Японське ханамі"
+    },
+    "tags": [
+      {
+        "key": "festival",
+        "i18n": {
+          "en": "festival",
+          "uk": "фестиваль"
+        }
+      },
+      {
+        "key": "hanami",
+        "i18n": {
+          "en": "hanami",
+          "uk": "ханамі"
+        }
+      },
+      {
+        "key": "japan",
+        "i18n": {
+          "en": "japan",
+          "uk": "Японія"
+        }
+      },
+      {
+        "key": "cherry-blossom",
+        "i18n": {
+          "en": "cherry blossom",
+          "uk": "вишневий цвіт"
+        }
+      },
+      {
+        "key": "sakura",
+        "i18n": {
+          "en": "sakura",
+          "uk": "сакура"
+        }
+      },
+      {
+        "key": "spring",
+        "i18n": {
+          "en": "spring",
+          "uk": "пружина"
+        }
+      },
+      {
+        "key": "celebration",
+        "i18n": {
+          "en": "celebration",
+          "uk": "святкування"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/festival-cherry-blossom",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

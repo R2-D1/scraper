@@ -1,0 +1,63 @@
+{
+  "slug": "select-player-sppe",
+  "mediaKey": "ce3ee805-23bc-4842-a426-e2b98517be99",
+  "providerId": "5ecba8ce37bbd600178c55e0",
+  "i18n": {
+    "name": {
+      "en": "Select player",
+      "uk": "Вибрати гравця"
+    },
+    "alt": {
+      "en": "Select player",
+      "uk": "Вибрати гравця"
+    },
+    "tags": [
+      {
+        "key": "select-player",
+        "i18n": {
+          "en": "Select player",
+          "uk": "Вибрати гравця"
+        }
+      },
+      {
+        "key": "select",
+        "i18n": {
+          "en": "select",
+          "uk": "вибрати"
+        }
+      },
+      {
+        "key": "player",
+        "i18n": {
+          "en": "player",
+          "uk": "гравець"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/select-player_sppe.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 951,
+  "height": 621
+}

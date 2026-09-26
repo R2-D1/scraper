@@ -1,0 +1,63 @@
+{
+  "slug": "messaging-app-wfqi",
+  "mediaKey": "a70e32a5-8596-498c-bf42-b5a3b3245d2d",
+  "providerId": "607eadf8f60b39001722509e",
+  "i18n": {
+    "name": {
+      "en": "Messaging app",
+      "uk": "Додаток для обміну повідомленнями"
+    },
+    "alt": {
+      "en": "Messaging app",
+      "uk": "Додаток для обміну повідомленнями"
+    },
+    "tags": [
+      {
+        "key": "messaging-app",
+        "i18n": {
+          "en": "Messaging app",
+          "uk": "Додаток для обміну повідомленнями"
+        }
+      },
+      {
+        "key": "messaging",
+        "i18n": {
+          "en": "messaging",
+          "uk": "листування"
+        }
+      },
+      {
+        "key": "app",
+        "i18n": {
+          "en": "app",
+          "uk": "додаток"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/messaging-app_wfqi.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 771,
+  "height": 548
+}

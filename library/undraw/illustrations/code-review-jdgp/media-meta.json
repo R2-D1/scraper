@@ -1,0 +1,63 @@
+{
+  "slug": "code-review-jdgp",
+  "mediaKey": "32f94d0e-d9b5-4ce2-bf7c-762390efb1ca",
+  "providerId": "68d5adf65be80b29a350604a",
+  "i18n": {
+    "name": {
+      "en": "Code Review",
+      "uk": "Перевірка коду"
+    },
+    "alt": {
+      "en": "Code Review",
+      "uk": "Перевірка коду"
+    },
+    "tags": [
+      {
+        "key": "code-review",
+        "i18n": {
+          "en": "Code Review",
+          "uk": "Перевірка коду"
+        }
+      },
+      {
+        "key": "code",
+        "i18n": {
+          "en": "code",
+          "uk": "код"
+        }
+      },
+      {
+        "key": "review",
+        "i18n": {
+          "en": "review",
+          "uk": "перегляд"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/code-review_jdgp.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 619
+}

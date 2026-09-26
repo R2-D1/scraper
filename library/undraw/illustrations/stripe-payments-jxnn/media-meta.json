@@ -1,0 +1,63 @@
+{
+  "slug": "stripe-payments-jxnn",
+  "mediaKey": "e2a387b7-e795-43ae-8272-ba8dbcdb7f4c",
+  "providerId": "686ec51df314f7d24d79db9e",
+  "i18n": {
+    "name": {
+      "en": "Stripe payments",
+      "uk": "Платежі через Stripe"
+    },
+    "alt": {
+      "en": "Stripe payments",
+      "uk": "Платежі через Stripe"
+    },
+    "tags": [
+      {
+        "key": "stripe-payments",
+        "i18n": {
+          "en": "Stripe payments",
+          "uk": "Платежі через Stripe"
+        }
+      },
+      {
+        "key": "stripe",
+        "i18n": {
+          "en": "stripe",
+          "uk": "смуга"
+        }
+      },
+      {
+        "key": "payments",
+        "i18n": {
+          "en": "payments",
+          "uk": "платежі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/stripe-payments_jxnn.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 735,
+  "height": 800
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "analyze-gcbr",
+  "mediaKey": "1cc466ed-c217-46d3-83cd-658e1c6f96c6",
+  "providerId": "69e94e9079740242d59ddaf2",
+  "i18n": {
+    "name": {
+      "en": "Analyze",
+      "uk": "Проаналізувати"
+    },
+    "alt": {
+      "en": "Analyze",
+      "uk": "Проаналізувати"
+    },
+    "tags": [
+      {
+        "key": "analyze",
+        "i18n": {
+          "en": "Analyze",
+          "uk": "Проаналізувати"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/analyze_gcbr.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 870
+}

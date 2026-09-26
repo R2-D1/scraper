@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-7749314",
+  "mediaKey": "pexels:7749314",
+  "i18n": {
+    "name": {
+      "en": "White vintage car on a winding road",
+      "uk": "Білий вінтажний автомобіль на звивистій дорозі"
+    },
+    "alt": {
+      "en": "A Nissan Skyline drifting along a winding road surrounded by autumn trees, capturing motion and speed.",
+      "uk": "Nissan Skyline, що дрифтує по звивистій дорозі серед осінніх дерев, передаючи відчуття руху та швидкості."
+    },
+    "tags": [
+      {
+        "key": "car",
+        "i18n": {
+          "en": "car",
+          "uk": "автомобіль"
+        }
+      },
+      {
+        "key": "vintage-car",
+        "i18n": {
+          "en": "vintage car",
+          "uk": "вінтажне авто"
+        }
+      },
+      {
+        "key": "road",
+        "i18n": {
+          "en": "road",
+          "uk": "дорога"
+        }
+      },
+      {
+        "key": "driving",
+        "i18n": {
+          "en": "driving",
+          "uk": "водіння"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "vehicles"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/gray-nissan-skyline-drifting-on-road-7749314/",
+  "sourceName": "Pexels",
+  "authorName": "Hensan Aranha",
+  "authorUrl": "https://www.pexels.com/@wearelivingart",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

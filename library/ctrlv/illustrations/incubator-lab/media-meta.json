@@ -1,0 +1,76 @@
+{
+  "slug": "incubator-lab",
+  "mediaKey": "ae25c389-621c-4476-897e-248c8894df43",
+  "i18n": {
+    "name": {
+      "en": "Incubator Lab",
+      "uk": "Лабораторія-інкубатор"
+    },
+    "alt": {
+      "en": "Incubator Lab",
+      "uk": "Лабораторія-інкубатор"
+    },
+    "tags": [
+      {
+        "key": "incubator",
+        "i18n": {
+          "en": "incubator",
+          "uk": "інкубатор"
+        }
+      },
+      {
+        "key": "lab",
+        "i18n": {
+          "en": "lab",
+          "uk": "лабораторія"
+        }
+      },
+      {
+        "key": "innovation",
+        "i18n": {
+          "en": "innovation",
+          "uk": "інновація"
+        }
+      },
+      {
+        "key": "ideas",
+        "i18n": {
+          "en": "ideas",
+          "uk": "ідеї"
+        }
+      },
+      {
+        "key": "startup",
+        "i18n": {
+          "en": "startup",
+          "uk": "стартап"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/incubator-lab",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

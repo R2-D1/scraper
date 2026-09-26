@@ -1,0 +1,97 @@
+{
+  "slug": "history-pocket-watch",
+  "mediaKey": "4ba866b3-f36a-4c2c-b8ca-11f88ed21187",
+  "i18n": {
+    "name": {
+      "en": "Pocket Watch",
+      "uk": "Кишеньковий годинник"
+    },
+    "alt": {
+      "en": "Pocket Watch",
+      "uk": "Кишеньковий годинник"
+    },
+    "tags": [
+      {
+        "key": "history",
+        "i18n": {
+          "en": "history",
+          "uk": "історії"
+        }
+      },
+      {
+        "key": "watch",
+        "i18n": {
+          "en": "watch",
+          "uk": "дивитися"
+        }
+      },
+      {
+        "key": "time",
+        "i18n": {
+          "en": "time",
+          "uk": "час"
+        }
+      },
+      {
+        "key": "clock",
+        "i18n": {
+          "en": "clock",
+          "uk": "годинник"
+        }
+      },
+      {
+        "key": "pocket",
+        "i18n": {
+          "en": "pocket",
+          "uk": "Pocket"
+        }
+      },
+      {
+        "key": "invention",
+        "i18n": {
+          "en": "invention",
+          "uk": "винахід"
+        }
+      },
+      {
+        "key": "gear",
+        "i18n": {
+          "en": "gear",
+          "uk": "шестерня"
+        }
+      },
+      {
+        "key": "victorian",
+        "i18n": {
+          "en": "victorian",
+          "uk": "вікторіанський"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/history-pocket-watch",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

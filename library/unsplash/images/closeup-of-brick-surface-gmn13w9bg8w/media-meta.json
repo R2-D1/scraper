@@ -1,0 +1,76 @@
+{
+  "slug": "closeup-of-brick-surface-gmn13w9bg8w",
+  "mediaKey": "9e319522-9c6e-45d8-917e-741be8732fbd",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "Closeup of brick surface",
+      "uk": "Крупний план цегляної поверхні"
+    },
+    "alt": {
+      "en": "Closeup of brick surface",
+      "uk": "Крупний план цегляної поверхні"
+    },
+    "tags": [
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "texture-background",
+        "i18n": {
+          "en": "texture background",
+          "uk": "текстурний фон"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "abstract",
+        "brick",
+        "bricks",
+        "simple"
+      ],
+      "uk": [
+        "абстракція",
+        "цегла",
+        "простий"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/closeup-of-brick-surface-GmN13w9bg8w",
+  "sourceName": "Unsplash",
+  "authorName": "David Pisnoy",
+  "authorUrl": "https://unsplash.com/@davidpisnoy",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 3200,
+  "collectionSlugs": [
+    "textures"
+  ]
+}

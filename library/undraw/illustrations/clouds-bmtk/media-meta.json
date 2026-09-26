@@ -1,0 +1,49 @@
+{
+  "slug": "clouds-bmtk",
+  "mediaKey": "ea6423a1-a851-4cfd-ad0f-0229f48337a5",
+  "providerId": "68daf6fbc475375af43b7488",
+  "i18n": {
+    "name": {
+      "en": "Clouds",
+      "uk": "Хмари"
+    },
+    "alt": {
+      "en": "Clouds",
+      "uk": "Хмари"
+    },
+    "tags": [
+      {
+        "key": "clouds",
+        "i18n": {
+          "en": "Clouds",
+          "uk": "Хмари"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/clouds_bmtk.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 811,
+  "height": 311
+}

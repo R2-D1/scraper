@@ -1,0 +1,89 @@
+{
+  "slug": "uranus-planet-li41rapuaqa",
+  "mediaKey": "f34455b0-18c8-40bd-bc91-a12c1f2bfcef",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "Uranus as seen by Voyager 2",
+      "uk": "Уран на чорному тлі"
+    },
+    "alt": {
+      "en": "Uranus as seen by Voyager 2",
+      "uk": "Уран у знімку, зробленому «Вояджером-2»"
+    },
+    "tags": [
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "planet",
+        "i18n": {
+          "en": "planet",
+          "uk": "планета"
+        }
+      },
+      {
+        "key": "solar-system",
+        "i18n": {
+          "en": "solar system",
+          "uk": "сонячна система"
+        }
+      },
+      {
+        "key": "uranus",
+        "i18n": {
+          "en": "uranus",
+          "uk": "Уран"
+        }
+      },
+      {
+        "key": "archival",
+        "i18n": {
+          "en": "archival",
+          "uk": "Ілюстрація: archival"
+        }
+      },
+      {
+        "key": "planet-space",
+        "i18n": {
+          "en": "planet space",
+          "uk": "космічна планета"
+        }
+      },
+      {
+        "key": "space",
+        "i18n": {
+          "en": "space",
+          "uk": "простір"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/uranus-planet-Li41RApUAQA",
+  "collectionSlugs": [
+    "space"
+  ],
+  "sourceName": "Unsplash",
+  "authorName": "NASA",
+  "authorUrl": "https://unsplash.com/@nasa",
+  "description": "Uranus as seen by Voyager 2",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 1800
+}

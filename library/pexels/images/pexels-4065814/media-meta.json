@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-4065814",
+  "mediaKey": "pexels:4065814",
+  "i18n": {
+    "name": {
+      "en": "White car parked beside the coast",
+      "uk": "Білий автомобіль біля узбережжя"
+    },
+    "alt": {
+      "en": "A sleek silver sports car parked by a scenic coastal road with mountains in the background.",
+      "uk": "Елегантний сріблястий спортивний автомобіль, припаркований біля мальовничої прибережної дороги на тлі гір."
+    },
+    "tags": [
+      {
+        "key": "car",
+        "i18n": {
+          "en": "car",
+          "uk": "автомобіль"
+        }
+      },
+      {
+        "key": "white-car",
+        "i18n": {
+          "en": "white car",
+          "uk": "білий автомобіль"
+        }
+      },
+      {
+        "key": "coast",
+        "i18n": {
+          "en": "coast",
+          "uk": "узбережжя"
+        }
+      },
+      {
+        "key": "road",
+        "i18n": {
+          "en": "road",
+          "uk": "дорога"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "vehicles"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/photo-of-car-parked-on-the-roadside-4065814/",
+  "sourceName": "Pexels",
+  "authorName": "Erik Mclean",
+  "authorUrl": "https://www.pexels.com/@introspectivedsgn",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

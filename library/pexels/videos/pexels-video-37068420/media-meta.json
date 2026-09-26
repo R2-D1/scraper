@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-37068420",
+  "mediaKey": "pexels:video:37068420",
+  "i18n": {
+    "name": {
+      "en": "Iridescent Liquid Bubbles",
+      "uk": "Рідкі бульбашки з іризаційним ефектом"
+    },
+    "alt": {
+      "en": "Pexels video 37068420",
+      "uk": "Відео з Pexels № 37068420"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "bubbles",
+        "i18n": {
+          "en": "bubbles",
+          "uk": "бульбашки"
+        }
+      },
+      {
+        "key": "iridescent",
+        "i18n": {
+          "en": "iridescent",
+          "uk": "переливчастий"
+        }
+      },
+      {
+        "key": "liquid",
+        "i18n": {
+          "en": "liquid",
+          "uk": "рідина"
+        }
+      },
+      {
+        "key": "macro",
+        "i18n": {
+          "en": "macro",
+          "uk": "макрос"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/colorful-iridescent-soap-bubble-macro-view-37068420/",
+  "sourceName": "Pexels",
+  "authorName": "Rafael Minguet Delgado",
+  "authorUrl": "https://www.pexels.com/@thales13",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 64,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

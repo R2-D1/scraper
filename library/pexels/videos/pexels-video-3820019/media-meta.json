@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-3820019",
+  "mediaKey": "pexels:video:3820019",
+  "i18n": {
+    "name": {
+      "en": "Bright Green Painted Texture",
+      "uk": "Яскраво-зелена текстура з фарбовим покриттям"
+    },
+    "alt": {
+      "en": "Pexels video 3820019",
+      "uk": "Відео з Pexels № 3820019"
+    },
+    "tags": [
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      },
+      {
+        "key": "paint",
+        "i18n": {
+          "en": "paint",
+          "uk": "фарба"
+        }
+      },
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "surface",
+        "i18n": {
+          "en": "surface",
+          "uk": "поверхня"
+        }
+      },
+      {
+        "key": "bright",
+        "i18n": {
+          "en": "bright",
+          "uk": "яскравий"
+        }
+      },
+      {
+        "key": "minimal",
+        "i18n": {
+          "en": "minimal",
+          "uk": "мінімальний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/drops-of-water-falling-on-a-smooth-green-surface-3820019/",
+  "sourceName": "Pexels",
+  "authorName": "Oleg Gamulinskii",
+  "authorUrl": "https://www.pexels.com/@oleg-gamulinskii-755060",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 15,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

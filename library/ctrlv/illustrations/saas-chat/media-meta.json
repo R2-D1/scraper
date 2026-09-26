@@ -1,0 +1,97 @@
+{
+  "slug": "saas-chat",
+  "mediaKey": "8e12345c-7286-4abc-9f0f-2c1ff55bba77",
+  "i18n": {
+    "name": {
+      "en": "Chat Support",
+      "uk": "Підтримка через чат"
+    },
+    "alt": {
+      "en": "Chat Support",
+      "uk": "Підтримка через чат"
+    },
+    "tags": [
+      {
+        "key": "saas",
+        "i18n": {
+          "en": "saas",
+          "uk": "SaaS"
+        }
+      },
+      {
+        "key": "chat",
+        "i18n": {
+          "en": "chat",
+          "uk": "чат"
+        }
+      },
+      {
+        "key": "support",
+        "i18n": {
+          "en": "support",
+          "uk": "підтримка"
+        }
+      },
+      {
+        "key": "message",
+        "i18n": {
+          "en": "message",
+          "uk": "повідомлення"
+        }
+      },
+      {
+        "key": "bubbles",
+        "i18n": {
+          "en": "bubbles",
+          "uk": "бульбашки"
+        }
+      },
+      {
+        "key": "intercom",
+        "i18n": {
+          "en": "intercom",
+          "uk": "Intercom"
+        }
+      },
+      {
+        "key": "help",
+        "i18n": {
+          "en": "help",
+          "uk": "допомогти"
+        }
+      },
+      {
+        "key": "communication",
+        "i18n": {
+          "en": "communication",
+          "uk": "комунікація"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/saas-chat",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

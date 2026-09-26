@@ -1,0 +1,63 @@
+{
+  "slug": "processing-thoughts-wakg",
+  "mediaKey": "866120d4-084c-453b-9019-c3e932397da9",
+  "providerId": "5eff2d5633736b0017929596",
+  "i18n": {
+    "name": {
+      "en": "Processing thoughts",
+      "uk": "Обробка думок"
+    },
+    "alt": {
+      "en": "Processing thoughts",
+      "uk": "Обробка думок"
+    },
+    "tags": [
+      {
+        "key": "processing-thoughts",
+        "i18n": {
+          "en": "Processing thoughts",
+          "uk": "Обробка думок"
+        }
+      },
+      {
+        "key": "processing",
+        "i18n": {
+          "en": "processing",
+          "uk": "обробка"
+        }
+      },
+      {
+        "key": "thoughts",
+        "i18n": {
+          "en": "thoughts",
+          "uk": "думки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/processing-thoughts_wakg.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 965,
+  "height": 806
+}

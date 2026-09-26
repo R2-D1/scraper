@@ -1,0 +1,63 @@
+{
+  "slug": "product-photography-pouq",
+  "mediaKey": "8c0245dc-0306-4266-a1f9-e6d315d20eae",
+  "providerId": "5e54f7d217f55d001748e07c",
+  "i18n": {
+    "name": {
+      "en": "Product photography",
+      "uk": "Фотозйомка товарів"
+    },
+    "alt": {
+      "en": "Product photography",
+      "uk": "Фотозйомка товарів"
+    },
+    "tags": [
+      {
+        "key": "product-photography",
+        "i18n": {
+          "en": "Product photography",
+          "uk": "Фотозйомка товарів"
+        }
+      },
+      {
+        "key": "product",
+        "i18n": {
+          "en": "product",
+          "uk": "продукт"
+        }
+      },
+      {
+        "key": "photography",
+        "i18n": {
+          "en": "photography",
+          "uk": "фотографія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/product-photography_pouq.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 882,
+  "height": 637
+}

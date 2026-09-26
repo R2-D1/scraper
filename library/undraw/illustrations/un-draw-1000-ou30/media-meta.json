@@ -1,0 +1,63 @@
+{
+  "slug": "un-draw-1000-ou30",
+  "mediaKey": "44d8dbbb-e8cb-4eea-82e9-0620d9f162b7",
+  "providerId": "5dfcaab903e8ba0015dd0d76",
+  "i18n": {
+    "name": {
+      "en": "unDraw 1000",
+      "uk": "unDraw 1000"
+    },
+    "alt": {
+      "en": "unDraw 1000",
+      "uk": "unDraw 1000"
+    },
+    "tags": [
+      {
+        "key": "undraw-1000",
+        "i18n": {
+          "en": "unDraw 1000",
+          "uk": "unDraw 1000"
+        }
+      },
+      {
+        "key": "undraw",
+        "i18n": {
+          "en": "undraw",
+          "uk": "скасувати"
+        }
+      },
+      {
+        "key": "1000",
+        "i18n": {
+          "en": "1000",
+          "uk": "1000"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/un-draw-1000_ou30.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1001,
+  "height": 551
+}

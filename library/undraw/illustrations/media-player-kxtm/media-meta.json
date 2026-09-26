@@ -1,0 +1,63 @@
+{
+  "slug": "media-player-kxtm",
+  "mediaKey": "2bc6deb4-d50e-4dc7-9243-ef6adc6774b4",
+  "providerId": "6182b03cd9e44f0017d04346",
+  "i18n": {
+    "name": {
+      "en": "Media player",
+      "uk": "Медіаплеєр"
+    },
+    "alt": {
+      "en": "Media player",
+      "uk": "Медіаплеєр"
+    },
+    "tags": [
+      {
+        "key": "media-player",
+        "i18n": {
+          "en": "Media player",
+          "uk": "Медіаплеєр"
+        }
+      },
+      {
+        "key": "media",
+        "i18n": {
+          "en": "media",
+          "uk": "медіа"
+        }
+      },
+      {
+        "key": "player",
+        "i18n": {
+          "en": "player",
+          "uk": "гравець"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/media-player_kxtm.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 634,
+  "height": 665
+}

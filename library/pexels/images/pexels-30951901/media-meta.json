@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-30951901",
+  "mediaKey": "pexels:30951901",
+  "i18n": {
+    "name": {
+      "en": "Faceted star network with floating spheres",
+      "uk": "Мережа з гранованих зірок із плаваючими кулями"
+    },
+    "alt": {
+      "en": "Dynamic abstract 3D design with geometric shapes and vibrant red and blue accents.",
+      "uk": "Динамічний абстрактний 3D-дизайн із геометричними фігурами та яскравими червоними й синіми акцентами."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "star",
+        "i18n": {
+          "en": "star",
+          "uk": "зірка"
+        }
+      },
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      },
+      {
+        "key": "spheres",
+        "i18n": {
+          "en": "spheres",
+          "uk": "сфери"
+        }
+      },
+      {
+        "key": "geometry",
+        "i18n": {
+          "en": "geometry",
+          "uk": "геометрія"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/abstract-geometric-shapes-with-colorful-accents-30951901/",
+  "sourceName": "Pexels",
+  "authorName": "Maxim Landolfi",
+  "authorUrl": "https://www.pexels.com/@themob000",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

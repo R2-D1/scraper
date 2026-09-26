@@ -1,0 +1,49 @@
+{
+  "slug": "workspace-s6wf",
+  "mediaKey": "a2a4f587-4b2e-4a11-b8e2-de828db4e1cf",
+  "providerId": "67be3b5dd8a8a111d4fb794f",
+  "i18n": {
+    "name": {
+      "en": "Workspace",
+      "uk": "Робоча область"
+    },
+    "alt": {
+      "en": "Workspace",
+      "uk": "Робоча область"
+    },
+    "tags": [
+      {
+        "key": "workspace",
+        "i18n": {
+          "en": "Workspace",
+          "uk": "Робоча область"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/workspace_s6wf.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1025,
+  "height": 729
+}

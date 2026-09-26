@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-28428588",
+  "mediaKey": "pexels:28428588",
+  "i18n": {
+    "name": {
+      "en": "Black and magenta perforated sphere",
+      "uk": "Чорно-магентова перфорована куля"
+    },
+    "alt": {
+      "en": "Intriguing 3D illustration of a hexagonal pattern forming a sphere with a deep red background.",
+      "uk": "Цікава 3D-ілюстрація шестикутного візерунка, що утворює кулю, на темно-червоному тлі."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "sphere",
+        "i18n": {
+          "en": "sphere",
+          "uk": "сфера"
+        }
+      },
+      {
+        "key": "black",
+        "i18n": {
+          "en": "black",
+          "uk": "чорний"
+        }
+      },
+      {
+        "key": "magenta",
+        "i18n": {
+          "en": "magenta",
+          "uk": "пурпуровий"
+        }
+      },
+      {
+        "key": "perforated",
+        "i18n": {
+          "en": "perforated",
+          "uk": "перфорований"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/abstract-hexagonal-pattern-sphere-28428588/",
+  "sourceName": "Pexels",
+  "authorName": "Maxim Landolfi",
+  "authorUrl": "https://www.pexels.com/@themob000",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

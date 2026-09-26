@@ -1,0 +1,97 @@
+{
+  "slug": "webarch-json",
+  "mediaKey": "2a013039-847a-4e28-a3d4-a4086c6f85b0",
+  "i18n": {
+    "name": {
+      "en": "JSON Tree",
+      "uk": "Дерево JSON"
+    },
+    "alt": {
+      "en": "JSON Tree",
+      "uk": "Дерево JSON"
+    },
+    "tags": [
+      {
+        "key": "web",
+        "i18n": {
+          "en": "web",
+          "uk": "веб"
+        }
+      },
+      {
+        "key": "json",
+        "i18n": {
+          "en": "json",
+          "uk": "json"
+        }
+      },
+      {
+        "key": "tree",
+        "i18n": {
+          "en": "tree",
+          "uk": "дерево"
+        }
+      },
+      {
+        "key": "structure",
+        "i18n": {
+          "en": "structure",
+          "uk": "структура"
+        }
+      },
+      {
+        "key": "api",
+        "i18n": {
+          "en": "api",
+          "uk": "API"
+        }
+      },
+      {
+        "key": "object",
+        "i18n": {
+          "en": "object",
+          "uk": "об'єкт"
+        }
+      },
+      {
+        "key": "schema",
+        "i18n": {
+          "en": "schema",
+          "uk": "схема"
+        }
+      },
+      {
+        "key": "architecture",
+        "i18n": {
+          "en": "architecture",
+          "uk": "архітектура"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/webarch-json",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

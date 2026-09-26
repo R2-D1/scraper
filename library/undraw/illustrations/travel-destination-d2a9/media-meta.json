@@ -1,0 +1,63 @@
+{
+  "slug": "travel-destination-d2a9",
+  "mediaKey": "4eb1432e-3bb0-4d60-bede-b766954b35e6",
+  "providerId": "6a5ff128939aab611cf25c76",
+  "i18n": {
+    "name": {
+      "en": "Travel Destination",
+      "uk": "Туристичний напрямок"
+    },
+    "alt": {
+      "en": "Travel Destination",
+      "uk": "Туристичний напрямок"
+    },
+    "tags": [
+      {
+        "key": "travel-destination",
+        "i18n": {
+          "en": "Travel Destination",
+          "uk": "Туристичний напрямок"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "destination",
+        "i18n": {
+          "en": "destination",
+          "uk": "пункт призначення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/travel-destination_d2a9.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 402
+}

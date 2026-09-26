@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-13871631",
+  "mediaKey": "pexels:13871631",
+  "i18n": {
+    "name": {
+      "en": "Woman in a white dress among flowers",
+      "uk": "Жінка в білій сукні серед квітів"
+    },
+    "alt": {
+      "en": "A woman with long hair stands outdoors, adorned in a white dress with a floral backdrop.",
+      "uk": "Жінка з довгим волоссям стоїть на відкритому повітрі, одягнена в білу сукню на тлі квітів."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "white-dress",
+        "i18n": {
+          "en": "white dress",
+          "uk": "біла сукня"
+        }
+      },
+      {
+        "key": "flowers",
+        "i18n": {
+          "en": "flowers",
+          "uk": "квіти"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-in-white-dress-with-the-blurred-background-13871631/",
+  "sourceName": "Pexels",
+  "authorName": "Matheus Bertelli",
+  "authorUrl": "https://www.pexels.com/@bertellifotografia",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

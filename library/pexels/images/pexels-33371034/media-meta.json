@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-33371034",
+  "mediaKey": "pexels:33371034",
+  "i18n": {
+    "name": {
+      "en": "Small glowing red sphere in a dark scene",
+      "uk": "Маленька червона кулька, що світиться, на тлі темного фону"
+    },
+    "alt": {
+      "en": "Vibrant abstract design featuring a red globe and bubbles on a black backdrop.",
+      "uk": "Яскравий абстрактний малюнок із зображенням червоного глобуса та бульбашок на чорному тлі."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "glowing-sphere",
+        "i18n": {
+          "en": "glowing sphere",
+          "uk": "світиться куля"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "minimal",
+        "i18n": {
+          "en": "minimal",
+          "uk": "мінімальний"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/abstract-red-globe-on-black-background-with-bubbles-33371034/",
+  "sourceName": "Pexels",
+  "authorName": "Olga Shiryaeva",
+  "authorUrl": "https://www.pexels.com/@olga-shiryaeva-465903588",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

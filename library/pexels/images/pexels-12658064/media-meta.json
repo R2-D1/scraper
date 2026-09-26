@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-12658064",
+  "mediaKey": "pexels:12658064",
+  "i18n": {
+    "name": {
+      "en": "Orange folded geometric paper shapes",
+      "uk": "Помаранчеві складені геометричні фігури з паперу"
+    },
+    "alt": {
+      "en": "A modern abstract 3D render featuring geometric shapes in vivid orange tones.",
+      "uk": "Сучасний абстрактний 3D-рендер із геометричними фігурами у яскравих помаранчевих відтінках."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "geometric",
+        "i18n": {
+          "en": "geometric",
+          "uk": "геометричний"
+        }
+      },
+      {
+        "key": "folded",
+        "i18n": {
+          "en": "folded",
+          "uk": "складений"
+        }
+      },
+      {
+        "key": "paper",
+        "i18n": {
+          "en": "paper",
+          "uk": "папір"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/asymmetric-tunnel-among-pink-blocks-12658064/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

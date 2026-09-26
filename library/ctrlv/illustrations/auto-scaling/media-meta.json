@@ -1,0 +1,83 @@
+{
+  "slug": "auto-scaling",
+  "mediaKey": "55d70a29-e218-469b-82f7-9ba950695c12",
+  "i18n": {
+    "name": {
+      "en": "Auto-Scaling",
+      "uk": "Автоматичне масштабування"
+    },
+    "alt": {
+      "en": "Auto-Scaling",
+      "uk": "Автоматичне масштабування"
+    },
+    "tags": [
+      {
+        "key": "cloud",
+        "i18n": {
+          "en": "cloud",
+          "uk": "хмара"
+        }
+      },
+      {
+        "key": "scaling",
+        "i18n": {
+          "en": "scaling",
+          "uk": "масштабування"
+        }
+      },
+      {
+        "key": "elastic",
+        "i18n": {
+          "en": "elastic",
+          "uk": "Elastic"
+        }
+      },
+      {
+        "key": "grow",
+        "i18n": {
+          "en": "grow",
+          "uk": "рости"
+        }
+      },
+      {
+        "key": "expand",
+        "i18n": {
+          "en": "expand",
+          "uk": "розширити"
+        }
+      },
+      {
+        "key": "capacity",
+        "i18n": {
+          "en": "capacity",
+          "uk": "місткість"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/auto-scaling",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

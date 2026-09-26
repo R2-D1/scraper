@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "bikini-doodle",
+  "mediaKey": "custom:content:e5410d05abd37cc45d87c5ada2995b388dd448ec38be0cd7a585bdb77d1ff730",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "e5410d05abd37cc45d87c5ada2995b388dd448ec38be0cd7a585bdb77d1ff730",
+  "i18n": {
+    "name": {
+      "en": "Bikini Doodle",
+      "uk": "«Бікіні-малюнок»"
+    },
+    "alt": {
+      "en": "Bikini Doodle",
+      "uk": "«Бікіні-малюнок»"
+    },
+    "tags": [
+      {
+        "key": "bikini",
+        "i18n": {
+          "en": "Bikini",
+          "uk": "Бікіні"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

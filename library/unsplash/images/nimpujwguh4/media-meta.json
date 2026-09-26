@@ -1,0 +1,93 @@
+{
+  "slug": "nimpujwguh4",
+  "mediaKey": "7f75b5ef-fede-4f23-9917-19894033b73f",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "3D Geometry trapped in a sphere",
+      "uk": "Розбита скляна куля на білому тлі"
+    },
+    "alt": {
+      "en": "3D Geometry trapped in a sphere",
+      "uk": "3D-геометрія, укладена у сферу"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "black",
+        "i18n": {
+          "en": "black",
+          "uk": "чорний"
+        }
+      },
+      {
+        "key": "geometric",
+        "i18n": {
+          "en": "geometric",
+          "uk": "геометричний"
+        }
+      },
+      {
+        "key": "3d-render-abstract",
+        "i18n": {
+          "en": "3d render abstract",
+          "uk": "абстрактний 3D-рендер"
+        }
+      },
+      {
+        "key": "blackandwhite",
+        "i18n": {
+          "en": "blackandwhite",
+          "uk": "чорно-біле"
+        }
+      },
+      {
+        "key": "3d-render-glass",
+        "i18n": {
+          "en": "3d render glass",
+          "uk": "3D-рендер скла"
+        }
+      },
+      {
+        "key": "sphere-3d",
+        "i18n": {
+          "en": "sphere 3d",
+          "uk": "3D-сфера"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "3d рендер"
+      ],
+      "uk": [
+        "Тег: 3d рендер"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "source": "https://unsplash.com/photos/NIMPUJWGUH4",
+  "sourceName": "Unsplash",
+  "authorName": "Buddha Elemental 3D",
+  "authorUrl": "https://unsplash.com/@buddhaelemental3d",
+  "description": "3D Geometry trapped in a sphere",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 2400
+}

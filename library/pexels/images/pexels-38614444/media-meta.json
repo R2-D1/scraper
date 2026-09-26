@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-38614444",
+  "mediaKey": "pexels:38614444",
+  "i18n": {
+    "name": {
+      "en": "Color-block geometric cube",
+      "uk": "Геометричний куб із кольоровими гранями"
+    },
+    "alt": {
+      "en": "Colorful glass cube with reflective surfaces on a vibrant background, showcasing a modern abstract design.",
+      "uk": "Барвистий скляний куб із дзеркальними поверхнями на яскравому тлі, що демонструє сучасний абстрактний дизайн."
+    },
+    "tags": [
+      {
+        "key": "cube",
+        "i18n": {
+          "en": "cube",
+          "uk": "куб"
+        }
+      },
+      {
+        "key": "geometry",
+        "i18n": {
+          "en": "geometry",
+          "uk": "геометрія"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/colorful-glass-cube-with-reflective-surface-38614444/",
+  "sourceName": "Pexels",
+  "authorName": "Rafael Minguet Delgado",
+  "authorUrl": "https://www.pexels.com/@thales13",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

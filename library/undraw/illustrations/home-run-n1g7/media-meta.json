@@ -1,0 +1,63 @@
+{
+  "slug": "home-run-n1g7",
+  "mediaKey": "0d467267-ac5e-43bf-871a-bfa91f0f654a",
+  "providerId": "640f2ff6e0bca700160fe6e5",
+  "i18n": {
+    "name": {
+      "en": "Home run",
+      "uk": "Хоум-ран"
+    },
+    "alt": {
+      "en": "Home run",
+      "uk": "Хоум-ран"
+    },
+    "tags": [
+      {
+        "key": "home-run",
+        "i18n": {
+          "en": "Home run",
+          "uk": "Хоум-ран"
+        }
+      },
+      {
+        "key": "home",
+        "i18n": {
+          "en": "home",
+          "uk": "додому"
+        }
+      },
+      {
+        "key": "run",
+        "i18n": {
+          "en": "run",
+          "uk": "бігти"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/home-run_n1g7.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 732,
+  "height": 633
+}

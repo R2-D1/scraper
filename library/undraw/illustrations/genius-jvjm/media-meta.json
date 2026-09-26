@@ -1,0 +1,49 @@
+{
+  "slug": "genius-jvjm",
+  "mediaKey": "d41534da-a96b-4470-b81c-21510447b69c",
+  "providerId": "686311e15971e354c48f594f",
+  "i18n": {
+    "name": {
+      "en": "Genius",
+      "uk": "Геній"
+    },
+    "alt": {
+      "en": "Genius",
+      "uk": "Геній"
+    },
+    "tags": [
+      {
+        "key": "genius",
+        "i18n": {
+          "en": "Genius",
+          "uk": "Геній"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/genius_jvjm.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 441,
+  "height": 800
+}

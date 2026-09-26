@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "doogie-doodle",
+  "mediaKey": "custom:content:e7834eb63700d3f63772b7d57b837f43562ee849c62e52938a5d1204d39be393",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "e7834eb63700d3f63772b7d57b837f43562ee849c62e52938a5d1204d39be393",
+  "i18n": {
+    "name": {
+      "en": "Doogie Doodle",
+      "uk": "Дугі Дудл"
+    },
+    "alt": {
+      "en": "Doogie Doodle",
+      "uk": "Дугі Дудл"
+    },
+    "tags": [
+      {
+        "key": "doogie",
+        "i18n": {
+          "en": "Doogie",
+          "uk": "Дугі"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

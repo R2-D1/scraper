@@ -1,0 +1,97 @@
+{
+  "slug": "emotion-gratitude",
+  "mediaKey": "dba3687c-38b9-40be-83fb-fd58a3ce2c11",
+  "i18n": {
+    "name": {
+      "en": "Gratitude",
+      "uk": "Вдячність"
+    },
+    "alt": {
+      "en": "Gratitude",
+      "uk": "Вдячність"
+    },
+    "tags": [
+      {
+        "key": "emotion",
+        "i18n": {
+          "en": "emotion",
+          "uk": "емоція"
+        }
+      },
+      {
+        "key": "gratitude",
+        "i18n": {
+          "en": "gratitude",
+          "uk": "вдячність"
+        }
+      },
+      {
+        "key": "thankful",
+        "i18n": {
+          "en": "thankful",
+          "uk": "вдячний"
+        }
+      },
+      {
+        "key": "blessed",
+        "i18n": {
+          "en": "blessed",
+          "uk": "благословенний"
+        }
+      },
+      {
+        "key": "appreciative",
+        "i18n": {
+          "en": "appreciative",
+          "uk": "вдячний"
+        }
+      },
+      {
+        "key": "grace",
+        "i18n": {
+          "en": "grace",
+          "uk": "грація"
+        }
+      },
+      {
+        "key": "humble",
+        "i18n": {
+          "en": "humble",
+          "uk": "скромний"
+        }
+      },
+      {
+        "key": "warmth",
+        "i18n": {
+          "en": "warmth",
+          "uk": "тепло"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emotion-gratitude",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

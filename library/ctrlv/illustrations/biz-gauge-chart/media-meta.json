@@ -1,0 +1,97 @@
+{
+  "slug": "biz-gauge-chart",
+  "mediaKey": "e9486621-34e9-4735-a8c2-ad478eaf1e8f",
+  "i18n": {
+    "name": {
+      "en": "Gauge Chart",
+      "uk": "Таблиця розмірів"
+    },
+    "alt": {
+      "en": "Gauge Chart",
+      "uk": "Таблиця розмірів"
+    },
+    "tags": [
+      {
+        "key": "chart",
+        "i18n": {
+          "en": "chart",
+          "uk": "діаграма"
+        }
+      },
+      {
+        "key": "gauge",
+        "i18n": {
+          "en": "gauge",
+          "uk": "калібр"
+        }
+      },
+      {
+        "key": "speedometer",
+        "i18n": {
+          "en": "speedometer",
+          "uk": "спідометр"
+        }
+      },
+      {
+        "key": "dial",
+        "i18n": {
+          "en": "dial",
+          "uk": "циферблат"
+        }
+      },
+      {
+        "key": "score",
+        "i18n": {
+          "en": "score",
+          "uk": "рахунок"
+        }
+      },
+      {
+        "key": "performance",
+        "i18n": {
+          "en": "performance",
+          "uk": "виступ"
+        }
+      },
+      {
+        "key": "meter",
+        "i18n": {
+          "en": "meter",
+          "uk": "метр"
+        }
+      },
+      {
+        "key": "measure",
+        "i18n": {
+          "en": "measure",
+          "uk": "міра"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/biz-gauge-chart",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

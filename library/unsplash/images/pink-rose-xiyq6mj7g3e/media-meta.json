@@ -1,0 +1,78 @@
+{
+  "slug": "pink-rose-xiyq6mj7g3e",
+  "mediaKey": "7ce0ae8c-f59f-4341-96ef-65c58ac1cfc3",
+  "i18n": {
+    "name": {
+      "en": "pink rose",
+      "uk": "рожева троянда"
+    },
+    "alt": {
+      "en": "pink rose",
+      "uk": "рожева троянда"
+    },
+    "tags": [
+      {
+        "key": "brown",
+        "i18n": {
+          "en": "brown",
+          "uk": "коричневий"
+        }
+      },
+      {
+        "key": "flower",
+        "i18n": {
+          "en": "flower",
+          "uk": "квітка"
+        }
+      },
+      {
+        "key": "rose",
+        "i18n": {
+          "en": "rose",
+          "uk": "троянда"
+        }
+      },
+      {
+        "key": "plant",
+        "i18n": {
+          "en": "plant",
+          "uk": "рослина"
+        }
+      },
+      {
+        "key": "blossom",
+        "i18n": {
+          "en": "blossom",
+          "uk": "цвітіння"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "authorName": "zhengtao tang",
+  "authorUrl": "https://unsplash.com/@tangzhengtao",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "pinned": false,
+  "width": 2400,
+  "height": 3428,
+  "collectionSlugs": [
+    "nature"
+  ],
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/unsplash/images/pink-rose-xiyq6mj7g3e/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/unsplash/images/pink-rose-xiyq6mj7g3e/pink-rose-xiyq6mj7g3e.jpg",
+  "thumbnailPath": "/Users/taras/HOLE/Projects/scraper/tmp/images/pink-rose-xiyq6mj7g3e/pink-rose-xiyq6mj7g3e_thumb.webp",
+  "relativeAssetPath": "library/unsplash/images/pink-rose-xiyq6mj7g3e/pink-rose-xiyq6mj7g3e.jpg"
+}

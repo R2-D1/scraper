@@ -1,0 +1,63 @@
+{
+  "slug": "my-files-1xwx",
+  "mediaKey": "7ccb7ce7-c497-4f57-8c42-e842c5760076",
+  "providerId": "6812896c8f8eca5418e41aa6",
+  "i18n": {
+    "name": {
+      "en": "My Files",
+      "uk": "Мої файли"
+    },
+    "alt": {
+      "en": "My Files",
+      "uk": "Мої файли"
+    },
+    "tags": [
+      {
+        "key": "my-files",
+        "i18n": {
+          "en": "My Files",
+          "uk": "Мої файли"
+        }
+      },
+      {
+        "key": "my",
+        "i18n": {
+          "en": "my",
+          "uk": "мій"
+        }
+      },
+      {
+        "key": "files",
+        "i18n": {
+          "en": "files",
+          "uk": "файли"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/my-files_1xwx.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 797,
+  "height": 753
+}

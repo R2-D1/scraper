@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-37666638",
+  "mediaKey": "pexels:37666638",
+  "i18n": {
+    "name": {
+      "en": "Man holding a tablet and looking at camera",
+      "uk": "Чоловік, який тримає планшет і дивиться в камеру"
+    },
+    "alt": {
+      "en": "Free stock photo of bokeh, cinematic, cinematicedit",
+      "uk": "Безкоштовне стокове фото з ефектом боке, кінематографічне, cinematicedit"
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "tablet",
+        "i18n": {
+          "en": "tablet",
+          "uk": "планшет"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "dark-background",
+        "i18n": {
+          "en": "dark background",
+          "uk": "темний фон"
+        }
+      },
+      {
+        "key": "technology",
+        "i18n": {
+          "en": "technology",
+          "uk": "технологія"
+        }
+      },
+      {
+        "key": "indoor",
+        "i18n": {
+          "en": "indoor",
+          "uk": "у приміщенні"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/37666638/",
+  "sourceName": "Pexels",
+  "authorName": "melbourne ross",
+  "authorUrl": "https://www.pexels.com/@mjrfilms",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

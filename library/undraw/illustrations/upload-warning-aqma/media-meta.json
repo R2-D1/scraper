@@ -1,0 +1,63 @@
+{
+  "slug": "upload-warning-aqma",
+  "mediaKey": "67096544-2005-40c8-8e6c-ffcd0377112f",
+  "providerId": "69cee97b79740242d59ddad9",
+  "i18n": {
+    "name": {
+      "en": "Upload Warning",
+      "uk": "Попередження щодо завантаження"
+    },
+    "alt": {
+      "en": "Upload Warning",
+      "uk": "Попередження щодо завантаження"
+    },
+    "tags": [
+      {
+        "key": "upload-warning",
+        "i18n": {
+          "en": "Upload Warning",
+          "uk": "Попередження щодо завантаження"
+        }
+      },
+      {
+        "key": "upload",
+        "i18n": {
+          "en": "upload",
+          "uk": "завантажити"
+        }
+      },
+      {
+        "key": "warning",
+        "i18n": {
+          "en": "warning",
+          "uk": "попередження"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/upload-warning_aqma.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 885,
+  "height": 800
+}

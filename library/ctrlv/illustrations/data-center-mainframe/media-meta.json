@@ -1,0 +1,76 @@
+{
+  "slug": "data-center-mainframe",
+  "mediaKey": "b19750c5-f055-4e92-927c-459911924c31",
+  "i18n": {
+    "name": {
+      "en": "Mainframe",
+      "uk": "Мейнфрейм"
+    },
+    "alt": {
+      "en": "Mainframe",
+      "uk": "Мейнфрейм"
+    },
+    "tags": [
+      {
+        "key": "mainframe",
+        "i18n": {
+          "en": "mainframe",
+          "uk": "мейнфрейм"
+        }
+      },
+      {
+        "key": "supercomputer",
+        "i18n": {
+          "en": "supercomputer",
+          "uk": "суперкомп'ютер"
+        }
+      },
+      {
+        "key": "processing",
+        "i18n": {
+          "en": "processing",
+          "uk": "обробка"
+        }
+      },
+      {
+        "key": "server",
+        "i18n": {
+          "en": "server",
+          "uk": "сервер"
+        }
+      },
+      {
+        "key": "tech",
+        "i18n": {
+          "en": "tech",
+          "uk": "технології"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/data-center-mainframe",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "city-skyline",
+  "mediaKey": "05f73cab-4324-459d-a534-9f5a3fe00cee",
+  "i18n": {
+    "name": {
+      "en": "City Skyline",
+      "uk": "Панорама міста"
+    },
+    "alt": {
+      "en": "City Skyline",
+      "uk": "Панорама міста"
+    },
+    "tags": [
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "skyline",
+        "i18n": {
+          "en": "skyline",
+          "uk": "панорама міста"
+        }
+      },
+      {
+        "key": "real-estate",
+        "i18n": {
+          "en": "real estate",
+          "uk": "нерухомість"
+        }
+      },
+      {
+        "key": "commercial",
+        "i18n": {
+          "en": "commercial",
+          "uk": "комерційний"
+        }
+      },
+      {
+        "key": "buildings",
+        "i18n": {
+          "en": "buildings",
+          "uk": "будівлі"
+        }
+      },
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "urban",
+          "uk": "урбаністичний"
+        }
+      },
+      {
+        "key": "architecture",
+        "i18n": {
+          "en": "architecture",
+          "uk": "архітектура"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/city-skyline",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

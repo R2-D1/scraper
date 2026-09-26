@@ -1,0 +1,49 @@
+{
+  "slug": "happy-fsrv",
+  "mediaKey": "09c2ad51-bec0-4fc5-9fd7-c1513b305aaf",
+  "providerId": "693b311ce29f708d462e2451",
+  "i18n": {
+    "name": {
+      "en": "Happy",
+      "uk": "Щасливий"
+    },
+    "alt": {
+      "en": "Happy",
+      "uk": "Щасливий"
+    },
+    "tags": [
+      {
+        "key": "happy",
+        "i18n": {
+          "en": "Happy",
+          "uk": "Щасливий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/happy_fsrv.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 577,
+  "height": 800
+}

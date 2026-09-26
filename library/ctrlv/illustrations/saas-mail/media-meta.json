@@ -1,0 +1,97 @@
+{
+  "slug": "saas-mail",
+  "mediaKey": "430e3db6-c824-429b-81a3-601eba7a2c6a",
+  "i18n": {
+    "name": {
+      "en": "Email Campaigns",
+      "uk": "Електронні розсилки"
+    },
+    "alt": {
+      "en": "Email Campaigns",
+      "uk": "Електронні розсилки"
+    },
+    "tags": [
+      {
+        "key": "saas",
+        "i18n": {
+          "en": "saas",
+          "uk": "SaaS"
+        }
+      },
+      {
+        "key": "mail",
+        "i18n": {
+          "en": "mail",
+          "uk": "пошта"
+        }
+      },
+      {
+        "key": "email",
+        "i18n": {
+          "en": "email",
+          "uk": "електронна пошта"
+        }
+      },
+      {
+        "key": "campaign",
+        "i18n": {
+          "en": "campaign",
+          "uk": "кампанія"
+        }
+      },
+      {
+        "key": "marketing",
+        "i18n": {
+          "en": "marketing",
+          "uk": "маркетинг"
+        }
+      },
+      {
+        "key": "newsletter",
+        "i18n": {
+          "en": "newsletter",
+          "uk": "розсилка"
+        }
+      },
+      {
+        "key": "send",
+        "i18n": {
+          "en": "send",
+          "uk": "відправити"
+        }
+      },
+      {
+        "key": "envelope",
+        "i18n": {
+          "en": "envelope",
+          "uk": "конверт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/saas-mail",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

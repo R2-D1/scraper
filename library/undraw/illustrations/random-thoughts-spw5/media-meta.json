@@ -1,0 +1,63 @@
+{
+  "slug": "random-thoughts-spw5",
+  "mediaKey": "f9683d32-2772-477e-8369-c61b00e2ffd4",
+  "providerId": "691e3c45aec76c3729d49d49",
+  "i18n": {
+    "name": {
+      "en": "Random Thoughts",
+      "uk": "Випадкові думки"
+    },
+    "alt": {
+      "en": "Random Thoughts",
+      "uk": "Випадкові думки"
+    },
+    "tags": [
+      {
+        "key": "random-thoughts",
+        "i18n": {
+          "en": "Random Thoughts",
+          "uk": "Випадкові думки"
+        }
+      },
+      {
+        "key": "random",
+        "i18n": {
+          "en": "random",
+          "uk": "випадковий"
+        }
+      },
+      {
+        "key": "thoughts",
+        "i18n": {
+          "en": "thoughts",
+          "uk": "думки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/random-thoughts_spw5.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 667
+}

@@ -1,0 +1,291 @@
+- generic [ref=f21e4]:
+  - navigation [ref=f21e5]:
+    - generic [ref=f21e6]:
+      - generic [ref=f21e7]:
+        - link "Unsplash Home" [ref=f21e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f21e9]
+        - link "Photos" [ref=f21e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f21e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f21e17]:
+        - button "Explore" [ref=f21e18] [cursor=pointer]
+        - button "Collections" [ref=f21e21] [cursor=pointer]
+        - button "Download History" [ref=f21e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f21e28] [cursor=pointer]
+    - generic [ref=f21e31]:
+      - link "Log in / Sign up" [ref=f21e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fphotos%2Fabstract-black-and-white-study-of-human-legs-6YE0oRNRtYA
+      - button "Language" [ref=f21e35] [cursor=pointer]
+      - button "Menu" [ref=f21e38] [cursor=pointer]
+  - generic [ref=f21e41]:
+    - generic [ref=f21e42]:
+      - navigation [ref=f21e43]:
+        - search "Find visuals sitewide" [ref=f21e45]:
+          - button "Search Unsplash" [ref=f21e46] [cursor=pointer]
+          - combobox [ref=f21e49]:
+            - searchbox "Search Unsplash" [ref=f21e50]
+            - listbox
+          - button "Visual search" [ref=f21e52] [cursor=pointer]
+        - generic [ref=f21e55]:
+          - link "Get Unsplash+" [ref=f21e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f21e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fphotos%2Fabstract-black-and-white-study-of-human-legs-6YE0oRNRtYA
+        - button "Submit an image" [ref=f21e59] [cursor=pointer]
+      - generic [ref=f21e60]:
+        - generic [ref=f21e61]:
+          - banner [ref=f21e63]:
+            - generic [ref=f21e65]:
+              - link [ref=f21e66] [cursor=pointer]:
+                - /url: /@ruliffand
+              - generic [ref=f21e69]:
+                - link "Ruliff Andrean" [ref=f21e70] [cursor=pointer]:
+                  - /url: /@ruliffand
+                - generic [ref=f21e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f21e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-black-and-white-study-of-human-legs-6YE0oRNRtYA
+            - generic [ref=f21e73]:
+              - button "Bookmark" [ref=f21e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f21e77] [cursor=pointer]
+              - button "Edit image" [ref=f21e80] [cursor=pointer]
+              - button "Download" [ref=f21e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f21e90]:
+            - img "Abstract black and white study of human legs" [ref=f21e91]
+          - generic [ref=f21e92]:
+            - generic [ref=f21e94]:
+              - button "Share this image" [ref=f21e95] [cursor=pointer]:
+                - generic [ref=f21e98]: Share
+              - button "More Actions" [ref=f21e99] [cursor=pointer]
+            - generic [ref=f21e103]:
+              - heading "Abstract black and white study of human legs" [level=1] [ref=f21e105]
+              - paragraph [ref=f21e109]: Download this HD photo of texture, abstract, pattern, and gradient by Ruliff Andrean (@ruliffand)
+              - generic [ref=f21e111]:
+                - generic [ref=f21e116]:
+                  - text: Published on
+                  - time [ref=f21e117]: November 7, 2025
+                - generic [ref=f21e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f21e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f21e124]:
+              - link "texture" [ref=f21e125] [cursor=pointer]:
+                - /url: /s/photos/texture
+              - link "abstract" [ref=f21e126] [cursor=pointer]:
+                - /url: /s/photos/abstract
+              - link "pattern" [ref=f21e127] [cursor=pointer]:
+                - /url: /s/photos/pattern
+              - link "gradient" [ref=f21e128] [cursor=pointer]:
+                - /url: /s/photos/gradient
+              - link "abstract background" [ref=f21e129] [cursor=pointer]:
+                - /url: /s/photos/abstract-background
+              - link "abstract art" [ref=f21e130] [cursor=pointer]:
+                - /url: /s/photos/abstract-art
+              - link "grain texture" [ref=f21e131] [cursor=pointer]:
+                - /url: /s/photos/grain-texture
+              - link "retro" [ref=f21e132] [cursor=pointer]:
+                - /url: /s/photos/retro
+              - link "graphic" [ref=f21e133] [cursor=pointer]:
+                - /url: /s/photos/graphic
+              - link "3d render" [ref=f21e134] [cursor=pointer]:
+                - /url: /s/photos/3d-render
+              - link "wallpapers" [ref=f21e135] [cursor=pointer]:
+                - /url: /s/photos/wallpapers
+              - link "background texture" [ref=f21e136] [cursor=pointer]:
+                - /url: /s/photos/background-texture
+              - link "noise texture" [ref=f21e137] [cursor=pointer]:
+                - /url: /s/photos/noise-texture
+              - link "modern art" [ref=f21e138] [cursor=pointer]:
+                - /url: /s/photos/modern-art
+              - link "digital art" [ref=f21e139] [cursor=pointer]:
+                - /url: /s/photos/digital-art
+              - link "background design" [ref=f21e140] [cursor=pointer]:
+                - /url: /s/photos/background-design
+              - link "retro wallpaper" [ref=f21e141] [cursor=pointer]:
+                - /url: /s/photos/retro-wallpaper
+              - link "monochrome" [ref=f21e142] [cursor=pointer]:
+                - /url: /s/photos/monochrome
+              - link "minimalism" [ref=f21e143] [cursor=pointer]:
+                - /url: /s/photos/minimalism
+              - link "render" [ref=f21e144] [cursor=pointer]:
+                - /url: /s/photos/render
+        - generic [ref=f21e147]:
+          - generic [ref=f21e148]:
+            - paragraph [ref=f21e150]: From this series
+            - generic [ref=f21e152]:
+              - button "scroll list to the right" [ref=f21e154] [cursor=pointer]
+              - generic [ref=f21e157]:
+                - generic [ref=f21e158]:
+                  - link [ref=f21e159] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-dark-gray-fabric-with-subtle-light-reflections---vPMHqDaAM
+                  - link [ref=f21e162]:
+                    - /url: /photos/abstract-dark-gray-fabric-with-subtle-light-reflections---vPMHqDaAM
+                    - img "Abstract dark gray fabric with subtle light reflections" [ref=f21e163]
+                - generic [ref=f21e164]:
+                  - link [ref=f21e165] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fclose-up-of-a-metal-chain-link-alxWqUE_wPg
+                  - link [ref=f21e168]:
+                    - /url: /photos/close-up-of-a-metal-chain-link-alxWqUE_wPg
+                    - img "Close-up of a metal chain link" [ref=f21e169]
+                - generic [ref=f21e170]:
+                  - link [ref=f21e171] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-grayscale-background-with-fluid-like-patterns-j0dZtmf4lPI
+                  - link [ref=f21e174]:
+                    - /url: /photos/abstract-grayscale-background-with-fluid-like-patterns-j0dZtmf4lPI
+                    - img "Abstract grayscale background with fluid-like patterns" [ref=f21e175]
+                - generic [ref=f21e176]:
+                  - link [ref=f21e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-black-and-white-fluid-shapes-IgJLqErwdaQ
+                  - link [ref=f21e180]:
+                    - /url: /photos/abstract-black-and-white-fluid-shapes-IgJLqErwdaQ
+                    - img "Abstract black and white fluid shapes" [ref=f21e181]
+          - generic [ref=f21e182]:
+            - heading "Related images" [level=4] [ref=f21e184]
+            - generic [ref=f21e188]:
+              - generic [ref=f21e189]:
+                - figure [ref=f21e190]:
+                  - generic [ref=f21e192]:
+                    - link [ref=f21e193]:
+                      - /url: /photos/abstract-black-and-white-fluid-shapes-IgJLqErwdaQ
+                      - img "Abstract black and white fluid shapes" [ref=f21e194]
+                    - link [ref=f21e195] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fabstract-black-and-white-fluid-shapes-IgJLqErwdaQ
+                - figure [ref=f21e198]:
+                  - generic [ref=f21e200]:
+                    - link [ref=f21e201]:
+                      - /url: /photos/two-faces-close-together-in-black-and-white-M49kAMJINEU
+                      - img "Two faces close together in black and white." [ref=f21e202]
+                    - link [ref=f21e203] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Ftwo-faces-close-together-in-black-and-white-M49kAMJINEU
+                - figure [ref=f21e206]:
+                  - generic [ref=f21e208]:
+                    - link [ref=f21e209]:
+                      - /url: /photos/abstract-grayscale-background-with-fluid-like-patterns-j0dZtmf4lPI
+                      - img "Abstract grayscale background with fluid-like patterns" [ref=f21e210]
+                    - link [ref=f21e211] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fabstract-grayscale-background-with-fluid-like-patterns-j0dZtmf4lPI
+                - figure [ref=f21e214]:
+                  - generic [ref=f21e216]:
+                    - link [ref=f21e217]:
+                      - /url: /photos/abstract-metallic-texture-with-smooth-curves-and-highlights-tRktRKOzXI0
+                      - img "Abstract metallic texture with smooth curves and highlights" [ref=f21e218]
+                    - link [ref=f21e219] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fabstract-metallic-texture-with-smooth-curves-and-highlights-tRktRKOzXI0
+                - figure [ref=f21e222]:
+                  - generic [ref=f21e224]:
+                    - link [ref=f21e225]:
+                      - /url: /photos/an-abstract-black-background-with-curves-and-curves-iWWVGYmLI0s
+                      - img "an abstract black background with curves and curves" [ref=f21e226]
+                    - link [ref=f21e227] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fan-abstract-black-background-with-curves-and-curves-iWWVGYmLI0s
+                - figure [ref=f21e230]:
+                  - generic [ref=f21e232]:
+                    - link [ref=f21e233]:
+                      - /url: /photos/a-white-mannequin-standing-in-front-of-a-mirror-dzVzVEFNGsw
+                      - img "a white mannequin standing in front of a mirror" [ref=f21e234]
+                    - link [ref=f21e235] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-white-mannequin-standing-in-front-of-a-mirror-dzVzVEFNGsw
+                - figure [ref=f21e238]:
+                  - generic [ref=f21e240]:
+                    - link [ref=f21e241]:
+                      - /url: /photos/a-womans-naked-body-is-shown-against-a-gray-background-cWOBohw7aKs
+                      - img "a woman's naked body is shown against a gray background" [ref=f21e242]
+                    - link [ref=f21e243] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-womans-naked-body-is-shown-against-a-gray-background-cWOBohw7aKs
+              - generic [ref=f21e246]:
+                - figure [ref=f21e247]:
+                  - generic [ref=f21e249]:
+                    - link [ref=f21e250]:
+                      - /url: /photos/close-up-of-a-metal-chain-link-alxWqUE_wPg
+                      - img "Close-up of a metal chain link" [ref=f21e251]
+                    - link [ref=f21e252] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fclose-up-of-a-metal-chain-link-alxWqUE_wPg
+                - figure [ref=f21e255]:
+                  - generic [ref=f21e257]:
+                    - link [ref=f21e258]:
+                      - /url: /photos/abstract-grayscale-metallic-texture-with-flowing-lines-WistWICckbc
+                      - img "Abstract grayscale metallic texture with flowing lines." [ref=f21e259]
+                    - link [ref=f21e260] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fabstract-grayscale-metallic-texture-with-flowing-lines-WistWICckbc
+                - figure [ref=f21e263]:
+                  - generic [ref=f21e265]:
+                    - link [ref=f21e266]:
+                      - /url: /photos/abstract-dark-gray-fabric-with-subtle-light-reflections---vPMHqDaAM
+                      - img "Abstract dark gray fabric with subtle light reflections" [ref=f21e267]
+                    - link [ref=f21e268] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fabstract-dark-gray-fabric-with-subtle-light-reflections---vPMHqDaAM
+                - figure [ref=f21e271]:
+                  - generic [ref=f21e273]:
+                    - link [ref=f21e274]:
+                      - /url: /photos/abstract-flowing-curves-with-soft-light-and-shadow-T-tTYtnHcLc
+                      - img "Abstract flowing curves with soft light and shadow" [ref=f21e275]
+                    - link [ref=f21e276] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fabstract-flowing-curves-with-soft-light-and-shadow-T-tTYtnHcLc
+                - figure [ref=f21e279]:
+                  - generic [ref=f21e281]:
+                    - link [ref=f21e282]:
+                      - /url: /photos/a-blurry-photo-of-a-bed-with-white-sheets-kFwVoeVsYVM
+                      - img "a blurry photo of a bed with white sheets" [ref=f21e283]
+                    - link [ref=f21e284] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-blurry-photo-of-a-bed-with-white-sheets-kFwVoeVsYVM
+                - figure [ref=f21e287]:
+                  - generic [ref=f21e289]:
+                    - link [ref=f21e290]:
+                      - /url: /photos/silhouette-of-a-persons-head-against-red-background-jEc_tSjV7Rk
+                      - img "Silhouette of a person's head against red background" [ref=f21e291]
+                    - link [ref=f21e292] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fsilhouette-of-a-persons-head-against-red-background-jEc_tSjV7Rk
+                - figure [ref=f21e295]:
+                  - generic [ref=f21e297]:
+                    - link [ref=f21e298]:
+                      - /url: /photos/two-hands-gently-touching-in-soft-focus-N_SoqFpSIc4
+                      - img "Two hands gently touching in soft focus" [ref=f21e299]
+                    - link [ref=f21e300] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Ftwo-hands-gently-touching-in-soft-focus-N_SoqFpSIc4
+                - figure [ref=f21e303]:
+                  - generic [ref=f21e305]:
+                    - link [ref=f21e306]:
+                      - /url: /photos/abstract-grayscale-flowing-shapes-with-light-and-shadow-6khN0P8nSLY
+                      - img "Abstract grayscale flowing shapes with light and shadow" [ref=f21e307]
+                    - link [ref=f21e308] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fabstract-grayscale-flowing-shapes-with-light-and-shadow-6khN0P8nSLY
+              - generic [ref=f21e311]:
+                - figure [ref=f21e312]:
+                  - generic [ref=f21e314]:
+                    - link [ref=f21e315]:
+                      - /url: /photos/abstract-black-and-white-pattern-with-stripes-hrE9trmf-RA
+                      - img "Abstract black and white pattern with stripes" [ref=f21e316]
+                    - link [ref=f21e317] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fabstract-black-and-white-pattern-with-stripes-hrE9trmf-RA
+                - figure [ref=f21e320]:
+                  - generic [ref=f21e322]:
+                    - link [ref=f21e323]:
+                      - /url: /photos/abstract-close-up-of-smooth-flowing-dark-lines-DDdVMs0JLx0
+                      - img "Abstract close-up of smooth, flowing dark lines" [ref=f21e324]
+                    - link [ref=f21e325] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fabstract-close-up-of-smooth-flowing-dark-lines-DDdVMs0JLx0
+                - figure [ref=f21e328]:
+                  - generic [ref=f21e330]:
+                    - link [ref=f21e331]:
+                      - /url: /photos/a-shadowy-profile-of-a-womans-face-0C0ES3YH4jU
+                      - img "A shadowy profile of a woman's face" [ref=f21e332]
+                    - link [ref=f21e333] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-shadowy-profile-of-a-womans-face-0C0ES3YH4jU
+                - figure [ref=f21e336]:
+                  - generic [ref=f21e338]:
+                    - link [ref=f21e339]:
+                      - /url: /photos/abstract-black-and-white-light-and-shadow-patterns-YALjSOanu8k
+                      - img "Abstract black and white light and shadow patterns" [ref=f21e340]
+                    - link [ref=f21e341] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fabstract-black-and-white-light-and-shadow-patterns-YALjSOanu8k
+                - figure [ref=f21e344]:
+                  - generic [ref=f21e346]:
+                    - link [ref=f21e347]:
+                      - /url: /photos/abstract-shapes-and-colors-fill-the-image-hqX7QnFoLfs
+                      - img "Abstract shapes and colors fill the image." [ref=f21e348]
+                    - link [ref=f21e349] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fabstract-shapes-and-colors-fill-the-image-hqX7QnFoLfs
+    - generic:
+      - region "Notifications"

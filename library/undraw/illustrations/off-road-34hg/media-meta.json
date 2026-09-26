@@ -1,0 +1,63 @@
+{
+  "slug": "off-road-34hg",
+  "mediaKey": "a8fa94dc-140c-4cae-ab05-4631fe538aba",
+  "providerId": "628b691678ee9e00183f25b2",
+  "i18n": {
+    "name": {
+      "en": "Off road",
+      "uk": "Позашляховик"
+    },
+    "alt": {
+      "en": "Off road",
+      "uk": "Позашляховик"
+    },
+    "tags": [
+      {
+        "key": "off-road",
+        "i18n": {
+          "en": "Off road",
+          "uk": "Позашляховик"
+        }
+      },
+      {
+        "key": "off",
+        "i18n": {
+          "en": "off",
+          "uk": "вимкнено"
+        }
+      },
+      {
+        "key": "road",
+        "i18n": {
+          "en": "road",
+          "uk": "дорога"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/off-road_34hg.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 829,
+  "height": 728
+}

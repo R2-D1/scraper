@@ -1,0 +1,63 @@
+{
+  "slug": "modern-art-09d6",
+  "mediaKey": "2a5b90cc-7858-4c4a-bf47-d364fb4f36cb",
+  "providerId": "601d30a983bf710017197462",
+  "i18n": {
+    "name": {
+      "en": "Modern art",
+      "uk": "Сучасне мистецтво"
+    },
+    "alt": {
+      "en": "Modern art",
+      "uk": "Сучасне мистецтво"
+    },
+    "tags": [
+      {
+        "key": "modern-art",
+        "i18n": {
+          "en": "Modern art",
+          "uk": "Сучасне мистецтво"
+        }
+      },
+      {
+        "key": "modern",
+        "i18n": {
+          "en": "modern",
+          "uk": "сучасний"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "art",
+          "uk": "мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/modern-art_09d6.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 931,
+  "height": 613
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "co-working-becw",
+  "mediaKey": "737e5809-04bd-4232-818f-22b8c52d796e",
+  "providerId": "614b08e76041e80017f0006e",
+  "i18n": {
+    "name": {
+      "en": "Co-working",
+      "uk": "Коворкінг"
+    },
+    "alt": {
+      "en": "Co-working",
+      "uk": "Коворкінг"
+    },
+    "tags": [
+      {
+        "key": "co-working",
+        "i18n": {
+          "en": "Co-working",
+          "uk": "Коворкінг"
+        }
+      },
+      {
+        "key": "co",
+        "i18n": {
+          "en": "co",
+          "uk": "co"
+        }
+      },
+      {
+        "key": "working",
+        "i18n": {
+          "en": "working",
+          "uk": "робота"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/co-working_becw.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 883,
+  "height": 802
+}

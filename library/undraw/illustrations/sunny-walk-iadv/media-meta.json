@@ -1,0 +1,63 @@
+{
+  "slug": "sunny-walk-iadv",
+  "mediaKey": "8ac1003b-b74a-4cd6-a880-3fa22145465a",
+  "providerId": "6a3b07f2939aab611cf25c55",
+  "i18n": {
+    "name": {
+      "en": "Sunny Walk",
+      "uk": "Сонячна прогулянка"
+    },
+    "alt": {
+      "en": "Sunny Walk",
+      "uk": "Сонячна прогулянка"
+    },
+    "tags": [
+      {
+        "key": "sunny-walk",
+        "i18n": {
+          "en": "Sunny Walk",
+          "uk": "Сонячна прогулянка"
+        }
+      },
+      {
+        "key": "sunny",
+        "i18n": {
+          "en": "sunny",
+          "uk": "сонячно"
+        }
+      },
+      {
+        "key": "walk",
+        "i18n": {
+          "en": "walk",
+          "uk": "ходити"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/sunny-walk_iadv.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 964,
+  "height": 800
+}

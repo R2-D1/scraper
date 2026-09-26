@@ -1,0 +1,59 @@
+{
+  "slug": "a-bush-of-pink-roses-with-green-leaves-id-g2ljr3ve",
+  "mediaKey": "2ca2123d-705f-4a66-ad54-6d87142c4d1f",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "A bush of pink roses with green leaves id",
+      "uk": "Кущ рожевих троянд із зеленим листям"
+    },
+    "alt": {
+      "en": "A bush of pink roses with green leaves id",
+      "uk": "Кущ рожевих троянд із зеленим листям"
+    },
+    "tags": [
+      {
+        "key": "petal",
+        "i18n": {
+          "en": "petal",
+          "uk": "пелюстка"
+        }
+      },
+      {
+        "key": "rose",
+        "i18n": {
+          "en": "rose",
+          "uk": "троянда"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "blossom",
+        "flower"
+      ],
+      "uk": [
+        "цвітіння",
+        "квітка"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/a-bush-of-pink-roses-with-green-leaves-iD_G2lJR3VE",
+  "sourceName": "Unsplash",
+  "authorName": "Eugene Kim",
+  "authorUrl": "https://unsplash.com/@evgenii__kim",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 1600,
+  "collectionSlugs": [
+    "nature"
+  ]
+}

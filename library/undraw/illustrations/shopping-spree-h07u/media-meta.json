@@ -1,0 +1,63 @@
+{
+  "slug": "shopping-spree-h07u",
+  "mediaKey": "98c2ff24-c533-4dac-9a10-da1f3a5d8793",
+  "providerId": "689a472702e79c8efd677dbe",
+  "i18n": {
+    "name": {
+      "en": "Shopping Spree",
+      "uk": "Шопінг-марафон"
+    },
+    "alt": {
+      "en": "Shopping Spree",
+      "uk": "Шопінг-марафон"
+    },
+    "tags": [
+      {
+        "key": "shopping-spree",
+        "i18n": {
+          "en": "Shopping Spree",
+          "uk": "Шопінг-марафон"
+        }
+      },
+      {
+        "key": "shopping",
+        "i18n": {
+          "en": "shopping",
+          "uk": "покупки"
+        }
+      },
+      {
+        "key": "spree",
+        "i18n": {
+          "en": "spree",
+          "uk": "spree"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/shopping-spree_h07u.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 322,
+  "height": 640
+}

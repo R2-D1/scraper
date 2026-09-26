@@ -1,0 +1,261 @@
+- generic [ref=f13e4]:
+  - navigation [ref=f13e5]:
+    - generic [ref=f13e6]:
+      - generic [ref=f13e7]:
+        - link "Unsplash Home" [ref=f13e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f13e9]
+        - link "Photos" [ref=f13e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f13e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f13e17]:
+        - button "Explore" [ref=f13e18] [cursor=pointer]
+        - button "Collections" [ref=f13e21] [cursor=pointer]
+        - button "Download History" [ref=f13e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f13e28] [cursor=pointer]
+    - generic [ref=f13e31]:
+      - link "Log in / Sign up" [ref=f13e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-basketball-flying-through-the-air-over-a-basketball-court-l57DLbM095Y
+      - button "Language" [ref=f13e35] [cursor=pointer]
+      - button "Menu" [ref=f13e38] [cursor=pointer]
+  - generic [ref=f13e41]:
+    - generic [ref=f13e42]:
+      - navigation [ref=f13e43]:
+        - search "Find visuals sitewide" [ref=f13e45]:
+          - button "Search Unsplash" [ref=f13e46] [cursor=pointer]
+          - combobox [ref=f13e49]:
+            - searchbox "Search Unsplash" [ref=f13e50]
+            - listbox
+          - button "Visual search" [ref=f13e52] [cursor=pointer]
+        - generic [ref=f13e55]:
+          - link "Get Unsplash+" [ref=f13e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f13e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-basketball-flying-through-the-air-over-a-basketball-court-l57DLbM095Y
+        - button "Submit an image" [ref=f13e59] [cursor=pointer]
+      - generic [ref=f13e60]:
+        - generic [ref=f13e61]:
+          - banner [ref=f13e63]:
+            - generic [ref=f13e65]:
+              - link [ref=f13e66] [cursor=pointer]:
+                - /url: /@ghariza_/illustrations
+              - generic [ref=f13e69]:
+                - link "ghariza mahavira" [ref=f13e70] [cursor=pointer]:
+                  - /url: /@ghariza_/illustrations
+                - generic [ref=f13e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f13e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-basketball-flying-through-the-air-over-a-basketball-court-l57DLbM095Y
+            - generic [ref=f13e73]:
+              - button "Bookmark" [ref=f13e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f13e77] [cursor=pointer]
+              - button "Edit image" [ref=f13e80] [cursor=pointer]
+              - button "Download" [ref=f13e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f13e90]:
+            - img "A basketball flying through the air over a basketball court" [ref=f13e91]
+          - generic [ref=f13e92]:
+            - generic [ref=f13e94]:
+              - button "Share this image" [ref=f13e95] [cursor=pointer]:
+                - generic [ref=f13e98]: Share
+              - button "More Actions" [ref=f13e99] [cursor=pointer]
+            - generic [ref=f13e103]:
+              - heading "A basketball flying through the air over a basketball court" [level=1] [ref=f13e105]
+              - paragraph [ref=f13e109]: Download this illustration of blue, illustration, team, and pink by ghariza mahavira (@ghariza_)
+              - generic [ref=f13e111]:
+                - generic [ref=f13e116]:
+                  - text: Published on
+                  - time [ref=f13e117]: October 26, 2024
+                - generic [ref=f13e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f13e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f13e124]:
+              - link "blue" [ref=f13e125] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "illustration" [ref=f13e126] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "team" [ref=f13e127] [cursor=pointer]:
+                - /url: /s/illustrations/team
+              - link "pink" [ref=f13e128] [cursor=pointer]:
+                - /url: /s/illustrations/pink
+              - link "fitness" [ref=f13e129] [cursor=pointer]:
+                - /url: /s/illustrations/fitness
+              - link "teamwork" [ref=f13e130] [cursor=pointer]:
+                - /url: /s/illustrations/teamwork
+              - link "orange" [ref=f13e131] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "red" [ref=f13e132] [cursor=pointer]:
+                - /url: /s/illustrations/red
+              - link "basketball" [ref=f13e133] [cursor=pointer]:
+                - /url: /s/illustrations/basketball
+              - link "sports" [ref=f13e134] [cursor=pointer]:
+                - /url: /s/illustrations/sports
+              - link "game" [ref=f13e135] [cursor=pointer]:
+                - /url: /s/illustrations/game
+              - link "vector" [ref=f13e136] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "court" [ref=f13e137] [cursor=pointer]:
+                - /url: /s/illustrations/court
+              - link "ball" [ref=f13e138] [cursor=pointer]:
+                - /url: /s/illustrations/ball
+              - link "competition" [ref=f13e139] [cursor=pointer]:
+                - /url: /s/illustrations/competition
+              - link "play" [ref=f13e140] [cursor=pointer]:
+                - /url: /s/illustrations/play
+              - link "teal" [ref=f13e141] [cursor=pointer]:
+                - /url: /s/illustrations/teal
+              - link "active lifestyle" [ref=f13e142] [cursor=pointer]:
+                - /url: /s/illustrations/active-lifestyle
+              - link "team sport" [ref=f13e143] [cursor=pointer]:
+                - /url: /s/illustrations/team-sport
+              - link "athletic" [ref=f13e144] [cursor=pointer]:
+                - /url: /s/illustrations/athletic
+        - generic [ref=f13e148]:
+          - heading "Related images" [level=4] [ref=f13e150]
+          - generic [ref=f13e154]:
+            - generic [ref=f13e155]:
+              - figure [ref=f13e156]:
+                - generic [ref=f13e158]:
+                  - link [ref=f13e159]:
+                    - /url: /illustrations/a-basketball-ball-is-flying-through-the-air-sCPzjsS59mk
+                    - img "A basketball ball is flying through the air" [ref=f13e160]
+                  - link [ref=f13e161] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-basketball-ball-is-flying-through-the-air-sCPzjsS59mk
+              - figure [ref=f13e164]:
+                - generic [ref=f13e166]:
+                  - link [ref=f13e167]:
+                    - /url: /illustrations/a-basketball-hoop-with-a-basketball-on-it-CG1KYL_G6n8
+                    - img "A basketball hoop with a basketball on it" [ref=f13e168]
+                  - link [ref=f13e169] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-basketball-hoop-with-a-basketball-on-it-CG1KYL_G6n8
+              - figure [ref=f13e172]:
+                - generic [ref=f13e174]:
+                  - link [ref=f13e175]:
+                    - /url: /illustrations/a-basketball-sitting-on-top-of-a-basketball-court-GQk7qxQnYzY
+                    - img "A basketball sitting on top of a basketball court" [ref=f13e176]
+                  - link [ref=f13e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-basketball-sitting-on-top-of-a-basketball-court-GQk7qxQnYzY
+              - figure [ref=f13e180]:
+                - generic [ref=f13e182]:
+                  - link [ref=f13e183]:
+                    - /url: /illustrations/a-basketball-court-with-a-ball-in-the-middle-of-it-Sfhg9Zev_sc
+                    - img "A basketball court with a ball in the middle of it" [ref=f13e184]
+                  - link [ref=f13e185] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-basketball-court-with-a-ball-in-the-middle-of-it-Sfhg9Zev_sc
+              - figure [ref=f13e188]:
+                - generic [ref=f13e190]:
+                  - link [ref=f13e191]:
+                    - /url: /illustrations/a-person-holding-a-basketball-over-a-hoop-KlzxE0nYxAU
+                    - img "A person holding a basketball over a hoop" [ref=f13e192]
+                  - link [ref=f13e193] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-person-holding-a-basketball-over-a-hoop-KlzxE0nYxAU
+              - figure [ref=f13e196]:
+                - generic [ref=f13e198]:
+                  - link [ref=f13e199]:
+                    - /url: /illustrations/a-hand-is-holding-a-ball-up-to-the-sky-DeVOPDKB-Oc
+                    - img "A hand is holding a ball up to the sky" [ref=f13e200]
+                  - link [ref=f13e201] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-hand-is-holding-a-ball-up-to-the-sky-DeVOPDKB-Oc
+            - generic [ref=f13e204]:
+              - figure [ref=f13e205]:
+                - generic [ref=f13e207]:
+                  - link [ref=f13e208]:
+                    - /url: /illustrations/a-basketball-going-through-the-hoop-on-a-basketball-court-ygwGMyGk3lI
+                    - img "A basketball going through the hoop on a basketball court" [ref=f13e209]
+                  - link [ref=f13e210] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-basketball-going-through-the-hoop-on-a-basketball-court-ygwGMyGk3lI
+              - figure [ref=f13e213]:
+                - generic [ref=f13e215]:
+                  - link [ref=f13e216]:
+                    - /url: /illustrations/a-basketball-court-with-a-basketball-going-through-the-hoop-aOkz2sODdGA
+                    - img "A basketball court with a basketball going through the hoop" [ref=f13e217]
+                  - link [ref=f13e218] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-basketball-court-with-a-basketball-going-through-the-hoop-aOkz2sODdGA
+              - figure [ref=f13e221]:
+                - generic [ref=f13e223]:
+                  - link [ref=f13e224]:
+                    - /url: /illustrations/basketball-sits-on-a-blue-court-with-a-line-SK2vGxbL2j0
+                    - img "Basketball sits on a blue court with a line." [ref=f13e225]
+                  - link [ref=f13e226] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fbasketball-sits-on-a-blue-court-with-a-line-SK2vGxbL2j0
+              - figure [ref=f13e229]:
+                - generic [ref=f13e231]:
+                  - link [ref=f13e232]:
+                    - /url: /illustrations/a-basketball-going-through-a-hoop-in-the-desert-uj0UAsqVqTk
+                    - img "A basketball going through a hoop in the desert" [ref=f13e233]
+                  - link [ref=f13e234] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-basketball-going-through-a-hoop-in-the-desert-uj0UAsqVqTk
+              - figure [ref=f13e237]:
+                - generic [ref=f13e239]:
+                  - link [ref=f13e240]:
+                    - /url: /illustrations/a-person-dunking-a-basketball-into-a-hoop-TtDvG7rvgh8
+                    - img "A person dunking a basketball into a hoop" [ref=f13e241]
+                  - link [ref=f13e242] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-person-dunking-a-basketball-into-a-hoop-TtDvG7rvgh8
+              - figure [ref=f13e245]:
+                - generic [ref=f13e247]:
+                  - link [ref=f13e248]:
+                    - /url: /illustrations/a-basketball-and-a-ball-on-a-colorful-background-GYX6bjWtzFY
+                    - img "a basketball and a ball on a colorful background" [ref=f13e249]
+                  - link [ref=f13e250] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-basketball-and-a-ball-on-a-colorful-background-GYX6bjWtzFY
+              - figure [ref=f13e253]:
+                - generic [ref=f13e255]:
+                  - link [ref=f13e256]:
+                    - /url: /illustrations/two-hands-reaching-for-a-basketball-in-the-hoop-iYWhBRgoyaE
+                    - img "Two hands reaching for a basketball in the hoop" [ref=f13e257]
+                  - link [ref=f13e258] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ftwo-hands-reaching-for-a-basketball-in-the-hoop-iYWhBRgoyaE
+            - generic [ref=f13e261]:
+              - figure [ref=f13e262]:
+                - generic [ref=f13e264]:
+                  - link [ref=f13e265]:
+                    - /url: /illustrations/a-basketball-sitting-on-top-of-a-basketball-court-HDCmbmHog4U
+                    - img "A basketball sitting on top of a basketball court" [ref=f13e266]
+                  - link [ref=f13e267] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-basketball-sitting-on-top-of-a-basketball-court-HDCmbmHog4U
+              - figure [ref=f13e270]:
+                - generic [ref=f13e272]:
+                  - link [ref=f13e273]:
+                    - /url: /illustrations/a-basketball-going-through-a-hoop-with-a-ball-HOEWEPlPx8Y
+                    - img "A basketball going through a hoop with a ball" [ref=f13e274]
+                  - link [ref=f13e275] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-basketball-going-through-a-hoop-with-a-ball-HOEWEPlPx8Y
+              - figure [ref=f13e278]:
+                - generic [ref=f13e280]:
+                  - link [ref=f13e281]:
+                    - /url: /illustrations/a-basketball-flying-through-the-air-near-a-basketball-hoop-njtE4etH0QQ
+                    - img "A basketball flying through the air near a basketball hoop" [ref=f13e282]
+                  - link [ref=f13e283] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-basketball-flying-through-the-air-near-a-basketball-hoop-njtE4etH0QQ
+              - figure [ref=f13e286]:
+                - generic [ref=f13e288]:
+                  - link [ref=f13e289]:
+                    - /url: /illustrations/a-basketball-flying-through-the-air-next-to-a-basketball-hoop-WItCKl4jnVQ
+                    - img "A basketball flying through the air next to a basketball hoop" [ref=f13e290]
+                  - link [ref=f13e291] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-basketball-flying-through-the-air-next-to-a-basketball-hoop-WItCKl4jnVQ
+              - figure [ref=f13e294]:
+                - generic [ref=f13e296]:
+                  - link [ref=f13e297]:
+                    - /url: /illustrations/a-hand-holding-a-basketball-over-a-blue-background-cprChzTHxvA
+                    - img "A hand holding a basketball over a blue background" [ref=f13e298]
+                  - link [ref=f13e299] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-hand-holding-a-basketball-over-a-blue-background-cprChzTHxvA
+              - figure [ref=f13e302]:
+                - generic [ref=f13e304]:
+                  - link [ref=f13e305]:
+                    - /url: /illustrations/a-cartoon-of-a-basketball-player-dribbling-a-basketball-UHlJXj43XDE
+                    - img "A cartoon of a basketball player dribbling a basketball" [ref=f13e306]
+                  - link [ref=f13e307] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-of-a-basketball-player-dribbling-a-basketball-UHlJXj43XDE
+              - figure [ref=f13e310]:
+                - generic [ref=f13e312]:
+                  - link [ref=f13e313]:
+                    - /url: /illustrations/a-basketball-is-being-shot-into-the-net-JhGrmcP6Bm4
+                    - img "A basketball is being shot into the net." [ref=f13e314]
+                  - link [ref=f13e315] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-basketball-is-being-shot-into-the-net-JhGrmcP6Bm4
+    - generic:
+      - region "Notifications"

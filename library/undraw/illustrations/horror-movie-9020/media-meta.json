@@ -1,0 +1,63 @@
+{
+  "slug": "horror-movie-9020",
+  "mediaKey": "720cb1eb-fad4-40b7-a9be-a2cffef80588",
+  "providerId": "5c17c40651c0ac0014d0ed01",
+  "i18n": {
+    "name": {
+      "en": "Horror movie",
+      "uk": "Фільм жахів"
+    },
+    "alt": {
+      "en": "Horror movie",
+      "uk": "Фільм жахів"
+    },
+    "tags": [
+      {
+        "key": "horror-movie",
+        "i18n": {
+          "en": "Horror movie",
+          "uk": "Фільм жахів"
+        }
+      },
+      {
+        "key": "horror",
+        "i18n": {
+          "en": "horror",
+          "uk": "жах"
+        }
+      },
+      {
+        "key": "movie",
+        "i18n": {
+          "en": "movie",
+          "uk": "фільм"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/horror-movie_9020.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1022,
+  "height": 795
+}

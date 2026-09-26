@@ -1,0 +1,104 @@
+{
+  "slug": "science-clinical-trials",
+  "mediaKey": "090d3986-5232-4c0c-9d38-030cdb82eea5",
+  "i18n": {
+    "name": {
+      "en": "Clinical Trials",
+      "uk": "Клінічні випробування"
+    },
+    "alt": {
+      "en": "Clinical Trials",
+      "uk": "Клінічні випробування"
+    },
+    "tags": [
+      {
+        "key": "science",
+        "i18n": {
+          "en": "science",
+          "uk": "наука"
+        }
+      },
+      {
+        "key": "clinical",
+        "i18n": {
+          "en": "clinical",
+          "uk": "клінічний"
+        }
+      },
+      {
+        "key": "trial",
+        "i18n": {
+          "en": "trial",
+          "uk": "пробний період"
+        }
+      },
+      {
+        "key": "medicine",
+        "i18n": {
+          "en": "medicine",
+          "uk": "медицина"
+        }
+      },
+      {
+        "key": "drug",
+        "i18n": {
+          "en": "drug",
+          "uk": "ліки"
+        }
+      },
+      {
+        "key": "pill",
+        "i18n": {
+          "en": "pill",
+          "uk": "таблетка"
+        }
+      },
+      {
+        "key": "test",
+        "i18n": {
+          "en": "test",
+          "uk": "тест"
+        }
+      },
+      {
+        "key": "research",
+        "i18n": {
+          "en": "research",
+          "uk": "дослідження"
+        }
+      },
+      {
+        "key": "placebo",
+        "i18n": {
+          "en": "placebo",
+          "uk": "плацебо"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/science-clinical-trials",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

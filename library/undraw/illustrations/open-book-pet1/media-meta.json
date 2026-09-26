@@ -1,0 +1,63 @@
+{
+  "slug": "open-book-pet1",
+  "mediaKey": "f916a5f7-60de-4a25-a583-2e6c23000ebe",
+  "providerId": "6a21ee7979740242d59ddb2d",
+  "i18n": {
+    "name": {
+      "en": "Open Book",
+      "uk": "«Відкрита книга»"
+    },
+    "alt": {
+      "en": "Open Book",
+      "uk": "«Відкрита книга»"
+    },
+    "tags": [
+      {
+        "key": "open-book",
+        "i18n": {
+          "en": "Open Book",
+          "uk": "«Відкрита книга»"
+        }
+      },
+      {
+        "key": "open",
+        "i18n": {
+          "en": "open",
+          "uk": "відкритий"
+        }
+      },
+      {
+        "key": "book",
+        "i18n": {
+          "en": "book",
+          "uk": "книга"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/open-book_pet1.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 512
+}

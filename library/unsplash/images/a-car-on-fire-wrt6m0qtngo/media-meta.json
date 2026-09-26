@@ -1,0 +1,70 @@
+{
+  "slug": "a-car-on-fire-wrt6m0qtngo",
+  "mediaKey": "81ec06a2-31ca-4612-95c3-b722b51c2b63",
+  "pinned": true,
+  "i18n": {
+    "name": {
+      "en": "Get Smokey",
+      "uk": "Палаюче авто"
+    },
+    "alt": {
+      "en": "Get Smokey",
+      "uk": "Палаюче авто"
+    },
+    "tags": [
+      {
+        "key": "chill",
+        "i18n": {
+          "en": "chill",
+          "uk": "чил"
+        }
+      },
+      {
+        "key": "digital-image",
+        "i18n": {
+          "en": "digital image",
+          "uk": "цифрове зображення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "aesthetic",
+        "car",
+        "cloud",
+        "float",
+        "wheel"
+      ],
+      "uk": [
+        "естетика",
+        "автомобіль",
+        "хмара",
+        "плавати",
+        "колесо"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "authorName": "Cash Macanaya",
+  "authorUrl": "https://unsplash.com/@cashmacanaya",
+  "description": "Get Smokey ",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 3000,
+  "collectionSlugs": [
+    "vehicles"
+  ],
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/unsplash/images/a-car-on-fire-wrt6m0qtngo/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/unsplash/images/a-car-on-fire-wrt6m0qtngo/a-car-on-fire-wrt6m0qtngo.jpg",
+  "thumbnailPath": "/Users/taras/HOLE/Projects/scraper/tmp/images/a-car-on-fire-wrt6m0qtngo/a-car-on-fire-wrt6m0qtngo_thumb.webp",
+  "relativeAssetPath": "library/unsplash/images/a-car-on-fire-wrt6m0qtngo/a-car-on-fire-wrt6m0qtngo.jpg"
+}

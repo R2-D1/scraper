@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-33646945",
+  "mediaKey": "pexels:33646945",
+  "i18n": {
+    "name": {
+      "en": "Small green plant in soft sunlight",
+      "uk": "Невелика зелена рослина у м'якому сонячному світлі"
+    },
+    "alt": {
+      "en": "33646945",
+      "uk": "Невелика зелена рослина у м'якому сонячному світлі"
+    },
+    "tags": [
+      {
+        "key": "plant",
+        "i18n": {
+          "en": "plant",
+          "uk": "рослина"
+        }
+      },
+      {
+        "key": "seedling",
+        "i18n": {
+          "en": "seedling",
+          "uk": "розсада"
+        }
+      },
+      {
+        "key": "green-leaves",
+        "i18n": {
+          "en": "green leaves",
+          "uk": "зелене листя"
+        }
+      },
+      {
+        "key": "sunlight",
+        "i18n": {
+          "en": "sunlight",
+          "uk": "сонячне світло"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      },
+      {
+        "key": "close-up",
+        "i18n": {
+          "en": "close-up",
+          "uk": "крупний план"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "nature"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/33646945/",
+  "sourceName": "Pexels",
+  "authorName": "Gabriel Passos",
+  "authorUrl": "https://www.pexels.com/@gabriel-passos-71368745",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

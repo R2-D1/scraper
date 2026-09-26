@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-11188249",
+  "mediaKey": "pexels:11188249",
+  "i18n": {
+    "name": {
+      "en": "Glowing heart above a forest lake",
+      "uk": "Світне серце над лісовим озером"
+    },
+    "alt": {
+      "en": "A digital heart encased in floating text amidst a vibrant forest setting.",
+      "uk": "Цифрове серце, оточене плаваючим текстом на тлі яскравого лісового пейзажу."
+    },
+    "tags": [
+      {
+        "key": "surrealism",
+        "i18n": {
+          "en": "surrealism",
+          "uk": "сюрреалізм"
+        }
+      },
+      {
+        "key": "glowing-heart",
+        "i18n": {
+          "en": "glowing heart",
+          "uk": "світне серце"
+        }
+      },
+      {
+        "key": "forest",
+        "i18n": {
+          "en": "forest",
+          "uk": "ліс"
+        }
+      },
+      {
+        "key": "lake",
+        "i18n": {
+          "en": "lake",
+          "uk": "озеро"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "surrealism"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/heart-and-stream-in-woods-11188249/",
+  "sourceName": "Pexels",
+  "authorName": "Mo Eid",
+  "authorUrl": "https://www.pexels.com/@mo-eid-1268975",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

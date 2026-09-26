@@ -1,0 +1,49 @@
+{
+  "slug": "unicorn-u24j",
+  "mediaKey": "a1fa5e2b-e8aa-49d0-8637-e8c12a4b801b",
+  "providerId": "5da9cde70d3cd90015592c1d",
+  "i18n": {
+    "name": {
+      "en": "Unicorn",
+      "uk": "Єдиноріг"
+    },
+    "alt": {
+      "en": "Unicorn",
+      "uk": "Єдиноріг"
+    },
+    "tags": [
+      {
+        "key": "unicorn",
+        "i18n": {
+          "en": "Unicorn",
+          "uk": "Єдиноріг"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/unicorn_u24j.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 677,
+  "height": 686
+}

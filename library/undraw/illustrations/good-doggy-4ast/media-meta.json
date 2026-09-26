@@ -1,0 +1,63 @@
+{
+  "slug": "good-doggy-4ast",
+  "mediaKey": "d88262fc-8ceb-4906-933f-f78b445f3342",
+  "providerId": "62bebedf9a64500018e74331",
+  "i18n": {
+    "name": {
+      "en": "Good doggy",
+      "uk": "Хороший песик"
+    },
+    "alt": {
+      "en": "Good doggy",
+      "uk": "Хороший песик"
+    },
+    "tags": [
+      {
+        "key": "good-doggy",
+        "i18n": {
+          "en": "Good doggy",
+          "uk": "Хороший песик"
+        }
+      },
+      {
+        "key": "good",
+        "i18n": {
+          "en": "good",
+          "uk": "добре"
+        }
+      },
+      {
+        "key": "doggy",
+        "i18n": {
+          "en": "doggy",
+          "uk": "собачка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/good-doggy_4ast.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 656,
+  "height": 448
+}

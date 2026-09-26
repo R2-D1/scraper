@@ -1,0 +1,63 @@
+{
+  "slug": "public-speaking-m17t",
+  "mediaKey": "01f27264-c7a6-44f9-b04e-91e28db7f214",
+  "providerId": "69fa697379740242d59ddb04",
+  "i18n": {
+    "name": {
+      "en": "Public Speaking",
+      "uk": "Публічні виступи"
+    },
+    "alt": {
+      "en": "Public Speaking",
+      "uk": "Публічні виступи"
+    },
+    "tags": [
+      {
+        "key": "public-speaking",
+        "i18n": {
+          "en": "Public Speaking",
+          "uk": "Публічні виступи"
+        }
+      },
+      {
+        "key": "public",
+        "i18n": {
+          "en": "public",
+          "uk": "публічний"
+        }
+      },
+      {
+        "key": "speaking",
+        "i18n": {
+          "en": "speaking",
+          "uk": "говорить"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/public-speaking_m17t.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 618
+}

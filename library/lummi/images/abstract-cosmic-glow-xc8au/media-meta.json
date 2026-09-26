@@ -1,0 +1,84 @@
+{
+  "slug": "abstract-cosmic-glow-xc8au",
+  "mediaKey": "342630e1-f3c6-4b9b-8d72-ea6d7ffb4e05",
+  "i18n": {
+    "name": {
+      "en": "Abstract Cosmic Glow",
+      "uk": "Абстрактне космічне сяйво"
+    },
+    "alt": {
+      "en": "Abstract Cosmic Glow",
+      "uk": "Абстрактне космічне сяйво"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "cosmic",
+        "i18n": {
+          "en": "Cosmic",
+          "uk": "Космічний"
+        }
+      },
+      {
+        "key": "fractal",
+        "i18n": {
+          "en": "Fractal",
+          "uk": "Фрактал"
+        }
+      },
+      {
+        "key": "glowing",
+        "i18n": {
+          "en": "Glowing",
+          "uk": "Сяюче"
+        }
+      },
+      {
+        "key": "star-cluster",
+        "i18n": {
+          "en": "star-cluster",
+          "uk": "зоряне скупчення"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/illustration/abstract-cosmic-glow-xc8au",
+  "sourceName": "Lummi",
+  "authorName": "Nika",
+  "authorUrl": "https://www.lummi.ai/creator/nikadominguez_?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A visually abstract image resembling a fractal or a cosmic phenomenon. The central area is densely packed with bright, golden-yellow dots, creating a glowing effect. Surrounding this core, the dots become sparser, forming a dark, cloud-like structure that radiates outward. The background is a soft, pale gray, providing a stark contrast to the intricate, luminous pattern. The overall composition evokes a sense of depth and complexity, reminiscent of a star cluster or a diffusion-limited aggregation pattern.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 2400,
+  "mimeType": "image/webp"
+}

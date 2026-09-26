@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "metallic-hat-fashion-portrait",
+  "mediaKey": "custom:content:70a708ca6696278119e933e1bd467ed4c4bf789fe6a2ebdd207c1a723591a5ae",
+  "pinned": false,
+  "collectionSlugs": [
+    "people"
+  ],
+  "sourceContentHash": "70a708ca6696278119e933e1bd467ed4c4bf789fe6a2ebdd207c1a723591a5ae",
+  "i18n": {
+    "name": {
+      "en": "Metallic Hat Fashion Portrait",
+      "uk": "Модний портрет у металевому капелюсі"
+    },
+    "alt": {
+      "en": "Metallic Hat Fashion Portrait",
+      "uk": "Модний портрет у металевому капелюсі"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "metallic",
+        "i18n": {
+          "en": "Metallic",
+          "uk": "Металевий"
+        }
+      },
+      {
+        "key": "hat",
+        "i18n": {
+          "en": "Hat",
+          "uk": "Капелюх"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "Fashion",
+          "uk": "Мода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "Woman",
+        "Portrait",
+        "Metallic",
+        "Hat",
+        "Fashion"
+      ],
+      "uk": [
+        "Жінка",
+        "Портрет",
+        "Металевий",
+        "Капелюх",
+        "Мода"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://divnex.com",
+  "sourceName": "Divnex",
+  "authorName": "Divnex",
+  "authorUrl": "https://divnex.com",
+  "licenseName": "Divnex Asset License",
+  "licenseUrl": "https://divnex.com/asset-license",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/custom-images/images/metallic-hat-fashion-portrait/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/custom-images/images/metallic-hat-fashion-portrait/metallic-hat-fashion-portrait.png",
+  "thumbnailPath": "/Users/taras/HOLE/Projects/scraper/tmp/custom-images/images/metallic-hat-fashion-portrait/metallic-hat-fashion-portrait_thumb.webp",
+  "relativeAssetPath": "library/custom-images/images/metallic-hat-fashion-portrait/metallic-hat-fashion-portrait.png",
+  "width": 2400,
+  "height": 3200
+}

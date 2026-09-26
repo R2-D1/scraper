@@ -1,0 +1,76 @@
+{
+  "slug": "speech-bubble-group",
+  "mediaKey": "3ac60d02-5527-4104-b6a3-46d2928e12b5",
+  "i18n": {
+    "name": {
+      "en": "Town Hall",
+      "uk": "Міська ратуша"
+    },
+    "alt": {
+      "en": "Town Hall",
+      "uk": "Міська ратуша"
+    },
+    "tags": [
+      {
+        "key": "discussion",
+        "i18n": {
+          "en": "discussion",
+          "uk": "обговорення"
+        }
+      },
+      {
+        "key": "debate",
+        "i18n": {
+          "en": "debate",
+          "uk": "дебати"
+        }
+      },
+      {
+        "key": "community",
+        "i18n": {
+          "en": "community",
+          "uk": "громада"
+        }
+      },
+      {
+        "key": "talk",
+        "i18n": {
+          "en": "talk",
+          "uk": "говорити"
+        }
+      },
+      {
+        "key": "voices",
+        "i18n": {
+          "en": "voices",
+          "uk": "голоси"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/speech-bubble-group",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

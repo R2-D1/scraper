@@ -1,0 +1,63 @@
+{
+  "slug": "add-user-rbko",
+  "mediaKey": "dea869dd-b7a9-4b60-98f5-41225a356b68",
+  "providerId": "5f75b60c9370e000171b9daa",
+  "i18n": {
+    "name": {
+      "en": "Add user",
+      "uk": "Додати користувача"
+    },
+    "alt": {
+      "en": "Add user",
+      "uk": "Додати користувача"
+    },
+    "tags": [
+      {
+        "key": "add-user",
+        "i18n": {
+          "en": "Add user",
+          "uk": "Додати користувача"
+        }
+      },
+      {
+        "key": "add",
+        "i18n": {
+          "en": "add",
+          "uk": "додати"
+        }
+      },
+      {
+        "key": "user",
+        "i18n": {
+          "en": "user",
+          "uk": "користувача"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/add-user_rbko.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 691,
+  "height": 489
+}

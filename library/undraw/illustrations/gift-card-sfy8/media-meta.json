@@ -1,0 +1,63 @@
+{
+  "slug": "gift-card-sfy8",
+  "mediaKey": "0b47b785-ba67-4d13-8871-58228dd144ce",
+  "providerId": "60364d1ecc0035001762e7cd",
+  "i18n": {
+    "name": {
+      "en": "Gift card",
+      "uk": "Подарункова картка"
+    },
+    "alt": {
+      "en": "Gift card",
+      "uk": "Подарункова картка"
+    },
+    "tags": [
+      {
+        "key": "gift-card",
+        "i18n": {
+          "en": "Gift card",
+          "uk": "Подарункова картка"
+        }
+      },
+      {
+        "key": "gift",
+        "i18n": {
+          "en": "gift",
+          "uk": "подарунок"
+        }
+      },
+      {
+        "key": "card",
+        "i18n": {
+          "en": "card",
+          "uk": "картка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/gift-card_sfy8.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 748,
+  "height": 407
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "error-404-notfound",
+  "mediaKey": "36e4610d-8855-450d-8b72-9e3191a29204",
+  "i18n": {
+    "name": {
+      "en": "404 Not Found",
+      "uk": "404 Не знайдено"
+    },
+    "alt": {
+      "en": "404 Not Found",
+      "uk": "404 Не знайдено"
+    },
+    "tags": [
+      {
+        "key": "404",
+        "i18n": {
+          "en": "404",
+          "uk": "404"
+        }
+      },
+      {
+        "key": "error",
+        "i18n": {
+          "en": "error",
+          "uk": "помилка"
+        }
+      },
+      {
+        "key": "missing",
+        "i18n": {
+          "en": "missing",
+          "uk": "відсутній"
+        }
+      },
+      {
+        "key": "lost",
+        "i18n": {
+          "en": "lost",
+          "uk": "загублений"
+        }
+      },
+      {
+        "key": "notfound",
+        "i18n": {
+          "en": "notfound",
+          "uk": "не знайдено"
+        }
+      },
+      {
+        "key": "web",
+        "i18n": {
+          "en": "web",
+          "uk": "веб"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/error-404-notfound",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

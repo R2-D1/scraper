@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-2964554",
+  "mediaKey": "pexels:video:2964554",
+  "i18n": {
+    "name": {
+      "en": "Colorful Defocused Light Wheel",
+      "uk": "Кольорове колесо розмитого світла"
+    },
+    "alt": {
+      "en": "Pexels video 2964554",
+      "uk": "Відео з Pexels № 2964554"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "bokeh",
+        "i18n": {
+          "en": "bokeh",
+          "uk": "боке"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      },
+      {
+        "key": "lights",
+        "i18n": {
+          "en": "lights",
+          "uk": "вогні"
+        }
+      },
+      {
+        "key": "defocused",
+        "i18n": {
+          "en": "defocused",
+          "uk": "розфокусований"
+        }
+      },
+      {
+        "key": "motion",
+        "i18n": {
+          "en": "motion",
+          "uk": "рух"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/display-of-neon-lights-in-synchronize-changes-2964554/",
+  "sourceName": "Pexels",
+  "authorName": "Engin Akyurt",
+  "authorUrl": "https://www.pexels.com/@enginakyurt",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 32,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

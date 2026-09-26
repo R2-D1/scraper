@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "scraper-fixture-forest",
+  "mediaKey": "scraper:fixture:forest",
+  "collectionSlugs": [
+    "scraper-fixture-nature"
+  ],
+  "pinned": true,
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "i18n": {
+    "name": {
+      "en": "Fixture forest",
+      "uk": "Тестовий ліс"
+    },
+    "alt": {
+      "en": "Abstract green forest fixture",
+      "uk": "Абстрактний зелений тестовий ліс"
+    },
+    "tags": [],
+    "keywords": {
+      "en": [
+        "forest"
+      ],
+      "uk": [
+        "ліс"
+      ]
+    }
+  },
+  "source": "https://example.com/divnex/scraper-fixture/forest",
+  "sourceName": "Divnex scraper fixture",
+  "licenseName": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

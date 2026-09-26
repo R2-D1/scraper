@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-7135078",
+  "mediaKey": "pexels:7135078",
+  "i18n": {
+    "name": {
+      "en": "Dark red and teal gradient",
+      "uk": "Темний червоно-бірюзовий градієнт"
+    },
+    "alt": {
+      "en": "A dynamic and vibrant abstract gradient background with vivid colors, perfect for creative designs.",
+      "uk": "Динамічний та яскравий абстрактний фон із градієнтом у насичених кольорах, який ідеально підходить для креативних дизайнів."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "teal",
+        "i18n": {
+          "en": "teal",
+          "uk": "бірюзовий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/colros-shining-in-darkness-7135078/",
+  "sourceName": "Pexels",
+  "authorName": "Codioful (formerly Gradienta)",
+  "authorUrl": "https://www.pexels.com/@codioful",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

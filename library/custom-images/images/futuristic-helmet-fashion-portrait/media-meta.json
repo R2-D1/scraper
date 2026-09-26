@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "futuristic-helmet-fashion-portrait",
+  "mediaKey": "custom:content:afc4db0aa0e39d1c5df05ff34a187244e614c97dbc5bc1b939b65932c749f46a",
+  "pinned": false,
+  "collectionSlugs": [
+    "people"
+  ],
+  "sourceContentHash": "afc4db0aa0e39d1c5df05ff34a187244e614c97dbc5bc1b939b65932c749f46a",
+  "i18n": {
+    "name": {
+      "en": "Futuristic Helmet Fashion Portrait",
+      "uk": "Модний портрет у футуристичному шоломі"
+    },
+    "alt": {
+      "en": "Futuristic Helmet Fashion Portrait",
+      "uk": "Модний портрет у футуристичному шоломі"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "helmet",
+        "i18n": {
+          "en": "Helmet",
+          "uk": "Шолом"
+        }
+      },
+      {
+        "key": "futuristic",
+        "i18n": {
+          "en": "Futuristic",
+          "uk": "Футуристичне"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "Fashion",
+          "uk": "Мода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "Woman",
+        "Portrait",
+        "Helmet",
+        "Futuristic",
+        "Fashion"
+      ],
+      "uk": [
+        "Жінка",
+        "Портрет",
+        "Шолом",
+        "Футуристичне",
+        "Мода"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://divnex.com",
+  "sourceName": "Divnex",
+  "authorName": "Divnex",
+  "authorUrl": "https://divnex.com",
+  "licenseName": "Divnex Asset License",
+  "licenseUrl": "https://divnex.com/asset-license",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/custom-images/images/futuristic-helmet-fashion-portrait/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/custom-images/images/futuristic-helmet-fashion-portrait/futuristic-helmet-fashion-portrait.png",
+  "thumbnailPath": "/Users/taras/HOLE/Projects/scraper/tmp/custom-images/images/futuristic-helmet-fashion-portrait/futuristic-helmet-fashion-portrait_thumb.webp",
+  "relativeAssetPath": "library/custom-images/images/futuristic-helmet-fashion-portrait/futuristic-helmet-fashion-portrait.png",
+  "width": 2400,
+  "height": 3200
+}

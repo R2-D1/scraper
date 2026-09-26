@@ -1,0 +1,97 @@
+{
+  "slug": "tech-discount-ticket",
+  "mediaKey": "405dda10-c00d-4cf1-b0e7-d645e4a8c552",
+  "i18n": {
+    "name": {
+      "en": "Discount Ticket",
+      "uk": "Квиток зі знижкою"
+    },
+    "alt": {
+      "en": "Discount Ticket",
+      "uk": "Квиток зі знижкою"
+    },
+    "tags": [
+      {
+        "key": "ecommerce",
+        "i18n": {
+          "en": "ecommerce",
+          "uk": "електронна комерція"
+        }
+      },
+      {
+        "key": "discount",
+        "i18n": {
+          "en": "discount",
+          "uk": "знижка"
+        }
+      },
+      {
+        "key": "ticket",
+        "i18n": {
+          "en": "ticket",
+          "uk": "квиток"
+        }
+      },
+      {
+        "key": "promo",
+        "i18n": {
+          "en": "promo",
+          "uk": "промо"
+        }
+      },
+      {
+        "key": "coupon",
+        "i18n": {
+          "en": "coupon",
+          "uk": "купон"
+        }
+      },
+      {
+        "key": "sale",
+        "i18n": {
+          "en": "sale",
+          "uk": "розпродаж"
+        }
+      },
+      {
+        "key": "offer",
+        "i18n": {
+          "en": "offer",
+          "uk": "пропозиція"
+        }
+      },
+      {
+        "key": "voucher",
+        "i18n": {
+          "en": "voucher",
+          "uk": "ваучер"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/tech-discount-ticket",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

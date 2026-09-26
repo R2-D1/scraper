@@ -1,0 +1,56 @@
+{
+  "slug": "zoom-in-miok",
+  "mediaKey": "ab4a545a-58a4-4f2f-8e18-dde8ecae34cd",
+  "providerId": "5d01272e030adc00159b2586",
+  "i18n": {
+    "name": {
+      "en": "Zoom in",
+      "uk": "Збільшити"
+    },
+    "alt": {
+      "en": "Zoom in",
+      "uk": "Збільшити"
+    },
+    "tags": [
+      {
+        "key": "zoom-in",
+        "i18n": {
+          "en": "Zoom in",
+          "uk": "Збільшити"
+        }
+      },
+      {
+        "key": "zoom",
+        "i18n": {
+          "en": "zoom",
+          "uk": "Zoom"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/zoom-in_miok.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1104,
+  "height": 560
+}

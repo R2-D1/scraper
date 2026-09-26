@@ -1,0 +1,63 @@
+{
+  "slug": "container-ship-t6yx",
+  "mediaKey": "5db1bff4-7afc-4106-9177-53d66559bb6c",
+  "providerId": "5a667682930c2a00140e3792",
+  "i18n": {
+    "name": {
+      "en": "Container ship",
+      "uk": "Контейнеровоз"
+    },
+    "alt": {
+      "en": "Container ship",
+      "uk": "Контейнеровоз"
+    },
+    "tags": [
+      {
+        "key": "container-ship",
+        "i18n": {
+          "en": "Container ship",
+          "uk": "Контейнеровоз"
+        }
+      },
+      {
+        "key": "container",
+        "i18n": {
+          "en": "container",
+          "uk": "контейнер"
+        }
+      },
+      {
+        "key": "ship",
+        "i18n": {
+          "en": "ship",
+          "uk": "корабель"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/container-ship_t6yx.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1062,
+  "height": 595
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-16326883",
+  "mediaKey": "pexels:16326883",
+  "i18n": {
+    "name": {
+      "en": "Clouds floating above a dark mountain landscape",
+      "uk": "Хмари ширяють над темним гірським краєвидом"
+    },
+    "alt": {
+      "en": "Dreamlike scene of rolling hills with cotton-like clouds nestled within, creating a surreal landscape.",
+      "uk": "Казкова картина з пологими пагорбами, серед яких розкинулися хмари, схожі на бавовну, створюючи сюрреалістичний пейзаж."
+    },
+    "tags": [
+      {
+        "key": "surrealism",
+        "i18n": {
+          "en": "surrealism",
+          "uk": "сюрреалізм"
+        }
+      },
+      {
+        "key": "mountains",
+        "i18n": {
+          "en": "mountains",
+          "uk": "гори"
+        }
+      },
+      {
+        "key": "clouds",
+        "i18n": {
+          "en": "clouds",
+          "uk": "хмари"
+        }
+      },
+      {
+        "key": "dreamlike",
+        "i18n": {
+          "en": "dreamlike",
+          "uk": "схожий на сон"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "surrealism"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/clouds-on-hill-16326883/",
+  "sourceName": "Pexels",
+  "authorName": "Mo Eid",
+  "authorUrl": "https://www.pexels.com/@mo-eid-1268975",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

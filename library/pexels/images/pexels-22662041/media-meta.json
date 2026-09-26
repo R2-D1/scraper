@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-22662041",
+  "mediaKey": "pexels:22662041",
+  "i18n": {
+    "name": {
+      "en": "Soft multicolored light gradient",
+      "uk": "М'який багатоколірний градієнт"
+    },
+    "alt": {
+      "en": "Dynamic abstract image with a blend of vibrant colors and blurred shapes creating a flow-like pattern.",
+      "uk": "Динамічне абстрактне зображення, в якому поєднання яскравих кольорів та розмитих форм створює візерунок, що нагадує потік."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      },
+      {
+        "key": "blur",
+        "i18n": {
+          "en": "blur",
+          "uk": "розмиття"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/blurred-abstract-shapes-22662041/",
+  "sourceName": "Pexels",
+  "authorName": "Mathias Reding",
+  "authorUrl": "https://www.pexels.com/@matreding",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3200
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "group-chat-nze2",
+  "mediaKey": "4d6b5207-0ab6-4b32-8666-f1c7890089b2",
+  "providerId": "6a3c626e939aab611cf25c58",
+  "i18n": {
+    "name": {
+      "en": "Group Chat",
+      "uk": "Груповий чат"
+    },
+    "alt": {
+      "en": "Group Chat",
+      "uk": "Груповий чат"
+    },
+    "tags": [
+      {
+        "key": "group-chat",
+        "i18n": {
+          "en": "Group Chat",
+          "uk": "Груповий чат"
+        }
+      },
+      {
+        "key": "group",
+        "i18n": {
+          "en": "group",
+          "uk": "група"
+        }
+      },
+      {
+        "key": "chat",
+        "i18n": {
+          "en": "chat",
+          "uk": "чат"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/group-chat_nze2.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 605
+}

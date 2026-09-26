@@ -1,0 +1,63 @@
+{
+  "slug": "my-feed-fo8n",
+  "mediaKey": "f4062551-f654-49cc-bc2a-ec8e727984ee",
+  "providerId": "5eccf3874421610017578a3c",
+  "i18n": {
+    "name": {
+      "en": "My feed",
+      "uk": "Мій канал новин"
+    },
+    "alt": {
+      "en": "My feed",
+      "uk": "Мій канал новин"
+    },
+    "tags": [
+      {
+        "key": "my-feed",
+        "i18n": {
+          "en": "My feed",
+          "uk": "Мій канал новин"
+        }
+      },
+      {
+        "key": "my",
+        "i18n": {
+          "en": "my",
+          "uk": "мій"
+        }
+      },
+      {
+        "key": "feed",
+        "i18n": {
+          "en": "feed",
+          "uk": "стрічка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/my-feed_fo8n.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 856,
+  "height": 549
+}

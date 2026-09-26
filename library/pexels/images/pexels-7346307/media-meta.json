@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-7346307",
+  "mediaKey": "pexels:7346307",
+  "i18n": {
+    "name": {
+      "en": "Pink flamingo against a pink background",
+      "uk": "Рожевий фламінго на рожевому тлі"
+    },
+    "alt": {
+      "en": "A detailed pink flamingo figurine stands against a vibrant pink background.",
+      "uk": "Детально опрацьована фігурка рожевого фламінго виділяється на яскраво-рожевому тлі."
+    },
+    "tags": [
+      {
+        "key": "flamingo",
+        "i18n": {
+          "en": "flamingo",
+          "uk": "фламінго"
+        }
+      },
+      {
+        "key": "bird",
+        "i18n": {
+          "en": "bird",
+          "uk": "птах"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      },
+      {
+        "key": "animal-portrait",
+        "i18n": {
+          "en": "animal portrait",
+          "uk": "портрет тварини"
+        }
+      },
+      {
+        "key": "studio-background",
+        "i18n": {
+          "en": "studio background",
+          "uk": "студійне тло"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "animals"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/replica-of-a-pink-flamingo-on-pink-background-7346307/",
+  "sourceName": "Pexels",
+  "authorName": "KoolShooters",
+  "authorUrl": "https://www.pexels.com/@koolshooters",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

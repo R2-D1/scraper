@@ -1,0 +1,78 @@
+{
+  "slug": "pexels-video-33850342",
+  "mediaKey": "pexels:video:33850342",
+  "i18n": {
+    "name": {
+      "en": "Moving Cumulus Clouds",
+      "uk": "Хмари кумулюси, що рухаються"
+    },
+    "alt": {
+      "en": "Pexels video 33850342",
+      "uk": "Відео з Pexels № 33850342"
+    },
+    "tags": [
+      {
+        "key": "clouds",
+        "i18n": {
+          "en": "clouds",
+          "uk": "хмари"
+        }
+      },
+      {
+        "key": "cumulus",
+        "i18n": {
+          "en": "cumulus",
+          "uk": "кумулюс"
+        }
+      },
+      {
+        "key": "blue-sky",
+        "i18n": {
+          "en": "blue-sky",
+          "uk": "блакитне небо"
+        }
+      },
+      {
+        "key": "weather",
+        "i18n": {
+          "en": "weather",
+          "uk": "погода"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/dramatic-cloudscape-in-blue-sky-33850342/",
+  "sourceName": "Pexels",
+  "authorName": "Larkkid Dung",
+  "authorUrl": "https://www.pexels.com/@larkkid-dung-363901731",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 23,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

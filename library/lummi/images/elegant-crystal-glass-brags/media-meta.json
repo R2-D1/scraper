@@ -1,0 +1,94 @@
+{
+  "slug": "elegant-crystal-glass-brags",
+  "mediaKey": "111c2b83-8751-41a9-b017-1570328074b2",
+  "i18n": {
+    "name": {
+      "en": "Elegant Crystal Glass",
+      "uk": "Елегантне кришталеве скло"
+    },
+    "alt": {
+      "en": "Elegant Crystal Glass",
+      "uk": "Елегантне кришталеве скло"
+    },
+    "tags": [
+      {
+        "key": "luxury",
+        "i18n": {
+          "en": "Luxury",
+          "uk": "Розкіш"
+        }
+      },
+      {
+        "key": "crystal-glass",
+        "i18n": {
+          "en": "crystal glass",
+          "uk": "кришталеве скло"
+        }
+      },
+      {
+        "key": "dark-liquid",
+        "i18n": {
+          "en": "dark liquid",
+          "uk": "темна рідина"
+        }
+      },
+      {
+        "key": "diamond-rim",
+        "i18n": {
+          "en": "diamond rim",
+          "uk": "діамантове оздоблення"
+        }
+      },
+      {
+        "key": "black-cherry",
+        "i18n": {
+          "en": "black cherry",
+          "uk": "чорна вишня"
+        }
+      },
+      {
+        "key": "still-life",
+        "i18n": {
+          "en": "Still Life",
+          "uk": "Натюрморт"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "food-drink"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "rena",
+  "authorUrl": "https://www.lummi.ai/creator/rena?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A luxurious crystal glass filled with a dark liquid, adorned with a sparkling diamond-encrusted rim, and topped with a glossy black cherry.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1024,
+  "height": 1088,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/elegant-crystal-glass-brags/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/elegant-crystal-glass-brags/elegant-crystal-glass-brags.png",
+  "relativeAssetPath": "library/lummi/images/elegant-crystal-glass-brags/elegant-crystal-glass-brags.png"
+}

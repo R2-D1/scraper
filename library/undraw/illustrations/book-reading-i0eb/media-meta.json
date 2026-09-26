@@ -1,0 +1,63 @@
+{
+  "slug": "book-reading-i0eb",
+  "mediaKey": "de211ba3-97e2-41fe-914f-ed4c2c1abcb7",
+  "providerId": "62384defadcc0c0018f3afa5",
+  "i18n": {
+    "name": {
+      "en": "Book reading",
+      "uk": "Читання книги"
+    },
+    "alt": {
+      "en": "Book reading",
+      "uk": "Читання книги"
+    },
+    "tags": [
+      {
+        "key": "book-reading",
+        "i18n": {
+          "en": "Book reading",
+          "uk": "Читання книги"
+        }
+      },
+      {
+        "key": "book",
+        "i18n": {
+          "en": "book",
+          "uk": "книга"
+        }
+      },
+      {
+        "key": "reading",
+        "i18n": {
+          "en": "reading",
+          "uk": "читання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/book-reading_i0eb.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 869,
+  "height": 699
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "message-sent-iyz6",
+  "mediaKey": "2e54d262-c1e4-4b2f-a50d-a39d0ce422b7",
+  "providerId": "69ab5c01f37a2f6b1f7a735c",
+  "i18n": {
+    "name": {
+      "en": "Message Sent",
+      "uk": "Повідомлення надіслано"
+    },
+    "alt": {
+      "en": "Message Sent",
+      "uk": "Повідомлення надіслано"
+    },
+    "tags": [
+      {
+        "key": "message-sent",
+        "i18n": {
+          "en": "Message Sent",
+          "uk": "Повідомлення надіслано"
+        }
+      },
+      {
+        "key": "message",
+        "i18n": {
+          "en": "message",
+          "uk": "повідомлення"
+        }
+      },
+      {
+        "key": "sent",
+        "i18n": {
+          "en": "sent",
+          "uk": "надіслано"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/message-sent_iyz6.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 670,
+  "height": 800
+}

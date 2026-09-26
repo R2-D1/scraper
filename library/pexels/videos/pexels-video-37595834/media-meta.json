@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-37595834",
+  "mediaKey": "pexels:video:37595834",
+  "i18n": {
+    "name": {
+      "en": "Colorful Graffiti Wall",
+      "uk": "Стіна з барвистими графіті"
+    },
+    "alt": {
+      "en": "Pexels video 37595834",
+      "uk": "Відео з Pexels № 37595834"
+    },
+    "tags": [
+      {
+        "key": "graffiti",
+        "i18n": {
+          "en": "graffiti",
+          "uk": "графіті"
+        }
+      },
+      {
+        "key": "street-art",
+        "i18n": {
+          "en": "street-art",
+          "uk": "вуличне мистецтво"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      },
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "urban",
+          "uk": "урбаністичний"
+        }
+      },
+      {
+        "key": "mural",
+        "i18n": {
+          "en": "mural",
+          "uk": "мурал"
+        }
+      },
+      {
+        "key": "motion",
+        "i18n": {
+          "en": "motion",
+          "uk": "рух"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/vibrant-graffiti-walls-in-los-angeles-37595834/",
+  "sourceName": "Pexels",
+  "authorName": "NewLA",
+  "authorUrl": "https://www.pexels.com/@newla",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 36,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

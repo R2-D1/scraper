@@ -1,0 +1,63 @@
+{
+  "slug": "under-construction-hdrn",
+  "mediaKey": "1206f5c9-2ae8-4079-ae02-43ece8a62f58",
+  "providerId": "692e12b7eae6cb4cbfb93908",
+  "i18n": {
+    "name": {
+      "en": "Under Construction",
+      "uk": "У процесі розробки"
+    },
+    "alt": {
+      "en": "Under Construction",
+      "uk": "У процесі розробки"
+    },
+    "tags": [
+      {
+        "key": "under-construction",
+        "i18n": {
+          "en": "Under Construction",
+          "uk": "У процесі розробки"
+        }
+      },
+      {
+        "key": "under",
+        "i18n": {
+          "en": "under",
+          "uk": "під"
+        }
+      },
+      {
+        "key": "construction",
+        "i18n": {
+          "en": "construction",
+          "uk": "будівництво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/under-construction_hdrn.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 270
+}

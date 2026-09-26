@@ -1,0 +1,90 @@
+{
+  "slug": "vintage-crt-tv",
+  "mediaKey": "9a9b1411-26ed-49e0-a380-a91542472ec8",
+  "i18n": {
+    "name": {
+      "en": "CRT Television",
+      "uk": "Телевізор з ЕЛТ-екраном"
+    },
+    "alt": {
+      "en": "CRT Television",
+      "uk": "Телевізор з ЕЛТ-екраном"
+    },
+    "tags": [
+      {
+        "key": "vintage",
+        "i18n": {
+          "en": "vintage",
+          "uk": "вінтажний"
+        }
+      },
+      {
+        "key": "retro",
+        "i18n": {
+          "en": "retro",
+          "uk": "ретро"
+        }
+      },
+      {
+        "key": "tv",
+        "i18n": {
+          "en": "tv",
+          "uk": "телевізор"
+        }
+      },
+      {
+        "key": "television",
+        "i18n": {
+          "en": "television",
+          "uk": "телевізор"
+        }
+      },
+      {
+        "key": "crt",
+        "i18n": {
+          "en": "crt",
+          "uk": "кінескоп"
+        }
+      },
+      {
+        "key": "screen",
+        "i18n": {
+          "en": "screen",
+          "uk": "екран"
+        }
+      },
+      {
+        "key": "antenna",
+        "i18n": {
+          "en": "antenna",
+          "uk": "антена"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/vintage-crt-tv",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

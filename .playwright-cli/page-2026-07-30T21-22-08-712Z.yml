@@ -1,0 +1,261 @@
+- generic [ref=f109e4]:
+  - navigation [ref=f109e5]:
+    - generic [ref=f109e6]:
+      - generic [ref=f109e7]:
+        - link "Unsplash Home" [ref=f109e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f109e9]
+        - link "Photos" [ref=f109e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f109e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f109e17]:
+        - button "Explore" [ref=f109e18] [cursor=pointer]
+        - button "Collections" [ref=f109e21] [cursor=pointer]
+        - button "Download History" [ref=f109e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f109e28] [cursor=pointer]
+    - generic [ref=f109e31]:
+      - link "Log in / Sign up" [ref=f109e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fperson-vaping-with-an-e-cigarette-and-exhaling-CmbKxuOwMCE
+      - button "Language" [ref=f109e35] [cursor=pointer]
+      - button "Menu" [ref=f109e38] [cursor=pointer]
+  - generic [ref=f109e41]:
+    - generic [ref=f109e42]:
+      - navigation [ref=f109e43]:
+        - search "Find visuals sitewide" [ref=f109e45]:
+          - button "Search Unsplash" [ref=f109e46] [cursor=pointer]
+          - combobox [ref=f109e49]:
+            - searchbox "Search Unsplash" [ref=f109e50]
+            - listbox
+          - button "Visual search" [ref=f109e52] [cursor=pointer]
+        - generic [ref=f109e55]:
+          - link "Get Unsplash+" [ref=f109e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f109e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fperson-vaping-with-an-e-cigarette-and-exhaling-CmbKxuOwMCE
+        - button "Submit an image" [ref=f109e59] [cursor=pointer]
+      - generic [ref=f109e60]:
+        - generic [ref=f109e61]:
+          - banner [ref=f109e63]:
+            - generic [ref=f109e65]:
+              - link [ref=f109e66] [cursor=pointer]:
+                - /url: /@summerizze
+              - generic [ref=f109e69]:
+                - link "Summerizze" [ref=f109e70] [cursor=pointer]:
+                  - /url: /@summerizze
+                - generic [ref=f109e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f109e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fperson-vaping-with-an-e-cigarette-and-exhaling-CmbKxuOwMCE
+            - generic [ref=f109e73]:
+              - button "Bookmark" [ref=f109e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f109e77] [cursor=pointer]
+              - button "Edit image" [ref=f109e80] [cursor=pointer]
+              - button "Download" [ref=f109e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f109e90]:
+            - img "Person vaping with an e-cigarette and exhaling." [ref=f109e91]
+          - generic [ref=f109e92]:
+            - generic [ref=f109e94]:
+              - button "Share this image" [ref=f109e95] [cursor=pointer]:
+                - generic [ref=f109e98]: Share
+              - button "More Actions" [ref=f109e99] [cursor=pointer]
+            - generic [ref=f109e103]:
+              - heading "Person vaping with an e-cigarette and exhaling." [level=1] [ref=f109e105]
+              - paragraph [ref=f109e109]: Download this illustration of blue, illustration, pink, and orange by Summerizze (@summerizze)
+              - generic [ref=f109e111]:
+                - generic [ref=f109e116]:
+                  - text: Published on
+                  - time [ref=f109e117]: May 15, 2025
+                - generic [ref=f109e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f109e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f109e124]:
+              - link "blue" [ref=f109e125] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "illustration" [ref=f109e126] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "pink" [ref=f109e127] [cursor=pointer]:
+                - /url: /s/illustrations/pink
+              - link "orange" [ref=f109e128] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "public health" [ref=f109e129] [cursor=pointer]:
+                - /url: /s/illustrations/public-health
+              - link "vapor" [ref=f109e130] [cursor=pointer]:
+                - /url: /s/illustrations/vapor
+              - link "e cigarette" [ref=f109e131] [cursor=pointer]:
+                - /url: /s/illustrations/e-cigarette
+              - link "harm reduction" [ref=f109e132] [cursor=pointer]:
+                - /url: /s/illustrations/harm-reduction
+              - link "electronic cigarette" [ref=f109e133] [cursor=pointer]:
+                - /url: /s/illustrations/electronic-cigarette
+        - generic [ref=f109e136]:
+          - generic [ref=f109e137]:
+            - paragraph [ref=f109e139]: From this series
+            - generic [ref=f109e142]:
+              - generic [ref=f109e143]:
+                - link [ref=f109e144] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fhands-holding-smoking-devices-surrounded-by-smoke-MAJogaL-OmI
+                - link [ref=f109e147]:
+                  - /url: /illustrations/hands-holding-smoking-devices-surrounded-by-smoke-MAJogaL-OmI
+                  - img "Hands holding smoking devices surrounded by smoke." [ref=f109e148]
+              - generic [ref=f109e149]:
+                - link [ref=f109e150] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-person-smokes-a-cigarette-with-smoke-1RAbTq9jMI8
+                - link [ref=f109e153]:
+                  - /url: /illustrations/a-person-smokes-a-cigarette-with-smoke-1RAbTq9jMI8
+                  - img "A person smokes a cigarette with smoke." [ref=f109e154]
+              - generic [ref=f109e155]:
+                - link [ref=f109e156] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fa-person-is-smoking-a-cigarette-zP1bVJ63Y90
+                - link [ref=f109e159]:
+                  - /url: /illustrations/a-person-is-smoking-a-cigarette-zP1bVJ63Y90
+                  - img "A person is smoking a cigarette." [ref=f109e160]
+          - generic [ref=f109e161]:
+            - heading "Related images" [level=4] [ref=f109e163]
+            - generic [ref=f109e167]:
+              - generic [ref=f109e168]:
+                - figure [ref=f109e169]:
+                  - generic [ref=f109e171]:
+                    - link [ref=f109e172]:
+                      - /url: /illustrations/a-hand-is-holding-a-vape-device-OMmr1rPT7eg
+                      - img "A hand is holding a vape device." [ref=f109e173]
+                    - link [ref=f109e174] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-hand-is-holding-a-vape-device-OMmr1rPT7eg
+                - figure [ref=f109e177]:
+                  - generic [ref=f109e179]:
+                    - link [ref=f109e180]:
+                      - /url: /illustrations/a-person-is-smoking-a-cigarette-zP1bVJ63Y90
+                      - img "A person is smoking a cigarette." [ref=f109e181]
+                    - link [ref=f109e182] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-is-smoking-a-cigarette-zP1bVJ63Y90
+                - figure [ref=f109e185]:
+                  - generic [ref=f109e187]:
+                    - link [ref=f109e188]:
+                      - /url: /illustrations/a-man-lights-a-cigarette-4r9izLoPowI
+                      - img "A man lights a cigarette." [ref=f109e189]
+                    - link [ref=f109e190] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-lights-a-cigarette-4r9izLoPowI
+                - figure [ref=f109e193]:
+                  - generic [ref=f109e195]:
+                    - link [ref=f109e196]:
+                      - /url: /illustrations/someone-is-vaping-and-exhaling-smoke-Yi0VGGjK-S0
+                      - img "Someone is vaping and exhaling smoke." [ref=f109e197]
+                    - link [ref=f109e198] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fsomeone-is-vaping-and-exhaling-smoke-Yi0VGGjK-S0
+                - figure [ref=f109e201]:
+                  - generic [ref=f109e203]:
+                    - link [ref=f109e204]:
+                      - /url: /illustrations/a-woman-is-smoking-from-a-bong-ahJTPMojxa4
+                      - img "A woman is smoking from a bong." [ref=f109e205]
+                    - link [ref=f109e206] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-is-smoking-from-a-bong-ahJTPMojxa4
+                - figure [ref=f109e209]:
+                  - generic [ref=f109e211]:
+                    - link [ref=f109e212]:
+                      - /url: /illustrations/person-vaping-while-listening-to-music-AEZm9O6eENw
+                      - img "Person vaping while listening to music." [ref=f109e213]
+                    - link [ref=f109e214] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fperson-vaping-while-listening-to-music-AEZm9O6eENw
+              - generic [ref=f109e217]:
+                - figure [ref=f109e218]:
+                  - generic [ref=f109e220]:
+                    - link [ref=f109e221]:
+                      - /url: /illustrations/a-man-vapes-and-exhales-white-smoke-jeXy7zi88HQ
+                      - img "A man vapes and exhales white smoke." [ref=f109e222]
+                    - link [ref=f109e223] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-vapes-and-exhales-white-smoke-jeXy7zi88HQ
+                - figure [ref=f109e226]:
+                  - generic [ref=f109e228]:
+                    - link [ref=f109e229]:
+                      - /url: /illustrations/a-person-is-vaping-exhaling-a-cloud-of-vapor-DUnp1tvZ_iE
+                      - img "A person is vaping, exhaling a cloud of vapor." [ref=f109e230]
+                    - link [ref=f109e231] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-is-vaping-exhaling-a-cloud-of-vapor-DUnp1tvZ_iE
+                - figure [ref=f109e234]:
+                  - generic [ref=f109e236]:
+                    - link [ref=f109e237]:
+                      - /url: /illustrations/hands-holding-vapes-and-a-cigarette-V8n_hYnN5ds
+                      - img "Hands holding vapes and a cigarette." [ref=f109e238]
+                    - link [ref=f109e239] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhands-holding-vapes-and-a-cigarette-V8n_hYnN5ds
+                - figure [ref=f109e242]:
+                  - generic [ref=f109e244]:
+                    - link [ref=f109e245]:
+                      - /url: /illustrations/a-hand-holds-a-lit-cigarette-dM86TFr5A8A
+                      - img "A hand holds a lit cigarette." [ref=f109e246]
+                    - link [ref=f109e247] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-hand-holds-a-lit-cigarette-dM86TFr5A8A
+                - figure [ref=f109e250]:
+                  - generic [ref=f109e252]:
+                    - link [ref=f109e253]:
+                      - /url: /illustrations/a-person-is-smoking-a-cigarette-X9FsBP1hQ4c
+                      - img "A person is smoking a cigarette." [ref=f109e254]
+                    - link [ref=f109e255] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-is-smoking-a-cigarette-X9FsBP1hQ4c
+                - figure [ref=f109e258]:
+                  - generic [ref=f109e260]:
+                    - link [ref=f109e261]:
+                      - /url: /illustrations/woman-with-eyes-closed-surrounded-by-swirling-smoke-y3t7BM1s2SQ
+                      - img "Woman with eyes closed surrounded by swirling smoke." [ref=f109e262]
+                    - link [ref=f109e263] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-with-eyes-closed-surrounded-by-swirling-smoke-y3t7BM1s2SQ
+                - figure [ref=f109e266]:
+                  - generic [ref=f109e268]:
+                    - link [ref=f109e269]:
+                      - /url: /illustrations/vape-pen-is-releasing-smoke-with-liquid-containers-UomvbYaN2zo
+                      - img "Vape pen is releasing smoke with liquid containers." [ref=f109e270]
+                    - link [ref=f109e271] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fvape-pen-is-releasing-smoke-with-liquid-containers-UomvbYaN2zo
+              - generic [ref=f109e274]:
+                - figure [ref=f109e275]:
+                  - generic [ref=f109e277]:
+                    - link [ref=f109e278]:
+                      - /url: /illustrations/a-person-smokes-a-cigarette-with-smoke-1RAbTq9jMI8
+                      - img "A person smokes a cigarette with smoke." [ref=f109e279]
+                    - link [ref=f109e280] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-smokes-a-cigarette-with-smoke-1RAbTq9jMI8
+                - figure [ref=f109e283]:
+                  - generic [ref=f109e285]:
+                    - link [ref=f109e286]:
+                      - /url: /illustrations/a-person-vapes-and-exhales-smoke-4SD5pOlrY_c
+                      - img "A person vapes and exhales smoke." [ref=f109e287]
+                    - link [ref=f109e288] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-vapes-and-exhales-smoke-4SD5pOlrY_c
+                - figure [ref=f109e291]:
+                  - generic [ref=f109e293]:
+                    - link [ref=f109e294]:
+                      - /url: /illustrations/a-person-is-vaping-and-exhaling-decorated-vapor-UkeFlCISQVg
+                      - img "A person is vaping and exhaling decorated vapor." [ref=f109e295]
+                    - link [ref=f109e296] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-is-vaping-and-exhaling-decorated-vapor-UkeFlCISQVg
+                - figure [ref=f109e299]:
+                  - generic [ref=f109e301]:
+                    - link [ref=f109e302]:
+                      - /url: /illustrations/a-woman-smokes-a-cigarette-3prfV4UpmsA
+                      - img "A woman smokes a cigarette." [ref=f109e303]
+                    - link [ref=f109e304] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-smokes-a-cigarette-3prfV4UpmsA
+                - figure [ref=f109e307]:
+                  - generic [ref=f109e309]:
+                    - link [ref=f109e310]:
+                      - /url: /illustrations/a-person-is-smoking-a-cigarette-cfpFRoprl3k
+                      - img "A person is smoking a cigarette." [ref=f109e311]
+                    - link [ref=f109e312] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-is-smoking-a-cigarette-cfpFRoprl3k
+                - figure [ref=f109e315]:
+                  - generic [ref=f109e317]:
+                    - link [ref=f109e318]:
+                      - /url: /illustrations/a-woman-is-smoking-a-cigarette-9hgwPGTei1Y
+                      - img "A woman is smoking a cigarette." [ref=f109e319]
+                    - link [ref=f109e320] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-is-smoking-a-cigarette-9hgwPGTei1Y
+                - figure [ref=f109e323]:
+                  - generic [ref=f109e325]:
+                    - link [ref=f109e326]:
+                      - /url: /illustrations/hands-holding-a-vape-and-a-cigarette-with-smoke-RD0qoksspQA
+                      - img "Hands holding a vape and a cigarette with smoke." [ref=f109e327]
+                    - link [ref=f109e328] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhands-holding-a-vape-and-a-cigarette-with-smoke-RD0qoksspQA
+    - generic:
+      - region "Notifications"

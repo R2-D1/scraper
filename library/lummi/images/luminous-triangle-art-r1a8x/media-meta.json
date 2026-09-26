@@ -1,0 +1,84 @@
+{
+  "slug": "luminous-triangle-art-r1a8x",
+  "mediaKey": "9bc8f21e-8ece-45f2-8e11-4cb8c7c45f40",
+  "i18n": {
+    "name": {
+      "en": "Luminous Triangle Art",
+      "uk": "Мистецтво «Світловий трикутник»"
+    },
+    "alt": {
+      "en": "Luminous Triangle Art",
+      "uk": "Мистецтво «Світловий трикутник»"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "geometric",
+        "i18n": {
+          "en": "Geometric",
+          "uk": "Геометричний"
+        }
+      },
+      {
+        "key": "modern",
+        "i18n": {
+          "en": "Modern",
+          "uk": "Сучасний"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "Gradient",
+          "uk": "Градієнт"
+        }
+      },
+      {
+        "key": "vibrant",
+        "i18n": {
+          "en": "Vibrant",
+          "uk": "Яскравий"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/illustration/luminous-triangle-art-r1a8x",
+  "sourceName": "Lummi",
+  "authorName": "b",
+  "authorUrl": "https://www.lummi.ai/creator/bryanbryan?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A vibrant triangular shape dominates the composition, glowing with a gradient of pink and red hues that transition into a bright white at the apex. The background is a deep, rich blue, creating a striking contrast with the luminous triangle. The light emanating from the triangle's peak gives the image a sense of depth and energy, drawing the viewer's eye upward. The smooth gradient and sharp edges of the triangle add a modern and abstract aesthetic to the scene.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 2400,
+  "mimeType": "image/webp"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "movie-3d-glasses",
+  "mediaKey": "6196b82c-dc82-4faf-a465-fdba44ff46ef",
+  "i18n": {
+    "name": {
+      "en": "3D Glasses",
+      "uk": "3D-окуляри"
+    },
+    "alt": {
+      "en": "3D Glasses",
+      "uk": "3D-окуляри"
+    },
+    "tags": [
+      {
+        "key": "movie",
+        "i18n": {
+          "en": "movie",
+          "uk": "фільм"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      },
+      {
+        "key": "glasses",
+        "i18n": {
+          "en": "glasses",
+          "uk": "окуляри"
+        }
+      },
+      {
+        "key": "cinema",
+        "i18n": {
+          "en": "cinema",
+          "uk": "кіно"
+        }
+      },
+      {
+        "key": "vision",
+        "i18n": {
+          "en": "vision",
+          "uk": "бачення"
+        }
+      },
+      {
+        "key": "retro",
+        "i18n": {
+          "en": "retro",
+          "uk": "ретро"
+        }
+      },
+      {
+        "key": "watch",
+        "i18n": {
+          "en": "watch",
+          "uk": "дивитися"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/movie-3d-glasses",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

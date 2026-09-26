@@ -1,0 +1,49 @@
+{
+  "slug": "photos-09tf",
+  "mediaKey": "90260fe6-74ad-4610-8d80-d514dcc7d5a9",
+  "providerId": "5fc1143748bebe0017a47c08",
+  "i18n": {
+    "name": {
+      "en": "Photos",
+      "uk": "Фотографії"
+    },
+    "alt": {
+      "en": "Photos",
+      "uk": "Фотографії"
+    },
+    "tags": [
+      {
+        "key": "photos",
+        "i18n": {
+          "en": "Photos",
+          "uk": "Фотографії"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/photos_09tf.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 816,
+  "height": 701
+}

@@ -1,0 +1,320 @@
+- generic [ref=f115e4]:
+  - navigation [ref=f115e5]:
+    - generic [ref=f115e6]:
+      - generic [ref=f115e7]:
+        - link "Unsplash Home" [ref=f115e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f115e9]
+        - link "Photos" [ref=f115e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f115e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f115e17]:
+        - button "Explore" [ref=f115e18] [cursor=pointer]
+        - button "Collections" [ref=f115e21] [cursor=pointer]
+        - button "Download History" [ref=f115e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f115e28] [cursor=pointer]
+    - generic [ref=f115e31]:
+      - link "Log in / Sign up" [ref=f115e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-green-chair-with-a-dollar-sign-on-top-of-it-QahTsh9Qzy0
+      - button "Language" [ref=f115e35] [cursor=pointer]
+      - button "Menu" [ref=f115e38] [cursor=pointer]
+  - generic [ref=f115e41]:
+    - generic [ref=f115e42]:
+      - navigation [ref=f115e43]:
+        - search "Find visuals sitewide" [ref=f115e45]:
+          - button "Search Unsplash" [ref=f115e46] [cursor=pointer]
+          - combobox [ref=f115e49]:
+            - searchbox "Search Unsplash" [ref=f115e50]
+            - listbox
+          - button "Visual search" [ref=f115e52] [cursor=pointer]
+        - generic [ref=f115e55]:
+          - link "Get Unsplash+" [ref=f115e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f115e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-green-chair-with-a-dollar-sign-on-top-of-it-QahTsh9Qzy0
+        - button "Submit an image" [ref=f115e59] [cursor=pointer]
+      - generic [ref=f115e60]:
+        - generic [ref=f115e61]:
+          - banner [ref=f115e63]:
+            - generic [ref=f115e65]:
+              - link [ref=f115e66] [cursor=pointer]:
+                - /url: /@shegiva
+              - generic [ref=f115e69]:
+                - link "Grigorii Shcheglov" [ref=f115e70] [cursor=pointer]:
+                  - /url: /@shegiva
+                - generic [ref=f115e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f115e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-green-chair-with-a-dollar-sign-on-top-of-it-QahTsh9Qzy0
+            - generic [ref=f115e73]:
+              - button "Bookmark" [ref=f115e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f115e77] [cursor=pointer]
+              - button "Edit image" [ref=f115e80] [cursor=pointer]
+              - button "Download" [ref=f115e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f115e90]:
+            - img "A green chair with a dollar sign on top of it" [ref=f115e91]
+          - generic [ref=f115e92]:
+            - generic [ref=f115e93]:
+              - generic [ref=f115e95]:
+                - heading "Featured in" [level=3] [ref=f115e96]
+                - link "Illustrations" [ref=f115e98] [cursor=pointer]:
+                  - /url: /illustrations
+              - generic [ref=f115e99]:
+                - button "Share this image" [ref=f115e100] [cursor=pointer]:
+                  - generic [ref=f115e103]: Share
+                - button "More Actions" [ref=f115e104] [cursor=pointer]
+            - generic [ref=f115e108]:
+              - heading "A green chair with a dollar sign on top of it" [level=1] [ref=f115e110]
+              - paragraph [ref=f115e114]: Download this illustration of trading, finance, investment, and vector by Grigorii Shcheglov (@shegiva)
+              - generic [ref=f115e116]:
+                - generic [ref=f115e121]:
+                  - text: Published on
+                  - time [ref=f115e122]: May 14, 2024
+                - generic [ref=f115e126]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f115e127] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f115e129]:
+              - link "trading" [ref=f115e130] [cursor=pointer]:
+                - /url: /s/illustrations/trading
+              - link "finance" [ref=f115e131] [cursor=pointer]:
+                - /url: /s/illustrations/finance
+              - link "investment" [ref=f115e132] [cursor=pointer]:
+                - /url: /s/illustrations/investment
+              - link "vector" [ref=f115e133] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "economy" [ref=f115e134] [cursor=pointer]:
+                - /url: /s/illustrations/economy
+              - link "wealth" [ref=f115e135] [cursor=pointer]:
+                - /url: /s/illustrations/wealth
+              - link "savings" [ref=f115e136] [cursor=pointer]:
+                - /url: /s/illustrations/savings
+              - link "currency" [ref=f115e137] [cursor=pointer]:
+                - /url: /s/illustrations/currency
+              - link "debt" [ref=f115e138] [cursor=pointer]:
+                - /url: /s/illustrations/debt
+              - link "illustrations" [ref=f115e139] [cursor=pointer]:
+                - /url: /s/illustrations/illustrations
+              - link "inflation" [ref=f115e140] [cursor=pointer]:
+                - /url: /s/illustrations/inflation
+              - link "budgeting" [ref=f115e141] [cursor=pointer]:
+                - /url: /s/illustrations/budgeting
+              - link "flat design" [ref=f115e142] [cursor=pointer]:
+                - /url: /s/illustrations/flat-design
+              - link "economic growth" [ref=f115e143] [cursor=pointer]:
+                - /url: /s/illustrations/economic-growth
+              - link "dollar sign" [ref=f115e144] [cursor=pointer]:
+                - /url: /s/illustrations/dollar-sign
+              - link "dollar bill" [ref=f115e145] [cursor=pointer]:
+                - /url: /s/illustrations/dollar-bill
+              - link "recession" [ref=f115e146] [cursor=pointer]:
+                - /url: /s/illustrations/recession
+              - link "financial loss" [ref=f115e147] [cursor=pointer]:
+                - /url: /s/illustrations/financial-loss
+              - link "economic downturn" [ref=f115e148] [cursor=pointer]:
+                - /url: /s/illustrations/economic-downturn
+              - link "stock market graph" [ref=f115e149] [cursor=pointer]:
+                - /url: /s/illustrations/stock-market-graph
+        - generic [ref=f115e152]:
+          - generic [ref=f115e153]:
+            - paragraph [ref=f115e155]: From this series
+            - generic [ref=f115e157]:
+              - button "scroll list to the right" [ref=f115e159] [cursor=pointer]
+              - generic [ref=f115e162]:
+                - generic [ref=f115e163]:
+                  - link [ref=f115e164] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhouse-on-stacked-gold-and-silver-coins-QxzY_sAzO20
+                  - link [ref=f115e167]:
+                    - /url: /illustrations/house-on-stacked-gold-and-silver-coins-QxzY_sAzO20
+                    - img "House on stacked gold and silver coins" [ref=f115e168]
+                - generic [ref=f115e169]:
+                  - link [ref=f115e170] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-placing-a-gold-coin-on-a-chessboard-BOUCEtei24s
+                  - link [ref=f115e173]:
+                    - /url: /illustrations/hand-placing-a-gold-coin-on-a-chessboard-BOUCEtei24s
+                    - img "Hand placing a gold coin on a chessboard." [ref=f115e174]
+                - generic [ref=f115e175]:
+                  - link [ref=f115e176] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-laptop-with-a-stack-of-money-coming-out-of-it-s8p3pBY46d0
+                  - link [ref=f115e179]:
+                    - /url: /illustrations/a-laptop-with-a-stack-of-money-coming-out-of-it-s8p3pBY46d0
+                    - img "A laptop with a stack of money coming out of it" [ref=f115e180]
+                - generic [ref=f115e181]:
+                  - link [ref=f115e182] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcar-with-dollar-sign-wheels-and-okay-hand-2g-wmPyORRY
+                  - link [ref=f115e185]:
+                    - /url: /illustrations/car-with-dollar-sign-wheels-and-okay-hand-2g-wmPyORRY
+                    - img "Car with dollar sign wheels and okay hand" [ref=f115e186]
+                - generic [ref=f115e187]:
+                  - link [ref=f115e188] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-balancing-money-and-coins-with-currency-symbols-5pZ6dBDA55o
+                  - link [ref=f115e191]:
+                    - /url: /illustrations/hand-balancing-money-and-coins-with-currency-symbols-5pZ6dBDA55o
+                    - img "Hand balancing money and coins with currency symbols." [ref=f115e192]
+                - generic [ref=f115e193]:
+                  - link [ref=f115e194] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fmagnifying-glasses-examining-dollar-signs-on-bills-FfsA-ywcvGA
+                  - link [ref=f115e197]:
+                    - /url: /illustrations/magnifying-glasses-examining-dollar-signs-on-bills-FfsA-ywcvGA
+                    - img "Magnifying glasses examining dollar signs on bills." [ref=f115e198]
+                - generic [ref=f115e199]:
+                  - link [ref=f115e200] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-calculator-pen-money-and-a-calculator-on-a-vQXbcIsZtD0
+                  - link [ref=f115e203]:
+                    - /url: /illustrations/a-calculator-pen-money-and-a-calculator-on-a-vQXbcIsZtD0
+                    - img "A calculator, pen, money, and a calculator on a" [ref=f115e204]
+                - generic [ref=f115e205]:
+                  - link [ref=f115e206] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fdollar-bill-flag-on-a-desk-with-lamp-and-plant-ejLhnZBXD-U
+                  - link [ref=f115e209]:
+                    - /url: /illustrations/dollar-bill-flag-on-a-desk-with-lamp-and-plant-ejLhnZBXD-U
+                    - img "Dollar bill flag on a desk with lamp and plant." [ref=f115e210]
+          - generic [ref=f115e211]:
+            - heading "Related images" [level=4] [ref=f115e213]
+            - generic [ref=f115e217]:
+              - generic [ref=f115e218]:
+                - figure [ref=f115e219]:
+                  - generic [ref=f115e221]:
+                    - link [ref=f115e222]:
+                      - /url: /illustrations/a-man-is-holding-a-giant-piece-of-paper-mgs3GWGKvPo
+                      - img "A man is holding a giant piece of paper" [ref=f115e223]
+                    - link [ref=f115e224] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-is-holding-a-giant-piece-of-paper-mgs3GWGKvPo
+                - figure [ref=f115e227]:
+                  - generic [ref=f115e229]:
+                    - link [ref=f115e230]:
+                      - /url: /illustrations/a-pile-of-money-sitting-on-top-of-a-table-s9ELRc_P97k
+                      - img "A pile of money sitting on top of a table" [ref=f115e231]
+                    - link [ref=f115e232] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-pile-of-money-sitting-on-top-of-a-table-s9ELRc_P97k
+                - figure [ref=f115e235]:
+                  - generic [ref=f115e237]:
+                    - link [ref=f115e238]:
+                      - /url: /illustrations/hands-exchanging-money-with-sparkling-accents-o9S8WVN30V8
+                      - img "Hands exchanging money with sparkling accents." [ref=f115e239]
+                    - link [ref=f115e240] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhands-exchanging-money-with-sparkling-accents-o9S8WVN30V8
+                - figure [ref=f115e243]:
+                  - generic [ref=f115e245]:
+                    - link [ref=f115e246]:
+                      - /url: /illustrations/a-pile-of-money-sitting-on-top-of-a-pile-of-gold-coins-3sKQJsAcces
+                      - img "A pile of money sitting on top of a pile of gold coins" [ref=f115e247]
+                    - link [ref=f115e248] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-pile-of-money-sitting-on-top-of-a-pile-of-gold-coins-3sKQJsAcces
+                - figure [ref=f115e251]:
+                  - generic [ref=f115e253]:
+                    - link [ref=f115e254]:
+                      - /url: /illustrations/a-hand-holding-a-roll-of-toilet-paper-and-a-roll-of-money-JlESN0nTSLU
+                      - img "A hand holding a roll of toilet paper and a roll of money" [ref=f115e255]
+                    - link [ref=f115e256] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-hand-holding-a-roll-of-toilet-paper-and-a-roll-of-money-JlESN0nTSLU
+                - figure [ref=f115e259]:
+                  - generic [ref=f115e261]:
+                    - link [ref=f115e262]:
+                      - /url: /illustrations/businessman-climbing-stair-business-income-fJpAJG6zZ4k
+                      - img "businessman climbing stair business income" [ref=f115e263]
+                    - link [ref=f115e264] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fbusinessman-climbing-stair-business-income-fJpAJG6zZ4k
+              - generic [ref=f115e267]:
+                - figure [ref=f115e268]:
+                  - generic [ref=f115e270]:
+                    - link [ref=f115e271]:
+                      - /url: /illustrations/money-stacked-against-an-upward-pointing-green-arrow-fEfKSqhUsHs
+                      - img "Money stacked against an upward-pointing green arrow." [ref=f115e272]
+                    - link [ref=f115e273] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fmoney-stacked-against-an-upward-pointing-green-arrow-fEfKSqhUsHs
+                - figure [ref=f115e276]:
+                  - generic [ref=f115e278]:
+                    - link [ref=f115e279]:
+                      - /url: /illustrations/money-and-charts-show-financial-trends-izGt36XqlHg
+                      - img "Money and charts show financial trends." [ref=f115e280]
+                    - link [ref=f115e281] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fmoney-and-charts-show-financial-trends-izGt36XqlHg
+                - figure [ref=f115e284]:
+                  - generic [ref=f115e286]:
+                    - link [ref=f115e287]:
+                      - /url: /illustrations/a-hand-is-holding-a-coin-in-front-of-stacks-of-money-Jbg92gLRVRQ
+                      - img "A hand is holding a coin in front of stacks of money" [ref=f115e288]
+                    - link [ref=f115e289] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-hand-is-holding-a-coin-in-front-of-stacks-of-money-Jbg92gLRVRQ
+                - figure [ref=f115e292]:
+                  - generic [ref=f115e294]:
+                    - link [ref=f115e295]:
+                      - /url: /illustrations/a-pile-of-money-sitting-on-top-of-a-green-table-D4T8MrdFiAQ
+                      - img "A pile of money sitting on top of a green table" [ref=f115e296]
+                    - link [ref=f115e297] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-pile-of-money-sitting-on-top-of-a-green-table-D4T8MrdFiAQ
+                - figure [ref=f115e300]:
+                  - generic [ref=f115e302]:
+                    - link [ref=f115e303]:
+                      - /url: /illustrations/man-climbs-a-ladder-to-reach-a-giant-dollar-A-ER5cS6A9M
+                      - img "Man climbs a ladder to reach a giant dollar." [ref=f115e304]
+                    - link [ref=f115e305] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fman-climbs-a-ladder-to-reach-a-giant-dollar-A-ER5cS6A9M
+                - figure [ref=f115e308]:
+                  - generic [ref=f115e310]:
+                    - link [ref=f115e311]:
+                      - /url: /illustrations/dollar-bill-flag-on-a-desk-with-lamp-and-plant-ejLhnZBXD-U
+                      - img "Dollar bill flag on a desk with lamp and plant." [ref=f115e312]
+                    - link [ref=f115e313] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fdollar-bill-flag-on-a-desk-with-lamp-and-plant-ejLhnZBXD-U
+                - figure [ref=f115e316]:
+                  - generic [ref=f115e318]:
+                    - link [ref=f115e319]:
+                      - /url: /illustrations/hands-holding-money-and-signing-a-document-yV-P4ww8UCE
+                      - img "Hands holding money and signing a document." [ref=f115e320]
+                    - link [ref=f115e321] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhands-holding-money-and-signing-a-document-yV-P4ww8UCE
+              - generic [ref=f115e324]:
+                - figure [ref=f115e325]:
+                  - generic [ref=f115e327]:
+                    - link [ref=f115e328]:
+                      - /url: /illustrations/a-hand-holding-a-stack-of-money-over-a-pile-of-coins-V9oX4EKg8CU
+                      - img "A hand holding a stack of money over a pile of coins" [ref=f115e329]
+                    - link [ref=f115e330] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-hand-holding-a-stack-of-money-over-a-pile-of-coins-V9oX4EKg8CU
+                - figure [ref=f115e333]:
+                  - generic [ref=f115e335]:
+                    - link [ref=f115e336]:
+                      - /url: /illustrations/a-person-riding-a-bike-on-top-of-a-green-bill-DR5zWRfQpic
+                      - img "A person riding a bike on top of a green bill" [ref=f115e337]
+                    - link [ref=f115e338] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-riding-a-bike-on-top-of-a-green-bill-DR5zWRfQpic
+                - figure [ref=f115e341]:
+                  - generic [ref=f115e343]:
+                    - link [ref=f115e344]:
+                      - /url: /illustrations/taxes-money-and-financial-graphs-are-depicted-Lm8IvzIw9nQ
+                      - img "Taxes, money, and financial graphs are depicted." [ref=f115e345]
+                    - link [ref=f115e346] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ftaxes-money-and-financial-graphs-are-depicted-Lm8IvzIw9nQ
+                - figure [ref=f115e349]:
+                  - generic [ref=f115e351]:
+                    - link [ref=f115e352]:
+                      - /url: /illustrations/a-person-climbing-a-ladder-to-reach-a-gold-coin-znC5B3i2Hc0
+                      - img "a person climbing a ladder to reach a gold coin" [ref=f115e353]
+                    - link [ref=f115e354] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-climbing-a-ladder-to-reach-a-gold-coin-znC5B3i2Hc0
+                - figure [ref=f115e357]:
+                  - generic [ref=f115e359]:
+                    - link [ref=f115e360]:
+                      - /url: /illustrations/a-woman-sitting-on-top-of-a-pile-of-gold-coins-phrZuFKS8NY
+                      - img "a woman sitting on top of a pile of gold coins" [ref=f115e361]
+                    - link [ref=f115e362] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-woman-sitting-on-top-of-a-pile-of-gold-coins-phrZuFKS8NY
+                - figure [ref=f115e365]:
+                  - generic [ref=f115e367]:
+                    - link [ref=f115e368]:
+                      - /url: /illustrations/a-hand-holding-a-stack-of-coins-over-a-stack-of-bills-YWkWt8_hDDI
+                      - img "A hand holding a stack of coins over a stack of bills" [ref=f115e369]
+                    - link [ref=f115e370] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-hand-holding-a-stack-of-coins-over-a-stack-of-bills-YWkWt8_hDDI
+                - figure [ref=f115e373]:
+                  - generic [ref=f115e375]:
+                    - link [ref=f115e376]:
+                      - /url: /illustrations/round-dollar-coin-rolls-easily-hexagonal-coin-struggles-o0P66mpFvRQ
+                      - img "Round dollar coin rolls easily, hexagonal coin struggles" [ref=f115e377]
+                    - link [ref=f115e378] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fround-dollar-coin-rolls-easily-hexagonal-coin-struggles-o0P66mpFvRQ
+    - generic:
+      - region "Notifications"

@@ -1,0 +1,63 @@
+{
+  "slug": "travel-mode-103y",
+  "mediaKey": "faff70c3-78d3-4daf-a7b2-2ddb407db1f2",
+  "providerId": "6a28857f939aab611cf25c44",
+  "i18n": {
+    "name": {
+      "en": "Travel Mode",
+      "uk": "Режим подорожі"
+    },
+    "alt": {
+      "en": "Travel Mode",
+      "uk": "Режим подорожі"
+    },
+    "tags": [
+      {
+        "key": "travel-mode",
+        "i18n": {
+          "en": "Travel Mode",
+          "uk": "Режим подорожі"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "mode",
+        "i18n": {
+          "en": "mode",
+          "uk": "режим"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/travel-mode_103y.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 905,
+  "height": 880
+}

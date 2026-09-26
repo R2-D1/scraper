@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-29396848",
+  "mediaKey": "pexels:29396848",
+  "i18n": {
+    "name": {
+      "en": "Woman posing beside a modern glass structure",
+      "uk": "Жінка позує біля сучасної скляної конструкції"
+    },
+    "alt": {
+      "en": "Low angle photo of a model with outstretched arms in an urban setting, capturing movement.",
+      "uk": "Фотографія, зроблена з низького ракурсу, на якій зображено модель із розпростертими руками в міському оточенні; на знімку передано відчуття руху."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "model",
+        "i18n": {
+          "en": "model",
+          "uk": "модель"
+        }
+      },
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "urban",
+          "uk": "урбаністичний"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/dramatic-low-angle-urban-fashion-shot-29396848/",
+  "sourceName": "Pexels",
+  "authorName": "Sherman Trotz",
+  "authorUrl": "https://www.pexels.com/@shermantrotz",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3199
+}

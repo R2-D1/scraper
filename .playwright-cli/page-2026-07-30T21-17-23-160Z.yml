@@ -1,0 +1,261 @@
+- generic [ref=f5e4]:
+  - navigation [ref=f5e5]:
+    - generic [ref=f5e6]:
+      - generic [ref=f5e7]:
+        - link "Unsplash Home" [ref=f5e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f5e9]
+        - link "Photos" [ref=f5e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f5e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f5e17]:
+        - button "Explore" [ref=f5e18] [cursor=pointer]
+        - button "Collections" [ref=f5e21] [cursor=pointer]
+        - button "Download History" [ref=f5e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f5e28] [cursor=pointer]
+    - generic [ref=f5e31]:
+      - link "Log in / Sign up" [ref=f5e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fghost-wearing-sunglasses-and-a-cap-skateboarding-ApRgtsWUFog
+      - button "Language" [ref=f5e35] [cursor=pointer]
+      - button "Menu" [ref=f5e38] [cursor=pointer]
+  - generic [ref=f5e41]:
+    - generic [ref=f5e42]:
+      - navigation [ref=f5e43]:
+        - search "Find visuals sitewide" [ref=f5e45]:
+          - button "Search Unsplash" [ref=f5e46] [cursor=pointer]
+          - combobox [ref=f5e49]:
+            - searchbox "Search Unsplash" [ref=f5e50]
+            - listbox
+          - button "Visual search" [ref=f5e52] [cursor=pointer]
+        - generic [ref=f5e55]:
+          - link "Get Unsplash+" [ref=f5e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f5e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fghost-wearing-sunglasses-and-a-cap-skateboarding-ApRgtsWUFog
+        - button "Submit an image" [ref=f5e59] [cursor=pointer]
+      - generic [ref=f5e60]:
+        - generic [ref=f5e61]:
+          - banner [ref=f5e63]:
+            - generic [ref=f5e65]:
+              - link [ref=f5e66] [cursor=pointer]:
+                - /url: /@ceciliamiraldi
+              - generic [ref=f5e69]:
+                - link "Cecilia Miraldi" [ref=f5e70] [cursor=pointer]:
+                  - /url: /@ceciliamiraldi
+                - generic [ref=f5e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f5e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fghost-wearing-sunglasses-and-a-cap-skateboarding-ApRgtsWUFog
+            - generic [ref=f5e73]:
+              - button "Bookmark" [ref=f5e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f5e77] [cursor=pointer]
+              - button "Edit image" [ref=f5e80] [cursor=pointer]
+              - button "Download" [ref=f5e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f5e90]:
+            - img "Ghost wearing sunglasses and a cap skateboarding" [ref=f5e91]
+          - generic [ref=f5e92]:
+            - generic [ref=f5e94]:
+              - button "Share this image" [ref=f5e95] [cursor=pointer]:
+                - generic [ref=f5e98]: Share
+              - button "More Actions" [ref=f5e99] [cursor=pointer]
+            - generic [ref=f5e103]:
+              - heading "Ghost wearing sunglasses and a cap skateboarding" [level=1] [ref=f5e105]
+              - paragraph [ref=f5e109]: Download this illustration of blue, green, illustration, and halloween by Cecilia Miraldi (@ceciliamiraldi)
+              - generic [ref=f5e111]:
+                - generic [ref=f5e116]:
+                  - text: Published on
+                  - time [ref=f5e117]: September 5, 2025
+                - generic [ref=f5e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f5e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f5e124]:
+              - link "blue" [ref=f5e125] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "green" [ref=f5e126] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "illustration" [ref=f5e127] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "halloween" [ref=f5e128] [cursor=pointer]:
+                - /url: /s/illustrations/halloween
+              - link "graphic design" [ref=f5e129] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "purple" [ref=f5e130] [cursor=pointer]:
+                - /url: /s/illustrations/purple
+              - link "vector" [ref=f5e131] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "creative" [ref=f5e132] [cursor=pointer]:
+                - /url: /s/illustrations/creative
+              - link "graffiti" [ref=f5e133] [cursor=pointer]:
+                - /url: /s/illustrations/graffiti
+              - link "ghost" [ref=f5e134] [cursor=pointer]:
+                - /url: /s/illustrations/ghost
+              - link "digital art" [ref=f5e135] [cursor=pointer]:
+                - /url: /s/illustrations/digital-art
+              - link "sunglasses" [ref=f5e136] [cursor=pointer]:
+                - /url: /s/illustrations/sunglasses
+              - link "fun" [ref=f5e137] [cursor=pointer]:
+                - /url: /s/illustrations/fun
+              - link "cool" [ref=f5e138] [cursor=pointer]:
+                - /url: /s/illustrations/cool
+              - link "street art" [ref=f5e139] [cursor=pointer]:
+                - /url: /s/illustrations/street-art
+              - link "spooky" [ref=f5e140] [cursor=pointer]:
+                - /url: /s/illustrations/spooky
+              - link "hat" [ref=f5e141] [cursor=pointer]:
+                - /url: /s/illustrations/hat
+              - link "skateboarding" [ref=f5e142] [cursor=pointer]:
+                - /url: /s/illustrations/skateboarding
+              - link "artistic" [ref=f5e143] [cursor=pointer]:
+                - /url: /s/illustrations/artistic
+              - link "vector art" [ref=f5e144] [cursor=pointer]:
+                - /url: /s/illustrations/vector-art
+        - generic [ref=f5e148]:
+          - heading "Related images" [level=4] [ref=f5e150]
+          - generic [ref=f5e154]:
+            - generic [ref=f5e155]:
+              - figure [ref=f5e156]:
+                - generic [ref=f5e158]:
+                  - link [ref=f5e159]:
+                    - /url: /illustrations/a-cartoon-ghost-wearing-a-pink-beanie-rides-a-skateboard-vEE2blIh0og
+                    - img "A cartoon ghost wearing a pink beanie rides a skateboard" [ref=f5e160]
+                  - link [ref=f5e161] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-ghost-wearing-a-pink-beanie-rides-a-skateboard-vEE2blIh0og
+              - figure [ref=f5e164]:
+                - generic [ref=f5e166]:
+                  - link [ref=f5e167]:
+                    - /url: /illustrations/colorful-graffiti-art-with-spray-paint-splatters-_-BJPWunJZo
+                    - img "Colorful graffiti art with spray paint splatters" [ref=f5e168]
+                  - link [ref=f5e169] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcolorful-graffiti-art-with-spray-paint-splatters-_-BJPWunJZo
+              - figure [ref=f5e172]:
+                - generic [ref=f5e174]:
+                  - link [ref=f5e175]:
+                    - /url: /illustrations/abstract-colorful-shapes-and-splashes-on-black-background-hIC8p_PqTw8
+                    - img "Abstract colorful shapes and splashes on black background" [ref=f5e176]
+                  - link [ref=f5e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fabstract-colorful-shapes-and-splashes-on-black-background-hIC8p_PqTw8
+              - figure [ref=f5e180]:
+                - generic [ref=f5e182]:
+                  - link [ref=f5e183]:
+                    - /url: /illustrations/boo-a-spooky-fun-halloween-ghost-character-vector-illustration-lhOGfvU4uv0
+                    - img "Boo! A spooky fun halloween ghost character. Vector illustration." [ref=f5e184]
+                  - link [ref=f5e185] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fboo-a-spooky-fun-halloween-ghost-character-vector-illustration-lhOGfvU4uv0
+              - figure [ref=f5e188]:
+                - generic [ref=f5e190]:
+                  - link [ref=f5e191]:
+                    - /url: /illustrations/skater-in-pink-sneakers-doing-a-skateboarding-trick-3wdBdZ1TbL0
+                    - img "Skater in pink sneakers doing a skateboarding trick." [ref=f5e192]
+                  - link [ref=f5e193] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fskater-in-pink-sneakers-doing-a-skateboarding-trick-3wdBdZ1TbL0
+              - figure [ref=f5e196]:
+                - generic [ref=f5e198]:
+                  - link [ref=f5e199]:
+                    - /url: /illustrations/graffiti-lettering-with-dripping-green-slime-effect-JuXBVf9yjlo
+                    - img "Graffiti lettering with dripping green slime effect" [ref=f5e200]
+                  - link [ref=f5e201] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-lettering-with-dripping-green-slime-effect-JuXBVf9yjlo
+              - figure [ref=f5e204]:
+                - generic [ref=f5e206]:
+                  - link [ref=f5e207]:
+                    - /url: /illustrations/a-pink-silhouette-dj-plays-music-on-turntables--8SqiqcmMHQ
+                    - img "A pink silhouette dj plays music on turntables." [ref=f5e208]
+                  - link [ref=f5e209] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-pink-silhouette-dj-plays-music-on-turntables--8SqiqcmMHQ
+            - generic [ref=f5e212]:
+              - figure [ref=f5e213]:
+                - generic [ref=f5e215]:
+                  - link [ref=f5e216]:
+                    - /url: /illustrations/a-cartoon-ghost-riding-a-skateboard-with-a-bat-4rWhN0bH00Q
+                    - img "A cartoon ghost riding a skateboard with a bat" [ref=f5e217]
+                  - link [ref=f5e218] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-ghost-riding-a-skateboard-with-a-bat-4rWhN0bH00Q
+              - figure [ref=f5e221]:
+                - generic [ref=f5e223]:
+                  - link [ref=f5e224]:
+                    - /url: /illustrations/a-black-and-white-drawing-of-a-man-riding-a-skateboard-ezeBRTCANhQ
+                    - img "A black and white drawing of a man riding a skateboard" [ref=f5e225]
+                  - link [ref=f5e226] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-black-and-white-drawing-of-a-man-riding-a-skateboard-ezeBRTCANhQ
+              - figure [ref=f5e229]:
+                - generic [ref=f5e231]:
+                  - link [ref=f5e232]:
+                    - /url: /illustrations/a-cartoon-character-riding-a-skateboard-on-a-checkered-floor-_sKJgOxs9Us
+                    - img "A cartoon character riding a skateboard on a checkered floor" [ref=f5e233]
+                  - link [ref=f5e234] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-character-riding-a-skateboard-on-a-checkered-floor-_sKJgOxs9Us
+              - figure [ref=f5e237]:
+                - generic [ref=f5e239]:
+                  - link [ref=f5e240]:
+                    - /url: /illustrations/a-cartoon-pumpkin-skeleton-on-roller-skates-holding-a-lollipop-FxI0LdLxXCQ
+                    - img "A cartoon pumpkin skeleton on roller skates holding a lollipop" [ref=f5e241]
+                  - link [ref=f5e242] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-pumpkin-skeleton-on-roller-skates-holding-a-lollipop-FxI0LdLxXCQ
+              - figure [ref=f5e245]:
+                - generic [ref=f5e247]:
+                  - link [ref=f5e248]:
+                    - /url: /illustrations/a-man-is-flying-through-the-air-on-a-skateboard-68SFPuJH2UQ
+                    - img "A man is flying through the air on a skateboard" [ref=f5e249]
+                  - link [ref=f5e250] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-is-flying-through-the-air-on-a-skateboard-68SFPuJH2UQ
+              - figure [ref=f5e253]:
+                - generic [ref=f5e255]:
+                  - link [ref=f5e256]:
+                    - /url: /illustrations/an-image-of-a-cartoon-character-with-big-eyes-INYVXzFCY2o
+                    - img "an image of a cartoon character with big eyes" [ref=f5e257]
+                  - link [ref=f5e258] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fan-image-of-a-cartoon-character-with-big-eyes-INYVXzFCY2o
+              - figure [ref=f5e261]:
+                - generic [ref=f5e263]:
+                  - link [ref=f5e264]:
+                    - /url: /illustrations/skateboarder-performing-a-trick-on-a-rail-nt85CNJiULY
+                    - img "Skateboarder performing a trick on a rail." [ref=f5e265]
+                  - link [ref=f5e266] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fskateboarder-performing-a-trick-on-a-rail-nt85CNJiULY
+            - generic [ref=f5e269]:
+              - figure [ref=f5e270]:
+                - generic [ref=f5e272]:
+                  - link [ref=f5e273]:
+                    - /url: /illustrations/a-drawing-of-a-banana-riding-a-skateboard-RzUe3_TpnMk
+                    - img "A drawing of a banana riding a skateboard" [ref=f5e274]
+                  - link [ref=f5e275] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-drawing-of-a-banana-riding-a-skateboard-RzUe3_TpnMk
+              - figure [ref=f5e278]:
+                - generic [ref=f5e280]:
+                  - link [ref=f5e281]:
+                    - /url: /illustrations/a-group-of-cartoon-characters-wearing-sunglasses-DPQXFUX_a-s
+                    - img "a group of cartoon characters wearing sunglasses" [ref=f5e282]
+                  - link [ref=f5e283] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-group-of-cartoon-characters-wearing-sunglasses-DPQXFUX_a-s
+              - figure [ref=f5e286]:
+                - generic [ref=f5e288]:
+                  - link [ref=f5e289]:
+                    - /url: /illustrations/graffiti-style-cartoon-of-child-with-ice-cream-text-yFJj5pTVpJk
+                    - img "Graffiti style cartoon of child with ice cream text." [ref=f5e290]
+                  - link [ref=f5e291] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fgraffiti-style-cartoon-of-child-with-ice-cream-text-yFJj5pTVpJk
+              - figure [ref=f5e294]:
+                - generic [ref=f5e296]:
+                  - link [ref=f5e297]:
+                    - /url: /illustrations/a-man-riding-on-the-back-of-a-scooter-BmJitkESKsM
+                    - img "A man riding on the back of a scooter" [ref=f5e298]
+                  - link [ref=f5e299] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-man-riding-on-the-back-of-a-scooter-BmJitkESKsM
+              - figure [ref=f5e302]:
+                - generic [ref=f5e304]:
+                  - link [ref=f5e305]:
+                    - /url: /illustrations/a-picture-of-a-cartoon-character-with-a-hat-on-iJFg5QQz4w4
+                    - img "a picture of a cartoon character with a hat on" [ref=f5e306]
+                  - link [ref=f5e307] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-a-cartoon-character-with-a-hat-on-iJFg5QQz4w4
+              - figure [ref=f5e310]:
+                - generic [ref=f5e312]:
+                  - link [ref=f5e313]:
+                    - /url: /illustrations/a-cartoon-alien-with-sunglasses-and-a-flying-saucer-jZnTonuS7K8
+                    - img "a cartoon alien with sunglasses and a flying saucer" [ref=f5e314]
+                  - link [ref=f5e315] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-alien-with-sunglasses-and-a-flying-saucer-jZnTonuS7K8
+    - generic:
+      - region "Notifications"

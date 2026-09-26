@@ -1,0 +1,73 @@
+{
+  "slug": "pastel-gradient-background-fhlet",
+  "mediaKey": "a8b2269f-b10e-497b-8118-00cccab477b8",
+  "i18n": {
+    "name": {
+      "en": "Pastel Gradient Background",
+      "uk": "Фон із пастельним градієнтом"
+    },
+    "alt": {
+      "en": "Pastel Gradient Background",
+      "uk": "Фон із пастельним градієнтом"
+    },
+    "tags": [
+      {
+        "key": "pastel",
+        "i18n": {
+          "en": "Pastel",
+          "uk": "Пастель"
+        }
+      },
+      {
+        "key": "calming",
+        "i18n": {
+          "en": "Calming",
+          "uk": "Заспокійливий"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "Gradient",
+          "uk": "Градієнт"
+        }
+      },
+      {
+        "key": "soft-colors",
+        "i18n": {
+          "en": "soft colors",
+          "uk": "м'які кольори"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Pablo Stanley",
+  "authorUrl": "https://www.lummi.ai/creator/pablostanley?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A gradient background transitioning smoothly between pastel shades of blue, pink, yellow, and orange, creating a soft and calming visual effect.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1792,
+  "height": 2688,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/pastel-gradient-background-fhlet/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/pastel-gradient-background-fhlet/pastel-gradient-background-fhlet.png",
+  "relativeAssetPath": "library/lummi/images/pastel-gradient-background-fhlet/pastel-gradient-background-fhlet.png"
+}

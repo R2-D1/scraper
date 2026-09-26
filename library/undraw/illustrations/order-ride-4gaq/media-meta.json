@@ -1,0 +1,63 @@
+{
+  "slug": "order-ride-4gaq",
+  "mediaKey": "f92d8df3-0c85-42a2-8892-f3aea483e05d",
+  "providerId": "602110244bf01b0017118221",
+  "i18n": {
+    "name": {
+      "en": "Order ride",
+      "uk": "Замовити поїздку"
+    },
+    "alt": {
+      "en": "Order ride",
+      "uk": "Замовити поїздку"
+    },
+    "tags": [
+      {
+        "key": "order-ride",
+        "i18n": {
+          "en": "Order ride",
+          "uk": "Замовити поїздку"
+        }
+      },
+      {
+        "key": "order",
+        "i18n": {
+          "en": "order",
+          "uk": "порядок"
+        }
+      },
+      {
+        "key": "ride",
+        "i18n": {
+          "en": "ride",
+          "uk": "поїздка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/order-ride_4gaq.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 919,
+  "height": 432
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-7135058",
+  "mediaKey": "pexels:7135058",
+  "i18n": {
+    "name": {
+      "en": "Muted pastel gradient",
+      "uk": "Приглушений пастельний градієнт"
+    },
+    "alt": {
+      "en": "A soothing pastel gradient, perfect for backgrounds and design elements.",
+      "uk": "Заспокійливий пастельний градієнт, який ідеально підходить для фонів та елементів дизайну."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "pastel",
+        "i18n": {
+          "en": "pastel",
+          "uk": "пастель"
+        }
+      },
+      {
+        "key": "soft-colors",
+        "i18n": {
+          "en": "soft colors",
+          "uk": "м'які кольори"
+        }
+      },
+      {
+        "key": "gray",
+        "i18n": {
+          "en": "gray",
+          "uk": "сірий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-light-color-gradient-7135058/",
+  "sourceName": "Pexels",
+  "authorName": "Codioful (formerly Gradienta)",
+  "authorUrl": "https://www.pexels.com/@codioful",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

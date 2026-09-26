@@ -1,0 +1,49 @@
+{
+  "slug": "books-wxzz",
+  "mediaKey": "c5aa3a08-43df-45fd-8e57-2db3ce06465f",
+  "providerId": "67ec67b0d41286f17c3814da",
+  "i18n": {
+    "name": {
+      "en": "Books",
+      "uk": "Книги"
+    },
+    "alt": {
+      "en": "Books",
+      "uk": "Книги"
+    },
+    "tags": [
+      {
+        "key": "books",
+        "i18n": {
+          "en": "Books",
+          "uk": "Книги"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/books_wxzz.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 732,
+  "height": 490
+}

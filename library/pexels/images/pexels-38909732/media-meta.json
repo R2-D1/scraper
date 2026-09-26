@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-38909732",
+  "mediaKey": "pexels:38909732",
+  "i18n": {
+    "name": {
+      "en": "Person walking with teal motion blur",
+      "uk": "Людина, що йде, з розмиттям руху блакитного кольору"
+    },
+    "alt": {
+      "en": "A person walking with a teal-colored motion blur effect.",
+      "uk": "Людина, що йде, з ефектом розмиття руху бірюзового кольору."
+    },
+    "tags": [
+      {
+        "key": "person",
+        "i18n": {
+          "en": "person",
+          "uk": "людина"
+        }
+      },
+      {
+        "key": "walking",
+        "i18n": {
+          "en": "walking",
+          "uk": "ходьба"
+        }
+      },
+      {
+        "key": "motion-blur",
+        "i18n": {
+          "en": "motion blur",
+          "uk": "розмиття в русі"
+        }
+      },
+      {
+        "key": "teal",
+        "i18n": {
+          "en": "teal",
+          "uk": "бірюзовий"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/38909732/",
+  "sourceName": "Pexels",
+  "authorName": "Aj Collins  Artistry",
+  "authorUrl": "https://www.pexels.com/@aj-collins-artistry-1772576281",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

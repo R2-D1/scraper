@@ -1,0 +1,63 @@
+{
+  "slug": "image-editing-qqbe",
+  "mediaKey": "2b43334f-3271-41e2-987f-c64590838f80",
+  "providerId": "69e8014879740242d59ddaf1",
+  "i18n": {
+    "name": {
+      "en": "Image Editing",
+      "uk": "Редагування зображень"
+    },
+    "alt": {
+      "en": "Image Editing",
+      "uk": "Редагування зображень"
+    },
+    "tags": [
+      {
+        "key": "image-editing",
+        "i18n": {
+          "en": "Image Editing",
+          "uk": "Редагування зображень"
+        }
+      },
+      {
+        "key": "image",
+        "i18n": {
+          "en": "image",
+          "uk": "зображення"
+        }
+      },
+      {
+        "key": "editing",
+        "i18n": {
+          "en": "editing",
+          "uk": "редагування"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/image-editing_qqbe.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 743
+}

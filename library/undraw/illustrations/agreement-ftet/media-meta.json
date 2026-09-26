@@ -1,0 +1,49 @@
+{
+  "slug": "agreement-ftet",
+  "mediaKey": "2970ab57-1e9e-434e-a00a-7eb258934010",
+  "providerId": "691f97ae185332b54e55d264",
+  "i18n": {
+    "name": {
+      "en": "Agreement",
+      "uk": "Угода"
+    },
+    "alt": {
+      "en": "Agreement",
+      "uk": "Угода"
+    },
+    "tags": [
+      {
+        "key": "agreement",
+        "i18n": {
+          "en": "Agreement",
+          "uk": "Угода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/agreement_ftet.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 704,
+  "height": 800
+}

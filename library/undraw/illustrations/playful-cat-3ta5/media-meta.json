@@ -1,0 +1,63 @@
+{
+  "slug": "playful-cat-3ta5",
+  "mediaKey": "782a411a-4bdf-4c71-8b0f-7a0ae34f9e53",
+  "providerId": "6095102f17bb9400179e403d",
+  "i18n": {
+    "name": {
+      "en": "Playful cat",
+      "uk": "Грайливий кіт"
+    },
+    "alt": {
+      "en": "Playful cat",
+      "uk": "Грайливий кіт"
+    },
+    "tags": [
+      {
+        "key": "playful-cat",
+        "i18n": {
+          "en": "Playful cat",
+          "uk": "Грайливий кіт"
+        }
+      },
+      {
+        "key": "playful",
+        "i18n": {
+          "en": "playful",
+          "uk": "грайливий"
+        }
+      },
+      {
+        "key": "cat",
+        "i18n": {
+          "en": "cat",
+          "uk": "кіт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/playful-cat_3ta5.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 785,
+  "height": 261
+}

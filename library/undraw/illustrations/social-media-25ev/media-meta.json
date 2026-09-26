@@ -1,0 +1,63 @@
+{
+  "slug": "social-media-25ev",
+  "mediaKey": "3710f6cd-ae1d-48ca-84ab-271e9d3f5de7",
+  "providerId": "694b1e46b86acc3212afe384",
+  "i18n": {
+    "name": {
+      "en": "Social Media",
+      "uk": "Соціальні мережі"
+    },
+    "alt": {
+      "en": "Social Media",
+      "uk": "Соціальні мережі"
+    },
+    "tags": [
+      {
+        "key": "social-media",
+        "i18n": {
+          "en": "Social Media",
+          "uk": "Соціальні мережі"
+        }
+      },
+      {
+        "key": "social",
+        "i18n": {
+          "en": "social",
+          "uk": "соціальні"
+        }
+      },
+      {
+        "key": "media",
+        "i18n": {
+          "en": "media",
+          "uk": "медіа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/social-media_25ev.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 444
+}

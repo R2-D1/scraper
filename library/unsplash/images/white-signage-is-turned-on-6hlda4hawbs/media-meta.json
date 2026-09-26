@@ -1,0 +1,68 @@
+{
+  "slug": "white-signage-is-turned-on-6hlda4hawbs",
+  "mediaKey": "9c952fd2-d81b-48a5-a150-8287bbc35858",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "White signage is turned on",
+      "uk": "Увімкнена біла вивіска"
+    },
+    "alt": {
+      "en": "White signage is turned on",
+      "uk": "Увімкнена біла вивіска"
+    },
+    "tags": [
+      {
+        "key": "building",
+        "i18n": {
+          "en": "building",
+          "uk": "будівля"
+        }
+      },
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "white",
+        "i18n": {
+          "en": "white",
+          "uk": "білий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "housing",
+        "minimalistic",
+        "simple"
+      ],
+      "uk": [
+        "житло",
+        "мінімалістичний",
+        "простий"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/white-signage-is-turned-on-6hlda4HAwBs",
+  "sourceName": "Unsplash",
+  "authorName": "Stormseeker",
+  "authorUrl": "https://unsplash.com/@sseeker",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "api",
+  "width": 2400,
+  "height": 3000,
+  "collectionSlugs": [
+    "other"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "jrynyllozpu",
+  "mediaKey": "f92aa04f-1bc1-46d8-be3a-ecf420a357f1",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "Golden abstract shape on a blue background",
+      "uk": "Золотиста абстрактна форма на блакитному тлі"
+    },
+    "alt": {
+      "en": "Golden abstract shape on a blue background",
+      "uk": "Золотиста абстрактна форма на блакитному тлі"
+    },
+    "tags": [
+      {
+        "key": "copper",
+        "i18n": {
+          "en": "copper",
+          "uk": "мідь"
+        }
+      },
+      {
+        "key": "3d-renders",
+        "i18n": {
+          "en": "3d renders",
+          "uk": "тривимірні рендери"
+        }
+      },
+      {
+        "key": "3d-rendering",
+        "i18n": {
+          "en": "3d rendering",
+          "uk": "тривимірний рендеринг"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "3d рендер"
+      ],
+      "uk": [
+        "Тег: 3d рендер"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "source": "https://unsplash.com/photos/jryNYLlOZPU",
+  "sourceName": "Unsplash",
+  "authorName": "Buddha Elemental 3D",
+  "authorUrl": "https://unsplash.com/@buddhaelemental3d",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 1200
+}

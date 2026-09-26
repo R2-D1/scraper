@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-7681047",
+  "mediaKey": "pexels:7681047",
+  "i18n": {
+    "name": {
+      "en": "Person holding a blue iguana",
+      "uk": "Людина, яка тримає блакитну ігуану"
+    },
+    "alt": {
+      "en": "A muscular man in a black tank top holding a Sphynx cat under vibrant lighting.",
+      "uk": "М’язистий чоловік у чорній майці без рукавів тримає кота породи сфінкс під яскравим освітленням."
+    },
+    "tags": [
+      {
+        "key": "person",
+        "i18n": {
+          "en": "person",
+          "uk": "людина"
+        }
+      },
+      {
+        "key": "iguana",
+        "i18n": {
+          "en": "iguana",
+          "uk": "ігуана"
+        }
+      },
+      {
+        "key": "reptile",
+        "i18n": {
+          "en": "reptile",
+          "uk": "плазуни"
+        }
+      },
+      {
+        "key": "blue-light",
+        "i18n": {
+          "en": "blue light",
+          "uk": "синє світло"
+        }
+      },
+      {
+        "key": "hands",
+        "i18n": {
+          "en": "hands",
+          "uk": "руки"
+        }
+      },
+      {
+        "key": "animal",
+        "i18n": {
+          "en": "animal",
+          "uk": "тварина"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "animals"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/man-in-black-tank-top-carrying-a-sphynx-cat-7681047/",
+  "sourceName": "Pexels",
+  "authorName": "KoolShooters",
+  "authorUrl": "https://www.pexels.com/@koolshooters",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

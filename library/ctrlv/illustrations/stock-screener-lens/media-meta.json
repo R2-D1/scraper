@@ -1,0 +1,83 @@
+{
+  "slug": "stock-screener-lens",
+  "mediaKey": "fba9ac2e-7bd3-46da-89dd-d3233508b061",
+  "i18n": {
+    "name": {
+      "en": "Stock Screener",
+      "uk": "Фільтр акцій"
+    },
+    "alt": {
+      "en": "Stock Screener",
+      "uk": "Фільтр акцій"
+    },
+    "tags": [
+      {
+        "key": "screener",
+        "i18n": {
+          "en": "screener",
+          "uk": "фільтр"
+        }
+      },
+      {
+        "key": "search",
+        "i18n": {
+          "en": "search",
+          "uk": "пошук"
+        }
+      },
+      {
+        "key": "filter",
+        "i18n": {
+          "en": "filter",
+          "uk": "фільтр"
+        }
+      },
+      {
+        "key": "invest",
+        "i18n": {
+          "en": "invest",
+          "uk": "інвестувати"
+        }
+      },
+      {
+        "key": "stock",
+        "i18n": {
+          "en": "stock",
+          "uk": "запас"
+        }
+      },
+      {
+        "key": "finance",
+        "i18n": {
+          "en": "finance",
+          "uk": "фінанси"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/stock-screener-lens",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

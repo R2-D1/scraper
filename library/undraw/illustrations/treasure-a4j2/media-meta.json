@@ -1,0 +1,49 @@
+{
+  "slug": "treasure-a4j2",
+  "mediaKey": "c1bd6cc4-f4b5-44e0-a5c0-29eb38c65d13",
+  "providerId": "6966cf1ee3b47ece71f8074b",
+  "i18n": {
+    "name": {
+      "en": "Treasure",
+      "uk": "Скарб"
+    },
+    "alt": {
+      "en": "Treasure",
+      "uk": "Скарб"
+    },
+    "tags": [
+      {
+        "key": "treasure",
+        "i18n": {
+          "en": "Treasure",
+          "uk": "Скарб"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/treasure_a4j2.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 632
+}

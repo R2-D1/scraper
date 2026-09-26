@@ -1,0 +1,83 @@
+{
+  "slug": "sip-regular-invest",
+  "mediaKey": "6ae68d22-3df7-4a99-a4fd-b22c82cf0e20",
+  "i18n": {
+    "name": {
+      "en": "SIP Plan",
+      "uk": "План SIP"
+    },
+    "alt": {
+      "en": "SIP Plan",
+      "uk": "План SIP"
+    },
+    "tags": [
+      {
+        "key": "sip",
+        "i18n": {
+          "en": "sip",
+          "uk": "ковток"
+        }
+      },
+      {
+        "key": "systematic-investment-plan",
+        "i18n": {
+          "en": "systematic investment plan",
+          "uk": "систематичний інвестиційний план"
+        }
+      },
+      {
+        "key": "mutual-fund",
+        "i18n": {
+          "en": "mutual fund",
+          "uk": "пайовий інвестиційний фонд"
+        }
+      },
+      {
+        "key": "routine",
+        "i18n": {
+          "en": "routine",
+          "uk": "рутина"
+        }
+      },
+      {
+        "key": "invest",
+        "i18n": {
+          "en": "invest",
+          "uk": "інвестувати"
+        }
+      },
+      {
+        "key": "wealth",
+        "i18n": {
+          "en": "wealth",
+          "uk": "багатство"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/sip-regular-invest",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

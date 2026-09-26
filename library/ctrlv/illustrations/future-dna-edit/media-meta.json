@@ -1,0 +1,97 @@
+{
+  "slug": "future-dna-edit",
+  "mediaKey": "79a788d1-9d9c-4ab2-98e4-959f757bb60c",
+  "i18n": {
+    "name": {
+      "en": "Genetic Engineering",
+      "uk": "Генна інженерія"
+    },
+    "alt": {
+      "en": "Genetic Engineering",
+      "uk": "Генна інженерія"
+    },
+    "tags": [
+      {
+        "key": "future",
+        "i18n": {
+          "en": "future",
+          "uk": "майбутнє"
+        }
+      },
+      {
+        "key": "dna",
+        "i18n": {
+          "en": "dna",
+          "uk": "ДНК"
+        }
+      },
+      {
+        "key": "genetics",
+        "i18n": {
+          "en": "genetics",
+          "uk": "генетика"
+        }
+      },
+      {
+        "key": "science",
+        "i18n": {
+          "en": "science",
+          "uk": "наука"
+        }
+      },
+      {
+        "key": "biology",
+        "i18n": {
+          "en": "biology",
+          "uk": "біологія"
+        }
+      },
+      {
+        "key": "crispr",
+        "i18n": {
+          "en": "crispr",
+          "uk": "CRISPR"
+        }
+      },
+      {
+        "key": "medicine",
+        "i18n": {
+          "en": "medicine",
+          "uk": "медицина"
+        }
+      },
+      {
+        "key": "edit",
+        "i18n": {
+          "en": "edit",
+          "uk": "редагувати"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/future-dna-edit",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

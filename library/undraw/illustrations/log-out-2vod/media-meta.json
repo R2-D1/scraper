@@ -1,0 +1,63 @@
+{
+  "slug": "log-out-2vod",
+  "mediaKey": "9849eb4f-fab1-4bd2-a146-dad6e6f3cdb8",
+  "providerId": "67d362dab616ebabae4e0f89",
+  "i18n": {
+    "name": {
+      "en": "Log out",
+      "uk": "Вийти"
+    },
+    "alt": {
+      "en": "Log out",
+      "uk": "Вийти"
+    },
+    "tags": [
+      {
+        "key": "log-out",
+        "i18n": {
+          "en": "Log out",
+          "uk": "Вийти"
+        }
+      },
+      {
+        "key": "log",
+        "i18n": {
+          "en": "log",
+          "uk": "журнал"
+        }
+      },
+      {
+        "key": "out",
+        "i18n": {
+          "en": "out",
+          "uk": "поза"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/log-out_2vod.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 685,
+  "height": 800
+}

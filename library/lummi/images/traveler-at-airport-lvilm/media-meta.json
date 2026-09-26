@@ -1,0 +1,84 @@
+{
+  "slug": "traveler-at-airport-lvilm",
+  "mediaKey": "3772c3c4-e291-421f-bb72-2487aed0296b",
+  "i18n": {
+    "name": {
+      "en": "Traveler at Airport",
+      "uk": "Мандрівник в аеропорту"
+    },
+    "alt": {
+      "en": "Traveler at Airport",
+      "uk": "Мандрівник в аеропорту"
+    },
+    "tags": [
+      {
+        "key": "airport",
+        "i18n": {
+          "en": "Airport",
+          "uk": "Аеропорт"
+        }
+      },
+      {
+        "key": "suitcase",
+        "i18n": {
+          "en": "Suitcase",
+          "uk": "Чемодан"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "Travel",
+          "uk": "Подорожі"
+        }
+      },
+      {
+        "key": "natural-light",
+        "i18n": {
+          "en": "natural light",
+          "uk": "природне світло"
+        }
+      },
+      {
+        "key": "departure-board",
+        "i18n": {
+          "en": "departure board",
+          "uk": "табло відправлень"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "travel"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/traveler-at-airport-lvilm",
+  "sourceName": "Lummi",
+  "authorName": "Amino",
+  "authorUrl": "https://www.lummi.ai/creator/amino?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A person stands in front of a large departure board in an airport terminal. The individual, dressed in a dark coat and holding a suitcase, gazes up at the board, which displays a list of destinations and times in white text on a blue background. The scene is illuminated by natural light streaming through large windows, casting geometric shadows on the floor and walls. The atmosphere conveys a sense of anticipation and travel.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1309,
+  "mimeType": "image/webp"
+}

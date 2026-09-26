@@ -1,0 +1,63 @@
+{
+  "slug": "online-gallery-dljd",
+  "mediaKey": "4486953e-2ee0-4210-90eb-cb61c8839396",
+  "providerId": "60f1ba8fede7810017e28e25",
+  "i18n": {
+    "name": {
+      "en": "Online gallery",
+      "uk": "Онлайн-галерея"
+    },
+    "alt": {
+      "en": "Online gallery",
+      "uk": "Онлайн-галерея"
+    },
+    "tags": [
+      {
+        "key": "online-gallery",
+        "i18n": {
+          "en": "Online gallery",
+          "uk": "Онлайн-галерея"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "gallery",
+        "i18n": {
+          "en": "gallery",
+          "uk": "галерея"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/online-gallery_dljd.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 781,
+  "height": 659
+}

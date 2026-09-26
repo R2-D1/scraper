@@ -1,0 +1,49 @@
+{
+  "slug": "feedback-ebmx",
+  "mediaKey": "c9eec554-043c-419f-b899-d2a33b477dad",
+  "providerId": "6851b90ca122991395ec1eed",
+  "i18n": {
+    "name": {
+      "en": "Feedback",
+      "uk": "Відгуки"
+    },
+    "alt": {
+      "en": "Feedback",
+      "uk": "Відгуки"
+    },
+    "tags": [
+      {
+        "key": "feedback",
+        "i18n": {
+          "en": "Feedback",
+          "uk": "Відгуки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/feedback_ebmx.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 601
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-33524561",
+  "mediaKey": "pexels:33524561",
+  "i18n": {
+    "name": {
+      "en": "Man seated against a red backdrop",
+      "uk": "Чоловік сидить на червоному тлі"
+    },
+    "alt": {
+      "en": "Silhouetted man in red cap sitting on a chair against a red background. Moody and dramatic setup.",
+      "uk": "Силует чоловіка в червоній кепці, що сидить на стільці на червоному тлі. Настроєва та драматична композиція."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/dramatic-portrait-of-man-in-red-hat-on-red-background-33524561/",
+  "sourceName": "Pexels",
+  "authorName": "OUR LORD BISHOP.",
+  "authorUrl": "https://www.pexels.com/@our-lord-bishop-2155024814",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3778
+}

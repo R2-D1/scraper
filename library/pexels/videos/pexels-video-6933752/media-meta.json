@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-6933752",
+  "mediaKey": "pexels:video:6933752",
+  "i18n": {
+    "name": {
+      "en": "Snowfall over Dark Forest",
+      "uk": "Снігопад над Темним лісом"
+    },
+    "alt": {
+      "en": "Pexels video 6933752",
+      "uk": "Відео з Pexels № 6933752"
+    },
+    "tags": [
+      {
+        "key": "snow",
+        "i18n": {
+          "en": "snow",
+          "uk": "сніг"
+        }
+      },
+      {
+        "key": "forest",
+        "i18n": {
+          "en": "forest",
+          "uk": "ліс"
+        }
+      },
+      {
+        "key": "winter",
+        "i18n": {
+          "en": "winter",
+          "uk": "зима"
+        }
+      },
+      {
+        "key": "falling",
+        "i18n": {
+          "en": "falling",
+          "uk": "падіння"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/close-up-shot-of-snow-falling-6933752/",
+  "sourceName": "Pexels",
+  "authorName": "James Cheney",
+  "authorUrl": "https://www.pexels.com/@cheneymediaproductions",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1366,
+  "height": 720,
+  "duration": 40,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

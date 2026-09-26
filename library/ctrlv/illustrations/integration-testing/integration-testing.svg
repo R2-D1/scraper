@@ -1,0 +1,25 @@
+<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg"><style><![CDATA[*{animation:none!important}]]></style>
+            <ellipse cx="200" cy="270" rx="140" ry="10" fill="#E2E8F0" opacity="0.6"/>
+            <g class="anim-float">
+                <!-- Modules -->
+                <rect class="anim-pulse" x="80" y="80" width="60" height="60" rx="10" fill="#6366f1"/>
+                <rect class="anim-pulse" style="animation-delay: 0.5s;" x="260" y="80" width="60" height="60" rx="10" fill="#f43f5e"/>
+                <rect class="anim-pulse" style="animation-delay: 1s;" x="170" y="180" width="60" height="60" rx="10" fill="#0ea5e9"/>
+                
+                <!-- Connector Lines -->
+                <path class="anim-draw" d="M140 110 H260" stroke="#334155" stroke-width="4" stroke-dasharray="8 8" fill="none"/>
+                <path class="anim-draw" style="animation-delay: 0.5s;" d="M110 140 L170 210" stroke="#334155" stroke-width="4" stroke-dasharray="8 8" fill="none"/>
+                <path class="anim-draw" style="animation-delay: 1s;" d="M290 140 L230 210" stroke="#334155" stroke-width="4" stroke-dasharray="8 8" fill="none"/>
+                
+                <!-- Data Particles flowing -->
+                <g class="anim-data">
+                    <circle cx="160" cy="110" r="5" fill="#0ea5e9"/>
+                    <circle style="animation-delay: 0.8s;" cx="130" cy="160" r="4" fill="#6366f1"/>
+                    <circle style="animation-delay: 1.2s;" cx="270" cy="160" r="4" fill="#f43f5e"/>
+                </g>
+                
+                <!-- Success Signal at Center -->
+                <circle class="anim-glow" cx="200" cy="140" r="15" fill="#ffffff" stroke="#6366f1" stroke-width="3"/>
+                <path d="M195 140 L198 143 L205 137" stroke="#6366f1" stroke-width="3" stroke-linecap="round" fill="none"/>
+            </g>
+          </svg>

@@ -1,0 +1,63 @@
+{
+  "slug": "online-ad-703t",
+  "mediaKey": "12bf53a7-2652-4830-aa3a-791eefd0e517",
+  "providerId": "6994e0afc85e79442c04bdc5",
+  "i18n": {
+    "name": {
+      "en": "Online Ad",
+      "uk": "Інтернет-реклама"
+    },
+    "alt": {
+      "en": "Online Ad",
+      "uk": "Інтернет-реклама"
+    },
+    "tags": [
+      {
+        "key": "online-ad",
+        "i18n": {
+          "en": "Online Ad",
+          "uk": "Інтернет-реклама"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "ad",
+        "i18n": {
+          "en": "ad",
+          "uk": "оголошення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/online-ad_703t.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 597
+}

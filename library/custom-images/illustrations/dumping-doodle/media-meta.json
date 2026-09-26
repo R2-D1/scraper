@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "dumping-doodle",
+  "mediaKey": "custom:content:a52e2a64ec44ffdd897bc1087ff7a23763776db0d1d64003c09df7e593488f16",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "a52e2a64ec44ffdd897bc1087ff7a23763776db0d1d64003c09df7e593488f16",
+  "i18n": {
+    "name": {
+      "en": "Dumping Doodle",
+      "uk": "«Демпінг-дудл»"
+    },
+    "alt": {
+      "en": "Dumping Doodle",
+      "uk": "«Демпінг-дудл»"
+    },
+    "tags": [
+      {
+        "key": "dumping",
+        "i18n": {
+          "en": "Dumping",
+          "uk": "Демпінг"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

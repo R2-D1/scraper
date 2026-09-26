@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-33881558",
+  "mediaKey": "pexels:33881558",
+  "i18n": {
+    "name": {
+      "en": "Person holding a bouquet of white flowers",
+      "uk": "Людина, яка тримає букет білих квітів"
+    },
+    "alt": {
+      "en": "A person in a denim jacket holds a bouquet of white flowers against a blue background.",
+      "uk": "Людина в джинсовій куртці тримає букет білих квітів на синьому тлі."
+    },
+    "tags": [
+      {
+        "key": "person",
+        "i18n": {
+          "en": "person",
+          "uk": "людина"
+        }
+      },
+      {
+        "key": "white-flowers",
+        "i18n": {
+          "en": "white flowers",
+          "uk": "білі квіти"
+        }
+      },
+      {
+        "key": "bouquet",
+        "i18n": {
+          "en": "bouquet",
+          "uk": "букет"
+        }
+      },
+      {
+        "key": "denim-jacket",
+        "i18n": {
+          "en": "denim jacket",
+          "uk": "джинсова куртка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/stylish-individual-holding-elegant-white-bouquet-33881558/",
+  "sourceName": "Pexels",
+  "authorName": "OUR LORD BISHOP.",
+  "authorUrl": "https://www.pexels.com/@our-lord-bishop-2155024814",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1616,
+  "height": 2478
+}

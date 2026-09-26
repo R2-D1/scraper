@@ -1,0 +1,63 @@
+{
+  "slug": "dream-gift-5ave",
+  "mediaKey": "cf1d36b8-e781-4bd2-8d2e-1c73119bbb74",
+  "providerId": "6a0f862e79740242d59ddb1b",
+  "i18n": {
+    "name": {
+      "en": "Dream Gift",
+      "uk": "Подарунок мрії"
+    },
+    "alt": {
+      "en": "Dream Gift",
+      "uk": "Подарунок мрії"
+    },
+    "tags": [
+      {
+        "key": "dream-gift",
+        "i18n": {
+          "en": "Dream Gift",
+          "uk": "Подарунок мрії"
+        }
+      },
+      {
+        "key": "dream",
+        "i18n": {
+          "en": "dream",
+          "uk": "мрія"
+        }
+      },
+      {
+        "key": "gift",
+        "i18n": {
+          "en": "gift",
+          "uk": "подарунок"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/dream-gift_5ave.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 465
+}

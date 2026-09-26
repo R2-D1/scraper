@@ -1,0 +1,63 @@
+{
+  "slug": "pet-adoption-h7wv",
+  "mediaKey": "96aa921c-0e96-48e0-950d-df0c4f92fb66",
+  "providerId": "5d41ae6ecd6e6d0015cc5bdb",
+  "i18n": {
+    "name": {
+      "en": "Pet adoption",
+      "uk": "Усиновлення домашніх тварин"
+    },
+    "alt": {
+      "en": "Pet adoption",
+      "uk": "Усиновлення домашніх тварин"
+    },
+    "tags": [
+      {
+        "key": "pet-adoption",
+        "i18n": {
+          "en": "Pet adoption",
+          "uk": "Усиновлення домашніх тварин"
+        }
+      },
+      {
+        "key": "pet",
+        "i18n": {
+          "en": "pet",
+          "uk": "домашня тварина"
+        }
+      },
+      {
+        "key": "adoption",
+        "i18n": {
+          "en": "adoption",
+          "uk": "усиновлення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/pet-adoption_h7wv.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 779,
+  "height": 669
+}

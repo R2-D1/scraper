@@ -1,0 +1,63 @@
+{
+  "slug": "drag-and-drop-v4po",
+  "mediaKey": "0a7394ed-39ff-44b6-9e4b-bd1490c83dc9",
+  "providerId": "6807f11e3c26ac43a415c6dd",
+  "i18n": {
+    "name": {
+      "en": "Drag And Drop",
+      "uk": "Перетягування"
+    },
+    "alt": {
+      "en": "Drag And Drop",
+      "uk": "Перетягування"
+    },
+    "tags": [
+      {
+        "key": "drag-and-drop",
+        "i18n": {
+          "en": "Drag And Drop",
+          "uk": "Перетягування"
+        }
+      },
+      {
+        "key": "drag",
+        "i18n": {
+          "en": "drag",
+          "uk": "перетягнути"
+        }
+      },
+      {
+        "key": "drop",
+        "i18n": {
+          "en": "drop",
+          "uk": "падіння"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/drag-and-drop_v4po.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 710,
+  "height": 648
+}

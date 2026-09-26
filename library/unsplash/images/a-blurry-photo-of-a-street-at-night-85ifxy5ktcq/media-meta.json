@@ -1,0 +1,53 @@
+{
+  "slug": "a-blurry-photo-of-a-street-at-night-85ifxy5ktcq",
+  "mediaKey": "98775ee2-d5db-4424-9642-8e1ad299d71c",
+  "i18n": {
+    "name": {
+      "en": "a blurry photo of a street at night",
+      "uk": "розмите фото вулиці вночі"
+    },
+    "alt": {
+      "en": "a blurry photo of a street at night",
+      "uk": "розмите фото вулиці вночі"
+    },
+    "tags": [
+      {
+        "key": "light",
+        "i18n": {
+          "en": "light",
+          "uk": "світло"
+        }
+      },
+      {
+        "key": "laser",
+        "i18n": {
+          "en": "laser",
+          "uk": "лазер"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/a-blurry-photo-of-a-street-at-night-85Ifxy5KTCQ",
+  "sourceName": "Unsplash",
+  "authorName": "Shawn ‎",
+  "authorUrl": "https://unsplash.com/@directedbyshawn",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "pinned": false,
+  "width": 2400,
+  "height": 1600,
+  "collectionSlugs": [
+    "other"
+  ]
+}

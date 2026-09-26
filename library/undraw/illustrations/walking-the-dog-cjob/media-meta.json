@@ -1,0 +1,63 @@
+{
+  "slug": "walking-the-dog-cjob",
+  "mediaKey": "90dc9848-9c16-4777-8991-4aa7fd3848b3",
+  "providerId": "6a04dd2c79740242d59ddb10",
+  "i18n": {
+    "name": {
+      "en": "Walking the Dog",
+      "uk": "Прогулянка з собакою"
+    },
+    "alt": {
+      "en": "Walking the Dog",
+      "uk": "Прогулянка з собакою"
+    },
+    "tags": [
+      {
+        "key": "walking-the-dog",
+        "i18n": {
+          "en": "Walking the Dog",
+          "uk": "Прогулянка з собакою"
+        }
+      },
+      {
+        "key": "walking",
+        "i18n": {
+          "en": "walking",
+          "uk": "ходьба"
+        }
+      },
+      {
+        "key": "dog",
+        "i18n": {
+          "en": "dog",
+          "uk": "собака"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/walking-the-dog_cjob.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 903,
+  "height": 880
+}

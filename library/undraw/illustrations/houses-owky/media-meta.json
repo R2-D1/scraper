@@ -1,0 +1,49 @@
+{
+  "slug": "houses-owky",
+  "mediaKey": "4b23cf86-c022-40e9-b68c-1cf98c8cb781",
+  "providerId": "5a953c9be4ea480014560349",
+  "i18n": {
+    "name": {
+      "en": "Houses",
+      "uk": "Будинки"
+    },
+    "alt": {
+      "en": "Houses",
+      "uk": "Будинки"
+    },
+    "tags": [
+      {
+        "key": "houses",
+        "i18n": {
+          "en": "Houses",
+          "uk": "Будинки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/houses_owky.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 894,
+  "height": 228
+}

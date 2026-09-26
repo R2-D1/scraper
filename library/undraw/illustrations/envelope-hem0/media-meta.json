@@ -1,0 +1,49 @@
+{
+  "slug": "envelope-hem0",
+  "mediaKey": "8d0bd12c-015a-49dc-b2ea-f613a4e49fb7",
+  "providerId": "6048afa25c3eee0017366bca",
+  "i18n": {
+    "name": {
+      "en": "Envelope",
+      "uk": "Конверт"
+    },
+    "alt": {
+      "en": "Envelope",
+      "uk": "Конверт"
+    },
+    "tags": [
+      {
+        "key": "envelope",
+        "i18n": {
+          "en": "Envelope",
+          "uk": "Конверт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/envelope_hem0.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 704,
+  "height": 573
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "new-notification-q6lz",
+  "mediaKey": "addc8612-f3ee-4535-92ff-7fe59ad85535",
+  "providerId": "68b75b811f462219088540c8",
+  "i18n": {
+    "name": {
+      "en": "New Notification",
+      "uk": "Нове повідомлення"
+    },
+    "alt": {
+      "en": "New Notification",
+      "uk": "Нове повідомлення"
+    },
+    "tags": [
+      {
+        "key": "new-notification",
+        "i18n": {
+          "en": "New Notification",
+          "uk": "Нове повідомлення"
+        }
+      },
+      {
+        "key": "new",
+        "i18n": {
+          "en": "new",
+          "uk": "новий"
+        }
+      },
+      {
+        "key": "notification",
+        "i18n": {
+          "en": "notification",
+          "uk": "повідомлення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/new-notification_q6lz.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 686,
+  "height": 719
+}

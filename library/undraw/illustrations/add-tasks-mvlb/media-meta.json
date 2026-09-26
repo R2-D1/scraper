@@ -1,0 +1,63 @@
+{
+  "slug": "add-tasks-mvlb",
+  "mediaKey": "0ce297b4-f135-410e-986b-964a288d4428",
+  "providerId": "6866f644dd20bc8c0ab4d811",
+  "i18n": {
+    "name": {
+      "en": "Add tasks",
+      "uk": "Додати завдання"
+    },
+    "alt": {
+      "en": "Add tasks",
+      "uk": "Додати завдання"
+    },
+    "tags": [
+      {
+        "key": "add-tasks",
+        "i18n": {
+          "en": "Add tasks",
+          "uk": "Додати завдання"
+        }
+      },
+      {
+        "key": "add",
+        "i18n": {
+          "en": "add",
+          "uk": "додати"
+        }
+      },
+      {
+        "key": "tasks",
+        "i18n": {
+          "en": "tasks",
+          "uk": "завдання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/add-tasks_mvlb.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 571
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "basketball-action-shot-ivsht",
+  "mediaKey": "6ef88853-7b22-4828-98cc-abe0629dbe64",
+  "i18n": {
+    "name": {
+      "en": "Basketball Action Shot",
+      "uk": "Динамічний кадр з баскетболу"
+    },
+    "alt": {
+      "en": "Basketball Action Shot",
+      "uk": "Динамічний кадр з баскетболу"
+    },
+    "tags": [
+      {
+        "key": "dynamic",
+        "i18n": {
+          "en": "Dynamic",
+          "uk": "Динамічний"
+        }
+      },
+      {
+        "key": "motion",
+        "i18n": {
+          "en": "Motion",
+          "uk": "Рух"
+        }
+      },
+      {
+        "key": "athlete",
+        "i18n": {
+          "en": "Athlete",
+          "uk": "Спортсмен"
+        }
+      },
+      {
+        "key": "basketball",
+        "i18n": {
+          "en": "Basketball",
+          "uk": "Баскетбол"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "Sports",
+          "uk": "Спорт"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Ricardo Matos",
+  "authorUrl": "https://www.lummi.ai/creator/ricardomatos?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A dynamic low-angle photograph of a basketball player in motion, holding a basketball in one hand. The subject is wearing a sleeveless top and shorts, with the vibrant colors of the outfit contrasting against the clear blue sky. The image captures the energy and movement of the player, with a slight motion blur adding to the sense of action. The lighting highlights the contours of the player's muscles, emphasizing their athleticism. The composition and perspective create a dramatic and engaging visual effect.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1345,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/basketball-action-shot-ivsht/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/basketball-action-shot-ivsht/basketball-action-shot-ivsht.png",
+  "relativeAssetPath": "library/lummi/images/basketball-action-shot-ivsht/basketball-action-shot-ivsht.png"
+}

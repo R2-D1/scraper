@@ -1,0 +1,319 @@
+- generic [ref=f75e4]:
+  - navigation [ref=f75e5]:
+    - generic [ref=f75e6]:
+      - generic [ref=f75e7]:
+        - link "Unsplash Home" [ref=f75e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f75e9]
+        - link "Photos" [ref=f75e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f75e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f75e17]:
+        - button "Explore" [ref=f75e18] [cursor=pointer]
+        - button "Collections" [ref=f75e21] [cursor=pointer]
+        - button "Download History" [ref=f75e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f75e28] [cursor=pointer]
+    - generic [ref=f75e31]:
+      - link "Log in / Sign up" [ref=f75e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Ftwo-people-shaking-hands-with-stars-above-BFQoinp591c
+      - button "Language" [ref=f75e35] [cursor=pointer]
+      - button "Menu" [ref=f75e38] [cursor=pointer]
+  - generic [ref=f75e41]:
+    - generic [ref=f75e42]:
+      - navigation [ref=f75e43]:
+        - search "Find visuals sitewide" [ref=f75e45]:
+          - button "Search Unsplash" [ref=f75e46] [cursor=pointer]
+          - combobox [ref=f75e49]:
+            - searchbox "Search Unsplash" [ref=f75e50]
+            - listbox
+          - button "Visual search" [ref=f75e52] [cursor=pointer]
+        - generic [ref=f75e55]:
+          - link "Get Unsplash+" [ref=f75e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f75e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Ftwo-people-shaking-hands-with-stars-above-BFQoinp591c
+        - button "Submit an image" [ref=f75e59] [cursor=pointer]
+      - generic [ref=f75e60]:
+        - generic [ref=f75e61]:
+          - banner [ref=f75e63]:
+            - generic [ref=f75e65]:
+              - link [ref=f75e66] [cursor=pointer]:
+                - /url: /@getillustrations/illustrations
+              - generic [ref=f75e69]:
+                - link "Getillustrations" [ref=f75e70] [cursor=pointer]:
+                  - /url: /@getillustrations/illustrations
+                - generic [ref=f75e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f75e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ftwo-people-shaking-hands-with-stars-above-BFQoinp591c
+            - generic [ref=f75e73]:
+              - button "Bookmark" [ref=f75e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f75e77] [cursor=pointer]
+              - button "Edit image" [ref=f75e80] [cursor=pointer]
+              - button "Download" [ref=f75e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f75e90]:
+            - img "Two people shaking hands with stars above" [ref=f75e91]
+          - generic [ref=f75e92]:
+            - generic [ref=f75e94]:
+              - button "Share this image" [ref=f75e95] [cursor=pointer]:
+                - generic [ref=f75e98]: Share
+              - button "More Actions" [ref=f75e99] [cursor=pointer]
+            - generic [ref=f75e103]:
+              - heading "Two people shaking hands with stars above" [level=1] [ref=f75e105]
+              - paragraph [ref=f75e109]: Bloomie Life
+              - generic [ref=f75e111]:
+                - generic [ref=f75e116]:
+                  - text: Published on
+                  - time [ref=f75e117]: November 12, 2025
+                - generic [ref=f75e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f75e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f75e124]:
+              - link "business" [ref=f75e125] [cursor=pointer]:
+                - /url: /s/illustrations/business
+              - link "blue" [ref=f75e126] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "green" [ref=f75e127] [cursor=pointer]:
+                - /url: /s/illustrations/green
+              - link "meeting" [ref=f75e128] [cursor=pointer]:
+                - /url: /s/illustrations/meeting
+              - link "illustration" [ref=f75e129] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "cartoon" [ref=f75e130] [cursor=pointer]:
+                - /url: /s/illustrations/cartoon
+              - link "white" [ref=f75e131] [cursor=pointer]:
+                - /url: /s/illustrations/white
+              - link "orange" [ref=f75e132] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "handshake" [ref=f75e133] [cursor=pointer]:
+                - /url: /s/illustrations/handshake
+              - link "welcome" [ref=f75e134] [cursor=pointer]:
+                - /url: /s/illustrations/welcome
+              - link "vector" [ref=f75e135] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "partnership" [ref=f75e136] [cursor=pointer]:
+                - /url: /s/illustrations/partnership
+              - link "deal" [ref=f75e137] [cursor=pointer]:
+                - /url: /s/illustrations/deal
+              - link "agreement" [ref=f75e138] [cursor=pointer]:
+                - /url: /s/illustrations/agreement
+              - link "introduction" [ref=f75e139] [cursor=pointer]:
+                - /url: /s/illustrations/introduction
+              - link "greeting" [ref=f75e140] [cursor=pointer]:
+                - /url: /s/illustrations/greeting
+        - generic [ref=f75e143]:
+          - generic [ref=f75e144]:
+            - paragraph [ref=f75e146]: From this series
+            - generic [ref=f75e148]:
+              - button "scroll list to the right" [ref=f75e150] [cursor=pointer]
+              - generic [ref=f75e153]:
+                - generic [ref=f75e154]:
+                  - link [ref=f75e155] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ftwo-houses-with-heart-shaped-balloons-c6q6BbOqkU4
+                  - link [ref=f75e158]:
+                    - /url: /illustrations/two-houses-with-heart-shaped-balloons-c6q6BbOqkU4
+                    - img "Two houses with heart-shaped balloons" [ref=f75e159]
+                - generic [ref=f75e160]:
+                  - link [ref=f75e161] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-blue-cloud-with-colorful-shapes-raining-down-mh06Mrdeh6o
+                  - link [ref=f75e164]:
+                    - /url: /illustrations/a-blue-cloud-with-colorful-shapes-raining-down-mh06Mrdeh6o
+                    - img "A blue cloud with colorful shapes raining down" [ref=f75e165]
+                - generic [ref=f75e166]:
+                  - link [ref=f75e167] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Flighthouse-shining-light-on-starry-night-sky-iNZP29wle-s
+                  - link [ref=f75e170]:
+                    - /url: /illustrations/lighthouse-shining-light-on-starry-night-sky-iNZP29wle-s
+                    - img "Lighthouse shining light on starry night sky." [ref=f75e171]
+                - generic [ref=f75e172]:
+                  - link [ref=f75e173] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ffox-with-shield-and-lock-icon-40D0GqkBSo4
+                  - link [ref=f75e176]:
+                    - /url: /illustrations/fox-with-shield-and-lock-icon-40D0GqkBSo4
+                    - img "Fox with shield and lock icon" [ref=f75e177]
+                - generic [ref=f75e178]:
+                  - link [ref=f75e179] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fconstruction-sign-with-fire-and-clouds-cHtNK3SWWrg
+                  - link [ref=f75e182]:
+                    - /url: /illustrations/construction-sign-with-fire-and-clouds-cHtNK3SWWrg
+                    - img "Construction sign with fire and clouds" [ref=f75e183]
+                - generic [ref=f75e184]:
+                  - link [ref=f75e185] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fperson-wearing-a-vr-headset-with-colorful-abstract-elements-vvDX2gRtJbs
+                  - link [ref=f75e188]:
+                    - /url: /illustrations/person-wearing-a-vr-headset-with-colorful-abstract-elements-vvDX2gRtJbs
+                    - img "Person wearing a vr headset with colorful abstract elements." [ref=f75e189]
+                - generic [ref=f75e190]:
+                  - link [ref=f75e191] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-waters-flowers-growing-from-laptop-screen-VWyvSuqm_QM
+                  - link [ref=f75e194]:
+                    - /url: /illustrations/hand-waters-flowers-growing-from-laptop-screen-VWyvSuqm_QM
+                    - img "Hand waters flowers growing from laptop screen" [ref=f75e195]
+                - generic [ref=f75e196]:
+                  - link [ref=f75e197] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-camera-with-flower-and-leaves-tIZmXb7nNvQ
+                  - link [ref=f75e200]:
+                    - /url: /illustrations/hand-holding-camera-with-flower-and-leaves-tIZmXb7nNvQ
+                    - img "Hand holding camera with flower and leaves" [ref=f75e201]
+                - generic [ref=f75e202]:
+                  - link [ref=f75e203] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcartoon-rocket-ship-flying-through-clouds-and-stars--VA7zVeEDj0
+                  - link [ref=f75e206]:
+                    - /url: /illustrations/cartoon-rocket-ship-flying-through-clouds-and-stars--VA7zVeEDj0
+                    - img "Cartoon rocket ship flying through clouds and stars" [ref=f75e207]
+                - generic [ref=f75e208]:
+                  - link [ref=f75e209] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-tent-set-up-in-a-sunny-outdoor-landscape-gzNnH7TcWGM
+                  - link [ref=f75e212]:
+                    - /url: /illustrations/a-tent-set-up-in-a-sunny-outdoor-landscape-gzNnH7TcWGM
+                    - img "A tent set up in a sunny outdoor landscape." [ref=f75e213]
+          - generic [ref=f75e214]:
+            - heading "Related images" [level=4] [ref=f75e216]
+            - generic [ref=f75e220]:
+              - generic [ref=f75e221]:
+                - figure [ref=f75e222]:
+                  - generic [ref=f75e224]:
+                    - link [ref=f75e225]:
+                      - /url: /illustrations/business-woman-and-man-shaking-hands-in-flat-style-isolated-on-white-background-vector-illustration-of-greeting-or-agreement-concept-with-young-people-with-handshake-gesture-h2SUxr_kj5M
+                      - img "Business woman and man shaking hands in flat style isolated on white background. Vector illustration of greeting or agreement concept with young people with handshake gesture." [ref=f75e226]
+                    - link [ref=f75e227] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fbusiness-woman-and-man-shaking-hands-in-flat-style-isolated-on-white-background-vector-illustration-of-greeting-or-agreement-concept-with-young-people-with-handshake-gesture-h2SUxr_kj5M
+                - figure [ref=f75e230]:
+                  - generic [ref=f75e232]:
+                    - link [ref=f75e233]:
+                      - /url: /illustrations/a-colorful-cartoon-depicts-a-handshake-gYJMx67gz6Y
+                      - img "A colorful cartoon depicts a handshake." [ref=f75e234]
+                    - link [ref=f75e235] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-colorful-cartoon-depicts-a-handshake-gYJMx67gz6Y
+                - figure [ref=f75e238]:
+                  - generic [ref=f75e240]:
+                    - link [ref=f75e241]:
+                      - /url: /illustrations/business-man-and-woman-shaking-hands-in-flat-style-isolated-on-white-background-vector-illustration-of-greeting-or-deal-concept-with-young-people-with-handshake-gesture-N0laFyBNqgA
+                      - img "Business man and woman shaking hands in flat style isolated on white background - vector illustration of greeting or deal concept with young people with handshake gesture." [ref=f75e242]
+                    - link [ref=f75e243] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fbusiness-man-and-woman-shaking-hands-in-flat-style-isolated-on-white-background-vector-illustration-of-greeting-or-deal-concept-with-young-people-with-handshake-gesture-N0laFyBNqgA
+                - figure [ref=f75e246]:
+                  - generic [ref=f75e248]:
+                    - link [ref=f75e249]:
+                      - /url: /illustrations/two-people-are-high-fiving-with-speech-bubbles-wK2dmtBJoIw
+                      - img "Two people are high-fiving with speech bubbles." [ref=f75e250]
+                    - link [ref=f75e251] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ftwo-people-are-high-fiving-with-speech-bubbles-wK2dmtBJoIw
+                - figure [ref=f75e254]:
+                  - generic [ref=f75e256]:
+                    - link [ref=f75e257]:
+                      - /url: /illustrations/couples-of-woman-and-man-design-relationship-love-romance-holiday-and-together-theme-vector-illustration-YkANMWrKeBc
+                      - img "Couples of woman and man design, Relationship love romance holiday and together theme Vector illustration" [ref=f75e258]
+                    - link [ref=f75e259] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcouples-of-woman-and-man-design-relationship-love-romance-holiday-and-together-theme-vector-illustration-YkANMWrKeBc
+                - figure [ref=f75e262]:
+                  - generic [ref=f75e264]:
+                    - link [ref=f75e265]:
+                      - /url: /illustrations/good-deal-concept-business-partners-men-handshaking-businesspeople-meeting-for-project-discussion-shaking-hands-agreement-during-negotiation-corporate-partnership-cartoon-flat-vector-illustration-DMbLvSF3tdk
+                      - img "Good Deal Concept. Business Partners Men Handshaking. Businesspeople Meeting for Project Discussion, Shaking Hands Agreement during Negotiation. Corporate Partnership Cartoon Flat Vector Illustration" [ref=f75e266]
+                    - link [ref=f75e267] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fgood-deal-concept-business-partners-men-handshaking-businesspeople-meeting-for-project-discussion-shaking-hands-agreement-during-negotiation-corporate-partnership-cartoon-flat-vector-illustration-DMbLvSF3tdk
+                - figure [ref=f75e270]:
+                  - generic [ref=f75e272]:
+                    - link [ref=f75e273]:
+                      - /url: /illustrations/two-people-giving-high-five-standing-with-hands-together-man-and-woman-in-casual-clothes-greeting-each-other-characters-give-five-and-rejoice-happy-couple-during-greeting-vector-illustration-9BtJP7yMmAs
+                      - img "Two people giving high five, standing with hands together. Man and woman in casual clothes greeting each other. Characters give five and rejoice. Happy couple during greeting vector illustration" [ref=f75e274]
+                    - link [ref=f75e275] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ftwo-people-giving-high-five-standing-with-hands-together-man-and-woman-in-casual-clothes-greeting-each-other-characters-give-five-and-rejoice-happy-couple-during-greeting-vector-illustration-9BtJP7yMmAs
+              - generic [ref=f75e278]:
+                - figure [ref=f75e279]:
+                  - generic [ref=f75e281]:
+                    - link [ref=f75e282]:
+                      - /url: /illustrations/vector-young-woman-and-man-in-casual-clothing-talking-to-each-other-gesticulating-with-empty-speech-bubble-above-head-friends-or-colleagues-and-social-communication-flat-illustration-WgC0-LZP2wY
+                      - img "Vector young woman and man in casual clothing talking to each other gesticulating with empty speech bubble above head. Friends or colleagues and social communication. Flat illustration" [ref=f75e283]
+                    - link [ref=f75e284] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fvector-young-woman-and-man-in-casual-clothing-talking-to-each-other-gesticulating-with-empty-speech-bubble-above-head-friends-or-colleagues-and-social-communication-flat-illustration-WgC0-LZP2wY
+                - figure [ref=f75e287]:
+                  - generic [ref=f75e289]:
+                    - link [ref=f75e290]:
+                      - /url: /illustrations/two-people-talking-in-speech-bubbles-nJaaRhmqRk0
+                      - img "Two people talking in speech bubbles." [ref=f75e291]
+                    - link [ref=f75e292] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ftwo-people-talking-in-speech-bubbles-nJaaRhmqRk0
+                - figure [ref=f75e295]:
+                  - generic [ref=f75e297]:
+                    - link [ref=f75e298]:
+                      - /url: /illustrations/two-hands-shaking-in-agreement-with-sparkles-BYihqqVMHt8
+                      - img "Two hands shaking in agreement with sparkles." [ref=f75e299]
+                    - link [ref=f75e300] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ftwo-hands-shaking-in-agreement-with-sparkles-BYihqqVMHt8
+                - figure [ref=f75e303]:
+                  - generic [ref=f75e305]:
+                    - link [ref=f75e306]:
+                      - /url: /illustrations/a-happy-lesbian-couple-of-women-standing-in-casual-clothes-and-holding-hands-homosexual-couple-concept-isolated-vector-icon-illustration-on-a-white-background-in-cartoon-style-cwmyMsioH_c
+                      - img "A happy lesbian couple of women standing in casual clothes and holding hands. Homosexual couple concept. Isolated vector icon illustration on a white background in cartoon style." [ref=f75e307]
+                    - link [ref=f75e308] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-happy-lesbian-couple-of-women-standing-in-casual-clothes-and-holding-hands-homosexual-couple-concept-isolated-vector-icon-illustration-on-a-white-background-in-cartoon-style-cwmyMsioH_c
+                - figure [ref=f75e311]:
+                  - generic [ref=f75e313]:
+                    - link [ref=f75e314]:
+                      - /url: /illustrations/couple-in-love-back-view-flat-vector-illustration-man-and-woman-in-romantic-relationship-married-couple-husband-and-wife-loving-each-other-relationship-love-marriage-family-romance-concept-rOWu-KVi5k4
+                      - img "Couple in love back view. Flat vector illustration. Man and woman in romantic relationship, married couple, husband and wife loving each other. Relationship, love, marriage, family, romance concept" [ref=f75e315]
+                    - link [ref=f75e316] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcouple-in-love-back-view-flat-vector-illustration-man-and-woman-in-romantic-relationship-married-couple-husband-and-wife-loving-each-other-relationship-love-marriage-family-romance-concept-rOWu-KVi5k4
+                - figure [ref=f75e319]:
+                  - generic [ref=f75e321]:
+                    - link [ref=f75e322]:
+                      - /url: /illustrations/romantic-couple-representation-with-stars-hfN4qvQLRTc
+                      - img "romantic couple representation with stars" [ref=f75e323]
+                    - link [ref=f75e324] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fromantic-couple-representation-with-stars-hfN4qvQLRTc
+                - figure [ref=f75e327]:
+                  - generic [ref=f75e329]:
+                    - link [ref=f75e330]:
+                      - /url: /illustrations/two-people-reaching-for-golden-stars--O52zFG_4Ng
+                      - img "Two people reaching for golden stars" [ref=f75e331]
+                    - link [ref=f75e332] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ftwo-people-reaching-for-golden-stars--O52zFG_4Ng
+              - generic [ref=f75e335]:
+                - figure [ref=f75e336]:
+                  - generic [ref=f75e338]:
+                    - link [ref=f75e339]:
+                      - /url: /illustrations/vector-male-characters-manager-shaking-hands-after-successful-development-meeting-collaboration-male-office-worker-business-man-and-cooperation-and-teambuilding-qm0F11U8rzA
+                      - img "Vector male characters manager shaking hands after successful development meeting, collaboration. Male office worker, business man, and cooperation and teambuilding." [ref=f75e340]
+                    - link [ref=f75e341] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fvector-male-characters-manager-shaking-hands-after-successful-development-meeting-collaboration-male-office-worker-business-man-and-cooperation-and-teambuilding-qm0F11U8rzA
+                - figure [ref=f75e344]:
+                  - generic [ref=f75e346]:
+                    - link [ref=f75e347]:
+                      - /url: /illustrations/cute-happy-smiling-couple-red-haired-man-and-black-haired-woman-in-casual-clothes-hugging-romantic-date-concept-happy-hug-day-isolated-vector-icon-illustration-on-white-background-in-cartoon-style-UjVdUjftjKc
+                      - img "Cute happy smiling couple red-haired man and black-haired woman in casual clothes hugging. Romantic date concept. Happy Hug Day. Isolated vector icon illustration on white background in cartoon style." [ref=f75e348]
+                    - link [ref=f75e349] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcute-happy-smiling-couple-red-haired-man-and-black-haired-woman-in-casual-clothes-hugging-romantic-date-concept-happy-hug-day-isolated-vector-icon-illustration-on-white-background-in-cartoon-style-UjVdUjftjKc
+                - figure [ref=f75e352]:
+                  - generic [ref=f75e354]:
+                    - link [ref=f75e355]:
+                      - /url: /illustrations/a-couple-of-people-shaking-hands-over-a-white-background-Z8J88FSdMa8
+                      - img "A couple of people shaking hands over a white background" [ref=f75e356]
+                    - link [ref=f75e357] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-couple-of-people-shaking-hands-over-a-white-background-Z8J88FSdMa8
+                - figure [ref=f75e360]:
+                  - generic [ref=f75e362]:
+                    - link [ref=f75e363]:
+                      - /url: /illustrations/couple-forming-a-heart-shape-with-arms-GWFa8e7h3lY
+                      - img "Couple forming a heart shape with arms" [ref=f75e364]
+                    - link [ref=f75e365] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcouple-forming-a-heart-shape-with-arms-GWFa8e7h3lY
+                - figure [ref=f75e368]:
+                  - generic [ref=f75e370]:
+                    - link [ref=f75e371]:
+                      - /url: /illustrations/cute-happy-smiling-couple-blond-man-and-a-blue-haired-woman-in-casual-clothes-hugging-romantic-date-concept-happy-hug-day-isolated-vector-icon-illustration-on-white-background-in-cartoon-style-hv1f7GzasRY
+                      - img "Cute happy smiling couple blond man and a blue-haired woman in casual clothes hugging. Romantic date concept. Happy Hug Day. Isolated vector icon illustration on white background in cartoon style." [ref=f75e372]
+                    - link [ref=f75e373] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcute-happy-smiling-couple-blond-man-and-a-blue-haired-woman-in-casual-clothes-hugging-romantic-date-concept-happy-hug-day-isolated-vector-icon-illustration-on-white-background-in-cartoon-style-hv1f7GzasRY
+                - figure [ref=f75e376]:
+                  - generic [ref=f75e378]:
+                    - link [ref=f75e379]:
+                      - /url: /illustrations/a-man-and-woman-hugging-each-other-ulIzTRSps_o
+                      - img "A man and woman hugging each other" [ref=f75e380]
+                    - link [ref=f75e381] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-and-woman-hugging-each-other-ulIzTRSps_o
+    - generic:
+      - region "Notifications"

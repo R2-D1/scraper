@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-15280761",
+  "mediaKey": "pexels:15280761",
+  "i18n": {
+    "name": {
+      "en": "Colorful fractal texture in green and orange",
+      "uk": "Барвиста фрактальна текстура у зелених та помаранчевих тонах"
+    },
+    "alt": {
+      "en": "A striking abstract artwork featuring vibrant colors and intricate patterns in a radial design.",
+      "uk": "Вражаючий абстрактний твір мистецтва, що вирізняється яскравими кольорами та витонченими візерунками, розташованими у радіальному порядку."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "fractal",
+        "i18n": {
+          "en": "fractal",
+          "uk": "фрактал"
+        }
+      },
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/colorful-abstract-shape-15280761/",
+  "sourceName": "Pexels",
+  "authorName": "Turgay Koca",
+  "authorUrl": "https://www.pexels.com/@turgay-koca-405356598",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

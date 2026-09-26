@@ -1,0 +1,63 @@
+{
+  "slug": "confidential-letter-k1ni",
+  "mediaKey": "5f226738-b8c3-4b2f-b110-6cedd369c32a",
+  "providerId": "5f5b5c46a5bc3400177be18f",
+  "i18n": {
+    "name": {
+      "en": "Confidential letter",
+      "uk": "Конфіденційний лист"
+    },
+    "alt": {
+      "en": "Confidential letter",
+      "uk": "Конфіденційний лист"
+    },
+    "tags": [
+      {
+        "key": "confidential-letter",
+        "i18n": {
+          "en": "Confidential letter",
+          "uk": "Конфіденційний лист"
+        }
+      },
+      {
+        "key": "confidential",
+        "i18n": {
+          "en": "confidential",
+          "uk": "конфіденційно"
+        }
+      },
+      {
+        "key": "letter",
+        "i18n": {
+          "en": "letter",
+          "uk": "лист"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/confidential-letter_k1ni.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 668,
+  "height": 568
+}

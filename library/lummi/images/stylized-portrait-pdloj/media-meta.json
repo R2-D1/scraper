@@ -1,0 +1,94 @@
+{
+  "slug": "stylized-portrait-pdloj",
+  "mediaKey": "c56c1894-1df0-4698-a60f-adcef14fe745",
+  "i18n": {
+    "name": {
+      "en": "Stylized Portrait",
+      "uk": "Стилізований портрет"
+    },
+    "alt": {
+      "en": "Stylized Portrait",
+      "uk": "Стилізований портрет"
+    },
+    "tags": [
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "minimalist",
+        "i18n": {
+          "en": "Minimalist",
+          "uk": "Мінімалістичний"
+        }
+      },
+      {
+        "key": "stylized",
+        "i18n": {
+          "en": "Stylized",
+          "uk": "Стилізований"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "vibrant",
+        "i18n": {
+          "en": "Vibrant",
+          "uk": "Яскравий"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Ava Thiery",
+  "authorUrl": "https://www.lummi.ai/creator/ava_thiery?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A stylized illustration of a person with light skin and blonde hair, wearing a white t-shirt and dark pants, standing against a pink background. The image has a vibrant and high-contrast color palette, emphasizing the subject's features and the simplicity of the composition.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1632,
+  "height": 2912,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/stylized-portrait-pdloj/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/stylized-portrait-pdloj/stylized-portrait-pdloj.png",
+  "relativeAssetPath": "library/lummi/images/stylized-portrait-pdloj/stylized-portrait-pdloj.png"
+}

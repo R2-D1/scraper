@@ -1,0 +1,63 @@
+{
+  "slug": "order-confirmed-m9e9",
+  "mediaKey": "3f8f4ae7-4609-4ea0-9a84-349c9700fc6b",
+  "providerId": "604a09b608f8e20017fc62e6",
+  "i18n": {
+    "name": {
+      "en": "Order confirmed",
+      "uk": "Замовлення підтверджено"
+    },
+    "alt": {
+      "en": "Order confirmed",
+      "uk": "Замовлення підтверджено"
+    },
+    "tags": [
+      {
+        "key": "order-confirmed",
+        "i18n": {
+          "en": "Order confirmed",
+          "uk": "Замовлення підтверджено"
+        }
+      },
+      {
+        "key": "order",
+        "i18n": {
+          "en": "order",
+          "uk": "порядок"
+        }
+      },
+      {
+        "key": "confirmed",
+        "i18n": {
+          "en": "confirmed",
+          "uk": "підтверджено"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/order-confirmed_m9e9.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 816,
+  "height": 621
+}

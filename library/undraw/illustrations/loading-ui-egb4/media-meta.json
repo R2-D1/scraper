@@ -1,0 +1,63 @@
+{
+  "slug": "loading-ui-egb4",
+  "mediaKey": "9387a177-7111-4fec-906c-5a7b13f964aa",
+  "providerId": "68f94d9f286afbdbe8dbfbb2",
+  "i18n": {
+    "name": {
+      "en": "Loading UI",
+      "uk": "Завантаження інтерфейсу користувача"
+    },
+    "alt": {
+      "en": "Loading UI",
+      "uk": "Завантаження інтерфейсу користувача"
+    },
+    "tags": [
+      {
+        "key": "loading-ui",
+        "i18n": {
+          "en": "Loading UI",
+          "uk": "Завантаження інтерфейсу користувача"
+        }
+      },
+      {
+        "key": "loading",
+        "i18n": {
+          "en": "loading",
+          "uk": "завантаження"
+        }
+      },
+      {
+        "key": "ui",
+        "i18n": {
+          "en": "ui",
+          "uk": "ui"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/loading-ui_egb4.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 553
+}

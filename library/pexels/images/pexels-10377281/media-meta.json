@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-10377281",
+  "mediaKey": "pexels:10377281",
+  "i18n": {
+    "name": {
+      "en": "Dreamlike pink seascape with a floating cloud",
+      "uk": "Химерний рожевий морський краєвид із хмарою"
+    },
+    "alt": {
+      "en": "A serene digital artwork of a pink surreal landscape and pastel clouds, perfect for relaxation themes.",
+      "uk": "Спокійна цифрова ілюстрація, що зображує рожевий сюрреалістичний пейзаж та пастельні хмари, яка ідеально підходить для тем, пов’язаних із релаксацією."
+    },
+    "tags": [
+      {
+        "key": "surrealism",
+        "i18n": {
+          "en": "surrealism",
+          "uk": "сюрреалізм"
+        }
+      },
+      {
+        "key": "dreamlike",
+        "i18n": {
+          "en": "dreamlike",
+          "uk": "схожий на сон"
+        }
+      },
+      {
+        "key": "seascape",
+        "i18n": {
+          "en": "seascape",
+          "uk": "морський пейзаж"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "surrealism"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/pink-grass-field-near-lake-under-pink-clouds-10377281/",
+  "sourceName": "Pexels",
+  "authorName": "Mo Eid",
+  "authorUrl": "https://www.pexels.com/@mo-eid-1268975",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

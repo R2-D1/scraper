@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-38909735",
+  "mediaKey": "pexels:38909735",
+  "i18n": {
+    "name": {
+      "en": "Man in dark clothing with motion blur",
+      "uk": "Чоловік у темному одязі з ефектом розмиття руху"
+    },
+    "alt": {
+      "en": "Creative dual exposure portrait of a man in sunglasses with vibrant colors and blurred effect.",
+      "uk": "Креативний портрет чоловіка в сонцезахисних окулярах, виконаний у техніці подвійної експозиції, з яскравими кольорами та ефектом розмиття."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "motion-blur",
+        "i18n": {
+          "en": "motion blur",
+          "uk": "розмиття в русі"
+        }
+      },
+      {
+        "key": "dark-clothing",
+        "i18n": {
+          "en": "dark clothing",
+          "uk": "темний одяг"
+        }
+      },
+      {
+        "key": "colored-light",
+        "i18n": {
+          "en": "colored light",
+          "uk": "кольорове світло"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/artistic-portrait-of-man-in-dual-exposure-38909735/",
+  "sourceName": "Pexels",
+  "authorName": "Aj Collins  Artistry",
+  "authorUrl": "https://www.pexels.com/@aj-collins-artistry-1772576281",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

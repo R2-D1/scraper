@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-11592804",
+  "mediaKey": "pexels:11592804",
+  "i18n": {
+    "name": {
+      "en": "Pastel hills beneath a pink sky",
+      "uk": "Пастельні пагорби під рожевим небом"
+    },
+    "alt": {
+      "en": "A digital surreal landscape featuring pink clouds, hills, and a serene lake, creating a calming and magical atmosphere.",
+      "uk": "Цифровий сюрреалістичний пейзаж із рожевими хмарами, пагорбами та спокійним озером, що створює заспокійливу й чарівну атмосферу."
+    },
+    "tags": [
+      {
+        "key": "surrealism",
+        "i18n": {
+          "en": "surrealism",
+          "uk": "сюрреалізм"
+        }
+      },
+      {
+        "key": "landscape",
+        "i18n": {
+          "en": "landscape",
+          "uk": "пейзаж"
+        }
+      },
+      {
+        "key": "pastel",
+        "i18n": {
+          "en": "pastel",
+          "uk": "пастель"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "surrealism"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/landscape-of-hills-and-forest-at-sunset-11592804/",
+  "sourceName": "Pexels",
+  "authorName": "Mo Eid",
+  "authorUrl": "https://www.pexels.com/@mo-eid-1268975",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2160,
+  "height": 2700
+}

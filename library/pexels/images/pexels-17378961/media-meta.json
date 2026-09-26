@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-17378961",
+  "mediaKey": "pexels:17378961",
+  "i18n": {
+    "name": {
+      "en": "Woman in a white dress lying in a meadow",
+      "uk": "Жінка в білій сукні лежить на лузі"
+    },
+    "alt": {
+      "en": "Relaxed woman in a meadow lying among vibrant wildflowers under sunlight, creating a serene and natural scene.",
+      "uk": "Жінка, що розслаблено лежить на лузі серед яскравих польових квітів під променями сонця, створюючи спокійну і природну картину."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "white-dress",
+        "i18n": {
+          "en": "white dress",
+          "uk": "біла сукня"
+        }
+      },
+      {
+        "key": "meadow",
+        "i18n": {
+          "en": "meadow",
+          "uk": "луг"
+        }
+      },
+      {
+        "key": "flowers",
+        "i18n": {
+          "en": "flowers",
+          "uk": "квіти"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-lying-down-among-flowers-17378961/",
+  "sourceName": "Pexels",
+  "authorName": "Jean-Daniel Francoeur",
+  "authorUrl": "https://www.pexels.com/@jean-daniel",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

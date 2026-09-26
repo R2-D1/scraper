@@ -1,0 +1,63 @@
+{
+  "slug": "delivery-location-um5t",
+  "mediaKey": "cb2bbe0e-12a4-41b3-af38-efe69fdcbffa",
+  "providerId": "6840b95fcd2e5e7f73512ee1",
+  "i18n": {
+    "name": {
+      "en": "Delivery Location",
+      "uk": "Місце доставки"
+    },
+    "alt": {
+      "en": "Delivery Location",
+      "uk": "Місце доставки"
+    },
+    "tags": [
+      {
+        "key": "delivery-location",
+        "i18n": {
+          "en": "Delivery Location",
+          "uk": "Місце доставки"
+        }
+      },
+      {
+        "key": "delivery",
+        "i18n": {
+          "en": "delivery",
+          "uk": "доставка"
+        }
+      },
+      {
+        "key": "location",
+        "i18n": {
+          "en": "location",
+          "uk": "місцезнаходження"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/delivery-location_um5t.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 641,
+  "height": 621
+}

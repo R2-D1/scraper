@@ -1,0 +1,76 @@
+{
+  "slug": "mammoth",
+  "mediaKey": "ed833633-b15c-4c78-9ed4-36524cc40579",
+  "i18n": {
+    "name": {
+      "en": "Mammoth",
+      "uk": "Мамонт"
+    },
+    "alt": {
+      "en": "Mammoth",
+      "uk": "Мамонт"
+    },
+    "tags": [
+      {
+        "key": "elephant",
+        "i18n": {
+          "en": "elephant",
+          "uk": "слон"
+        }
+      },
+      {
+        "key": "mammoth",
+        "i18n": {
+          "en": "mammoth",
+          "uk": "мамонт"
+        }
+      },
+      {
+        "key": "ice-age",
+        "i18n": {
+          "en": "ice age",
+          "uk": "льодовиковий період"
+        }
+      },
+      {
+        "key": "prehistoric",
+        "i18n": {
+          "en": "prehistoric",
+          "uk": "доісторичний"
+        }
+      },
+      {
+        "key": "tusks",
+        "i18n": {
+          "en": "tusks",
+          "uk": "бивні"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/mammoth",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

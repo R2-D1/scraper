@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-15965785",
+  "mediaKey": "pexels:15965785",
+  "i18n": {
+    "name": {
+      "en": "Woman in a black top and jeans",
+      "uk": "Жінка в чорному топі та джинсах"
+    },
+    "alt": {
+      "en": "Stylish woman with braids posing elegantly under sunlight on a city street, showcasing modern fashion.",
+      "uk": "Стильна жінка з косами, яка елегантно позує під сонячним промінням на міській вулиці, демонструючи сучасну моду."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "black-clothing",
+        "i18n": {
+          "en": "black clothing",
+          "uk": "чорний одяг"
+        }
+      },
+      {
+        "key": "jeans",
+        "i18n": {
+          "en": "jeans",
+          "uk": "джинси"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/sunlit-woman-on-street-15965785/",
+  "sourceName": "Pexels",
+  "authorName": "Lucas Brown",
+  "authorUrl": "https://www.pexels.com/@lucas-brown-368306455",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

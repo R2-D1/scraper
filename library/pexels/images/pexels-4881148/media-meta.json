@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-4881148",
+  "mediaKey": "pexels:4881148",
+  "i18n": {
+    "name": {
+      "en": "Travelers standing in a train station",
+      "uk": "Мандрівники, що стоять на залізничному вокзалі"
+    },
+    "alt": {
+      "en": "Two young women with backpacks exploring and enjoying city travel.",
+      "uk": "Дві молоді жінки з рюкзаками, які досліджують місто та насолоджуються подорожжю."
+    },
+    "tags": [
+      {
+        "key": "travelers",
+        "i18n": {
+          "en": "travelers",
+          "uk": "мандрівники"
+        }
+      },
+      {
+        "key": "station",
+        "i18n": {
+          "en": "station",
+          "uk": "станція"
+        }
+      },
+      {
+        "key": "train",
+        "i18n": {
+          "en": "train",
+          "uk": "поїзд"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "people",
+          "uk": "люди"
+        }
+      },
+      {
+        "key": "architecture",
+        "i18n": {
+          "en": "architecture",
+          "uk": "архітектура"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "travel"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/tourists-sightseeing-in-city-4881148/",
+  "sourceName": "Pexels",
+  "authorName": "Ketut Subiyanto",
+  "authorUrl": "https://www.pexels.com/@ketut-subiyanto",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

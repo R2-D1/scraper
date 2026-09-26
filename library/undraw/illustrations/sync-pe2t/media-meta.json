@@ -1,0 +1,49 @@
+{
+  "slug": "sync-pe2t",
+  "mediaKey": "8cd6ba16-3acc-4848-b3f9-8c8e633a90e5",
+  "providerId": "60e48c0718e876001744db46",
+  "i18n": {
+    "name": {
+      "en": "Sync",
+      "uk": "Синхронізація"
+    },
+    "alt": {
+      "en": "Sync",
+      "uk": "Синхронізація"
+    },
+    "tags": [
+      {
+        "key": "sync",
+        "i18n": {
+          "en": "Sync",
+          "uk": "Синхронізація"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/sync_pe2t.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1058,
+  "height": 748
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "a-close-up-of-a-logo-guln5akptyy",
+  "mediaKey": "5ec2d123-35e0-45b5-89c7-7666021940db",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "A close up of a logo",
+      "uk": "Крупний план логотипу"
+    },
+    "alt": {
+      "en": "A close up of a logo",
+      "uk": "Крупний план логотипу"
+    },
+    "tags": [
+      {
+        "key": "accessories",
+        "i18n": {
+          "en": "accessories",
+          "uk": "аксесуари"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "art",
+          "uk": "мистецтво"
+        }
+      },
+      {
+        "key": "digital-image",
+        "i18n": {
+          "en": "digital image",
+          "uk": "цифрове зображення"
+        }
+      },
+      {
+        "key": "graphics",
+        "i18n": {
+          "en": "graphics",
+          "uk": "графіка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "abstract",
+        "face",
+        "gun",
+        "modern art",
+        "weapon"
+      ],
+      "uk": [
+        "абстракція",
+        "обличчя",
+        "пістолет",
+        "сучасне мистецтво",
+        "зброя"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/a-close-up-of-a-logo-gulN5AKPTYY",
+  "sourceName": "Unsplash",
+  "authorName": "Rick Rothenberg",
+  "authorUrl": "https://unsplash.com/@rick_rothenberg",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 2400,
+  "collectionSlugs": [
+    "textures",
+    "abstract"
+  ]
+}

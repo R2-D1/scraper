@@ -1,0 +1,63 @@
+{
+  "slug": "blank-canvas-a6x5",
+  "mediaKey": "c98d81f9-1ab6-4a2b-9296-57665aee96a3",
+  "providerId": "61a118bb979aae0018d579e7",
+  "i18n": {
+    "name": {
+      "en": "Blank canvas",
+      "uk": "Порожнє полотно"
+    },
+    "alt": {
+      "en": "Blank canvas",
+      "uk": "Порожнє полотно"
+    },
+    "tags": [
+      {
+        "key": "blank-canvas",
+        "i18n": {
+          "en": "Blank canvas",
+          "uk": "Порожнє полотно"
+        }
+      },
+      {
+        "key": "blank",
+        "i18n": {
+          "en": "blank",
+          "uk": "порожнє"
+        }
+      },
+      {
+        "key": "canvas",
+        "i18n": {
+          "en": "canvas",
+          "uk": "полотно"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/blank-canvas_a6x5.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 551,
+  "height": 568
+}

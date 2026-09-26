@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-14632847",
+  "mediaKey": "pexels:14632847",
+  "i18n": {
+    "name": {
+      "en": "Woman posing under colorful lights",
+      "uk": "Жінка позує під різнобарвним світлом"
+    },
+    "alt": {
+      "en": "Stylish woman in sunglasses striking a pose in vibrant urban setting.",
+      "uk": "Стильна жінка в сонячних окулярах позує на тлі яскравого міського пейзажу."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "colorful-lights",
+        "i18n": {
+          "en": "colorful lights",
+          "uk": "кольорові вогні"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-woman-wearing-sunglasses-and-levis-shirt-14632847/",
+  "sourceName": "Pexels",
+  "authorName": "Lucas Brown",
+  "authorUrl": "https://www.pexels.com/@lucas-brown-368306455",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

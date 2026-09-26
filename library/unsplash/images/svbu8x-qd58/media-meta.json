@@ -1,0 +1,93 @@
+{
+  "slug": "svbu8x-qd58",
+  "mediaKey": "b68487fe-5745-490a-9a7a-67f58b55e7a3",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "3D Geometry trapped in a sphere",
+      "uk": "Зелена геометрія у скляній кулі"
+    },
+    "alt": {
+      "en": "3D Geometry trapped in a sphere",
+      "uk": "3D-геометрія, укладена у сферу"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      },
+      {
+        "key": "geometric",
+        "i18n": {
+          "en": "geometric",
+          "uk": "геометричний"
+        }
+      },
+      {
+        "key": "green-aesthetic",
+        "i18n": {
+          "en": "green aesthetic",
+          "uk": "зелена естетика"
+        }
+      },
+      {
+        "key": "3d-render-abstract",
+        "i18n": {
+          "en": "3d render abstract",
+          "uk": "абстрактний 3D-рендер"
+        }
+      },
+      {
+        "key": "3d-render-glass",
+        "i18n": {
+          "en": "3d render glass",
+          "uk": "3D-рендер скла"
+        }
+      },
+      {
+        "key": "sphere-3d",
+        "i18n": {
+          "en": "sphere 3d",
+          "uk": "3D-сфера"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "3d рендер"
+      ],
+      "uk": [
+        "Тег: 3d рендер"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "source": "https://unsplash.com/photos/sVBU8x-Qd58",
+  "sourceName": "Unsplash",
+  "authorName": "Buddha Elemental 3D",
+  "authorUrl": "https://unsplash.com/@buddhaelemental3d",
+  "description": "3D Geometry trapped in a sphere",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 2400
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-16217479",
+  "mediaKey": "pexels:16217479",
+  "i18n": {
+    "name": {
+      "en": "Woman posing on a city street",
+      "uk": "Жінка позує на міській вулиці"
+    },
+    "alt": {
+      "en": "Stylish woman poses confidently on a city street, showcasing urban fashion.",
+      "uk": "Стильна жінка впевнено позує на міській вулиці, демонструючи міську моду."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "black-outfit",
+        "i18n": {
+          "en": "black outfit",
+          "uk": "чорний одяг"
+        }
+      },
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "urban",
+          "uk": "урбаністичний"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/portrait-of-a-woman-standing-on-a-street-16217479/",
+  "sourceName": "Pexels",
+  "authorName": "Lucas Brown",
+  "authorUrl": "https://www.pexels.com/@lucas-brown-368306455",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

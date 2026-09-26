@@ -1,0 +1,49 @@
+{
+  "slug": "posts-sd2r",
+  "mediaKey": "074b6181-deb6-47ca-9a8d-f165cba52b3f",
+  "providerId": "5f4e10e5a882230017a26b85",
+  "i18n": {
+    "name": {
+      "en": "Posts",
+      "uk": "Публікації"
+    },
+    "alt": {
+      "en": "Posts",
+      "uk": "Публікації"
+    },
+    "tags": [
+      {
+        "key": "posts",
+        "i18n": {
+          "en": "Posts",
+          "uk": "Публікації"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/posts_sd2r.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 929,
+  "height": 709
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "ask-me-anything-v09d",
+  "mediaKey": "9d378e63-fc8c-42d8-ab4b-0e907df65188",
+  "providerId": "61f3bbc25e79fd0018d967d8",
+  "i18n": {
+    "name": {
+      "en": "Ask me anything",
+      "uk": "Запитуйте мене про що завгодно"
+    },
+    "alt": {
+      "en": "Ask me anything",
+      "uk": "Запитуйте мене про що завгодно"
+    },
+    "tags": [
+      {
+        "key": "ask-me-anything",
+        "i18n": {
+          "en": "Ask me anything",
+          "uk": "Запитуйте мене про що завгодно"
+        }
+      },
+      {
+        "key": "ask",
+        "i18n": {
+          "en": "ask",
+          "uk": "запит"
+        }
+      },
+      {
+        "key": "me",
+        "i18n": {
+          "en": "me",
+          "uk": "я"
+        }
+      },
+      {
+        "key": "anything",
+        "i18n": {
+          "en": "anything",
+          "uk": "що завгодно"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/ask-me-anything_v09d.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 581,
+  "height": 574
+}

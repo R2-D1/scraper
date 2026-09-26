@@ -1,0 +1,70 @@
+{
+  "slug": "text-qi2vegff9q4",
+  "mediaKey": "9719ecf1-b449-48a6-945d-c9bbe069a65d",
+  "i18n": {
+    "name": {
+      "en": "text",
+      "uk": "текст"
+    },
+    "alt": {
+      "en": "text",
+      "uk": "текст"
+    },
+    "tags": [
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      },
+      {
+        "key": "hong-kong",
+        "i18n": {
+          "en": "hong kong",
+          "uk": "Гонконг"
+        }
+      },
+      {
+        "key": "neon",
+        "i18n": {
+          "en": "neon",
+          "uk": "неон"
+        }
+      },
+      {
+        "key": "light",
+        "i18n": {
+          "en": "light",
+          "uk": "світло"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "authorName": "Damon Lam",
+  "authorUrl": "https://unsplash.com/@dayday95",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "pinned": false,
+  "width": 2400,
+  "height": 3600,
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/unsplash/images/text-qi2vegff9q4/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/unsplash/images/text-qi2vegff9q4/text-qi2vegff9q4.jpg",
+  "relativeAssetPath": "library/unsplash/images/text-qi2vegff9q4/text-qi2vegff9q4.jpg",
+  "collectionSlugs": [
+    "urban"
+  ]
+}

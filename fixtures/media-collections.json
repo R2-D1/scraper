@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "collections": {
+    "scraper-fixture-nature": {
+      "name": { "en": "Scraper fixture nature", "uk": "Природа scraper fixture" },
+      "category": "images",
+      "previewMediaKeys": ["scraper:fixture:forest"],
+      "providerCollections": [{ "provider": "pexels", "collectionId": "axmxq4a" }]
+    },
+    "scraper-fixture-travel": {
+      "name": { "en": "Scraper fixture travel", "uk": "Подорож scraper fixture" },
+      "category": "images",
+      "previewMediaKeys": ["scraper:fixture:postcard"]
+    }
+  }
+}

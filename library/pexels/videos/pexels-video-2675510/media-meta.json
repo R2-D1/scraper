@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-2675510",
+  "mediaKey": "pexels:video:2675510",
+  "i18n": {
+    "name": {
+      "en": "Surfers Riding Ocean Waves",
+      "uk": "Серфери, що катаються на океанських хвилях"
+    },
+    "alt": {
+      "en": "Pexels video 2675510",
+      "uk": "Відео з Pexels № 2675510"
+    },
+    "tags": [
+      {
+        "key": "surfing",
+        "i18n": {
+          "en": "surfing",
+          "uk": "серфінг"
+        }
+      },
+      {
+        "key": "surfers",
+        "i18n": {
+          "en": "surfers",
+          "uk": "серфери"
+        }
+      },
+      {
+        "key": "ocean",
+        "i18n": {
+          "en": "ocean",
+          "uk": "океан"
+        }
+      },
+      {
+        "key": "waves",
+        "i18n": {
+          "en": "waves",
+          "uk": "хвилі"
+        }
+      },
+      {
+        "key": "aerial",
+        "i18n": {
+          "en": "aerial",
+          "uk": "аерофотозйомка"
+        }
+      },
+      {
+        "key": "sport",
+        "i18n": {
+          "en": "sport",
+          "uk": "спорт"
+        }
+      },
+      {
+        "key": "coast",
+        "i18n": {
+          "en": "coast",
+          "uk": "узбережжя"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/surfers-riding-the-waves-on-a-foggy-day-2675510/",
+  "sourceName": "Pexels",
+  "authorName": "Mixkit -Free Video Assets",
+  "authorUrl": "https://www.pexels.com/@mixkit-free-video-assets-1383387",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 18,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

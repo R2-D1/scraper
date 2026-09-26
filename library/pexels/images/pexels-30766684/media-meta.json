@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-30766684",
+  "mediaKey": "pexels:30766684",
+  "i18n": {
+    "name": {
+      "en": "Geometric molecular structure on black",
+      "uk": "Геометрична молекулярна структура на чорному тлі"
+    },
+    "alt": {
+      "en": "3D abstract geometric structure with gold lines and black polygons on a dark background.",
+      "uk": "3D-абстрактна геометрична структура із золотими лініями та чорними багатокутниками на темному тлі."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "molecular-structure",
+        "i18n": {
+          "en": "molecular structure",
+          "uk": "молекулярна структура"
+        }
+      },
+      {
+        "key": "geometry",
+        "i18n": {
+          "en": "geometry",
+          "uk": "геометрія"
+        }
+      },
+      {
+        "key": "black",
+        "i18n": {
+          "en": "black",
+          "uk": "чорний"
+        }
+      },
+      {
+        "key": "nodes",
+        "i18n": {
+          "en": "nodes",
+          "uk": "вузли"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/abstract-geometric-structure-with-dark-polygon-design-30766684/",
+  "sourceName": "Pexels",
+  "authorName": "Maxim Landolfi",
+  "authorUrl": "https://www.pexels.com/@themob000",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

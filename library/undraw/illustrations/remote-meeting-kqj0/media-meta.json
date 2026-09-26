@@ -1,0 +1,63 @@
+{
+  "slug": "remote-meeting-kqj0",
+  "mediaKey": "246b5be3-fc6d-40e9-91ff-cb459bdd5cce",
+  "providerId": "699e2681918edcb657bad5ea",
+  "i18n": {
+    "name": {
+      "en": "Remote Meeting",
+      "uk": "Дистанційна зустріч"
+    },
+    "alt": {
+      "en": "Remote Meeting",
+      "uk": "Дистанційна зустріч"
+    },
+    "tags": [
+      {
+        "key": "remote-meeting",
+        "i18n": {
+          "en": "Remote Meeting",
+          "uk": "Дистанційна зустріч"
+        }
+      },
+      {
+        "key": "remote",
+        "i18n": {
+          "en": "remote",
+          "uk": "дистанційний"
+        }
+      },
+      {
+        "key": "meeting",
+        "i18n": {
+          "en": "meeting",
+          "uk": "зустріч"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/remote-meeting_kqj0.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 778
+}

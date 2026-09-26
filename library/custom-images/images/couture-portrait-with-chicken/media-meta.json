@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "couture-portrait-with-chicken",
+  "mediaKey": "custom:content:174ca36c86b604e7a203a34cc56c3313426b42a15c9abef1876c17c8bf7e1886",
+  "pinned": true,
+  "collectionSlugs": [
+    "people"
+  ],
+  "sourceContentHash": "174ca36c86b604e7a203a34cc56c3313426b42a15c9abef1876c17c8bf7e1886",
+  "i18n": {
+    "name": {
+      "en": "Couture Portrait with Chicken",
+      "uk": "Кутюрний портрет із куркою"
+    },
+    "alt": {
+      "en": "Couture Portrait with Chicken",
+      "uk": "Кутюрний портрет із куркою"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "Fashion",
+          "uk": "Мода"
+        }
+      },
+      {
+        "key": "chicken",
+        "i18n": {
+          "en": "Chicken",
+          "uk": "Курка"
+        }
+      },
+      {
+        "key": "couture",
+        "i18n": {
+          "en": "Couture",
+          "uk": "Кутюр"
+        }
+      },
+      {
+        "key": "surreal",
+        "i18n": {
+          "en": "Surreal",
+          "uk": "Сюрреалістичне"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "Woman",
+        "Fashion",
+        "Chicken",
+        "Couture",
+        "Surreal"
+      ],
+      "uk": [
+        "Жінка",
+        "Мода",
+        "Курка",
+        "Кутюр",
+        "Сюрреалістичне"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://divnex.com",
+  "sourceName": "Divnex",
+  "authorName": "Divnex",
+  "authorUrl": "https://divnex.com",
+  "licenseName": "Divnex Asset License",
+  "licenseUrl": "https://divnex.com/asset-license",
+  "width": 2304,
+  "height": 4096
+}

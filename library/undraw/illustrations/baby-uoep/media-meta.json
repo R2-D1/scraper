@@ -1,0 +1,49 @@
+{
+  "slug": "baby-uoep",
+  "mediaKey": "8adb8312-e538-4f22-948b-a98144af1610",
+  "providerId": "63760a99be8d690018a841cf",
+  "i18n": {
+    "name": {
+      "en": "Baby",
+      "uk": "Малюк"
+    },
+    "alt": {
+      "en": "Baby",
+      "uk": "Малюк"
+    },
+    "tags": [
+      {
+        "key": "baby",
+        "i18n": {
+          "en": "Baby",
+          "uk": "Малюк"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/baby_uoep.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 402,
+  "height": 607
+}

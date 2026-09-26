@@ -1,0 +1,63 @@
+{
+  "slug": "digital-artwork-xlmm",
+  "mediaKey": "25285bea-b697-421d-a38a-b980d9ba9ce9",
+  "providerId": "67805b0f7528b4f3f0ee007e",
+  "i18n": {
+    "name": {
+      "en": "Digital Artwork",
+      "uk": "Цифрові твори мистецтва"
+    },
+    "alt": {
+      "en": "Digital Artwork",
+      "uk": "Цифрові твори мистецтва"
+    },
+    "tags": [
+      {
+        "key": "digital-artwork",
+        "i18n": {
+          "en": "Digital Artwork",
+          "uk": "Цифрові твори мистецтва"
+        }
+      },
+      {
+        "key": "digital",
+        "i18n": {
+          "en": "digital",
+          "uk": "цифровий"
+        }
+      },
+      {
+        "key": "artwork",
+        "i18n": {
+          "en": "artwork",
+          "uk": "твір мистецтва"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/digital-artwork_xlmm.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 817,
+  "height": 771
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "vintage-q09n",
+  "mediaKey": "02b0c158-7ae9-4d07-b4c1-f289ba0f14d1",
+  "providerId": "672937e3d82c7c0016ebab61",
+  "i18n": {
+    "name": {
+      "en": "Vintage",
+      "uk": "Вінтаж"
+    },
+    "alt": {
+      "en": "Vintage",
+      "uk": "Вінтаж"
+    },
+    "tags": [
+      {
+        "key": "vintage",
+        "i18n": {
+          "en": "Vintage",
+          "uk": "Вінтаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/vintage_q09n.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 901,
+  "height": 624
+}

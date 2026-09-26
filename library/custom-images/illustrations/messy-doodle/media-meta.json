@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "messy-doodle",
+  "mediaKey": "custom:content:ff33d8f7770c5c55f4b6ae079304c82c430f2ee2dce4062419f968287982fd92",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "ff33d8f7770c5c55f4b6ae079304c82c430f2ee2dce4062419f968287982fd92",
+  "i18n": {
+    "name": {
+      "en": "Messy Doodle",
+      "uk": "Безладний малюнок"
+    },
+    "alt": {
+      "en": "Messy Doodle",
+      "uk": "Безладний малюнок"
+    },
+    "tags": [
+      {
+        "key": "messy",
+        "i18n": {
+          "en": "Messy",
+          "uk": "Неохайний"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

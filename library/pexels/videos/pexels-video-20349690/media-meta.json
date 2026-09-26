@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-20349690",
+  "mediaKey": "pexels:video:20349690",
+  "i18n": {
+    "name": {
+      "en": "Golden Reflections on Dark Water",
+      "uk": "Золоті відблиски на темній воді"
+    },
+    "alt": {
+      "en": "Pexels video 20349690",
+      "uk": "Відео з Pexels № 20349690"
+    },
+    "tags": [
+      {
+        "key": "water",
+        "i18n": {
+          "en": "water",
+          "uk": "вода"
+        }
+      },
+      {
+        "key": "reflections",
+        "i18n": {
+          "en": "reflections",
+          "uk": "відображення"
+        }
+      },
+      {
+        "key": "golden",
+        "i18n": {
+          "en": "golden",
+          "uk": "золотий"
+        }
+      },
+      {
+        "key": "bokeh",
+        "i18n": {
+          "en": "bokeh",
+          "uk": "боке"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/a-blurry-image-of-orange-lights-on-the-water-20349690/",
+  "sourceName": "Pexels",
+  "authorName": "Ahmed ؜",
+  "authorUrl": "https://www.pexels.com/@mutecevvil",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 15,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

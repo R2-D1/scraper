@@ -1,0 +1,269 @@
+- generic [ref=f63e4]:
+  - navigation [ref=f63e5]:
+    - generic [ref=f63e6]:
+      - generic [ref=f63e7]:
+        - link "Unsplash Home" [ref=f63e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f63e9]
+        - link "Photos" [ref=f63e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f63e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f63e17]:
+        - button "Explore" [ref=f63e18] [cursor=pointer]
+        - button "Collections" [ref=f63e21] [cursor=pointer]
+        - button "Download History" [ref=f63e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f63e28] [cursor=pointer]
+    - generic [ref=f63e31]:
+      - link "Log in / Sign up" [ref=f63e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fphotos%2Fa-traffic-light-with-a-green-light-on-it-6ZuFsDiKKks
+      - button "Language" [ref=f63e35] [cursor=pointer]
+      - button "Menu" [ref=f63e38] [cursor=pointer]
+  - generic [ref=f63e41]:
+    - generic [ref=f63e42]:
+      - navigation [ref=f63e43]:
+        - search "Find visuals sitewide" [ref=f63e45]:
+          - button "Search Unsplash" [ref=f63e46] [cursor=pointer]
+          - combobox [ref=f63e49]:
+            - searchbox "Search Unsplash" [ref=f63e50]
+            - listbox
+          - button "Visual search" [ref=f63e52] [cursor=pointer]
+        - generic [ref=f63e55]:
+          - link "Get Unsplash+" [ref=f63e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f63e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fphotos%2Fa-traffic-light-with-a-green-light-on-it-6ZuFsDiKKks
+        - button "Submit an image" [ref=f63e59] [cursor=pointer]
+      - generic [ref=f63e60]:
+        - generic [ref=f63e61]:
+          - banner [ref=f63e63]:
+            - generic [ref=f63e65]:
+              - link [ref=f63e66] [cursor=pointer]:
+                - /url: /@thehalaldesign
+              - generic [ref=f63e69]:
+                - link "Ubaid E. Alyafizi" [ref=f63e70] [cursor=pointer]:
+                  - /url: /@thehalaldesign
+                - generic [ref=f63e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f63e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-with-a-green-light-on-it-6ZuFsDiKKks
+            - generic [ref=f63e73]:
+              - button "Bookmark" [ref=f63e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f63e77] [cursor=pointer]
+              - button "Edit image" [ref=f63e80] [cursor=pointer]
+              - button "Download" [ref=f63e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f63e90]:
+            - img "A traffic light with a green light on it" [ref=f63e91]
+          - generic [ref=f63e92]:
+            - generic [ref=f63e94]:
+              - button "Share this image" [ref=f63e95] [cursor=pointer]:
+                - generic [ref=f63e98]: Share
+              - button "More Actions" [ref=f63e99] [cursor=pointer]
+            - generic [ref=f63e103]:
+              - heading "A traffic light with a green light on it" [level=1] [ref=f63e105]
+              - paragraph [ref=f63e109]: Download this HD photo of abstract, technology, green, and illustration by Ubaid E. Alyafizi (@thehalaldesign)
+              - generic [ref=f63e111]:
+                - generic [ref=f63e116]:
+                  - text: Published on
+                  - time [ref=f63e117]: January 20, 2025
+                - generic [ref=f63e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f63e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f63e124]:
+              - link "abstract" [ref=f63e125] [cursor=pointer]:
+                - /url: /s/photos/abstract
+              - link "technology" [ref=f63e126] [cursor=pointer]:
+                - /url: /s/photos/technology
+              - link "green" [ref=f63e127] [cursor=pointer]:
+                - /url: /s/photos/green
+              - link "illustration" [ref=f63e128] [cursor=pointer]:
+                - /url: /s/photos/illustration
+              - link "design" [ref=f63e129] [cursor=pointer]:
+                - /url: /s/photos/design
+              - link "graphic design" [ref=f63e130] [cursor=pointer]:
+                - /url: /s/photos/graphic-design
+              - link "transportation" [ref=f63e131] [cursor=pointer]:
+                - /url: /s/photos/transportation
+              - link "digital art" [ref=f63e132] [cursor=pointer]:
+                - /url: /s/photos/digital-art
+              - link "modern" [ref=f63e133] [cursor=pointer]:
+                - /url: /s/photos/modern
+              - link "traffic light" [ref=f63e134] [cursor=pointer]:
+                - /url: /s/photos/traffic-light
+              - link "concept" [ref=f63e135] [cursor=pointer]:
+                - /url: /s/photos/concept
+              - link "intersection" [ref=f63e136] [cursor=pointer]:
+                - /url: /s/photos/intersection
+              - link "green light" [ref=f63e137] [cursor=pointer]:
+                - /url: /s/photos/green-light
+              - link "traffic lights" [ref=f63e138] [cursor=pointer]:
+                - /url: /s/photos/traffic-lights
+              - link "road safety" [ref=f63e139] [cursor=pointer]:
+                - /url: /s/photos/road-safety
+              - link "traffic signal" [ref=f63e140] [cursor=pointer]:
+                - /url: /s/photos/traffic-signal
+        - generic [ref=f63e143]:
+          - generic [ref=f63e144]:
+            - paragraph [ref=f63e146]: From this series
+            - generic [ref=f63e149]:
+              - generic [ref=f63e150]:
+                - link [ref=f63e151] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-that-is-red-and-green-s27HxZ8sp-o
+                - link [ref=f63e154]:
+                  - /url: /photos/a-traffic-light-that-is-red-and-green-s27HxZ8sp-o
+                  - img "A traffic light that is red and green" [ref=f63e155]
+              - generic [ref=f63e156]:
+                - link [ref=f63e157] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-hanging-from-a-wire-on-a-yellow-background-x4H9Nj5AQH8
+                - link [ref=f63e160]:
+                  - /url: /photos/a-traffic-light-hanging-from-a-wire-on-a-yellow-background-x4H9Nj5AQH8
+                  - img "A traffic light hanging from a wire on a yellow background" [ref=f63e161]
+          - generic [ref=f63e162]:
+            - heading "Related images" [level=4] [ref=f63e164]
+            - generic [ref=f63e168]:
+              - generic [ref=f63e169]:
+                - figure [ref=f63e170]:
+                  - generic [ref=f63e172]:
+                    - link [ref=f63e173]:
+                      - /url: /photos/a-traffic-light-that-is-red-and-green-s27HxZ8sp-o
+                      - img "A traffic light that is red and green" [ref=f63e174]
+                    - link [ref=f63e175] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-that-is-red-and-green-s27HxZ8sp-o
+                - figure [ref=f63e178]:
+                  - generic [ref=f63e180]:
+                    - link [ref=f63e181]:
+                      - /url: /photos/a-green-traffic-light-sitting-next-to-a-white-wall-9cnf9CXfWrw
+                      - img "A green traffic light sitting next to a white wall" [ref=f63e182]
+                    - link [ref=f63e183] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-green-traffic-light-sitting-next-to-a-white-wall-9cnf9CXfWrw
+                - figure [ref=f63e186]:
+                  - generic [ref=f63e188]:
+                    - link [ref=f63e189]:
+                      - /url: /photos/a-traffic-light-with-a-green-pedestrian-sign-on-it-TO4_vX3Pzss
+                      - img "A traffic light with a green pedestrian sign on it" [ref=f63e190]
+                    - link [ref=f63e191] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-with-a-green-pedestrian-sign-on-it-TO4_vX3Pzss
+                - figure [ref=f63e194]:
+                  - generic [ref=f63e196]:
+                    - link [ref=f63e197]:
+                      - /url: /photos/a-traffic-light-with-a-green-light-on-it-OeqvS8RazS8
+                      - img "A traffic light with a green light on it" [ref=f63e198]
+                    - link [ref=f63e199] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-with-a-green-light-on-it-OeqvS8RazS8
+                - figure [ref=f63e202]:
+                  - generic [ref=f63e204]:
+                    - link [ref=f63e205]:
+                      - /url: /photos/a-yellow-and-green-traffic-light-on-a-pole-mK6C4F7yhLs
+                      - img "A yellow and green traffic light on a pole" [ref=f63e206]
+                    - link [ref=f63e207] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-yellow-and-green-traffic-light-on-a-pole-mK6C4F7yhLs
+                - figure [ref=f63e210]:
+                  - generic [ref=f63e212]:
+                    - link [ref=f63e213]:
+                      - /url: /photos/a-traffic-light-sitting-on-top-of-a-green-wall-JgzM2GMsDRw
+                      - img "A traffic light sitting on top of a green wall" [ref=f63e214]
+                    - link [ref=f63e215] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-sitting-on-top-of-a-green-wall-JgzM2GMsDRw
+                - figure [ref=f63e218]:
+                  - generic [ref=f63e220]:
+                    - link [ref=f63e221]:
+                      - /url: /photos/a-traffic-light-with-a-red-and-green-light-on-it-iM70YuK1Aqg
+                      - img "A traffic light with a red and green light on it" [ref=f63e222]
+                    - link [ref=f63e223] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-with-a-red-and-green-light-on-it-iM70YuK1Aqg
+                - figure [ref=f63e226]:
+                  - generic [ref=f63e228]:
+                    - link [ref=f63e229]:
+                      - /url: /photos/a-traffic-light-with-a-blurry-background-hhrFijRTytA
+                      - img "A traffic light with a blurry background" [ref=f63e230]
+                    - link [ref=f63e231] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-with-a-blurry-background-hhrFijRTytA
+              - generic [ref=f63e234]:
+                - figure [ref=f63e235]:
+                  - generic [ref=f63e237]:
+                    - link [ref=f63e238]:
+                      - /url: /photos/a-traffic-light-that-is-green-and-red-SP9kff5J430
+                      - img "A traffic light that is green and red" [ref=f63e239]
+                    - link [ref=f63e240] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-that-is-green-and-red-SP9kff5J430
+                - figure [ref=f63e243]:
+                  - generic [ref=f63e245]:
+                    - link [ref=f63e246]:
+                      - /url: /photos/a-traffic-light-hanging-from-a-wire-on-a-yellow-background-x4H9Nj5AQH8
+                      - img "A traffic light hanging from a wire on a yellow background" [ref=f63e247]
+                    - link [ref=f63e248] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-hanging-from-a-wire-on-a-yellow-background-x4H9Nj5AQH8
+                - figure [ref=f63e251]:
+                  - generic [ref=f63e253]:
+                    - link [ref=f63e254]:
+                      - /url: /photos/a-street-light-that-is-on-a-pole-MJX7hBz66OI
+                      - img "A street light that is on a pole" [ref=f63e255]
+                    - link [ref=f63e256] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-street-light-that-is-on-a-pole-MJX7hBz66OI
+                - figure [ref=f63e259]:
+                  - generic [ref=f63e261]:
+                    - link [ref=f63e262]:
+                      - /url: /photos/wireframe-and-rendered-traffic-lights-on-grid-sbLNG933HQc
+                      - img "Wireframe and rendered traffic lights on grid" [ref=f63e263]
+                    - link [ref=f63e264] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fwireframe-and-rendered-traffic-lights-on-grid-sbLNG933HQc
+                - figure [ref=f63e267]:
+                  - generic [ref=f63e269]:
+                    - link [ref=f63e270]:
+                      - /url: /photos/a-traffic-light-on-a-pole-with-a-sky-background-WAKtHc764Fg
+                      - img "A traffic light on a pole with a sky background" [ref=f63e271]
+                    - link [ref=f63e272] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-on-a-pole-with-a-sky-background-WAKtHc764Fg
+                - figure [ref=f63e275]:
+                  - generic [ref=f63e277]:
+                    - link [ref=f63e278]:
+                      - /url: /photos/a-couple-of-traffic-lights-sitting-on-top-of-a-pole-hXhNewmGHi8
+                      - img "A couple of traffic lights sitting on top of a pole" [ref=f63e279]
+                    - link [ref=f63e280] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-couple-of-traffic-lights-sitting-on-top-of-a-pole-hXhNewmGHi8
+              - generic [ref=f63e283]:
+                - figure [ref=f63e284]:
+                  - generic [ref=f63e286]:
+                    - link [ref=f63e287]:
+                      - /url: /photos/a-traffic-light-hanging-from-the-side-of-a-pole-detG4i2MK1c
+                      - img "A traffic light hanging from the side of a pole" [ref=f63e288]
+                    - link [ref=f63e289] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-hanging-from-the-side-of-a-pole-detG4i2MK1c
+                - figure [ref=f63e292]:
+                  - generic [ref=f63e294]:
+                    - link [ref=f63e295]:
+                      - /url: /photos/a-couple-of-traffic-lights-sitting-on-top-of-a-pole-L9RTUFY6FCk
+                      - img "A couple of traffic lights sitting on top of a pole" [ref=f63e296]
+                    - link [ref=f63e297] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-couple-of-traffic-lights-sitting-on-top-of-a-pole-L9RTUFY6FCk
+                - figure [ref=f63e300]:
+                  - generic [ref=f63e302]:
+                    - link [ref=f63e303]:
+                      - /url: /photos/a-traffic-light-that-is-red-green-and-yellow-8BzNxY5yYoA
+                      - img "A traffic light that is red, green, and yellow" [ref=f63e304]
+                    - link [ref=f63e305] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-that-is-red-green-and-yellow-8BzNxY5yYoA
+                - figure [ref=f63e308]:
+                  - generic [ref=f63e310]:
+                    - link [ref=f63e311]:
+                      - /url: /photos/a-traffic-light-and-a-street-light-on-a-pole-hWUqAWNXIs4
+                      - img "A traffic light and a street light on a pole" [ref=f63e312]
+                    - link [ref=f63e313] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-and-a-street-light-on-a-pole-hWUqAWNXIs4
+                - figure [ref=f63e316]:
+                  - generic [ref=f63e318]:
+                    - link [ref=f63e319]:
+                      - /url: /photos/a-traffic-light-that-is-red-green-and-yellow-9JZigRNxrpc
+                      - img "A traffic light that is red, green, and yellow" [ref=f63e320]
+                    - link [ref=f63e321] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-that-is-red-green-and-yellow-9JZigRNxrpc
+                - figure [ref=f63e324]:
+                  - generic [ref=f63e326]:
+                    - link [ref=f63e327]:
+                      - /url: /photos/a-traffic-light-sitting-on-top-of-a-metal-pole-yzqNJ6miP4Y
+                      - img "A traffic light sitting on top of a metal pole" [ref=f63e328]
+                    - link [ref=f63e329] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-traffic-light-sitting-on-top-of-a-metal-pole-yzqNJ6miP4Y
+    - generic:
+      - region "Notifications"

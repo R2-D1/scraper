@@ -1,0 +1,14 @@
+node_modules
+.env
+.dist
+dist
+.DS_Store
+__pycache__/
+*.pyc
+tmp/*
+!tmp/README.md
+/library/tmp
+/intake/custom-images/*
+/intake/unsplash/*
+/intake/lummi/*
+!/intake/lummi/.gitkeep

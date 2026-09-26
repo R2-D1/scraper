@@ -1,0 +1,49 @@
+{
+  "slug": "playlist-lwhi",
+  "mediaKey": "181f8130-2b6c-4a73-9536-85fb070a5b4c",
+  "providerId": "678ed0619cace4b773b12b3b",
+  "i18n": {
+    "name": {
+      "en": "Playlist",
+      "uk": "Плейлист"
+    },
+    "alt": {
+      "en": "Playlist",
+      "uk": "Плейлист"
+    },
+    "tags": [
+      {
+        "key": "playlist",
+        "i18n": {
+          "en": "Playlist",
+          "uk": "Плейлист"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/playlist_lwhi.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 880,
+  "height": 710
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "blue-hair-close-up-portrait",
+  "mediaKey": "custom:content:65c695a3af9561df2dcfae94d74338ec56b6a93ec216eacb38759ef7d76d8b99",
+  "pinned": true,
+  "collectionSlugs": [
+    "people"
+  ],
+  "sourceContentHash": "65c695a3af9561df2dcfae94d74338ec56b6a93ec216eacb38759ef7d76d8b99",
+  "i18n": {
+    "name": {
+      "en": "Blue Hair Close-Up Portrait",
+      "uk": "Крупний портрет із блакитним волоссям"
+    },
+    "alt": {
+      "en": "Blue Hair Close-Up Portrait",
+      "uk": "Крупний портрет із блакитним волоссям"
+    },
+    "tags": [
+      {
+        "key": "person",
+        "i18n": {
+          "en": "Person",
+          "uk": "Людина"
+        }
+      },
+      {
+        "key": "close-up",
+        "i18n": {
+          "en": "Close-Up",
+          "uk": "Крупний план"
+        }
+      },
+      {
+        "key": "blue-hair",
+        "i18n": {
+          "en": "Blue Hair",
+          "uk": "Блакитне волосся"
+        }
+      },
+      {
+        "key": "sunglasses",
+        "i18n": {
+          "en": "Sunglasses",
+          "uk": "Сонцезахисні окуляри"
+        }
+      },
+      {
+        "key": "studio",
+        "i18n": {
+          "en": "Studio",
+          "uk": "Студія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "Person",
+        "Close-Up",
+        "Blue Hair",
+        "Sunglasses",
+        "Studio"
+      ],
+      "uk": [
+        "Людина",
+        "Крупний план",
+        "Блакитне волосся",
+        "Сонцезахисні окуляри",
+        "Студія"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://divnex.com",
+  "sourceName": "Divnex",
+  "authorName": "Divnex",
+  "authorUrl": "https://divnex.com",
+  "licenseName": "Divnex Asset License",
+  "licenseUrl": "https://divnex.com/asset-license",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/custom-images/images/blue-hair-close-up-portrait/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/custom-images/images/blue-hair-close-up-portrait/blue-hair-close-up-portrait.png",
+  "thumbnailPath": "/Users/taras/HOLE/Projects/scraper/tmp/custom-images/images/blue-hair-close-up-portrait/blue-hair-close-up-portrait_thumb.webp",
+  "relativeAssetPath": "library/custom-images/images/blue-hair-close-up-portrait/blue-hair-close-up-portrait.png",
+  "width": 2400,
+  "height": 3200
+}

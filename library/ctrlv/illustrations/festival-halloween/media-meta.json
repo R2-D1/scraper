@@ -1,0 +1,97 @@
+{
+  "slug": "festival-halloween",
+  "mediaKey": "c37a6c99-8bf9-421e-8c6f-22a00482805a",
+  "i18n": {
+    "name": {
+      "en": "Halloween",
+      "uk": "Хелловін"
+    },
+    "alt": {
+      "en": "Halloween",
+      "uk": "Хелловін"
+    },
+    "tags": [
+      {
+        "key": "festival",
+        "i18n": {
+          "en": "festival",
+          "uk": "фестиваль"
+        }
+      },
+      {
+        "key": "halloween",
+        "i18n": {
+          "en": "halloween",
+          "uk": "гелловін"
+        }
+      },
+      {
+        "key": "usa",
+        "i18n": {
+          "en": "usa",
+          "uk": "США"
+        }
+      },
+      {
+        "key": "spooky",
+        "i18n": {
+          "en": "spooky",
+          "uk": "моторошний"
+        }
+      },
+      {
+        "key": "pumpkin",
+        "i18n": {
+          "en": "pumpkin",
+          "uk": "гарбуз"
+        }
+      },
+      {
+        "key": "ghost",
+        "i18n": {
+          "en": "ghost",
+          "uk": "привид"
+        }
+      },
+      {
+        "key": "witch",
+        "i18n": {
+          "en": "witch",
+          "uk": "відьма"
+        }
+      },
+      {
+        "key": "celebration",
+        "i18n": {
+          "en": "celebration",
+          "uk": "святкування"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/festival-halloween",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "fisheye-lavender-portrait",
+  "mediaKey": "custom:content:35a7ca6ab70a1e3ed30772f443176a71cfede1542e69097fe2319c40205b5e83",
+  "pinned": true,
+  "collectionSlugs": [
+    "people"
+  ],
+  "sourceContentHash": "35a7ca6ab70a1e3ed30772f443176a71cfede1542e69097fe2319c40205b5e83",
+  "i18n": {
+    "name": {
+      "en": "Fisheye Lavender Portrait",
+      "uk": "Лавандовий портрет із ефектом риб'ячого ока"
+    },
+    "alt": {
+      "en": "Fisheye Lavender Portrait",
+      "uk": "Лавандовий портрет із ефектом риб'ячого ока"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "fisheye",
+        "i18n": {
+          "en": "Fisheye",
+          "uk": "Риб'яче око"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "lavender",
+        "i18n": {
+          "en": "Lavender",
+          "uk": "Лавандовий"
+        }
+      },
+      {
+        "key": "wide-angle",
+        "i18n": {
+          "en": "Wide Angle",
+          "uk": "Широкий кут"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "Woman",
+        "Fisheye",
+        "Portrait",
+        "Lavender",
+        "Wide Angle"
+      ],
+      "uk": [
+        "Жінка",
+        "Риб'яче око",
+        "Портрет",
+        "Лавандовий",
+        "Широкий кут"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://divnex.com",
+  "sourceName": "Divnex",
+  "authorName": "Divnex",
+  "authorUrl": "https://divnex.com",
+  "licenseName": "Divnex Asset License",
+  "licenseUrl": "https://divnex.com/asset-license",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/custom-images/images/fisheye-lavender-portrait/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/custom-images/images/fisheye-lavender-portrait/fisheye-lavender-portrait.png",
+  "thumbnailPath": "/Users/taras/HOLE/Projects/scraper/tmp/custom-images/images/fisheye-lavender-portrait/fisheye-lavender-portrait_thumb.webp",
+  "relativeAssetPath": "library/custom-images/images/fisheye-lavender-portrait/fisheye-lavender-portrait.png",
+  "width": 2400,
+  "height": 3200
+}

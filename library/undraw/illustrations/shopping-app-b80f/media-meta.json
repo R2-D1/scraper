@@ -1,0 +1,63 @@
+{
+  "slug": "shopping-app-b80f",
+  "mediaKey": "8cc903fa-5006-4947-a8c4-8edb3fd49fac",
+  "providerId": "5e870ab1d888800017719ccc",
+  "i18n": {
+    "name": {
+      "en": "Shopping app",
+      "uk": "Додаток для покупок"
+    },
+    "alt": {
+      "en": "Shopping app",
+      "uk": "Додаток для покупок"
+    },
+    "tags": [
+      {
+        "key": "shopping-app",
+        "i18n": {
+          "en": "Shopping app",
+          "uk": "Додаток для покупок"
+        }
+      },
+      {
+        "key": "shopping",
+        "i18n": {
+          "en": "shopping",
+          "uk": "покупки"
+        }
+      },
+      {
+        "key": "app",
+        "i18n": {
+          "en": "app",
+          "uk": "додаток"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/shopping-app_b80f.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 888,
+  "height": 741
+}

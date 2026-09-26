@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-31890049",
+  "mediaKey": "pexels:31890049",
+  "i18n": {
+    "name": {
+      "en": "Person in white beside the water",
+      "uk": "Людина в білому біля води"
+    },
+    "alt": {
+      "en": "Man in white outfit contemplating by a peaceful lake, exuding calm and introspection.",
+      "uk": "Чоловік у білому вбранні задумливо стоїть біля тихого озера, випромінюючи спокій та заглибленість у власні думки."
+    },
+    "tags": [
+      {
+        "key": "person",
+        "i18n": {
+          "en": "person",
+          "uk": "людина"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "white-clothing",
+        "i18n": {
+          "en": "white clothing",
+          "uk": "білий одяг"
+        }
+      },
+      {
+        "key": "water",
+        "i18n": {
+          "en": "water",
+          "uk": "вода"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/contemplative-man-in-white-by-serene-lake-31890049/",
+  "sourceName": "Pexels",
+  "authorName": "magapls .",
+  "authorUrl": "https://www.pexels.com/@magapls-2149937712",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3598
+}

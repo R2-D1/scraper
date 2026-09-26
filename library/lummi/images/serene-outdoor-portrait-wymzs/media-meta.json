@@ -1,0 +1,87 @@
+{
+  "slug": "serene-outdoor-portrait-wymzs",
+  "mediaKey": "cdae4d70-faaf-43ab-94d9-eec2835d7085",
+  "i18n": {
+    "name": {
+      "en": "Serene Outdoor Portrait",
+      "uk": "Спокійний портрет на природі"
+    },
+    "alt": {
+      "en": "Serene Outdoor Portrait",
+      "uk": "Спокійний портрет на природі"
+    },
+    "tags": [
+      {
+        "key": "architecture",
+        "i18n": {
+          "en": "Architecture",
+          "uk": "Архітектура"
+        }
+      },
+      {
+        "key": "flowers",
+        "i18n": {
+          "en": "Flowers",
+          "uk": "Квіти"
+        }
+      },
+      {
+        "key": "ocean",
+        "i18n": {
+          "en": "Ocean",
+          "uk": "Океан"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "Nature",
+          "uk": "Природа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Ava Thiery",
+  "authorUrl": "https://www.lummi.ai/creator/ava_thiery?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A person with short, dark hair sits in a serene outdoor setting, wearing a white suit. The background features a circular architectural element framing a view of the ocean under a clear sky. The foreground is adorned with a colorful array of flowers, adding vibrancy to the scene. The lighting casts soft shadows, emphasizing the subject's relaxed pose and contemplative expression.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1808,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/serene-outdoor-portrait-wymzs/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/serene-outdoor-portrait-wymzs/serene-outdoor-portrait-wymzs.png",
+  "relativeAssetPath": "library/lummi/images/serene-outdoor-portrait-wymzs/serene-outdoor-portrait-wymzs.png"
+}

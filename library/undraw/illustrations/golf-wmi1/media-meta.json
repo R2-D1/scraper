@@ -1,0 +1,49 @@
+{
+  "slug": "golf-wmi1",
+  "mediaKey": "c300832b-ec83-4505-89a1-c3bcf27a3549",
+  "providerId": "5d3b10bf3f60490015404054",
+  "i18n": {
+    "name": {
+      "en": "Golf",
+      "uk": "Гольф"
+    },
+    "alt": {
+      "en": "Golf",
+      "uk": "Гольф"
+    },
+    "tags": [
+      {
+        "key": "golf",
+        "i18n": {
+          "en": "Golf",
+          "uk": "Гольф"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/golf_wmi1.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 926,
+  "height": 800
+}

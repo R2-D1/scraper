@@ -1,0 +1,49 @@
+{
+  "slug": "braille-hvfe",
+  "mediaKey": "d1cc4f7e-af67-41c0-b8e8-e47caa5ead71",
+  "providerId": "68224d06775f28a0ed134f0e",
+  "i18n": {
+    "name": {
+      "en": "Braille",
+      "uk": "Брайль"
+    },
+    "alt": {
+      "en": "Braille",
+      "uk": "Брайль"
+    },
+    "tags": [
+      {
+        "key": "braille",
+        "i18n": {
+          "en": "Braille",
+          "uk": "Брайль"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/braille_hvfe.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 595,
+  "height": 802
+}

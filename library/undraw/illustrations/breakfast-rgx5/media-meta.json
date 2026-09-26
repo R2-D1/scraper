@@ -1,0 +1,49 @@
+{
+  "slug": "breakfast-rgx5",
+  "mediaKey": "2aa6693d-ecf1-40a6-9991-04d8dfc7c7e1",
+  "providerId": "5e204c19f9ab710015ffc964",
+  "i18n": {
+    "name": {
+      "en": "Breakfast",
+      "uk": "Сніданок"
+    },
+    "alt": {
+      "en": "Breakfast",
+      "uk": "Сніданок"
+    },
+    "tags": [
+      {
+        "key": "breakfast",
+        "i18n": {
+          "en": "Breakfast",
+          "uk": "Сніданок"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/breakfast_rgx5.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 888,
+  "height": 485
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "convert-dgkv",
+  "mediaKey": "c5408e25-8a9b-4a50-bc57-2fe4cfc107c0",
+  "providerId": "62a1be1b4d57f600188f724e",
+  "i18n": {
+    "name": {
+      "en": "Convert",
+      "uk": "Конвертувати"
+    },
+    "alt": {
+      "en": "Convert",
+      "uk": "Конвертувати"
+    },
+    "tags": [
+      {
+        "key": "convert",
+        "i18n": {
+          "en": "Convert",
+          "uk": "Конвертувати"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/convert_dgkv.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 404,
+  "height": 537
+}

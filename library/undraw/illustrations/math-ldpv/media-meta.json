@@ -1,0 +1,49 @@
+{
+  "slug": "math-ldpv",
+  "mediaKey": "79ec15e8-2813-472e-ac51-4a11fb73a835",
+  "providerId": "6868545048208ceac569d16b",
+  "i18n": {
+    "name": {
+      "en": "Math",
+      "uk": "Математика"
+    },
+    "alt": {
+      "en": "Math",
+      "uk": "Математика"
+    },
+    "tags": [
+      {
+        "key": "math",
+        "i18n": {
+          "en": "Math",
+          "uk": "Математика"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/math_ldpv.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 698
+}

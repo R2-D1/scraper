@@ -1,0 +1,63 @@
+{
+  "slug": "character-drawing-gtvs",
+  "mediaKey": "6fcd9b21-a431-4077-a850-7018e21304af",
+  "providerId": "62558a1d3e8cc90018d471c3",
+  "i18n": {
+    "name": {
+      "en": "Character drawing",
+      "uk": "Малювання персонажів"
+    },
+    "alt": {
+      "en": "Character drawing",
+      "uk": "Малювання персонажів"
+    },
+    "tags": [
+      {
+        "key": "character-drawing",
+        "i18n": {
+          "en": "Character drawing",
+          "uk": "Малювання персонажів"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      },
+      {
+        "key": "drawing",
+        "i18n": {
+          "en": "drawing",
+          "uk": "малюнок"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/character-drawing_gtvs.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 749,
+  "height": 516
+}

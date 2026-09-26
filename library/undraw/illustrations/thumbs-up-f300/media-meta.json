@@ -1,0 +1,63 @@
+{
+  "slug": "thumbs-up-f300",
+  "mediaKey": "995c4df3-ac62-4e8f-86a8-a76eca6f4255",
+  "providerId": "6a8e246c939aab611cf25c9f",
+  "i18n": {
+    "name": {
+      "en": "Thumbs Up",
+      "uk": "«Подобається»"
+    },
+    "alt": {
+      "en": "Thumbs Up",
+      "uk": "«Подобається»"
+    },
+    "tags": [
+      {
+        "key": "thumbs-up",
+        "i18n": {
+          "en": "Thumbs Up",
+          "uk": "«Подобається»"
+        }
+      },
+      {
+        "key": "thumbs",
+        "i18n": {
+          "en": "thumbs",
+          "uk": "великі пальці"
+        }
+      },
+      {
+        "key": "up",
+        "i18n": {
+          "en": "up",
+          "uk": "вгору"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/thumbs-up_f300.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 457,
+  "height": 800
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "fingerprint-login-19qv",
+  "mediaKey": "00062bba-5054-4ba2-978a-8eb067a648aa",
+  "providerId": "639c98ebd334430018773c01",
+  "i18n": {
+    "name": {
+      "en": "Fingerprint login",
+      "uk": "Вхід за допомогою відбитка пальця"
+    },
+    "alt": {
+      "en": "Fingerprint login",
+      "uk": "Вхід за допомогою відбитка пальця"
+    },
+    "tags": [
+      {
+        "key": "fingerprint-login",
+        "i18n": {
+          "en": "Fingerprint login",
+          "uk": "Вхід за допомогою відбитка пальця"
+        }
+      },
+      {
+        "key": "fingerprint",
+        "i18n": {
+          "en": "fingerprint",
+          "uk": "відбиток пальця"
+        }
+      },
+      {
+        "key": "login",
+        "i18n": {
+          "en": "login",
+          "uk": "логін"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/fingerprint-login_19qv.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 732,
+  "height": 626
+}

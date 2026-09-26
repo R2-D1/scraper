@@ -1,0 +1,83 @@
+{
+  "slug": "baby-toys",
+  "mediaKey": "2a72d445-9533-48ef-90c8-e8026b6f2efd",
+  "i18n": {
+    "name": {
+      "en": "Playtime Blocks",
+      "uk": "Іграшкові кубики"
+    },
+    "alt": {
+      "en": "Playtime Blocks",
+      "uk": "Іграшкові кубики"
+    },
+    "tags": [
+      {
+        "key": "baby",
+        "i18n": {
+          "en": "baby",
+          "uk": "немовля"
+        }
+      },
+      {
+        "key": "toys",
+        "i18n": {
+          "en": "toys",
+          "uk": "іграшки"
+        }
+      },
+      {
+        "key": "play",
+        "i18n": {
+          "en": "play",
+          "uk": "грати"
+        }
+      },
+      {
+        "key": "blocks",
+        "i18n": {
+          "en": "blocks",
+          "uk": "блоки"
+        }
+      },
+      {
+        "key": "bear",
+        "i18n": {
+          "en": "bear",
+          "uk": "ведмідь"
+        }
+      },
+      {
+        "key": "fun",
+        "i18n": {
+          "en": "fun",
+          "uk": "розвага"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/baby-toys",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

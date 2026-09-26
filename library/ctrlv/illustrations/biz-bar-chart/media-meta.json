@@ -1,0 +1,90 @@
+{
+  "slug": "biz-bar-chart",
+  "mediaKey": "fab7a849-b895-4d13-9b37-85abe22e7802",
+  "i18n": {
+    "name": {
+      "en": "Bar Chart",
+      "uk": "Стовпчаста діаграма"
+    },
+    "alt": {
+      "en": "Bar Chart",
+      "uk": "Стовпчаста діаграма"
+    },
+    "tags": [
+      {
+        "key": "chart",
+        "i18n": {
+          "en": "chart",
+          "uk": "діаграма"
+        }
+      },
+      {
+        "key": "bar",
+        "i18n": {
+          "en": "bar",
+          "uk": "бар"
+        }
+      },
+      {
+        "key": "graph",
+        "i18n": {
+          "en": "graph",
+          "uk": "графік"
+        }
+      },
+      {
+        "key": "statistics",
+        "i18n": {
+          "en": "statistics",
+          "uk": "статистика"
+        }
+      },
+      {
+        "key": "growth",
+        "i18n": {
+          "en": "growth",
+          "uk": "ріст"
+        }
+      },
+      {
+        "key": "metrics",
+        "i18n": {
+          "en": "metrics",
+          "uk": "метрики"
+        }
+      },
+      {
+        "key": "analytics",
+        "i18n": {
+          "en": "analytics",
+          "uk": "аналітика"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/biz-bar-chart",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

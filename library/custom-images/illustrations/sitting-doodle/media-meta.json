@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "sitting-doodle",
+  "mediaKey": "custom:content:cfe4d0067b5b0219096fbff7fa638c313b0c94bf47ea4fa35c681932bf378de9",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "cfe4d0067b5b0219096fbff7fa638c313b0c94bf47ea4fa35c681932bf378de9",
+  "i18n": {
+    "name": {
+      "en": "Sitting Doodle",
+      "uk": "Сидячий Дудл"
+    },
+    "alt": {
+      "en": "Sitting Doodle",
+      "uk": "Сидячий Дудл"
+    },
+    "tags": [
+      {
+        "key": "sitting",
+        "i18n": {
+          "en": "Sitting",
+          "uk": "Сидячи"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

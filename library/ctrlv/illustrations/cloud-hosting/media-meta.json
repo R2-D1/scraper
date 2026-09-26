@@ -1,0 +1,76 @@
+{
+  "slug": "cloud-hosting",
+  "mediaKey": "20a90427-f787-47e2-be3c-e9f420a9c5a8",
+  "i18n": {
+    "name": {
+      "en": "Cloud Hosting",
+      "uk": "Хмарний хостинг"
+    },
+    "alt": {
+      "en": "Cloud Hosting",
+      "uk": "Хмарний хостинг"
+    },
+    "tags": [
+      {
+        "key": "cloud",
+        "i18n": {
+          "en": "cloud",
+          "uk": "хмара"
+        }
+      },
+      {
+        "key": "hosting",
+        "i18n": {
+          "en": "hosting",
+          "uk": "хостинг"
+        }
+      },
+      {
+        "key": "server",
+        "i18n": {
+          "en": "server",
+          "uk": "сервер"
+        }
+      },
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      },
+      {
+        "key": "web",
+        "i18n": {
+          "en": "web",
+          "uk": "веб"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/cloud-hosting",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,330 @@
+- generic [ref=f27e4]:
+  - navigation [ref=f27e5]:
+    - generic [ref=f27e6]:
+      - generic [ref=f27e7]:
+        - link "Unsplash Home" [ref=f27e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f27e9]
+        - link "Photos" [ref=f27e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f27e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f27e17]:
+        - button "Explore" [ref=f27e18] [cursor=pointer]
+        - button "Collections" [ref=f27e21] [cursor=pointer]
+        - button "Download History" [ref=f27e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f27e28] [cursor=pointer]
+    - generic [ref=f27e31]:
+      - link "Log in / Sign up" [ref=f27e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fphotos%2Fa-silhouette-of-a-person-is-seen-through-glass-iF8E2b60ajc
+      - button "Language" [ref=f27e35] [cursor=pointer]
+      - button "Menu" [ref=f27e38] [cursor=pointer]
+  - generic [ref=f27e41]:
+    - generic [ref=f27e42]:
+      - navigation [ref=f27e43]:
+        - search "Find visuals sitewide" [ref=f27e45]:
+          - button "Search Unsplash" [ref=f27e46] [cursor=pointer]
+          - combobox [ref=f27e49]:
+            - searchbox "Search Unsplash" [ref=f27e50]
+            - listbox
+          - button "Visual search" [ref=f27e52] [cursor=pointer]
+        - generic [ref=f27e55]:
+          - link "Get Unsplash+" [ref=f27e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f27e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fphotos%2Fa-silhouette-of-a-person-is-seen-through-glass-iF8E2b60ajc
+        - button "Submit an image" [ref=f27e59] [cursor=pointer]
+      - generic [ref=f27e60]:
+        - generic [ref=f27e61]:
+          - banner [ref=f27e63]:
+            - generic [ref=f27e65]:
+              - link [ref=f27e66] [cursor=pointer]:
+                - /url: /@designiments
+              - generic [ref=f27e69]:
+                - link "Designiments" [ref=f27e70] [cursor=pointer]:
+                  - /url: /@designiments
+                - generic [ref=f27e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f27e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-silhouette-of-a-person-is-seen-through-glass-iF8E2b60ajc
+            - generic [ref=f27e73]:
+              - button "Bookmark" [ref=f27e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f27e77] [cursor=pointer]
+              - button "Edit image" [ref=f27e80] [cursor=pointer]
+              - button "Download" [ref=f27e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f27e90]:
+            - img "A silhouette of a person is seen through glass." [ref=f27e91]
+          - generic [ref=f27e92]:
+            - generic [ref=f27e93]:
+              - generic [ref=f27e95]:
+                - heading "Featured in" [level=3] [ref=f27e96]
+                - generic [ref=f27e97]:
+                  - link "Photos" [ref=f27e98] [cursor=pointer]:
+                    - /url: /
+                  - text: ","
+                  - link "3D Renders" [ref=f27e99] [cursor=pointer]:
+                    - /url: /t/3d-renders
+              - generic [ref=f27e100]:
+                - button "Share this image" [ref=f27e101] [cursor=pointer]:
+                  - generic [ref=f27e104]: Share
+                - button "More Actions" [ref=f27e105] [cursor=pointer]
+            - generic [ref=f27e109]:
+              - heading "A silhouette of a person is seen through glass." [level=1] [ref=f27e111]
+              - paragraph [ref=f27e115]: Download this HD photo of texture, abstract, pattern, and abstract background by Designiments (@designiments)
+              - generic [ref=f27e117]:
+                - generic [ref=f27e122]:
+                  - text: Published on
+                  - time [ref=f27e123]: May 12, 2025
+                - generic [ref=f27e127]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f27e128] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f27e130]:
+              - link "texture" [ref=f27e131] [cursor=pointer]:
+                - /url: /s/photos/texture
+              - link "abstract" [ref=f27e132] [cursor=pointer]:
+                - /url: /s/photos/abstract
+              - link "pattern" [ref=f27e133] [cursor=pointer]:
+                - /url: /s/photos/pattern
+              - link "abstract background" [ref=f27e134] [cursor=pointer]:
+                - /url: /s/photos/abstract-background
+              - link "orange" [ref=f27e135] [cursor=pointer]:
+                - /url: /s/photos/orange
+              - link "creative" [ref=f27e136] [cursor=pointer]:
+                - /url: /s/photos/creative
+              - link "silhouette" [ref=f27e137] [cursor=pointer]:
+                - /url: /s/photos/silhouette
+              - link "geometric pattern" [ref=f27e138] [cursor=pointer]:
+                - /url: /s/photos/geometric-pattern
+              - link "modern" [ref=f27e139] [cursor=pointer]:
+                - /url: /s/photos/modern
+              - link "glass texture" [ref=f27e140] [cursor=pointer]:
+                - /url: /s/photos/glass-texture
+              - link "mystery" [ref=f27e141] [cursor=pointer]:
+                - /url: /s/photos/mystery
+              - link "moody" [ref=f27e142] [cursor=pointer]:
+                - /url: /s/photos/moody
+              - link "surreal" [ref=f27e143] [cursor=pointer]:
+                - /url: /s/photos/surreal
+              - link "artistic" [ref=f27e144] [cursor=pointer]:
+                - /url: /s/photos/artistic
+              - link "light and shadow" [ref=f27e145] [cursor=pointer]:
+                - /url: /s/photos/light-and-shadow
+              - link "frosted glass" [ref=f27e146] [cursor=pointer]:
+                - /url: /s/photos/frosted-glass
+              - link "hidden" [ref=f27e147] [cursor=pointer]:
+                - /url: /s/photos/hidden
+              - link "optical illusion" [ref=f27e148] [cursor=pointer]:
+                - /url: /s/photos/optical-illusion
+              - link "design element" [ref=f27e149] [cursor=pointer]:
+                - /url: /s/photos/design-element
+              - link "atmospheric" [ref=f27e150] [cursor=pointer]:
+                - /url: /s/photos/atmospheric
+        - generic [ref=f27e153]:
+          - generic [ref=f27e154]:
+            - paragraph [ref=f27e156]: From this series
+            - generic [ref=f27e158]:
+              - button "scroll list to the right" [ref=f27e160] [cursor=pointer]
+              - generic [ref=f27e163]:
+                - generic [ref=f27e164]:
+                  - link [ref=f27e165] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-blue-and-purple-wavy-pattern-jMtwi3IXcPA
+                  - link [ref=f27e168]:
+                    - /url: /photos/abstract-blue-and-purple-wavy-pattern-jMtwi3IXcPA
+                    - img "Abstract blue and purple wavy pattern." [ref=f27e169]
+                - generic [ref=f27e170]:
+                  - link [ref=f27e171] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-shapes-in-shades-of-orange-and-blue-fgLT4kJk5gc
+                  - link [ref=f27e174]:
+                    - /url: /photos/abstract-shapes-in-shades-of-orange-and-blue-fgLT4kJk5gc
+                    - img "Abstract shapes in shades of orange and blue." [ref=f27e175]
+                - generic [ref=f27e176]:
+                  - link [ref=f27e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-swirling-textured-design-with-teal-and-black-hues-RnSKVIClEjg
+                  - link [ref=f27e180]:
+                    - /url: /photos/a-swirling-textured-design-with-teal-and-black-hues-RnSKVIClEjg
+                    - img "A swirling, textured design with teal and black hues." [ref=f27e181]
+                - generic [ref=f27e182]:
+                  - link [ref=f27e183] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fabstract-art-with-rippled-textures-and-varied-colors-boLyY64laeA
+                  - link [ref=f27e186]:
+                    - /url: /photos/abstract-art-with-rippled-textures-and-varied-colors-boLyY64laeA
+                    - img "Abstract art with rippled textures and varied colors." [ref=f27e187]
+                - generic:
+                  - link [ref=f27e188] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fblurred-figure-seen-through-a-textured-surface-SqE9N-I0ouA
+                  - link "Blurred figure seen through a textured surface.":
+                    - /url: /photos/blurred-figure-seen-through-a-textured-surface-SqE9N-I0ouA
+                    - img "Blurred figure seen through a textured surface."
+                - generic [ref=f27e191]:
+                  - link [ref=f27e192] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-silhouette-of-a-person-behind-glass-qUo1Irvbusg
+                  - link [ref=f27e195]:
+                    - /url: /photos/a-blurry-silhouette-of-a-person-behind-glass-qUo1Irvbusg
+                    - img "A blurry silhouette of a person behind glass." [ref=f27e196]
+                - generic [ref=f27e197]:
+                  - link [ref=f27e198] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-stylized-face-with-vibrant-blue-and-orange-hues-sByKQlQwEh0
+                  - link [ref=f27e201]:
+                    - /url: /photos/a-stylized-face-with-vibrant-blue-and-orange-hues-sByKQlQwEh0
+                    - img "A stylized face with vibrant blue and orange hues." [ref=f27e202]
+                - generic [ref=f27e203]:
+                  - link [ref=f27e204] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurred-human-face-with-red-visor-0HlCBg1yPlQ
+                  - link [ref=f27e207]:
+                    - /url: /photos/a-blurred-human-face-with-red-visor-0HlCBg1yPlQ
+                    - img "A blurred human face with red visor." [ref=f27e208]
+                - generic [ref=f27e209]:
+                  - link [ref=f27e210] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fphotos%2Fa-blurry-human-figure-is-standing-vertically-gx0hj4_i74s
+                  - link [ref=f27e213]:
+                    - /url: /photos/a-blurry-human-figure-is-standing-vertically-gx0hj4_i74s
+                    - img "A blurry human figure is standing vertically." [ref=f27e214]
+          - generic [ref=f27e215]:
+            - heading "Related images" [level=4] [ref=f27e217]
+            - generic [ref=f27e221]:
+              - generic [ref=f27e222]:
+                - figure [ref=f27e223]:
+                  - generic [ref=f27e225]:
+                    - link [ref=f27e226]:
+                      - /url: /photos/a-blurry-silhouette-of-a-person-behind-glass-qUo1Irvbusg
+                      - img "A blurry silhouette of a person behind glass." [ref=f27e227]
+                    - link [ref=f27e228] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-blurry-silhouette-of-a-person-behind-glass-qUo1Irvbusg
+                - figure [ref=f27e231]:
+                  - generic [ref=f27e233]:
+                    - link [ref=f27e234]:
+                      - /url: /photos/a-person-silhouetted-behind-a-textured-glass-l8Tai4-de-8
+                      - img "A person silhouetted behind a textured glass." [ref=f27e235]
+                    - link [ref=f27e236] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-person-silhouetted-behind-a-textured-glass-l8Tai4-de-8
+                - figure [ref=f27e239]:
+                  - generic [ref=f27e241]:
+                    - link [ref=f27e242]:
+                      - /url: /photos/a-blurry-human-figure-is-standing-vertically-gx0hj4_i74s
+                      - img "A blurry human figure is standing vertically." [ref=f27e243]
+                    - link [ref=f27e244] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-blurry-human-figure-is-standing-vertically-gx0hj4_i74s
+                - figure [ref=f27e247]:
+                  - generic [ref=f27e249]:
+                    - link [ref=f27e250]:
+                      - /url: /photos/a-blurred-figure-stands-behind-a-textured-wall-b1ff-xvLBPc
+                      - img "A blurred figure stands behind a textured wall." [ref=f27e251]
+                    - link [ref=f27e252] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-blurred-figure-stands-behind-a-textured-wall-b1ff-xvLBPc
+                - figure [ref=f27e255]:
+                  - generic [ref=f27e257]:
+                    - link [ref=f27e258]:
+                      - /url: /photos/womans-image-is-refracted-and-layered-on-a-red-backdrop-u4bBQFz9kX0
+                      - img "Woman's image is refracted and layered on a red backdrop." [ref=f27e259]
+                    - link [ref=f27e260] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fwomans-image-is-refracted-and-layered-on-a-red-backdrop-u4bBQFz9kX0
+                - figure [ref=f27e263]:
+                  - generic [ref=f27e265]:
+                    - link [ref=f27e266]:
+                      - /url: /photos/blurred-silhouette-of-a-person-against-a-vibrant-gradient-background-PDQDMVwPXjE
+                      - img "Blurred silhouette of a person against a vibrant gradient background" [ref=f27e267]
+                    - link [ref=f27e268] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fblurred-silhouette-of-a-person-against-a-vibrant-gradient-background-PDQDMVwPXjE
+                - figure [ref=f27e271]:
+                  - generic [ref=f27e273]:
+                    - link [ref=f27e274]:
+                      - /url: /photos/a-blurred-silhouette-stands-in-red-and-white-light-4zQvBZFM3zU
+                      - img "A blurred silhouette stands in red and white light." [ref=f27e275]
+                    - link [ref=f27e276] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-blurred-silhouette-stands-in-red-and-white-light-4zQvBZFM3zU
+              - generic [ref=f27e279]:
+                - figure [ref=f27e280]:
+                  - generic [ref=f27e282]:
+                    - link [ref=f27e283]:
+                      - /url: /photos/blurred-figure-seen-through-a-textured-surface-SqE9N-I0ouA
+                      - img "Blurred figure seen through a textured surface." [ref=f27e284]
+                    - link [ref=f27e285] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fblurred-figure-seen-through-a-textured-surface-SqE9N-I0ouA
+                - figure [ref=f27e288]:
+                  - generic [ref=f27e290]:
+                    - link [ref=f27e291]:
+                      - /url: /photos/a-portrait-appears-distorted-behind-vertical-lines-SfsUGGp1-rI
+                      - img "A portrait appears distorted behind vertical lines." [ref=f27e292]
+                    - link [ref=f27e293] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-portrait-appears-distorted-behind-vertical-lines-SfsUGGp1-rI
+                - figure [ref=f27e296]:
+                  - generic [ref=f27e298]:
+                    - link [ref=f27e299]:
+                      - /url: /photos/a-face-is-seen-through-a-textured-effect--BCdgxtDF2c
+                      - img "A face is seen through a textured effect." [ref=f27e300]
+                    - link [ref=f27e301] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-face-is-seen-through-a-textured-effect--BCdgxtDF2c
+                - figure [ref=f27e304]:
+                  - generic [ref=f27e306]:
+                    - link [ref=f27e307]:
+                      - /url: /photos/a-blurred-face-seen-through-frosted-glass-J3wcdFQIuyQ
+                      - img "A blurred face seen through frosted glass" [ref=f27e308]
+                    - link [ref=f27e309] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-blurred-face-seen-through-frosted-glass-J3wcdFQIuyQ
+                - figure [ref=f27e312]:
+                  - generic [ref=f27e314]:
+                    - link [ref=f27e315]:
+                      - /url: /photos/a-face-is-partially-obscured-behind-vertical-lines-yJfS30Yveu4
+                      - img "A face is partially obscured behind vertical lines." [ref=f27e316]
+                    - link [ref=f27e317] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-face-is-partially-obscured-behind-vertical-lines-yJfS30Yveu4
+              - generic [ref=f27e320]:
+                - figure [ref=f27e321]:
+                  - generic [ref=f27e323]:
+                    - link [ref=f27e324]:
+                      - /url: /photos/a-blurry-figure-is-seen-through-vertical-lines-PlViWJsWBw0
+                      - img "A blurry figure is seen through vertical lines." [ref=f27e325]
+                    - link [ref=f27e326] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-blurry-figure-is-seen-through-vertical-lines-PlViWJsWBw0
+                - figure [ref=f27e329]:
+                  - generic [ref=f27e331]:
+                    - link [ref=f27e332]:
+                      - /url: /photos/a-womans-face-is-seen-through-vertical-lines-1T8dqI1DEu4
+                      - img "A woman's face is seen through vertical lines." [ref=f27e333]
+                    - link [ref=f27e334] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-womans-face-is-seen-through-vertical-lines-1T8dqI1DEu4
+                - figure [ref=f27e337]:
+                  - generic [ref=f27e339]:
+                    - link [ref=f27e340]:
+                      - /url: /photos/blurred-silhouette-of-a-person-against-a-bright-background-FbIpc9qPRYo
+                      - img "Blurred silhouette of a person against a bright background" [ref=f27e341]
+                    - link [ref=f27e342] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fblurred-silhouette-of-a-person-against-a-bright-background-FbIpc9qPRYo
+                - figure [ref=f27e345]:
+                  - generic [ref=f27e347]:
+                    - link [ref=f27e348]:
+                      - /url: /photos/a-head-profile-appears-through-vertical-lines-8p66rV0prcA
+                      - img "A head profile appears through vertical lines." [ref=f27e349]
+                    - link [ref=f27e350] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-head-profile-appears-through-vertical-lines-8p66rV0prcA
+                - figure [ref=f27e353]:
+                  - generic [ref=f27e355]:
+                    - link [ref=f27e356]:
+                      - /url: /photos/blurred-profile-of-a-person-with-colorful-lighting-Hb3T1I6-hX8
+                      - img "Blurred profile of a person with colorful lighting" [ref=f27e357]
+                    - link [ref=f27e358] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fblurred-profile-of-a-person-with-colorful-lighting-Hb3T1I6-hX8
+                - figure [ref=f27e361]:
+                  - generic [ref=f27e363]:
+                    - link [ref=f27e364]:
+                      - /url: /photos/blurred-profile-of-a-person-against-a-warm-gradient-Wz7eFmEZi5U
+                      - img "Blurred profile of a person against a warm gradient." [ref=f27e365]
+                    - link [ref=f27e366] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fblurred-profile-of-a-person-against-a-warm-gradient-Wz7eFmEZi5U
+                - figure [ref=f27e369]:
+                  - generic [ref=f27e371]:
+                    - link [ref=f27e372]:
+                      - /url: /photos/a-persons-face-obscured-by-frosted-glass-bErhhP0lbNg
+                      - img "A person's face obscured by frosted glass" [ref=f27e373]
+                    - link [ref=f27e374] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-persons-face-obscured-by-frosted-glass-bErhhP0lbNg
+                - figure [ref=f27e377]:
+                  - generic [ref=f27e379]:
+                    - link [ref=f27e380]:
+                      - /url: /photos/a-persons-face-seen-through-a-textured-surface-NZYuLqBFSQw
+                      - img "A person's face seen through a textured surface." [ref=f27e381]
+                    - link [ref=f27e382] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fphotos%2Fa-persons-face-seen-through-a-textured-surface-NZYuLqBFSQw
+    - generic:
+      - region "Notifications"

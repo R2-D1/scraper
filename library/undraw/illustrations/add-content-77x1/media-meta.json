@@ -1,0 +1,63 @@
+{
+  "slug": "add-content-77x1",
+  "mediaKey": "d5cf3dc1-1992-48a3-a899-29b469095e1e",
+  "providerId": "5f6a177e52f1330017fdc6be",
+  "i18n": {
+    "name": {
+      "en": "Add content",
+      "uk": "Додати вміст"
+    },
+    "alt": {
+      "en": "Add content",
+      "uk": "Додати вміст"
+    },
+    "tags": [
+      {
+        "key": "add-content",
+        "i18n": {
+          "en": "Add content",
+          "uk": "Додати вміст"
+        }
+      },
+      {
+        "key": "add",
+        "i18n": {
+          "en": "add",
+          "uk": "додати"
+        }
+      },
+      {
+        "key": "content",
+        "i18n": {
+          "en": "content",
+          "uk": "вміст"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/add-content_77x1.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 812,
+  "height": 458
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "motion-alert-pr1a",
+  "mediaKey": "9b9f1fc1-7426-46f0-a993-df45e54ebcbd",
+  "providerId": "6a306fef939aab611cf25c4a",
+  "i18n": {
+    "name": {
+      "en": "Motion Alert",
+      "uk": "Сповіщення про рух"
+    },
+    "alt": {
+      "en": "Motion Alert",
+      "uk": "Сповіщення про рух"
+    },
+    "tags": [
+      {
+        "key": "motion-alert",
+        "i18n": {
+          "en": "Motion Alert",
+          "uk": "Сповіщення про рух"
+        }
+      },
+      {
+        "key": "motion",
+        "i18n": {
+          "en": "motion",
+          "uk": "рух"
+        }
+      },
+      {
+        "key": "alert",
+        "i18n": {
+          "en": "alert",
+          "uk": "оповіщення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/motion-alert_pr1a.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 819,
+  "height": 800
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "a-fox-rests-in-tall-grass-at-dawn-rl7sz19fgrq",
+  "mediaKey": "954bb5fb-7f96-4aff-89cf-37248e52af17",
+  "i18n": {
+    "name": {
+      "en": "A fox rests in tall grass at dawn",
+      "uk": "На світанку лисиця відпочиває у високій траві"
+    },
+    "alt": {
+      "en": "A fox rests in tall grass at dawn",
+      "uk": "На світанку лисиця відпочиває у високій траві"
+    },
+    "tags": [
+      {
+        "key": "animal",
+        "i18n": {
+          "en": "animal",
+          "uk": "тварина"
+        }
+      },
+      {
+        "key": "wildlife",
+        "i18n": {
+          "en": "wildlife",
+          "uk": "дика природа"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/a-fox-rests-in-tall-grass-at-dawn-Rl7SZ19fgRQ",
+  "sourceName": "Unsplash",
+  "authorName": "Daniil Silantev",
+  "authorUrl": "https://unsplash.com/@betagamma",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "pinned": false,
+  "width": 2400,
+  "height": 1602,
+  "collectionSlugs": [
+    "animals"
+  ]
+}

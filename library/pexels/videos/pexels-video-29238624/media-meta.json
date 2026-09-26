@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-29238624",
+  "mediaKey": "pexels:video:29238624",
+  "i18n": {
+    "name": {
+      "en": "Colorful Kaleidoscope Shapes",
+      "uk": "Барвисті фігури у вигляді калейдоскопа"
+    },
+    "alt": {
+      "en": "Pexels video 29238624",
+      "uk": "Відео з Pexels № 29238624"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "kaleidoscope",
+        "i18n": {
+          "en": "kaleidoscope",
+          "uk": "калейдоскоп"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      },
+      {
+        "key": "symmetry",
+        "i18n": {
+          "en": "symmetry",
+          "uk": "симетрія"
+        }
+      },
+      {
+        "key": "geometric",
+        "i18n": {
+          "en": "geometric",
+          "uk": "геометричний"
+        }
+      },
+      {
+        "key": "animation",
+        "i18n": {
+          "en": "animation",
+          "uk": "анімація"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/vibrant-abstract-kaleidoscope-animation-visuals-29238624/",
+  "sourceName": "Pexels",
+  "authorName": "StefWithAnF",
+  "authorUrl": "https://www.pexels.com/@stefwithanf-1955763",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 28,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

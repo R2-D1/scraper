@@ -1,0 +1,63 @@
+{
+  "slug": "card-postal-qbni",
+  "mediaKey": "9bcec5b2-d3bc-4622-91e6-6c065a5d6a04",
+  "providerId": "5ce6795e3617e40015955065",
+  "i18n": {
+    "name": {
+      "en": "Card postal",
+      "uk": "Поштова листівка"
+    },
+    "alt": {
+      "en": "Card postal",
+      "uk": "Поштова листівка"
+    },
+    "tags": [
+      {
+        "key": "card-postal",
+        "i18n": {
+          "en": "Card postal",
+          "uk": "Поштова листівка"
+        }
+      },
+      {
+        "key": "card",
+        "i18n": {
+          "en": "card",
+          "uk": "картка"
+        }
+      },
+      {
+        "key": "postal",
+        "i18n": {
+          "en": "postal",
+          "uk": "поштовий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/card-postal_qbni.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 996,
+  "height": 679
+}

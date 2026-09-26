@@ -1,0 +1,84 @@
+{
+  "slug": "gradient-color-transition-fgluf",
+  "mediaKey": "3bcbb879-8124-4484-a650-ee2a93790cd8",
+  "i18n": {
+    "name": {
+      "en": "Gradient Color Transition",
+      "uk": "Градієнтний перехід кольорів"
+    },
+    "alt": {
+      "en": "Gradient Color Transition",
+      "uk": "Градієнтний перехід кольорів"
+    },
+    "tags": [
+      {
+        "key": "contrast",
+        "i18n": {
+          "en": "Contrast",
+          "uk": "Контраст"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "Blue",
+          "uk": "Синій"
+        }
+      },
+      {
+        "key": "calmness",
+        "i18n": {
+          "en": "calmness",
+          "uk": "спокій"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "Gradient",
+          "uk": "Градієнт"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/illustration/gradient-color-transition-fgluf",
+  "sourceName": "Lummi",
+  "authorName": "Nika",
+  "authorUrl": "https://www.lummi.ai/creator/nikadominguez_?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A smooth gradient transitions from a bright white on the left to a deep black on the right. The gradient features a striking band of vivid blue that curves gracefully across the middle, creating a sense of depth and movement. The colors blend seamlessly, with the blue providing a vibrant contrast against the softer white and darker black. The overall effect is abstract and visually engaging, drawing the eye across the image. The simplicity of the design emphasizes the beauty of the color transitions and the fluidity of the gradient.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1632,
+  "height": 2912,
+  "mimeType": "image/webp"
+}

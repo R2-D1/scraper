@@ -1,0 +1,49 @@
+{
+  "slug": "mention-t7iw",
+  "mediaKey": "4a1b88b0-8733-423c-9d15-3a9e196a26e0",
+  "providerId": "5f9fe5417303f60017c8c9c8",
+  "i18n": {
+    "name": {
+      "en": "Mention",
+      "uk": "Згадка"
+    },
+    "alt": {
+      "en": "Mention",
+      "uk": "Згадка"
+    },
+    "tags": [
+      {
+        "key": "mention",
+        "i18n": {
+          "en": "Mention",
+          "uk": "Згадка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/mention_t7iw.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 534,
+  "height": 458
+}

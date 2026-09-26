@@ -1,0 +1,49 @@
+{
+  "slug": "picture-lnem",
+  "mediaKey": "0ab5ddd0-71bd-439a-a29d-631ca54ca625",
+  "providerId": "62055994276dad0018635def",
+  "i18n": {
+    "name": {
+      "en": "Picture",
+      "uk": "Зображення"
+    },
+    "alt": {
+      "en": "Picture",
+      "uk": "Зображення"
+    },
+    "tags": [
+      {
+        "key": "picture",
+        "i18n": {
+          "en": "Picture",
+          "uk": "Зображення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/picture_lnem.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 700,
+  "height": 569
+}

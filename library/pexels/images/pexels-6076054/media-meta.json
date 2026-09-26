@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-6076054",
+  "mediaKey": "pexels:6076054",
+  "i18n": {
+    "name": {
+      "en": "Woman dribbling a basketball on court",
+      "uk": "Жінка, яка веде м'яч на баскетбольному майданчику"
+    },
+    "alt": {
+      "en": "Young woman sitting on a colorful indoor basketball court holding a ball.",
+      "uk": "Молода жінка сидить на барвистому критому баскетбольному майданчику, тримаючи м'яч."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "basketball",
+        "i18n": {
+          "en": "basketball",
+          "uk": "баскетбол"
+        }
+      },
+      {
+        "key": "dribbling",
+        "i18n": {
+          "en": "dribbling",
+          "uk": "дріблінг"
+        }
+      },
+      {
+        "key": "court",
+        "i18n": {
+          "en": "court",
+          "uk": "суд"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "sports",
+          "uk": "спорт"
+        }
+      },
+      {
+        "key": "athlete",
+        "i18n": {
+          "en": "athlete",
+          "uk": "атлет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-woman-in-white-tank-top-and-shorts-sitting-on-basketball-court-with-a-ball-6076054/",
+  "sourceName": "Pexels",
+  "authorName": "KoolShooters",
+  "authorUrl": "https://www.pexels.com/@koolshooters",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

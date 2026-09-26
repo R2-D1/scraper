@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "selfie-doodle",
+  "mediaKey": "custom:content:f29bcd9872afb8debe35be275399017ce48104d394e845ae82061eb90c6b39fd",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "f29bcd9872afb8debe35be275399017ce48104d394e845ae82061eb90c6b39fd",
+  "i18n": {
+    "name": {
+      "en": "Selfie Doodle",
+      "uk": "Селфі-малюнок"
+    },
+    "alt": {
+      "en": "Selfie Doodle",
+      "uk": "Селфі-малюнок"
+    },
+    "tags": [
+      {
+        "key": "selfie",
+        "i18n": {
+          "en": "Selfie",
+          "uk": "Селфі"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

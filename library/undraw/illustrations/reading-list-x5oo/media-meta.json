@@ -1,0 +1,63 @@
+{
+  "slug": "reading-list-x5oo",
+  "mediaKey": "9e434f09-d1a7-4470-8583-04d75dc72819",
+  "providerId": "604b4dca41ff55001739a490",
+  "i18n": {
+    "name": {
+      "en": "Reading list",
+      "uk": "Список літератури"
+    },
+    "alt": {
+      "en": "Reading list",
+      "uk": "Список літератури"
+    },
+    "tags": [
+      {
+        "key": "reading-list",
+        "i18n": {
+          "en": "Reading list",
+          "uk": "Список літератури"
+        }
+      },
+      {
+        "key": "reading",
+        "i18n": {
+          "en": "reading",
+          "uk": "читання"
+        }
+      },
+      {
+        "key": "list",
+        "i18n": {
+          "en": "list",
+          "uk": "список"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/reading-list_x5oo.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 677,
+  "height": 421
+}

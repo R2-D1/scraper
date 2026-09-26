@@ -1,0 +1,90 @@
+{
+  "slug": "tech-shopping-cart",
+  "mediaKey": "21c26397-c384-4c44-a2ee-4168609ab513",
+  "i18n": {
+    "name": {
+      "en": "Shopping Cart",
+      "uk": "Кошик"
+    },
+    "alt": {
+      "en": "Shopping Cart",
+      "uk": "Кошик"
+    },
+    "tags": [
+      {
+        "key": "ecommerce",
+        "i18n": {
+          "en": "ecommerce",
+          "uk": "електронна комерція"
+        }
+      },
+      {
+        "key": "shopping",
+        "i18n": {
+          "en": "shopping",
+          "uk": "покупки"
+        }
+      },
+      {
+        "key": "cart",
+        "i18n": {
+          "en": "cart",
+          "uk": "візок"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "retail",
+        "i18n": {
+          "en": "retail",
+          "uk": "ритейл"
+        }
+      },
+      {
+        "key": "basket",
+        "i18n": {
+          "en": "basket",
+          "uk": "кошик"
+        }
+      },
+      {
+        "key": "commerce",
+        "i18n": {
+          "en": "commerce",
+          "uk": "торгівля"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/tech-shopping-cart",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

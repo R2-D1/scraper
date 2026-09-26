@@ -1,0 +1,97 @@
+{
+  "slug": "photo-film",
+  "mediaKey": "b27a688f-5a7c-4b72-bb2f-ec01a93ade98",
+  "i18n": {
+    "name": {
+      "en": "Film Roll",
+      "uk": "Рулон плівки"
+    },
+    "alt": {
+      "en": "Film Roll",
+      "uk": "Рулон плівки"
+    },
+    "tags": [
+      {
+        "key": "photography",
+        "i18n": {
+          "en": "photography",
+          "uk": "фотографія"
+        }
+      },
+      {
+        "key": "film",
+        "i18n": {
+          "en": "film",
+          "uk": "плівка"
+        }
+      },
+      {
+        "key": "roll",
+        "i18n": {
+          "en": "roll",
+          "uk": "рол"
+        }
+      },
+      {
+        "key": "analog",
+        "i18n": {
+          "en": "analog",
+          "uk": "аналоговий"
+        }
+      },
+      {
+        "key": "vintage",
+        "i18n": {
+          "en": "vintage",
+          "uk": "вінтажний"
+        }
+      },
+      {
+        "key": "movie",
+        "i18n": {
+          "en": "movie",
+          "uk": "фільм"
+        }
+      },
+      {
+        "key": "cinema",
+        "i18n": {
+          "en": "cinema",
+          "uk": "кіно"
+        }
+      },
+      {
+        "key": "picture",
+        "i18n": {
+          "en": "picture",
+          "uk": "малюнок"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/photo-film",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

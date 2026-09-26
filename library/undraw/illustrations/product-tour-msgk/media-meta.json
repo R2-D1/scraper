@@ -1,0 +1,63 @@
+{
+  "slug": "product-tour-msgk",
+  "mediaKey": "0972830c-268d-490e-998c-20a70f2e3dd2",
+  "providerId": "60a7c9e94186dd00174cc553",
+  "i18n": {
+    "name": {
+      "en": "Product Tour",
+      "uk": "Огляд продукту"
+    },
+    "alt": {
+      "en": "Product Tour",
+      "uk": "Огляд продукту"
+    },
+    "tags": [
+      {
+        "key": "product-tour",
+        "i18n": {
+          "en": "Product Tour",
+          "uk": "Огляд продукту"
+        }
+      },
+      {
+        "key": "product",
+        "i18n": {
+          "en": "product",
+          "uk": "продукт"
+        }
+      },
+      {
+        "key": "tour",
+        "i18n": {
+          "en": "tour",
+          "uk": "тур"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/product-tour_msgk.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 940,
+  "height": 457
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "vivid-profile-portrait-ikw4s",
+  "mediaKey": "70733940-acfa-4c33-958d-dd0b4e8f5d85",
+  "i18n": {
+    "name": {
+      "en": "Vivid Profile Portrait",
+      "uk": "Яскравий портретний знімок"
+    },
+    "alt": {
+      "en": "Vivid Profile Portrait",
+      "uk": "Яскравий портретний знімок"
+    },
+    "tags": [
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "dramatic-lighting",
+        "i18n": {
+          "en": "dramatic lighting",
+          "uk": "драматичне освітлення"
+        }
+      },
+      {
+        "key": "vibrant-colors",
+        "i18n": {
+          "en": "vibrant colors",
+          "uk": "яскраві кольори"
+        }
+      },
+      {
+        "key": "side-profile",
+        "i18n": {
+          "en": "side profile",
+          "uk": "вигляд збоку"
+        }
+      },
+      {
+        "key": "green-background",
+        "i18n": {
+          "en": "green background",
+          "uk": "зелений фон"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/vivid-profile-portrait-ikw4s",
+  "sourceName": "Lummi",
+  "authorName": "Sanna Granqvist",
+  "authorUrl": "https://www.lummi.ai/creator/granqvistsanna-xh1cz?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A young individual with short, vibrant red hair is captured in a dramatic side profile against a vivid green background. The lighting creates a striking contrast, highlighting the contours of their face and neck while casting shadows that add depth to the image. The subject's expression is neutral, and they are wearing a dark shirt that blends into the shadowed areas. The green background is evenly lit, providing a bold and uniform backdrop that emphasizes the subject's features.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1696,
+  "height": 960,
+  "mimeType": "image/webp"
+}

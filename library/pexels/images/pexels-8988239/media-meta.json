@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-8988239",
+  "mediaKey": "pexels:8988239",
+  "i18n": {
+    "name": {
+      "en": "Woman seated in a warmly lit room",
+      "uk": "Жінка, що сидить у кімнаті з теплим освітленням"
+    },
+    "alt": {
+      "en": "A stylish woman reclining on a modern chair in a cozy, plant-filled living room.",
+      "uk": "Стильна жінка, що розслабилася в сучасному кріслі у затишній вітальні, наповненій рослинами."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "seated",
+        "i18n": {
+          "en": "seated",
+          "uk": "сидячий"
+        }
+      },
+      {
+        "key": "interior",
+        "i18n": {
+          "en": "interior",
+          "uk": "інтер'єр"
+        }
+      },
+      {
+        "key": "warm-light",
+        "i18n": {
+          "en": "warm light",
+          "uk": "тепле світло"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "lifestyle",
+        "i18n": {
+          "en": "lifestyle",
+          "uk": "спосіб життя"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-in-brown-swimsuit-sitting-on-brown-sofa-chair-8988239/",
+  "sourceName": "Pexels",
+  "authorName": "KoolShooters",
+  "authorUrl": "https://www.pexels.com/@koolshooters",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

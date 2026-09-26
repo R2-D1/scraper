@@ -1,0 +1,97 @@
+{
+  "slug": "emotion-melancholy",
+  "mediaKey": "305bd209-2720-4bd6-8487-18a5e93297a0",
+  "i18n": {
+    "name": {
+      "en": "Melancholy",
+      "uk": "Меланхолія"
+    },
+    "alt": {
+      "en": "Melancholy",
+      "uk": "Меланхолія"
+    },
+    "tags": [
+      {
+        "key": "emotion",
+        "i18n": {
+          "en": "emotion",
+          "uk": "емоція"
+        }
+      },
+      {
+        "key": "melancholy",
+        "i18n": {
+          "en": "melancholy",
+          "uk": "меланхолія"
+        }
+      },
+      {
+        "key": "wistful",
+        "i18n": {
+          "en": "wistful",
+          "uk": "меланхолійний"
+        }
+      },
+      {
+        "key": "pensive",
+        "i18n": {
+          "en": "pensive",
+          "uk": "задумливий"
+        }
+      },
+      {
+        "key": "forlorn",
+        "i18n": {
+          "en": "forlorn",
+          "uk": "занедбаний"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "mournful",
+        "i18n": {
+          "en": "mournful",
+          "uk": "сумний"
+        }
+      },
+      {
+        "key": "brooding",
+        "i18n": {
+          "en": "brooding",
+          "uk": "задумливий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emotion-melancholy",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

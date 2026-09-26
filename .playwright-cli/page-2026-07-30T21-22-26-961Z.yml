@@ -1,0 +1,315 @@
+- generic [ref=f113e4]:
+  - navigation [ref=f113e5]:
+    - generic [ref=f113e6]:
+      - generic [ref=f113e7]:
+        - link "Unsplash Home" [ref=f113e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f113e9]
+        - link "Photos" [ref=f113e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f113e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f113e17]:
+        - button "Explore" [ref=f113e18] [cursor=pointer]
+        - button "Collections" [ref=f113e21] [cursor=pointer]
+        - button "Download History" [ref=f113e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f113e28] [cursor=pointer]
+    - generic [ref=f113e31]:
+      - link "Log in / Sign up" [ref=f113e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Ffire-station-with-two-red-fire-trucks-outside--u0UhAvBPDY
+      - button "Language" [ref=f113e35] [cursor=pointer]
+      - button "Menu" [ref=f113e38] [cursor=pointer]
+  - generic [ref=f113e41]:
+    - generic [ref=f113e42]:
+      - navigation [ref=f113e43]:
+        - search "Find visuals sitewide" [ref=f113e45]:
+          - button "Search Unsplash" [ref=f113e46] [cursor=pointer]
+          - combobox [ref=f113e49]:
+            - searchbox "Search Unsplash" [ref=f113e50]
+            - listbox
+          - button "Visual search" [ref=f113e52] [cursor=pointer]
+        - generic [ref=f113e55]:
+          - link "Get Unsplash+" [ref=f113e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f113e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Ffire-station-with-two-red-fire-trucks-outside--u0UhAvBPDY
+        - button "Submit an image" [ref=f113e59] [cursor=pointer]
+      - generic [ref=f113e60]:
+        - generic [ref=f113e61]:
+          - banner [ref=f113e63]:
+            - generic [ref=f113e65]:
+              - link [ref=f113e66] [cursor=pointer]:
+                - /url: /@getillustrations/illustrations
+              - generic [ref=f113e69]:
+                - link "Getillustrations" [ref=f113e70] [cursor=pointer]:
+                  - /url: /@getillustrations/illustrations
+                - generic [ref=f113e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f113e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ffire-station-with-two-red-fire-trucks-outside--u0UhAvBPDY
+            - generic [ref=f113e73]:
+              - button "Bookmark" [ref=f113e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f113e77] [cursor=pointer]
+              - button "Edit image" [ref=f113e80] [cursor=pointer]
+              - button "Download" [ref=f113e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f113e90]:
+            - img "Fire station with two red fire trucks outside" [ref=f113e91]
+          - generic [ref=f113e92]:
+            - generic [ref=f113e94]:
+              - button "Share this image" [ref=f113e95] [cursor=pointer]:
+                - generic [ref=f113e98]: Share
+              - button "More Actions" [ref=f113e99] [cursor=pointer]
+            - generic [ref=f113e103]:
+              - heading "Fire station with two red fire trucks outside" [level=1] [ref=f113e105]
+              - paragraph [ref=f113e109]: Isometric Maps
+              - generic [ref=f113e111]:
+                - generic [ref=f113e116]:
+                  - text: Published on
+                  - time [ref=f113e117]: October 6, 2025
+                - generic [ref=f113e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f113e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f113e124]:
+              - link "building" [ref=f113e125] [cursor=pointer]:
+                - /url: /s/illustrations/building
+              - link "illustration" [ref=f113e126] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "graphic design" [ref=f113e127] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "orange" [ref=f113e128] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "red" [ref=f113e129] [cursor=pointer]:
+                - /url: /s/illustrations/red
+              - link "purple" [ref=f113e130] [cursor=pointer]:
+                - /url: /s/illustrations/purple
+              - link "vector" [ref=f113e131] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "vehicle" [ref=f113e132] [cursor=pointer]:
+                - /url: /s/illustrations/vehicle
+              - link "transportation" [ref=f113e133] [cursor=pointer]:
+                - /url: /s/illustrations/transportation
+              - link "digital art" [ref=f113e134] [cursor=pointer]:
+                - /url: /s/illustrations/digital-art
+              - link "transport" [ref=f113e135] [cursor=pointer]:
+                - /url: /s/illustrations/transport
+              - link "illustrations" [ref=f113e136] [cursor=pointer]:
+                - /url: /s/illustrations/illustrations
+              - link "fire truck" [ref=f113e137] [cursor=pointer]:
+                - /url: /s/illustrations/fire-truck
+              - link "emergency response" [ref=f113e138] [cursor=pointer]:
+                - /url: /s/illustrations/emergency-response
+              - link "modern design" [ref=f113e139] [cursor=pointer]:
+                - /url: /s/illustrations/modern-design
+              - link "fire protection" [ref=f113e140] [cursor=pointer]:
+                - /url: /s/illustrations/fire-protection
+              - link "isometric" [ref=f113e141] [cursor=pointer]:
+                - /url: /s/illustrations/isometric
+              - link "public safety" [ref=f113e142] [cursor=pointer]:
+                - /url: /s/illustrations/public-safety
+              - link "iconography" [ref=f113e143] [cursor=pointer]:
+                - /url: /s/illustrations/iconography
+              - link "firefighting" [ref=f113e144] [cursor=pointer]:
+                - /url: /s/illustrations/firefighting
+        - generic [ref=f113e147]:
+          - generic [ref=f113e148]:
+            - paragraph [ref=f113e150]: From this series
+            - generic [ref=f113e152]:
+              - button "scroll list to the right" [ref=f113e154] [cursor=pointer]
+              - generic [ref=f113e157]:
+                - generic [ref=f113e158]:
+                  - link [ref=f113e159] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-yellow-flatbed-truck-on-a-white-background-4denaNzfP-M
+                  - link [ref=f113e162]:
+                    - /url: /illustrations/a-yellow-flatbed-truck-on-a-white-background-4denaNzfP-M
+                    - img "A yellow flatbed truck on a white background" [ref=f113e163]
+                - generic [ref=f113e164]:
+                  - link [ref=f113e165] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-yellow-bus-with-black-windows-and-a-blue-door-gTfeiln-sJA
+                  - link [ref=f113e168]:
+                    - /url: /illustrations/a-yellow-bus-with-black-windows-and-a-blue-door-gTfeiln-sJA
+                    - img "A yellow bus with black windows and a blue door." [ref=f113e169]
+                - generic [ref=f113e170]:
+                  - link [ref=f113e171] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-white-modern-car-on-a-white-background-1f5y5Q7y7IM
+                  - link [ref=f113e174]:
+                    - /url: /illustrations/a-white-modern-car-on-a-white-background-1f5y5Q7y7IM
+                    - img "A white modern car on a white background." [ref=f113e175]
+                - generic [ref=f113e176]:
+                  - link [ref=f113e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fisometric-view-of-an-airport-with-planes-and-buildings-sPv_tY2VH6U
+                  - link [ref=f113e180]:
+                    - /url: /illustrations/isometric-view-of-an-airport-with-planes-and-buildings-sPv_tY2VH6U
+                    - img "Isometric view of an airport with planes and buildings." [ref=f113e181]
+                - generic [ref=f113e182]:
+                  - link [ref=f113e183] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-white-sailboat-with-a-red-sail-on-blue-water-DRMNfFWSah4
+                  - link [ref=f113e186]:
+                    - /url: /illustrations/a-white-sailboat-with-a-red-sail-on-blue-water-DRMNfFWSah4
+                    - img "A white sailboat with a red sail on blue water." [ref=f113e187]
+                - generic [ref=f113e188]:
+                  - link [ref=f113e189] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-white-and-blue-airplane-on-a-white-background-GgASGY2Valg
+                  - link [ref=f113e192]:
+                    - /url: /illustrations/a-white-and-blue-airplane-on-a-white-background-GgASGY2Valg
+                    - img "A white and blue airplane on a white background" [ref=f113e193]
+                - generic [ref=f113e194]:
+                  - link [ref=f113e195] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fmodern-ferry-sailing-on-calm-blue-water-REPblutXbTM
+                  - link [ref=f113e198]:
+                    - /url: /illustrations/modern-ferry-sailing-on-calm-blue-water-REPblutXbTM
+                    - img "Modern ferry sailing on calm blue water" [ref=f113e199]
+                - generic [ref=f113e200]:
+                  - link [ref=f113e201] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-white-and-blue-blimp-with-a-shadow-Q7QrKo0lf-o
+                  - link [ref=f113e204]:
+                    - /url: /illustrations/a-white-and-blue-blimp-with-a-shadow-Q7QrKo0lf-o
+                    - img "A white and blue blimp with a shadow" [ref=f113e205]
+          - generic [ref=f113e206]:
+            - heading "Related images" [level=4] [ref=f113e208]
+            - generic [ref=f113e212]:
+              - generic [ref=f113e213]:
+                - figure [ref=f113e214]:
+                  - generic [ref=f113e216]:
+                    - link [ref=f113e217]:
+                      - /url: /illustrations/a-red-fire-truck-with-a-ladder-S05qW8zCslA
+                      - img "A red fire truck with a ladder" [ref=f113e218]
+                    - link [ref=f113e219] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-red-fire-truck-with-a-ladder-S05qW8zCslA
+                - figure [ref=f113e222]:
+                  - generic [ref=f113e224]:
+                    - link [ref=f113e225]:
+                      - /url: /illustrations/a-simple-icon-of-a-garage-with-a-yellow-roof-M2CZc8jSFCc
+                      - img "A simple icon of a garage with a yellow roof." [ref=f113e226]
+                    - link [ref=f113e227] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-simple-icon-of-a-garage-with-a-yellow-roof-M2CZc8jSFCc
+                - figure [ref=f113e230]:
+                  - generic [ref=f113e232]:
+                    - link [ref=f113e233]:
+                      - /url: /illustrations/isometric-cargo-logistics-truck-and-transportation-container-in-shipping-yard-illustration-vector-vkyobvJ_dgA
+                      - img "Isometric, Cargo logistics truck and transportation container in shipping yard. illustration vector" [ref=f113e234]
+                    - link [ref=f113e235] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fisometric-cargo-logistics-truck-and-transportation-container-in-shipping-yard-illustration-vector-vkyobvJ_dgA
+                - figure [ref=f113e238]:
+                  - generic [ref=f113e240]:
+                    - link [ref=f113e241]:
+                      - /url: /illustrations/modern-isometric-building-with-white-and-blue-accents-NjtFk8iil1E
+                      - img "Modern isometric building with white and blue accents" [ref=f113e242]
+                    - link [ref=f113e243] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fmodern-isometric-building-with-white-and-blue-accents-NjtFk8iil1E
+                - figure [ref=f113e246]:
+                  - generic [ref=f113e248]:
+                    - link [ref=f113e249]:
+                      - /url: /illustrations/isometric-warehouse-with-delivery-truck-and-boxes-vAIgKF9blkk
+                      - img "Isometric warehouse with delivery truck and boxes" [ref=f113e250]
+                    - link [ref=f113e251] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fisometric-warehouse-with-delivery-truck-and-boxes-vAIgKF9blkk
+                - figure [ref=f113e254]:
+                  - generic [ref=f113e256]:
+                    - link [ref=f113e257]:
+                      - /url: /illustrations/modern-white-building-with-blue-accents-and-windows-KzlJ5wHnsJQ
+                      - img "Modern white building with blue accents and windows" [ref=f113e258]
+                    - link [ref=f113e259] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fmodern-white-building-with-blue-accents-and-windows-KzlJ5wHnsJQ
+                - figure [ref=f113e262]:
+                  - generic [ref=f113e264]:
+                    - link [ref=f113e265]:
+                      - /url: /illustrations/a-modern-isometric-building-with-yellow-accents-Xm8i47m_ETw
+                      - img "A modern isometric building with yellow accents" [ref=f113e266]
+                    - link [ref=f113e267] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-modern-isometric-building-with-yellow-accents-Xm8i47m_ETw
+              - generic [ref=f113e270]:
+                - figure [ref=f113e271]:
+                  - generic [ref=f113e273]:
+                    - link [ref=f113e274]:
+                      - /url: /illustrations/modern-police-station-with-two-patrol-cars-C-gvpmoc4CY
+                      - img "Modern police station with two patrol cars" [ref=f113e275]
+                    - link [ref=f113e276] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fmodern-police-station-with-two-patrol-cars-C-gvpmoc4CY
+                - figure [ref=f113e279]:
+                  - generic [ref=f113e281]:
+                    - link [ref=f113e282]:
+                      - /url: /illustrations/a-white-building-with-orange-roof-and-windows-ABdT_WZJyT8
+                      - img "A white building with orange roof and windows" [ref=f113e283]
+                    - link [ref=f113e284] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-white-building-with-orange-roof-and-windows-ABdT_WZJyT8
+                - figure [ref=f113e287]:
+                  - generic [ref=f113e289]:
+                    - link [ref=f113e290]:
+                      - /url: /illustrations/a-padlock-on-top-of-a-document-with-a-padlock-on-it-V3IJjp_uGPY
+                      - img "A padlock on top of a document with a padlock on it" [ref=f113e291]
+                    - link [ref=f113e292] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-padlock-on-top-of-a-document-with-a-padlock-on-it-V3IJjp_uGPY
+                - figure [ref=f113e295]:
+                  - generic [ref=f113e297]:
+                    - link [ref=f113e298]:
+                      - /url: /illustrations/modern-isometric-building-with-blue-accents-8OIqnKjiwWY
+                      - img "Modern isometric building with blue accents" [ref=f113e299]
+                    - link [ref=f113e300] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fmodern-isometric-building-with-blue-accents-8OIqnKjiwWY
+                - figure [ref=f113e303]:
+                  - generic [ref=f113e305]:
+                    - link [ref=f113e306]:
+                      - /url: /illustrations/modern-office-building-with-water-tower-on-roof-b7GAhOJvZp0
+                      - img "Modern office building with water tower on roof." [ref=f113e307]
+                    - link [ref=f113e308] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fmodern-office-building-with-water-tower-on-roof-b7GAhOJvZp0
+                - figure [ref=f113e311]:
+                  - generic [ref=f113e313]:
+                    - link [ref=f113e314]:
+                      - /url: /illustrations/modern-white-house-with-blue-roof-and-doors-4A9DvGGdL2c
+                      - img "Modern white house with blue roof and doors." [ref=f113e315]
+                    - link [ref=f113e316] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fmodern-white-house-with-blue-roof-and-doors-4A9DvGGdL2c
+                - figure [ref=f113e319]:
+                  - generic [ref=f113e321]:
+                    - link [ref=f113e322]:
+                      - /url: /illustrations/modern-isometric-building-with-a-red-awning-lvQ92pdLUXs
+                      - img "Modern isometric building with a red awning." [ref=f113e323]
+                    - link [ref=f113e324] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fmodern-isometric-building-with-a-red-awning-lvQ92pdLUXs
+              - generic [ref=f113e327]:
+                - figure [ref=f113e328]:
+                  - generic [ref=f113e330]:
+                    - link [ref=f113e331]:
+                      - /url: /illustrations/isometric-view-of-a-modern-building-with-solar-panels-7gSW-bniA80
+                      - img "Isometric view of a modern building with solar panels." [ref=f113e332]
+                    - link [ref=f113e333] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fisometric-view-of-a-modern-building-with-solar-panels-7gSW-bniA80
+                - figure [ref=f113e336]:
+                  - generic [ref=f113e338]:
+                    - link [ref=f113e339]:
+                      - /url: /illustrations/two-modern-buildings-with-isometric-view-SrMf3SUPa9c
+                      - img "Two modern buildings with isometric view" [ref=f113e340]
+                    - link [ref=f113e341] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ftwo-modern-buildings-with-isometric-view-SrMf3SUPa9c
+                - figure [ref=f113e344]:
+                  - generic [ref=f113e346]:
+                    - link [ref=f113e347]:
+                      - /url: /illustrations/modern-building-with-glass-facade-and-blue-accents-fAw6joLNlsE
+                      - img "Modern building with glass facade and blue accents" [ref=f113e348]
+                    - link [ref=f113e349] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fmodern-building-with-glass-facade-and-blue-accents-fAw6joLNlsE
+                - figure [ref=f113e352]:
+                  - generic [ref=f113e354]:
+                    - link [ref=f113e355]:
+                      - /url: /illustrations/modern-building-with-arched-entrance-and-windows-CjcCFJk9m2g
+                      - img "Modern building with arched entrance and windows" [ref=f113e356]
+                    - link [ref=f113e357] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fmodern-building-with-arched-entrance-and-windows-CjcCFJk9m2g
+                - figure [ref=f113e360]:
+                  - generic [ref=f113e362]:
+                    - link [ref=f113e363]:
+                      - /url: /illustrations/isometric-building-with-blue-accents-on-white-background-hg1-UZeNj5M
+                      - img "Isometric building with blue accents on white background" [ref=f113e364]
+                    - link [ref=f113e365] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fisometric-building-with-blue-accents-on-white-background-hg1-UZeNj5M
+                - figure [ref=f113e368]:
+                  - generic [ref=f113e370]:
+                    - link [ref=f113e371]:
+                      - /url: /illustrations/a-red-fire-truck-with-a-ladder-on-top-of-it-b96r379nURs
+                      - img "A red fire truck with a ladder on top of it" [ref=f113e372]
+                    - link [ref=f113e373] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-red-fire-truck-with-a-ladder-on-top-of-it-b96r379nURs
+    - generic:
+      - region "Notifications"

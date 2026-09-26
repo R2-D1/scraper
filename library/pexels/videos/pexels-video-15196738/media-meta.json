@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-15196738",
+  "mediaKey": "pexels:video:15196738",
+  "i18n": {
+    "name": {
+      "en": "Magenta Block Terrain",
+      "uk": "Магентовий блоковий рельєф"
+    },
+    "alt": {
+      "en": "Pexels video 15196738",
+      "uk": "Відео з Pexels № 15196738"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "magenta",
+        "i18n": {
+          "en": "magenta",
+          "uk": "пурпуровий"
+        }
+      },
+      {
+        "key": "blocks",
+        "i18n": {
+          "en": "blocks",
+          "uk": "блоки"
+        }
+      },
+      {
+        "key": "terrain",
+        "i18n": {
+          "en": "terrain",
+          "uk": "рельєф"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      },
+      {
+        "key": "wave",
+        "i18n": {
+          "en": "wave",
+          "uk": "хвиля"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/3d-animation-of-a-dynamic-textured-surface-15196738/",
+  "sourceName": "Pexels",
+  "authorName": "Pachon in Motion",
+  "authorUrl": "https://www.pexels.com/@pachon-in-motion-426015731",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 17,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

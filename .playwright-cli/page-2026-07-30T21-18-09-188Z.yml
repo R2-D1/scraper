@@ -1,0 +1,270 @@
+- generic [ref=f23e4]:
+  - navigation [ref=f23e5]:
+    - generic [ref=f23e6]:
+      - generic [ref=f23e7]:
+        - link "Unsplash Home" [ref=f23e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f23e9]
+        - link "Photos" [ref=f23e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f23e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f23e17]:
+        - button "Explore" [ref=f23e18] [cursor=pointer]
+        - button "Collections" [ref=f23e21] [cursor=pointer]
+        - button "Download History" [ref=f23e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f23e28] [cursor=pointer]
+    - generic [ref=f23e31]:
+      - link "Log in / Sign up" [ref=f23e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fisometric-arcade-game-machine-with-a-mouse-LObAJ4-8deU
+      - button "Language" [ref=f23e35] [cursor=pointer]
+      - button "Menu" [ref=f23e38] [cursor=pointer]
+  - generic [ref=f23e41]:
+    - generic [ref=f23e42]:
+      - navigation [ref=f23e43]:
+        - search "Find visuals sitewide" [ref=f23e45]:
+          - button "Search Unsplash" [ref=f23e46] [cursor=pointer]
+          - combobox [ref=f23e49]:
+            - searchbox "Search Unsplash" [ref=f23e50]
+            - listbox
+          - button "Visual search" [ref=f23e52] [cursor=pointer]
+        - generic [ref=f23e55]:
+          - link "Get Unsplash+" [ref=f23e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f23e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fisometric-arcade-game-machine-with-a-mouse-LObAJ4-8deU
+        - button "Submit an image" [ref=f23e59] [cursor=pointer]
+      - generic [ref=f23e60]:
+        - generic [ref=f23e61]:
+          - banner [ref=f23e63]:
+            - generic [ref=f23e65]:
+              - link [ref=f23e66] [cursor=pointer]:
+                - /url: /@summertimeflag/illustrations
+              - generic [ref=f23e69]:
+                - link "summertime flag" [ref=f23e70] [cursor=pointer]:
+                  - /url: /@summertimeflag/illustrations
+                - generic [ref=f23e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f23e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fisometric-arcade-game-machine-with-a-mouse-LObAJ4-8deU
+            - generic [ref=f23e73]:
+              - button "Bookmark" [ref=f23e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f23e77] [cursor=pointer]
+              - button "Edit image" [ref=f23e80] [cursor=pointer]
+              - button "Download" [ref=f23e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f23e90]:
+            - img "Isometric arcade game machine with a mouse" [ref=f23e91]
+          - generic [ref=f23e92]:
+            - generic [ref=f23e94]:
+              - button "Share this image" [ref=f23e95] [cursor=pointer]:
+                - generic [ref=f23e98]: Share
+              - button "More Actions" [ref=f23e99] [cursor=pointer]
+            - generic [ref=f23e103]:
+              - heading "Isometric arcade game machine with a mouse" [level=1] [ref=f23e105]
+              - paragraph [ref=f23e109]: Download this illustration of abstract, blue, illustration, and purple by summertime flag (@summertimeflag)
+              - generic [ref=f23e111]:
+                - generic [ref=f23e116]:
+                  - text: Published on
+                  - time [ref=f23e117]: October 31, 2025
+                - generic [ref=f23e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f23e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f23e124]:
+              - link "abstract" [ref=f23e125] [cursor=pointer]:
+                - /url: /s/illustrations/abstract
+              - link "blue" [ref=f23e126] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "illustration" [ref=f23e127] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "purple" [ref=f23e128] [cursor=pointer]:
+                - /url: /s/illustrations/purple
+              - link "abstract art" [ref=f23e129] [cursor=pointer]:
+                - /url: /s/illustrations/abstract-art
+              - link "game" [ref=f23e130] [cursor=pointer]:
+                - /url: /s/illustrations/game
+              - link "vector" [ref=f23e131] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "3d render" [ref=f23e132] [cursor=pointer]:
+                - /url: /s/illustrations/3d-render
+              - link "purple background" [ref=f23e133] [cursor=pointer]:
+                - /url: /s/illustrations/purple-background
+              - link "digital art" [ref=f23e134] [cursor=pointer]:
+                - /url: /s/illustrations/digital-art
+              - link "nostalgia" [ref=f23e135] [cursor=pointer]:
+                - /url: /s/illustrations/nostalgia
+              - link "perspective" [ref=f23e136] [cursor=pointer]:
+                - /url: /s/illustrations/perspective
+              - link "video game" [ref=f23e137] [cursor=pointer]:
+                - /url: /s/illustrations/video-game
+              - link "entertainment" [ref=f23e138] [cursor=pointer]:
+                - /url: /s/illustrations/entertainment
+              - link "arcade" [ref=f23e139] [cursor=pointer]:
+                - /url: /s/illustrations/arcade
+              - link "teal" [ref=f23e140] [cursor=pointer]:
+                - /url: /s/illustrations/teal
+              - link "computer mouse" [ref=f23e141] [cursor=pointer]:
+                - /url: /s/illustrations/computer-mouse
+              - link "retro gaming" [ref=f23e142] [cursor=pointer]:
+                - /url: /s/illustrations/retro-gaming
+              - link "gaming console" [ref=f23e143] [cursor=pointer]:
+                - /url: /s/illustrations/gaming-console
+              - link "isometric" [ref=f23e144] [cursor=pointer]:
+                - /url: /s/illustrations/isometric
+        - generic [ref=f23e147]:
+          - generic [ref=f23e148]:
+            - paragraph [ref=f23e150]: From this series
+            - generic [ref=f23e154]:
+              - link [ref=f23e155] [cursor=pointer]:
+                - /url: /plus?referrer=%2Fillustrations%2Fabstract-isometric-design-with-colorful-geometric-shapes-C3Ct59fCEGw
+              - link [ref=f23e158]:
+                - /url: /illustrations/abstract-isometric-design-with-colorful-geometric-shapes-C3Ct59fCEGw
+                - img "Abstract isometric design with colorful geometric shapes" [ref=f23e159]
+          - generic [ref=f23e160]:
+            - heading "Related images" [level=4] [ref=f23e162]
+            - generic [ref=f23e166]:
+              - generic [ref=f23e167]:
+                - figure [ref=f23e168]:
+                  - generic [ref=f23e170]:
+                    - link [ref=f23e171]:
+                      - /url: /illustrations/retro-scanner-with-a-cup-of-coffee-on-top-q528pWCsupY
+                      - img "Retro scanner with a cup of coffee on top" [ref=f23e172]
+                    - link [ref=f23e173] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fretro-scanner-with-a-cup-of-coffee-on-top-q528pWCsupY
+                - figure [ref=f23e176]:
+                  - generic [ref=f23e178]:
+                    - link [ref=f23e179]:
+                      - /url: /illustrations/a-retro-gaming-console-in-neon-purple-lights-UO5HB6vJ08U
+                      - img "A retro gaming console in neon purple lights." [ref=f23e180]
+                    - link [ref=f23e181] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-retro-gaming-console-in-neon-purple-lights-UO5HB6vJ08U
+                - figure [ref=f23e184]:
+                  - generic [ref=f23e186]:
+                    - link [ref=f23e187]:
+                      - /url: /illustrations/retro-isometric-projector-with-blue-and-pink-lighting-uJ8NaXm1Fi8
+                      - img "Retro isometric projector with blue and pink lighting" [ref=f23e188]
+                    - link [ref=f23e189] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fretro-isometric-projector-with-blue-and-pink-lighting-uJ8NaXm1Fi8
+                - figure [ref=f23e192]:
+                  - generic [ref=f23e194]:
+                    - link [ref=f23e195]:
+                      - /url: /illustrations/a-computer-setup-with-a-keyboard-and-mouse-JiOlnqy2k58
+                      - img "A computer setup with a keyboard and mouse." [ref=f23e196]
+                    - link [ref=f23e197] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-computer-setup-with-a-keyboard-and-mouse-JiOlnqy2k58
+                - figure [ref=f23e200]:
+                  - generic [ref=f23e202]:
+                    - link [ref=f23e203]:
+                      - /url: /illustrations/a-retro-computer-game-with-a-robot-xkURn_Dk3nQ
+                      - img "A retro computer game with a robot." [ref=f23e204]
+                    - link [ref=f23e205] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-retro-computer-game-with-a-robot-xkURn_Dk3nQ
+                - figure [ref=f23e208]:
+                  - generic [ref=f23e210]:
+                    - link [ref=f23e211]:
+                      - /url: /illustrations/retro-video-game-console-with-two-controllers-Pz2uNlpoha8
+                      - img "Retro video game console with two controllers" [ref=f23e212]
+                    - link [ref=f23e213] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fretro-video-game-console-with-two-controllers-Pz2uNlpoha8
+                - figure [ref=f23e216]:
+                  - generic [ref=f23e218]:
+                    - link [ref=f23e219]:
+                      - /url: /illustrations/retro-gaming-setup-featuring-a-tv-console-and-cartridges-tJhiNeoKXsw
+                      - img "Retro gaming setup featuring a tv, console, and cartridges." [ref=f23e220]
+                    - link [ref=f23e221] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fretro-gaming-setup-featuring-a-tv-console-and-cartridges-tJhiNeoKXsw
+              - generic [ref=f23e224]:
+                - figure [ref=f23e225]:
+                  - generic [ref=f23e227]:
+                    - link [ref=f23e228]:
+                      - /url: /illustrations/retro-game-console-with-joystick-8wuHZjtsTLY
+                      - img "Retro game console with joystick." [ref=f23e229]
+                    - link [ref=f23e230] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fretro-game-console-with-joystick-8wuHZjtsTLY
+                - figure [ref=f23e233]:
+                  - generic [ref=f23e235]:
+                    - link [ref=f23e236]:
+                      - /url: /illustrations/vintage-computer-with-floppy-disk-drive-and-code-symbol--geZjXXxRH0
+                      - img "Vintage computer with floppy disk drive and code symbol." [ref=f23e237]
+                    - link [ref=f23e238] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fvintage-computer-with-floppy-disk-drive-and-code-symbol--geZjXXxRH0
+                - figure [ref=f23e241]:
+                  - generic [ref=f23e243]:
+                    - link [ref=f23e244]:
+                      - /url: /illustrations/here-is-a-possible-caption-a-cartoon-image-of-a-retro-gaming-console-Zijwp9stPqE
+                      - 'img "Here is a possible caption: a cartoon image of a retro gaming console." [ref=f23e245]'
+                    - link [ref=f23e246] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhere-is-a-possible-caption-a-cartoon-image-of-a-retro-gaming-console-Zijwp9stPqE
+                - figure [ref=f23e249]:
+                  - generic [ref=f23e251]:
+                    - link [ref=f23e252]:
+                      - /url: /illustrations/retro-arcade-machine-with-stacks-of-coins-yzvZdc6sjIE
+                      - img "Retro arcade machine with stacks of coins" [ref=f23e253]
+                    - link [ref=f23e254] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fretro-arcade-machine-with-stacks-of-coins-yzvZdc6sjIE
+                - figure [ref=f23e257]:
+                  - generic [ref=f23e259]:
+                    - link [ref=f23e260]:
+                      - /url: /illustrations/retro-futuristic-mobile-phone-with-speaker-and-keypad-O2PBTQNS1tE
+                      - img "Retro futuristic mobile phone with speaker and keypad" [ref=f23e261]
+                    - link [ref=f23e262] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fretro-futuristic-mobile-phone-with-speaker-and-keypad-O2PBTQNS1tE
+                - figure [ref=f23e265]:
+                  - generic [ref=f23e267]:
+                    - link [ref=f23e268]:
+                      - /url: /illustrations/retro-arcade-game-machine-with-joysticks-and-buttons-1rlHrXME1mg
+                      - img "Retro arcade game machine with joysticks and buttons" [ref=f23e269]
+                    - link [ref=f23e270] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fretro-arcade-game-machine-with-joysticks-and-buttons-1rlHrXME1mg
+              - generic [ref=f23e273]:
+                - figure [ref=f23e274]:
+                  - generic [ref=f23e276]:
+                    - link [ref=f23e277]:
+                      - /url: /illustrations/abstract-isometric-design-with-colorful-geometric-shapes-C3Ct59fCEGw
+                      - img "Abstract isometric design with colorful geometric shapes" [ref=f23e278]
+                    - link [ref=f23e279] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fabstract-isometric-design-with-colorful-geometric-shapes-C3Ct59fCEGw
+                - figure [ref=f23e282]:
+                  - generic [ref=f23e284]:
+                    - link [ref=f23e285]:
+                      - /url: /illustrations/astronaut-with-two-smaller-figures-on-purple-background-RNhMGIOSvMs
+                      - img "Astronaut with two smaller figures on purple background" [ref=f23e286]
+                    - link [ref=f23e287] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fastronaut-with-two-smaller-figures-on-purple-background-RNhMGIOSvMs
+                - figure [ref=f23e290]:
+                  - generic [ref=f23e292]:
+                    - link [ref=f23e293]:
+                      - /url: /illustrations/retro-computer-with-monitor-keyboard-and-mouse-qRUiAQF0MYE
+                      - img "Retro computer with monitor, keyboard, and mouse." [ref=f23e294]
+                    - link [ref=f23e295] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fretro-computer-with-monitor-keyboard-and-mouse-qRUiAQF0MYE
+                - figure [ref=f23e298]:
+                  - generic [ref=f23e300]:
+                    - link [ref=f23e301]:
+                      - /url: /illustrations/circuit-board-with-electronic-components-and-usb-connector-nVVZGhwPeHc
+                      - img "Circuit board with electronic components and usb connector" [ref=f23e302]
+                    - link [ref=f23e303] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcircuit-board-with-electronic-components-and-usb-connector-nVVZGhwPeHc
+                - figure [ref=f23e306]:
+                  - generic [ref=f23e308]:
+                    - link [ref=f23e309]:
+                      - /url: /illustrations/computer-monitor-and-audio-mixing-console-on-blue-background-2uvQdETR5aI
+                      - img "Computer monitor and audio mixing console on blue background" [ref=f23e310]
+                    - link [ref=f23e311] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcomputer-monitor-and-audio-mixing-console-on-blue-background-2uvQdETR5aI
+                - figure [ref=f23e314]:
+                  - generic [ref=f23e316]:
+                    - link [ref=f23e317]:
+                      - /url: /illustrations/futuristic-vehicle-with-sleek-design-on-blue-background-C8L3eJXBNGQ
+                      - img "Futuristic vehicle with sleek design on blue background" [ref=f23e318]
+                    - link [ref=f23e319] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ffuturistic-vehicle-with-sleek-design-on-blue-background-C8L3eJXBNGQ
+                - figure [ref=f23e322]:
+                  - generic [ref=f23e324]:
+                    - link [ref=f23e325]:
+                      - /url: /illustrations/stylized-keypad-device-with-screen-and-buttons-OZ-LAIgYgHc
+                      - img "Stylized keypad device with screen and buttons" [ref=f23e326]
+                    - link [ref=f23e327] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fstylized-keypad-device-with-screen-and-buttons-OZ-LAIgYgHc
+    - generic:
+      - region "Notifications"

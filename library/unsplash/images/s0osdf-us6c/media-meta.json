@@ -1,0 +1,103 @@
+{
+  "slug": "s0osdf-us6c",
+  "mediaKey": "1e5da23c-091e-4082-ae2f-4d2c2cfb5e43",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "Meadow F7 Micro",
+      "uk": "Електронна плата з цифровим дисплеєм"
+    },
+    "alt": {
+      "en": "Meadow F7 Micro",
+      "uk": "Meadow F7 Micro"
+    },
+    "tags": [
+      {
+        "key": "technology",
+        "i18n": {
+          "en": "technology",
+          "uk": "технологія"
+        }
+      },
+      {
+        "key": "electronics",
+        "i18n": {
+          "en": "electronics",
+          "uk": "електроніка"
+        }
+      },
+      {
+        "key": "iot",
+        "i18n": {
+          "en": "iot",
+          "uk": "IoT"
+        }
+      },
+      {
+        "key": "display",
+        "i18n": {
+          "en": "display",
+          "uk": "дисплей"
+        }
+      },
+      {
+        "key": "arduino",
+        "i18n": {
+          "en": "arduino",
+          "uk": "arduino"
+        }
+      },
+      {
+        "key": "esp32",
+        "i18n": {
+          "en": "esp32",
+          "uk": "Ілюстрація: esp32"
+        }
+      },
+      {
+        "key": "monitor",
+        "i18n": {
+          "en": "monitor",
+          "uk": "монітор"
+        }
+      },
+      {
+        "key": "screen",
+        "i18n": {
+          "en": "screen",
+          "uk": "екран"
+        }
+      },
+      {
+        "key": "lcd-screen",
+        "i18n": {
+          "en": "lcd screen",
+          "uk": "LCD-екран"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/s0osdf_Us6c",
+  "sourceName": "Unsplash",
+  "authorName": "Jorge Ramirez",
+  "authorUrl": "https://unsplash.com/@jorgedevs",
+  "description": "Meadow F7 Micro",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 1600,
+  "collectionSlugs": [
+    "technology"
+  ]
+}

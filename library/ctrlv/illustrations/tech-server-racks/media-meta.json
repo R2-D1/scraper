@@ -1,0 +1,90 @@
+{
+  "slug": "tech-server-racks",
+  "mediaKey": "94a35c48-55f5-4dc5-b63e-129fa85dcc7a",
+  "i18n": {
+    "name": {
+      "en": "Server Racks",
+      "uk": "Серверні стійки"
+    },
+    "alt": {
+      "en": "Server Racks",
+      "uk": "Серверні стійки"
+    },
+    "tags": [
+      {
+        "key": "cloud",
+        "i18n": {
+          "en": "cloud",
+          "uk": "хмара"
+        }
+      },
+      {
+        "key": "server",
+        "i18n": {
+          "en": "server",
+          "uk": "сервер"
+        }
+      },
+      {
+        "key": "infrastructure",
+        "i18n": {
+          "en": "infrastructure",
+          "uk": "інфраструктура"
+        }
+      },
+      {
+        "key": "devops",
+        "i18n": {
+          "en": "devops",
+          "uk": "DevOps"
+        }
+      },
+      {
+        "key": "hosting",
+        "i18n": {
+          "en": "hosting",
+          "uk": "хостинг"
+        }
+      },
+      {
+        "key": "storage",
+        "i18n": {
+          "en": "storage",
+          "uk": "сховище"
+        }
+      },
+      {
+        "key": "tech",
+        "i18n": {
+          "en": "tech",
+          "uk": "технології"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/tech-server-racks",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

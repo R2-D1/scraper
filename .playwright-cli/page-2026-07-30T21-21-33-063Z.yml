@@ -1,0 +1,261 @@
+- generic [ref=f101e4]:
+  - navigation [ref=f101e5]:
+    - generic [ref=f101e6]:
+      - generic [ref=f101e7]:
+        - link "Unsplash Home" [ref=f101e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f101e9]
+        - link "Photos" [ref=f101e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f101e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f101e17]:
+        - button "Explore" [ref=f101e18] [cursor=pointer]
+        - button "Collections" [ref=f101e21] [cursor=pointer]
+        - button "Download History" [ref=f101e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f101e28] [cursor=pointer]
+    - generic [ref=f101e31]:
+      - link "Log in / Sign up" [ref=f101e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2F90s-style-seamless-pattern-with-retro-cartoon-floppy-disk-characters-and-vintage-disco-objects-hand-drawn-doodles-80s-00s-trendy-style-vector-illustration-Yg4GWw-EJms
+      - button "Language" [ref=f101e35] [cursor=pointer]
+      - button "Menu" [ref=f101e38] [cursor=pointer]
+  - generic [ref=f101e41]:
+    - generic [ref=f101e42]:
+      - navigation [ref=f101e43]:
+        - search "Find visuals sitewide" [ref=f101e45]:
+          - button "Search Unsplash" [ref=f101e46] [cursor=pointer]
+          - combobox [ref=f101e49]:
+            - searchbox "Search Unsplash" [ref=f101e50]
+            - listbox
+          - button "Visual search" [ref=f101e52] [cursor=pointer]
+        - generic [ref=f101e55]:
+          - link "Get Unsplash+" [ref=f101e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f101e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2F90s-style-seamless-pattern-with-retro-cartoon-floppy-disk-characters-and-vintage-disco-objects-hand-drawn-doodles-80s-00s-trendy-style-vector-illustration-Yg4GWw-EJms
+        - button "Submit an image" [ref=f101e59] [cursor=pointer]
+      - generic [ref=f101e60]:
+        - generic [ref=f101e61]:
+          - banner [ref=f101e63]:
+            - generic [ref=f101e65]:
+              - link [ref=f101e66] [cursor=pointer]:
+                - /url: /@gettyimages
+              - generic [ref=f101e69]:
+                - link "Getty Images" [ref=f101e70] [cursor=pointer]:
+                  - /url: /@gettyimages
+                - generic [ref=f101e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f101e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2F90s-style-seamless-pattern-with-retro-cartoon-floppy-disk-characters-and-vintage-disco-objects-hand-drawn-doodles-80s-00s-trendy-style-vector-illustration-Yg4GWw-EJms
+            - generic [ref=f101e73]:
+              - button "Bookmark" [ref=f101e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f101e77] [cursor=pointer]
+              - button "Edit image" [ref=f101e80] [cursor=pointer]
+              - button "Download" [ref=f101e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f101e90]:
+            - img "90s style seamless pattern with retro cartoon floppy disk characters and vintage disco objects. Hand drawn doodles. 80s - 00s trendy style vector illustration" [ref=f101e91]
+          - generic [ref=f101e92]:
+            - generic [ref=f101e94]:
+              - button "Share this image" [ref=f101e95] [cursor=pointer]:
+                - generic [ref=f101e98]: Share
+              - button "More Actions" [ref=f101e99] [cursor=pointer]
+            - generic [ref=f101e103]:
+              - heading "90s style seamless pattern with retro cartoon floppy disk characters and vintage disco objects. Hand drawn doodles. 80s - 00s trendy style vector illustration" [level=1] [ref=f101e105]
+              - paragraph [ref=f101e109]: Download this illustration of computer, illustration, pattern, and cartoon by Getty Images (@gettyimages)
+              - generic [ref=f101e111]:
+                - generic [ref=f101e116]:
+                  - text: Published on
+                  - time [ref=f101e117]: July 12, 2023
+                - generic [ref=f101e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f101e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f101e124]:
+              - link "computer" [ref=f101e125] [cursor=pointer]:
+                - /url: /s/illustrations/computer
+              - link "illustration" [ref=f101e126] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "pattern" [ref=f101e127] [cursor=pointer]:
+                - /url: /s/illustrations/pattern
+              - link "cartoon" [ref=f101e128] [cursor=pointer]:
+                - /url: /s/illustrations/cartoon
+              - link "graphic design" [ref=f101e129] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "vector" [ref=f101e130] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "digital art" [ref=f101e131] [cursor=pointer]:
+                - /url: /s/illustrations/digital-art
+              - link "dancing" [ref=f101e132] [cursor=pointer]:
+                - /url: /s/illustrations/dancing
+              - link "computer science" [ref=f101e133] [cursor=pointer]:
+                - /url: /s/illustrations/computer-science
+              - link "vintage aesthetic" [ref=f101e134] [cursor=pointer]:
+                - /url: /s/illustrations/vintage-aesthetic
+              - link "doodle" [ref=f101e135] [cursor=pointer]:
+                - /url: /s/illustrations/doodle
+              - link "line art" [ref=f101e136] [cursor=pointer]:
+                - /url: /s/illustrations/line-art
+              - link "pop art" [ref=f101e137] [cursor=pointer]:
+                - /url: /s/illustrations/pop-art
+              - link "cartoon character" [ref=f101e138] [cursor=pointer]:
+                - /url: /s/illustrations/cartoon-character
+              - link "speech bubble" [ref=f101e139] [cursor=pointer]:
+                - /url: /s/illustrations/speech-bubble
+              - link "high contrast" [ref=f101e140] [cursor=pointer]:
+                - /url: /s/illustrations/high-contrast
+              - link "retro computer" [ref=f101e141] [cursor=pointer]:
+                - /url: /s/illustrations/retro-computer
+              - link "vintage computer" [ref=f101e142] [cursor=pointer]:
+                - /url: /s/illustrations/vintage-computer
+              - link "geometric shape" [ref=f101e143] [cursor=pointer]:
+                - /url: /s/illustrations/geometric-shape
+              - link "floppy disk" [ref=f101e144] [cursor=pointer]:
+                - /url: /s/illustrations/floppy-disk
+        - generic [ref=f101e148]:
+          - heading "Related images" [level=4] [ref=f101e150]
+          - generic [ref=f101e154]:
+            - generic [ref=f101e155]:
+              - figure [ref=f101e156]:
+                - generic [ref=f101e158]:
+                  - link [ref=f101e159]:
+                    - /url: /illustrations/retro-vintage-tech-icons-set-Aw7B-rp0_hk
+                    - img "retro vintage tech icons set" [ref=f101e160]
+                  - link [ref=f101e161] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fretro-vintage-tech-icons-set-Aw7B-rp0_hk
+              - figure [ref=f101e164]:
+                - generic [ref=f101e166]:
+                  - link [ref=f101e167]:
+                    - /url: /illustrations/cute-cassette-tapes-patterned-on-a-yellow-background-58MYzTAWMdg
+                    - img "Cute cassette tapes patterned on a yellow background." [ref=f101e168]
+                  - link [ref=f101e169] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcute-cassette-tapes-patterned-on-a-yellow-background-58MYzTAWMdg
+              - figure [ref=f101e172]:
+                - generic [ref=f101e174]:
+                  - link [ref=f101e175]:
+                    - /url: /illustrations/four-colorful-floppy-disks-on-a-green-background-0LZ7itmhcP4
+                    - img "Four colorful floppy disks on a green background" [ref=f101e176]
+                  - link [ref=f101e177] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Ffour-colorful-floppy-disks-on-a-green-background-0LZ7itmhcP4
+              - figure [ref=f101e180]:
+                - generic [ref=f101e182]:
+                  - link [ref=f101e183]:
+                    - /url: /illustrations/a-couple-of-tvs-standing-next-to-each-other-hxkvlyIpxhE
+                    - img "A couple of tvs standing next to each other" [ref=f101e184]
+                  - link [ref=f101e185] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-couple-of-tvs-standing-next-to-each-other-hxkvlyIpxhE
+              - figure [ref=f101e188]:
+                - generic [ref=f101e190]:
+                  - link [ref=f101e191]:
+                    - /url: /illustrations/a-colorful-background-with-a-tape-recorder-and-a-handwritten-note-hjUDfJESWCA
+                    - img "A colorful background with a tape recorder and a handwritten note" [ref=f101e192]
+                  - link [ref=f101e193] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-colorful-background-with-a-tape-recorder-and-a-handwritten-note-hjUDfJESWCA
+              - figure [ref=f101e196]:
+                - generic [ref=f101e198]:
+                  - link [ref=f101e199]:
+                    - /url: /illustrations/dancing-cassette-players-and-headphones-on-colorful-background-6mFLPDGehlQ
+                    - img "Dancing cassette players and headphones on colorful background." [ref=f101e200]
+                  - link [ref=f101e201] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fdancing-cassette-players-and-headphones-on-colorful-background-6mFLPDGehlQ
+              - figure [ref=f101e204]:
+                - generic [ref=f101e206]:
+                  - link [ref=f101e207]:
+                    - /url: /illustrations/a-cartoon-floppy-disk-character-holding-up-a-peace-sign-1Sy_SYfxWI4
+                    - img "A cartoon floppy disk character holding up a peace sign" [ref=f101e208]
+                  - link [ref=f101e209] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-floppy-disk-character-holding-up-a-peace-sign-1Sy_SYfxWI4
+              - figure [ref=f101e212]:
+                - generic [ref=f101e214]:
+                  - link [ref=f101e215]:
+                    - /url: /illustrations/a-drawing-of-a-computer-with-arms-and-legs-ts-rKqDqifM
+                    - img "A drawing of a computer with arms and legs" [ref=f101e216]
+                  - link [ref=f101e217] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-drawing-of-a-computer-with-arms-and-legs-ts-rKqDqifM
+            - generic [ref=f101e220]:
+              - figure [ref=f101e221]:
+                - generic [ref=f101e223]:
+                  - link [ref=f101e224]:
+                    - /url: /illustrations/retro-computer-setup-with-fun-colorful-elements-PZmUNYEJeJM
+                    - img "Retro computer setup with fun, colorful elements." [ref=f101e225]
+                  - link [ref=f101e226] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fretro-computer-setup-with-fun-colorful-elements-PZmUNYEJeJM
+              - figure [ref=f101e229]:
+                - generic [ref=f101e231]:
+                  - link [ref=f101e232]:
+                    - /url: /illustrations/seamless-pattern-with-many-hippie-elements-in-retro-70s-style-on-a-yellow-background-psychedelic-funny-stuff-vector-illustration-modern-trend-8fVzKKJMGBk
+                    - img "Seamless pattern with many hippie elements in retro 70s style on a yellow background. Psychedelic funny stuff. Vector illustration modern trend" [ref=f101e233]
+                  - link [ref=f101e234] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fseamless-pattern-with-many-hippie-elements-in-retro-70s-style-on-a-yellow-background-psychedelic-funny-stuff-vector-illustration-modern-trend-8fVzKKJMGBk
+              - figure [ref=f101e237]:
+                - generic [ref=f101e239]:
+                  - link [ref=f101e240]:
+                    - /url: /illustrations/a-cartoon-picture-of-a-cassette-player-with-a-mustache-LDyUeQ0_cVs
+                    - img "A cartoon picture of a cassette player with a mustache" [ref=f101e241]
+                  - link [ref=f101e242] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-picture-of-a-cassette-player-with-a-mustache-LDyUeQ0_cVs
+              - figure [ref=f101e245]:
+                - generic [ref=f101e247]:
+                  - link [ref=f101e248]:
+                    - /url: /illustrations/retro-vintage-80s-or-90s-style-abstract-seamless-pattern-background-for-textile-fabric-design-wrapping-paper-and-website-wallpapers-vector-vivid-illustration-BrTcYWBHarw
+                    - img "Retro vintage 80s or 90s style abstract seamless pattern background for textile fabric design, wrapping paper and website wallpapers. Vector vivid illustration" [ref=f101e249]
+                  - link [ref=f101e250] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fretro-vintage-80s-or-90s-style-abstract-seamless-pattern-background-for-textile-fabric-design-wrapping-paper-and-website-wallpapers-vector-vivid-illustration-BrTcYWBHarw
+              - figure [ref=f101e253]:
+                - generic [ref=f101e255]:
+                  - link [ref=f101e256]:
+                    - /url: /illustrations/a-green-background-with-a-bunch-of-colorful-objects-QaKKUxXtvko
+                    - img "A green background with a bunch of colorful objects" [ref=f101e257]
+                  - link [ref=f101e258] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-green-background-with-a-bunch-of-colorful-objects-QaKKUxXtvko
+              - figure [ref=f101e261]:
+                - generic [ref=f101e263]:
+                  - link [ref=f101e264]:
+                    - /url: /illustrations/animated-telephones-dance-on-a-pink-background-EtzbQ9xsn3w
+                    - img "Animated telephones dance on a pink background." [ref=f101e265]
+                  - link [ref=f101e266] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fanimated-telephones-dance-on-a-pink-background-EtzbQ9xsn3w
+            - generic [ref=f101e269]:
+              - figure [ref=f101e270]:
+                - generic [ref=f101e272]:
+                  - link [ref=f101e273]:
+                    - /url: /illustrations/seamless-pattern-with-old-computer-windows-clouds-smiling-emoji-and-computer-arrow-trendy-vector-background-in-retrowave-y2k-90s-00s-style-23ZX_irwG_w
+                    - img "Seamless pattern with old computer windows, clouds, smiling emoji and computer arrow. Trendy Vector background in retrowave, y2k, 90s, 00s style" [ref=f101e274]
+                  - link [ref=f101e275] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fseamless-pattern-with-old-computer-windows-clouds-smiling-emoji-and-computer-arrow-trendy-vector-background-in-retrowave-y2k-90s-00s-style-23ZX_irwG_w
+              - figure [ref=f101e278]:
+                - generic [ref=f101e280]:
+                  - link [ref=f101e281]:
+                    - /url: /illustrations/playing-an-arcade-game-with-retro-elements-7fi16yD1I-s
+                    - img "Playing an arcade game with retro elements." [ref=f101e282]
+                  - link [ref=f101e283] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fplaying-an-arcade-game-with-retro-elements-7fi16yD1I-s
+              - figure [ref=f101e286]:
+                - generic [ref=f101e288]:
+                  - link [ref=f101e289]:
+                    - /url: /illustrations/dancing-boomboxes-and-cassettes-celebrate-disco-UMGSkN9qCtg
+                    - img "Dancing boomboxes and cassettes celebrate disco!" [ref=f101e290]
+                  - link [ref=f101e291] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fdancing-boomboxes-and-cassettes-celebrate-disco-UMGSkN9qCtg
+              - figure [ref=f101e294]:
+                - generic [ref=f101e296]:
+                  - link [ref=f101e297]:
+                    - /url: /illustrations/retro-electronic-devices-including-camera-video-camera-and-game-console-DBBsN9MS1xo
+                    - img "Retro electronic devices including camera, video camera, and game console" [ref=f101e298]
+                  - link [ref=f101e299] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fretro-electronic-devices-including-camera-video-camera-and-game-console-DBBsN9MS1xo
+              - figure [ref=f101e302]:
+                - generic [ref=f101e304]:
+                  - link [ref=f101e305]:
+                    - /url: /illustrations/a-picture-of-a-boombox-and-a-record-player-csLQMBzidPE
+                    - img "A picture of a boombox and a record player" [ref=f101e306]
+                  - link [ref=f101e307] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-picture-of-a-boombox-and-a-record-player-csLQMBzidPE
+              - figure [ref=f101e310]:
+                - generic [ref=f101e312]:
+                  - link [ref=f101e313]:
+                    - /url: /illustrations/a-pink-wallpaper-with-a-boombox-and-flowers-qFEggg1tGBg
+                    - img "A pink wallpaper with a boombox and flowers" [ref=f101e314]
+                  - link [ref=f101e315] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-pink-wallpaper-with-a-boombox-and-flowers-qFEggg1tGBg
+    - generic:
+      - region "Notifications"

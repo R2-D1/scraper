@@ -1,0 +1,63 @@
+{
+  "slug": "task-list-qe3p",
+  "mediaKey": "7c8c7296-43d7-498c-b57d-2f1ba8468bb1",
+  "providerId": "5f182bdd2e1fb4001764a384",
+  "i18n": {
+    "name": {
+      "en": "Task list",
+      "uk": "Список завдань"
+    },
+    "alt": {
+      "en": "Task list",
+      "uk": "Список завдань"
+    },
+    "tags": [
+      {
+        "key": "task-list",
+        "i18n": {
+          "en": "Task list",
+          "uk": "Список завдань"
+        }
+      },
+      {
+        "key": "task",
+        "i18n": {
+          "en": "task",
+          "uk": "завдання"
+        }
+      },
+      {
+        "key": "list",
+        "i18n": {
+          "en": "list",
+          "uk": "список"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/task-list_qe3p.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 699,
+  "height": 387
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "doll-play-e471",
+  "mediaKey": "389a61f8-98c7-4ce7-a891-ff7403032ec2",
+  "providerId": "5c3f6e2a6c3e5900146dffb8",
+  "i18n": {
+    "name": {
+      "en": "Doll play",
+      "uk": "Ігри з ляльками"
+    },
+    "alt": {
+      "en": "Doll play",
+      "uk": "Ігри з ляльками"
+    },
+    "tags": [
+      {
+        "key": "doll-play",
+        "i18n": {
+          "en": "Doll play",
+          "uk": "Ігри з ляльками"
+        }
+      },
+      {
+        "key": "doll",
+        "i18n": {
+          "en": "doll",
+          "uk": "лялька"
+        }
+      },
+      {
+        "key": "play",
+        "i18n": {
+          "en": "play",
+          "uk": "грати"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/doll-play_e471.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 437
+}

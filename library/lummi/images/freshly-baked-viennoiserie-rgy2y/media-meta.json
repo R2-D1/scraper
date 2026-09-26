@@ -1,0 +1,91 @@
+{
+  "slug": "freshly-baked-viennoiserie-rgy2y",
+  "mediaKey": "99919c91-f186-4e74-b940-b87a8c04dea6",
+  "i18n": {
+    "name": {
+      "en": "Freshly Baked Viennoiserie",
+      "uk": "Свіжоспечена віденська випічка"
+    },
+    "alt": {
+      "en": "Freshly Baked Viennoiserie",
+      "uk": "Свіжоспечена віденська випічка"
+    },
+    "tags": [
+      {
+        "key": "gourmet",
+        "i18n": {
+          "en": "Gourmet",
+          "uk": "Гурман"
+        }
+      },
+      {
+        "key": "pastry",
+        "i18n": {
+          "en": "Pastry",
+          "uk": "Кондитерські вироби"
+        }
+      },
+      {
+        "key": "golden-brown",
+        "i18n": {
+          "en": "Golden brown",
+          "uk": "Золотисто-коричневий"
+        }
+      },
+      {
+        "key": "glazed",
+        "i18n": {
+          "en": "glazed",
+          "uk": "засклений"
+        }
+      },
+      {
+        "key": "viennoiserie",
+        "i18n": {
+          "en": "viennoiserie",
+          "uk": "віенська випічка"
+        }
+      },
+      {
+        "key": "still-life",
+        "i18n": {
+          "en": "Still Life",
+          "uk": "Натюрморт"
+        }
+      },
+      {
+        "key": "food-and-drink",
+        "i18n": {
+          "en": "Food and Drink",
+          "uk": "Їжа та напої"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/freshly-baked-viennoiserie-rgy2y",
+  "sourceName": "Lummi",
+  "authorName": "Mariana Pedroza",
+  "authorUrl": "https://www.lummi.ai/creator/mariana?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A golden-brown pastry sits prominently against a warm, neutral background. The pastry is round and features multiple layers of flaky, buttery dough, giving it a rich, textured appearance. Lightly dusted with powdered sugar, the pastry's surface glistens, highlighting its crispiness. The layers are well-defined, showcasing the skillful lamination typical of a well-made puff pastry. The warm tones of the pastry contrast subtly with the background, making it the focal point of the image.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2048,
+  "height": 2048,
+  "mimeType": "image/webp"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-23070435",
+  "mediaKey": "pexels:23070435",
+  "i18n": {
+    "name": {
+      "en": "Blue sports car in a dark city",
+      "uk": "Синій спортивний автомобіль у темному місті"
+    },
+    "alt": {
+      "en": "Close-up of a blue Nissan Skyline R34 GT-R showcasing a prominent spoiler, indoors.",
+      "uk": "Крупний план синього Nissan Skyline R34 GT-R з виразним спойлером, знятий у приміщенні."
+    },
+    "tags": [
+      {
+        "key": "sports-car",
+        "i18n": {
+          "en": "sports car",
+          "uk": "спортивний автомобіль"
+        }
+      },
+      {
+        "key": "blue-car",
+        "i18n": {
+          "en": "blue car",
+          "uk": "синій автомобіль"
+        }
+      },
+      {
+        "key": "automotive",
+        "i18n": {
+          "en": "automotive",
+          "uk": "автомобільний"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "vehicles"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-blue-nissan-skyline-r34-gt-r-23070435/",
+  "sourceName": "Pexels",
+  "authorName": "Maxence Ambert",
+  "authorUrl": "https://www.pexels.com/@maxou",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

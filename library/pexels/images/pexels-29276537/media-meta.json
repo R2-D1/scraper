@@ -1,0 +1,83 @@
+{
+  "slug": "pexels-29276537",
+  "mediaKey": "pexels:29276537",
+  "i18n": {
+    "name": {
+      "en": "Racing car speeding around a track",
+      "uk": "Гоночний автомобіль, що мчить по трасі"
+    },
+    "alt": {
+      "en": "Ferrari Formula 1 car navigating a wet curve at Interlagos race track in Brazil.",
+      "uk": "Болід «Феррарі» Формули-1 проходить мокрий поворот на гоночній трасі «Інтерлагос» у Бразилії."
+    },
+    "tags": [
+      {
+        "key": "race-car",
+        "i18n": {
+          "en": "race car",
+          "uk": "гоночний автомобіль"
+        }
+      },
+      {
+        "key": "motorsport",
+        "i18n": {
+          "en": "motorsport",
+          "uk": "мотоспорт"
+        }
+      },
+      {
+        "key": "racetrack",
+        "i18n": {
+          "en": "racetrack",
+          "uk": "гоночна траса"
+        }
+      },
+      {
+        "key": "speed",
+        "i18n": {
+          "en": "speed",
+          "uk": "швидкість"
+        }
+      },
+      {
+        "key": "automobile",
+        "i18n": {
+          "en": "automobile",
+          "uk": "автомобіль"
+        }
+      },
+      {
+        "key": "racing",
+        "i18n": {
+          "en": "racing",
+          "uk": "перегони"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "vehicles",
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/ferrari-formula-1-car-racing-on-wet-track-29276537/",
+  "sourceName": "Pexels",
+  "authorName": "Jonathan Borba",
+  "authorUrl": "https://www.pexels.com/@jonathanborba",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3598
+}

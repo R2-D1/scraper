@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-31622949",
+  "mediaKey": "pexels:31622949",
+  "i18n": {
+    "name": {
+      "en": "Orange and white ribbed sculptural loop",
+      "uk": "Помаранчево-біла ребриста скульптурна петля"
+    },
+    "alt": {
+      "en": "Abstract orange glass-like sculpture with gradient background.",
+      "uk": "Абстрактна скульптура з помаранчевого матеріалу, схожого на скло, на фоні з градієнтом."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "sculpture",
+        "i18n": {
+          "en": "sculpture",
+          "uk": "скульптура"
+        }
+      },
+      {
+        "key": "loop",
+        "i18n": {
+          "en": "loop",
+          "uk": "петля"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "white",
+        "i18n": {
+          "en": "white",
+          "uk": "білий"
+        }
+      },
+      {
+        "key": "ribbed",
+        "i18n": {
+          "en": "ribbed",
+          "uk": "ребристий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/abstract-orange-glass-sculpture-on-gradient-31622949/",
+  "sourceName": "Pexels",
+  "authorName": "Mahmoud Ramadan",
+  "authorUrl": "https://www.pexels.com/@mahmoudramadan",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

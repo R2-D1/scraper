@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-15432098",
+  "mediaKey": "pexels:video:15432098",
+  "i18n": {
+    "name": {
+      "en": "Soft Purple Fluid Clouds",
+      "uk": "М'які фіолетові хмари, що пливуть"
+    },
+    "alt": {
+      "en": "Pexels video 15432098",
+      "uk": "Відео з Pexels № 15432098"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "white",
+        "i18n": {
+          "en": "white",
+          "uk": "білий"
+        }
+      },
+      {
+        "key": "fluid",
+        "i18n": {
+          "en": "fluid",
+          "uk": "рідина"
+        }
+      },
+      {
+        "key": "clouds",
+        "i18n": {
+          "en": "clouds",
+          "uk": "хмари"
+        }
+      },
+      {
+        "key": "soft",
+        "i18n": {
+          "en": "soft",
+          "uk": "м'який"
+        }
+      },
+      {
+        "key": "ink",
+        "i18n": {
+          "en": "ink",
+          "uk": "чорнило"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/blue-ink-mixing-with-water-in-slow-motion-15432098/",
+  "sourceName": "Pexels",
+  "authorName": "Dan Cristian Pădureț",
+  "authorUrl": "https://www.pexels.com/@paduret",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 23,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

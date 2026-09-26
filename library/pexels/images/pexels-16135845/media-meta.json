@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-16135845",
+  "mediaKey": "pexels:16135845",
+  "i18n": {
+    "name": {
+      "en": "Woman seated in a dark studio",
+      "uk": "Жінка сидить у темній студії"
+    },
+    "alt": {
+      "en": "Stylish woman in streetwear posing in an urban tunnel with dynamic lighting.",
+      "uk": "Стильна жінка в одязі у стилі стрітвір, яка позує в міському тунелі з динамічним освітленням."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "black-dress",
+        "i18n": {
+          "en": "black dress",
+          "uk": "чорна сукня"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/curly-haired-woman-in-white-sneakers-16135845/",
+  "sourceName": "Pexels",
+  "authorName": "Lucas Brown",
+  "authorUrl": "https://www.pexels.com/@lucas-brown-368306455",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

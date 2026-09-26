@@ -1,0 +1,90 @@
+{
+  "slug": "marketing-viral",
+  "mediaKey": "7adac774-5155-4cee-afec-45d4a83c7cba",
+  "i18n": {
+    "name": {
+      "en": "Viral Content",
+      "uk": "Вірусний контент"
+    },
+    "alt": {
+      "en": "Viral Content",
+      "uk": "Вірусний контент"
+    },
+    "tags": [
+      {
+        "key": "marketing",
+        "i18n": {
+          "en": "marketing",
+          "uk": "маркетинг"
+        }
+      },
+      {
+        "key": "viral",
+        "i18n": {
+          "en": "viral",
+          "uk": "вірусний"
+        }
+      },
+      {
+        "key": "content",
+        "i18n": {
+          "en": "content",
+          "uk": "вміст"
+        }
+      },
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      },
+      {
+        "key": "nodes",
+        "i18n": {
+          "en": "nodes",
+          "uk": "вузли"
+        }
+      },
+      {
+        "key": "connections",
+        "i18n": {
+          "en": "connections",
+          "uk": "з'єднання"
+        }
+      },
+      {
+        "key": "share",
+        "i18n": {
+          "en": "share",
+          "uk": "частка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/marketing-viral",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

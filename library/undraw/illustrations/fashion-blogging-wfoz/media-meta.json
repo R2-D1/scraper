@@ -1,0 +1,63 @@
+{
+  "slug": "fashion-blogging-wfoz",
+  "mediaKey": "90636a0b-245b-4758-a041-4df7b49f28ca",
+  "providerId": "626bce5dbcd8750018f42432",
+  "i18n": {
+    "name": {
+      "en": "Fashion blogging",
+      "uk": "Блоги про моду"
+    },
+    "alt": {
+      "en": "Fashion blogging",
+      "uk": "Блоги про моду"
+    },
+    "tags": [
+      {
+        "key": "fashion-blogging",
+        "i18n": {
+          "en": "Fashion blogging",
+          "uk": "Блоги про моду"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "blogging",
+        "i18n": {
+          "en": "blogging",
+          "uk": "ведення блогу"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/fashion-blogging_wfoz.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 342,
+  "height": 344
+}

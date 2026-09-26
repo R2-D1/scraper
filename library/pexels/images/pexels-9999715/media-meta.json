@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-9999715",
+  "mediaKey": "pexels:9999715",
+  "i18n": {
+    "name": {
+      "en": "Holographic loop on a dark background",
+      "uk": "Голографічна петля на темному тлі"
+    },
+    "alt": {
+      "en": "Digital artwork featuring a metallic infinity loop with a smooth, shiny surface.",
+      "uk": "Цифровий твір мистецтва, що зображує металеву петлю нескінченності з гладенькою, блискучою поверхнею."
+    },
+    "tags": [
+      {
+        "key": "abstract-shape",
+        "i18n": {
+          "en": "abstract shape",
+          "uk": "абстрактна форма"
+        }
+      },
+      {
+        "key": "holographic",
+        "i18n": {
+          "en": "holographic",
+          "uk": "голографічний"
+        }
+      },
+      {
+        "key": "loop",
+        "i18n": {
+          "en": "loop",
+          "uk": "петля"
+        }
+      },
+      {
+        "key": "dark-background",
+        "i18n": {
+          "en": "dark background",
+          "uk": "темний фон"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/infinity-symbol-9999715/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 2400
+}

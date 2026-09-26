@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-29396870",
+  "mediaKey": "pexels:29396870",
+  "i18n": {
+    "name": {
+      "en": "Woman in black clothing against a city backdrop",
+      "uk": "Жінка в чорному одязі на тлі міста"
+    },
+    "alt": {
+      "en": "Low angle view of model posing in urban Atlanta setting under blue sky.",
+      "uk": "Знімок з низького ракурсу, на якому модель позує на тлі міського пейзажу Атланти під блакитним небом."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "model",
+        "i18n": {
+          "en": "model",
+          "uk": "модель"
+        }
+      },
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "urban",
+          "uk": "урбаністичний"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/dynamic-street-fashion-shoot-in-atlanta-29396870/",
+  "sourceName": "Pexels",
+  "authorName": "Sherman Trotz",
+  "authorUrl": "https://www.pexels.com/@shermantrotz",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3200
+}

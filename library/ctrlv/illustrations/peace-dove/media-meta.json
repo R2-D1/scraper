@@ -1,0 +1,69 @@
+{
+  "slug": "peace-dove",
+  "mediaKey": "9bd35f75-2b1a-4e9b-9eaf-a552f8c84378",
+  "i18n": {
+    "name": {
+      "en": "Dove of Peace",
+      "uk": "Голуб миру"
+    },
+    "alt": {
+      "en": "Dove of Peace",
+      "uk": "Голуб миру"
+    },
+    "tags": [
+      {
+        "key": "peace",
+        "i18n": {
+          "en": "peace",
+          "uk": "спокій"
+        }
+      },
+      {
+        "key": "hope",
+        "i18n": {
+          "en": "hope",
+          "uk": "надія"
+        }
+      },
+      {
+        "key": "dove",
+        "i18n": {
+          "en": "dove",
+          "uk": "голуб"
+        }
+      },
+      {
+        "key": "freedom",
+        "i18n": {
+          "en": "freedom",
+          "uk": "свобода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/peace-dove",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

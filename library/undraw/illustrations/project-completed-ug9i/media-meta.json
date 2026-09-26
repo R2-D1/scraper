@@ -1,0 +1,63 @@
+{
+  "slug": "project-completed-ug9i",
+  "mediaKey": "b6c545ee-ecaa-4ce9-ab04-fea6290ecfc7",
+  "providerId": "69962d7e9da8034b4c31bc53",
+  "i18n": {
+    "name": {
+      "en": "Project Completed",
+      "uk": "Проєкт завершено"
+    },
+    "alt": {
+      "en": "Project Completed",
+      "uk": "Проєкт завершено"
+    },
+    "tags": [
+      {
+        "key": "project-completed",
+        "i18n": {
+          "en": "Project Completed",
+          "uk": "Проєкт завершено"
+        }
+      },
+      {
+        "key": "project",
+        "i18n": {
+          "en": "project",
+          "uk": "проєкт"
+        }
+      },
+      {
+        "key": "completed",
+        "i18n": {
+          "en": "completed",
+          "uk": "завершено"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/project-completed_ug9i.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 688
+}

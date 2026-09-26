@@ -1,0 +1,63 @@
+{
+  "slug": "social-friends-mt6k",
+  "mediaKey": "e40ca91e-37b2-4c46-bcca-34fea382c5e6",
+  "providerId": "68a7991a3eb67c266e9deca1",
+  "i18n": {
+    "name": {
+      "en": "Social Friends",
+      "uk": "Соціальні друзі"
+    },
+    "alt": {
+      "en": "Social Friends",
+      "uk": "Соціальні друзі"
+    },
+    "tags": [
+      {
+        "key": "social-friends",
+        "i18n": {
+          "en": "Social Friends",
+          "uk": "Соціальні друзі"
+        }
+      },
+      {
+        "key": "social",
+        "i18n": {
+          "en": "social",
+          "uk": "соціальні"
+        }
+      },
+      {
+        "key": "friends",
+        "i18n": {
+          "en": "friends",
+          "uk": "друзі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/social-friends_mt6k.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 593,
+  "height": 800
+}

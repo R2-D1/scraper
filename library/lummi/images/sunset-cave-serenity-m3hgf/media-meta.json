@@ -1,0 +1,94 @@
+{
+  "slug": "sunset-cave-serenity-m3hgf",
+  "mediaKey": "1db8458b-a406-49d5-97a5-01d319edbacd",
+  "i18n": {
+    "name": {
+      "en": "Sunset Cave Serenity",
+      "uk": "Спокій у печері «Захід сонця»"
+    },
+    "alt": {
+      "en": "Sunset Cave Serenity",
+      "uk": "Спокій у печері «Захід сонця»"
+    },
+    "tags": [
+      {
+        "key": "flowers",
+        "i18n": {
+          "en": "Flowers",
+          "uk": "Квіти"
+        }
+      },
+      {
+        "key": "tranquility",
+        "i18n": {
+          "en": "Tranquility",
+          "uk": "Спокій"
+        }
+      },
+      {
+        "key": "cave",
+        "i18n": {
+          "en": "Cave",
+          "uk": "Печера"
+        }
+      },
+      {
+        "key": "silhouette",
+        "i18n": {
+          "en": "Silhouette",
+          "uk": "Силует"
+        }
+      },
+      {
+        "key": "sunset",
+        "i18n": {
+          "en": "Sunset",
+          "uk": "Захід сонця"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "Nature",
+          "uk": "Природа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Tanzim",
+  "authorUrl": "https://www.lummi.ai/creator/tanzim?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A serene scene depicts a person standing in a cave-like opening, gazing at a vibrant sunset sky. The individual, dressed in light-colored, loose-fitting attire, is silhouetted against the warm hues of the sky, which transitions from deep blue to orange. To the right, a patch of brightly colored flowers, illuminated by soft light, adds a vivid contrast to the darker tones of the rocky surroundings. The composition creates a sense of tranquility and introspection, with the natural elements harmonizing beautifully.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 900,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/sunset-cave-serenity-m3hgf/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/sunset-cave-serenity-m3hgf/sunset-cave-serenity-m3hgf.png",
+  "relativeAssetPath": "library/lummi/images/sunset-cave-serenity-m3hgf/sunset-cave-serenity-m3hgf.png"
+}

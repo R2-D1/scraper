@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-15103775",
+  "mediaKey": "pexels:15103775",
+  "i18n": {
+    "name": {
+      "en": "Glass of red wine on a black background",
+      "uk": "Келих червоного вина на чорному тлі"
+    },
+    "alt": {
+      "en": "Classic wine glass with rich red wine on dark backdrop, perfect for elegant themes.",
+      "uk": "Класичний келих для вина з насиченим червоним вином на темному тлі, що ідеально підходить для елегантних тематичних вечірок."
+    },
+    "tags": [
+      {
+        "key": "red-wine",
+        "i18n": {
+          "en": "red wine",
+          "uk": "червоне вино"
+        }
+      },
+      {
+        "key": "wine-glass",
+        "i18n": {
+          "en": "wine glass",
+          "uk": "винний келих"
+        }
+      },
+      {
+        "key": "beverage",
+        "i18n": {
+          "en": "beverage",
+          "uk": "напій"
+        }
+      },
+      {
+        "key": "dark-background",
+        "i18n": {
+          "en": "dark background",
+          "uk": "темний фон"
+        }
+      },
+      {
+        "key": "minimal",
+        "i18n": {
+          "en": "minimal",
+          "uk": "мінімальний"
+        }
+      },
+      {
+        "key": "drink",
+        "i18n": {
+          "en": "drink",
+          "uk": "напій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "food-drink"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/photo-of-an-alcoholic-drink-in-a-glass-15103775/",
+  "sourceName": "Pexels",
+  "authorName": "Skyler Ewing",
+  "authorUrl": "https://www.pexels.com/@skyler-ewing-266953",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

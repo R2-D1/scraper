@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-16270749",
+  "mediaKey": "pexels:16270749",
+  "i18n": {
+    "name": {
+      "en": "Woman posing in white swimwear",
+      "uk": "Жінка позує у білому купальнику"
+    },
+    "alt": {
+      "en": "Model in white bodysuit and blue balaclava posing in a studio setting.",
+      "uk": "Модель у білому боді та синій балаклаві позує у студійній обстановці."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "swimwear",
+        "i18n": {
+          "en": "swimwear",
+          "uk": "купальний одяг"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/attractive-model-in-white-bodysuit-and-blue-balaclava-16270749/",
+  "sourceName": "Pexels",
+  "authorName": "Lucas Brown",
+  "authorUrl": "https://www.pexels.com/@lucas-brown-368306455",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

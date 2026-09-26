@@ -1,0 +1,49 @@
+{
+  "slug": "confirm-rds7",
+  "mediaKey": "81272455-8fb9-432b-9293-5d18d8cb95a4",
+  "providerId": "5f0d89592dc6590017f7047a",
+  "i18n": {
+    "name": {
+      "en": "Confirm",
+      "uk": "Підтвердити"
+    },
+    "alt": {
+      "en": "Confirm",
+      "uk": "Підтвердити"
+    },
+    "tags": [
+      {
+        "key": "confirm",
+        "i18n": {
+          "en": "Confirm",
+          "uk": "Підтвердити"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/confirm_rds7.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 761,
+  "height": 515
+}

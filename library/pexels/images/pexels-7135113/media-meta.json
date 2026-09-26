@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-7135113",
+  "mediaKey": "pexels:7135113",
+  "i18n": {
+    "name": {
+      "en": "Bright rainbow gradient",
+      "uk": "Насичений райдужний градієнт"
+    },
+    "alt": {
+      "en": "Bright multicolor gradient featuring smooth transitions, ideal for a bold and vibrant background.",
+      "uk": "Яскравий різнокольоровий градієнт із плавними переходами, ідеальний для створення виразного та яскравого фону."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "vibrant",
+        "i18n": {
+          "en": "vibrant",
+          "uk": "яскравий"
+        }
+      },
+      {
+        "key": "rainbow",
+        "i18n": {
+          "en": "rainbow",
+          "uk": "веселка"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-gradient-wallpaper-7135113/",
+  "sourceName": "Pexels",
+  "authorName": "Codioful (formerly Gradienta)",
+  "authorUrl": "https://www.pexels.com/@codioful",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

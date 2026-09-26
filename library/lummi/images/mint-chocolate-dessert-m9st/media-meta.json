@@ -1,0 +1,91 @@
+{
+  "slug": "mint-chocolate-dessert-m9st",
+  "mediaKey": "e648c8c9-3fa0-4ad2-bf36-edb8b852b80c",
+  "i18n": {
+    "name": {
+      "en": "Mint Chocolate Dessert",
+      "uk": "Десерт із м'ятним шоколадом"
+    },
+    "alt": {
+      "en": "Mint Chocolate Dessert",
+      "uk": "Десерт із м'ятним шоколадом"
+    },
+    "tags": [
+      {
+        "key": "ice-cream",
+        "i18n": {
+          "en": "ice cream",
+          "uk": "морозиво"
+        }
+      },
+      {
+        "key": "marble-surface",
+        "i18n": {
+          "en": "marble surface",
+          "uk": "мармурова поверхня"
+        }
+      },
+      {
+        "key": "mint-chocolate-chip",
+        "i18n": {
+          "en": "mint chocolate chip",
+          "uk": "м'ятний шоколад з шоколадними крихтами"
+        }
+      },
+      {
+        "key": "dessert-bowl",
+        "i18n": {
+          "en": "dessert bowl",
+          "uk": "чаша для десерту"
+        }
+      },
+      {
+        "key": "gold-spoon",
+        "i18n": {
+          "en": "gold spoon",
+          "uk": "золота ложка"
+        }
+      },
+      {
+        "key": "still-life",
+        "i18n": {
+          "en": "Still Life",
+          "uk": "Натюрморт"
+        }
+      },
+      {
+        "key": "food-and-drink",
+        "i18n": {
+          "en": "Food and Drink",
+          "uk": "Їжа та напої"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/mint-chocolate-dessert-m9st",
+  "sourceName": "Lummi",
+  "authorName": "Shaun Duval",
+  "authorUrl": "https://www.lummi.ai/creator/shaunduval?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A close-up of a glass dessert bowl filled with two scoops of mint chocolate chip ice cream. The ice cream is pale green with visible chunks of dark chocolate scattered throughout. A gold spoon with intricate detailing is placed in the bowl, adding a touch of elegance. The bowl sits on a smooth, white marble surface, and the background is softly lit with neutral tones, emphasizing the creamy texture and vibrant colors of the dessert.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1856,
+  "height": 2464,
+  "mimeType": "image/webp"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "services-dhxj",
+  "mediaKey": "7a761043-131b-40c6-8a75-2361b935f091",
+  "providerId": "623467b530d0a00018d65cdd",
+  "i18n": {
+    "name": {
+      "en": "Services",
+      "uk": "Послуги"
+    },
+    "alt": {
+      "en": "Services",
+      "uk": "Послуги"
+    },
+    "tags": [
+      {
+        "key": "services",
+        "i18n": {
+          "en": "Services",
+          "uk": "Послуги"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/services_dhxj.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 776,
+  "height": 538
+}

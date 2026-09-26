@@ -1,0 +1,63 @@
+{
+  "slug": "events-calendar-sudy",
+  "mediaKey": "01ff61d0-d578-4e16-a88b-39824855b925",
+  "providerId": "682b81589e6b85d5407cf6c4",
+  "i18n": {
+    "name": {
+      "en": "Events Calendar",
+      "uk": "Календар подій"
+    },
+    "alt": {
+      "en": "Events Calendar",
+      "uk": "Календар подій"
+    },
+    "tags": [
+      {
+        "key": "events-calendar",
+        "i18n": {
+          "en": "Events Calendar",
+          "uk": "Календар подій"
+        }
+      },
+      {
+        "key": "events",
+        "i18n": {
+          "en": "events",
+          "uk": "події"
+        }
+      },
+      {
+        "key": "calendar",
+        "i18n": {
+          "en": "calendar",
+          "uk": "календар"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/events-calendar_sudy.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 668
+}

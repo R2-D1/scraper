@@ -1,0 +1,63 @@
+{
+  "slug": "online-transactions-zip5",
+  "mediaKey": "18bac4bd-e9d0-40e1-9db3-deb1251b6305",
+  "providerId": "6a7a561f939aab611cf25c8d",
+  "i18n": {
+    "name": {
+      "en": "Online Transactions",
+      "uk": "Онлайн-транзакції"
+    },
+    "alt": {
+      "en": "Online Transactions",
+      "uk": "Онлайн-транзакції"
+    },
+    "tags": [
+      {
+        "key": "online-transactions",
+        "i18n": {
+          "en": "Online Transactions",
+          "uk": "Онлайн-транзакції"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "transactions",
+        "i18n": {
+          "en": "transactions",
+          "uk": "транзакції"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/online-transactions_zip5.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 493
+}

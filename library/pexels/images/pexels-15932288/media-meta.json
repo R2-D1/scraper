@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-15932288",
+  "mediaKey": "pexels:15932288",
+  "i18n": {
+    "name": {
+      "en": "Person standing in a dark blue scene",
+      "uk": "Людина в темно-синій сцені"
+    },
+    "alt": {
+      "en": "Artistic silhouette of a man at twilight with blurred motion against a dark sky.",
+      "uk": "Художній силует чоловіка в сутінках, що розмито рухається на тлі темного неба."
+    },
+    "tags": [
+      {
+        "key": "person",
+        "i18n": {
+          "en": "person",
+          "uk": "людина"
+        }
+      },
+      {
+        "key": "silhouette",
+        "i18n": {
+          "en": "silhouette",
+          "uk": "силует"
+        }
+      },
+      {
+        "key": "blue-light",
+        "i18n": {
+          "en": "blue light",
+          "uk": "синє світло"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/blurry-picture-of-a-man-against-a-clear-sky-at-dusk-15932288/",
+  "sourceName": "Pexels",
+  "authorName": "Ahmed Sadeq",
+  "authorUrl": "https://www.pexels.com/@ahmed-sadeq-453709971",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1604
+}

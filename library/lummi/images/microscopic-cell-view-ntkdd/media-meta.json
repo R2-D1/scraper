@@ -1,0 +1,91 @@
+{
+  "slug": "microscopic-cell-view-ntkdd",
+  "mediaKey": "b38ddf95-5f35-40b7-a8e6-0aa208b0f127",
+  "i18n": {
+    "name": {
+      "en": "Microscopic Cell View",
+      "uk": "Мікроскопічний вид клітини"
+    },
+    "alt": {
+      "en": "Microscopic Cell View",
+      "uk": "Мікроскопічний вид клітини"
+    },
+    "tags": [
+      {
+        "key": "cells",
+        "i18n": {
+          "en": "cells",
+          "uk": "клітинки"
+        }
+      },
+      {
+        "key": "microscopic-view",
+        "i18n": {
+          "en": "microscopic view",
+          "uk": "мікроскопічний вигляд"
+        }
+      },
+      {
+        "key": "cellular-structures",
+        "i18n": {
+          "en": "cellular structures",
+          "uk": "клітинні структури"
+        }
+      },
+      {
+        "key": "cytoskeleton",
+        "i18n": {
+          "en": "cytoskeleton",
+          "uk": "цитоскелет"
+        }
+      },
+      {
+        "key": "organelles",
+        "i18n": {
+          "en": "organelles",
+          "uk": "органели"
+        }
+      },
+      {
+        "key": "medical",
+        "i18n": {
+          "en": "Medical",
+          "uk": "Медицина"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/microscopic-cell-view-ntkdd",
+  "sourceName": "Lummi",
+  "authorName": "Umut Hasanoglu",
+  "authorUrl": "https://www.lummi.ai/creator/umuthasanoglu?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "This image is a microscopic view of cells, showcasing their intricate structures. The cells are spherical, with glowing orange nuclei at their centers, surrounded by a web-like blue cytoskeleton. The background is dark, enhancing the vibrant colors of the cells. Small red and purple spots are scattered within the cells, possibly representing organelles or other cellular components. The image highlights the complexity and beauty of cellular structures, with a focus on the interplay of colors and textures.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1345,
+  "mimeType": "image/webp"
+}

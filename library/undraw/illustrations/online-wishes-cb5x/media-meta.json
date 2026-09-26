@@ -1,0 +1,63 @@
+{
+  "slug": "online-wishes-cb5x",
+  "mediaKey": "4b51b7ae-09e6-4eb2-bfdb-6bfada5bb4f4",
+  "providerId": "69a7697bfe424198c23fdeaf",
+  "i18n": {
+    "name": {
+      "en": "Online Wishes",
+      "uk": "Онлайн-побажання"
+    },
+    "alt": {
+      "en": "Online Wishes",
+      "uk": "Онлайн-побажання"
+    },
+    "tags": [
+      {
+        "key": "online-wishes",
+        "i18n": {
+          "en": "Online Wishes",
+          "uk": "Онлайн-побажання"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "wishes",
+        "i18n": {
+          "en": "wishes",
+          "uk": "побажання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/online-wishes_cb5x.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 711
+}

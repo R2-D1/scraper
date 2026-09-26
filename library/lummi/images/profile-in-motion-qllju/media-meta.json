@@ -1,0 +1,91 @@
+{
+  "slug": "profile-in-motion-qllju",
+  "mediaKey": "62b4f412-847e-494b-bb10-27379ab50c69",
+  "i18n": {
+    "name": {
+      "en": "Profile in Motion",
+      "uk": "Профіль у русі"
+    },
+    "alt": {
+      "en": "Profile in Motion",
+      "uk": "Профіль у русі"
+    },
+    "tags": [
+      {
+        "key": "motion",
+        "i18n": {
+          "en": "Motion",
+          "uk": "Рух"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "profile",
+        "i18n": {
+          "en": "Profile",
+          "uk": "Профіль"
+        }
+      },
+      {
+        "key": "red-background",
+        "i18n": {
+          "en": "red background",
+          "uk": "червоний фон"
+        }
+      },
+      {
+        "key": "dramatic-lighting",
+        "i18n": {
+          "en": "dramatic lighting",
+          "uk": "драматичне освітлення"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/profile-in-motion-qllju",
+  "sourceName": "Lummi",
+  "authorName": "Sanna Granqvist",
+  "authorUrl": "https://www.lummi.ai/creator/granqvistsanna-xh1cz?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A profile view of a person with dark skin, short hair, and wearing a dark outfit, set against a vibrant red background. The lighting highlights the contours of their face and shoulders, creating a dramatic contrast with the background. The subject appears to be in motion, with a blurred effect on their arm, suggesting movement. The composition emphasizes the subject's profile and the interplay of light and shadow.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1696,
+  "height": 960,
+  "mimeType": "image/webp"
+}

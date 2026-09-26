@@ -1,0 +1,61 @@
+{
+  "slug": "field-of-daisies-in-a-lush-green-meadow-sftoaq6m8y",
+  "mediaKey": "25806e34-d334-4164-b548-b449b83f7e6c",
+  "i18n": {
+    "name": {
+      "en": "Field of daisies in a lush, green meadow",
+      "uk": "Поле маргариток на пишній зеленій галявині"
+    },
+    "alt": {
+      "en": "Field of daisies in a lush, green meadow",
+      "uk": "Поле маргариток на пишній зеленій галявині"
+    },
+    "tags": [
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "digital-image",
+        "i18n": {
+          "en": "digital image",
+          "uk": "цифрове зображення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/field-of-daisies-in-a-lush-green-meadow--sftOAq6m8Y",
+  "sourceName": "Unsplash",
+  "authorName": "Shubham Dhage",
+  "authorUrl": "https://unsplash.com/@theshubhamdhage",
+  "description": "Software: Blender. Post-Production: Affinity Photo.",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "pinned": false,
+  "width": 2400,
+  "height": 1350,
+  "collectionSlugs": [
+    "beauty"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "business-plan",
+  "mediaKey": "69c5f298-41b2-47cc-a459-cabec9fa0c7c",
+  "i18n": {
+    "name": {
+      "en": "Strategy Map",
+      "uk": "Стратегічна карта"
+    },
+    "alt": {
+      "en": "Strategy Map",
+      "uk": "Стратегічна карта"
+    },
+    "tags": [
+      {
+        "key": "strategy",
+        "i18n": {
+          "en": "strategy",
+          "uk": "стратегія"
+        }
+      },
+      {
+        "key": "business-plan",
+        "i18n": {
+          "en": "business plan",
+          "uk": "бізнес-план"
+        }
+      },
+      {
+        "key": "document",
+        "i18n": {
+          "en": "document",
+          "uk": "документ"
+        }
+      },
+      {
+        "key": "planning",
+        "i18n": {
+          "en": "planning",
+          "uk": "планування"
+        }
+      },
+      {
+        "key": "vision",
+        "i18n": {
+          "en": "vision",
+          "uk": "бачення"
+        }
+      },
+      {
+        "key": "goals",
+        "i18n": {
+          "en": "goals",
+          "uk": "цілі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/business-plan",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

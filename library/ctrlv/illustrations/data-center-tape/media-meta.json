@@ -1,0 +1,83 @@
+{
+  "slug": "data-center-tape",
+  "mediaKey": "470ac6df-7099-497a-8cc3-5820bc09eb39",
+  "i18n": {
+    "name": {
+      "en": "Tape Archive",
+      "uk": "Архів записів"
+    },
+    "alt": {
+      "en": "Tape Archive",
+      "uk": "Архів записів"
+    },
+    "tags": [
+      {
+        "key": "tape",
+        "i18n": {
+          "en": "tape",
+          "uk": "стрічка"
+        }
+      },
+      {
+        "key": "archive",
+        "i18n": {
+          "en": "archive",
+          "uk": "архів"
+        }
+      },
+      {
+        "key": "backup",
+        "i18n": {
+          "en": "backup",
+          "uk": "резервне копіювання"
+        }
+      },
+      {
+        "key": "reels",
+        "i18n": {
+          "en": "reels",
+          "uk": "короткі відео"
+        }
+      },
+      {
+        "key": "storage",
+        "i18n": {
+          "en": "storage",
+          "uk": "сховище"
+        }
+      },
+      {
+        "key": "long-term",
+        "i18n": {
+          "en": "long-term",
+          "uk": "довгостроковий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/data-center-tape",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

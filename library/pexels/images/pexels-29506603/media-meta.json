@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-29506603",
+  "mediaKey": "pexels:29506603",
+  "i18n": {
+    "name": {
+      "en": "Glowing capsule between dark geometric shapes",
+      "uk": "Світиться капсула серед темних геометричних фігур"
+    },
+    "alt": {
+      "en": "A vibrant digital abstract render featuring multi-faceted crystal shapes.",
+      "uk": "Яскравий цифровий абстрактний рендер із багатогранними кристалічними фігурами."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "capsule",
+        "i18n": {
+          "en": "capsule",
+          "uk": "капсула"
+        }
+      },
+      {
+        "key": "glowing",
+        "i18n": {
+          "en": "glowing",
+          "uk": "світіння"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/futuristic-abstract-3d-crystal-illustration-29506603/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

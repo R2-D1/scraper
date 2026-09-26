@@ -1,0 +1,49 @@
+{
+  "slug": "taken-mshk",
+  "mediaKey": "5b61fcae-d915-4e49-aeaf-d33d24aa12dd",
+  "providerId": "5f915fa3d904f80017e0c1ca",
+  "i18n": {
+    "name": {
+      "en": "Taken",
+      "uk": "Знято"
+    },
+    "alt": {
+      "en": "Taken",
+      "uk": "Знято"
+    },
+    "tags": [
+      {
+        "key": "taken",
+        "i18n": {
+          "en": "Taken",
+          "uk": "Знято"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/taken_mshk.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 673,
+  "height": 738
+}

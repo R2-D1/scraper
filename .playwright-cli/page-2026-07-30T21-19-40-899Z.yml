@@ -1,0 +1,270 @@
+- generic [ref=f59e4]:
+  - navigation [ref=f59e5]:
+    - generic [ref=f59e6]:
+      - generic [ref=f59e7]:
+        - link "Unsplash Home" [ref=f59e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f59e9]
+        - link "Photos" [ref=f59e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f59e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f59e17]:
+        - button "Explore" [ref=f59e18] [cursor=pointer]
+        - button "Collections" [ref=f59e21] [cursor=pointer]
+        - button "Download History" [ref=f59e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f59e28] [cursor=pointer]
+    - generic [ref=f59e31]:
+      - link "Log in / Sign up" [ref=f59e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fcamping-forest-tent-river-campfire-ZrceSK_l6fE
+      - button "Language" [ref=f59e35] [cursor=pointer]
+      - button "Menu" [ref=f59e38] [cursor=pointer]
+  - generic [ref=f59e41]:
+    - generic [ref=f59e42]:
+      - navigation [ref=f59e43]:
+        - search "Find visuals sitewide" [ref=f59e45]:
+          - button "Search Unsplash" [ref=f59e46] [cursor=pointer]
+          - combobox [ref=f59e49]:
+            - searchbox "Search Unsplash" [ref=f59e50]
+            - listbox
+          - button "Visual search" [ref=f59e52] [cursor=pointer]
+        - generic [ref=f59e55]:
+          - link "Get Unsplash+" [ref=f59e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f59e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fcamping-forest-tent-river-campfire-ZrceSK_l6fE
+        - button "Submit an image" [ref=f59e59] [cursor=pointer]
+      - generic [ref=f59e60]:
+        - generic [ref=f59e61]:
+          - banner [ref=f59e63]:
+            - generic [ref=f59e65]:
+              - link [ref=f59e66] [cursor=pointer]:
+                - /url: /@gettyimages
+              - generic [ref=f59e69]:
+                - link "Getty Images" [ref=f59e70] [cursor=pointer]:
+                  - /url: /@gettyimages
+                - generic [ref=f59e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f59e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fcamping-forest-tent-river-campfire-ZrceSK_l6fE
+            - generic [ref=f59e73]:
+              - button "Bookmark" [ref=f59e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f59e77] [cursor=pointer]
+              - button "Edit image" [ref=f59e80] [cursor=pointer]
+              - button "Download" [ref=f59e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f59e90]:
+            - img "camping forest tent river campfire" [ref=f59e91]
+          - generic [ref=f59e92]:
+            - generic [ref=f59e94]:
+              - button "Share this image" [ref=f59e95] [cursor=pointer]:
+                - generic [ref=f59e98]: Share
+              - button "More Actions" [ref=f59e99] [cursor=pointer]
+            - generic [ref=f59e103]:
+              - heading "camping forest tent river campfire" [level=1] [ref=f59e105]
+              - paragraph [ref=f59e109]: Download this illustration of forest, summer, mountains, and sun by Getty Images (@gettyimages)
+              - generic [ref=f59e111]:
+                - generic [ref=f59e116]:
+                  - text: Published on
+                  - time [ref=f59e117]: October 19, 2023
+                - generic [ref=f59e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f59e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f59e124]:
+              - link "forest" [ref=f59e125] [cursor=pointer]:
+                - /url: /s/illustrations/forest
+              - link "summer" [ref=f59e126] [cursor=pointer]:
+                - /url: /s/illustrations/summer
+              - link "mountains" [ref=f59e127] [cursor=pointer]:
+                - /url: /s/illustrations/mountains
+              - link "sun" [ref=f59e128] [cursor=pointer]:
+                - /url: /s/illustrations/sun
+              - link "clouds" [ref=f59e129] [cursor=pointer]:
+                - /url: /s/illustrations/clouds
+              - link "illustration" [ref=f59e130] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "cartoon" [ref=f59e131] [cursor=pointer]:
+                - /url: /s/illustrations/cartoon
+              - link "trees" [ref=f59e132] [cursor=pointer]:
+                - /url: /s/illustrations/trees
+              - link "river" [ref=f59e133] [cursor=pointer]:
+                - /url: /s/illustrations/river
+              - link "blue sky" [ref=f59e134] [cursor=pointer]:
+                - /url: /s/illustrations/blue-sky
+              - link "minimalist" [ref=f59e135] [cursor=pointer]:
+                - /url: /s/illustrations/minimalist
+              - link "camping" [ref=f59e136] [cursor=pointer]:
+                - /url: /s/illustrations/camping
+              - link "vector" [ref=f59e137] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "adventure" [ref=f59e138] [cursor=pointer]:
+                - /url: /s/illustrations/adventure
+              - link "vacation" [ref=f59e139] [cursor=pointer]:
+                - /url: /s/illustrations/vacation
+              - link "scenic" [ref=f59e140] [cursor=pointer]:
+                - /url: /s/illustrations/scenic
+              - link "peaceful" [ref=f59e141] [cursor=pointer]:
+                - /url: /s/illustrations/peaceful
+              - link "rocks" [ref=f59e142] [cursor=pointer]:
+                - /url: /s/illustrations/rocks
+              - link "campfire" [ref=f59e143] [cursor=pointer]:
+                - /url: /s/illustrations/campfire
+              - link "relaxation" [ref=f59e144] [cursor=pointer]:
+                - /url: /s/illustrations/relaxation
+        - generic [ref=f59e147]:
+          - generic [ref=f59e148]:
+            - paragraph [ref=f59e150]: From this series
+            - generic [ref=f59e154]:
+              - link [ref=f59e155] [cursor=pointer]:
+                - /url: /plus?referrer=%2Fillustrations%2Fcamping-mountains-tent-nature-sky-W3Szig-wIbE
+              - link [ref=f59e158]:
+                - /url: /illustrations/camping-mountains-tent-nature-sky-W3Szig-wIbE
+                - img "camping mountains tent nature sky" [ref=f59e159]
+          - generic [ref=f59e160]:
+            - heading "Related images" [level=4] [ref=f59e162]
+            - generic [ref=f59e166]:
+              - generic [ref=f59e167]:
+                - figure [ref=f59e168]:
+                  - generic [ref=f59e170]:
+                    - link [ref=f59e171]:
+                      - /url: /illustrations/camping-tent-forest-nature-landscape-EhJ5tHnurcw
+                      - img "camping tent forest nature landscape" [ref=f59e172]
+                    - link [ref=f59e173] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcamping-tent-forest-nature-landscape-EhJ5tHnurcw
+                - figure [ref=f59e176]:
+                  - generic [ref=f59e178]:
+                    - link [ref=f59e179]:
+                      - /url: /illustrations/a-camp-site-with-a-campfire-and-mountains-in-the-background-1kDq0hSgAq4
+                      - img "A camp site with a campfire and mountains in the background" [ref=f59e180]
+                    - link [ref=f59e181] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-camp-site-with-a-campfire-and-mountains-in-the-background-1kDq0hSgAq4
+                - figure [ref=f59e184]:
+                  - generic [ref=f59e186]:
+                    - link [ref=f59e187]:
+                      - /url: /illustrations/a-tent-set-up-in-a-sunny-outdoor-landscape-gzNnH7TcWGM
+                      - img "A tent set up in a sunny outdoor landscape." [ref=f59e188]
+                    - link [ref=f59e189] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-tent-set-up-in-a-sunny-outdoor-landscape-gzNnH7TcWGM
+                - figure [ref=f59e192]:
+                  - generic [ref=f59e194]:
+                    - link [ref=f59e195]:
+                      - /url: /illustrations/a-man-standing-in-front-of-a-tent-in-the-woods-k-YQPvQ6y3k
+                      - img "A man standing in front of a tent in the woods" [ref=f59e196]
+                    - link [ref=f59e197] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-standing-in-front-of-a-tent-in-the-woods-k-YQPvQ6y3k
+                - figure [ref=f59e200]:
+                  - generic [ref=f59e202]:
+                    - link [ref=f59e203]:
+                      - /url: /illustrations/camping-in-nature-landscape-9VPs0e0Yy2Y
+                      - img "Camping in nature landscape" [ref=f59e204]
+                    - link [ref=f59e205] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcamping-in-nature-landscape-9VPs0e0Yy2Y
+                - figure [ref=f59e208]:
+                  - generic [ref=f59e210]:
+                    - link [ref=f59e211]:
+                      - /url: /illustrations/a-campfire-and-a-tent-in-the-woods-Srb2yYz68JU
+                      - img "a campfire and a tent in the woods" [ref=f59e212]
+                    - link [ref=f59e213] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-campfire-and-a-tent-in-the-woods-Srb2yYz68JU
+                - figure [ref=f59e216]:
+                  - generic [ref=f59e218]:
+                    - link [ref=f59e219]:
+                      - /url: /illustrations/camp-in-mountain-valley-vector-design-tee-design-t-shirt-design-SMauczjWZ1k
+                      - img "camp in mountain valley vector design, Tee design, T-Shirt Design" [ref=f59e220]
+                    - link [ref=f59e221] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcamp-in-mountain-valley-vector-design-tee-design-t-shirt-design-SMauczjWZ1k
+              - generic [ref=f59e224]:
+                - figure [ref=f59e225]:
+                  - generic [ref=f59e227]:
+                    - link [ref=f59e228]:
+                      - /url: /illustrations/camping-mountains-tent-nature-sky-W3Szig-wIbE
+                      - img "camping mountains tent nature sky" [ref=f59e229]
+                    - link [ref=f59e230] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcamping-mountains-tent-nature-sky-W3Szig-wIbE
+                - figure [ref=f59e233]:
+                  - generic [ref=f59e235]:
+                    - link [ref=f59e236]:
+                      - /url: /illustrations/a-man-sitting-in-front-of-a-campfire-next-to-a-tent-M-FqGJ_ULaA
+                      - img "A man sitting in front of a campfire next to a tent" [ref=f59e237]
+                    - link [ref=f59e238] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-in-front-of-a-campfire-next-to-a-tent-M-FqGJ_ULaA
+                - figure [ref=f59e241]:
+                  - generic [ref=f59e243]:
+                    - link [ref=f59e244]:
+                      - /url: /illustrations/a-man-sitting-at-a-table-in-front-of-a-tent-8RyCfhSvI8g
+                      - img "A man sitting at a table in front of a tent" [ref=f59e245]
+                    - link [ref=f59e246] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-at-a-table-in-front-of-a-tent-8RyCfhSvI8g
+                - figure [ref=f59e249]:
+                  - generic [ref=f59e251]:
+                    - link [ref=f59e252]:
+                      - /url: /illustrations/camping-tents-mountains-and-winding-forest-path-eHAIpdaUh3c
+                      - img "Camping tents, mountains, and winding forest path" [ref=f59e253]
+                    - link [ref=f59e254] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcamping-tents-mountains-and-winding-forest-path-eHAIpdaUh3c
+                - figure [ref=f59e257]:
+                  - generic [ref=f59e259]:
+                    - link [ref=f59e260]:
+                      - /url: /illustrations/cartoon-campsite-with-tents-campfire-and-logs-_yrM6xipeoM
+                      - img "Cartoon campsite with tents, campfire, and logs" [ref=f59e261]
+                    - link [ref=f59e262] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcartoon-campsite-with-tents-campfire-and-logs-_yrM6xipeoM
+                - figure [ref=f59e265]:
+                  - generic [ref=f59e267]:
+                    - link [ref=f59e268]:
+                      - /url: /illustrations/a-man-sitting-in-front-of-a-campfire-next-to-a-tent-wRyCCDyOLm4
+                      - img "A man sitting in front of a campfire next to a tent" [ref=f59e269]
+                    - link [ref=f59e270] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-in-front-of-a-campfire-next-to-a-tent-wRyCCDyOLm4
+              - generic [ref=f59e273]:
+                - figure [ref=f59e274]:
+                  - generic [ref=f59e276]:
+                    - link [ref=f59e277]:
+                      - /url: /illustrations/cartoon-camping-scene-with-tent-trees-and-mountains-1TMCLfE9cDc
+                      - img "Cartoon camping scene with tent, trees, and mountains" [ref=f59e278]
+                    - link [ref=f59e279] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcartoon-camping-scene-with-tent-trees-and-mountains-1TMCLfE9cDc
+                - figure [ref=f59e282]:
+                  - generic [ref=f59e284]:
+                    - link [ref=f59e285]:
+                      - /url: /illustrations/outdoor-nature-adventure-camping-vector-illustration-cartoon-flat-tourist-camp-with-picnic-spot-and-tent-among-forest-mountain-landscape-on-background-rCYe2MTShO4
+                      - img "Outdoor nature adventure camping vector illustration. Cartoon flat tourist camp with picnic spot and tent among forest, mountain landscape on background" [ref=f59e286]
+                    - link [ref=f59e287] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Foutdoor-nature-adventure-camping-vector-illustration-cartoon-flat-tourist-camp-with-picnic-spot-and-tent-among-forest-mountain-landscape-on-background-rCYe2MTShO4
+                - figure [ref=f59e290]:
+                  - generic [ref=f59e292]:
+                    - link [ref=f59e293]:
+                      - /url: /illustrations/a-campfire-with-a-tent-in-the-background-vOy9nni9U08
+                      - img "A campfire with a tent in the background" [ref=f59e294]
+                    - link [ref=f59e295] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-campfire-with-a-tent-in-the-background-vOy9nni9U08
+                - figure [ref=f59e298]:
+                  - generic [ref=f59e300]:
+                    - link [ref=f59e301]:
+                      - /url: /illustrations/a-man-sitting-in-a-chair-near-a-campfire-3v_wNYCFTiE
+                      - img "A man sitting in a chair near a campfire" [ref=f59e302]
+                    - link [ref=f59e303] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-in-a-chair-near-a-campfire-3v_wNYCFTiE
+                - figure [ref=f59e306]:
+                  - generic [ref=f59e308]:
+                    - link [ref=f59e309]:
+                      - /url: /illustrations/woman-is-playing-the-guitar-sitting-on-the-bench-in-summer-campsite-near-bonfire-and-tent-outdoor-with-natural-landscape-person-is-fond-of-creativity-sings-songs-relaxes-on-vacation-hobby-time-VjiOrGT9ePo
+                      - img "Woman is playing the guitar sitting on the bench in summer campsite near bonfire and tent outdoor with natural landscape. Person is fond of creativity sings songs, relaxes on vacation, hobby time" [ref=f59e310]
+                    - link [ref=f59e311] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fwoman-is-playing-the-guitar-sitting-on-the-bench-in-summer-campsite-near-bonfire-and-tent-outdoor-with-natural-landscape-person-is-fond-of-creativity-sings-songs-relaxes-on-vacation-hobby-time-VjiOrGT9ePo
+                - figure [ref=f59e314]:
+                  - generic [ref=f59e316]:
+                    - link [ref=f59e317]:
+                      - /url: /illustrations/a-green-background-with-a-house-and-trees-Eh4Gr2HARmc
+                      - img "a green background with a house and trees" [ref=f59e318]
+                    - link [ref=f59e319] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-green-background-with-a-house-and-trees-Eh4Gr2HARmc
+                - figure [ref=f59e322]:
+                  - generic [ref=f59e324]:
+                    - link [ref=f59e325]:
+                      - /url: /illustrations/nighttime-campsite-with-colorful-tents-campfire-and-pine-trees-PHfuNx4AX6s
+                      - img "Nighttime campsite with colorful tents, campfire, and pine trees" [ref=f59e326]
+                    - link [ref=f59e327] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fnighttime-campsite-with-colorful-tents-campfire-and-pine-trees-PHfuNx4AX6s
+    - generic:
+      - region "Notifications"

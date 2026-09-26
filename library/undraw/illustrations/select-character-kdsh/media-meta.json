@@ -1,0 +1,63 @@
+{
+  "slug": "select-character-kdsh",
+  "mediaKey": "7cf52652-9179-4861-8ffd-5d535991b3fb",
+  "providerId": "6a27353179740242d59ddb30",
+  "i18n": {
+    "name": {
+      "en": "Select Character",
+      "uk": "Вибрати персонажа"
+    },
+    "alt": {
+      "en": "Select Character",
+      "uk": "Вибрати персонажа"
+    },
+    "tags": [
+      {
+        "key": "select-character",
+        "i18n": {
+          "en": "Select Character",
+          "uk": "Вибрати персонажа"
+        }
+      },
+      {
+        "key": "select",
+        "i18n": {
+          "en": "select",
+          "uk": "вибрати"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/select-character_kdsh.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 681
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "meeting-dunc",
+  "mediaKey": "b17442ea-2f6d-4d94-9839-39b06b974d90",
+  "providerId": "5f8427294f34d0001711bc7b",
+  "i18n": {
+    "name": {
+      "en": "Meeting",
+      "uk": "Зустріч"
+    },
+    "alt": {
+      "en": "Meeting",
+      "uk": "Зустріч"
+    },
+    "tags": [
+      {
+        "key": "meeting",
+        "i18n": {
+          "en": "Meeting",
+          "uk": "Зустріч"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/meeting_dunc.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 788,
+  "height": 453
+}

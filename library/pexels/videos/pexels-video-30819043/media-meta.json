@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-30819043",
+  "mediaKey": "pexels:video:30819043",
+  "i18n": {
+    "name": {
+      "en": "Rotating Red Polygon Sphere",
+      "uk": "Обертовий червоний багатокутний куля"
+    },
+    "alt": {
+      "en": "Pexels video 30819043",
+      "uk": "Відео з Pexels № 30819043"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "sphere",
+        "i18n": {
+          "en": "sphere",
+          "uk": "сфера"
+        }
+      },
+      {
+        "key": "polygon",
+        "i18n": {
+          "en": "polygon",
+          "uk": "багатокутник"
+        }
+      },
+      {
+        "key": "wireframe",
+        "i18n": {
+          "en": "wireframe",
+          "uk": "каркас"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      },
+      {
+        "key": "rotation",
+        "i18n": {
+          "en": "rotation",
+          "uk": "обертання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/30819043/",
+  "sourceName": "Pexels",
+  "authorName": "Maxim Landolfi",
+  "authorUrl": "https://www.pexels.com/@themob000",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 5,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

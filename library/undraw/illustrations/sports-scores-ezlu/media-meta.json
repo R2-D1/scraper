@@ -1,0 +1,63 @@
+{
+  "slug": "sports-scores-ezlu",
+  "mediaKey": "5f4e3ee1-3e72-4ff8-beba-c178fe09f46d",
+  "providerId": "690bd36ce67c94207ecb0ffb",
+  "i18n": {
+    "name": {
+      "en": "Sports Scores",
+      "uk": "Результати спортивних змагань"
+    },
+    "alt": {
+      "en": "Sports Scores",
+      "uk": "Результати спортивних змагань"
+    },
+    "tags": [
+      {
+        "key": "sports-scores",
+        "i18n": {
+          "en": "Sports Scores",
+          "uk": "Результати спортивних змагань"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "sports",
+          "uk": "спорт"
+        }
+      },
+      {
+        "key": "scores",
+        "i18n": {
+          "en": "scores",
+          "uk": "результати"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/sports-scores_ezlu.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 708
+}

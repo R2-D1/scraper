@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-1722882",
+  "mediaKey": "pexels:video:1722882",
+  "i18n": {
+    "name": {
+      "en": "Orange and Black Ink Swirling in Water",
+      "uk": "Помаранчеве та чорне чорнило, що закручується у воді"
+    },
+    "alt": {
+      "en": "Pexels video 1722882",
+      "uk": "Відео з Pexels № 1722882"
+    },
+    "tags": [
+      {
+        "key": "ink",
+        "i18n": {
+          "en": "ink",
+          "uk": "чорнило"
+        }
+      },
+      {
+        "key": "water",
+        "i18n": {
+          "en": "water",
+          "uk": "вода"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "black",
+        "i18n": {
+          "en": "black",
+          "uk": "чорний"
+        }
+      },
+      {
+        "key": "swirl",
+        "i18n": {
+          "en": "swirl",
+          "uk": "вихор"
+        }
+      },
+      {
+        "key": "fluid",
+        "i18n": {
+          "en": "fluid",
+          "uk": "рідина"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/mixture-of-different-colors-of-ink-in-liquid-1722882/",
+  "sourceName": "Pexels",
+  "authorName": "Engin Akyurt",
+  "authorUrl": "https://www.pexels.com/@enginakyurt",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 56,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

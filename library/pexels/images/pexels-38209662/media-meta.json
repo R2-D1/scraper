@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-38209662",
+  "mediaKey": "pexels:38209662",
+  "i18n": {
+    "name": {
+      "en": "Man wearing a cap and white tank top",
+      "uk": "Чоловік у кепці та білій майці"
+    },
+    "alt": {
+      "en": "Person in white tank top with purple cap and thick chains from behind.",
+      "uk": "Людина в білій майці, у фіолетовій кепці та з товстими ланцюгами, ззаду."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "cap",
+        "i18n": {
+          "en": "cap",
+          "uk": "шапка"
+        }
+      },
+      {
+        "key": "white-clothing",
+        "i18n": {
+          "en": "white clothing",
+          "uk": "білий одяг"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/hip-hop-style-with-purple-cap-and-chains-38209662/",
+  "sourceName": "Pexels",
+  "authorName": "Aj Collins  Artistry",
+  "authorUrl": "https://www.pexels.com/@aj-collins-artistry-1772576281",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

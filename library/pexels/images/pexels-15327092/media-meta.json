@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-15327092",
+  "mediaKey": "pexels:15327092",
+  "i18n": {
+    "name": {
+      "en": "Close-up of an eye beside a skincare product",
+      "uk": "Крупний план ока поруч із засобом для догляду"
+    },
+    "alt": {
+      "en": "Close-up of a woman applying skincare mask with product visible, showcasing beauty routine.",
+      "uk": "Крупний план жінки, яка наносить маску для шкіри; на знімку видно сам засіб, що ілюструє її процедуру догляду за шкірою."
+    },
+    "tags": [
+      {
+        "key": "eye",
+        "i18n": {
+          "en": "eye",
+          "uk": "око"
+        }
+      },
+      {
+        "key": "skincare",
+        "i18n": {
+          "en": "skincare",
+          "uk": "догляд за шкірою"
+        }
+      },
+      {
+        "key": "beauty",
+        "i18n": {
+          "en": "beauty",
+          "uk": "краса"
+        }
+      },
+      {
+        "key": "face",
+        "i18n": {
+          "en": "face",
+          "uk": "обличчя"
+        }
+      },
+      {
+        "key": "close-up",
+        "i18n": {
+          "en": "close up",
+          "uk": "крупний план"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "beauty"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/young-woman-with-beauty-product-on-clean-skin-15327092/",
+  "sourceName": "Pexels",
+  "authorName": "Mohammadreza Babaei",
+  "authorUrl": "https://www.pexels.com/@mohammadrezababaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

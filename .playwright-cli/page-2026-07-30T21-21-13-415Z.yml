@@ -1,0 +1,270 @@
+- generic [ref=f91e4]:
+  - navigation [ref=f91e5]:
+    - generic [ref=f91e6]:
+      - generic [ref=f91e7]:
+        - link "Unsplash Home" [ref=f91e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f91e9]
+        - link "Photos" [ref=f91e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f91e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f91e17]:
+        - button "Explore" [ref=f91e18] [cursor=pointer]
+        - button "Collections" [ref=f91e21] [cursor=pointer]
+        - button "Download History" [ref=f91e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f91e28] [cursor=pointer]
+    - generic [ref=f91e31]:
+      - link "Log in / Sign up" [ref=f91e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fai-analyzes-faces-and-produces-diverse-results-Bt29r_bezKo
+      - button "Language" [ref=f91e35] [cursor=pointer]
+      - button "Menu" [ref=f91e38] [cursor=pointer]
+  - generic [ref=f91e41]:
+    - generic [ref=f91e42]:
+      - navigation [ref=f91e43]:
+        - search "Find visuals sitewide" [ref=f91e45]:
+          - button "Search Unsplash" [ref=f91e46] [cursor=pointer]
+          - combobox [ref=f91e49]:
+            - searchbox "Search Unsplash" [ref=f91e50]
+            - listbox
+          - button "Visual search" [ref=f91e52] [cursor=pointer]
+        - generic [ref=f91e55]:
+          - link "Get Unsplash+" [ref=f91e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f91e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fai-analyzes-faces-and-produces-diverse-results-Bt29r_bezKo
+        - button "Submit an image" [ref=f91e59] [cursor=pointer]
+      - generic [ref=f91e60]:
+        - generic [ref=f91e61]:
+          - banner [ref=f91e63]:
+            - generic [ref=f91e65]:
+              - link [ref=f91e66] [cursor=pointer]:
+                - /url: /@graficon/illustrations
+              - generic [ref=f91e69]:
+                - link "Graficon Stuff" [ref=f91e70] [cursor=pointer]:
+                  - /url: /@graficon/illustrations
+                - generic [ref=f91e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f91e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fai-analyzes-faces-and-produces-diverse-results-Bt29r_bezKo
+            - generic [ref=f91e73]:
+              - button "Bookmark" [ref=f91e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f91e77] [cursor=pointer]
+              - button "Edit image" [ref=f91e80] [cursor=pointer]
+              - button "Download" [ref=f91e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f91e90]:
+            - img "Ai analyzes faces and produces diverse results." [ref=f91e91]
+          - generic [ref=f91e92]:
+            - generic [ref=f91e94]:
+              - button "Share this image" [ref=f91e95] [cursor=pointer]:
+                - generic [ref=f91e98]: Share
+              - button "More Actions" [ref=f91e99] [cursor=pointer]
+            - generic [ref=f91e103]:
+              - heading "Ai analyzes faces and produces diverse results." [level=1] [ref=f91e105]
+              - paragraph [ref=f91e109]: Download this illustration of technology, blue, artificial intelligence, and illustration by Graficon Stuff (@graficon)
+              - generic [ref=f91e111]:
+                - generic [ref=f91e116]:
+                  - text: Published on
+                  - time [ref=f91e117]: May 26, 2025
+                - generic [ref=f91e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f91e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f91e124]:
+              - link "technology" [ref=f91e125] [cursor=pointer]:
+                - /url: /s/illustrations/technology
+              - link "blue" [ref=f91e126] [cursor=pointer]:
+                - /url: /s/illustrations/blue
+              - link "artificial intelligence" [ref=f91e127] [cursor=pointer]:
+                - /url: /s/illustrations/artificial-intelligence
+              - link "illustration" [ref=f91e128] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "pink" [ref=f91e129] [cursor=pointer]:
+                - /url: /s/illustrations/pink
+              - link "graphic design" [ref=f91e130] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "orange" [ref=f91e131] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "future" [ref=f91e132] [cursor=pointer]:
+                - /url: /s/illustrations/future
+              - link "robot" [ref=f91e133] [cursor=pointer]:
+                - /url: /s/illustrations/robot
+              - link "innovation" [ref=f91e134] [cursor=pointer]:
+                - /url: /s/illustrations/innovation
+              - link "vector" [ref=f91e135] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "digital art" [ref=f91e136] [cursor=pointer]:
+                - /url: /s/illustrations/digital-art
+              - link "machine learning" [ref=f91e137] [cursor=pointer]:
+                - /url: /s/illustrations/machine-learning
+              - link "digital transformation" [ref=f91e138] [cursor=pointer]:
+                - /url: /s/illustrations/digital-transformation
+              - link "ai generated" [ref=f91e139] [cursor=pointer]:
+                - /url: /s/illustrations/ai-generated
+              - link "ai technology" [ref=f91e140] [cursor=pointer]:
+                - /url: /s/illustrations/ai-technology
+              - link "generative ai" [ref=f91e141] [cursor=pointer]:
+                - /url: /s/illustrations/generative-ai
+              - link "content creation" [ref=f91e142] [cursor=pointer]:
+                - /url: /s/illustrations/content-creation
+              - link "editing" [ref=f91e143] [cursor=pointer]:
+                - /url: /s/illustrations/editing
+              - link "ai tools" [ref=f91e144] [cursor=pointer]:
+                - /url: /s/illustrations/ai-tools
+        - generic [ref=f91e147]:
+          - generic [ref=f91e148]:
+            - paragraph [ref=f91e150]: From this series
+            - generic [ref=f91e154]:
+              - link [ref=f91e155] [cursor=pointer]:
+                - /url: /plus?referrer=%2Fillustrations%2Fgenerating-images-using-a-phones-prompt-hUvtEXqfnPw
+              - link [ref=f91e158]:
+                - /url: /illustrations/generating-images-using-a-phones-prompt-hUvtEXqfnPw
+                - img "Generating images using a phone's prompt." [ref=f91e159]
+          - generic [ref=f91e160]:
+            - heading "Related images" [level=4] [ref=f91e162]
+            - generic [ref=f91e166]:
+              - generic [ref=f91e167]:
+                - figure [ref=f91e168]:
+                  - generic [ref=f91e170]:
+                    - link [ref=f91e171]:
+                      - /url: /illustrations/facial-recognition-technology-scanning-a-mans-face-F8oKsOJnirk
+                      - img "Facial recognition technology scanning a man's face." [ref=f91e172]
+                    - link [ref=f91e173] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ffacial-recognition-technology-scanning-a-mans-face-F8oKsOJnirk
+                - figure [ref=f91e176]:
+                  - generic [ref=f91e178]:
+                    - link [ref=f91e179]:
+                      - /url: /illustrations/man-with-digital-face-recognition-interface-fiiGYVZB_6o
+                      - img "Man with digital face recognition interface" [ref=f91e180]
+                    - link [ref=f91e181] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fman-with-digital-face-recognition-interface-fiiGYVZB_6o
+                - figure [ref=f91e184]:
+                  - generic [ref=f91e186]:
+                    - link [ref=f91e187]:
+                      - /url: /illustrations/hands-using-phone-for-language-translation-with-ai-QPGKrht91B0
+                      - img "Hands using phone for language translation with ai" [ref=f91e188]
+                    - link [ref=f91e189] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhands-using-phone-for-language-translation-with-ai-QPGKrht91B0
+                - figure [ref=f91e192]:
+                  - generic [ref=f91e194]:
+                    - link [ref=f91e195]:
+                      - /url: /illustrations/a-man-standing-next-to-a-giant-cell-phone-EM2NRwvueg8
+                      - img "A man standing next to a giant cell phone" [ref=f91e196]
+                    - link [ref=f91e197] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-standing-next-to-a-giant-cell-phone-EM2NRwvueg8
+                - figure [ref=f91e200]:
+                  - generic [ref=f91e202]:
+                    - link [ref=f91e203]:
+                      - /url: /illustrations/a-man-sitting-at-a-desk-with-a-laptop-zLQNyYbiWkU
+                      - img "A man sitting at a desk with a laptop" [ref=f91e204]
+                    - link [ref=f91e205] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-sitting-at-a-desk-with-a-laptop-zLQNyYbiWkU
+                - figure [ref=f91e208]:
+                  - generic [ref=f91e210]:
+                    - link [ref=f91e211]:
+                      - /url: /illustrations/a-man-standing-in-front-of-a-phone-with-a-microphone-XXHWKAZ0XuA
+                      - img "A man standing in front of a phone with a microphone" [ref=f91e212]
+                    - link [ref=f91e213] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-standing-in-front-of-a-phone-with-a-microphone-XXHWKAZ0XuA
+              - generic [ref=f91e216]:
+                - figure [ref=f91e217]:
+                  - generic [ref=f91e219]:
+                    - link [ref=f91e220]:
+                      - /url: /illustrations/facial-recognition-technology-scanning-a-persons-face-CbhzU9RRyLE
+                      - img "Facial recognition technology scanning a person's face." [ref=f91e221]
+                    - link [ref=f91e222] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ffacial-recognition-technology-scanning-a-persons-face-CbhzU9RRyLE
+                - figure [ref=f91e225]:
+                  - generic [ref=f91e227]:
+                    - link [ref=f91e228]:
+                      - /url: /illustrations/a-person-holding-a-cell-phone-in-front-of-a-purple-background-y-HHffVR4SU
+                      - img "A person holding a cell phone in front of a purple background" [ref=f91e229]
+                    - link [ref=f91e230] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-holding-a-cell-phone-in-front-of-a-purple-background-y-HHffVR4SU
+                - figure [ref=f91e233]:
+                  - generic [ref=f91e235]:
+                    - link [ref=f91e236]:
+                      - /url: /illustrations/smartphone-facial-recognition-scan-of-a-womans-face-FhnKlfWcD-E
+                      - img "Smartphone facial recognition scan of a woman's face." [ref=f91e237]
+                    - link [ref=f91e238] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fsmartphone-facial-recognition-scan-of-a-womans-face-FhnKlfWcD-E
+                - figure [ref=f91e241]:
+                  - generic [ref=f91e243]:
+                    - link [ref=f91e244]:
+                      - /url: /illustrations/a-hand-touching-a-smart-phone-with-icons-surrounding-it-JfZMOdU7M-Q
+                      - img "A hand touching a smart phone with icons surrounding it" [ref=f91e245]
+                    - link [ref=f91e246] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-hand-touching-a-smart-phone-with-icons-surrounding-it-JfZMOdU7M-Q
+                - figure [ref=f91e249]:
+                  - generic [ref=f91e251]:
+                    - link [ref=f91e252]:
+                      - /url: /illustrations/man-uses-phone-for-facial-recognition-at-kiosk-phqMHiQ86II
+                      - img "Man uses phone for facial recognition at kiosk." [ref=f91e253]
+                    - link [ref=f91e254] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fman-uses-phone-for-facial-recognition-at-kiosk-phqMHiQ86II
+                - figure [ref=f91e257]:
+                  - generic [ref=f91e259]:
+                    - link [ref=f91e260]:
+                      - /url: /illustrations/a-tablet-with-a-bunch-of-chat-bubbles-on-it-aOR3XgEJbXs
+                      - img "A tablet with a bunch of chat bubbles on it" [ref=f91e261]
+                    - link [ref=f91e262] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-tablet-with-a-bunch-of-chat-bubbles-on-it-aOR3XgEJbXs
+                - figure [ref=f91e265]:
+                  - generic [ref=f91e267]:
+                    - link [ref=f91e268]:
+                      - /url: /illustrations/mans-face-scanned-on-laptop-phone-and-frame-UIB4KOi4juo
+                      - img "Man's face scanned on laptop, phone, and frame." [ref=f91e269]
+                    - link [ref=f91e270] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fmans-face-scanned-on-laptop-phone-and-frame-UIB4KOi4juo
+              - generic [ref=f91e273]:
+                - figure [ref=f91e274]:
+                  - generic [ref=f91e276]:
+                    - link [ref=f91e277]:
+                      - /url: /illustrations/digital-artist-creates-content-using-artificial-intelligence-_sZ13VdIBAA
+                      - img "Digital artist creates content using artificial intelligence." [ref=f91e278]
+                    - link [ref=f91e279] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fdigital-artist-creates-content-using-artificial-intelligence-_sZ13VdIBAA
+                - figure [ref=f91e282]:
+                  - generic [ref=f91e284]:
+                    - link [ref=f91e285]:
+                      - /url: /illustrations/face-recognition-technology-on-a-smartphone-interface-HLKuJG9Y_7Y
+                      - img "Face recognition technology on a smartphone interface." [ref=f91e286]
+                    - link [ref=f91e287] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fface-recognition-technology-on-a-smartphone-interface-HLKuJG9Y_7Y
+                - figure [ref=f91e290]:
+                  - generic [ref=f91e292]:
+                    - link [ref=f91e293]:
+                      - /url: /illustrations/person-on-smartphone-screen-in-video-call-ZrJk7-BPAQk
+                      - img "Person on smartphone screen in video call." [ref=f91e294]
+                    - link [ref=f91e295] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fperson-on-smartphone-screen-in-video-call-ZrJk7-BPAQk
+                - figure [ref=f91e298]:
+                  - generic [ref=f91e300]:
+                    - link [ref=f91e301]:
+                      - /url: /illustrations/a-bunch-of-screens-with-a-person-on-them-BEhokJZmsVk
+                      - img "A bunch of screens with a person on them" [ref=f91e302]
+                    - link [ref=f91e303] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-bunch-of-screens-with-a-person-on-them-BEhokJZmsVk
+                - figure [ref=f91e306]:
+                  - generic [ref=f91e308]:
+                    - link [ref=f91e309]:
+                      - /url: /illustrations/a-man-standing-next-to-a-purple-phone-kkbU9VGm4U0
+                      - img "A man standing next to a purple phone" [ref=f91e310]
+                    - link [ref=f91e311] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-standing-next-to-a-purple-phone-kkbU9VGm4U0
+                - figure [ref=f91e314]:
+                  - generic [ref=f91e316]:
+                    - link [ref=f91e317]:
+                      - /url: /illustrations/a-phone-with-a-picture-of-a-robot-on-the-screen-S-ddypAMglg
+                      - img "A phone with a picture of a robot on the screen" [ref=f91e318]
+                    - link [ref=f91e319] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-phone-with-a-picture-of-a-robot-on-the-screen-S-ddypAMglg
+                - figure [ref=f91e322]:
+                  - generic [ref=f91e324]:
+                    - link [ref=f91e325]:
+                      - /url: /illustrations/a-robot-sitting-on-top-of-a-laptop-computer-g-jaIF_sy5E
+                      - img "A robot sitting on top of a laptop computer" [ref=f91e326]
+                    - link [ref=f91e327] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-robot-sitting-on-top-of-a-laptop-computer-g-jaIF_sy5E
+    - generic:
+      - region "Notifications"

@@ -1,0 +1,63 @@
+{
+  "slug": "alarm-clock-zgtg",
+  "mediaKey": "2e107c5d-1dc6-4daf-a20c-888972360476",
+  "providerId": "69e1601779740242d59ddaeb",
+  "i18n": {
+    "name": {
+      "en": "Alarm Clock",
+      "uk": "Будильник"
+    },
+    "alt": {
+      "en": "Alarm Clock",
+      "uk": "Будильник"
+    },
+    "tags": [
+      {
+        "key": "alarm-clock",
+        "i18n": {
+          "en": "Alarm Clock",
+          "uk": "Будильник"
+        }
+      },
+      {
+        "key": "alarm",
+        "i18n": {
+          "en": "alarm",
+          "uk": "тривога"
+        }
+      },
+      {
+        "key": "clock",
+        "i18n": {
+          "en": "clock",
+          "uk": "годинник"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/alarm-clock_zgtg.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 670,
+  "height": 800
+}

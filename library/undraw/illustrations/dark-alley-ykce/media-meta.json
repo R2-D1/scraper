@@ -1,0 +1,63 @@
+{
+  "slug": "dark-alley-ykce",
+  "mediaKey": "4b146b6b-4b38-4dd4-a245-22098789fa73",
+  "providerId": "5b9815903c82ff0014259d29",
+  "i18n": {
+    "name": {
+      "en": "Dark alley",
+      "uk": "Темний провулок"
+    },
+    "alt": {
+      "en": "Dark alley",
+      "uk": "Темний провулок"
+    },
+    "tags": [
+      {
+        "key": "dark-alley",
+        "i18n": {
+          "en": "Dark alley",
+          "uk": "Темний провулок"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "alley",
+        "i18n": {
+          "en": "alley",
+          "uk": "алея"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/dark-alley_ykce.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1081,
+  "height": 639
+}

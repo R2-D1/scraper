@@ -1,0 +1,77 @@
+{
+  "slug": "photo-1cl2",
+  "mediaKey": "7d7ca59b-dd11-45f6-8974-f5440c6c29cf",
+  "providerId": "6a7cfb63939aab611cf25c91",
+  "i18n": {
+    "name": {
+      "en": "Photo",
+      "uk": "Фото"
+    },
+    "alt": {
+      "en": "Photo",
+      "uk": "Фото"
+    },
+    "tags": [
+      {
+        "key": "mountain",
+        "i18n": {
+          "en": "mountain",
+          "uk": "гора"
+        }
+      },
+      {
+        "key": "landscape",
+        "i18n": {
+          "en": "landscape",
+          "uk": "пейзаж"
+        }
+      },
+      {
+        "key": "frame",
+        "i18n": {
+          "en": "frame",
+          "uk": "рамка"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      },
+      {
+        "key": "photography",
+        "i18n": {
+          "en": "photography",
+          "uk": "фотографія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/photo_1cl2.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 633
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-31066042",
+  "mediaKey": "pexels:31066042",
+  "i18n": {
+    "name": {
+      "en": "Pastel pink and blue gradient",
+      "uk": "Пастельний рожево-блакитний градієнт"
+    },
+    "alt": {
+      "en": "Vibrant abstract gradient with pastel and colorful fluid textures.",
+      "uk": "Яскравий абстрактний градієнт із пастельними та барвистими плавними текстурами."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "pastel",
+        "i18n": {
+          "en": "pastel",
+          "uk": "пастель"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/colorful-abstract-gradient-background-art-31066042/",
+  "sourceName": "Pexels",
+  "authorName": "kdadan.",
+  "authorUrl": "https://www.pexels.com/@kdadan97",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

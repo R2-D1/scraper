@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-33797643",
+  "mediaKey": "pexels:33797643",
+  "i18n": {
+    "name": {
+      "en": "Flowing purple and blue abstract forms",
+      "uk": "Плавні абстрактні форми фіолетового та синього кольорів"
+    },
+    "alt": {
+      "en": "Dynamic 3D abstract art with vibrant purple and pink curves creating a modern aesthetic.",
+      "uk": "Динамічне абстрактне 3D-мистецтво з яскравими фіолетовими та рожевими кривими, що створюють сучасну естетику."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "flowing-forms",
+        "i18n": {
+          "en": "flowing forms",
+          "uk": "плавні форми"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/vibrant-abstract-3d-rendering-with-curves-33797643/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

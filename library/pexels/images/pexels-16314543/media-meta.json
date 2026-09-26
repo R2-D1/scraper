@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-16314543",
+  "mediaKey": "pexels:16314543",
+  "i18n": {
+    "name": {
+      "en": "Woman sitting inside a white bathtub",
+      "uk": "Жінка сидить у білій ванні"
+    },
+    "alt": {
+      "en": "Beautiful brunette woman lounging in a vintage bathtub indoors. Warm and sensual atmosphere.",
+      "uk": "Красива брюнетка розслабляється у старовинній ванні в приміщенні. Тепла й чуттєва атмосфера."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "bathtub",
+        "i18n": {
+          "en": "bathtub",
+          "uk": "ванна"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "interior",
+        "i18n": {
+          "en": "interior",
+          "uk": "інтер'єр"
+        }
+      },
+      {
+        "key": "black-clothing",
+        "i18n": {
+          "en": "black clothing",
+          "uk": "чорний одяг"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/brunette-woman-kneeling-in-bathtub-16314543/",
+  "sourceName": "Pexels",
+  "authorName": "Lucas Brown",
+  "authorUrl": "https://www.pexels.com/@lucas-brown-368306455",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

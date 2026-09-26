@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "reading-side-doodle",
+  "mediaKey": "custom:content:cc40fe249adb034ef4e30f982114b58a4fedc82672902aa8645a0153e12e7cf0",
+  "collectionSlugs": [
+    "open-doodles"
+  ],
+  "pinned": false,
+  "sourceContentHash": "cc40fe249adb034ef4e30f982114b58a4fedc82672902aa8645a0153e12e7cf0",
+  "i18n": {
+    "name": {
+      "en": "Reading Side Doodle",
+      "uk": "Читання «Side Doodle»"
+    },
+    "alt": {
+      "en": "Reading Side Doodle",
+      "uk": "Читання «Side Doodle»"
+    },
+    "tags": [
+      {
+        "key": "reading",
+        "i18n": {
+          "en": "Reading",
+          "uk": "Читання"
+        }
+      },
+      {
+        "key": "side",
+        "i18n": {
+          "en": "Side",
+          "uk": "Бічна частина"
+        }
+      },
+      {
+        "key": "doodle",
+        "i18n": {
+          "en": "Doodle",
+          "uk": "Doodle"
+        }
+      },
+      {
+        "key": "illustration",
+        "i18n": {
+          "en": "Illustration",
+          "uk": "Ілюстрація"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "Character",
+          "uk": "Персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "source": "https://www.opendoodles.com/about",
+  "sourceName": "Open Doodles",
+  "authorName": "Open Doodles",
+  "authorUrl": "https://www.opendoodles.com",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "taggingStatus": "complete"
+}

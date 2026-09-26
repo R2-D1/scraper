@@ -1,0 +1,76 @@
+{
+  "slug": "government-building",
+  "mediaKey": "8418ed04-961d-4c61-bcc8-8aa7a6b2ffef",
+  "i18n": {
+    "name": {
+      "en": "The Capitol",
+      "uk": "Капітолій"
+    },
+    "alt": {
+      "en": "The Capitol",
+      "uk": "Капітолій"
+    },
+    "tags": [
+      {
+        "key": "government",
+        "i18n": {
+          "en": "government",
+          "uk": "уряд"
+        }
+      },
+      {
+        "key": "law",
+        "i18n": {
+          "en": "law",
+          "uk": "закон"
+        }
+      },
+      {
+        "key": "power",
+        "i18n": {
+          "en": "power",
+          "uk": "сила"
+        }
+      },
+      {
+        "key": "capitol",
+        "i18n": {
+          "en": "capitol",
+          "uk": "капітолій"
+        }
+      },
+      {
+        "key": "politics",
+        "i18n": {
+          "en": "politics",
+          "uk": "політика"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/government-building",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

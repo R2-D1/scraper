@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-29371973",
+  "mediaKey": "pexels:video:29371973",
+  "i18n": {
+    "name": {
+      "en": "Blue and Orange Fluid Marbling",
+      "uk": "Синьо-помаранчеве мармурування рідиною"
+    },
+    "alt": {
+      "en": "Pexels video 29371973",
+      "uk": "Відео з Pexels № 29371973"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "fluid",
+        "i18n": {
+          "en": "fluid",
+          "uk": "рідина"
+        }
+      },
+      {
+        "key": "marble",
+        "i18n": {
+          "en": "marble",
+          "uk": "мармур"
+        }
+      },
+      {
+        "key": "swirl",
+        "i18n": {
+          "en": "swirl",
+          "uk": "вихор"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/vibrant-abstract-liquid-patterns-in-motion-29371973/",
+  "sourceName": "Pexels",
+  "authorName": "StefWithAnF",
+  "authorUrl": "https://www.pexels.com/@stefwithanf-1955763",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 55,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

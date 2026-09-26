@@ -1,0 +1,49 @@
+{
+  "slug": "trip-rh66",
+  "mediaKey": "50ed5862-3557-429c-86b7-41221d6f99e3",
+  "providerId": "6278fe7fa281da00181c92b4",
+  "i18n": {
+    "name": {
+      "en": "Trip",
+      "uk": "Подорож"
+    },
+    "alt": {
+      "en": "Trip",
+      "uk": "Подорож"
+    },
+    "tags": [
+      {
+        "key": "trip",
+        "i18n": {
+          "en": "Trip",
+          "uk": "Подорож"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/trip_rh66.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 654,
+  "height": 501
+}

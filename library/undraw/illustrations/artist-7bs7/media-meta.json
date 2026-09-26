@@ -1,0 +1,49 @@
+{
+  "slug": "artist-7bs7",
+  "mediaKey": "8716e3b9-4a9f-427f-8363-9a9fba0cc725",
+  "providerId": "5c8568eb38c1aa001594fed8",
+  "i18n": {
+    "name": {
+      "en": "Artist",
+      "uk": "Художник"
+    },
+    "alt": {
+      "en": "Artist",
+      "uk": "Художник"
+    },
+    "tags": [
+      {
+        "key": "artist",
+        "i18n": {
+          "en": "Artist",
+          "uk": "Художник"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/artist_7bs7.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1038,
+  "height": 750
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "add-to-cart-vx87",
+  "mediaKey": "cd1abc29-85d9-41ea-aea2-d31281e28af6",
+  "providerId": "6a5e9b79939aab611cf25c74",
+  "i18n": {
+    "name": {
+      "en": "Add to Cart",
+      "uk": "Додати до кошика"
+    },
+    "alt": {
+      "en": "Add to Cart",
+      "uk": "Додати до кошика"
+    },
+    "tags": [
+      {
+        "key": "add-to-cart",
+        "i18n": {
+          "en": "Add to Cart",
+          "uk": "Додати до кошика"
+        }
+      },
+      {
+        "key": "add",
+        "i18n": {
+          "en": "add",
+          "uk": "додати"
+        }
+      },
+      {
+        "key": "cart",
+        "i18n": {
+          "en": "cart",
+          "uk": "візок"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/add-to-cart_vx87.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 710
+}

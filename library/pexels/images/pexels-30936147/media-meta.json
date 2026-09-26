@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-30936147",
+  "mediaKey": "pexels:30936147",
+  "i18n": {
+    "name": {
+      "en": "Woman beneath a sheer veil in a dark scene",
+      "uk": "Жінка під напівпрозорою вуаллю в темряві"
+    },
+    "alt": {
+      "en": "Creative portrait of a woman in winter fashion with earmuffs and a fuzzy jacket indoors.",
+      "uk": "Креативний портрет жінки в зимовому вбранні з навушниками та пухнастою курткою в приміщенні."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "veil",
+        "i18n": {
+          "en": "veil",
+          "uk": "вуаль"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/stylish-portrait-of-woman-in-cozy-winter-attire-30936147/",
+  "sourceName": "Pexels",
+  "authorName": "Jean-Daniel Francoeur",
+  "authorUrl": "https://www.pexels.com/@jean-daniel",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

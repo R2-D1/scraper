@@ -1,0 +1,49 @@
+{
+  "slug": "welcome-nk8k",
+  "mediaKey": "d1a4f095-572c-4d22-9cf1-9e90821872a0",
+  "providerId": "6141eaa6a06528001783a449",
+  "i18n": {
+    "name": {
+      "en": "Welcome",
+      "uk": "Ласкаво просимо"
+    },
+    "alt": {
+      "en": "Welcome",
+      "uk": "Ласкаво просимо"
+    },
+    "tags": [
+      {
+        "key": "welcome",
+        "i18n": {
+          "en": "Welcome",
+          "uk": "Ласкаво просимо"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/welcome_nk8k.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 943,
+  "height": 796
+}

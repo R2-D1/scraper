@@ -1,0 +1,90 @@
+{
+  "slug": "vehicle-double-decker-bus",
+  "mediaKey": "dde34c54-1d84-493f-870e-4069b69979ed",
+  "i18n": {
+    "name": {
+      "en": "Double-Decker Bus",
+      "uk": "Двоповерховий автобус"
+    },
+    "alt": {
+      "en": "Double-Decker Bus",
+      "uk": "Двоповерховий автобус"
+    },
+    "tags": [
+      {
+        "key": "bus",
+        "i18n": {
+          "en": "bus",
+          "uk": "автобус"
+        }
+      },
+      {
+        "key": "double-decker",
+        "i18n": {
+          "en": "double decker",
+          "uk": "двоповерховий"
+        }
+      },
+      {
+        "key": "london",
+        "i18n": {
+          "en": "london",
+          "uk": "Лондон"
+        }
+      },
+      {
+        "key": "transport",
+        "i18n": {
+          "en": "transport",
+          "uk": "транспорт"
+        }
+      },
+      {
+        "key": "public",
+        "i18n": {
+          "en": "public",
+          "uk": "публічний"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/vehicle-double-decker-bus",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "abstract-server-room-inoro",
+  "mediaKey": "d0240f49-f802-43fb-ae02-95780fda9dc1",
+  "i18n": {
+    "name": {
+      "en": "Abstract Server Room",
+      "uk": "Абстрактне серверне приміщення"
+    },
+    "alt": {
+      "en": "Abstract Server Room",
+      "uk": "Абстрактне серверне приміщення"
+    },
+    "tags": [
+      {
+        "key": "server-room",
+        "i18n": {
+          "en": "server room",
+          "uk": "серверна кімната"
+        }
+      },
+      {
+        "key": "technology",
+        "i18n": {
+          "en": "Technology",
+          "uk": "Технології"
+        }
+      },
+      {
+        "key": "data-center",
+        "i18n": {
+          "en": "data center",
+          "uk": "дата-центр"
+        }
+      },
+      {
+        "key": "abstract-overlay",
+        "i18n": {
+          "en": "abstract overlay",
+          "uk": "абстрактне накладення"
+        }
+      },
+      {
+        "key": "red-ribbon-effect",
+        "i18n": {
+          "en": "red ribbon effect",
+          "uk": "ефект «червоної стрічки»"
+        }
+      },
+      {
+        "key": "artificial-intelligence",
+        "i18n": {
+          "en": "Artificial Intelligence",
+          "uk": "Штучний інтелект"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/abstract-server-room-inoro",
+  "sourceName": "Lummi",
+  "authorName": "Nika",
+  "authorUrl": "https://www.lummi.ai/creator/nikadominguez_?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "The image depicts a blurred view of a server room with black server racks. A red, swirling, ribbon-like graphic overlays the scene, creating a dynamic and abstract effect. The server racks are equipped with various hardware components, visible through the blurred details. The background is a clean, white space, typical of a data center environment. The red overlay adds a sense of motion and energy to the otherwise static and technical setting.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 2400,
+  "mimeType": "image/webp"
+}

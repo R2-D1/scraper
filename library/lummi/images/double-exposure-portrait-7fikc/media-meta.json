@@ -1,0 +1,87 @@
+{
+  "slug": "double-exposure-portrait-7fikc",
+  "mediaKey": "6a059d28-3100-491a-8c9b-3dc1054309a5",
+  "i18n": {
+    "name": {
+      "en": "Double Exposure Portrait",
+      "uk": "Портрет із подвійною експозицією"
+    },
+    "alt": {
+      "en": "Double Exposure Portrait",
+      "uk": "Портрет із подвійною експозицією"
+    },
+    "tags": [
+      {
+        "key": "stylized-portrait",
+        "i18n": {
+          "en": "stylized portrait",
+          "uk": "стилізований портрет"
+        }
+      },
+      {
+        "key": "double-exposure",
+        "i18n": {
+          "en": "double exposure",
+          "uk": "подвійна експозиція"
+        }
+      },
+      {
+        "key": "shaved-head",
+        "i18n": {
+          "en": "shaved head",
+          "uk": "поголена голова"
+        }
+      },
+      {
+        "key": "hooded-jacket",
+        "i18n": {
+          "en": "hooded jacket",
+          "uk": "куртка з капюшоном"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "alexaperios",
+  "authorUrl": "https://www.lummi.ai/creator/alexaperios-jxtqx?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A stylized image of a person wearing a dark hooded jacket with their hands in the pockets. The individual has a shaved head and is depicted with a double exposure effect, creating a ghostly, layered appearance. The background is a gradient of light gray to white, emphasizing the subject. The lighting highlights the texture of the clothing and the contours of the face, adding depth to the composition.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 2400,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/double-exposure-portrait-7fikc/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/double-exposure-portrait-7fikc/double-exposure-portrait-7fikc.png",
+  "relativeAssetPath": "library/lummi/images/double-exposure-portrait-7fikc/double-exposure-portrait-7fikc.png"
+}

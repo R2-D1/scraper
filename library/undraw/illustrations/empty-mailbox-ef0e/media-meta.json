@@ -1,0 +1,63 @@
+{
+  "slug": "empty-mailbox-ef0e",
+  "mediaKey": "cb4266a4-762c-4c46-806a-8262a3b64aac",
+  "providerId": "69d5607679740242d59ddadf",
+  "i18n": {
+    "name": {
+      "en": "Empty Mailbox",
+      "uk": "Порожня поштова скринька"
+    },
+    "alt": {
+      "en": "Empty Mailbox",
+      "uk": "Порожня поштова скринька"
+    },
+    "tags": [
+      {
+        "key": "empty-mailbox",
+        "i18n": {
+          "en": "Empty Mailbox",
+          "uk": "Порожня поштова скринька"
+        }
+      },
+      {
+        "key": "empty",
+        "i18n": {
+          "en": "empty",
+          "uk": "порожній"
+        }
+      },
+      {
+        "key": "mailbox",
+        "i18n": {
+          "en": "mailbox",
+          "uk": "поштова скринька"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/empty-mailbox_ef0e.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 812,
+  "height": 800
+}

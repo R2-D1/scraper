@@ -1,0 +1,49 @@
+{
+  "slug": "arrived-3atp",
+  "mediaKey": "9b101db7-712d-4eef-81ab-1d162091db35",
+  "providerId": "60f6adbe659911001749d8da",
+  "i18n": {
+    "name": {
+      "en": "Arrived",
+      "uk": "Прибув"
+    },
+    "alt": {
+      "en": "Arrived",
+      "uk": "Прибув"
+    },
+    "tags": [
+      {
+        "key": "arrived",
+        "i18n": {
+          "en": "Arrived",
+          "uk": "Прибув"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/arrived_3atp.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 736,
+  "height": 395
+}

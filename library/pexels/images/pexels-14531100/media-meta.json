@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-14531100",
+  "mediaKey": "pexels:14531100",
+  "i18n": {
+    "name": {
+      "en": "Blurred pale figure in blue light",
+      "uk": "Розмита світла постать у синьому сяйві"
+    },
+    "alt": {
+      "en": "Dynamic abstract image featuring blurred light trails and motion effect for artistic concepts.",
+      "uk": "Динамічне абстрактне зображення із розмитими світловими слідами та ефектом руху для художніх концепцій."
+    },
+    "tags": [
+      {
+        "key": "surrealism",
+        "i18n": {
+          "en": "surrealism",
+          "uk": "сюрреалізм"
+        }
+      },
+      {
+        "key": "blur",
+        "i18n": {
+          "en": "blur",
+          "uk": "розмиття"
+        }
+      },
+      {
+        "key": "figure",
+        "i18n": {
+          "en": "figure",
+          "uk": "фігура"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "surrealism"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/model-in-blurred-motion-14531100/",
+  "sourceName": "Pexels",
+  "authorName": "yagerasi",
+  "authorUrl": "https://www.pexels.com/@yagerasi-373681799",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

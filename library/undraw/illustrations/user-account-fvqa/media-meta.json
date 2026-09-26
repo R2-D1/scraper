@@ -1,0 +1,63 @@
+{
+  "slug": "user-account-fvqa",
+  "mediaKey": "ea509c85-0825-4fb4-b152-3e12b1a7f85a",
+  "providerId": "6851b59aa122991395ec1eec",
+  "i18n": {
+    "name": {
+      "en": "User Account",
+      "uk": "Обліковий запис користувача"
+    },
+    "alt": {
+      "en": "User Account",
+      "uk": "Обліковий запис користувача"
+    },
+    "tags": [
+      {
+        "key": "user-account",
+        "i18n": {
+          "en": "User Account",
+          "uk": "Обліковий запис користувача"
+        }
+      },
+      {
+        "key": "user",
+        "i18n": {
+          "en": "user",
+          "uk": "користувача"
+        }
+      },
+      {
+        "key": "account",
+        "i18n": {
+          "en": "account",
+          "uk": "акаунт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/user-account_fvqa.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 799,
+  "height": 552
+}

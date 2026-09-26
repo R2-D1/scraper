@@ -1,0 +1,49 @@
+{
+  "slug": "podcast-0ioh",
+  "mediaKey": "bb24370c-e60f-4ed7-a56d-6703b397b6ba",
+  "providerId": "61b0953328865900185ccc29",
+  "i18n": {
+    "name": {
+      "en": "Podcast",
+      "uk": "Подкаст"
+    },
+    "alt": {
+      "en": "Podcast",
+      "uk": "Подкаст"
+    },
+    "tags": [
+      {
+        "key": "podcast",
+        "i18n": {
+          "en": "Podcast",
+          "uk": "Подкаст"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/podcast_0ioh.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 727,
+  "height": 721
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "portrait-with-white-hood-x1l-i",
+  "mediaKey": "ac073eec-0bf0-4323-b9a6-a5772fb5d51b",
+  "i18n": {
+    "name": {
+      "en": "Portrait with White Hood",
+      "uk": "Портрет із білим капюшоном"
+    },
+    "alt": {
+      "en": "Portrait with White Hood",
+      "uk": "Портрет із білим капюшоном"
+    },
+    "tags": [
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "dramatic-lighting",
+        "i18n": {
+          "en": "dramatic lighting",
+          "uk": "драматичне освітлення"
+        }
+      },
+      {
+        "key": "blue-background",
+        "i18n": {
+          "en": "blue background",
+          "uk": "синій фон"
+        }
+      },
+      {
+        "key": "texture-focus",
+        "i18n": {
+          "en": "texture focus",
+          "uk": "акцент на текстурі"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "other"
+  ],
+  "pinned": false,
+  "source": "https://www.lummi.ai/photo/portrait-with-white-hood-x1l-i",
+  "sourceName": "Lummi",
+  "authorName": "Berryone",
+  "authorUrl": "https://www.lummi.ai/creator/berryone?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A close-up portrait of a person with light skin and short, curly blonde hair, wearing a white hood. The lighting creates dramatic shadows across their face, emphasizing their smooth skin and natural features. The background is a solid blue, providing a stark contrast to the subject's pale complexion and the white hood. The image has a soft, artistic quality, with a focus on texture and light.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1632,
+  "height": 2912,
+  "mimeType": "image/webp"
+}

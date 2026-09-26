@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-18541715",
+  "mediaKey": "pexels:18541715",
+  "i18n": {
+    "name": {
+      "en": "Vivid blue and magenta gradient",
+      "uk": "Яскравий синьо-малиновий градієнт"
+    },
+    "alt": {
+      "en": "Abstract gradient with blue and pink hues, perfect for modern designs.",
+      "uk": "Абстрактний градієнт із синіми та рожевими відтінками, який ідеально підходить для сучасних дизайнів."
+    },
+    "tags": [
+      {
+        "key": "gradient",
+        "i18n": {
+          "en": "gradient",
+          "uk": "градієнт"
+        }
+      },
+      {
+        "key": "vibrant",
+        "i18n": {
+          "en": "vibrant",
+          "uk": "яскравий"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "gradients"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/colorful-background-wallpaper-4k-18541715/",
+  "sourceName": "Pexels",
+  "authorName": "Resource Boy",
+  "authorUrl": "https://www.pexels.com/@resourceboy",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

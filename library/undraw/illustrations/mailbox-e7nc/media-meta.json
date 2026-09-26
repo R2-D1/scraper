@@ -1,0 +1,49 @@
+{
+  "slug": "mailbox-e7nc",
+  "mediaKey": "8f3cb00e-d26f-4264-966d-22a01649440b",
+  "providerId": "5f44de118395c100176694f8",
+  "i18n": {
+    "name": {
+      "en": "Mailbox",
+      "uk": "Поштова скринька"
+    },
+    "alt": {
+      "en": "Mailbox",
+      "uk": "Поштова скринька"
+    },
+    "tags": [
+      {
+        "key": "mailbox",
+        "i18n": {
+          "en": "Mailbox",
+          "uk": "Поштова скринька"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/mailbox_e7nc.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 576,
+  "height": 494
+}

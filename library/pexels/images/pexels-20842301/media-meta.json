@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-20842301",
+  "mediaKey": "pexels:20842301",
+  "i18n": {
+    "name": {
+      "en": "Blurred man against a blue striped wall",
+      "uk": "Розмитий чоловік на тлі синіх смуг"
+    },
+    "alt": {
+      "en": "Artistic blurred portrait of a person in motion against a garage door backdrop.",
+      "uk": "Художньо розмитий портрет людини в русі на тлі гаражних воріт."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "blur",
+        "i18n": {
+          "en": "blur",
+          "uk": "розмиття"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/man-on-a-street-in-blur-20842301/",
+  "sourceName": "Pexels",
+  "authorName": "Muhammed Atik",
+  "authorUrl": "https://www.pexels.com/@atikmuhammed",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

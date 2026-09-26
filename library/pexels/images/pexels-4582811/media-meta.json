@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-4582811",
+  "mediaKey": "pexels:4582811",
+  "i18n": {
+    "name": {
+      "en": "Tattooed man sitting with his hands covering his face",
+      "uk": "Чоловік з татуюваннями, що сидить, прикривши обличчя руками"
+    },
+    "alt": {
+      "en": "A tattooed man in a pink beanie sits on a chair with his hands covering his mouth.",
+      "uk": "Чоловік з татуюваннями у рожевій шапці сидить на стільці, прикриваючи рот долонями."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "tattoos",
+        "i18n": {
+          "en": "tattoos",
+          "uk": "татуювання"
+        }
+      },
+      {
+        "key": "pink-beanie",
+        "i18n": {
+          "en": "pink beanie",
+          "uk": "рожева шапка-біні"
+        }
+      },
+      {
+        "key": "chair",
+        "i18n": {
+          "en": "chair",
+          "uk": "стілець"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/thoughtful-informal-ethnic-man-leaning-on-chair-on-terrace-4582811/",
+  "sourceName": "Pexels",
+  "authorName": "Malcolm Garret",
+  "authorUrl": "https://www.pexels.com/@malcolm-garret-3023588",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

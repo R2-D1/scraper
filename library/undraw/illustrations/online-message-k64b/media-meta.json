@@ -1,0 +1,63 @@
+{
+  "slug": "online-message-k64b",
+  "mediaKey": "74000aad-e7fc-4158-883a-255d7202235e",
+  "providerId": "60b75ae19689240017064cf6",
+  "i18n": {
+    "name": {
+      "en": "Online message",
+      "uk": "Онлайн-повідомлення"
+    },
+    "alt": {
+      "en": "Online message",
+      "uk": "Онлайн-повідомлення"
+    },
+    "tags": [
+      {
+        "key": "online-message",
+        "i18n": {
+          "en": "Online message",
+          "uk": "Онлайн-повідомлення"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "message",
+        "i18n": {
+          "en": "message",
+          "uk": "повідомлення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/online-message_k64b.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 949,
+  "height": 656
+}

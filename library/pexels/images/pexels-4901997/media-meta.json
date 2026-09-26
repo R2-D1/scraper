@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-4901997",
+  "mediaKey": "pexels:4901997",
+  "i18n": {
+    "name": {
+      "en": "People walking through a modern train terminal",
+      "uk": "Люди, що проходять через сучасний залізничний вокзал"
+    },
+    "alt": {
+      "en": "Two women with backpacks walking through a train station, showcasing adventure and friendship.",
+      "uk": "Дві жінки з рюкзаками йдуть через залізничний вокзал, уособлюючи дух пригод і дружбу."
+    },
+    "tags": [
+      {
+        "key": "people",
+        "i18n": {
+          "en": "people",
+          "uk": "люди"
+        }
+      },
+      {
+        "key": "train-station",
+        "i18n": {
+          "en": "train station",
+          "uk": "залізнична станція"
+        }
+      },
+      {
+        "key": "terminal",
+        "i18n": {
+          "en": "terminal",
+          "uk": "термінал"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "architecture",
+        "i18n": {
+          "en": "architecture",
+          "uk": "архітектура"
+        }
+      },
+      {
+        "key": "commute",
+        "i18n": {
+          "en": "commute",
+          "uk": "дорога на роботу"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "travel"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/two-women-walking-at-the-train-station-4901997/",
+  "sourceName": "Pexels",
+  "authorName": "Ketut Subiyanto",
+  "authorUrl": "https://www.pexels.com/@ketut-subiyanto",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-37666639",
+  "mediaKey": "pexels:37666639",
+  "i18n": {
+    "name": {
+      "en": "Woman holding a tablet in low light",
+      "uk": "Жінка, яка тримає планшет у умовах слабкого освітлення"
+    },
+    "alt": {
+      "en": "Dramatic portrait of a hooded man reading in red light, Montreal night scene.",
+      "uk": "Ефектний портрет чоловіка в капюшоні, який читає у червоному світлі, нічний пейзаж Монреаля."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "tablet",
+        "i18n": {
+          "en": "tablet",
+          "uk": "планшет"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "red-light",
+        "i18n": {
+          "en": "red light",
+          "uk": "червоне світло"
+        }
+      },
+      {
+        "key": "dark-background",
+        "i18n": {
+          "en": "dark background",
+          "uk": "темний фон"
+        }
+      },
+      {
+        "key": "technology",
+        "i18n": {
+          "en": "technology",
+          "uk": "технологія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/moody-urban-portrait-with-red-lighting-in-montreal-37666639/",
+  "sourceName": "Pexels",
+  "authorName": "melbourne ross",
+  "authorUrl": "https://www.pexels.com/@mjrfilms",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

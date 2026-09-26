@@ -1,0 +1,63 @@
+{
+  "slug": "beach-day-cnsv",
+  "mediaKey": "70ab5bc4-da5c-484e-b6b3-e17fabfb8ba1",
+  "providerId": "68a4ef31c576a1d4e25eb27d",
+  "i18n": {
+    "name": {
+      "en": "Beach Day",
+      "uk": "День на пляжі"
+    },
+    "alt": {
+      "en": "Beach Day",
+      "uk": "День на пляжі"
+    },
+    "tags": [
+      {
+        "key": "beach-day",
+        "i18n": {
+          "en": "Beach Day",
+          "uk": "День на пляжі"
+        }
+      },
+      {
+        "key": "beach",
+        "i18n": {
+          "en": "beach",
+          "uk": "пляж"
+        }
+      },
+      {
+        "key": "day",
+        "i18n": {
+          "en": "day",
+          "uk": "день"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/beach-day_cnsv.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 731,
+  "height": 800
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "photo-viewer-opso",
+  "mediaKey": "6f05ece6-a6f7-4ae2-88cb-2ef021404b53",
+  "providerId": "68b61d1ce2e194571cc2d919",
+  "i18n": {
+    "name": {
+      "en": "Photo Viewer",
+      "uk": "Переглядач фотографій"
+    },
+    "alt": {
+      "en": "Photo Viewer",
+      "uk": "Переглядач фотографій"
+    },
+    "tags": [
+      {
+        "key": "photo-viewer",
+        "i18n": {
+          "en": "Photo Viewer",
+          "uk": "Переглядач фотографій"
+        }
+      },
+      {
+        "key": "viewer",
+        "i18n": {
+          "en": "viewer",
+          "uk": "переглядач"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/photo-viewer_opso.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 522,
+  "height": 721
+}

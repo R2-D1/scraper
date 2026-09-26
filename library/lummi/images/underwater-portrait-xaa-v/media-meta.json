@@ -1,0 +1,94 @@
+{
+  "slug": "underwater-portrait-xaa-v",
+  "mediaKey": "d7ca24f2-606e-4a14-a413-6915cbf2fa28",
+  "i18n": {
+    "name": {
+      "en": "Underwater Portrait",
+      "uk": "Підводний портрет"
+    },
+    "alt": {
+      "en": "Underwater Portrait",
+      "uk": "Підводний портрет"
+    },
+    "tags": [
+      {
+        "key": "introspective",
+        "i18n": {
+          "en": "Introspective",
+          "uk": "Інтроспективний"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "underwater",
+        "i18n": {
+          "en": "Underwater",
+          "uk": "Під водою"
+        }
+      },
+      {
+        "key": "curly-hair",
+        "i18n": {
+          "en": "curly hair",
+          "uk": "кучеряве волосся"
+        }
+      },
+      {
+        "key": "sunlight-patterns",
+        "i18n": {
+          "en": "sunlight patterns",
+          "uk": "візерунки сонячного світла"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "stacy 🪩🐉",
+  "authorUrl": "https://www.lummi.ai/creator/existacial?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A close-up underwater portrait of a young person with light skin and curly brown hair. The subject's face is partially obscured by their hand, which is reaching toward the camera, creating a sense of depth. Sunlight filters through the water, casting shimmering patterns and a rainbow effect on the hand. The subject's expression is calm and introspective, with their lips slightly parted and their green eyes gazing softly. The background is a soft, diffused blue, emphasizing the underwater setting and the play of light.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1792,
+  "height": 2688,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/underwater-portrait-xaa-v/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/underwater-portrait-xaa-v/underwater-portrait-xaa-v.png",
+  "relativeAssetPath": "library/lummi/images/underwater-portrait-xaa-v/underwater-portrait-xaa-v.png"
+}

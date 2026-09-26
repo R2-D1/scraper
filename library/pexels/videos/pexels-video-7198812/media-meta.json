@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-7198812",
+  "mediaKey": "pexels:video:7198812",
+  "i18n": {
+    "name": {
+      "en": "Pineapple Pattern on Yellow",
+      "uk": "Візерунок з ананасів на жовтому тлі"
+    },
+    "alt": {
+      "en": "Pexels video 7198812",
+      "uk": "Відео з Pexels № 7198812"
+    },
+    "tags": [
+      {
+        "key": "pineapple",
+        "i18n": {
+          "en": "pineapple",
+          "uk": "ананас"
+        }
+      },
+      {
+        "key": "fruit",
+        "i18n": {
+          "en": "fruit",
+          "uk": "фрукт"
+        }
+      },
+      {
+        "key": "yellow",
+        "i18n": {
+          "en": "yellow",
+          "uk": "жовтий"
+        }
+      },
+      {
+        "key": "repeating",
+        "i18n": {
+          "en": "repeating",
+          "uk": "повторюючи"
+        }
+      },
+      {
+        "key": "food",
+        "i18n": {
+          "en": "food",
+          "uk": "їжа"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/pineapples-in-yelow-background-7198812/",
+  "sourceName": "Pexels",
+  "authorName": "SHVETS production",
+  "authorUrl": "https://www.pexels.com/@shvets-production",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 7,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

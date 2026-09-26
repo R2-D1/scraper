@@ -1,0 +1,63 @@
+{
+  "slug": "profile-pic-fatv",
+  "mediaKey": "c7585561-4f3e-4adc-9faa-3fd544752d4c",
+  "providerId": "63721cc6f823670018b7e9af",
+  "i18n": {
+    "name": {
+      "en": "Profile pic",
+      "uk": "Фотографія профілю"
+    },
+    "alt": {
+      "en": "Profile pic",
+      "uk": "Фотографія профілю"
+    },
+    "tags": [
+      {
+        "key": "profile-pic",
+        "i18n": {
+          "en": "Profile pic",
+          "uk": "Фотографія профілю"
+        }
+      },
+      {
+        "key": "profile",
+        "i18n": {
+          "en": "profile",
+          "uk": "профіль"
+        }
+      },
+      {
+        "key": "pic",
+        "i18n": {
+          "en": "pic",
+          "uk": "зображення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/profile-pic_fatv.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 532,
+  "height": 532
+}

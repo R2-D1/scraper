@@ -1,0 +1,97 @@
+{
+  "slug": "emotion-joy",
+  "mediaKey": "74aab2f3-0804-45f7-9cd4-c3b3f1a23d1c",
+  "i18n": {
+    "name": {
+      "en": "Joy",
+      "uk": "Радість"
+    },
+    "alt": {
+      "en": "Joy",
+      "uk": "Радість"
+    },
+    "tags": [
+      {
+        "key": "emotion",
+        "i18n": {
+          "en": "emotion",
+          "uk": "емоція"
+        }
+      },
+      {
+        "key": "joy",
+        "i18n": {
+          "en": "joy",
+          "uk": "радість"
+        }
+      },
+      {
+        "key": "happy",
+        "i18n": {
+          "en": "happy",
+          "uk": "щасливий"
+        }
+      },
+      {
+        "key": "elated",
+        "i18n": {
+          "en": "elated",
+          "uk": "у захваті"
+        }
+      },
+      {
+        "key": "smile",
+        "i18n": {
+          "en": "smile",
+          "uk": "усмішка"
+        }
+      },
+      {
+        "key": "delight",
+        "i18n": {
+          "en": "delight",
+          "uk": "задоволення"
+        }
+      },
+      {
+        "key": "bliss",
+        "i18n": {
+          "en": "bliss",
+          "uk": "блаженство"
+        }
+      },
+      {
+        "key": "cheerful",
+        "i18n": {
+          "en": "cheerful",
+          "uk": "веселий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emotion-joy",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

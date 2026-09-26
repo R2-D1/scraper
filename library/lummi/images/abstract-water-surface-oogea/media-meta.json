@@ -1,0 +1,87 @@
+{
+  "slug": "abstract-water-surface-oogea",
+  "mediaKey": "d1b6f2d3-6a5c-4275-94c0-828b9d40c754",
+  "i18n": {
+    "name": {
+      "en": "Abstract Water Surface",
+      "uk": "Абстрактна поверхня води"
+    },
+    "alt": {
+      "en": "Abstract Water Surface",
+      "uk": "Абстрактна поверхня води"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "fluidity",
+        "i18n": {
+          "en": "Fluidity",
+          "uk": "Плинність"
+        }
+      },
+      {
+        "key": "monochromatic",
+        "i18n": {
+          "en": "Monochromatic",
+          "uk": "Монохроматичний"
+        }
+      },
+      {
+        "key": "water",
+        "i18n": {
+          "en": "Water",
+          "uk": "Вода"
+        }
+      },
+      {
+        "key": "light-reflections",
+        "i18n": {
+          "en": "light reflections",
+          "uk": "відблиски світла"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "textures"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Nika",
+  "authorUrl": "https://www.lummi.ai/creator/nikadominguez_?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A mesmerizing abstract pattern resembling the surface of water with light reflections. The image is in grayscale, featuring a complex interplay of light and shadow. The wavy lines and curves create a sense of movement, as if the surface is gently rippling. Darker areas contrast with lighter ones, adding depth and texture to the scene. The overall effect is calming and fluid, evoking the natural beauty of water in motion.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1345,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/abstract-water-surface-oogea/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/abstract-water-surface-oogea/abstract-water-surface-oogea.png",
+  "relativeAssetPath": "library/lummi/images/abstract-water-surface-oogea/abstract-water-surface-oogea.png"
+}

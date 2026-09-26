@@ -1,0 +1,63 @@
+{
+  "slug": "makeup-artist-0xtr",
+  "mediaKey": "4f164530-5443-4871-95e6-8bbe662a3284",
+  "providerId": "5afc681f911d0500145b3d71",
+  "i18n": {
+    "name": {
+      "en": "Makeup artist",
+      "uk": "Візажист"
+    },
+    "alt": {
+      "en": "Makeup artist",
+      "uk": "Візажист"
+    },
+    "tags": [
+      {
+        "key": "makeup-artist",
+        "i18n": {
+          "en": "Makeup artist",
+          "uk": "Візажист"
+        }
+      },
+      {
+        "key": "makeup",
+        "i18n": {
+          "en": "makeup",
+          "uk": "макіяж"
+        }
+      },
+      {
+        "key": "artist",
+        "i18n": {
+          "en": "artist",
+          "uk": "художник"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/makeup-artist_0xtr.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 930,
+  "height": 802
+}

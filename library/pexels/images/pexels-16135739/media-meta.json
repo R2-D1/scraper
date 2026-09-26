@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-16135739",
+  "mediaKey": "pexels:16135739",
+  "i18n": {
+    "name": {
+      "en": "Woman posing outside a red storefront",
+      "uk": "Жінка позує біля червоної вітрини"
+    },
+    "alt": {
+      "en": "Stylish woman crouching against a colorful urban backdrop with vibrant fashion attire.",
+      "uk": "Стильна жінка, що сидить навпочіпки на тлі барвистого міського пейзажу, в яскравому модному вбранні."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "sweater",
+        "i18n": {
+          "en": "sweater",
+          "uk": "светр"
+        }
+      },
+      {
+        "key": "denim-shorts",
+        "i18n": {
+          "en": "denim shorts",
+          "uk": "джинсові шорти"
+        }
+      },
+      {
+        "key": "street-style",
+        "i18n": {
+          "en": "street style",
+          "uk": "вуличний стиль"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-crouching-near-wall-16135739/",
+  "sourceName": "Pexels",
+  "authorName": "Lucas Brown",
+  "authorUrl": "https://www.pexels.com/@lucas-brown-368306455",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

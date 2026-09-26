@@ -1,0 +1,49 @@
+{
+  "slug": "font-cooz",
+  "mediaKey": "d571468a-4262-476d-8707-251886c7aa52",
+  "providerId": "61f157cfab7f4d0018fafa73",
+  "i18n": {
+    "name": {
+      "en": "Font",
+      "uk": "Шрифт"
+    },
+    "alt": {
+      "en": "Font",
+      "uk": "Шрифт"
+    },
+    "tags": [
+      {
+        "key": "font",
+        "i18n": {
+          "en": "Font",
+          "uk": "Шрифт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/font_cooz.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 745,
+  "height": 404
+}

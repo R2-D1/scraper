@@ -1,0 +1,68 @@
+{
+  "slug": "pexels-18541887",
+  "mediaKey": "pexels:18541887",
+  "i18n": {
+    "name": {
+      "en": "Radial silver lines on black",
+      "uk": "Радіальні сріблясті лінії на чорному тлі"
+    },
+    "alt": {
+      "en": "An artistic black and white image showcasing a wrinkled texture with a central tear.",
+      "uk": "Художнє чорно-біле зображення, на якому видно зморшкувату текстуру з розривом у центрі."
+    },
+    "tags": [
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "texture",
+          "uk": "текстура"
+        }
+      },
+      {
+        "key": "silver",
+        "i18n": {
+          "en": "silver",
+          "uk": "срібний"
+        }
+      },
+      {
+        "key": "black",
+        "i18n": {
+          "en": "black",
+          "uk": "чорний"
+        }
+      },
+      {
+        "key": "lines",
+        "i18n": {
+          "en": "lines",
+          "uk": "лінії"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "textures"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/texture-plastic-plastic-wrap-18541887/",
+  "sourceName": "Pexels",
+  "authorName": "Resource Boy",
+  "authorUrl": "https://www.pexels.com/@resourceboy",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3419
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-5046280",
+  "mediaKey": "pexels:5046280",
+  "i18n": {
+    "name": {
+      "en": "Woman working on a laptop in an office",
+      "uk": "Жінка, яка працює за ноутбуком в офісі"
+    },
+    "alt": {
+      "en": "A woman concentrating on her laptop in a creative indoor setting, surrounded by art supplies.",
+      "uk": "Жінка, яка зосереджено працює за ноутбуком у творчій обстановці в приміщенні, в оточенні художніх матеріалів."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "laptop",
+        "i18n": {
+          "en": "laptop",
+          "uk": "ноутбук"
+        }
+      },
+      {
+        "key": "office",
+        "i18n": {
+          "en": "office",
+          "uk": "Office"
+        }
+      },
+      {
+        "key": "work",
+        "i18n": {
+          "en": "work",
+          "uk": "робота"
+        }
+      },
+      {
+        "key": "desk",
+        "i18n": {
+          "en": "desk",
+          "uk": "письмовий стіл"
+        }
+      },
+      {
+        "key": "business",
+        "i18n": {
+          "en": "business",
+          "uk": "бізнес"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "business"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-woman-using-laptop-5046280/",
+  "sourceName": "Pexels",
+  "authorName": "Andrea Piacquadio",
+  "authorUrl": "https://www.pexels.com/@olly",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1529
+}

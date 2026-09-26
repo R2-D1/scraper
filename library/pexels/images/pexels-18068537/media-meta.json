@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-18068537",
+  "mediaKey": "pexels:18068537",
+  "i18n": {
+    "name": {
+      "en": "Sculptural red and white abstract form",
+      "uk": "Скульптурна абстрактна форма червоного та білого кольорів"
+    },
+    "alt": {
+      "en": "Colorful abstract 3D render featuring glossy black spheres against a blue sky background.",
+      "uk": "Яскравий абстрактний 3D-рендер із глянцевими чорними сферами на тлі блакитного неба."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "sculpture",
+        "i18n": {
+          "en": "sculpture",
+          "uk": "скульптура"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "white",
+        "i18n": {
+          "en": "white",
+          "uk": "білий"
+        }
+      },
+      {
+        "key": "curved-form",
+        "i18n": {
+          "en": "curved form",
+          "uk": "вигнута форма"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-was-inspired-by-how-ai-tools-can-amplify-bias-and-the-importance-of-research-for-responsible-deployment-it-was-created-18068537/",
+  "sourceName": "Pexels",
+  "authorName": "Google DeepMind",
+  "authorUrl": "https://www.pexels.com/@googledeepmind",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1351
+}

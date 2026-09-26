@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-39336998",
+  "mediaKey": "pexels:39336998",
+  "i18n": {
+    "name": {
+      "en": "Soccer players in a stadium match",
+      "uk": "Футболісти під час матчу на стадіоні"
+    },
+    "alt": {
+      "en": "Intense football match with player kicking ball in packed stadium.",
+      "uk": "Напружений футбольний матч, під час якого гравець б’є по м’ячу на переповненому стадіоні."
+    },
+    "tags": [
+      {
+        "key": "soccer",
+        "i18n": {
+          "en": "soccer",
+          "uk": "футбол"
+        }
+      },
+      {
+        "key": "football",
+        "i18n": {
+          "en": "football",
+          "uk": "футбол"
+        }
+      },
+      {
+        "key": "players",
+        "i18n": {
+          "en": "players",
+          "uk": "гравці"
+        }
+      },
+      {
+        "key": "stadium",
+        "i18n": {
+          "en": "stadium",
+          "uk": "стадіон"
+        }
+      },
+      {
+        "key": "match",
+        "i18n": {
+          "en": "match",
+          "uk": "збіг"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "sports",
+          "uk": "спорт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/dynamic-football-action-shot-in-stadium-39336998/",
+  "sourceName": "Pexels",
+  "authorName": "Mateo Franciosi",
+  "authorUrl": "https://www.pexels.com/@mateo-franciosi-283676800",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3200
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "bitcoin-q7r1",
+  "mediaKey": "23d4c7a9-da49-4d90-8a23-14ad5996b3f5",
+  "providerId": "62b43c80ec02c1001827fb45",
+  "i18n": {
+    "name": {
+      "en": "Bitcoin",
+      "uk": "Біткойн"
+    },
+    "alt": {
+      "en": "Bitcoin",
+      "uk": "Біткойн"
+    },
+    "tags": [
+      {
+        "key": "bitcoin",
+        "i18n": {
+          "en": "Bitcoin",
+          "uk": "Біткойн"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/bitcoin_q7r1.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 867,
+  "height": 326
+}

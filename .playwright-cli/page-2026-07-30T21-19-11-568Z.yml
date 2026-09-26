@@ -1,0 +1,289 @@
+- generic [ref=f47e4]:
+  - navigation [ref=f47e5]:
+    - generic [ref=f47e6]:
+      - generic [ref=f47e7]:
+        - link "Unsplash Home" [ref=f47e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f47e9]
+        - link "Photos" [ref=f47e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f47e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f47e17]:
+        - button "Explore" [ref=f47e18] [cursor=pointer]
+        - button "Collections" [ref=f47e21] [cursor=pointer]
+        - button "Download History" [ref=f47e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f47e28] [cursor=pointer]
+    - generic [ref=f47e31]:
+      - link "Log in / Sign up" [ref=f47e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-boot-stomps-on-a-barbed-wire-wrapped-baseball-bat-ksmYL9aH5zc
+      - button "Language" [ref=f47e35] [cursor=pointer]
+      - button "Menu" [ref=f47e38] [cursor=pointer]
+  - generic [ref=f47e41]:
+    - generic [ref=f47e42]:
+      - navigation [ref=f47e43]:
+        - search "Find visuals sitewide" [ref=f47e45]:
+          - button "Search Unsplash" [ref=f47e46] [cursor=pointer]
+          - combobox [ref=f47e49]:
+            - searchbox "Search Unsplash" [ref=f47e50]
+            - listbox
+          - button "Visual search" [ref=f47e52] [cursor=pointer]
+        - generic [ref=f47e55]:
+          - link "Get Unsplash+" [ref=f47e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f47e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-boot-stomps-on-a-barbed-wire-wrapped-baseball-bat-ksmYL9aH5zc
+        - button "Submit an image" [ref=f47e59] [cursor=pointer]
+      - generic [ref=f47e60]:
+        - generic [ref=f47e61]:
+          - banner [ref=f47e63]:
+            - generic [ref=f47e65]:
+              - link [ref=f47e66] [cursor=pointer]:
+                - /url: /@rezzaalam/illustrations
+              - generic [ref=f47e69]:
+                - link "Rezza Alam" [ref=f47e70] [cursor=pointer]:
+                  - /url: /@rezzaalam/illustrations
+                - generic [ref=f47e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f47e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-boot-stomps-on-a-barbed-wire-wrapped-baseball-bat-ksmYL9aH5zc
+            - generic [ref=f47e73]:
+              - button "Bookmark" [ref=f47e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f47e77] [cursor=pointer]
+              - button "Edit image" [ref=f47e80] [cursor=pointer]
+              - button "Download" [ref=f47e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f47e90]:
+            - img "A boot stomps on a barbed wire-wrapped baseball bat." [ref=f47e91]
+          - generic [ref=f47e92]:
+            - generic [ref=f47e94]:
+              - button "Share this image" [ref=f47e95] [cursor=pointer]:
+                - generic [ref=f47e98]: Share
+              - button "More Actions" [ref=f47e99] [cursor=pointer]
+            - generic [ref=f47e103]:
+              - heading "A boot stomps on a barbed wire-wrapped baseball bat." [level=1] [ref=f47e105]
+              - paragraph [ref=f47e109]: Crime Scene Concept
+              - generic [ref=f47e111]:
+                - generic [ref=f47e116]:
+                  - text: Published on
+                  - time [ref=f47e117]: October 23, 2025
+                - generic [ref=f47e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f47e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f47e124]:
+              - link "illustration" [ref=f47e125] [cursor=pointer]:
+                - /url: /s/illustrations/illustration
+              - link "white" [ref=f47e126] [cursor=pointer]:
+                - /url: /s/illustrations/white
+              - link "graphic design" [ref=f47e127] [cursor=pointer]:
+                - /url: /s/illustrations/graphic-design
+              - link "orange" [ref=f47e128] [cursor=pointer]:
+                - /url: /s/illustrations/orange
+              - link "horror" [ref=f47e129] [cursor=pointer]:
+                - /url: /s/illustrations/horror
+              - link "vector" [ref=f47e130] [cursor=pointer]:
+                - /url: /s/illustrations/vector
+              - link "blood" [ref=f47e131] [cursor=pointer]:
+                - /url: /s/illustrations/blood
+              - link "fear" [ref=f47e132] [cursor=pointer]:
+                - /url: /s/illustrations/fear
+              - link "broken glass" [ref=f47e133] [cursor=pointer]:
+                - /url: /s/illustrations/broken-glass
+              - link "danger" [ref=f47e134] [cursor=pointer]:
+                - /url: /s/illustrations/danger
+              - link "darkness" [ref=f47e135] [cursor=pointer]:
+                - /url: /s/illustrations/darkness
+              - link "violence" [ref=f47e136] [cursor=pointer]:
+                - /url: /s/illustrations/violence
+              - link "barbed wire" [ref=f47e137] [cursor=pointer]:
+                - /url: /s/illustrations/barbed-wire
+              - link "dark art" [ref=f47e138] [cursor=pointer]:
+                - /url: /s/illustrations/dark-art
+              - link "blood splatter" [ref=f47e139] [cursor=pointer]:
+                - /url: /s/illustrations/blood-splatter
+              - link "boot" [ref=f47e140] [cursor=pointer]:
+                - /url: /s/illustrations/boot
+              - link "aggression" [ref=f47e141] [cursor=pointer]:
+                - /url: /s/illustrations/aggression
+              - link "violent" [ref=f47e142] [cursor=pointer]:
+                - /url: /s/illustrations/violent
+              - link "red splash" [ref=f47e143] [cursor=pointer]:
+                - /url: /s/illustrations/red-splash
+              - link "stylized" [ref=f47e144] [cursor=pointer]:
+                - /url: /s/illustrations/stylized
+        - generic [ref=f47e147]:
+          - generic [ref=f47e148]:
+            - paragraph [ref=f47e150]: From this series
+            - generic [ref=f47e153]:
+              - generic [ref=f47e154]:
+                - link [ref=f47e155] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fknife-stabbing-a-playing-card-on-a-poker-table-MEeT9uZhb_c
+                - link [ref=f47e158]:
+                  - /url: /illustrations/knife-stabbing-a-playing-card-on-a-poker-table-MEeT9uZhb_c
+                  - img "Knife stabbing a playing card on a poker table." [ref=f47e159]
+              - generic [ref=f47e160]:
+                - link [ref=f47e161] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fhandcuffs-on-a-door-handle-with-a-person-peering-through-Mvwj69XAApg
+                - link [ref=f47e164]:
+                  - /url: /illustrations/handcuffs-on-a-door-handle-with-a-person-peering-through-Mvwj69XAApg
+                  - img "Handcuffs on a door handle with a person peering through." [ref=f47e165]
+              - generic [ref=f47e166]:
+                - link [ref=f47e167] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fgun-and-bullets-displayed-in-a-museum-exhibit-4mXjeEf6VVg
+                - link [ref=f47e170]:
+                  - /url: /illustrations/gun-and-bullets-displayed-in-a-museum-exhibit-4mXjeEf6VVg
+                  - img "Gun and bullets displayed in a museum exhibit" [ref=f47e171]
+              - generic [ref=f47e172]:
+                - link [ref=f47e173] [cursor=pointer]:
+                  - /url: /plus?referrer=%2Fillustrations%2Fchalk-outline-of-body-at-crime-scene-DYmwY0ExG04
+                - link [ref=f47e176]:
+                  - /url: /illustrations/chalk-outline-of-body-at-crime-scene-DYmwY0ExG04
+                  - img "Chalk outline of body at crime scene" [ref=f47e177]
+          - generic [ref=f47e178]:
+            - heading "Related images" [level=4] [ref=f47e180]
+            - generic [ref=f47e184]:
+              - generic [ref=f47e185]:
+                - figure [ref=f47e186]:
+                  - generic [ref=f47e188]:
+                    - link [ref=f47e189]:
+                      - /url: /illustrations/a-knife-casts-a-shadow-of-a-person-OYDIx7P6Lno
+                      - img "A knife casts a shadow of a person." [ref=f47e190]
+                    - link [ref=f47e191] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-knife-casts-a-shadow-of-a-person-OYDIx7P6Lno
+                - figure [ref=f47e194]:
+                  - generic [ref=f47e196]:
+                    - link [ref=f47e197]:
+                      - /url: /illustrations/silhouette-of-man-standing-in-doorway-with-blood-and-gun-Fsac6aosBQg
+                      - img "Silhouette of man standing in doorway with blood and gun." [ref=f47e198]
+                    - link [ref=f47e199] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fsilhouette-of-man-standing-in-doorway-with-blood-and-gun-Fsac6aosBQg
+                - figure [ref=f47e202]:
+                  - generic [ref=f47e204]:
+                    - link [ref=f47e205]:
+                      - /url: /illustrations/a-cartoon-of-a-person-holding-a-chain-t2wy6mR9WfM
+                      - img "A cartoon of a person holding a chain" [ref=f47e206]
+                    - link [ref=f47e207] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-cartoon-of-a-person-holding-a-chain-t2wy6mR9WfM
+                - figure [ref=f47e210]:
+                  - generic [ref=f47e212]:
+                    - link [ref=f47e213]:
+                      - /url: /illustrations/hands-breaking-chains-symbolizing-unity-and-freedom-hnT8VmENuVQ
+                      - img "Hands breaking chains, symbolizing unity and freedom." [ref=f47e214]
+                    - link [ref=f47e215] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhands-breaking-chains-symbolizing-unity-and-freedom-hnT8VmENuVQ
+                - figure [ref=f47e218]:
+                  - generic [ref=f47e220]:
+                    - link [ref=f47e221]:
+                      - /url: /illustrations/a-person-standing-in-front-of-a-brick-wall-PP1zmchfdzo
+                      - img "A person standing in front of a brick wall" [ref=f47e222]
+                    - link [ref=f47e223] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-standing-in-front-of-a-brick-wall-PP1zmchfdzo
+                - figure [ref=f47e226]:
+                  - generic [ref=f47e228]:
+                    - link [ref=f47e229]:
+                      - /url: /illustrations/crime-scene-with-chalk-outline-and-caution-tape-saImwuOC010
+                      - img "Crime scene with chalk outline and caution tape" [ref=f47e230]
+                    - link [ref=f47e231] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcrime-scene-with-chalk-outline-and-caution-tape-saImwuOC010
+              - generic [ref=f47e234]:
+                - figure [ref=f47e235]:
+                  - generic [ref=f47e237]:
+                    - link [ref=f47e238]:
+                      - /url: /illustrations/hand-holding-gun-shining-light-on-chalk-outline-cnMDh-aImsg
+                      - img "Hand holding gun shining light on chalk outline." [ref=f47e239]
+                    - link [ref=f47e240] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-gun-shining-light-on-chalk-outline-cnMDh-aImsg
+                - figure [ref=f47e243]:
+                  - generic [ref=f47e245]:
+                    - link [ref=f47e246]:
+                      - /url: /illustrations/silhouette-of-a-person-with-a-knife-and-blood-fExLGJPEjvA
+                      - img "Silhouette of a person with a knife and blood." [ref=f47e247]
+                    - link [ref=f47e248] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fsilhouette-of-a-person-with-a-knife-and-blood-fExLGJPEjvA
+                - figure [ref=f47e251]:
+                  - generic [ref=f47e253]:
+                    - link [ref=f47e254]:
+                      - /url: /illustrations/a-red-shoe-chained-to-a-red-chain-qunCX_8wBDM
+                      - img "A red shoe chained to a red chain" [ref=f47e255]
+                    - link [ref=f47e256] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-red-shoe-chained-to-a-red-chain-qunCX_8wBDM
+                - figure [ref=f47e259]:
+                  - generic [ref=f47e261]:
+                    - link [ref=f47e262]:
+                      - /url: /illustrations/red-paint-dripping-from-a-hand-against-black-onxoDjs8tD4
+                      - img "Red paint dripping from a hand against black." [ref=f47e263]
+                    - link [ref=f47e264] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fred-paint-dripping-from-a-hand-against-black-onxoDjs8tD4
+                - figure [ref=f47e267]:
+                  - generic [ref=f47e269]:
+                    - link [ref=f47e270]:
+                      - /url: /illustrations/gun-silhouette-contains-house-victim-bleeds-8FDKAg_-9Oc
+                      - img "Gun silhouette contains house, victim bleeds" [ref=f47e271]
+                    - link [ref=f47e272] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fgun-silhouette-contains-house-victim-bleeds-8FDKAg_-9Oc
+                - figure [ref=f47e275]:
+                  - generic [ref=f47e277]:
+                    - link [ref=f47e278]:
+                      - /url: /illustrations/a-black-and-white-drawing-of-a-persons-foot-with-a-rope-around-it-oMvgx4Q9wCY
+                      - img "A black and white drawing of a person's foot with a rope around it" [ref=f47e279]
+                    - link [ref=f47e280] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-black-and-white-drawing-of-a-persons-foot-with-a-rope-around-it-oMvgx4Q9wCY
+                - figure [ref=f47e283]:
+                  - generic [ref=f47e285]:
+                    - link [ref=f47e286]:
+                      - /url: /illustrations/handcuffs-on-a-door-handle-with-a-person-peering-through-Mvwj69XAApg
+                      - img "Handcuffs on a door handle with a person peering through." [ref=f47e287]
+                    - link [ref=f47e288] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhandcuffs-on-a-door-handle-with-a-person-peering-through-Mvwj69XAApg
+              - generic [ref=f47e291]:
+                - figure [ref=f47e292]:
+                  - generic [ref=f47e294]:
+                    - link [ref=f47e295]:
+                      - /url: /illustrations/a-person-holding-a-knife-in-front-of-a-bloody-wall-Y-jeYoVLW1Y
+                      - img "A person holding a knife in front of a bloody wall" [ref=f47e296]
+                    - link [ref=f47e297] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-person-holding-a-knife-in-front-of-a-bloody-wall-Y-jeYoVLW1Y
+                - figure [ref=f47e300]:
+                  - generic [ref=f47e302]:
+                    - link [ref=f47e303]:
+                      - /url: /illustrations/broken-window-knife-and-fallen-person-with-phone-rTGE6-mxQkA
+                      - img "Broken window, knife, and fallen person with phone." [ref=f47e304]
+                    - link [ref=f47e305] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fbroken-window-knife-and-fallen-person-with-phone-rTGE6-mxQkA
+                - figure [ref=f47e308]:
+                  - generic [ref=f47e310]:
+                    - link [ref=f47e311]:
+                      - /url: /illustrations/hand-pouring-powder-into-drink-inside-gun-silhouette-uFh6N3cQUa8
+                      - img "Hand pouring powder into drink inside gun silhouette" [ref=f47e312]
+                    - link [ref=f47e313] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhand-pouring-powder-into-drink-inside-gun-silhouette-uFh6N3cQUa8
+                - figure [ref=f47e316]:
+                  - generic [ref=f47e318]:
+                    - link [ref=f47e319]:
+                      - /url: /illustrations/hand-holding-bloody-knife-near-red-barn-30_qUqCp9Ss
+                      - img "Hand holding bloody knife near red barn" [ref=f47e320]
+                    - link [ref=f47e321] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fhand-holding-bloody-knife-near-red-barn-30_qUqCp9Ss
+                - figure [ref=f47e324]:
+                  - generic [ref=f47e326]:
+                    - link [ref=f47e327]:
+                      - /url: /illustrations/crime-scene-investigation-with-chalk-outline-and-knife-fOAQAWzOPU4
+                      - img "Crime scene investigation with chalk outline and knife" [ref=f47e328]
+                    - link [ref=f47e329] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fcrime-scene-investigation-with-chalk-outline-and-knife-fOAQAWzOPU4
+                - figure [ref=f47e332]:
+                  - generic [ref=f47e334]:
+                    - link [ref=f47e335]:
+                      - /url: /illustrations/a-man-standing-in-a-doorway-with-a-knife-in-his-hand-pIHn7xJdwYQ
+                      - img "A man standing in a doorway with a knife in his hand" [ref=f47e336]
+                    - link [ref=f47e337] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-man-standing-in-a-doorway-with-a-knife-in-his-hand-pIHn7xJdwYQ
+                - figure [ref=f47e340]:
+                  - generic [ref=f47e342]:
+                    - link [ref=f47e343]:
+                      - /url: /illustrations/two-hands-reaching-for-a-man-with-a-cigarette-0AJb9lJL1bM
+                      - img "Two hands reaching for a man with a cigarette" [ref=f47e344]
+                    - link [ref=f47e345] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Ftwo-hands-reaching-for-a-man-with-a-cigarette-0AJb9lJL1bM
+    - generic:
+      - region "Notifications"

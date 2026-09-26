@@ -1,0 +1,63 @@
+{
+  "slug": "bike-ride-ba0o",
+  "mediaKey": "c46efe57-ec52-4057-9587-a0d2a10fb677",
+  "providerId": "67b655e910b1b6c910441b4f",
+  "i18n": {
+    "name": {
+      "en": "Bike ride",
+      "uk": "Велопрогулянка"
+    },
+    "alt": {
+      "en": "Bike ride",
+      "uk": "Велопрогулянка"
+    },
+    "tags": [
+      {
+        "key": "bike-ride",
+        "i18n": {
+          "en": "Bike ride",
+          "uk": "Велопрогулянка"
+        }
+      },
+      {
+        "key": "bike",
+        "i18n": {
+          "en": "bike",
+          "uk": "велосипед"
+        }
+      },
+      {
+        "key": "ride",
+        "i18n": {
+          "en": "ride",
+          "uk": "поїздка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/bike-ride_ba0o.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 805,
+  "height": 589
+}

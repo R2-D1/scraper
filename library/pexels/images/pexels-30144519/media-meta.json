@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-30144519",
+  "mediaKey": "pexels:30144519",
+  "i18n": {
+    "name": {
+      "en": "Runners on a red athletics track",
+      "uk": "Бігуни на червоній легкоатлетичній доріжці"
+    },
+    "alt": {
+      "en": "A group of athletes running on a curved outdoor track in a competitive race.",
+      "uk": "Група спортсменів, які біжать по кривій відкритій доріжці під час змагань."
+    },
+    "tags": [
+      {
+        "key": "runners",
+        "i18n": {
+          "en": "runners",
+          "uk": "бігуни"
+        }
+      },
+      {
+        "key": "running-track",
+        "i18n": {
+          "en": "running track",
+          "uk": "бігова доріжка"
+        }
+      },
+      {
+        "key": "athletics",
+        "i18n": {
+          "en": "athletics",
+          "uk": "атлетика"
+        }
+      },
+      {
+        "key": "race",
+        "i18n": {
+          "en": "race",
+          "uk": "гонка"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "sports",
+          "uk": "спорт"
+        }
+      },
+      {
+        "key": "red-track",
+        "i18n": {
+          "en": "red track",
+          "uk": "червона доріжка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/athletes-competing-in-outdoor-track-race-30144519/",
+  "sourceName": "Pexels",
+  "authorName": "Ansey Photography",
+  "authorUrl": "https://www.pexels.com/@ansey",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

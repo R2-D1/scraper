@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 200">
+  <defs>
+    <filter id="luminosity-noclip" x="104.54" y="126.59" width="21.84" height="18.29" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask" x="104.54" y="126.59" width="21.84" height="18.29" maskUnits="userSpaceOnUse">
+      <g style="filter: url(#luminosity-noclip);">
+        <image width="910" height="762" transform="translate(104.54 126.59) scale(.02)" xlink:href="data:image/png;base64,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"/>
+      </g>
+    </mask>
+    <filter id="luminosity-noclip-2" x="114.47" y="128.79" width="9.89" height="15.34" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-1" x="114.47" y="128.79" width="9.89" height="15.34" maskUnits="userSpaceOnUse">
+      <g style="filter: url(#luminosity-noclip-2);">
+        <image width="412" height="639" transform="translate(114.47 128.79) scale(.02)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAA+CAYAAABHuGlYAAAACXBIWXMAAC4jAAAuIwF4pT92AAADSklEQVRoge2ZbY+jMAyEh5DQ//9rS97vw2oikyZAlrJ3e6qlCAm15WE8sQ2dAGT8g6H+NkAvPmCj8QEbjQ/YaPx+sGmaME3TnSybGFbsp+D0mQ9RLUKllJDzvZ3sNJhSaqPW3XCHYISa57mAKaUQY0SM8Ta404rN81zgUkoF8i64QzCqpbWG1hpKKaSUMM8zlFJwzt0CdwpMaw1jDIwxUEoh54yUUvGdtfbtcLtgTCGhCMZ0Mr1KKazrihDC2+B2wWq1jDHFZzlnaK033lvXFd77t8AdgtFfEo5g0muyzr0Drgsm00jjL8tSNgDwVcuomlKqAD6fTzjnLsHtKiZ347IsBVKWjRjjxmuyCF+B64LVZYLplGWD6fTev4Dx+F24w1T20in7ZstnAJBzRs75W57rglEtwskNwHO8eIxx4zEJllJCSgkhhPeAScXkkqmsu4AEI1SMESGE4QLcBGPj5pJATK1s6lSsB+Wcg/ce3vvrikmoGlLuQvlZCcbpg0DW2qHOsJvKnnI8EiznXMCo1uPxQIwRj8cD1losywLn3GmvHfZKCdgCJVgrjbJbLMuCeZ6vg8nd1YKTJUKCpZRgjEEIoZQZWW7O1rVTivUA6w2Qc97dyXIAOIruUxKLYwu2BymVbAHKDXMUXcUItnd3dftppVruaqnwUTTxaWB57IHKdMu21Ftno6sYWwlXDdcC7aW+Tv8lMFkkuf1rUPm0VIPWx9HoghGqBxdjfFFgL/3y/CWwnHNpvrIRhxDK1ufUICu+BO9Z4RIYf5wwEpLnAGxqk/xOb52NQ8XYhAnHaVV6S4LJm6hvhipeAgPwAuacg9Ya3vtNC5LVn5+vF4Evp5IX5Q8752CMgXNuM1XIVFKlHtzIsDgMJttKa9whmLUWzrnNeovHeGFehA8htUItMIJYawug9/60vw7BgC/f8CJSLfmw20qltRbruha40SelQ7CcM5xzWNf1ZczhFNtSjECEG1HrFBghrLUbb8lCy3O1J5/P57ffAp0Co9dkiQghvEyx8gGEao16awiMMPQJ08g3P4SXirFufQcKACYM/sPLoU/6S4LJHnnlbc8wWPliNfyNNunbwO6O3/8n10/HB2w0PmCj8QH7b+IPZt8fCEdw4BsAAAAASUVORK5CYII="/>
+      </g>
+    </mask>
+    <filter id="luminosity-noclip-3" x="106.36" y="127.98" width="13.82" height="13.61" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-2" x="106.36" y="127.98" width="13.82" height="13.61" maskUnits="userSpaceOnUse">
+      <g style="filter: url(#luminosity-noclip-3);">
+        <image width="576" height="567" transform="translate(106.36 127.98) scale(.02)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAA3CAYAAACo29JGAAAACXBIWXMAAC4jAAAuIwF4pT92AAADl0lEQVRoge2a627qMBCEx5dcTPv+j0riOHbOj6Px2QQH2tNcoGIkCxUJNZ9md3aNUAAm/E4pffYT7Kk33KvqDfeqesO9quxZ/1gpNXudpmn2uoUOhVNKQWs9A5umaRcw4AA4pVSGMsbkvwFksBjj5mDAznDGmNmRrk3ThJQSxnG8Kc2ttAuc1hrWWlhrUVUVrLXZNQDZrXEcEWPM722tTeGUUjDGoK7rfEpgKSUopfLrHmDAhnBaa1RVhbZt0TQNqqpCVVW5HKkYY+6xZe9trU3grLVomgZt26Jt2wy2dI09BvyF1FrvBgb8EE4pld1yzqFt22I5sgRTSgCQy5F6OjilFOq6hnMOl8sll2Nd17NyZE+llBBjRErpJjX30n/BKaXQNA0ul0sGc85lMLrGXpPlWBoJT+OcBPv4+IBzDs65u67FGHNpHgUGfBNOgn1+fuaSbJomJ2QpRAhJsKeDY48RTJYkXZPlKHsN+JuOxhgA/6BSSs8BZ62Fcy6XIsHkXFuLfq31bNYBeB44Y0wRjL1WVRXqup6FCIc0e06KY0GOhz30EI59xjnGV1mOLEnpEB9aBgjf51lCb62HcBzS0ikZIGsJSRAprl1cwU4tS6016rrOLvEQaDnXlim4XJYlmLwRnALHnZF7owSSUCXXJKQsQwm3Z78Bd74g4pYvN3z2Fo8EKwFKMMKN44hxHBFC2LUkvwRnrZ1BGWNm4SGHspQE4kggVAgB4zieB2eMKZaePEuwZcQv3eIZhmH3klyF44162U+lYQzMA0P2Vgghw4UQMAxDdu4IuGKgSBD57dUSiDC8dEowpiFheLz3h5TkXbhSLxFIgsnvHqdpuuktOiYPrz+nwJVgGAx0pVSedI3lJ4G89/DeYxiGQ1wDVuBKEb48LC3p3rK/CESovu8Pc+0unOwbGRDLrV/uktI5Annv0fc9uq47LCW/BCd7hrNN3snWvmilSzwEDCEcBgbc6TnCSTCCxBjzsixdlJ/x3qPrOnRdh+v1emivUatwKSUMw5BnHdNTRr4ElmFD5wjX9/3uS3JJd9Myxgjv/ewCSggJLceAdO56vaLrukP2yJIejoIQwo1jIYSby6kMnRBCduyMcqQeXlanacopx4eXN+9SzzEpj1qz1qTwxZ9HcQWTV541OI6QsxzLj4xv/vZL7p3y/rYc/E+g78PNP327ez6Rfgb35Hr/au9l9YZ7Vb3hXlW/Gu5X6w9Whwo0HWxtIQAAAABJRU5ErkJggg=="/>
+      </g>
+    </mask>
+  </defs>
+  <g id="BG1">
+    <rect y="0" width="300" height="200" style="fill: #fff;"/>
+  </g>
+  <g id="Illustrations">
+    <g>
+      <g style="opacity: .2;">
+        <path d="M103.74,63.12v.88s-.02.09-.06.12l-1.21.95c-.08.06-.08.19,0,.25l1.21.95s.06.08.06.12v.88c0,.13-.14.2-.24.12l-2.63-2.08c-.08-.06-.08-.19,0-.25l2.63-2.08c.1-.08.24,0,.24.12Z" style="fill: #339;"/>
+        <path d="M106.51,63.12v.88s-.02.09-.06.12l-1.21.95c-.08.06-.08.19,0,.25l1.21.95s.06.08.06.12v.88c0,.13-.14.2-.24.12l-2.63-2.08c-.08-.06-.08-.19,0-.25l2.63-2.08c.1-.08.24,0,.24.12Z" style="fill: #339;"/>
+        <path d="M100.97,63.12v.88s-.02.09-.06.12l-1.21.95c-.08.06-.08.19,0,.25l1.21.95s.06.08.06.12v.88c0,.13-.14.2-.24.12l-2.63-2.08c-.08-.06-.08-.19,0-.25l2.63-2.08c.1-.08.24,0,.24.12Z" style="fill: #339;"/>
+        <path d="M98.2,63.12v.88s-.02.09-.06.12l-1.21.95c-.08.06-.08.19,0,.25l1.21.95s.06.08.06.12v.88c0,.13-.14.2-.24.12l-2.63-2.08c-.08-.06-.08-.19,0-.25l2.63-2.08c.1-.08.24,0,.24.12Z" style="fill: #339;"/>
+      </g>
+      <g>
+        <rect x="103.66" y="56.28" width=".25" height="2.85" style="fill: #339;"/>
+        <rect x="103.66" y="56.28" width=".25" height="2.85" transform="translate(46.09 161.49) rotate(-90)" style="fill: #339;"/>
+      </g>
+      <g id="Icon_1" data-name="Icon 1">
+        <g id="Path_1" data-name="Path 1">
+          <g id="Path_1-2" data-name="Path 1">
+            <path d="M94.54,34.81h39.2c5.36,0,9.7,4.34,9.7,9.7v39.59c0,5.36-4.34,9.7-9.7,9.7h-39.2c-5.36,0-9.7-4.34-9.7-9.7v-39.59c0-5.36,4.34-9.7,9.7-9.7Z" style="fill: #5252a9; fill-rule: evenodd;"/>
+          </g>
+        </g>
+        <path id="Path_2" data-name="Path 2" d="M94.54,34.81h39.2c5.36,0,9.7,4.34,9.7,9.7v38.23c0,5.36-4.34,9.7-9.7,9.7h-39.2c-5.36,0-9.7-4.34-9.7-9.7v-38.23c0-5.36,4.34-9.7,9.7-9.7Z" style="fill: #339; fill-rule: evenodd;"/>
+        <path id="Path_3" data-name="Path 3" d="M143.45,61.43v21.32c0,5.36-4.34,9.7-9.7,9.7h-19.49l-14.67-13.39,26.59-32.99,17.27,15.36Z" style="fill-rule: evenodd; opacity: .2;"/>
+        <path id="Path_4" data-name="Path 4" d="M114.24,42.38c11.74,0,21.25,9.51,21.25,21.25s-9.51,21.25-21.25,21.25-21.25-9.51-21.25-21.25,9.51-21.25,21.25-21.25Z" style="fill: #9191c8; fill-rule: evenodd;"/>
+        <path id="Path_5" data-name="Path 5" d="M114.24,47.67c8.81,0,15.96,7.15,15.96,15.96s-7.15,15.96-15.96,15.96-15.96-7.15-15.96-15.96,7.15-15.96,15.96-15.96Z" style="fill: #7272b8; fill-rule: evenodd;"/>
+        <path id="Path_6" data-name="Path 6" d="M143.42,71.17v11.58c0,5.36-4.34,9.7-9.7,9.7h-7.03l-22.14-19.58,16.83-20.88,22.05,19.18Z" style="fill-rule: evenodd; opacity: .2;"/>
+        <rect id="Path_7" data-name="Path 7" x="100.32" y="50.3" width="4.97" height="9.32" rx="1.32" ry="1.32" transform="translate(-2.71 104.51) rotate(-53.29)" style="fill: #fff;"/>
+        <path id="Path_8" data-name="Path 8" d="M99.98,55.95c-.34-.26-.41-.75-.15-1.09l2.03-2.72c.26-.35.75-.42,1.09-.17l3.68,2.74c.34.26.41.75.15,1.09l-2.03,2.72c-.26.35-.75.42-1.09.17l-3.68-2.74Z" style="fill: #e3e3c5; fill-rule: evenodd;"/>
+        <circle id="Path_9" data-name="Path 9" cx="114.41" cy="63.59" r="13.53" transform="translate(36.01 168.41) rotate(-82.27)" style="fill: #fff;"/>
+        <circle id="Path_10" data-name="Path 10" cx="114.38" cy="63.63" r="11.9" transform="translate(-15.35 80.99) rotate(-36.71)" style="fill: #e3e3c5;"/>
+        <circle id="Path_11" data-name="Path 11" cx="114.39" cy="63.84" r="10.67" transform="translate(-1.88 124.18) rotate(-56.6)" style="fill: #030303;"/>
+        <path id="Path_12" data-name="Path 12" d="M124.45,66.99c-.66,1.48-1.67,2.82-3.02,3.9-4.54,3.64-11.17,2.92-14.81-1.62-1.95-2.43-2.65-5.46-2.18-8.31-.43,1.39-.57,2.9-.34,4.43.82,5.61,6.13,9.48,11.86,8.65,4.09-.6,7.29-3.43,8.49-7.04Z" style="fill: #80884b; fill-rule: evenodd;"/>
+        <path id="Path_13" data-name="Path 13" d="M115.58,57.37c2.39.49,4.5.05,4.71-.99.21-1.04-1.55-2.28-3.93-2.77-2.39-.49-4.5-.05-4.71.99-.21,1.04,1.55,2.28,3.93,2.77Z" style="fill: #80884b;"/>
+        <path id="Path_14" data-name="Path 14" d="M121.57,56.65c.63.13,1.04.75.91,1.38-.13.63-.75,1.04-1.38.91-.63-.13-1.04-.75-.91-1.38.13-.63.75-1.04,1.38-.91Z" style="fill: #80884b;"/>
+      </g>
+      <g id="Icon_2" data-name="Icon 2">
+        <g id="Path_1-3" data-name="Path 1">
+          <g id="Path_1-4" data-name="Path 1">
+            <path d="M96.37,106.34h39.2c5.36,0,9.7,4.34,9.7,9.7v39.59c0,5.36-4.34,9.7-9.7,9.7h-39.2c-5.36,0-9.7-4.34-9.7-9.7v-39.59c0-5.36,4.34-9.7,9.7-9.7Z" style="fill: #5252a9; fill-rule: evenodd;"/>
+          </g>
+        </g>
+        <path id="Path_2-2" data-name="Path 2" d="M96.37,106.34h39.2c5.36,0,9.7,4.34,9.7,9.7v38.23c0,5.36-4.34,9.7-9.7,9.7h-39.2c-5.36,0-9.7-4.34-9.7-9.7v-38.23c0-5.36,4.34-9.7,9.7-9.7Z" style="fill: #339; fill-rule: evenodd;"/>
+        <path id="Path_3-2" data-name="Path 3" d="M145.27,132.96v21.32c0,5.36-4.34,9.7-9.7,9.7h-19.49l-14.67-13.39,26.59-32.99,17.27,15.36Z" style="fill-rule: evenodd; opacity: .2;"/>
+        <path id="Path_4-2" data-name="Path 4" d="M116.07,113.91c11.74,0,21.25,9.51,21.25,21.25s-9.51,21.25-21.25,21.25-21.25-9.51-21.25-21.25,9.51-21.25,21.25-21.25Z" style="fill: #9191c8; fill-rule: evenodd;"/>
+        <path id="Path_5-2" data-name="Path 5" d="M116.07,119.2c8.81,0,15.96,7.15,15.96,15.96s-7.15,15.96-15.96,15.96-15.96-7.15-15.96-15.96,7.15-15.96,15.96-15.96Z" style="fill: #7272b8; fill-rule: evenodd;"/>
+        <path id="Path_6-2" data-name="Path 6" d="M145.24,142.7v11.58c0,5.36-4.34,9.7-9.7,9.7h-7.03l-22.14-19.58,16.83-20.88,22.05,19.18Z" style="fill-rule: evenodd; opacity: .2;"/>
+        <rect id="Path_7-2" data-name="Path 7" x="102.14" y="121.83" width="4.97" height="9.32" rx="1.32" ry="1.32" transform="translate(-59.32 134.74) rotate(-53.29)" style="fill: #fff;"/>
+        <path id="Path_8-2" data-name="Path 8" d="M101.8,127.48c-.34-.26-.41-.75-.15-1.09l2.03-2.72c.26-.35.75-.42,1.09-.17l3.68,2.74c.34.26.41.75.15,1.09l-2.03,2.72c-.26.35-.75.42-1.09.17l-3.68-2.74Z" style="fill: #e3e3c5; fill-rule: evenodd;"/>
+        <circle id="Path_9-2" data-name="Path 9" cx="116.24" cy="135.12" r="13.53" transform="translate(-61.72 145.15) rotate(-52.52)" style="fill: #fff;"/>
+        <path id="Path_10-2" data-name="Path 10" d="M109.09,144.71c-5.27-3.93-6.36-11.39-2.43-16.66,3.93-5.27,11.39-6.36,16.66-2.43,5.27,3.93,6.36,11.39,2.43,16.66-3.93,5.27-11.39,6.36-16.66,2.43Z" style="fill: #e3e3c5; fill-rule: evenodd;"/>
+        <path id="Path_11-2" data-name="Path 11" d="M109.83,143.92c-4.72-3.52-5.7-10.21-2.18-14.93,3.52-4.72,10.21-5.7,14.93-2.18,4.72,3.52,5.7,10.21,2.18,14.93-3.52,4.72-10.21,5.7-14.93,2.18Z" style="fill: #661d0f; fill-rule: evenodd;"/>
+        <path id="Path_12-2" data-name="Path 12" d="M126.28,138.52c-.66,1.48-1.67,2.82-3.02,3.9-4.54,3.64-11.17,2.92-14.81-1.62-1.95-2.43-2.65-5.46-2.18-8.31-.43,1.39-.57,2.9-.34,4.43.82,5.61,6.13,9.48,11.86,8.65,4.09-.6,7.29-3.43,8.49-7.04Z" style="fill: #dc966f; fill-rule: evenodd;"/>
+        <path id="Path_13-2" data-name="Path 13" d="M117.4,128.9c2.39.49,4.5.05,4.71-.99.21-1.04-1.55-2.28-3.93-2.77-2.39-.49-4.5-.05-4.71.99-.21,1.04,1.55,2.28,3.93,2.77Z" style="fill: #dc966f;"/>
+        <path id="Path_14-2" data-name="Path 14" d="M123.39,128.18c.63.13,1.04.75.91,1.38-.13.63-.75,1.04-1.38.91-.63-.13-1.04-.75-.91-1.38.13-.63.75-1.04,1.38-.91Z" style="fill: #d6916b;"/>
+        <g id="Path_15" data-name="Path 15">
+          <g style="mask: url(#mask);">
+            <path d="M119.07,128.61s-9.5,0-12.19,6.64c-1.62,4,3.03,7.09,7.37,4.47,0,0,3.65,5.44,8.47,2,5.24-3.74-3.65-13.11-3.65-13.11Z" style="fill: #9a3f22; fill-rule: evenodd;"/>
+          </g>
+        </g>
+        <g id="Path_16" data-name="Path 16">
+          <g style="mask: url(#mask-1);">
+            <path d="M117.79,130.81s.91,1.8,3.17,3.77c2.26,1.98,1.88,7.99-2.08,7.5-2.12-.26-2.82-4.79-2.12-7.68.69-2.89,1.04-3.59,1.04-3.59Z" style="fill: #fffdf3;"/>
+          </g>
+        </g>
+        <g id="Path_17" data-name="Path 17">
+          <g style="mask: url(#mask-2);">
+            <path d="M118.19,130.31s-2.46-.75-2.88,2.89c-.42,3.65-2.5,7.92-5.61,5.82-3.12-2.1-.16-6.27,3.3-8.01,3.46-1.74,5.2-.71,5.2-.71Z" style="fill: #fffdf3;"/>
+          </g>
+        </g>
+      </g>
+      <g id="Icon_3" data-name="Icon 3">
+        <g id="Path_1-5" data-name="Path 1">
+          <g id="Path_1-6" data-name="Path 1">
+            <path d="M166.25,34.81h39.2c5.36,0,9.7,4.34,9.7,9.7v39.59c0,5.36-4.34,9.7-9.7,9.7h-39.2c-5.36,0-9.7-4.34-9.7-9.7v-39.59c0-5.36,4.34-9.7,9.7-9.7Z" style="fill: #5252a9; fill-rule: evenodd;"/>
+          </g>
+        </g>
+        <path id="Path_2-3" data-name="Path 2" d="M166.25,34.81h39.2c5.36,0,9.7,4.34,9.7,9.7v38.23c0,5.36-4.34,9.7-9.7,9.7h-39.2c-5.36,0-9.7-4.34-9.7-9.7v-38.23c0-5.36,4.34-9.7,9.7-9.7Z" style="fill: #339; fill-rule: evenodd;"/>
+        <path id="Path_3-3" data-name="Path 3" d="M215.16,61.43v21.32c0,5.36-4.34,9.7-9.7,9.7h-19.49l-14.67-13.39,26.59-32.99,17.27,15.36Z" style="fill-rule: evenodd; opacity: .2;"/>
+        <path id="Path_4-3" data-name="Path 4" d="M185.95,42.38c11.74,0,21.25,9.51,21.25,21.25s-9.51,21.25-21.25,21.25-21.25-9.51-21.25-21.25,9.51-21.25,21.25-21.25Z" style="fill: #9191c8; fill-rule: evenodd;"/>
+        <path id="Path_5-3" data-name="Path 5" d="M185.95,47.67c8.81,0,15.96,7.15,15.96,15.96s-7.15,15.96-15.96,15.96-15.96-7.15-15.96-15.96,7.15-15.96,15.96-15.96Z" style="fill: #7272b8; fill-rule: evenodd;"/>
+        <path id="Path_6-3" data-name="Path 6" d="M215.13,71.17v11.58c0,5.36-4.34,9.7-9.7,9.7h-7.03l-22.14-19.58,16.83-20.88,22.05,19.18Z" style="fill-rule: evenodd; opacity: .2;"/>
+        <rect id="Path_7-3" data-name="Path 7" x="172.02" y="50.3" width="4.97" height="9.32" rx="1.32" ry="1.32" transform="translate(26.13 162) rotate(-53.29)" style="fill: #fff;"/>
+        <path id="Path_8-3" data-name="Path 8" d="M171.68,55.95c-.34-.26-.41-.75-.15-1.09l2.03-2.72c.26-.35.75-.42,1.09-.17l3.68,2.74c.34.26.41.75.15,1.09l-2.03,2.72c-.26.35-.75.42-1.09.17l-3.68-2.74Z" style="fill: #e3e3c5; fill-rule: evenodd;"/>
+        <path id="Path_9-3" data-name="Path 9" d="M178.03,74.43c-5.99-4.47-7.22-12.94-2.76-18.93,4.47-5.99,12.94-7.22,18.93-2.76,5.99,4.47,7.22,12.94,2.76,18.93-4.47,5.99-12.94,7.22-18.93,2.76Z" style="fill: #fff; fill-rule: evenodd;"/>
+        <path id="Path_10-3" data-name="Path 10" d="M178.97,73.17c-5.27-3.93-6.36-11.39-2.43-16.66,3.93-5.27,11.39-6.36,16.66-2.43,5.27,3.93,6.36,11.39,2.43,16.66-3.93,5.27-11.39,6.36-16.66,2.43Z" style="fill: #e3e3c5; fill-rule: evenodd;"/>
+        <circle id="Path_11-3" data-name="Path 11" cx="186.09" cy="63.84" r="10.67" transform="translate(15.6 162.01) rotate(-48.87)" style="fill: #f6f7f7;"/>
+        <path id="Path_12-3" data-name="Path 12" d="M196.16,66.99c-.66,1.48-1.67,2.82-3.02,3.9-4.54,3.64-11.17,2.92-14.81-1.62-1.95-2.43-2.65-5.46-2.18-8.31-.43,1.39-.57,2.9-.34,4.43.82,5.61,6.13,9.48,11.86,8.65,4.09-.6,7.29-3.43,8.49-7.04Z" style="fill: #fff; fill-rule: evenodd;"/>
+        <path id="Path_13-3" data-name="Path 13" d="M187.29,57.37c2.39.49,4.5.05,4.71-.99.21-1.04-1.55-2.28-3.93-2.77-2.39-.49-4.5-.05-4.71.99-.21,1.04,1.55,2.28,3.93,2.77Z" style="fill: #fff;"/>
+        <path id="Path_14-3" data-name="Path 14" d="M193.28,56.65c.63.13,1.04.75.91,1.38s-.75,1.04-1.38.91c-.63-.13-1.04-.75-.91-1.38.13-.63.75-1.04,1.38-.91Z" style="fill: #fff;"/>
+      </g>
+      <g id="Icon_4" data-name="Icon 4">
+        <g id="Path_1-7" data-name="Path 1">
+          <g id="Path_1-8" data-name="Path 1">
+            <path d="M166.25,106.81h39.2c5.36,0,9.7,4.34,9.7,9.7v39.59c0,5.36-4.34,9.7-9.7,9.7h-39.2c-5.36,0-9.7-4.34-9.7-9.7v-39.59c0-5.36,4.34-9.7,9.7-9.7Z" style="fill: #5252a9; fill-rule: evenodd;"/>
+          </g>
+        </g>
+        <path id="Path_2-4" data-name="Path 2" d="M166.25,106.81h39.2c5.36,0,9.7,4.34,9.7,9.7v38.23c0,5.36-4.34,9.7-9.7,9.7h-39.2c-5.36,0-9.7-4.34-9.7-9.7v-38.23c0-5.36,4.34-9.7,9.7-9.7Z" style="fill: #339; fill-rule: evenodd;"/>
+        <path id="Path_3-4" data-name="Path 3" d="M215.16,133.43v21.32c0,5.36-4.34,9.7-9.7,9.7h-19.49l-14.67-13.39,26.59-32.99,17.27,15.36Z" style="fill-rule: evenodd; opacity: .2;"/>
+        <path id="Path_4-4" data-name="Path 4" d="M185.95,114.38c11.74,0,21.25,9.51,21.25,21.25s-9.51,21.25-21.25,21.25-21.25-9.51-21.25-21.25,9.51-21.25,21.25-21.25Z" style="fill: #9191c8; fill-rule: evenodd;"/>
+        <path id="Path_5-4" data-name="Path 5" d="M185.95,119.67c8.81,0,15.96,7.15,15.96,15.96s-7.15,15.96-15.96,15.96-15.96-7.15-15.96-15.96,7.15-15.96,15.96-15.96Z" style="fill: #7272b8; fill-rule: evenodd;"/>
+        <path id="Path_6-4" data-name="Path 6" d="M215.13,143.17v11.58c0,5.36-4.34,9.7-9.7,9.7h-7.03l-22.14-19.58,16.83-20.88,22.05,19.18Z" style="fill-rule: evenodd; opacity: .2;"/>
+        <rect id="Path_7-4" data-name="Path 7" x="172.02" y="122.3" width="4.97" height="9.32" rx="1.32" ry="1.32" transform="translate(-31.59 190.96) rotate(-53.29)" style="fill: #fff;"/>
+        <path id="Path_8-4" data-name="Path 8" d="M171.68,127.95c-.34-.26-.41-.75-.15-1.09l2.03-2.72c.26-.35.75-.42,1.09-.17l3.68,2.74c.34.26.41.75.15,1.09l-2.03,2.72c-.26.35-.75.42-1.09.17l-3.68-2.74Z" style="fill: #e3e3c5; fill-rule: evenodd;"/>
+        <path id="Path_9-4" data-name="Path 9" d="M178.03,146.44c-5.99-4.47-7.22-12.94-2.76-18.93,4.47-5.99,12.94-7.22,18.93-2.76,5.99,4.47,7.22,12.94,2.76,18.93-4.47,5.99-12.94,7.22-18.93,2.76Z" style="fill: #fff; fill-rule: evenodd;"/>
+        <path id="Path_10-4" data-name="Path 10" d="M178.97,145.18c-5.27-3.93-6.36-11.39-2.43-16.66,3.93-5.27,11.39-6.36,16.66-2.43,5.27,3.93,6.36,11.39,2.43,16.66-3.93,5.27-11.39,6.36-16.66,2.43Z" style="fill: #e3e3c5; fill-rule: evenodd;"/>
+        <path id="Path_11-4" data-name="Path 11" d="M179.71,144.39c-4.72-3.52-5.7-10.21-2.18-14.93,3.52-4.72,10.21-5.7,14.93-2.18,4.72,3.52,5.7,10.21,2.18,14.93-3.52,4.72-10.21,5.7-14.93,2.18Z" style="fill: #a76538; fill-rule: evenodd;"/>
+        <path id="Path_12-4" data-name="Path 12" d="M196.16,139c-.66,1.47-1.67,2.82-3.02,3.9-4.54,3.64-11.17,2.92-14.81-1.62-1.95-2.43-2.65-5.46-2.18-8.31-.43,1.39-.57,2.9-.34,4.43.82,5.61,6.13,9.48,11.86,8.65,4.09-.6,7.29-3.43,8.49-7.04Z" style="fill: #d5ae94; fill-rule: evenodd;"/>
+        <path id="Path_13-4" data-name="Path 13" d="M187.29,129.37c2.39.49,4.5.05,4.71-.99.21-1.04-1.55-2.28-3.93-2.77-2.39-.49-4.5-.05-4.71.99-.21,1.04,1.55,2.28,3.93,2.77Z" style="fill: #d5ae94;"/>
+        <path id="Path_14-4" data-name="Path 14" d="M193.28,128.65c.63.13,1.04.75.91,1.38-.13.63-.75,1.04-1.38.91-.63-.13-1.04-.75-.91-1.38.13-.63.75-1.04,1.38-.91Z" style="fill: #d5ae94;"/>
+      </g>
+    </g>
+  </g>
+</svg>

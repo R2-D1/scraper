@@ -1,0 +1,270 @@
+- generic [ref=f53e4]:
+  - navigation [ref=f53e5]:
+    - generic [ref=f53e6]:
+      - generic [ref=f53e7]:
+        - link "Unsplash Home" [ref=f53e8] [cursor=pointer]:
+          - /url: /
+          - img "Unsplash Home" [ref=f53e9]
+        - link "Photos" [ref=f53e11] [cursor=pointer]:
+          - /url: /
+        - link "Illustrations" [ref=f53e14] [cursor=pointer]:
+          - /url: /illustrations
+      - generic [ref=f53e17]:
+        - button "Explore" [ref=f53e18] [cursor=pointer]
+        - button "Collections" [ref=f53e21] [cursor=pointer]
+        - button "Download History" [ref=f53e24] [cursor=pointer]
+      - button "Bookmarks" [ref=f53e28] [cursor=pointer]
+    - generic [ref=f53e31]:
+      - link "Log in / Sign up" [ref=f53e32] [cursor=pointer]:
+        - /url: /login?referrer=%2Fillustrations%2Fa-living-room-with-a-red-chair-and-a-television-GVF81qynOBM
+      - button "Language" [ref=f53e35] [cursor=pointer]
+      - button "Menu" [ref=f53e38] [cursor=pointer]
+  - generic [ref=f53e41]:
+    - generic [ref=f53e42]:
+      - navigation [ref=f53e43]:
+        - search "Find visuals sitewide" [ref=f53e45]:
+          - button "Search Unsplash" [ref=f53e46] [cursor=pointer]
+          - combobox [ref=f53e49]:
+            - searchbox "Search Unsplash" [ref=f53e50]
+            - listbox
+          - button "Visual search" [ref=f53e52] [cursor=pointer]
+        - generic [ref=f53e55]:
+          - link "Get Unsplash+" [ref=f53e56] [cursor=pointer]:
+            - /url: /plus
+          - link "Log in" [ref=f53e57] [cursor=pointer]:
+            - /url: /login?referrer=%2Fillustrations%2Fa-living-room-with-a-red-chair-and-a-television-GVF81qynOBM
+        - button "Submit an image" [ref=f53e59] [cursor=pointer]
+      - generic [ref=f53e60]:
+        - generic [ref=f53e61]:
+          - banner [ref=f53e63]:
+            - generic [ref=f53e65]:
+              - link [ref=f53e66] [cursor=pointer]:
+                - /url: /@evaaa_wahyuni
+              - generic [ref=f53e69]:
+                - link "Eva Wahyuni" [ref=f53e70] [cursor=pointer]:
+                  - /url: /@evaaa_wahyuni
+                - generic [ref=f53e71]:
+                  - text: For
+                  - link "Unsplash+" [ref=f53e72] [cursor=pointer]:
+                    - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-red-chair-and-a-television-GVF81qynOBM
+            - generic [ref=f53e73]:
+              - button "Bookmark" [ref=f53e74] [cursor=pointer]
+              - button "Add to Collection" [ref=f53e77] [cursor=pointer]
+              - button "Edit image" [ref=f53e80] [cursor=pointer]
+              - button "Download" [ref=f53e84] [cursor=pointer]
+          - button "Zoom in on this image" [ref=f53e90]:
+            - img "A living room with a red chair and a television" [ref=f53e91]
+          - generic [ref=f53e92]:
+            - generic [ref=f53e94]:
+              - button "Share this image" [ref=f53e95] [cursor=pointer]:
+                - generic [ref=f53e98]: Share
+              - button "More Actions" [ref=f53e99] [cursor=pointer]
+            - generic [ref=f53e103]:
+              - heading "A living room with a red chair and a television" [level=1] [ref=f53e105]
+              - paragraph [ref=f53e109]: Download this illustration of aesthetic, interior design, home, and living room by Eva Wahyuni (@evaaa_wahyuni)
+              - generic [ref=f53e111]:
+                - generic [ref=f53e116]:
+                  - text: Published on
+                  - time [ref=f53e117]: August 29, 2024
+                - generic [ref=f53e121]:
+                  - text: Licensed under the
+                  - link "Unsplash+ License" [ref=f53e122] [cursor=pointer]:
+                    - /url: /plus/license
+            - generic [ref=f53e124]:
+              - link "aesthetic" [ref=f53e125] [cursor=pointer]:
+                - /url: /s/illustrations/aesthetic
+              - link "interior design" [ref=f53e126] [cursor=pointer]:
+                - /url: /s/illustrations/interior-design
+              - link "home" [ref=f53e127] [cursor=pointer]:
+                - /url: /s/illustrations/home
+              - link "living room" [ref=f53e128] [cursor=pointer]:
+                - /url: /s/illustrations/living-room
+              - link "design" [ref=f53e129] [cursor=pointer]:
+                - /url: /s/illustrations/design
+              - link "interior" [ref=f53e130] [cursor=pointer]:
+                - /url: /s/illustrations/interior
+              - link "bookshelf" [ref=f53e131] [cursor=pointer]:
+                - /url: /s/illustrations/bookshelf
+              - link "home decor" [ref=f53e132] [cursor=pointer]:
+                - /url: /s/illustrations/home-decor
+              - link "style" [ref=f53e133] [cursor=pointer]:
+                - /url: /s/illustrations/style
+              - link "greenery" [ref=f53e134] [cursor=pointer]:
+                - /url: /s/illustrations/greenery
+              - link "comfort" [ref=f53e135] [cursor=pointer]:
+                - /url: /s/illustrations/comfort
+              - link "cozy home" [ref=f53e136] [cursor=pointer]:
+                - /url: /s/illustrations/cozy-home
+              - link "illustrations" [ref=f53e137] [cursor=pointer]:
+                - /url: /s/illustrations/illustrations
+              - link "modern interior" [ref=f53e138] [cursor=pointer]:
+                - /url: /s/illustrations/modern-interior
+              - link "vector art" [ref=f53e139] [cursor=pointer]:
+                - /url: /s/illustrations/vector-art
+              - link "cozy living room" [ref=f53e140] [cursor=pointer]:
+                - /url: /s/illustrations/cozy-living-room
+              - link "indoor plants" [ref=f53e141] [cursor=pointer]:
+                - /url: /s/illustrations/indoor-plants
+              - link "flat design" [ref=f53e142] [cursor=pointer]:
+                - /url: /s/illustrations/flat-design
+              - link "home design" [ref=f53e143] [cursor=pointer]:
+                - /url: /s/illustrations/home-design
+              - link "house plants" [ref=f53e144] [cursor=pointer]:
+                - /url: /s/illustrations/house-plants
+        - generic [ref=f53e147]:
+          - generic [ref=f53e148]:
+            - paragraph [ref=f53e150]: From this series
+            - generic [ref=f53e154]:
+              - link [ref=f53e155] [cursor=pointer]:
+                - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-couch-potted-plants-and-a-clock-on-the-wall-1bn9Bex5AqM
+              - link [ref=f53e158]:
+                - /url: /illustrations/a-living-room-with-a-couch-potted-plants-and-a-clock-on-the-wall-1bn9Bex5AqM
+                - img "A living room with a couch, potted plants and a clock on the wall" [ref=f53e159]
+          - generic [ref=f53e160]:
+            - heading "Related images" [level=4] [ref=f53e162]
+            - generic [ref=f53e166]:
+              - generic [ref=f53e167]:
+                - figure [ref=f53e168]:
+                  - generic [ref=f53e170]:
+                    - link [ref=f53e171]:
+                      - /url: /illustrations/a-living-room-filled-with-furniture-and-a-potted-plant-u-svWRnnqBI
+                      - img "A living room filled with furniture and a potted plant" [ref=f53e172]
+                    - link [ref=f53e173] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-filled-with-furniture-and-a-potted-plant-u-svWRnnqBI
+                - figure [ref=f53e176]:
+                  - generic [ref=f53e178]:
+                    - link [ref=f53e179]:
+                      - /url: /illustrations/a-living-room-filled-with-furniture-and-a-lamp-L70JesmukqY
+                      - img "A living room filled with furniture and a lamp" [ref=f53e180]
+                    - link [ref=f53e181] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-filled-with-furniture-and-a-lamp-L70JesmukqY
+                - figure [ref=f53e184]:
+                  - generic [ref=f53e186]:
+                    - link [ref=f53e187]:
+                      - /url: /illustrations/a-living-room-filled-with-furniture-and-a-rug-hO23BRV-MCo
+                      - img "A living room filled with furniture and a rug" [ref=f53e188]
+                    - link [ref=f53e189] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-filled-with-furniture-and-a-rug-hO23BRV-MCo
+                - figure [ref=f53e192]:
+                  - generic [ref=f53e194]:
+                    - link [ref=f53e195]:
+                      - /url: /illustrations/a-living-room-filled-with-furniture-and-a-lamp-sOr9S7WZaa4
+                      - img "A living room filled with furniture and a lamp" [ref=f53e196]
+                    - link [ref=f53e197] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-filled-with-furniture-and-a-lamp-sOr9S7WZaa4
+                - figure [ref=f53e200]:
+                  - generic [ref=f53e202]:
+                    - link [ref=f53e203]:
+                      - /url: /illustrations/a-living-room-with-a-couch-potted-plants-and-a-clock-on-the-wall-1bn9Bex5AqM
+                      - img "A living room with a couch, potted plants and a clock on the wall" [ref=f53e204]
+                    - link [ref=f53e205] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-couch-potted-plants-and-a-clock-on-the-wall-1bn9Bex5AqM
+                - figure [ref=f53e208]:
+                  - generic [ref=f53e210]:
+                    - link [ref=f53e211]:
+                      - /url: /illustrations/a-living-room-with-a-couch-coffee-table-and-potted-plants-udm96XJ3_KU
+                      - img "A living room with a couch, coffee table and potted plants" [ref=f53e212]
+                    - link [ref=f53e213] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-couch-coffee-table-and-potted-plants-udm96XJ3_KU
+                - figure [ref=f53e216]:
+                  - generic [ref=f53e218]:
+                    - link [ref=f53e219]:
+                      - /url: /illustrations/a-living-room-with-a-blue-couch-and-a-coffee-table-ggS5XBGDOl8
+                      - img "A living room with a blue couch and a coffee table" [ref=f53e220]
+                    - link [ref=f53e221] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-blue-couch-and-a-coffee-table-ggS5XBGDOl8
+              - generic [ref=f53e224]:
+                - figure [ref=f53e225]:
+                  - generic [ref=f53e227]:
+                    - link [ref=f53e228]:
+                      - /url: /illustrations/a-living-room-with-a-red-chair-and-a-flat-screen-tv-oUECy5-l9Bs
+                      - img "A living room with a red chair and a flat screen TV" [ref=f53e229]
+                    - link [ref=f53e230] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-red-chair-and-a-flat-screen-tv-oUECy5-l9Bs
+                - figure [ref=f53e233]:
+                  - generic [ref=f53e235]:
+                    - link [ref=f53e236]:
+                      - /url: /illustrations/a-living-room-with-a-couch-and-a-table-3I_Z4teMtqg
+                      - img "A living room with a couch and a table" [ref=f53e237]
+                    - link [ref=f53e238] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-couch-and-a-table-3I_Z4teMtqg
+                - figure [ref=f53e241]:
+                  - generic [ref=f53e243]:
+                    - link [ref=f53e244]:
+                      - /url: /illustrations/a-living-room-filled-with-furniture-and-a-plant-_OegHOHLZjY
+                      - img "A living room filled with furniture and a plant" [ref=f53e245]
+                    - link [ref=f53e246] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-filled-with-furniture-and-a-plant-_OegHOHLZjY
+                - figure [ref=f53e249]:
+                  - generic [ref=f53e251]:
+                    - link [ref=f53e252]:
+                      - /url: /illustrations/a-living-room-filled-with-furniture-and-a-clock-P4lTg98FsKg
+                      - img "A living room filled with furniture and a clock" [ref=f53e253]
+                    - link [ref=f53e254] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-filled-with-furniture-and-a-clock-P4lTg98FsKg
+                - figure [ref=f53e257]:
+                  - generic [ref=f53e259]:
+                    - link [ref=f53e260]:
+                      - /url: /illustrations/a-living-room-with-a-red-couch-and-potted-plants-qf-BvxxYi9I
+                      - img "A living room with a red couch and potted plants" [ref=f53e261]
+                    - link [ref=f53e262] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-red-couch-and-potted-plants-qf-BvxxYi9I
+                - figure [ref=f53e265]:
+                  - generic [ref=f53e267]:
+                    - link [ref=f53e268]:
+                      - /url: /illustrations/a-living-room-filled-with-furniture-and-a-book-shelf-d5LTvV5My5A
+                      - img "A living room filled with furniture and a book shelf" [ref=f53e269]
+                    - link [ref=f53e270] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-filled-with-furniture-and-a-book-shelf-d5LTvV5My5A
+              - generic [ref=f53e273]:
+                - figure [ref=f53e274]:
+                  - generic [ref=f53e276]:
+                    - link [ref=f53e277]:
+                      - /url: /illustrations/a-living-room-with-a-red-couch-and-potted-plants-aL3ZNl-4Goo
+                      - img "A living room with a red couch and potted plants" [ref=f53e278]
+                    - link [ref=f53e279] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-red-couch-and-potted-plants-aL3ZNl-4Goo
+                - figure [ref=f53e282]:
+                  - generic [ref=f53e284]:
+                    - link [ref=f53e285]:
+                      - /url: /illustrations/a-living-room-filled-with-furniture-and-a-potted-plant-m3JQf--T9hU
+                      - img "A living room filled with furniture and a potted plant" [ref=f53e286]
+                    - link [ref=f53e287] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-filled-with-furniture-and-a-potted-plant-m3JQf--T9hU
+                - figure [ref=f53e290]:
+                  - generic [ref=f53e292]:
+                    - link [ref=f53e293]:
+                      - /url: /illustrations/a-living-room-filled-with-furniture-and-a-flat-screen-tv-oCU4xUzabuo
+                      - img "A living room filled with furniture and a flat screen TV" [ref=f53e294]
+                    - link [ref=f53e295] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-filled-with-furniture-and-a-flat-screen-tv-oCU4xUzabuo
+                - figure [ref=f53e298]:
+                  - generic [ref=f53e300]:
+                    - link [ref=f53e301]:
+                      - /url: /illustrations/a-living-room-filled-with-furniture-and-a-lamp-co12_Gn0yxU
+                      - img "A living room filled with furniture and a lamp" [ref=f53e302]
+                    - link [ref=f53e303] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-filled-with-furniture-and-a-lamp-co12_Gn0yxU
+                - figure [ref=f53e306]:
+                  - generic [ref=f53e308]:
+                    - link [ref=f53e309]:
+                      - /url: /illustrations/a-living-room-with-a-blue-chair-and-a-red-rug-HPBhIVPAhNE
+                      - img "A living room with a blue chair and a red rug" [ref=f53e310]
+                    - link [ref=f53e311] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-blue-chair-and-a-red-rug-HPBhIVPAhNE
+                - figure [ref=f53e314]:
+                  - generic [ref=f53e316]:
+                    - link [ref=f53e317]:
+                      - /url: /illustrations/a-living-room-with-a-chair-and-a-potted-plant-_jQyEZ5h1tY
+                      - img "A living room with a chair and a potted plant" [ref=f53e318]
+                    - link [ref=f53e319] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-chair-and-a-potted-plant-_jQyEZ5h1tY
+                - figure [ref=f53e322]:
+                  - generic [ref=f53e324]:
+                    - link [ref=f53e325]:
+                      - /url: /illustrations/a-living-room-with-a-red-couch-and-two-lamps-M46Pc54nzpw
+                      - img "A living room with a red couch and two lamps" [ref=f53e326]
+                    - link [ref=f53e327] [cursor=pointer]:
+                      - /url: /plus?referrer=%2Fillustrations%2Fa-living-room-with-a-red-couch-and-two-lamps-M46Pc54nzpw
+    - generic:
+      - region "Notifications"

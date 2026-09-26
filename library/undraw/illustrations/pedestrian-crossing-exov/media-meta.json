@@ -1,0 +1,63 @@
+{
+  "slug": "pedestrian-crossing-exov",
+  "mediaKey": "22ef49f2-5825-45bb-8d78-a8edbc7c30ca",
+  "providerId": "5b9d1ec600fdd20014a9c95b",
+  "i18n": {
+    "name": {
+      "en": "Pedestrian crossing",
+      "uk": "Пішохідний перехід"
+    },
+    "alt": {
+      "en": "Pedestrian crossing",
+      "uk": "Пішохідний перехід"
+    },
+    "tags": [
+      {
+        "key": "pedestrian-crossing",
+        "i18n": {
+          "en": "Pedestrian crossing",
+          "uk": "Пішохідний перехід"
+        }
+      },
+      {
+        "key": "pedestrian",
+        "i18n": {
+          "en": "pedestrian",
+          "uk": "пішохід"
+        }
+      },
+      {
+        "key": "crossing",
+        "i18n": {
+          "en": "crossing",
+          "uk": "перехрестя"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/pedestrian-crossing_exov.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1134,
+  "height": 614
+}

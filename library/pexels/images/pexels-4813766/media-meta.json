@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-4813766",
+  "mediaKey": "pexels:4813766",
+  "i18n": {
+    "name": {
+      "en": "White peacock displaying its tail feathers",
+      "uk": "Білий павич, що розправляє хвостові пір’я"
+    },
+    "alt": {
+      "en": "An elegant white peacock displays its stunning tail feathers in a lush green setting.",
+      "uk": "Елегантний білий павич демонструє свої чудові хвостові пір’я на тлі пишної зелені."
+    },
+    "tags": [
+      {
+        "key": "peacock",
+        "i18n": {
+          "en": "peacock",
+          "uk": "павич"
+        }
+      },
+      {
+        "key": "white-bird",
+        "i18n": {
+          "en": "white bird",
+          "uk": "білий птах"
+        }
+      },
+      {
+        "key": "feathers",
+        "i18n": {
+          "en": "feathers",
+          "uk": "пір'я"
+        }
+      },
+      {
+        "key": "fanned-tail",
+        "i18n": {
+          "en": "fanned tail",
+          "uk": "розпущений хвіст"
+        }
+      },
+      {
+        "key": "wildlife",
+        "i18n": {
+          "en": "wildlife",
+          "uk": "дика природа"
+        }
+      },
+      {
+        "key": "animal",
+        "i18n": {
+          "en": "animal",
+          "uk": "тварина"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "animals"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/white-peacock-with-open-feathers-4813766/",
+  "sourceName": "Pexels",
+  "authorName": "Andrea Piacquadio",
+  "authorUrl": "https://www.pexels.com/@olly",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

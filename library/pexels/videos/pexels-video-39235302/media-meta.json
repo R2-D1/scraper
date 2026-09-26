@@ -1,0 +1,92 @@
+{
+  "slug": "pexels-video-39235302",
+  "mediaKey": "pexels:video:39235302",
+  "i18n": {
+    "name": {
+      "en": "Red and Orange Fluid Cells",
+      "uk": "Червоні та помаранчеві клітини з рідиною"
+    },
+    "alt": {
+      "en": "Pexels video 39235302",
+      "uk": "Відео з Pexels № 39235302"
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "fluid",
+        "i18n": {
+          "en": "fluid",
+          "uk": "рідина"
+        }
+      },
+      {
+        "key": "cells",
+        "i18n": {
+          "en": "cells",
+          "uk": "клітинки"
+        }
+      },
+      {
+        "key": "organic",
+        "i18n": {
+          "en": "organic",
+          "uk": "органічний"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/vibrant-abstract-molecular-animation-39235302/",
+  "sourceName": "Pexels",
+  "authorName": "Nicola Narracci",
+  "authorUrl": "https://www.pexels.com/@nicola-narracci-157460431",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 10,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "mobile-map",
+  "mediaKey": "128a66c8-0578-44b2-bc81-1aec83100f8c",
+  "i18n": {
+    "name": {
+      "en": "Navigation Map",
+      "uk": "Карта навігації"
+    },
+    "alt": {
+      "en": "Navigation Map",
+      "uk": "Карта навігації"
+    },
+    "tags": [
+      {
+        "key": "map",
+        "i18n": {
+          "en": "map",
+          "uk": "карта"
+        }
+      },
+      {
+        "key": "gps",
+        "i18n": {
+          "en": "gps",
+          "uk": "GPS"
+        }
+      },
+      {
+        "key": "navigation",
+        "i18n": {
+          "en": "navigation",
+          "uk": "навігація"
+        }
+      },
+      {
+        "key": "location",
+        "i18n": {
+          "en": "location",
+          "uk": "місцезнаходження"
+        }
+      },
+      {
+        "key": "pin",
+        "i18n": {
+          "en": "pin",
+          "uk": "шпилька"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "direction",
+        "i18n": {
+          "en": "direction",
+          "uk": "напрямок"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/mobile-map",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

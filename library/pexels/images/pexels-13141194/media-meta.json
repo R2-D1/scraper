@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-13141194",
+  "mediaKey": "pexels:13141194",
+  "i18n": {
+    "name": {
+      "en": "Woman leaning out of a red convertible",
+      "uk": "Жінка, що вихиляється з червоного кабріолета"
+    },
+    "alt": {
+      "en": "Elegant woman with brunette hair posing beside a red convertible car in Texas City.",
+      "uk": "Елегантна жінка з каштановим волоссям позує біля червоного кабріолета в Техас-Сіті."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "red-convertible",
+        "i18n": {
+          "en": "red convertible",
+          "uk": "червоний кабріолет"
+        }
+      },
+      {
+        "key": "car",
+        "i18n": {
+          "en": "car",
+          "uk": "автомобіль"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "casual-clothing",
+        "i18n": {
+          "en": "casual clothing",
+          "uk": "повсякденний одяг"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/portrait-of-young-beautiful-woman-in-a-red-car-13141194/",
+  "sourceName": "Pexels",
+  "authorName": "Pouriya Kafaei",
+  "authorUrl": "https://www.pexels.com/@pouriyakafaei",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

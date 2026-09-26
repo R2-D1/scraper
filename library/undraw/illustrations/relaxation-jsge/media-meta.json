@@ -1,0 +1,49 @@
+{
+  "slug": "relaxation-jsge",
+  "mediaKey": "c3a8ec8f-fb28-46c2-9b5c-e911372ea926",
+  "providerId": "68630a115971e354c48f594e",
+  "i18n": {
+    "name": {
+      "en": "Relaxation",
+      "uk": "Релаксація"
+    },
+    "alt": {
+      "en": "Relaxation",
+      "uk": "Релаксація"
+    },
+    "tags": [
+      {
+        "key": "relaxation",
+        "i18n": {
+          "en": "Relaxation",
+          "uk": "Релаксація"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/relaxation_jsge.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 456
+}

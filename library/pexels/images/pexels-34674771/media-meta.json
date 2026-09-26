@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-34674771",
+  "mediaKey": "pexels:34674771",
+  "i18n": {
+    "name": {
+      "en": "Tennis rackets and balls on a court",
+      "uk": "Тенісні ракетки та м'ячі на корті"
+    },
+    "alt": {
+      "en": "34674771",
+      "uk": "Тенісні ракетки та м'ячі на корті"
+    },
+    "tags": [
+      {
+        "key": "tennis-racket",
+        "i18n": {
+          "en": "tennis racket",
+          "uk": "тенісна ракетка"
+        }
+      },
+      {
+        "key": "tennis-balls",
+        "i18n": {
+          "en": "tennis balls",
+          "uk": "тенісні м'ячі"
+        }
+      },
+      {
+        "key": "court",
+        "i18n": {
+          "en": "court",
+          "uk": "суд"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "sports",
+          "uk": "спорт"
+        }
+      },
+      {
+        "key": "blue",
+        "i18n": {
+          "en": "blue",
+          "uk": "синій"
+        }
+      },
+      {
+        "key": "equipment",
+        "i18n": {
+          "en": "equipment",
+          "uk": "обладнання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/34674771/",
+  "sourceName": "Pexels",
+  "authorName": "Zeynep Tekin",
+  "authorUrl": "https://www.pexels.com/@zeynep-tekin-1462737863",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3200
+}

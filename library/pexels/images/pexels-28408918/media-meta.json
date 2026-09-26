@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-28408918",
+  "mediaKey": "pexels:28408918",
+  "i18n": {
+    "name": {
+      "en": "Pink and orange abstract rings",
+      "uk": "Абстрактні кільця рожевого та помаранчевого кольорів"
+    },
+    "alt": {
+      "en": "Vibrant abstract design featuring colorful circular patterns and gradient hues.",
+      "uk": "Яскравий абстрактний дизайн із барвистими круговими візерунками та градієнтними відтінками."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "rings",
+        "i18n": {
+          "en": "rings",
+          "uk": "кільця"
+        }
+      },
+      {
+        "key": "pink",
+        "i18n": {
+          "en": "pink",
+          "uk": "рожевий"
+        }
+      },
+      {
+        "key": "orange",
+        "i18n": {
+          "en": "orange",
+          "uk": "помаранчевий"
+        }
+      },
+      {
+        "key": "geometric",
+        "i18n": {
+          "en": "geometric",
+          "uk": "геометричний"
+        }
+      },
+      {
+        "key": "3d",
+        "i18n": {
+          "en": "3d",
+          "uk": "3D"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/colorful-abstract-background-with-circular-patterns-28408918/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

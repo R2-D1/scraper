@@ -1,0 +1,80 @@
+{
+  "slug": "dreamy-flower-field-rlx4",
+  "mediaKey": "18938d67-b143-4355-acde-21387e120f0b",
+  "i18n": {
+    "name": {
+      "en": "Dreamy Flower Field",
+      "uk": "Казкове квіткове поле"
+    },
+    "alt": {
+      "en": "Dreamy Flower Field",
+      "uk": "Казкове квіткове поле"
+    },
+    "tags": [
+      {
+        "key": "flowers",
+        "i18n": {
+          "en": "Flowers",
+          "uk": "Квіти"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "Nature",
+          "uk": "Природа"
+        }
+      },
+      {
+        "key": "dreamy",
+        "i18n": {
+          "en": "Dreamy",
+          "uk": "Мрійливий"
+        }
+      },
+      {
+        "key": "field",
+        "i18n": {
+          "en": "Field",
+          "uk": "Поле"
+        }
+      },
+      {
+        "key": "vibrant",
+        "i18n": {
+          "en": "Vibrant",
+          "uk": "Яскравий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "nature"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Kuba",
+  "authorUrl": "https://www.lummi.ai/creator/kubadesign?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A vibrant scene of pink and orange flowers in a field, with a focus on a single flower in the foreground. The background is blurred, creating a dreamy effect.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1345,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/dreamy-flower-field-rlx4/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/dreamy-flower-field-rlx4/dreamy-flower-field-rlx4.png",
+  "relativeAssetPath": "library/lummi/images/dreamy-flower-field-rlx4/dreamy-flower-field-rlx4.png"
+}

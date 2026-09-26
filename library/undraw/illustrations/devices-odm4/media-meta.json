@@ -1,0 +1,49 @@
+{
+  "slug": "devices-odm4",
+  "mediaKey": "784f4438-ee43-4a63-adb6-6314e180c6f5",
+  "providerId": "5f4e0ff7a882230017a26b84",
+  "i18n": {
+    "name": {
+      "en": "Devices",
+      "uk": "Пристрої"
+    },
+    "alt": {
+      "en": "Devices",
+      "uk": "Пристрої"
+    },
+    "tags": [
+      {
+        "key": "devices",
+        "i18n": {
+          "en": "Devices",
+          "uk": "Пристрої"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/devices_odm4.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 920,
+  "height": 412
+}

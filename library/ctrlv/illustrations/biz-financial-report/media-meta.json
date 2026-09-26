@@ -1,0 +1,97 @@
+{
+  "slug": "biz-financial-report",
+  "mediaKey": "b73f1121-d6fa-4b7f-85db-92db5cf57e89",
+  "i18n": {
+    "name": {
+      "en": "Financial Report",
+      "uk": "Фінансовий звіт"
+    },
+    "alt": {
+      "en": "Financial Report",
+      "uk": "Фінансовий звіт"
+    },
+    "tags": [
+      {
+        "key": "financial",
+        "i18n": {
+          "en": "financial",
+          "uk": "фінансовий"
+        }
+      },
+      {
+        "key": "report",
+        "i18n": {
+          "en": "report",
+          "uk": "звіт"
+        }
+      },
+      {
+        "key": "document",
+        "i18n": {
+          "en": "document",
+          "uk": "документ"
+        }
+      },
+      {
+        "key": "chart",
+        "i18n": {
+          "en": "chart",
+          "uk": "діаграма"
+        }
+      },
+      {
+        "key": "folder",
+        "i18n": {
+          "en": "folder",
+          "uk": "папку"
+        }
+      },
+      {
+        "key": "accounting",
+        "i18n": {
+          "en": "accounting",
+          "uk": "бухгалтерія"
+        }
+      },
+      {
+        "key": "profits",
+        "i18n": {
+          "en": "profits",
+          "uk": "прибутки"
+        }
+      },
+      {
+        "key": "paper",
+        "i18n": {
+          "en": "paper",
+          "uk": "папір"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/biz-financial-report",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

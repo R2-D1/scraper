@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 841.89 1198.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_364);
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_364-3);
+      }
+
+      .cls-3 {
+        fill: url(#Gradiente_sem_nome_364-9);
+      }
+
+      .cls-4 {
+        fill: url(#Gradiente_sem_nome_364-6);
+      }
+
+      .cls-5 {
+        fill: url(#Gradiente_sem_nome_364-8);
+      }
+
+      .cls-6 {
+        fill: url(#Gradiente_sem_nome_364-2);
+      }
+
+      .cls-7 {
+        fill: url(#Gradiente_sem_nome_364-5);
+      }
+
+      .cls-8 {
+        fill: url(#Gradiente_sem_nome_364-7);
+      }
+
+      .cls-9 {
+        fill: url(#Gradiente_sem_nome_364-4);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_364" data-name="Gradiente sem nome 364" x1="32.52" y1="1158.54" x2="970.74" y2="40.41" gradientTransform="translate(-80.68)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5d8fe"/>
+      <stop offset=".23" stop-color="#cd97f7"/>
+      <stop offset=".56" stop-color="#4f11e1"/>
+      <stop offset="1" stop-color="#1d1d1b"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_364-2" data-name="Gradiente sem nome 364" x1="20.86" y1="1080.48" x2="821.03" y2="126.88" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Gradiente_sem_nome_364"/>
+    <linearGradient id="Gradiente_sem_nome_364-3" data-name="Gradiente sem nome 364" x1="121.07" y1="1057.21" x2="882.19" y2="150.15" gradientTransform="translate(-80.68)" xlink:href="#Gradiente_sem_nome_364"/>
+    <linearGradient id="Gradiente_sem_nome_364-4" data-name="Gradiente sem nome 364" x1="120.21" y1="962.08" x2="721.68" y2="245.28" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Gradiente_sem_nome_364"/>
+    <linearGradient id="Gradiente_sem_nome_364-5" data-name="Gradiente sem nome 364" x1="215.08" y1="945.17" x2="788.17" y2="262.19" gradientTransform="translate(-80.68)" xlink:href="#Gradiente_sem_nome_364"/>
+    <linearGradient id="Gradiente_sem_nome_364-6" data-name="Gradiente sem nome 364" x1="237.46" y1="822.35" x2="604.43" y2="385" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Gradiente_sem_nome_364"/>
+    <linearGradient id="Gradiente_sem_nome_364-7" data-name="Gradiente sem nome 364" x1="326.06" y1="812.92" x2="677.2" y2="394.44" gradientTransform="translate(-80.68)" xlink:href="#Gradiente_sem_nome_364"/>
+    <linearGradient id="Gradiente_sem_nome_364-8" data-name="Gradiente sem nome 364" x1="316.71" y1="727.9" x2="525.18" y2="479.46" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Gradiente_sem_nome_364"/>
+    <linearGradient id="Gradiente_sem_nome_364-9" data-name="Gradiente sem nome 364" x1="401.91" y1="722.51" x2="601.34" y2="484.85" gradientTransform="translate(-80.68)" xlink:href="#Gradiente_sem_nome_364"/>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g>
+      <rect class="cls-1" y="0" width="841.89" height="1198.95" transform="translate(841.89 1198.95) rotate(180)"/>
+      <rect class="cls-6" x="38.15" y="54.16" width="765.59" height="1099.04" rx="109.08" ry="109.08"/>
+      <rect class="cls-2" x="62.18" y="73.64" width="717.52" height="1060.08" rx="109.08" ry="109.08" transform="translate(841.89 1207.36) rotate(180)"/>
+      <rect class="cls-9" x="152.15" y="160.26" width="537.6" height="886.83" rx="109.08" ry="109.08"/>
+      <path class="cls-7" d="M278.11,174.92h285.67c60.21,0,109.08,48.88,109.08,109.08v639.34c0,60.21-48.88,109.09-109.09,109.09h-285.67c-60.21,0-109.08-48.88-109.08-109.08V284.01c0-60.21,48.88-109.09,109.09-109.09Z" transform="translate(841.89 1207.36) rotate(180)"/>
+      <rect class="cls-4" x="285.81" y="286.21" width="270.27" height="634.93" rx="109.08" ry="109.08"/>
+      <rect class="cls-8" x="294.3" y="295.18" width="253.3" height="617" rx="109.08" ry="109.08" transform="translate(841.89 1207.36) rotate(180)"/>
+      <rect class="cls-5" x="373.39" y="414.84" width="95.12" height="377.67" rx="31.96" ry="31.96"/>
+      <rect class="cls-3" x="379.25" y="420.17" width="83.38" height="367.01" rx="29.96" ry="29.96" transform="translate(841.89 1207.36) rotate(-180)"/>
+    </g>
+  </g>
+</svg>

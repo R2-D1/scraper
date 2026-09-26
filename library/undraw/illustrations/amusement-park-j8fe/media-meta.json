@@ -1,0 +1,63 @@
+{
+  "slug": "amusement-park-j8fe",
+  "mediaKey": "e803067d-ae43-46d6-bc97-abef7c70cad4",
+  "providerId": "5fd0b30918e5450017c18bf6",
+  "i18n": {
+    "name": {
+      "en": "Amusement park",
+      "uk": "Парк розваг"
+    },
+    "alt": {
+      "en": "Amusement park",
+      "uk": "Парк розваг"
+    },
+    "tags": [
+      {
+        "key": "amusement-park",
+        "i18n": {
+          "en": "Amusement park",
+          "uk": "Парк розваг"
+        }
+      },
+      {
+        "key": "amusement",
+        "i18n": {
+          "en": "amusement",
+          "uk": "розвага"
+        }
+      },
+      {
+        "key": "park",
+        "i18n": {
+          "en": "park",
+          "uk": "парк"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/amusement-park_j8fe.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 712,
+  "height": 380
+}

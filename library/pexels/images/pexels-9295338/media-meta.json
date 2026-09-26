@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-9295338",
+  "mediaKey": "pexels:9295338",
+  "i18n": {
+    "name": {
+      "en": "Chocolate cupcake with colorful sprinkles",
+      "uk": "Шоколадний кекс із різнокольоровою посипкою"
+    },
+    "alt": {
+      "en": "Three chocolate cupcakes with rich frosting and colorful sprinkles.",
+      "uk": "Три шоколадні капкейки з густою глазур’ю та різнокольоровою посипкою."
+    },
+    "tags": [
+      {
+        "key": "cupcake",
+        "i18n": {
+          "en": "cupcake",
+          "uk": "кекс"
+        }
+      },
+      {
+        "key": "chocolate",
+        "i18n": {
+          "en": "chocolate",
+          "uk": "шоколад"
+        }
+      },
+      {
+        "key": "sprinkles",
+        "i18n": {
+          "en": "sprinkles",
+          "uk": "кольорова посипка"
+        }
+      },
+      {
+        "key": "dessert",
+        "i18n": {
+          "en": "dessert",
+          "uk": "десерт"
+        }
+      },
+      {
+        "key": "frosting",
+        "i18n": {
+          "en": "frosting",
+          "uk": "глазур"
+        }
+      },
+      {
+        "key": "baking",
+        "i18n": {
+          "en": "baking",
+          "uk": "випічка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "food-drink"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/chocolate-cupcakes-with-sprinkles-9295338/",
+  "sourceName": "Pexels",
+  "authorName": "Skyler Ewing",
+  "authorUrl": "https://www.pexels.com/@skyler-ewing-266953",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

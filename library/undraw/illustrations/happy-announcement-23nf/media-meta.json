@@ -1,0 +1,63 @@
+{
+  "slug": "happy-announcement-23nf",
+  "mediaKey": "1a6d248b-e34b-49c4-8c08-b7fdfe1766e9",
+  "providerId": "6179575e8fddd100178728ef",
+  "i18n": {
+    "name": {
+      "en": "Happy announcement",
+      "uk": "Радісна новина"
+    },
+    "alt": {
+      "en": "Happy announcement",
+      "uk": "Радісна новина"
+    },
+    "tags": [
+      {
+        "key": "happy-announcement",
+        "i18n": {
+          "en": "Happy announcement",
+          "uk": "Радісна новина"
+        }
+      },
+      {
+        "key": "happy",
+        "i18n": {
+          "en": "happy",
+          "uk": "щасливий"
+        }
+      },
+      {
+        "key": "announcement",
+        "i18n": {
+          "en": "announcement",
+          "uk": "оголошення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/happy-announcement_23nf.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 731,
+  "height": 630
+}

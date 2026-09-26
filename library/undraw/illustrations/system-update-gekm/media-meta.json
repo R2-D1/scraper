@@ -1,0 +1,63 @@
+{
+  "slug": "system-update-gekm",
+  "mediaKey": "4167e1f8-6b64-4932-a0dc-22af70f5cb5b",
+  "providerId": "69978ffdd40f2da788589825",
+  "i18n": {
+    "name": {
+      "en": "System Update",
+      "uk": "Оновлення системи"
+    },
+    "alt": {
+      "en": "System Update",
+      "uk": "Оновлення системи"
+    },
+    "tags": [
+      {
+        "key": "system-update",
+        "i18n": {
+          "en": "System Update",
+          "uk": "Оновлення системи"
+        }
+      },
+      {
+        "key": "system",
+        "i18n": {
+          "en": "system",
+          "uk": "система"
+        }
+      },
+      {
+        "key": "update",
+        "i18n": {
+          "en": "update",
+          "uk": "оновити"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/system-update_gekm.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 743
+}

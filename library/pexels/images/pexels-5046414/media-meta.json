@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-5046414",
+  "mediaKey": "pexels:5046414",
+  "i18n": {
+    "name": {
+      "en": "Woman writing at a laptop in a workspace",
+      "uk": "Жінка, яка пише на ноутбуці в робочому просторі"
+    },
+    "alt": {
+      "en": "Woman taking notes while working remotely on her laptop at a home desk with a cozy ambiance.",
+      "uk": "Жінка, яка робить нотатки, працюючи віддалено на ноутбуці за домашнім робочим столом у затишній обстановці."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "laptop",
+        "i18n": {
+          "en": "laptop",
+          "uk": "ноутбук"
+        }
+      },
+      {
+        "key": "writing",
+        "i18n": {
+          "en": "writing",
+          "uk": "написання"
+        }
+      },
+      {
+        "key": "office",
+        "i18n": {
+          "en": "office",
+          "uk": "Office"
+        }
+      },
+      {
+        "key": "work",
+        "i18n": {
+          "en": "work",
+          "uk": "робота"
+        }
+      },
+      {
+        "key": "desk",
+        "i18n": {
+          "en": "desk",
+          "uk": "письмовий стіл"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "business"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-working-from-home-by-messy-desk-5046414/",
+  "sourceName": "Pexels",
+  "authorName": "Andrea Piacquadio",
+  "authorUrl": "https://www.pexels.com/@olly",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

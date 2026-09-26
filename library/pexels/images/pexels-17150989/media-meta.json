@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-17150989",
+  "mediaKey": "pexels:17150989",
+  "i18n": {
+    "name": {
+      "en": "Woman smoking in red lighting",
+      "uk": "Жінка, яка курить у червоному світлі"
+    },
+    "alt": {
+      "en": "Dramatic portrait of a woman smoking in low light, creating a mysterious atmosphere.",
+      "uk": "Ефектний портрет жінки, яка курить у приглушеному світлі, що створює таємничу атмосферу."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "smoking",
+        "i18n": {
+          "en": "smoking",
+          "uk": "куріння"
+        }
+      },
+      {
+        "key": "red-light",
+        "i18n": {
+          "en": "red light",
+          "uk": "червоне світло"
+        }
+      },
+      {
+        "key": "dark-background",
+        "i18n": {
+          "en": "dark background",
+          "uk": "темний фон"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/woman-with-cigarette-17150989/",
+  "sourceName": "Pexels",
+  "authorName": "Behrad Rouhi",
+  "authorUrl": "https://www.pexels.com/@behrad-rouhi-510290506",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

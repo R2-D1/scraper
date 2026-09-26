@@ -1,0 +1,63 @@
+{
+  "slug": "car-repair-wski",
+  "mediaKey": "4ebb9afa-9240-4a9c-a8c9-a34dd74e9f22",
+  "providerId": "63bbd53dee628f0018cccfe9",
+  "i18n": {
+    "name": {
+      "en": "Car repair",
+      "uk": "Ремонт автомобілів"
+    },
+    "alt": {
+      "en": "Car repair",
+      "uk": "Ремонт автомобілів"
+    },
+    "tags": [
+      {
+        "key": "car-repair",
+        "i18n": {
+          "en": "Car repair",
+          "uk": "Ремонт автомобілів"
+        }
+      },
+      {
+        "key": "car",
+        "i18n": {
+          "en": "car",
+          "uk": "автомобіль"
+        }
+      },
+      {
+        "key": "repair",
+        "i18n": {
+          "en": "repair",
+          "uk": "ремонт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/car-repair_wski.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 523,
+  "height": 493
+}

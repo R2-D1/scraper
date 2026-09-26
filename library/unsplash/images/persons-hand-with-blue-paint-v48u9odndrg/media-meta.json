@@ -1,0 +1,59 @@
+{
+  "slug": "persons-hand-with-blue-paint-v48u9odndrg",
+  "mediaKey": "c3bdc6d4-8645-437c-907f-79bf98c07b82",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "Persons hand with blue paint",
+      "uk": "Рука в синій фарбі"
+    },
+    "alt": {
+      "en": "Persons hand with blue paint",
+      "uk": "Рука в синій фарбі"
+    },
+    "tags": [
+      {
+        "key": "hand",
+        "i18n": {
+          "en": "hand",
+          "uk": "рука"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "lighting",
+        "portrait"
+      ],
+      "uk": [
+        "освітлення",
+        "портрет"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/persons-hand-with-blue-paint-V48U9oDNDrg",
+  "sourceName": "Unsplash",
+  "authorName": "Ryunosuke Kikuno",
+  "authorUrl": "https://unsplash.com/@ryunosuke_kikuno",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 3595,
+  "collectionSlugs": [
+    "people"
+  ]
+}

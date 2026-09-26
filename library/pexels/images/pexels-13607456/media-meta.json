@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-13607456",
+  "mediaKey": "pexels:13607456",
+  "i18n": {
+    "name": {
+      "en": "Man looking at a phone in profile",
+      "uk": "Чоловік дивиться на телефон у профіль"
+    },
+    "alt": {
+      "en": "Profile silhouette of a person holding a phone in grayscale.",
+      "uk": "Силует людини, яка тримає телефон, у відтінках сірого."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "smartphone",
+        "i18n": {
+          "en": "smartphone",
+          "uk": "смартфон"
+        }
+      },
+      {
+        "key": "profile",
+        "i18n": {
+          "en": "profile",
+          "uk": "профіль"
+        }
+      },
+      {
+        "key": "silhouette",
+        "i18n": {
+          "en": "silhouette",
+          "uk": "силует"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-silhouette-of-man-in-side-view-wearing-black-jacket-13607456/",
+  "sourceName": "Pexels",
+  "authorName": "Gabriel Passos",
+  "authorUrl": "https://www.pexels.com/@gabriel-passos-71368745",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-7131745",
+  "mediaKey": "pexels:7131745",
+  "i18n": {
+    "name": {
+      "en": "Bright particle cluster on a dark background",
+      "uk": "Яскраве скупчення частинок на темному тлі"
+    },
+    "alt": {
+      "en": "Abstract photograph of delicate flowers reflected in raindrop formations on a dark surface.",
+      "uk": "Абстрактна фотографія ніжних квітів, що відбиваються у краплях дощу на темній поверхні."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "particles",
+        "i18n": {
+          "en": "particles",
+          "uk": "частинки"
+        }
+      },
+      {
+        "key": "cluster",
+        "i18n": {
+          "en": "cluster",
+          "uk": "кластер"
+        }
+      },
+      {
+        "key": "glowing",
+        "i18n": {
+          "en": "glowing",
+          "uk": "світіння"
+        }
+      },
+      {
+        "key": "black",
+        "i18n": {
+          "en": "black",
+          "uk": "чорний"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/reflections-of-a-flower-on-water-droplets-7131745/",
+  "sourceName": "Pexels",
+  "authorName": "Jan Kopřiva",
+  "authorUrl": "https://www.pexels.com/@koprivakart",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1597
+}

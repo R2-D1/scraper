@@ -1,0 +1,94 @@
+{
+  "slug": "abstract-metallic-texture-jifar",
+  "mediaKey": "dea836f5-111f-4dbb-b95c-ab242832afc1",
+  "i18n": {
+    "name": {
+      "en": "Abstract Metallic Texture",
+      "uk": "Абстрактна металева фактура"
+    },
+    "alt": {
+      "en": "Abstract Metallic Texture",
+      "uk": "Абстрактна металева фактура"
+    },
+    "tags": [
+      {
+        "key": "texture",
+        "i18n": {
+          "en": "Texture",
+          "uk": "Текстура"
+        }
+      },
+      {
+        "key": "light-and-shadow",
+        "i18n": {
+          "en": "light and shadow",
+          "uk": "світло й тінь"
+        }
+      },
+      {
+        "key": "metallic-surface",
+        "i18n": {
+          "en": "metallic surface",
+          "uk": "металева поверхня"
+        }
+      },
+      {
+        "key": "industrial-aesthetic",
+        "i18n": {
+          "en": "industrial aesthetic",
+          "uk": "промислова естетика"
+        }
+      },
+      {
+        "key": "weathered-appearance",
+        "i18n": {
+          "en": "weathered appearance",
+          "uk": "вигляд, що зазнав впливу погоди"
+        }
+      },
+      {
+        "key": "abstract-texture",
+        "i18n": {
+          "en": "abstract texture",
+          "uk": "абстрактна текстура"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "textures"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Binks AI",
+  "authorUrl": "https://www.lummi.ai/creator/binksdesign?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "The image displays an abstract texture with a dark, metallic surface that features wavy, ripple-like patterns. The surface is weathered and cracked, with visible scratches and imperfections that add to its rugged appearance. Subtle gradients of black, gray, and white dominate the composition, with occasional hints of red and green adding contrast. The red accents appear as small, irregular patches, while the green is faint and streak-like. The overall aesthetic is industrial and aged, evoking a sense of decay or wear. The interplay of light and shadow across the ripples creates a dynamic and visually engaging effect.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1345,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/abstract-metallic-texture-jifar/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/abstract-metallic-texture-jifar/abstract-metallic-texture-jifar.jpg",
+  "relativeAssetPath": "library/lummi/images/abstract-metallic-texture-jifar/abstract-metallic-texture-jifar.jpg"
+}

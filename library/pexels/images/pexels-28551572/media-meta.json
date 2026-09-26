@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-28551572",
+  "mediaKey": "pexels:28551572",
+  "i18n": {
+    "name": {
+      "en": "Three glowing red bars on a purple surface",
+      "uk": "Три яскраво-червоні смужки на фіолетовому тлі"
+    },
+    "alt": {
+      "en": "Abstract image of three neon-lit blocks reflecting on a surface, creating a futuristic ambiance.",
+      "uk": "Абстрактне зображення трьох освітлених неоновим світлом блоків, що відбиваються на поверхні, створюючи футуристичну атмосферу."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "glowing-bars",
+        "i18n": {
+          "en": "glowing bars",
+          "uk": "світяться смуги"
+        }
+      },
+      {
+        "key": "red",
+        "i18n": {
+          "en": "red",
+          "uk": "червоний"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "minimal",
+        "i18n": {
+          "en": "minimal",
+          "uk": "мінімальний"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/futuristic-neon-light-blocks-reflection-28551572/",
+  "sourceName": "Pexels",
+  "authorName": "Steve A Johnson",
+  "authorUrl": "https://www.pexels.com/@steve",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

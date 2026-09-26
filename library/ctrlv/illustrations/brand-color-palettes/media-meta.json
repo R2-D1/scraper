@@ -1,0 +1,90 @@
+{
+  "slug": "brand-color-palettes",
+  "mediaKey": "a1a4ab5a-5d66-4e0d-a202-66bea54e1b30",
+  "i18n": {
+    "name": {
+      "en": "Color Palette",
+      "uk": "Колірна палітра"
+    },
+    "alt": {
+      "en": "Color Palette",
+      "uk": "Колірна палітра"
+    },
+    "tags": [
+      {
+        "key": "brand",
+        "i18n": {
+          "en": "brand",
+          "uk": "бренд"
+        }
+      },
+      {
+        "key": "palette",
+        "i18n": {
+          "en": "palette",
+          "uk": "палітра"
+        }
+      },
+      {
+        "key": "design",
+        "i18n": {
+          "en": "design",
+          "uk": "дизайн"
+        }
+      },
+      {
+        "key": "swatches",
+        "i18n": {
+          "en": "swatches",
+          "uk": "зразки кольорів"
+        }
+      },
+      {
+        "key": "creative",
+        "i18n": {
+          "en": "creative",
+          "uk": "креативний"
+        }
+      },
+      {
+        "key": "style",
+        "i18n": {
+          "en": "style",
+          "uk": "стиль"
+        }
+      },
+      {
+        "key": "hex",
+        "i18n": {
+          "en": "hex",
+          "uk": "шістнадцятковий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/brand-color-palettes",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

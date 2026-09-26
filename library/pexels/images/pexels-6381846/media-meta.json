@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-6381846",
+  "mediaKey": "pexels:6381846",
+  "i18n": {
+    "name": {
+      "en": "Woman posing behind a neon green panel",
+      "uk": "Жінка позує за неоновою зеленою панеллю"
+    },
+    "alt": {
+      "en": "Artistic portrait of a woman with dyed hair in an aquarium setting, under vivid green light.",
+      "uk": "Художній портрет жінки з пофарбованим волоссям на тлі акваріума під яскравим зеленим світлом."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "green-light",
+        "i18n": {
+          "en": "green light",
+          "uk": "зелене світло"
+        }
+      },
+      {
+        "key": "neon-light",
+        "i18n": {
+          "en": "neon light",
+          "uk": "неонове світло"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/a-woman-sitting-in-the-aquarium-6381846/",
+  "sourceName": "Pexels",
+  "authorName": "Ike  louie  Natividad",
+  "authorUrl": "https://www.pexels.com/@iamikeee",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1600
+}

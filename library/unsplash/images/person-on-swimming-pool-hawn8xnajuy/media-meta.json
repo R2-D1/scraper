@@ -1,0 +1,63 @@
+{
+  "slug": "person-on-swimming-pool-hawn8xnajuy",
+  "mediaKey": "4d47bc4b-2948-4963-95a4-cff561536bc0",
+  "i18n": {
+    "name": {
+      "en": "person on swimming pool",
+      "uk": "людина біля басейну"
+    },
+    "alt": {
+      "en": "person on swimming pool",
+      "uk": "людина біля басейну"
+    },
+    "tags": [
+      {
+        "key": "wellness",
+        "i18n": {
+          "en": "wellness",
+          "uk": "велнес"
+        }
+      },
+      {
+        "key": "grey",
+        "i18n": {
+          "en": "grey",
+          "uk": "сірий"
+        }
+      },
+      {
+        "key": "sport",
+        "i18n": {
+          "en": "sport",
+          "uk": "спорт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "authorName": "Serena Repice Lentini",
+  "authorUrl": "https://unsplash.com/@serenarepice",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "pinned": false,
+  "width": 2400,
+  "height": 3200,
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/unsplash/images/person-on-swimming-pool-hawn8xnajuy/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/unsplash/images/person-on-swimming-pool-hawn8xnajuy/person-on-swimming-pool-hawn8xnajuy.jpg",
+  "relativeAssetPath": "library/unsplash/images/person-on-swimming-pool-hawn8xnajuy/person-on-swimming-pool-hawn8xnajuy.jpg",
+  "collectionSlugs": [
+    "sports"
+  ]
+}

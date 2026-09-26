@@ -1,0 +1,49 @@
+{
+  "slug": "awesome-oikh",
+  "mediaKey": "b9346fc1-a914-40b6-b09f-7d5a976dccbd",
+  "providerId": "600ff83628ecd20017ac12c0",
+  "i18n": {
+    "name": {
+      "en": "Awesome",
+      "uk": "Супер"
+    },
+    "alt": {
+      "en": "Awesome",
+      "uk": "Супер"
+    },
+    "tags": [
+      {
+        "key": "awesome",
+        "i18n": {
+          "en": "Awesome",
+          "uk": "Супер"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/awesome_oikh.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 616,
+  "height": 629
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "notify-drs8",
+  "mediaKey": "b1bb1366-70da-4484-a654-b76b84954eb5",
+  "providerId": "69c1ca7c002d3c782f0104bc",
+  "i18n": {
+    "name": {
+      "en": "Notify",
+      "uk": "Повідомити"
+    },
+    "alt": {
+      "en": "Notify",
+      "uk": "Повідомити"
+    },
+    "tags": [
+      {
+        "key": "notify",
+        "i18n": {
+          "en": "Notify",
+          "uk": "Повідомити"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/notify_drs8.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 955,
+  "height": 705
+}

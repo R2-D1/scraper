@@ -1,0 +1,87 @@
+{
+  "slug": "glittery-portrait-kemb9",
+  "mediaKey": "af29cc26-e18c-4c66-b3d7-fd33f5509a58",
+  "i18n": {
+    "name": {
+      "en": "Glittery Portrait",
+      "uk": "Блискучий портрет"
+    },
+    "alt": {
+      "en": "Glittery Portrait",
+      "uk": "Блискучий портрет"
+    },
+    "tags": [
+      {
+        "key": "glasses",
+        "i18n": {
+          "en": "Glasses",
+          "uk": "Окуляри"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "Fashion",
+          "uk": "Мода"
+        }
+      },
+      {
+        "key": "glitter",
+        "i18n": {
+          "en": "Glitter",
+          "uk": "Блиск"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "blue-sky",
+        "i18n": {
+          "en": "blue sky",
+          "uk": "синє небо"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Ava Thiery",
+  "authorUrl": "https://www.lummi.ai/creator/ava_thiery?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A close-up portrait of a person with fair skin and short dark hair, wearing translucent glasses with orange-tinted lenses. The individual is dressed in a shimmering, glittery high-neck top that reflects light beautifully. The background is a clear blue sky, adding a serene and open atmosphere to the image. The lighting creates a soft glow on the subject's face, emphasizing their relaxed expression and the vibrant colors of the glasses.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2048,
+  "height": 2048,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/glittery-portrait-kemb9/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/glittery-portrait-kemb9/glittery-portrait-kemb9.png",
+  "relativeAssetPath": "library/lummi/images/glittery-portrait-kemb9/glittery-portrait-kemb9.png"
+}

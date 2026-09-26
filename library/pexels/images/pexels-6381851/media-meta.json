@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-6381851",
+  "mediaKey": "pexels:6381851",
+  "i18n": {
+    "name": {
+      "en": "Close-up portrait in green neon light",
+      "uk": "Крупний план портрета в зеленому неоновому світлі"
+    },
+    "alt": {
+      "en": "Conceptual photo of a woman with blonde hair submerged in water under green lighting, evoking emotion.",
+      "uk": "Концептуальна фотографія жінки зі світлим волоссям, зануреної у воду під зеленим освітленням, що викликає емоції."
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "woman",
+          "uk": "жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "green-light",
+        "i18n": {
+          "en": "green light",
+          "uk": "зелене світло"
+        }
+      },
+      {
+        "key": "neon-light",
+        "i18n": {
+          "en": "neon light",
+          "uk": "неонове світло"
+        }
+      },
+      {
+        "key": "close-up",
+        "i18n": {
+          "en": "close up",
+          "uk": "крупний план"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/close-up-shot-of-a-woman-6381851/",
+  "sourceName": "Pexels",
+  "authorName": "Ike  louie  Natividad",
+  "authorUrl": "https://www.pexels.com/@iamikeee",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

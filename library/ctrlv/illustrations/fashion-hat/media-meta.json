@@ -1,0 +1,90 @@
+{
+  "slug": "fashion-hat",
+  "mediaKey": "29786b61-b5c8-496b-b625-2f837afaa31b",
+  "i18n": {
+    "name": {
+      "en": "Classic Hat",
+      "uk": "Класична шапка"
+    },
+    "alt": {
+      "en": "Classic Hat",
+      "uk": "Класична шапка"
+    },
+    "tags": [
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "clothing",
+        "i18n": {
+          "en": "clothing",
+          "uk": "одяг"
+        }
+      },
+      {
+        "key": "hat",
+        "i18n": {
+          "en": "hat",
+          "uk": "капелюх"
+        }
+      },
+      {
+        "key": "cap",
+        "i18n": {
+          "en": "cap",
+          "uk": "шапка"
+        }
+      },
+      {
+        "key": "fedora",
+        "i18n": {
+          "en": "fedora",
+          "uk": "федора"
+        }
+      },
+      {
+        "key": "accessory",
+        "i18n": {
+          "en": "accessory",
+          "uk": "аксесуар"
+        }
+      },
+      {
+        "key": "headwear",
+        "i18n": {
+          "en": "headwear",
+          "uk": "головний убір"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/fashion-hat",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

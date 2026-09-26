@@ -1,0 +1,49 @@
+{
+  "slug": "confirmed-c5lo",
+  "mediaKey": "28d2e59e-6272-4c6d-8376-c9a35abcd02d",
+  "providerId": "67ddc9fb06bbd7725db1391c",
+  "i18n": {
+    "name": {
+      "en": "Confirmed",
+      "uk": "Підтверджено"
+    },
+    "alt": {
+      "en": "Confirmed",
+      "uk": "Підтверджено"
+    },
+    "tags": [
+      {
+        "key": "confirmed",
+        "i18n": {
+          "en": "Confirmed",
+          "uk": "Підтверджено"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/confirmed_c5lo.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 677,
+  "height": 800
+}

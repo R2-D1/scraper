@@ -1,0 +1,89 @@
+{
+  "slug": "ot0jld08luw",
+  "mediaKey": "a38637d8-6e9d-4dac-812b-7faeff543280",
+  "pinned": false,
+  "i18n": {
+    "name": {
+      "en": "Experimental 1 of 3 -- Houdini, using random color and attribute blur. Good for creating extra \"colored light sources\" without the render time and using the blur strength to create metallic-like surface and/or patterns.",
+      "uk": "Переливчасті металеві кулі"
+    },
+    "alt": {
+      "en": "Experimental 1 of 3 -- Houdini, using random color and attribute blur. Good for creating extra \"colored light sources\" without the render time and using the blur strength to create metallic-like surface and/or patterns.",
+      "uk": "Експеримент 1 із 3 — Houdini з використанням випадкових кольорів та розмиття атрибутів. Добре підходить для створення додаткових «кольорових джерел світла» без збільшення часу рендерингу, а також для створення поверхонь із металічним ефектом та/або візерунків за допомогою регулювання інтенсивності розмиття."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "colorful",
+        "i18n": {
+          "en": "colorful",
+          "uk": "кольоровий"
+        }
+      },
+      {
+        "key": "color-background",
+        "i18n": {
+          "en": "color background",
+          "uk": "кольоровий фон"
+        }
+      },
+      {
+        "key": "colorful-blur",
+        "i18n": {
+          "en": "colorful blur",
+          "uk": "барвисте розмиття"
+        }
+      },
+      {
+        "key": "metallic",
+        "i18n": {
+          "en": "metallic",
+          "uk": "металевий"
+        }
+      },
+      {
+        "key": "metal-surface",
+        "i18n": {
+          "en": "metal surface",
+          "uk": "металева поверхня"
+        }
+      },
+      {
+        "key": "spheres",
+        "i18n": {
+          "en": "spheres",
+          "uk": "сфери"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "source": "https://unsplash.com/photos/OT0jlD08LUw",
+  "sourceName": "Unsplash",
+  "authorName": "Buddha Elemental 3D",
+  "authorUrl": "https://unsplash.com/@buddhaelemental3d",
+  "description": "Experimental 1 of 3 -- Houdini, using random color and attribute blur. Good for creating extra \"colored light sources\" without the render time and using the blur strength to create metallic-like surface and/or patterns.",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "width": 2400,
+  "height": 1266
+}

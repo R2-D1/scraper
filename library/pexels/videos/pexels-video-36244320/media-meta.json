@@ -1,0 +1,85 @@
+{
+  "slug": "pexels-video-36244320",
+  "mediaKey": "pexels:video:36244320",
+  "i18n": {
+    "name": {
+      "en": "Night City Skyline with Light Beam",
+      "uk": "Панорама Нічного міста з променем світла"
+    },
+    "alt": {
+      "en": "Pexels video 36244320",
+      "uk": "Відео з Pexels № 36244320"
+    },
+    "tags": [
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "skyline",
+        "i18n": {
+          "en": "skyline",
+          "uk": "панорама міста"
+        }
+      },
+      {
+        "key": "night",
+        "i18n": {
+          "en": "night",
+          "uk": "ніч"
+        }
+      },
+      {
+        "key": "skyscrapers",
+        "i18n": {
+          "en": "skyscrapers",
+          "uk": "хмарочоси"
+        }
+      },
+      {
+        "key": "light-beam",
+        "i18n": {
+          "en": "light-beam",
+          "uk": "світловий промінь"
+        }
+      },
+      {
+        "key": "urban",
+        "i18n": {
+          "en": "urban",
+          "uk": "урбаністичний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/stunning-aerial-night-view-of-city-skyline-36244320/",
+  "sourceName": "Pexels",
+  "authorName": "Yura Forrat",
+  "authorUrl": "https://www.pexels.com/@yuraforrat",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 12,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

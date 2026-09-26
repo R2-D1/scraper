@@ -1,0 +1,63 @@
+{
+  "slug": "relaxed-reading-wfkr",
+  "mediaKey": "8b372f4a-5d04-4613-a945-e8f2d8d66679",
+  "providerId": "677f0b06dbf4b3a7df690afd",
+  "i18n": {
+    "name": {
+      "en": "Relaxed reading",
+      "uk": "Ненапружене читання"
+    },
+    "alt": {
+      "en": "Relaxed reading",
+      "uk": "Ненапружене читання"
+    },
+    "tags": [
+      {
+        "key": "relaxed-reading",
+        "i18n": {
+          "en": "Relaxed reading",
+          "uk": "Ненапружене читання"
+        }
+      },
+      {
+        "key": "relaxed",
+        "i18n": {
+          "en": "relaxed",
+          "uk": "розслаблений"
+        }
+      },
+      {
+        "key": "reading",
+        "i18n": {
+          "en": "reading",
+          "uk": "читання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/relaxed-reading_wfkr.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 925,
+  "height": 641
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "completed-vjc6",
+  "mediaKey": "a314000c-46d4-4d1f-8d7a-91f132a1fff1",
+  "providerId": "6966c98de3b47ece71f8074a",
+  "i18n": {
+    "name": {
+      "en": "Completed",
+      "uk": "Завершено"
+    },
+    "alt": {
+      "en": "Completed",
+      "uk": "Завершено"
+    },
+    "tags": [
+      {
+        "key": "completed",
+        "i18n": {
+          "en": "Completed",
+          "uk": "Завершено"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/completed_vjc6.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 556
+}

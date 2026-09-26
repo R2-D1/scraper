@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-38315335",
+  "mediaKey": "pexels:38315335",
+  "i18n": {
+    "name": {
+      "en": "Man seated in a dark fashion portrait",
+      "uk": "Чоловік сидить у темному модному портреті"
+    },
+    "alt": {
+      "en": "Portrait of a fashionable man sitting on artistic fabric with dramatic lighting.",
+      "uk": "Портрет модного чоловіка, що сидить на художній тканині в ефектному освітленні."
+    },
+    "tags": [
+      {
+        "key": "man",
+        "i18n": {
+          "en": "man",
+          "uk": "чоловік"
+        }
+      },
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "dark",
+        "i18n": {
+          "en": "dark",
+          "uk": "темний"
+        }
+      },
+      {
+        "key": "black-clothing",
+        "i18n": {
+          "en": "black clothing",
+          "uk": "чорний одяг"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "people"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/stylish-portrait-of-man-on-artistic-fabric-38315335/",
+  "sourceName": "Pexels",
+  "authorName": "Umar  Faruq",
+  "authorUrl": "https://www.pexels.com/@umar-faruq-1662051319",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

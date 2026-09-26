@@ -1,0 +1,83 @@
+{
+  "slug": "coding-desk",
+  "mediaKey": "3d2959a9-d9a6-4fc7-bf7c-95fedaa950ae",
+  "i18n": {
+    "name": {
+      "en": "Deep Coding",
+      "uk": "Глибоке кодування"
+    },
+    "alt": {
+      "en": "Deep Coding",
+      "uk": "Глибоке кодування"
+    },
+    "tags": [
+      {
+        "key": "coding",
+        "i18n": {
+          "en": "coding",
+          "uk": "програмування"
+        }
+      },
+      {
+        "key": "programming",
+        "i18n": {
+          "en": "programming",
+          "uk": "програмування"
+        }
+      },
+      {
+        "key": "brackets",
+        "i18n": {
+          "en": "brackets",
+          "uk": "дужки"
+        }
+      },
+      {
+        "key": "developer",
+        "i18n": {
+          "en": "developer",
+          "uk": "розробник"
+        }
+      },
+      {
+        "key": "desk",
+        "i18n": {
+          "en": "desk",
+          "uk": "письмовий стіл"
+        }
+      },
+      {
+        "key": "work",
+        "i18n": {
+          "en": "work",
+          "uk": "робота"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/coding-desk",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

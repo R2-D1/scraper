@@ -1,0 +1,90 @@
+{
+  "slug": "biz-term-b2c",
+  "mediaKey": "754dfb94-74cb-453d-8c62-20c488a1339a",
+  "i18n": {
+    "name": {
+      "en": "B2C",
+      "uk": "B2C"
+    },
+    "alt": {
+      "en": "B2C",
+      "uk": "B2C"
+    },
+    "tags": [
+      {
+        "key": "business",
+        "i18n": {
+          "en": "business",
+          "uk": "бізнес"
+        }
+      },
+      {
+        "key": "terminology",
+        "i18n": {
+          "en": "terminology",
+          "uk": "термінологія"
+        }
+      },
+      {
+        "key": "b2c",
+        "i18n": {
+          "en": "b2c",
+          "uk": "b2c"
+        }
+      },
+      {
+        "key": "consumer",
+        "i18n": {
+          "en": "consumer",
+          "uk": "споживач"
+        }
+      },
+      {
+        "key": "customer",
+        "i18n": {
+          "en": "customer",
+          "uk": "клієнт"
+        }
+      },
+      {
+        "key": "retail",
+        "i18n": {
+          "en": "retail",
+          "uk": "ритейл"
+        }
+      },
+      {
+        "key": "link",
+        "i18n": {
+          "en": "link",
+          "uk": "посилання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/biz-term-b2c",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

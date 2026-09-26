@@ -1,0 +1,78 @@
+{
+  "slug": "pexels-video-34335572",
+  "mediaKey": "pexels:video:34335572",
+  "i18n": {
+    "name": {
+      "en": "Towering White Cumulus Cloud",
+      "uk": "Висока біла купчаста хмара"
+    },
+    "alt": {
+      "en": "Pexels video 34335572",
+      "uk": "Відео з Pexels № 34335572"
+    },
+    "tags": [
+      {
+        "key": "cloud",
+        "i18n": {
+          "en": "cloud",
+          "uk": "хмара"
+        }
+      },
+      {
+        "key": "cumulus",
+        "i18n": {
+          "en": "cumulus",
+          "uk": "кумулюс"
+        }
+      },
+      {
+        "key": "white",
+        "i18n": {
+          "en": "white",
+          "uk": "білий"
+        }
+      },
+      {
+        "key": "blue-sky",
+        "i18n": {
+          "en": "blue-sky",
+          "uk": "блакитне небо"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "videos",
+    "en": "Videos",
+    "uk": "Відео"
+  },
+  "collectionSlugs": [
+    "videos"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/video/majestic-cumulus-clouds-in-clear-blue-sky-34335572/",
+  "sourceName": "Pexels",
+  "authorName": "Larkkid Dung",
+  "authorUrl": "https://www.pexels.com/@larkkid-dung-363901731",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 1920,
+  "height": 1080,
+  "duration": 16,
+  "mimeType": "video/mp4",
+  "container": "mp4"
+}

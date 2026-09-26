@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-27627979",
+  "mediaKey": "pexels:27627979",
+  "i18n": {
+    "name": {
+      "en": "Blue lizard viewed from the front",
+      "uk": "Синя ящірка, вид спереду"
+    },
+    "alt": {
+      "en": "Lizard",
+      "uk": "Ящірка"
+    },
+    "tags": [
+      {
+        "key": "lizard",
+        "i18n": {
+          "en": "lizard",
+          "uk": "ящірка"
+        }
+      },
+      {
+        "key": "reptile",
+        "i18n": {
+          "en": "reptile",
+          "uk": "плазуни"
+        }
+      },
+      {
+        "key": "blue-scales",
+        "i18n": {
+          "en": "blue scales",
+          "uk": "сині луски"
+        }
+      },
+      {
+        "key": "close-up",
+        "i18n": {
+          "en": "close-up",
+          "uk": "крупний план"
+        }
+      },
+      {
+        "key": "animal",
+        "i18n": {
+          "en": "animal",
+          "uk": "тварина"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "animals"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/lizard-27627979/",
+  "sourceName": "Pexels",
+  "authorName": "Christian Halaguena",
+  "authorUrl": "https://www.pexels.com/@iamxtian",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3000
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "tennis-action-shot-gmudk",
+  "mediaKey": "0cc5acd3-3d2b-458b-b50e-782f84b389b9",
+  "i18n": {
+    "name": {
+      "en": "Tennis Action Shot",
+      "uk": "Динамічний кадр з тенісу"
+    },
+    "alt": {
+      "en": "Tennis Action Shot",
+      "uk": "Динамічний кадр з тенісу"
+    },
+    "tags": [
+      {
+        "key": "action",
+        "i18n": {
+          "en": "Action",
+          "uk": "Дія"
+        }
+      },
+      {
+        "key": "dynamic",
+        "i18n": {
+          "en": "Dynamic",
+          "uk": "Динамічний"
+        }
+      },
+      {
+        "key": "motion",
+        "i18n": {
+          "en": "Motion",
+          "uk": "Рух"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "Sports",
+          "uk": "Спорт"
+        }
+      },
+      {
+        "key": "tennis",
+        "i18n": {
+          "en": "Tennis",
+          "uk": "Теніс"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Sam Stoof",
+  "authorUrl": "https://www.lummi.ai/creator/samstoof?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A dynamic image of a tennis player captured mid-action. The individual is leaping into the air, holding a tennis racket in one hand, with a tennis ball suspended in motion nearby. The player is dressed in a textured, light-colored sweater, pink pants, and white sneakers, with a headband securing their hair. The lighting emphasizes the subject, creating a dramatic contrast against the dark background. The motion blur on the racket and ball adds a sense of energy and movement to the scene.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 1856,
+  "height": 2464,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/tennis-action-shot-gmudk/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/tennis-action-shot-gmudk/tennis-action-shot-gmudk.png",
+  "relativeAssetPath": "library/lummi/images/tennis-action-shot-gmudk/tennis-action-shot-gmudk.png"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "verified-m721",
+  "mediaKey": "44770aaf-b7a0-4e63-a06f-fc0d4707f97d",
+  "providerId": "5f9aa817f8023600174769d1",
+  "i18n": {
+    "name": {
+      "en": "Verified",
+      "uk": "Перевірено"
+    },
+    "alt": {
+      "en": "Verified",
+      "uk": "Перевірено"
+    },
+    "tags": [
+      {
+        "key": "verified",
+        "i18n": {
+          "en": "Verified",
+          "uk": "Перевірено"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/verified_m721.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 681,
+  "height": 687
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "art-lover-orea",
+  "mediaKey": "95ae3074-24b5-481c-bb9f-dd31b6bda03c",
+  "providerId": "618e7fa4e7cd0f001735c8ed",
+  "i18n": {
+    "name": {
+      "en": "Art lover",
+      "uk": "Любитель мистецтва"
+    },
+    "alt": {
+      "en": "Art lover",
+      "uk": "Любитель мистецтва"
+    },
+    "tags": [
+      {
+        "key": "art-lover",
+        "i18n": {
+          "en": "Art lover",
+          "uk": "Любитель мистецтва"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "art",
+          "uk": "мистецтво"
+        }
+      },
+      {
+        "key": "lover",
+        "i18n": {
+          "en": "lover",
+          "uk": "коханий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/art-lover_orea.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 570,
+  "height": 671
+}

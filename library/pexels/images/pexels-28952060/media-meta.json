@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-28952060",
+  "mediaKey": "pexels:28952060",
+  "i18n": {
+    "name": {
+      "en": "Close-up of tall green cactus plants",
+      "uk": "Крупний план високих зелених кактусів"
+    },
+    "alt": {
+      "en": "Vibrant green cactus plants showcased in natural sunlight, highlighting spine details.",
+      "uk": "Яскраво-зелені кактуси, виставлені під природним сонячним світлом, що підкреслює деталі колючок."
+    },
+    "tags": [
+      {
+        "key": "cactus",
+        "i18n": {
+          "en": "cactus",
+          "uk": "кактус"
+        }
+      },
+      {
+        "key": "cacti",
+        "i18n": {
+          "en": "cacti",
+          "uk": "кактуси"
+        }
+      },
+      {
+        "key": "desert-plant",
+        "i18n": {
+          "en": "desert plant",
+          "uk": "рослина пустелі"
+        }
+      },
+      {
+        "key": "green",
+        "i18n": {
+          "en": "green",
+          "uk": "зелений"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      },
+      {
+        "key": "close-up",
+        "i18n": {
+          "en": "close-up",
+          "uk": "крупний план"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "nature"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/close-up-of-green-cactus-plants-in-sunlight-28952060/",
+  "sourceName": "Pexels",
+  "authorName": "Bruno Thethe",
+  "authorUrl": "https://www.pexels.com/@bruthethe",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-39103618",
+  "mediaKey": "pexels:39103618",
+  "i18n": {
+    "name": {
+      "en": "Sprinter crouched at the starting line",
+      "uk": "Спринтер присів на стартовій лінії"
+    },
+    "alt": {
+      "en": "A blurred shot of a young male athlete sprinting on a track with dynamic motion.",
+      "uk": "Розмитий знімок молодого спортсмена-чоловіка, який динамічно біжить спринтом по біговій доріжці."
+    },
+    "tags": [
+      {
+        "key": "sprint",
+        "i18n": {
+          "en": "sprint",
+          "uk": "спринт"
+        }
+      },
+      {
+        "key": "runner",
+        "i18n": {
+          "en": "runner",
+          "uk": "бігун"
+        }
+      },
+      {
+        "key": "athletics",
+        "i18n": {
+          "en": "athletics",
+          "uk": "атлетика"
+        }
+      },
+      {
+        "key": "track-and-field",
+        "i18n": {
+          "en": "track and field",
+          "uk": "легка атлетика"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "sports",
+          "uk": "спорт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/dynamic-motion-blur-of-athlete-sprinting-outdoors-39103618/",
+  "sourceName": "Pexels",
+  "authorName": "Jean-Daniel Francoeur",
+  "authorUrl": "https://www.pexels.com/@jean-daniel",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

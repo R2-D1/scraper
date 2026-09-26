@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "kind": "custom-image",
+  "slug": "woman-on-phone-with-squirrel",
+  "mediaKey": "custom:content:447791d40c9ec4ecbc4994d22b467f5187178ca31501d23a0999ff5c9c52d760",
+  "pinned": true,
+  "collectionSlugs": [
+    "people"
+  ],
+  "sourceContentHash": "447791d40c9ec4ecbc4994d22b467f5187178ca31501d23a0999ff5c9c52d760",
+  "i18n": {
+    "name": {
+      "en": "Woman on Phone with Squirrel",
+      "uk": "Жінка з телефоном і білкою"
+    },
+    "alt": {
+      "en": "Woman on Phone with Squirrel",
+      "uk": "Жінка з телефоном і білкою"
+    },
+    "tags": [
+      {
+        "key": "woman",
+        "i18n": {
+          "en": "Woman",
+          "uk": "Жінка"
+        }
+      },
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "Portrait",
+          "uk": "Портрет"
+        }
+      },
+      {
+        "key": "telephone",
+        "i18n": {
+          "en": "Telephone",
+          "uk": "Телефон"
+        }
+      },
+      {
+        "key": "squirrel",
+        "i18n": {
+          "en": "Squirrel",
+          "uk": "Білка"
+        }
+      },
+      {
+        "key": "surreal",
+        "i18n": {
+          "en": "Surreal",
+          "uk": "Сюрреалістичне"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [
+        "Woman",
+        "Portrait",
+        "Telephone",
+        "Squirrel",
+        "Surreal"
+      ],
+      "uk": [
+        "Жінка",
+        "Портрет",
+        "Телефон",
+        "Білка",
+        "Сюрреалістичне"
+      ]
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://divnex.com",
+  "sourceName": "Divnex",
+  "authorName": "Divnex",
+  "authorUrl": "https://divnex.com",
+  "licenseName": "Divnex Asset License",
+  "licenseUrl": "https://divnex.com/asset-license",
+  "width": 2400,
+  "height": 3600
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "posts-kv5v",
+  "mediaKey": "8eb2c4f7-1b36-49e2-b7d9-0a4df1b1e9c0",
+  "providerId": "668e953485d0110016537dc8",
+  "i18n": {
+    "name": {
+      "en": "Posts",
+      "uk": "Публікації"
+    },
+    "alt": {
+      "en": "Posts",
+      "uk": "Публікації"
+    },
+    "tags": [
+      {
+        "key": "posts",
+        "i18n": {
+          "en": "Posts",
+          "uk": "Публікації"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/posts_kv5v.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 636,
+  "height": 609
+}

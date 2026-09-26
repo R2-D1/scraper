@@ -1,0 +1,63 @@
+{
+  "slug": "video-games-itxa",
+  "mediaKey": "cbd44376-58a1-4047-97b3-7cfb67088972",
+  "providerId": "66ec9036f7eaf30016d50909",
+  "i18n": {
+    "name": {
+      "en": "Video Games",
+      "uk": "Відеоігри"
+    },
+    "alt": {
+      "en": "Video Games",
+      "uk": "Відеоігри"
+    },
+    "tags": [
+      {
+        "key": "video-games",
+        "i18n": {
+          "en": "Video Games",
+          "uk": "Відеоігри"
+        }
+      },
+      {
+        "key": "video",
+        "i18n": {
+          "en": "video",
+          "uk": "відео"
+        }
+      },
+      {
+        "key": "games",
+        "i18n": {
+          "en": "games",
+          "uk": "ігри"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/video-games_itxa.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 598,
+  "height": 684
+}

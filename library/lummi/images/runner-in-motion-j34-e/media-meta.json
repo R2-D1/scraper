@@ -1,0 +1,87 @@
+{
+  "slug": "runner-in-motion-j34-e",
+  "mediaKey": "0f7d5004-5033-49de-b470-34236c39d740",
+  "i18n": {
+    "name": {
+      "en": "Runner in Motion",
+      "uk": "Бігун у русі"
+    },
+    "alt": {
+      "en": "Runner in Motion",
+      "uk": "Бігун у русі"
+    },
+    "tags": [
+      {
+        "key": "dynamic",
+        "i18n": {
+          "en": "Dynamic",
+          "uk": "Динамічний"
+        }
+      },
+      {
+        "key": "energy",
+        "i18n": {
+          "en": "Energy",
+          "uk": "Енергетика"
+        }
+      },
+      {
+        "key": "running",
+        "i18n": {
+          "en": "Running",
+          "uk": "Біг"
+        }
+      },
+      {
+        "key": "motion-blur",
+        "i18n": {
+          "en": "motion blur",
+          "uk": "розмиття в русі"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "People",
+          "uk": "Люди"
+        }
+      },
+      {
+        "key": "sports",
+        "i18n": {
+          "en": "Sports",
+          "uk": "Спорт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Nicolas Mariotti",
+  "authorUrl": "https://www.lummi.ai/creator/nico?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A dynamic image of a person in motion, captured with a blurred effect to emphasize speed and movement. The individual appears to be running, with their arms and legs in mid-action. The background is a clear blue sky with a hint of a distant landscape, adding depth to the scene. The subject's attire includes a dark top and light-colored pants, contrasting with the background. The motion blur creates a sense of energy and urgency, making the image visually striking.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 960,
+  "height": 1200,
+  "mimeType": "image/png",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/runner-in-motion-j34-e/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/runner-in-motion-j34-e/runner-in-motion-j34-e.png",
+  "relativeAssetPath": "library/lummi/images/runner-in-motion-j34-e/runner-in-motion-j34-e.png"
+}

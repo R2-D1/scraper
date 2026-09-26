@@ -1,0 +1,94 @@
+{
+  "slug": "iridescent-shard-display-miaow",
+  "mediaKey": "e7bb5d53-2f15-45d2-b875-beee29609f55",
+  "i18n": {
+    "name": {
+      "en": "Iridescent Shard Display",
+      "uk": "Виставка «Райдужні осколки»"
+    },
+    "alt": {
+      "en": "Iridescent Shard Display",
+      "uk": "Виставка «Райдужні осколки»"
+    },
+    "tags": [
+      {
+        "key": "ethereal",
+        "i18n": {
+          "en": "Ethereal",
+          "uk": "Неземний"
+        }
+      },
+      {
+        "key": "dynamic",
+        "i18n": {
+          "en": "Dynamic",
+          "uk": "Динамічний"
+        }
+      },
+      {
+        "key": "iridescent",
+        "i18n": {
+          "en": "Iridescent",
+          "uk": "Райдужний"
+        }
+      },
+      {
+        "key": "vibrant",
+        "i18n": {
+          "en": "Vibrant",
+          "uk": "Яскравий"
+        }
+      },
+      {
+        "key": "shards",
+        "i18n": {
+          "en": "shards",
+          "uk": "уламки"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "Art",
+          "uk": "Мистецтво"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "Abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "lummi",
+  "sourceName": "Lummi",
+  "authorName": "Mariana Pedroza",
+  "authorUrl": "https://www.lummi.ai/creator/mariana?utm_source=api&utm_campaign=api&utm_medium=referral",
+  "description": "A mesmerizing arrangement of iridescent shards, glowing with hues of pink, blue, and green, set against a stark black background. The shards appear to be layered and scattered, with light reflecting off their surfaces, creating a dazzling display of colors. The interplay of light and texture gives the image a dynamic and ethereal quality, as if the shards are floating in space. The vibrant colors and intricate details draw the viewer's attention, evoking a sense of wonder and curiosity.",
+  "licenseName": "Lummi License",
+  "licenseUrl": "https://www.lummi.ai/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "taggingStatus": "complete",
+  "width": 2048,
+  "height": 2048,
+  "mimeType": "image/webp",
+  "metaPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/iridescent-shard-display-miaow/media-meta.json",
+  "assetPath": "/Users/taras/HOLE/Projects/scraper/library/lummi/images/iridescent-shard-display-miaow/iridescent-shard-display-miaow.png",
+  "relativeAssetPath": "library/lummi/images/iridescent-shard-display-miaow/iridescent-shard-display-miaow.png"
+}

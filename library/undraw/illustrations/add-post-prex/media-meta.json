@@ -1,0 +1,63 @@
+{
+  "slug": "add-post-prex",
+  "mediaKey": "c252bd93-67b2-4236-8d4a-f9fde255f0e3",
+  "providerId": "69262a09b33c92903559febe",
+  "i18n": {
+    "name": {
+      "en": "Add Post",
+      "uk": "Додати допис"
+    },
+    "alt": {
+      "en": "Add Post",
+      "uk": "Додати допис"
+    },
+    "tags": [
+      {
+        "key": "add-post",
+        "i18n": {
+          "en": "Add Post",
+          "uk": "Додати допис"
+        }
+      },
+      {
+        "key": "add",
+        "i18n": {
+          "en": "add",
+          "uk": "додати"
+        }
+      },
+      {
+        "key": "post",
+        "i18n": {
+          "en": "post",
+          "uk": "стовп"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/add-post_prex.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 611
+}

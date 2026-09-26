@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-31622979",
+  "mediaKey": "pexels:31622979",
+  "i18n": {
+    "name": {
+      "en": "Purple and white flowing abstract wave",
+      "uk": "Фіолетова та біла хвиля у стилі абстракціонізму"
+    },
+    "alt": {
+      "en": "Dynamic abstract composition with blue and purple hues, evoking a futuristic atmosphere.",
+      "uk": "Динамічна абстрактна композиція у синьо-фіолетових відтінках, що створює футуристичну атмосферу."
+    },
+    "tags": [
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      },
+      {
+        "key": "wave",
+        "i18n": {
+          "en": "wave",
+          "uk": "хвиля"
+        }
+      },
+      {
+        "key": "flowing",
+        "i18n": {
+          "en": "flowing",
+          "uk": "текучий"
+        }
+      },
+      {
+        "key": "purple",
+        "i18n": {
+          "en": "purple",
+          "uk": "фіолетовий"
+        }
+      },
+      {
+        "key": "white",
+        "i18n": {
+          "en": "white",
+          "uk": "білий"
+        }
+      },
+      {
+        "key": "digital-art",
+        "i18n": {
+          "en": "digital art",
+          "uk": "цифрове мистецтво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "abstract"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/futuristic-abstract-blue-and-purple-sculpture-31622979/",
+  "sourceName": "Pexels",
+  "authorName": "Mahmoud Ramadan",
+  "authorUrl": "https://www.pexels.com/@mahmoudramadan",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1350
+}

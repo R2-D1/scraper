@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-38811155",
+  "mediaKey": "pexels:38811155",
+  "i18n": {
+    "name": {
+      "en": "Coffee cup with latte art viewed from above",
+      "uk": "Кавова чашка з лате-артом, вид зверху"
+    },
+    "alt": {
+      "en": "Stylish coffee presentation featuring beautiful latte art with branded espresso cups in a creative composition.",
+      "uk": "Стильна подача кави з чудовим латте-артом у фірмових чашках для еспресо, розташованих у креативній композиції."
+    },
+    "tags": [
+      {
+        "key": "coffee",
+        "i18n": {
+          "en": "coffee",
+          "uk": "кава"
+        }
+      },
+      {
+        "key": "latte-art",
+        "i18n": {
+          "en": "latte art",
+          "uk": "латте-арт"
+        }
+      },
+      {
+        "key": "cup",
+        "i18n": {
+          "en": "cup",
+          "uk": "чашка"
+        }
+      },
+      {
+        "key": "top-view",
+        "i18n": {
+          "en": "top view",
+          "uk": "вид згори"
+        }
+      },
+      {
+        "key": "beverage",
+        "i18n": {
+          "en": "beverage",
+          "uk": "напій"
+        }
+      },
+      {
+        "key": "cafe",
+        "i18n": {
+          "en": "cafe",
+          "uk": "кафе"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "food-drink"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/artistic-coffee-cup-with-latte-art-surrounded-by-espresso-cups-38811155/",
+  "sourceName": "Pexels",
+  "authorName": "Sergio Arreola",
+  "authorUrl": "https://www.pexels.com/@sergio-arreola-208344354",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

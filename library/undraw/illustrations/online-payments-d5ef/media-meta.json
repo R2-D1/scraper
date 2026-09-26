@@ -1,0 +1,63 @@
+{
+  "slug": "online-payments-d5ef",
+  "mediaKey": "10b7f5f5-319f-44f6-a6ad-74382c9b53de",
+  "providerId": "6926311fb33c92903559febf",
+  "i18n": {
+    "name": {
+      "en": "Online Payments",
+      "uk": "Онлайн-платежі"
+    },
+    "alt": {
+      "en": "Online Payments",
+      "uk": "Онлайн-платежі"
+    },
+    "tags": [
+      {
+        "key": "online-payments",
+        "i18n": {
+          "en": "Online Payments",
+          "uk": "Онлайн-платежі"
+        }
+      },
+      {
+        "key": "online",
+        "i18n": {
+          "en": "online",
+          "uk": "онлайн"
+        }
+      },
+      {
+        "key": "payments",
+        "i18n": {
+          "en": "payments",
+          "uk": "платежі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/online-payments_d5ef.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 800,
+  "height": 540
+}

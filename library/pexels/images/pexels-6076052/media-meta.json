@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-6076052",
+  "mediaKey": "pexels:6076052",
+  "i18n": {
+    "name": {
+      "en": "Person resting on a yoga mat outdoors",
+      "uk": "Людина, яка відпочиває на килимку для йоги на відкритому повітрі"
+    },
+    "alt": {
+      "en": "Two women lying on a basketball court, posing confidently with basketballs.",
+      "uk": "Дві жінки, що лежать на баскетбольному майданчику, впевнено позують з баскетбольними м’ячами."
+    },
+    "tags": [
+      {
+        "key": "person",
+        "i18n": {
+          "en": "person",
+          "uk": "людина"
+        }
+      },
+      {
+        "key": "yoga-mat",
+        "i18n": {
+          "en": "yoga mat",
+          "uk": "килимок для йоги"
+        }
+      },
+      {
+        "key": "exercise",
+        "i18n": {
+          "en": "exercise",
+          "uk": "вправи"
+        }
+      },
+      {
+        "key": "fitness",
+        "i18n": {
+          "en": "fitness",
+          "uk": "фітнес"
+        }
+      },
+      {
+        "key": "exercise-outdoors",
+        "i18n": {
+          "en": "exercise outdoors",
+          "uk": "займатися спортом на свіжому повітрі"
+        }
+      },
+      {
+        "key": "wellness",
+        "i18n": {
+          "en": "wellness",
+          "uk": "велнес"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "sports"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/two-women-in-shorts-with-tank-top-and-crop-top-lying-on-basketball-court-6076052/",
+  "sourceName": "Pexels",
+  "authorName": "KoolShooters",
+  "authorUrl": "https://www.pexels.com/@koolshooters",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 3600
+}

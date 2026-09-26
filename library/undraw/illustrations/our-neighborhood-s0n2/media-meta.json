@@ -1,0 +1,63 @@
+{
+  "slug": "our-neighborhood-s0n2",
+  "mediaKey": "436367be-c342-46b5-b17d-41d0fb2a2be6",
+  "providerId": "6103db3066e3590017ed1c98",
+  "i18n": {
+    "name": {
+      "en": "Our neighborhood",
+      "uk": "Наш район"
+    },
+    "alt": {
+      "en": "Our neighborhood",
+      "uk": "Наш район"
+    },
+    "tags": [
+      {
+        "key": "our-neighborhood",
+        "i18n": {
+          "en": "Our neighborhood",
+          "uk": "Наш район"
+        }
+      },
+      {
+        "key": "our",
+        "i18n": {
+          "en": "our",
+          "uk": "our"
+        }
+      },
+      {
+        "key": "neighborhood",
+        "i18n": {
+          "en": "neighborhood",
+          "uk": "район міста"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/our-neighborhood_s0n2.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 454,
+  "height": 272
+}

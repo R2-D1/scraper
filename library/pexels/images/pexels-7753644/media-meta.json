@@ -1,0 +1,82 @@
+{
+  "slug": "pexels-7753644",
+  "mediaKey": "pexels:7753644",
+  "i18n": {
+    "name": {
+      "en": "Blue ocean waves seen from above",
+      "uk": "Блакитні хвилі океану, побачені зверху"
+    },
+    "alt": {
+      "en": "Aerial view of turquoise ocean waves with dramatic foamy texture.",
+      "uk": "Панорамний вид з висоти на бірюзові океанські хвилі з ефектною пінистою текстурою."
+    },
+    "tags": [
+      {
+        "key": "ocean",
+        "i18n": {
+          "en": "ocean",
+          "uk": "океан"
+        }
+      },
+      {
+        "key": "waves",
+        "i18n": {
+          "en": "waves",
+          "uk": "хвилі"
+        }
+      },
+      {
+        "key": "blue-water",
+        "i18n": {
+          "en": "blue water",
+          "uk": "блакитна вода"
+        }
+      },
+      {
+        "key": "aerial-view",
+        "i18n": {
+          "en": "aerial view",
+          "uk": "вид з висоти пташиного польоту"
+        }
+      },
+      {
+        "key": "sea",
+        "i18n": {
+          "en": "sea",
+          "uk": "море"
+        }
+      },
+      {
+        "key": "nature",
+        "i18n": {
+          "en": "nature",
+          "uk": "природа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "nature"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/big-waves-in-the-ocean-7753644/",
+  "sourceName": "Pexels",
+  "authorName": "Ivan Bandura",
+  "authorUrl": "https://www.pexels.com/@ivan-bandura-3924970",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2246,
+  "height": 3992
+}

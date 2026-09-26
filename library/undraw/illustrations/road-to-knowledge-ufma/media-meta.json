@@ -1,0 +1,63 @@
+{
+  "slug": "road-to-knowledge-ufma",
+  "mediaKey": "75325b55-0ff1-4940-9ab0-52eed148ea41",
+  "providerId": "6a1f4a3379740242d59ddb28",
+  "i18n": {
+    "name": {
+      "en": "Road to Knowledge",
+      "uk": "Шлях до знань"
+    },
+    "alt": {
+      "en": "Road to Knowledge",
+      "uk": "Шлях до знань"
+    },
+    "tags": [
+      {
+        "key": "road-to-knowledge",
+        "i18n": {
+          "en": "Road to Knowledge",
+          "uk": "Шлях до знань"
+        }
+      },
+      {
+        "key": "road",
+        "i18n": {
+          "en": "road",
+          "uk": "дорога"
+        }
+      },
+      {
+        "key": "knowledge",
+        "i18n": {
+          "en": "knowledge",
+          "uk": "знання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/road-to-knowledge_ufma.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 336
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "pink-flamingos-o4tc9wrmvvm",
+  "mediaKey": "816c9bba-a526-4503-96b7-cd0fb879f155",
+  "i18n": {
+    "name": {
+      "en": "pink flamingos",
+      "uk": "рожеві фламінго"
+    },
+    "alt": {
+      "en": "pink flamingos",
+      "uk": "рожеві фламінго"
+    },
+    "tags": [
+      {
+        "key": "animal",
+        "i18n": {
+          "en": "animal",
+          "uk": "тварина"
+        }
+      },
+      {
+        "key": "wildlife",
+        "i18n": {
+          "en": "wildlife",
+          "uk": "дика природа"
+        }
+      },
+      {
+        "key": "flamingo-wallpaper",
+        "i18n": {
+          "en": "flamingo wallpaper",
+          "uk": "шпалери з фламінго"
+        }
+      },
+      {
+        "key": "bird",
+        "i18n": {
+          "en": "bird",
+          "uk": "птах"
+        }
+      },
+      {
+        "key": "flamingo",
+        "i18n": {
+          "en": "flamingo",
+          "uk": "фламінго"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "source": "https://unsplash.com/photos/pink-flamingos-o4Tc9wRMVVM",
+  "sourceName": "Unsplash",
+  "authorName": "Kyaw Tun",
+  "authorUrl": "https://unsplash.com/@kyawthutun",
+  "licenseName": "Unsplash License",
+  "licenseUrl": "https://unsplash.com/license",
+  "tier": "free",
+  "downloadSource": "downloads",
+  "pinned": false,
+  "width": 2400,
+  "height": 1600,
+  "collectionSlugs": [
+    "animals"
+  ]
+}

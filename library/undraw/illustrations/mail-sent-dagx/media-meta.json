@@ -1,0 +1,63 @@
+{
+  "slug": "mail-sent-dagx",
+  "mediaKey": "8afc754e-996d-47e9-a63a-9c0349923695",
+  "providerId": "6a975b43939aab611cf25ca6",
+  "i18n": {
+    "name": {
+      "en": "Mail Sent",
+      "uk": "Лист надіслано"
+    },
+    "alt": {
+      "en": "Mail Sent",
+      "uk": "Лист надіслано"
+    },
+    "tags": [
+      {
+        "key": "mail-sent",
+        "i18n": {
+          "en": "Mail Sent",
+          "uk": "Лист надіслано"
+        }
+      },
+      {
+        "key": "mail",
+        "i18n": {
+          "en": "mail",
+          "uk": "пошта"
+        }
+      },
+      {
+        "key": "sent",
+        "i18n": {
+          "en": "sent",
+          "uk": "надіслано"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/mail-sent_dagx.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 891,
+  "height": 800
+}

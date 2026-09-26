@@ -1,0 +1,63 @@
+{
+  "slug": "sunny-day-53fo",
+  "mediaKey": "7d1ea6ef-6ff9-43ef-a7cd-5e09e9456e75",
+  "providerId": "611fcbeda133590017c84401",
+  "i18n": {
+    "name": {
+      "en": "Sunny day",
+      "uk": "Сонячний день"
+    },
+    "alt": {
+      "en": "Sunny day",
+      "uk": "Сонячний день"
+    },
+    "tags": [
+      {
+        "key": "sunny-day",
+        "i18n": {
+          "en": "Sunny day",
+          "uk": "Сонячний день"
+        }
+      },
+      {
+        "key": "sunny",
+        "i18n": {
+          "en": "sunny",
+          "uk": "сонячно"
+        }
+      },
+      {
+        "key": "day",
+        "i18n": {
+          "en": "day",
+          "uk": "день"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/sunny-day_53fo.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 657,
+  "height": 684
+}

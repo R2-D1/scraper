@@ -1,0 +1,63 @@
+{
+  "slug": "task-brief-esbq",
+  "mediaKey": "35b7c71a-6d7c-42f5-b43b-815638f5fb83",
+  "providerId": "67f43eb220e4d865ecc97354",
+  "i18n": {
+    "name": {
+      "en": "Task Brief",
+      "uk": "Короткий опис завдання"
+    },
+    "alt": {
+      "en": "Task Brief",
+      "uk": "Короткий опис завдання"
+    },
+    "tags": [
+      {
+        "key": "task-brief",
+        "i18n": {
+          "en": "Task Brief",
+          "uk": "Короткий опис завдання"
+        }
+      },
+      {
+        "key": "task",
+        "i18n": {
+          "en": "task",
+          "uk": "завдання"
+        }
+      },
+      {
+        "key": "brief",
+        "i18n": {
+          "en": "brief",
+          "uk": "коротко"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/task-brief_esbq.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 700,
+  "height": 741
+}

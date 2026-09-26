@@ -1,0 +1,75 @@
+{
+  "slug": "pexels-27730390",
+  "mediaKey": "pexels:27730390",
+  "i18n": {
+    "name": {
+      "en": "Starry sky above a mountain horizon",
+      "uk": "Зоряне небо над гірським горизонтом"
+    },
+    "alt": {
+      "en": "A breathtaking view of the starry night sky with the Milky Way over a serene desert landscape.",
+      "uk": "Захоплюючий краєвид зоряного нічного неба з Чумацьким Шляхом над спокійним пустельним ландшафтом."
+    },
+    "tags": [
+      {
+        "key": "milky-way",
+        "i18n": {
+          "en": "milky way",
+          "uk": "Чумацький Шлях"
+        }
+      },
+      {
+        "key": "stars",
+        "i18n": {
+          "en": "stars",
+          "uk": "зірки"
+        }
+      },
+      {
+        "key": "night-sky",
+        "i18n": {
+          "en": "night sky",
+          "uk": "нічне небо"
+        }
+      },
+      {
+        "key": "mountains",
+        "i18n": {
+          "en": "mountains",
+          "uk": "гори"
+        }
+      },
+      {
+        "key": "space",
+        "i18n": {
+          "en": "space",
+          "uk": "космос"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "images",
+    "en": "Images",
+    "uk": "Зображення"
+  },
+  "collectionSlugs": [
+    "space"
+  ],
+  "pinned": false,
+  "source": "https://www.pexels.com/photo/the-milky-way-in-the-sky-above-a-mountain-range-27730390/",
+  "sourceName": "Pexels",
+  "authorName": "Fatih Turan",
+  "authorUrl": "https://www.pexels.com/@fatih-turan-63325184",
+  "licenseName": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "tier": "free",
+  "downloadSource": "pexels-api",
+  "taggingStatus": "complete",
+  "width": 2400,
+  "height": 1800
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "small-town-76a2",
+  "mediaKey": "8f0feb31-262f-45bd-9db2-75ba07f1e6ad",
+  "providerId": "627ce5c491045d0018cb3bbc",
+  "i18n": {
+    "name": {
+      "en": "Small town",
+      "uk": "Невелике містечко"
+    },
+    "alt": {
+      "en": "Small town",
+      "uk": "Невелике містечко"
+    },
+    "tags": [
+      {
+        "key": "small-town",
+        "i18n": {
+          "en": "Small town",
+          "uk": "Невелике містечко"
+        }
+      },
+      {
+        "key": "small",
+        "i18n": {
+          "en": "small",
+          "uk": "маленький"
+        }
+      },
+      {
+        "key": "town",
+        "i18n": {
+          "en": "town",
+          "uk": "містечко"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustrations/small-town_76a2.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 999,
+  "height": 479
+}

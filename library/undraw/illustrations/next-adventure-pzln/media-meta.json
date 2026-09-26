@@ -1,0 +1,63 @@
+{
+  "slug": "next-adventure-pzln",
+  "mediaKey": "049769df-6bf3-4ea1-aa07-939726f6c231",
+  "providerId": "6a18bed879740242d59ddb24",
+  "i18n": {
+    "name": {
+      "en": "Next Adventure",
+      "uk": "Наступна пригода"
+    },
+    "alt": {
+      "en": "Next Adventure",
+      "uk": "Наступна пригода"
+    },
+    "tags": [
+      {
+        "key": "next-adventure",
+        "i18n": {
+          "en": "Next Adventure",
+          "uk": "Наступна пригода"
+        }
+      },
+      {
+        "key": "next",
+        "i18n": {
+          "en": "next",
+          "uk": "наступний"
+        }
+      },
+      {
+        "key": "adventure",
+        "i18n": {
+          "en": "adventure",
+          "uk": "пригода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/next-adventure_pzln.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 960,
+  "height": 624
+}

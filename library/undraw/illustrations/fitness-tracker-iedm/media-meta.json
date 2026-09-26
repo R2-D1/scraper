@@ -1,0 +1,63 @@
+{
+  "slug": "fitness-tracker-iedm",
+  "mediaKey": "0cac6b25-28dd-43fe-bea9-4ec2467fab73",
+  "providerId": "6a444190939aab611cf25c5e",
+  "i18n": {
+    "name": {
+      "en": "Fitness Tracker",
+      "uk": "Фітнес-трекер"
+    },
+    "alt": {
+      "en": "Fitness Tracker",
+      "uk": "Фітнес-трекер"
+    },
+    "tags": [
+      {
+        "key": "fitness-tracker",
+        "i18n": {
+          "en": "Fitness Tracker",
+          "uk": "Фітнес-трекер"
+        }
+      },
+      {
+        "key": "fitness",
+        "i18n": {
+          "en": "fitness",
+          "uk": "фітнес"
+        }
+      },
+      {
+        "key": "tracker",
+        "i18n": {
+          "en": "tracker",
+          "uk": "трекер"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "undraw-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://cdn.undraw.co/illustration/fitness-tracker_iedm.svg",
+  "sourceName": "unDraw",
+  "authorName": "unDraw",
+  "authorUrl": "https://undraw.co/",
+  "licenseName": "unDraw License",
+  "licenseUrl": "https://undraw.co/license",
+  "tier": "free",
+  "downloadSource": "undraw",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 1053,
+  "height": 880
+}
