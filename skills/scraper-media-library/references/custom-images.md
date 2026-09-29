@@ -94,6 +94,7 @@ pnpm run media:validate:custom-images
 ## Stage 3 — середовища
 
 Порядок незмінний: Dev → Stage → Production. Перед кожним середовищем потрібне нове підтвердження.
+Перед запуском прочитай [правила синхронізації](sync.md) і перевір сухий план для відповідного середовища.
 
 ```text
 pnpm run media:sync:images -- --target dev --send --divnex-project <path-to-divnex2>

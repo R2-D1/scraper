@@ -18,6 +18,7 @@ description: "Керуй медіабібліотекою scraper: Unsplash, Lum
 7. Для Iconify прочитай [іконки](references/iconify.md) і [переклади іконок](references/icon-translations.md).
 8. Для CtrlV SVG-ілюстрацій прочитай [CtrlV](references/ctrlv.md) і [переклади зображень](references/image-translations.md).
 9. Для unDraw SVG-ілюстрацій прочитай [unDraw](references/undraw.md) і [переклади зображень](references/image-translations.md).
+10. Для планування, перевірки стану або запуску синхронізації будь-якого медіа прочитай [синхронізацію середовищ](references/sync.md).
 
 Не завантажуй матеріали інших режимів без потреби.
 
