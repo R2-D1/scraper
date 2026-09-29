@@ -2,7 +2,7 @@
 
 set -u
 
-repo_root="/Users/taras/HOLE/Projects/scraper"
+repo_root="/Volumes/Extreme SSD/scraper"
 export PATH="/Users/taras/.nvm/versions/node/v22.23.1/bin:/usr/bin:/bin"
 pnpm_bin="/Users/taras/.nvm/versions/node/v22.23.1/bin/pnpm"
 intake_root="$repo_root/intake/unsplash"

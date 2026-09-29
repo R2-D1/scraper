@@ -192,6 +192,11 @@ test("ordinary packages omit collection previews and related groups; finalizatio
     collections: [{ slug: "architecture" }, { slug: "abstract" }],
   });
   assert.deepEqual(metadataForBatch(metadata, true), metadata);
+  assert.deepEqual(metadataForBatch(metadata, true, new Set(["group-a"])), metadata);
+  assert.deepEqual(metadataForBatch(metadata, true, new Set()), {
+    slug: "declaring",
+    collections: metadata.collections,
+  });
 });
 
 test("resume rejects a different plan hash but accepts the same plan", () => {

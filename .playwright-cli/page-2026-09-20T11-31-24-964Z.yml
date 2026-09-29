@@ -1,0 +1,1820 @@
+- main [ref=e2]:
+  - complementary [ref=e3]:
+    - generic [ref=e11]: 4048 елементів у 29 колекціях
+    - textbox "Пошук за назвою, slug або тегом" [ref=e4]
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - heading "Зображення" [level=3] [ref=e14]
+        - button "Абстракції ✓ 414" [ref=e15] [cursor=pointer]:
+          - generic [ref=e16]:
+            - text: Абстракції
+            - generic "Прив’язано до Pexels" [ref=e17]: ✓
+          - generic [ref=e18]: "414"
+        - button "Тварини ✓ 12" [ref=e19] [cursor=pointer]:
+          - generic [ref=e20]:
+            - text: Тварини
+            - generic "Прив’язано до Pexels" [ref=e21]: ✓
+          - generic [ref=e22]: "12"
+        - button "Транспорт ✓ 187" [ref=e23] [cursor=pointer]:
+          - generic [ref=e24]:
+            - text: Транспорт
+            - generic "Прив’язано до Pexels" [ref=e25]: ✓
+          - generic [ref=e26]: "187"
+        - button "Сюрреалізм ✓ 19" [ref=e27] [cursor=pointer]:
+          - generic [ref=e28]:
+            - text: Сюрреалізм
+            - generic "Прив’язано до Pexels" [ref=e29]: ✓
+          - generic [ref=e30]: "19"
+        - button "Краса ✓ 190" [ref=e31] [cursor=pointer]:
+          - generic [ref=e32]:
+            - text: Краса
+            - generic "Прив’язано до Pexels" [ref=e33]: ✓
+          - generic [ref=e34]: "190"
+        - button "Бізнес ✓ 55" [ref=e35] [cursor=pointer]:
+          - generic [ref=e36]:
+            - text: Бізнес
+            - generic "Прив’язано до Pexels" [ref=e37]: ✓
+          - generic [ref=e38]: "55"
+        - button "Їжа та напої ✓ 183" [ref=e39] [cursor=pointer]:
+          - generic [ref=e40]:
+            - text: Їжа та напої
+            - generic "Прив’язано до Pexels" [ref=e41]: ✓
+          - generic [ref=e42]: "183"
+        - button "Градієнти ✓ 110" [ref=e43] [cursor=pointer]:
+          - generic [ref=e44]:
+            - text: Градієнти
+            - generic "Прив’язано до Pexels" [ref=e45]: ✓
+          - generic [ref=e46]: "110"
+        - button "Інтер'єри ✓ 35" [ref=e47] [cursor=pointer]:
+          - generic [ref=e48]:
+            - text: Інтер'єри
+            - generic "Прив’язано до Pexels" [ref=e49]: ✓
+          - generic [ref=e50]: "35"
+        - button "Природа ✓ 263" [ref=e51] [cursor=pointer]:
+          - generic [ref=e52]:
+            - text: Природа
+            - generic "Прив’язано до Pexels" [ref=e53]: ✓
+          - generic [ref=e54]: "263"
+        - button "Інше 78" [ref=e55] [cursor=pointer]:
+          - generic [ref=e56]: Інше
+          - generic [ref=e57]: "78"
+        - button "Патерни ✓ 91" [ref=e58] [cursor=pointer]:
+          - generic [ref=e59]:
+            - text: Патерни
+            - generic "Прив’язано до Pexels" [ref=e60]: ✓
+          - generic [ref=e61]: "91"
+        - button "Люди ✓ 161" [active] [ref=e62] [cursor=pointer]:
+          - generic [ref=e63]:
+            - text: Люди
+            - generic "Прив’язано до Pexels" [ref=e64]: ✓
+          - generic [ref=e65]: "161"
+        - button "Космос ✓ 171" [ref=e66] [cursor=pointer]:
+          - generic [ref=e67]:
+            - text: Космос
+            - generic "Прив’язано до Pexels" [ref=e68]: ✓
+          - generic [ref=e69]: "171"
+        - button "Спорт ✓ 154" [ref=e70] [cursor=pointer]:
+          - generic [ref=e71]:
+            - text: Спорт
+            - generic "Прив’язано до Pexels" [ref=e72]: ✓
+          - generic [ref=e73]: "154"
+        - button "Технології 205" [ref=e74] [cursor=pointer]:
+          - generic [ref=e75]: Технології
+          - generic [ref=e76]: "205"
+        - button "Подорожі ✓ 13" [ref=e77] [cursor=pointer]:
+          - generic [ref=e78]:
+            - text: Подорожі
+            - generic "Прив’язано до Pexels" [ref=e79]: ✓
+          - generic [ref=e80]: "13"
+        - button "Текстури ✓ 93" [ref=e81] [cursor=pointer]:
+          - generic [ref=e82]:
+            - text: Текстури
+            - generic "Прив’язано до Pexels" [ref=e83]: ✓
+          - generic [ref=e84]: "93"
+        - button "Міське життя ✓ 47" [ref=e85] [cursor=pointer]:
+          - generic [ref=e86]:
+            - text: Міське життя
+            - generic "Прив’язано до Pexels" [ref=e87]: ✓
+          - generic [ref=e88]: "47"
+      - generic [ref=e89]:
+        - heading "Ілюстрації" [level=3] [ref=e90]
+        - button "Абстракції 16" [ref=e91] [cursor=pointer]:
+          - generic [ref=e92]: Абстракції
+          - generic [ref=e93]: "16"
+        - button "Тварини 53" [ref=e94] [cursor=pointer]:
+          - generic [ref=e95]: Тварини
+          - generic [ref=e96]: "53"
+        - button "Архітектура 38" [ref=e97] [cursor=pointer]:
+          - generic [ref=e98]: Архітектура
+          - generic [ref=e99]: "38"
+        - button "Їжа та напої 115" [ref=e100] [cursor=pointer]:
+          - generic [ref=e101]: Їжа та напої
+          - generic [ref=e102]: "115"
+        - button "Свята 3" [ref=e103] [cursor=pointer]:
+          - generic [ref=e104]: Свята
+          - generic [ref=e105]: "3"
+        - button "Природа 26" [ref=e106] [cursor=pointer]:
+          - generic [ref=e107]: Природа
+          - generic [ref=e108]: "26"
+        - button "Люди 191" [ref=e109] [cursor=pointer]:
+          - generic [ref=e110]: Люди
+          - generic [ref=e111]: "191"
+        - button "Технології 163" [ref=e112] [cursor=pointer]:
+          - generic [ref=e113]: Технології
+          - generic [ref=e114]: "163"
+        - button "Патернні ілюстрації 33" [ref=e115] [cursor=pointer]:
+          - generic [ref=e116]: Патернні ілюстрації
+          - generic [ref=e117]: "33"
+        - button "Інше 1008" [ref=e118] [cursor=pointer]:
+          - generic [ref=e119]: Інше
+          - generic [ref=e120]: "1008"
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - button "← Колекції" [ref=e326] [cursor=pointer]
+      - heading "Люди" [level=2] [ref=e327]
+      - generic [ref=e121]: 161 елементів
+      - generic [ref=e8]:
+        - strong [ref=e328]: 0 вибрано
+        - button "Очистити" [ref=e9] [cursor=pointer]
+    - generic [ref=e122]:
+      - article [ref=e329] [cursor=pointer]:
+        - button "+" [ref=e330]
+        - img "9RuZlgTEvDw" [ref=e331]
+        - generic [ref=e332]:
+          - strong [ref=e333]: 9RuZlgTEvDw
+          - button "d057d02e-54d4-4a8f-8140-72a4aec8f166" [ref=e334]
+          - generic [ref=e335]: unsplash ·
+          - generic [ref=e336]:
+            - text: "Автор:"
+            - link "Fares Hamouche" [ref=e337]:
+              - /url: https://unsplash.com/@fodelwdc
+      - article [ref=e338] [cursor=pointer]:
+        - button "+" [ref=e339]
+        - img "Аристократичний б'юті-портрет" [ref=e340]
+        - generic [ref=e341]:
+          - strong [ref=e342]: Аристократичний б'юті-портрет
+          - button "custom:content:336f8595006fa58142d7d0d373748b87b5143a4f44e539d68edd8b0dcaa60287" [ref=e343]
+          - generic [ref=e344]: custom-images · 📌 pin
+          - generic [ref=e345]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e346]:
+              - /url: https://divnex.com
+      - article [ref=e347] [cursor=pointer]:
+        - button "+" [ref=e348]
+        - img "Барвистий кутюрний образ" [ref=e349]
+        - generic [ref=e350]:
+          - strong [ref=e351]: Барвистий кутюрний образ
+          - button "custom:content:170dea65696dcfaa5d1137dec6ddf3612e72c6df2b537d539c9d82bfee6315d5" [ref=e352]
+          - generic [ref=e353]: custom-images · 📌 pin
+          - generic [ref=e354]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e355]:
+              - /url: https://divnex.com
+      - article [ref=e356] [cursor=pointer]:
+        - button "+" [ref=e357]
+        - button "2 кадрів" [ref=e358]
+        - generic [ref=e359]:
+          - button "Попереднє зображення" [ref=e360]: ‹
+          - img "Виконавець у теплому світлі сцени" [ref=e361]
+          - button "Наступне зображення" [ref=e362]: ›
+        - generic [ref=e363]:
+          - strong [ref=e364]: Виконавець у теплому світлі сцени
+          - button "pexels:19140851" [ref=e365]
+          - generic [ref=e366]: pexels · · 2 кадрів
+          - generic [ref=e367]:
+            - text: "Автор:"
+            - link "Bui Van Dong" [ref=e368]:
+              - /url: https://www.pexels.com/@bui-van-dong-458090827
+      - article [ref=e369] [cursor=pointer]:
+        - button "+" [ref=e370]
+        - img "Дві жінки йдуть нічною вулицею Нью-Йорка" [ref=e371]
+        - generic [ref=e372]:
+          - strong [ref=e373]: Дві жінки йдуть нічною вулицею Нью-Йорка
+          - button "f07c301b-5a89-491b-be3b-90908fc0159a" [ref=e374]
+          - generic [ref=e375]: unsplash ·
+          - generic [ref=e376]:
+            - text: "Автор:"
+            - link "ian dooley" [ref=e377]:
+              - /url: https://unsplash.com/@sadswim
+      - article [ref=e378] [cursor=pointer]:
+        - button "+" [ref=e379]
+        - img "Діджей міксує музику в барі" [ref=e380]
+        - generic [ref=e381]:
+          - strong [ref=e382]: Діджей міксує музику в барі
+          - button "4dc8c2ae-e66c-46a9-b449-0716c0118a2e" [ref=e383]
+          - generic [ref=e384]: unsplash ·
+          - generic [ref=e385]:
+            - text: "Автор:"
+            - link "LOGAN WEAVER | @LGNWVR" [ref=e386]:
+              - /url: https://unsplash.com/@lgnwvr
+      - article [ref=e387] [cursor=pointer]:
+        - button "+" [ref=e388]
+        - img "Жінка в білих рукавичках на червоному тлі" [ref=e389]
+        - generic [ref=e390]:
+          - strong [ref=e391]: Жінка в білих рукавичках на червоному тлі
+          - button "0d9d8fc1-970f-4052-8dda-6c171755b5fa" [ref=e392]
+          - generic [ref=e393]: unsplash ·
+          - generic [ref=e394]:
+            - text: "Автор:"
+            - link "Babarinde Tosin" [ref=e395]:
+              - /url: https://unsplash.com/@artistrypixels
+      - article [ref=e396] [cursor=pointer]:
+        - button "+" [ref=e397]
+        - button "3 кадрів" [ref=e398]
+        - generic [ref=e399]:
+          - button "Попереднє зображення" [ref=e400]: ‹
+          - img "Жінка лежить серед польових квітів" [ref=e401]
+          - button "Наступне зображення" [ref=e402]: ›
+        - generic [ref=e403]:
+          - strong [ref=e404]: Жінка лежить серед польових квітів
+          - button "pexels:17378969" [ref=e405]
+          - generic [ref=e406]: pexels · · 3 кадрів
+          - generic [ref=e407]:
+            - text: "Автор:"
+            - link "Jean-Daniel Francoeur" [ref=e408]:
+              - /url: https://www.pexels.com/@jean-daniel
+      - article [ref=e409] [cursor=pointer]:
+        - button "+" [ref=e410]
+        - button "2 кадрів" [ref=e411]
+        - generic [ref=e412]:
+          - button "Попереднє зображення" [ref=e413]: ‹
+          - img "Жінка в білій сукні на квітковому лузі" [ref=e414]
+          - button "Наступне зображення" [ref=e415]: ›
+        - generic [ref=e416]:
+          - strong [ref=e417]: Жінка в білій сукні на квітковому лузі
+          - button "pexels:13871633" [ref=e418]
+          - generic [ref=e419]: pexels · · 2 кадрів
+          - generic [ref=e420]:
+            - text: "Автор:"
+            - link "Matheus Bertelli" [ref=e421]:
+              - /url: https://www.pexels.com/@bertellifotografia
+      - article [ref=e422] [cursor=pointer]:
+        - button "+" [ref=e423]
+        - img "жінка в жовтій сорочці з довгими рукавами" [ref=e424]
+        - generic [ref=e425]:
+          - strong [ref=e426]: жінка в жовтій сорочці з довгими рукавами
+          - button "2b255fb8-ac7a-40f4-b77e-435e0d12da1a" [ref=e427]
+          - generic [ref=e428]: unsplash ·
+          - generic [ref=e429]:
+            - text: "Автор:"
+            - link "David Hurley" [ref=e430]:
+              - /url: https://unsplash.com/@davidhurley
+      - article [ref=e431] [cursor=pointer]:
+        - button "+" [ref=e432]
+        - img "жінка в жовтій сорочці з довгими рукавами та чорних джинсах" [ref=e433]
+        - generic [ref=e434]:
+          - strong [ref=e435]: жінка в жовтій сорочці з довгими рукавами та чорних джинсах
+          - button "148a9320-5a65-473d-8c25-0a0fe7b03754" [ref=e436]
+          - generic [ref=e437]: unsplash ·
+          - generic [ref=e438]:
+            - text: "Автор:"
+            - link "David Hurley" [ref=e439]:
+              - /url: https://unsplash.com/@davidhurley
+      - article [ref=e440] [cursor=pointer]:
+        - button "+" [ref=e441]
+        - img "жінка в помаранчевій кофті" [ref=e442]
+        - generic [ref=e443]:
+          - strong [ref=e444]: жінка в помаранчевій кофті
+          - button "bb4b5613-1659-4d28-a983-c393cecc2d57" [ref=e445]
+          - generic [ref=e446]: unsplash ·
+          - generic [ref=e447]:
+            - text: "Автор:"
+            - link "David Hurley" [ref=e448]:
+              - /url: https://unsplash.com/@davidhurley
+      - article [ref=e449] [cursor=pointer]:
+        - button "+" [ref=e450]
+        - img "Жінка в портреті при червоному світлі" [ref=e451]
+        - generic [ref=e452]:
+          - strong [ref=e453]: Жінка в портреті при червоному світлі
+          - button "pexels:2505323" [ref=e454]
+          - generic [ref=e455]: pexels ·
+          - generic [ref=e456]:
+            - text: "Автор:"
+            - link "Bruno Thethe" [ref=e457]:
+              - /url: https://www.pexels.com/@bruthethe
+      - article [ref=e458] [cursor=pointer]:
+        - button "+" [ref=e459]
+        - img "Жінка в чорному одязі на тлі міста" [ref=e460]
+        - generic [ref=e461]:
+          - strong [ref=e462]: Жінка в чорному одязі на тлі міста
+          - button "pexels:29396870" [ref=e463]
+          - generic [ref=e464]: pexels ·
+          - generic [ref=e465]:
+            - text: "Автор:"
+            - link "Sherman Trotz" [ref=e466]:
+              - /url: https://www.pexels.com/@shermantrotz
+      - article [ref=e467] [cursor=pointer]:
+        - button "+" [ref=e468]
+        - img "Жінка в чорному одязі просто неба" [ref=e469]
+        - generic [ref=e470]:
+          - strong [ref=e471]: Жінка в чорному одязі просто неба
+          - button "pexels:16217520" [ref=e472]
+          - generic [ref=e473]: pexels ·
+          - generic [ref=e474]:
+            - text: "Автор:"
+            - link "Lucas Brown" [ref=e475]:
+              - /url: https://www.pexels.com/@lucas-brown-368306455
+      - article [ref=e476] [cursor=pointer]:
+        - button "+" [ref=e477]
+        - img "Жінка в чорному топі та джинсах" [ref=e478]
+        - generic [ref=e479]:
+          - strong [ref=e480]: Жінка в чорному топі та джинсах
+          - button "pexels:15965785" [ref=e481]
+          - generic [ref=e482]: pexels ·
+          - generic [ref=e483]:
+            - text: "Автор:"
+            - link "Lucas Brown" [ref=e484]:
+              - /url: https://www.pexels.com/@lucas-brown-368306455
+      - article [ref=e485] [cursor=pointer]:
+        - button "+" [ref=e486]
+        - img "Жінка відпочиває під напівпрозорою вуаллю" [ref=e487]
+        - generic [ref=e488]:
+          - strong [ref=e489]: Жінка відпочиває під напівпрозорою вуаллю
+          - button "pexels:30936153" [ref=e490]
+          - generic [ref=e491]: pexels ·
+          - generic [ref=e492]:
+            - text: "Автор:"
+            - link "Jean-Daniel Francoeur" [ref=e493]:
+              - /url: https://www.pexels.com/@jean-daniel
+      - article [ref=e494] [cursor=pointer]:
+        - button "+" [ref=e495]
+        - img "Жінка з телефоном і білкою" [ref=e496]
+        - generic [ref=e497]:
+          - strong [ref=e498]: Жінка з телефоном і білкою
+          - button "custom:content:447791d40c9ec4ecbc4994d22b467f5187178ca31501d23a0999ff5c9c52d760" [ref=e499]
+          - generic [ref=e500]: custom-images · 📌 pin
+          - generic [ref=e501]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e502]:
+              - /url: https://divnex.com
+      - article [ref=e503] [cursor=pointer]:
+        - button "+" [ref=e504]
+        - img "Жінка з темним волоссям у червоному світлі" [ref=e505]
+        - generic [ref=e506]:
+          - strong [ref=e507]: Жінка з темним волоссям у червоному світлі
+          - button "5445d544-f2e9-4fe8-8f81-b971a7d7f635" [ref=e508]
+          - generic [ref=e509]: unsplash ·
+          - generic [ref=e510]:
+            - text: "Автор:"
+            - link "Saeed Isavy" [ref=e511]:
+              - /url: https://unsplash.com/@saeedisavy1
+      - article [ref=e512] [cursor=pointer]:
+        - button "+" [ref=e513]
+        - img "Жінка з фіолетовими квітами у портреті краси" [ref=e514]
+        - generic [ref=e515]:
+          - strong [ref=e516]: Жінка з фіолетовими квітами у портреті краси
+          - button "pexels:15579919" [ref=e517]
+          - generic [ref=e518]: pexels ·
+          - generic [ref=e519]:
+            - text: "Автор:"
+            - link "Mohammadreza Babaei" [ref=e520]:
+              - /url: https://www.pexels.com/@mohammadrezababaei
+      - article [ref=e521] [cursor=pointer]:
+        - button "+" [ref=e522]
+        - img "Жінка за зеленою освітленою панеллю" [ref=e523]
+        - generic [ref=e524]:
+          - strong [ref=e525]: Жінка за зеленою освітленою панеллю
+          - button "pexels:6381847" [ref=e526]
+          - generic [ref=e527]: pexels ·
+          - generic [ref=e528]:
+            - text: "Автор:"
+            - link "Ike louie Natividad" [ref=e529]:
+              - /url: https://www.pexels.com/@iamikeee
+      - article [ref=e530] [cursor=pointer]:
+        - button "+" [ref=e531]
+        - img "Жінка зі світлим волоссям відпочиває у кімнаті" [ref=e532]
+        - generic [ref=e533]:
+          - strong [ref=e534]: Жінка зі світлим волоссям відпочиває у кімнаті
+          - button "pexels:6336866" [ref=e535]
+          - generic [ref=e536]: pexels ·
+          - generic [ref=e537]:
+            - text: "Автор:"
+            - link "Ike louie Natividad" [ref=e538]:
+              - /url: https://www.pexels.com/@iamikeee
+      - article [ref=e539] [cursor=pointer]:
+        - button "+" [ref=e540]
+        - img "Жінка зі світлим волоссям і виразним макіяжем" [ref=e541]
+        - generic [ref=e542]:
+          - strong [ref=e543]: Жінка зі світлим волоссям і виразним макіяжем
+          - button "pexels:5980067" [ref=e544]
+          - generic [ref=e545]: pexels ·
+          - generic [ref=e546]:
+            - text: "Автор:"
+            - link "Pouriya Kafaei" [ref=e547]:
+              - /url: https://www.pexels.com/@pouriyakafaei
+      - article [ref=e548] [cursor=pointer]:
+        - button "+" [ref=e549]
+        - img "Жінка зі світлим волоссям тримає білу тканину" [ref=e550]
+        - generic [ref=e551]:
+          - strong [ref=e552]: Жінка зі світлим волоссям тримає білу тканину
+          - button "pexels:6336886" [ref=e553]
+          - generic [ref=e554]: pexels ·
+          - generic [ref=e555]:
+            - text: "Автор:"
+            - link "Ike louie Natividad" [ref=e556]:
+              - /url: https://www.pexels.com/@iamikeee
+      - article [ref=e557] [cursor=pointer]:
+        - button "+" [ref=e558]
+        - img "Жінка зі світлим волоссям у темному портреті краси" [ref=e559]
+        - generic [ref=e560]:
+          - strong [ref=e561]: Жінка зі світлим волоссям у темному портреті краси
+          - button "pexels:5980065" [ref=e562]
+          - generic [ref=e563]: pexels ·
+          - generic [ref=e564]:
+            - text: "Автор:"
+            - link "Pouriya Kafaei" [ref=e565]:
+              - /url: https://www.pexels.com/@pouriyakafaei
+      - article [ref=e566] [cursor=pointer]:
+        - button "+" [ref=e567]
+        - img "Жінка їсть локшину швидкого приготування" [ref=e568]
+        - generic [ref=e569]:
+          - strong [ref=e570]: Жінка їсть локшину швидкого приготування
+          - button "custom:content:c9ab95f0e06070411e418579fb2a9a5c670fd1c9f6752809cd4c8feb0d2a90a2" [ref=e571]
+          - generic [ref=e572]: custom-images · 📌 pin
+          - generic [ref=e573]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e574]:
+              - /url: https://divnex.com
+      - article [ref=e575] [cursor=pointer]:
+        - button "+" [ref=e576]
+        - img "Жінка несе коричневу сумку" [ref=e577]
+        - generic [ref=e578]:
+          - strong [ref=e579]: Жінка несе коричневу сумку
+          - button "pexels:16548989" [ref=e580]
+          - generic [ref=e581]: pexels ·
+          - generic [ref=e582]:
+            - text: "Автор:"
+            - link "Lucas Brown" [ref=e583]:
+              - /url: https://www.pexels.com/@lucas-brown-368306455
+      - article [ref=e584] [cursor=pointer]:
+        - button "+" [ref=e585]
+        - img "Жінка під напівпрозорою вуаллю в темряві" [ref=e586]
+        - generic [ref=e587]:
+          - strong [ref=e588]: Жінка під напівпрозорою вуаллю в темряві
+          - button "pexels:30936147" [ref=e589]
+          - generic [ref=e590]: pexels ·
+          - generic [ref=e591]:
+            - text: "Автор:"
+            - link "Jean-Daniel Francoeur" [ref=e592]:
+              - /url: https://www.pexels.com/@jean-daniel
+      - article [ref=e593] [cursor=pointer]:
+        - button "+" [ref=e594]
+        - img "Жінка позує біля скляної будівлі" [ref=e595]
+        - generic [ref=e596]:
+          - strong [ref=e597]: Жінка позує біля скляної будівлі
+          - button "pexels:29397011" [ref=e598]
+          - generic [ref=e599]: pexels ·
+          - generic [ref=e600]:
+            - text: "Автор:"
+            - link "Sherman Trotz" [ref=e601]:
+              - /url: https://www.pexels.com/@shermantrotz
+      - article [ref=e602] [cursor=pointer]:
+        - button "+" [ref=e603]
+        - img "Жінка позує біля сучасної скляної конструкції" [ref=e604]
+        - generic [ref=e605]:
+          - strong [ref=e606]: Жінка позує біля сучасної скляної конструкції
+          - button "pexels:29396848" [ref=e607]
+          - generic [ref=e608]: pexels ·
+          - generic [ref=e609]:
+            - text: "Автор:"
+            - link "Sherman Trotz" [ref=e610]:
+              - /url: https://www.pexels.com/@shermantrotz
+      - article [ref=e611] [cursor=pointer]:
+        - button "+" [ref=e612]
+        - img "Жінка позує біля червоної вітрини" [ref=e613]
+        - generic [ref=e614]:
+          - strong [ref=e615]: Жінка позує біля червоної вітрини
+          - button "pexels:16135739" [ref=e616]
+          - generic [ref=e617]: pexels ·
+          - generic [ref=e618]:
+            - text: "Автор:"
+            - link "Lucas Brown" [ref=e619]:
+              - /url: https://www.pexels.com/@lucas-brown-368306455
+      - article [ref=e620] [cursor=pointer]:
+        - button "+" [ref=e621]
+        - button "5 кадрів" [ref=e622]
+        - generic [ref=e623]:
+          - button "Попереднє зображення" [ref=e624]: ‹
+          - img "Крупний план портрета в зеленому неоновому світлі" [ref=e625]
+          - button "Наступне зображення" [ref=e626]: ›
+        - generic [ref=e627]:
+          - strong [ref=e628]: Крупний план портрета в зеленому неоновому світлі
+          - button "pexels:6381851" [ref=e629]
+          - generic [ref=e630]: pexels · · 5 кадрів
+          - generic [ref=e631]:
+            - text: "Автор:"
+            - link "Ike louie Natividad" [ref=e632]:
+              - /url: https://www.pexels.com/@iamikeee
+      - article [ref=e633] [cursor=pointer]:
+        - button "+" [ref=e634]
+        - img "Жінка позує на міській вулиці" [ref=e635]
+        - generic [ref=e636]:
+          - strong [ref=e637]: Жінка позує на міській вулиці
+          - button "pexels:16217479" [ref=e638]
+          - generic [ref=e639]: pexels ·
+          - generic [ref=e640]:
+            - text: "Автор:"
+            - link "Lucas Brown" [ref=e641]:
+              - /url: https://www.pexels.com/@lucas-brown-368306455
+      - article [ref=e642] [cursor=pointer]:
+        - button "+" [ref=e643]
+        - img "Жінка позує під різнобарвним світлом" [ref=e644]
+        - generic [ref=e645]:
+          - strong [ref=e646]: Жінка позує під різнобарвним світлом
+          - button "pexels:14632847" [ref=e647]
+          - generic [ref=e648]: pexels ·
+          - generic [ref=e649]:
+            - text: "Автор:"
+            - link "Lucas Brown" [ref=e650]:
+              - /url: https://www.pexels.com/@lucas-brown-368306455
+      - article [ref=e651] [cursor=pointer]:
+        - button "+" [ref=e652]
+        - img "Жінка позує у білому купальнику" [ref=e653]
+        - generic [ref=e654]:
+          - strong [ref=e655]: Жінка позує у білому купальнику
+          - button "pexels:16270749" [ref=e656]
+          - generic [ref=e657]: pexels ·
+          - generic [ref=e658]:
+            - text: "Автор:"
+            - link "Lucas Brown" [ref=e659]:
+              - /url: https://www.pexels.com/@lucas-brown-368306455
+      - article [ref=e660] [cursor=pointer]:
+        - button "+" [ref=e661]
+        - img "Жінка сидить на краю даху" [ref=e662]
+        - generic [ref=e663]:
+          - strong [ref=e664]: Жінка сидить на краю даху
+          - button "pexels:16387505" [ref=e665]
+          - generic [ref=e666]: pexels ·
+          - generic [ref=e667]:
+            - text: "Автор:"
+            - link "Lucas Brown" [ref=e668]:
+              - /url: https://www.pexels.com/@lucas-brown-368306455
+      - article [ref=e669] [cursor=pointer]:
+        - button "+" [ref=e670]
+        - img "Жінка сидить у білій ванні" [ref=e671]
+        - generic [ref=e672]:
+          - strong [ref=e673]: Жінка сидить у білій ванні
+          - button "pexels:16314543" [ref=e674]
+          - generic [ref=e675]: pexels ·
+          - generic [ref=e676]:
+            - text: "Автор:"
+            - link "Lucas Brown" [ref=e677]:
+              - /url: https://www.pexels.com/@lucas-brown-368306455
+      - article [ref=e678] [cursor=pointer]:
+        - button "+" [ref=e679]
+        - img "Жінка сидить у металевому візку" [ref=e680]
+        - generic [ref=e681]:
+          - strong [ref=e682]: Жінка сидить у металевому візку
+          - button "pexels:16285470" [ref=e683]
+          - generic [ref=e684]: pexels ·
+          - generic [ref=e685]:
+            - text: "Автор:"
+            - link "Behrad Rouhi" [ref=e686]:
+              - /url: https://www.pexels.com/@behrad-rouhi-510290506
+      - article [ref=e687] [cursor=pointer]:
+        - button "+" [ref=e688]
+        - img "Жінка сидить у темній студії" [ref=e689]
+        - generic [ref=e690]:
+          - strong [ref=e691]: Жінка сидить у темній студії
+          - button "pexels:16135845" [ref=e692]
+          - generic [ref=e693]: pexels ·
+          - generic [ref=e694]:
+            - text: "Автор:"
+            - link "Lucas Brown" [ref=e695]:
+              - /url: https://www.pexels.com/@lucas-brown-368306455
+      - article [ref=e696] [cursor=pointer]:
+        - button "+" [ref=e697]
+        - img "Жінка тримає білу квітку в темному портреті" [ref=e698]
+        - generic [ref=e699]:
+          - strong [ref=e700]: Жінка тримає білу квітку в темному портреті
+          - button "pexels:20568374" [ref=e701]
+          - generic [ref=e702]: pexels ·
+          - generic [ref=e703]:
+            - text: "Автор:"
+            - link "Юлія-Марія Повх" [ref=e704]:
+              - /url: https://www.pexels.com/@1032268979
+      - article [ref=e705] [cursor=pointer]:
+        - button "+" [ref=e706]
+        - img "Жінка тримає фотоапарат біля обличчя" [ref=e707]
+        - generic [ref=e708]:
+          - strong [ref=e709]: Жінка тримає фотоапарат біля обличчя
+          - button "pexels:6121167" [ref=e710]
+          - generic [ref=e711]: pexels ·
+          - generic [ref=e712]:
+            - text: "Автор:"
+            - link "Ike louie Natividad" [ref=e713]:
+              - /url: https://www.pexels.com/@iamikeee
+      - article [ref=e714] [cursor=pointer]:
+        - button "+" [ref=e715]
+        - img "Жінка фотографує під блакитним небом" [ref=e716]
+        - generic [ref=e717]:
+          - strong [ref=e718]: Жінка фотографує під блакитним небом
+          - button "pexels:6121164" [ref=e719]
+          - generic [ref=e720]: pexels ·
+          - generic [ref=e721]:
+            - text: "Автор:"
+            - link "Ike louie Natividad" [ref=e722]:
+              - /url: https://www.pexels.com/@iamikeee
+      - article [ref=e723] [cursor=pointer]:
+        - button "+" [ref=e724]
+        - img "Жінка фотографує просто неба" [ref=e725]
+        - generic [ref=e726]:
+          - strong [ref=e727]: Жінка фотографує просто неба
+          - button "pexels:6121166" [ref=e728]
+          - generic [ref=e729]: pexels ·
+          - generic [ref=e730]:
+            - text: "Автор:"
+            - link "Ike louie Natividad" [ref=e731]:
+              - /url: https://www.pexels.com/@iamikeee
+      - article [ref=e732] [cursor=pointer]:
+        - button "+" [ref=e733]
+        - img "Жінка, що вихиляється з червоного кабріолета" [ref=e734]
+        - generic [ref=e735]:
+          - strong [ref=e736]: Жінка, що вихиляється з червоного кабріолета
+          - button "pexels:13141194" [ref=e737]
+          - generic [ref=e738]: pexels ·
+          - generic [ref=e739]:
+            - text: "Автор:"
+            - link "Pouriya Kafaei" [ref=e740]:
+              - /url: https://www.pexels.com/@pouriyakafaei
+      - article [ref=e741] [cursor=pointer]:
+        - button "+" [ref=e742]
+        - img "Жінка, що йде на відкритому повітрі, з ефектом розмиття руху" [ref=e743]
+        - generic [ref=e744]:
+          - strong [ref=e745]: Жінка, що йде на відкритому повітрі, з ефектом розмиття руху
+          - button "pexels:9826063" [ref=e746]
+          - generic [ref=e747]: pexels ·
+          - generic [ref=e748]:
+            - text: "Автор:"
+            - link "Alexandre Weiss" [ref=e749]:
+              - /url: https://www.pexels.com/@alexandre-weiss-102944387
+      - article [ref=e750] [cursor=pointer]:
+        - button "+" [ref=e751]
+        - img "Жінка, що сидить у червоному кабріолеті в пустелі" [ref=e752]
+        - generic [ref=e753]:
+          - strong [ref=e754]: Жінка, що сидить у червоному кабріолеті в пустелі
+          - button "pexels:13141196" [ref=e755]
+          - generic [ref=e756]: pexels ·
+          - generic [ref=e757]:
+            - text: "Автор:"
+            - link "Pouriya Kafaei" [ref=e758]:
+              - /url: https://www.pexels.com/@pouriyakafaei
+      - article [ref=e759] [cursor=pointer]:
+        - button "+" [ref=e760]
+        - img "жінка, яка займається спортом" [ref=e761]
+        - generic [ref=e762]:
+          - strong [ref=e763]: жінка, яка займається спортом
+          - button "80f61df5-5ceb-435e-9307-22a1e3fecdce" [ref=e764]
+          - generic [ref=e765]: unsplash ·
+          - generic [ref=e766]:
+            - text: "Автор:"
+            - link "Edgar Chaparro" [ref=e767]:
+              - /url: https://unsplash.com/@echaparro
+      - article [ref=e768] [cursor=pointer]:
+        - button "+" [ref=e769]
+        - img "Жінка, яка курить у червоному світлі" [ref=e770]
+        - generic [ref=e771]:
+          - strong [ref=e772]: Жінка, яка курить у червоному світлі
+          - button "pexels:17150989" [ref=e773]
+          - generic [ref=e774]: pexels ·
+          - generic [ref=e775]:
+            - text: "Автор:"
+            - link "Behrad Rouhi" [ref=e776]:
+              - /url: https://www.pexels.com/@behrad-rouhi-510290506
+      - article [ref=e777] [cursor=pointer]:
+        - button "+" [ref=e778]
+        - img "Жінка, яка медитує на пляжі" [ref=e779]
+        - generic [ref=e780]:
+          - strong [ref=e781]: Жінка, яка медитує на пляжі
+          - button "da9f8cf5-bb55-4cc2-9795-c677f6ef53da" [ref=e782]
+          - generic [ref=e783]: unsplash ·
+          - generic [ref=e784]:
+            - text: "Автор:"
+            - link "Content Pixie" [ref=e785]:
+              - /url: https://unsplash.com/@contentpixie
+      - article [ref=e786] [cursor=pointer]:
+        - button "+" [ref=e787]
+        - img "Жінка, яка розминається в червоному кабріолеті в пустелі" [ref=e788]
+        - generic [ref=e789]:
+          - strong [ref=e790]: Жінка, яка розминається в червоному кабріолеті в пустелі
+          - button "pexels:13141195" [ref=e791]
+          - generic [ref=e792]: pexels ·
+          - generic [ref=e793]:
+            - text: "Автор:"
+            - link "Pouriya Kafaei" [ref=e794]:
+              - /url: https://www.pexels.com/@pouriyakafaei
+      - article [ref=e795] [cursor=pointer]:
+        - button "+" [ref=e796]
+        - img "Квітковий букет у долонях" [ref=e797]
+        - generic [ref=e798]:
+          - strong [ref=e799]: Квітковий букет у долонях
+          - button "fb4d2cce-0245-425b-be59-e6e7daf25dc9" [ref=e800]
+          - generic [ref=e801]: unsplash ·
+          - generic [ref=e802]:
+            - text: "Автор:"
+            - link "Shamblen Studios" [ref=e803]:
+              - /url: https://unsplash.com/@shamblenstudios
+      - article [ref=e804] [cursor=pointer]:
+        - button "+" [ref=e805]
+        - img "Крупний план жінки в блакитній балаклаві" [ref=e806]
+        - generic [ref=e807]:
+          - strong [ref=e808]: Крупний план жінки в блакитній балаклаві
+          - button "pexels:16548993" [ref=e809]
+          - generic [ref=e810]: pexels ·
+          - generic [ref=e811]:
+            - text: "Автор:"
+            - link "Lucas Brown" [ref=e812]:
+              - /url: https://www.pexels.com/@lucas-brown-368306455
+      - article [ref=e813] [cursor=pointer]:
+        - button "+" [ref=e814]
+        - img "Крупний план жінки з темним волоссям" [ref=e815]
+        - generic [ref=e816]:
+          - strong [ref=e817]: Крупний план жінки з темним волоссям
+          - button "pexels:5917997" [ref=e818]
+          - generic [ref=e819]: pexels ·
+          - generic [ref=e820]:
+            - text: "Автор:"
+            - link "Pouriya Kafaei" [ref=e821]:
+              - /url: https://www.pexels.com/@pouriyakafaei
+      - article [ref=e822] [cursor=pointer]:
+        - button "+" [ref=e823]
+        - img "Крупний план жінки з фотоапаратом" [ref=e824]
+        - generic [ref=e825]:
+          - strong [ref=e826]: Крупний план жінки з фотоапаратом
+          - button "pexels:6121165" [ref=e827]
+          - generic [ref=e828]: pexels ·
+          - generic [ref=e829]:
+            - text: "Автор:"
+            - link "Ike louie Natividad" [ref=e830]:
+              - /url: https://www.pexels.com/@iamikeee
+      - article [ref=e831] [cursor=pointer]:
+        - button "+" [ref=e832]
+        - img "Крупний план жінки зі світлим волоссям" [ref=e833]
+        - generic [ref=e834]:
+          - strong [ref=e835]: Крупний план жінки зі світлим волоссям
+          - button "pexels:5980066" [ref=e836]
+          - generic [ref=e837]: pexels ·
+          - generic [ref=e838]:
+            - text: "Автор:"
+            - link "Pouriya Kafaei" [ref=e839]:
+              - /url: https://www.pexels.com/@pouriyakafaei
+      - article [ref=e840] [cursor=pointer]:
+        - button "+" [ref=e841]
+        - button "3 кадрів" [ref=e842]
+        - generic [ref=e843]:
+          - button "Попереднє зображення" [ref=e844]: ‹
+          - img "Крупний план портрета при зеленому світлі" [ref=e845]
+          - button "Наступне зображення" [ref=e846]: ›
+        - generic [ref=e847]:
+          - strong [ref=e848]: Крупний план портрета при зеленому світлі
+          - button "pexels:38169687" [ref=e849]
+          - generic [ref=e850]: pexels · · 3 кадрів
+          - generic [ref=e851]:
+            - text: "Автор:"
+            - link "Ola Szkolda" [ref=e852]:
+              - /url: https://www.pexels.com/@olaszkolda
+      - article [ref=e853] [cursor=pointer]:
+        - button "+" [ref=e854]
+        - img "Крупний план обличчя під білою тканиною" [ref=e855]
+        - generic [ref=e856]:
+          - strong [ref=e857]: Крупний план обличчя під білою тканиною
+          - button "pexels:6336887" [ref=e858]
+          - generic [ref=e859]: pexels ·
+          - generic [ref=e860]:
+            - text: "Автор:"
+            - link "Ike louie Natividad" [ref=e861]:
+              - /url: https://www.pexels.com/@iamikeee
+      - article [ref=e862] [cursor=pointer]:
+        - button "+" [ref=e863]
+        - img "Крупний план обличчя під напівпрозорою вуаллю" [ref=e864]
+        - generic [ref=e865]:
+          - strong [ref=e866]: Крупний план обличчя під напівпрозорою вуаллю
+          - button "pexels:30936149" [ref=e867]
+          - generic [ref=e868]: pexels ·
+          - generic [ref=e869]:
+            - text: "Автор:"
+            - link "Jean-Daniel Francoeur" [ref=e870]:
+              - /url: https://www.pexels.com/@jean-daniel
+      - article [ref=e871] [cursor=pointer]:
+        - button "+" [ref=e872]
+        - img "Крупний портрет із блакитним волоссям" [ref=e873]
+        - generic [ref=e874]:
+          - strong [ref=e875]: Крупний портрет із блакитним волоссям
+          - button "custom:content:65c695a3af9561df2dcfae94d74338ec56b6a93ec216eacb38759ef7d76d8b99" [ref=e876]
+          - generic [ref=e877]: custom-images · 📌 pin
+          - generic [ref=e878]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e879]:
+              - /url: https://divnex.com
+      - article [ref=e880] [cursor=pointer]:
+        - button "+" [ref=e881]
+        - img "Кутюрний портрет із куркою" [ref=e882]
+        - generic [ref=e883]:
+          - strong [ref=e884]: Кутюрний портрет із куркою
+          - button "custom:content:174ca36c86b604e7a203a34cc56c3313426b42a15c9abef1876c17c8bf7e1886" [ref=e885]
+          - generic [ref=e886]: custom-images · 📌 pin
+          - generic [ref=e887]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e888]:
+              - /url: https://divnex.com
+      - article [ref=e889] [cursor=pointer]:
+        - button "+" [ref=e890]
+        - img "Лавандовий портрет із ефектом риб'ячого ока" [ref=e891]
+        - generic [ref=e892]:
+          - strong [ref=e893]: Лавандовий портрет із ефектом риб'ячого ока
+          - button "custom:content:35a7ca6ab70a1e3ed30772f443176a71cfede1542e69097fe2319c40205b5e83" [ref=e894]
+          - generic [ref=e895]: custom-images · 📌 pin
+          - generic [ref=e896]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e897]:
+              - /url: https://divnex.com
+      - article [ref=e898] [cursor=pointer]:
+        - button "+" [ref=e899]
+        - img "Люди на мокрій нічній вулиці міста" [ref=e900]
+        - generic [ref=e901]:
+          - strong [ref=e902]: Люди на мокрій нічній вулиці міста
+          - button "84b195f3-b17a-4dbb-adce-b2ffe6d0fdf8" [ref=e903]
+          - generic [ref=e904]: unsplash ·
+          - generic [ref=e905]:
+            - text: "Автор:"
+            - link "ian dooley" [ref=e906]:
+              - /url: https://unsplash.com/@sadswim
+      - article [ref=e907] [cursor=pointer]:
+        - button "+" [ref=e908]
+        - img "Люди стоять перед вікном" [ref=e909]
+        - generic [ref=e910]:
+          - strong [ref=e911]: Люди стоять перед вікном
+          - button "e1abdd29-8e6f-4a30-923c-8393272bd5f8" [ref=e912]
+          - generic [ref=e913]: unsplash ·
+          - generic [ref=e914]:
+            - text: "Автор:"
+            - link "Joe Han" [ref=e915]:
+              - /url: https://unsplash.com/@joehan330
+      - article [ref=e916] [cursor=pointer]:
+        - button "+" [ref=e917]
+        - img "Людина в білій майці під синім світлом" [ref=e918]
+        - generic [ref=e919]:
+          - strong [ref=e920]: Людина в білій майці під синім світлом
+          - button "pexels:33742487" [ref=e921]
+          - generic [ref=e922]: pexels ·
+          - generic [ref=e923]:
+            - text: "Автор:"
+            - link "OUR LORD BISHOP." [ref=e924]:
+              - /url: https://www.pexels.com/@our-lord-bishop-2155024814
+      - article [ref=e925] [cursor=pointer]:
+        - button "+" [ref=e926]
+        - img "Людина в білому біля води" [ref=e927]
+        - generic [ref=e928]:
+          - strong [ref=e929]: Людина в білому біля води
+          - button "pexels:31890049" [ref=e930]
+          - generic [ref=e931]: pexels ·
+          - generic [ref=e932]:
+            - text: "Автор:"
+            - link "magapls ." [ref=e933]:
+              - /url: https://www.pexels.com/@magapls-2149937712
+      - article [ref=e934] [cursor=pointer]:
+        - button "+" [ref=e935]
+        - img "Людина в навушниках і в'язаній шапці" [ref=e936]
+        - generic [ref=e937]:
+          - strong [ref=e938]: Людина в навушниках і в'язаній шапці
+          - button "pexels:16247291" [ref=e939]
+          - generic [ref=e940]: pexels ·
+          - generic [ref=e941]:
+            - text: "Автор:"
+            - link "Jacob Sierra" [ref=e942]:
+              - /url: https://www.pexels.com/@jacob-sierra-419902407
+      - article [ref=e943] [cursor=pointer]:
+        - button "+" [ref=e944]
+        - img "Людина в темній кімнаті з кольоровим світлом" [ref=e945]
+        - generic [ref=e946]:
+          - strong [ref=e947]: Людина в темній кімнаті з кольоровим світлом
+          - button "d3f10f42-a687-45c0-abed-e84d95836810" [ref=e948]
+          - generic [ref=e949]: unsplash ·
+          - generic [ref=e950]:
+            - text: "Автор:"
+            - link "Cash Macanaya" [ref=e951]:
+              - /url: https://unsplash.com/@cashmacanaya
+      - article [ref=e952] [cursor=pointer]:
+        - button "+" [ref=e953]
+        - img "Людина в темно-синій сцені" [ref=e954]
+        - generic [ref=e955]:
+          - strong [ref=e956]: Людина в темно-синій сцені
+          - button "pexels:15932288" [ref=e957]
+          - generic [ref=e958]: pexels ·
+          - generic [ref=e959]:
+            - text: "Автор:"
+            - link "Ahmed Sadeq" [ref=e960]:
+              - /url: https://www.pexels.com/@ahmed-sadeq-453709971
+      - article [ref=e961] [cursor=pointer]:
+        - button "+" [ref=e962]
+        - img "Людина в чорній масці на картині" [ref=e963]
+        - generic [ref=e964]:
+          - strong [ref=e965]: Людина в чорній масці на картині
+          - button "2735f97d-41d9-46a0-a33b-03d42a16c13d" [ref=e966]
+          - generic [ref=e967]: unsplash ·
+          - generic [ref=e968]:
+            - text: "Автор:"
+            - link "8machine _" [ref=e969]:
+              - /url: https://unsplash.com/@8machine_
+      - article [ref=e970] [cursor=pointer]:
+        - button "+" [ref=e971]
+        - img "людина в чорно-білих кросівках Nike" [ref=e972]
+        - generic [ref=e973]:
+          - strong [ref=e974]: людина в чорно-білих кросівках Nike
+          - button "decbed71-502e-42dc-a12b-ce178a0b17c6" [ref=e975]
+          - generic [ref=e976]: unsplash ·
+          - generic [ref=e977]:
+            - text: "Автор:"
+            - link "Ilya Shishikhin" [ref=e978]:
+              - /url: https://unsplash.com/@shishilya
+      - article [ref=e979] [cursor=pointer]:
+        - button "+" [ref=e980]
+        - img "Людина на скелі посеред води на заході сонця" [ref=e981]
+        - generic [ref=e982]:
+          - strong [ref=e983]: Людина на скелі посеред води на заході сонця
+          - button "717dc6d3-a127-46aa-8c9e-5b64a612fa31" [ref=e984]
+          - generic [ref=e985]: unsplash ·
+          - generic [ref=e986]:
+            - text: "Автор:"
+            - link "Mohamed Nohassi" [ref=e987]:
+              - /url: https://unsplash.com/@coopery
+      - article [ref=e988] [cursor=pointer]:
+        - button "+" [ref=e989]
+        - img "Людина, що йде крізь блакитне світло" [ref=e990]
+        - generic [ref=e991]:
+          - strong [ref=e992]: Людина, що йде крізь блакитне світло
+          - button "pexels:38909734" [ref=e993]
+          - generic [ref=e994]: pexels ·
+          - generic [ref=e995]:
+            - text: "Автор:"
+            - link "Aj Collins Artistry" [ref=e996]:
+              - /url: https://www.pexels.com/@aj-collins-artistry-1772576281
+      - article [ref=e997] [cursor=pointer]:
+        - button "+" [ref=e998]
+        - img "Людина, що йде, з розмиттям руху блакитного кольору" [ref=e999]
+        - generic [ref=e1000]:
+          - strong [ref=e1001]: Людина, що йде, з розмиттям руху блакитного кольору
+          - button "pexels:38909732" [ref=e1002]
+          - generic [ref=e1003]: pexels ·
+          - generic [ref=e1004]:
+            - text: "Автор:"
+            - link "Aj Collins Artistry" [ref=e1005]:
+              - /url: https://www.pexels.com/@aj-collins-artistry-1772576281
+      - article [ref=e1006] [cursor=pointer]:
+        - button "+" [ref=e1007]
+        - img "Людина, яка тримає букет білих квітів" [ref=e1008]
+        - generic [ref=e1009]:
+          - strong [ref=e1010]: Людина, яка тримає букет білих квітів
+          - button "pexels:33881558" [ref=e1011]
+          - generic [ref=e1012]: pexels ·
+          - generic [ref=e1013]:
+            - text: "Автор:"
+            - link "OUR LORD BISHOP." [ref=e1014]:
+              - /url: https://www.pexels.com/@our-lord-bishop-2155024814
+      - article [ref=e1015] [cursor=pointer]:
+        - button "+" [ref=e1016]
+        - img "Модний портрет у коштовних рукавичках" [ref=e1017]
+        - generic [ref=e1018]:
+          - strong [ref=e1019]: Модний портрет у коштовних рукавичках
+          - button "custom:content:4d6f1274b4e93d9a6ae1e7070171e8572db6c8040ce4b23f2399b84e4279e857" [ref=e1020]
+          - generic [ref=e1021]: custom-images · 📌 pin
+          - generic [ref=e1022]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e1023]:
+              - /url: https://divnex.com
+      - article [ref=e1024] [cursor=pointer]:
+        - button "+" [ref=e1025]
+        - img "Модний портрет у лавандовому пуховику" [ref=e1026]
+        - generic [ref=e1027]:
+          - strong [ref=e1028]: Модний портрет у лавандовому пуховику
+          - button "custom:content:920e1f7e26480a3de6d38232ada432d03a02f74c952058d6b3af3e612ddf2862" [ref=e1029]
+          - generic [ref=e1030]: custom-images · 📌 pin
+          - generic [ref=e1031]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e1032]:
+              - /url: https://divnex.com
+      - article [ref=e1033] [cursor=pointer]:
+        - button "+" [ref=e1034]
+        - img "Модний портрет у матовому прозорому образі" [ref=e1035]
+        - generic [ref=e1036]:
+          - strong [ref=e1037]: Модний портрет у матовому прозорому образі
+          - button "custom:content:336db77ec9fb5fabc46a1443c5b30296d2054283cec6a09d1e9f42f6261bc7bd" [ref=e1038]
+          - generic [ref=e1039]: custom-images · 📌 pin
+          - generic [ref=e1040]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e1041]:
+              - /url: https://divnex.com
+      - article [ref=e1042] [cursor=pointer]:
+        - button "+" [ref=e1043]
+        - img "Модний портрет у металевому капелюсі" [ref=e1044]
+        - generic [ref=e1045]:
+          - strong [ref=e1046]: Модний портрет у металевому капелюсі
+          - button "custom:content:70a708ca6696278119e933e1bd467ed4c4bf789fe6a2ebdd207c1a723591a5ae" [ref=e1047]
+          - generic [ref=e1048]: custom-images · 📌 pin
+          - generic [ref=e1049]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e1050]:
+              - /url: https://divnex.com
+      - article [ref=e1051] [cursor=pointer]:
+        - button "+" [ref=e1052]
+        - img "Модний портрет у футуристичному шоломі" [ref=e1053]
+        - generic [ref=e1054]:
+          - strong [ref=e1055]: Модний портрет у футуристичному шоломі
+          - button "custom:content:afc4db0aa0e39d1c5df05ff34a187244e614c97dbc5bc1b939b65932c749f46a" [ref=e1056]
+          - generic [ref=e1057]: custom-images · 📌 pin
+          - generic [ref=e1058]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e1059]:
+              - /url: https://divnex.com
+      - article [ref=e1060] [cursor=pointer]:
+        - button "+" [ref=e1061]
+        - img "На тлі заходу сонця на полі стоїть людина у силуеті" [ref=e1062]
+        - generic [ref=e1063]:
+          - strong [ref=e1064]: На тлі заходу сонця на полі стоїть людина у силуеті
+          - button "b2903d2f-d070-45c9-98a3-b3ab548e7b4e" [ref=e1065]
+          - generic [ref=e1066]: unsplash ·
+          - generic [ref=e1067]:
+            - text: "Автор:"
+            - link "Moon Bouy" [ref=e1068]:
+              - /url: https://unsplash.com/@jackson345
+      - article [ref=e1069] [cursor=pointer]:
+        - button "+" [ref=e1070]
+        - img "Нога з татуюванням у білому кросівку" [ref=e1071]
+        - generic [ref=e1072]:
+          - strong [ref=e1073]: Нога з татуюванням у білому кросівку
+          - button "pexels:4582814" [ref=e1074]
+          - generic [ref=e1075]: pexels ·
+          - generic [ref=e1076]:
+            - text: "Автор:"
+            - link "Malcolm Garret" [ref=e1077]:
+              - /url: https://www.pexels.com/@malcolm-garret-3023588
+      - article [ref=e1078] [cursor=pointer]:
+        - button "+" [ref=e1079]
+        - img "Обличчя жінки в драматичному зеленому світлі" [ref=e1080]
+        - generic [ref=e1081]:
+          - strong [ref=e1082]: Обличчя жінки в драматичному зеленому світлі
+          - button "pexels:38169691" [ref=e1083]
+          - generic [ref=e1084]: pexels ·
+          - generic [ref=e1085]:
+            - text: "Автор:"
+            - link "Ola Szkolda" [ref=e1086]:
+              - /url: https://www.pexels.com/@olaszkolda
+      - article [ref=e1087] [cursor=pointer]:
+        - button "+" [ref=e1088]
+        - img "Обличчя жінки в темно-зеленому портреті краси" [ref=e1089]
+        - generic [ref=e1090]:
+          - strong [ref=e1091]: Обличчя жінки в темно-зеленому портреті краси
+          - button "pexels:38169688" [ref=e1092]
+          - generic [ref=e1093]: pexels ·
+          - generic [ref=e1094]:
+            - text: "Автор:"
+            - link "Ola Szkolda" [ref=e1095]:
+              - /url: https://www.pexels.com/@olaszkolda
+      - article [ref=e1096] [cursor=pointer]:
+        - button "+" [ref=e1097]
+        - img "Обличчя крізь відблиски" [ref=e1098]
+        - generic [ref=e1099]:
+          - strong [ref=e1100]: Обличчя крізь відблиски
+          - button "e21e1ad5-d3a7-4508-b8d7-2210d3e5b6f8" [ref=e1101]
+          - generic [ref=e1102]: unsplash ·
+          - generic [ref=e1103]:
+            - text: "Автор:"
+            - link "Nicolas Lobos" [ref=e1104]:
+              - /url: https://unsplash.com/@lobosnico
+      - article [ref=e1105] [cursor=pointer]:
+        - button "+" [ref=e1106]
+        - img "Очі проступають із темного портрета" [ref=e1107]
+        - generic [ref=e1108]:
+          - strong [ref=e1109]: Очі проступають із темного портрета
+          - button "pexels:13281444" [ref=e1110]
+          - generic [ref=e1111]: pexels ·
+          - generic [ref=e1112]:
+            - text: "Автор:"
+            - link "Pouriya Kafaei" [ref=e1113]:
+              - /url: https://www.pexels.com/@pouriyakafaei
+      - article [ref=e1114] [cursor=pointer]:
+        - button "+" [ref=e1115]
+        - img "Портрет жінки з темним волоссям і макіяжем" [ref=e1116]
+        - generic [ref=e1117]:
+          - strong [ref=e1118]: Портрет жінки з темним волоссям і макіяжем
+          - button "pexels:5917996" [ref=e1119]
+          - generic [ref=e1120]: pexels ·
+          - generic [ref=e1121]:
+            - text: "Автор:"
+            - link "Pouriya Kafaei" [ref=e1122]:
+              - /url: https://www.pexels.com/@pouriyakafaei
+      - article [ref=e1123] [cursor=pointer]:
+        - button "+" [ref=e1124]
+        - img "Портрет людини на помаранчевому тлі" [ref=e1125]
+        - generic [ref=e1126]:
+          - strong [ref=e1127]: Портрет людини на помаранчевому тлі
+          - button "c2357565-5a5a-426d-9f60-fa21a66fbbac" [ref=e1128]
+          - generic [ref=e1129]: unsplash ·
+          - generic [ref=e1130]:
+            - text: "Автор:"
+            - link "Babarinde Tosin" [ref=e1131]:
+              - /url: https://unsplash.com/@artistrypixels
+      - article [ref=e1132] [cursor=pointer]:
+        - button "+" [ref=e1133]
+        - img "Портрет у неонових окулярах" [ref=e1134]
+        - generic [ref=e1135]:
+          - strong [ref=e1136]: Портрет у неонових окулярах
+          - button "custom:content:e70012cd521698db80f8b2a0e56213fc5e8a3da0ddfe20592aad71a71afb49a4" [ref=e1137]
+          - generic [ref=e1138]: custom-images · 📌 pin
+          - generic [ref=e1139]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e1140]:
+              - /url: https://divnex.com
+      - article [ref=e1141] [cursor=pointer]:
+        - button "+" [ref=e1142]
+        - img "Профіль людини в зеленому світлі" [ref=e1143]
+        - generic [ref=e1144]:
+          - strong [ref=e1145]: Профіль людини в зеленому світлі
+          - button "e0d32a15-7750-4211-9471-39bfb59debff" [ref=e1146]
+          - generic [ref=e1147]: unsplash ·
+          - generic [ref=e1148]:
+            - text: "Автор:"
+            - link "Gylain Omer" [ref=e1149]:
+              - /url: https://unsplash.com/@gullin_omer
+      - article [ref=e1150] [cursor=pointer]:
+        - button "+" [ref=e1151]
+        - img "Рожеві ноги в різнокольорових туфлях" [ref=e1152]
+        - generic [ref=e1153]:
+          - strong [ref=e1154]: Рожеві ноги в різнокольорових туфлях
+          - button "85265507-80ac-45f9-b50b-587f361fbd32" [ref=e1155]
+          - generic [ref=e1156]: unsplash ·
+          - generic [ref=e1157]:
+            - text: "Автор:"
+            - link "Shamblen Studios" [ref=e1158]:
+              - /url: https://unsplash.com/@shamblenstudios
+      - article [ref=e1159] [cursor=pointer]:
+        - button "+" [ref=e1160]
+        - img "Розмита рука, що тримає предмет" [ref=e1161]
+        - generic [ref=e1162]:
+          - strong [ref=e1163]: Розмита рука, що тримає предмет
+          - button "b59023b8-25f1-4cbd-9733-07f462ecd481" [ref=e1164]
+          - generic [ref=e1165]: unsplash ·
+          - generic [ref=e1166]:
+            - text: "Автор:"
+            - link "Dynamic Wang" [ref=e1167]:
+              - /url: https://unsplash.com/@dynamicwang
+      - article [ref=e1168] [cursor=pointer]:
+        - button "+" [ref=e1169]
+        - img "Розмите обличчя жінки у фіолетовому світлі" [ref=e1170]
+        - generic [ref=e1171]:
+          - strong [ref=e1172]: Розмите обличчя жінки у фіолетовому світлі
+          - button "efb1b419-be09-4d5f-8caa-7559453b588a" [ref=e1173]
+          - generic [ref=e1174]: unsplash ·
+          - generic [ref=e1175]:
+            - text: "Автор:"
+            - link "Roxy Aln" [ref=e1176]:
+              - /url: https://unsplash.com/@roxy_aln
+      - article [ref=e1177] [cursor=pointer]:
+        - button "+" [ref=e1178]
+        - img "Розмитий портрет у теплому помаранчевому світлі" [ref=e1179]
+        - generic [ref=e1180]:
+          - strong [ref=e1181]: Розмитий портрет у теплому помаранчевому світлі
+          - button "pexels:15252497" [ref=e1182]
+          - generic [ref=e1183]: pexels ·
+          - generic [ref=e1184]:
+            - text: "Автор:"
+            - link "Jacob Sierra" [ref=e1185]:
+              - /url: https://www.pexels.com/@jacob-sierra-419902407
+      - article [ref=e1186] [cursor=pointer]:
+        - button "+" [ref=e1187]
+        - img "Розмитий чоловік на тлі синіх смуг" [ref=e1188]
+        - generic [ref=e1189]:
+          - strong [ref=e1190]: Розмитий чоловік на тлі синіх смуг
+          - button "pexels:20842301" [ref=e1191]
+          - generic [ref=e1192]: pexels ·
+          - generic [ref=e1193]:
+            - text: "Автор:"
+            - link "Muhammed Atik" [ref=e1194]:
+              - /url: https://www.pexels.com/@atikmuhammed
+      - article [ref=e1195] [cursor=pointer]:
+        - button "+" [ref=e1196]
+        - img "Розмитий чорно-білий портрет у русі" [ref=e1197]
+        - generic [ref=e1198]:
+          - strong [ref=e1199]: Розмитий чорно-білий портрет у русі
+          - button "pexels:34164238" [ref=e1200]
+          - generic [ref=e1201]: pexels ·
+          - generic [ref=e1202]:
+            - text: "Автор:"
+            - link "magapls ." [ref=e1203]:
+              - /url: https://www.pexels.com/@magapls-2149937712
+      - article [ref=e1204] [cursor=pointer]:
+        - button "+" [ref=e1205]
+        - img "Рука в синій фарбі" [ref=e1206]
+        - generic [ref=e1207]:
+          - strong [ref=e1208]: Рука в синій фарбі
+          - button "c3bdc6d4-8645-437c-907f-79bf98c07b82" [ref=e1209]
+          - generic [ref=e1210]: unsplash ·
+          - generic [ref=e1211]:
+            - text: "Автор:"
+            - link "Ryunosuke Kikuno" [ref=e1212]:
+              - /url: https://unsplash.com/@ryunosuke_kikuno
+      - article [ref=e1213] [cursor=pointer]:
+        - button "+" [ref=e1214]
+        - img "Руки тримають букет рожевих троянд" [ref=e1215]
+        - generic [ref=e1216]:
+          - strong [ref=e1217]: Руки тримають букет рожевих троянд
+          - button "5afbc320-54ac-4d6f-a9d9-69a502eeb98d" [ref=e1218]
+          - generic [ref=e1219]: unsplash ·
+          - generic [ref=e1220]:
+            - text: "Автор:"
+            - link "Shamblen Studios" [ref=e1221]:
+              - /url: https://unsplash.com/@shamblenstudios
+      - article [ref=e1222] [cursor=pointer]:
+        - button "+" [ref=e1223]
+        - img "Силует жінки в капелюсі" [ref=e1224]
+        - generic [ref=e1225]:
+          - strong [ref=e1226]: Силует жінки в капелюсі
+          - button "25b4a64a-8775-4831-84c7-7269ca32e870" [ref=e1227]
+          - generic [ref=e1228]: unsplash ·
+          - generic [ref=e1229]:
+            - text: "Автор:"
+            - link "Cash Macanaya" [ref=e1230]:
+              - /url: https://unsplash.com/@cashmacanaya
+      - article [ref=e1231] [cursor=pointer]:
+        - button "+" [ref=e1232]
+        - img "Силует людини в синьому світлі" [ref=e1233]
+        - generic [ref=e1234]:
+          - strong [ref=e1235]: Силует людини в синьому світлі
+          - button "pexels:15932285" [ref=e1236]
+          - generic [ref=e1237]: pexels ·
+          - generic [ref=e1238]:
+            - text: "Автор:"
+            - link "Ahmed Sadeq" [ref=e1239]:
+              - /url: https://www.pexels.com/@ahmed-sadeq-453709971
+      - article [ref=e1240] [cursor=pointer]:
+        - button "+" [ref=e1241]
+        - img "Силует людини на плавучих сходах" [ref=e1242]
+        - generic [ref=e1243]:
+          - strong [ref=e1244]: Силует людини на плавучих сходах
+          - button "f651e448-e9a5-4e39-999b-829a9e648dd4" [ref=e1245]
+          - generic [ref=e1246]: unsplash ·
+          - generic [ref=e1247]:
+            - text: "Автор:"
+            - link "Vinay Tryambake" [ref=e1248]:
+              - /url: https://unsplash.com/@winayy_999
+      - article [ref=e1249] [cursor=pointer]:
+        - button "+" [ref=e1250]
+        - img "Силует людини у світлому дверному отворі" [ref=e1251]
+        - generic [ref=e1252]:
+          - strong [ref=e1253]: Силует людини у світлому дверному отворі
+          - button "0f192adf-8757-48c0-8494-d20c31b5a525" [ref=e1254]
+          - generic [ref=e1255]: unsplash ·
+          - generic [ref=e1256]:
+            - text: "Автор:"
+            - link "Adam Jícha" [ref=e1257]:
+              - /url: https://unsplash.com/@rothwellden
+      - article [ref=e1258] [cursor=pointer]:
+        - button "+" [ref=e1259]
+        - img "Силует чоловіка на скелі під небом" [ref=e1260]
+        - generic [ref=e1261]:
+          - strong [ref=e1262]: Силует чоловіка на скелі під небом
+          - button "b00324e4-1882-44e8-9d68-ea11c37b4f65" [ref=e1263]
+          - generic [ref=e1264]: unsplash ·
+          - generic [ref=e1265]:
+            - text: "Автор:"
+            - link "Greg Rakozy" [ref=e1266]:
+              - /url: https://unsplash.com/@grakozy
+      - article [ref=e1267] [cursor=pointer]:
+        - button "+" [ref=e1268]
+        - img "Силует чоловіка, який тримає пульт дистанційного керування" [ref=e1269]
+        - generic [ref=e1270]:
+          - strong [ref=e1271]: Силует чоловіка, який тримає пульт дистанційного керування
+          - button "247db1eb-adfd-4c04-b838-fe67fde64129" [ref=e1272]
+          - generic [ref=e1273]: unsplash ·
+          - generic [ref=e1274]:
+            - text: "Автор:"
+            - link "Shubhankar Joshi" [ref=e1275]:
+              - /url: https://unsplash.com/@shubhankar57
+      - article [ref=e1276] [cursor=pointer]:
+        - button "+" [ref=e1277]
+        - img "Синій костюм у пустелі" [ref=e1278]
+        - generic [ref=e1279]:
+          - strong [ref=e1280]: Синій костюм у пустелі
+          - button "custom:content:7a0b170984fcdf3e16c63c422265ed7a029cec0fff22be845ff4919fc19e4f3e" [ref=e1281]
+          - generic [ref=e1282]: custom-images · 📌 pin
+          - generic [ref=e1283]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e1284]:
+              - /url: https://divnex.com
+      - article [ref=e1285] [cursor=pointer]:
+        - button "+" [ref=e1286]
+        - img "Стрітвер-портрет із косами" [ref=e1287]
+        - generic [ref=e1288]:
+          - strong [ref=e1289]: Стрітвер-портрет із косами
+          - button "custom:content:244ad8ea0a587f9cc5918866ca9c85f934ae1c96a8775e36cfc3eed8f28ba182" [ref=e1290]
+          - generic [ref=e1291]: custom-images · 📌 pin
+          - generic [ref=e1292]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e1293]:
+              - /url: https://divnex.com
+      - article [ref=e1294] [cursor=pointer]:
+        - button "+" [ref=e1295]
+        - img "Студійний портрет із жувальною гумкою" [ref=e1296]
+        - generic [ref=e1297]:
+          - strong [ref=e1298]: Студійний портрет із жувальною гумкою
+          - button "custom:content:092c7c2a22a43a00f9f27af832e1edc6a1c54c02ff4684b4c18d2dd2eadfee4c" [ref=e1299]
+          - generic [ref=e1300]: custom-images · 📌 pin
+          - generic [ref=e1301]:
+            - text: "Автор:"
+            - link "Divnex" [ref=e1302]:
+              - /url: https://divnex.com
+      - article [ref=e1303] [cursor=pointer]:
+        - button "+" [ref=e1304]
+        - img "Татуйовані ноги в білих кросівках і рожевих шкарпетках" [ref=e1305]
+        - generic [ref=e1306]:
+          - strong [ref=e1307]: Татуйовані ноги в білих кросівках і рожевих шкарпетках
+          - button "pexels:4582813" [ref=e1308]
+          - generic [ref=e1309]: pexels ·
+          - generic [ref=e1310]:
+            - text: "Автор:"
+            - link "Malcolm Garret" [ref=e1311]:
+              - /url: https://www.pexels.com/@malcolm-garret-3023588
+      - article [ref=e1312] [cursor=pointer]:
+        - button "+" [ref=e1313]
+        - img "Темна кімната з рожевим світлом" [ref=e1314]
+        - generic [ref=e1315]:
+          - strong [ref=e1316]: Темна кімната з рожевим світлом
+          - button "877476ee-37ee-4c89-8954-b094ff935d93" [ref=e1317]
+          - generic [ref=e1318]: unsplash ·
+          - generic [ref=e1319]:
+            - text: "Автор:"
+            - link "Taylor R" [ref=e1320]:
+              - /url: https://unsplash.com/@usualmorals
+      - article [ref=e1321] [cursor=pointer]:
+        - button "+" [ref=e1322]
+        - img "Троє чоловіків у світлому одязі" [ref=e1323]
+        - generic [ref=e1324]:
+          - strong [ref=e1325]: Троє чоловіків у світлому одязі
+          - button "pexels:10679232" [ref=e1326]
+          - generic [ref=e1327]: pexels ·
+          - generic [ref=e1328]:
+            - text: "Автор:"
+            - link "cottonbro studio" [ref=e1329]:
+              - /url: https://www.pexels.com/@cottonbro
+      - article [ref=e1330] [cursor=pointer]:
+        - button "+" [ref=e1331]
+        - img "Частково освітлене обличчя, що виринає з темряви" [ref=e1332]
+        - generic [ref=e1333]:
+          - strong [ref=e1334]: Частково освітлене обличчя, що виринає з темряви
+          - button "pexels:13583393" [ref=e1335]
+          - generic [ref=e1336]: pexels ·
+          - generic [ref=e1337]:
+            - text: "Автор:"
+            - link "Pouriya Kafaei" [ref=e1338]:
+              - /url: https://www.pexels.com/@pouriyakafaei
+      - article [ref=e1339] [cursor=pointer]:
+        - button "+" [ref=e1340]
+        - img "Чоловік дивиться вгору серед поля" [ref=e1341]
+        - generic [ref=e1342]:
+          - strong [ref=e1343]: Чоловік дивиться вгору серед поля
+          - button "pexels:10678814" [ref=e1344]
+          - generic [ref=e1345]: pexels ·
+          - generic [ref=e1346]:
+            - text: "Автор:"
+            - link "cottonbro studio" [ref=e1347]:
+              - /url: https://www.pexels.com/@cottonbro
+      - article [ref=e1348] [cursor=pointer]:
+        - button "+" [ref=e1349]
+        - img "Чоловік дивиться на телефон у профіль" [ref=e1350]
+        - generic [ref=e1351]:
+          - strong [ref=e1352]: Чоловік дивиться на телефон у профіль
+          - button "pexels:13607456" [ref=e1353]
+          - generic [ref=e1354]: pexels ·
+          - generic [ref=e1355]:
+            - text: "Автор:"
+            - link "Gabriel Passos" [ref=e1356]:
+              - /url: https://www.pexels.com/@gabriel-passos-71368745
+      - article [ref=e1357] [cursor=pointer]:
+        - button "+" [ref=e1358]
+        - img "Чоловік з татуюваннями у червоному та синьому світлі" [ref=e1359]
+        - generic [ref=e1360]:
+          - strong [ref=e1361]: Чоловік з татуюваннями у червоному та синьому світлі
+          - button "pexels:15965689" [ref=e1362]
+          - generic [ref=e1363]: pexels ·
+          - generic [ref=e1364]:
+            - text: "Автор:"
+            - link "Lucas Brown" [ref=e1365]:
+              - /url: https://www.pexels.com/@lucas-brown-368306455
+      - article [ref=e1366] [cursor=pointer]:
+        - button "+" [ref=e1367]
+        - img "Чоловік з татуюваннями, що сидить, прикривши обличчя руками" [ref=e1368]
+        - generic [ref=e1369]:
+          - strong [ref=e1370]: Чоловік з татуюваннями, що сидить, прикривши обличчя руками
+          - button "pexels:4582811" [ref=e1371]
+          - generic [ref=e1372]: pexels ·
+          - generic [ref=e1373]:
+            - text: "Автор:"
+            - link "Malcolm Garret" [ref=e1374]:
+              - /url: https://www.pexels.com/@malcolm-garret-3023588
+      - article [ref=e1375] [cursor=pointer]:
+        - button "+" [ref=e1376]
+        - img "Чоловік з татуюваннями, який відпочиває в кріслі, користуючись телефоном" [ref=e1377]
+        - generic [ref=e1378]:
+          - strong [ref=e1379]: Чоловік з татуюваннями, який відпочиває в кріслі, користуючись телефоном
+          - button "pexels:4582812" [ref=e1380]
+          - generic [ref=e1381]: pexels ·
+          - generic [ref=e1382]:
+            - text: "Автор:"
+            - link "Malcolm Garret" [ref=e1383]:
+              - /url: https://www.pexels.com/@malcolm-garret-3023588
+      - article [ref=e1384] [cursor=pointer]:
+        - button "+" [ref=e1385]
+        - img "Чоловік іде темним тунелем" [ref=e1386]
+        - generic [ref=e1387]:
+          - strong [ref=e1388]: Чоловік іде темним тунелем
+          - button "88f571d6-48e8-42c2-b2dd-cd7071383ffd" [ref=e1389]
+          - generic [ref=e1390]: unsplash ·
+          - generic [ref=e1391]:
+            - text: "Автор:"
+            - link "Adam Jícha" [ref=e1392]:
+              - /url: https://unsplash.com/@rothwellden
+      - article [ref=e1393] [cursor=pointer]:
+        - button "+" [ref=e1394]
+        - img "чоловік носить чорні штани" [ref=e1395]
+        - generic [ref=e1396]:
+          - strong [ref=e1397]: чоловік носить чорні штани
+          - button "5f6377d1-9dac-4156-90d5-425257d35a2c" [ref=e1398]
+          - generic [ref=e1399]: unsplash ·
+          - generic [ref=e1400]:
+            - text: "Автор:"
+            - link "Edgar Chaparro" [ref=e1401]:
+              - /url: https://unsplash.com/@echaparro
+      - article [ref=e1402] [cursor=pointer]:
+        - button "+" [ref=e1403]
+        - img "Чоловік перед вогнем у темряві" [ref=e1404]
+        - generic [ref=e1405]:
+          - strong [ref=e1406]: Чоловік перед вогнем у темряві
+          - button "065ed835-0342-4d76-b648-8b3f3b824a3d" [ref=e1407]
+          - generic [ref=e1408]: unsplash ·
+          - generic [ref=e1409]:
+            - text: "Автор:"
+            - link "Cash Macanaya" [ref=e1410]:
+              - /url: https://unsplash.com/@cashmacanaya
+      - article [ref=e1411] [cursor=pointer]:
+        - button "+" [ref=e1412]
+        - img "Чоловік позує біля сріблястої тканини" [ref=e1413]
+        - generic [ref=e1414]:
+          - strong [ref=e1415]: Чоловік позує біля сріблястої тканини
+          - button "pexels:38315336" [ref=e1416]
+          - generic [ref=e1417]: pexels ·
+          - generic [ref=e1418]:
+            - text: "Автор:"
+            - link "Umar Faruq" [ref=e1419]:
+              - /url: https://www.pexels.com/@umar-faruq-1662051319
+      - article [ref=e1420] [cursor=pointer]:
+        - button "+" [ref=e1421]
+        - img "Чоловік позує в білій майці та кепці" [ref=e1422]
+        - generic [ref=e1423]:
+          - strong [ref=e1424]: Чоловік позує в білій майці та кепці
+          - button "pexels:38209664" [ref=e1425]
+          - generic [ref=e1426]: pexels ·
+          - generic [ref=e1427]:
+            - text: "Автор:"
+            - link "Aj Collins Artistry" [ref=e1428]:
+              - /url: https://www.pexels.com/@aj-collins-artistry-1772576281
+      - article [ref=e1429] [cursor=pointer]:
+        - button "+" [ref=e1430]
+        - img "Чоловік позує в темній куртці під синім світлом" [ref=e1431]
+        - generic [ref=e1432]:
+          - strong [ref=e1433]: Чоловік позує в темній куртці під синім світлом
+          - button "pexels:38909733" [ref=e1434]
+          - generic [ref=e1435]: pexels ·
+          - generic [ref=e1436]:
+            - text: "Автор:"
+            - link "Aj Collins Artistry" [ref=e1437]:
+              - /url: https://www.pexels.com/@aj-collins-artistry-1772576281
+      - article [ref=e1438] [cursor=pointer]:
+        - button "+" [ref=e1439]
+        - img "Чоловік позує на стільці на червоному тлі" [ref=e1440]
+        - generic [ref=e1441]:
+          - strong [ref=e1442]: Чоловік позує на стільці на червоному тлі
+          - button "pexels:33524564" [ref=e1443]
+          - generic [ref=e1444]: pexels ·
+          - generic [ref=e1445]:
+            - text: "Автор:"
+            - link "OUR LORD BISHOP." [ref=e1446]:
+              - /url: https://www.pexels.com/@our-lord-bishop-2155024814
+      - article [ref=e1447] [cursor=pointer]:
+        - button "+" [ref=e1448]
+        - img "Чоловік серед високої трави" [ref=e1449]
+        - generic [ref=e1450]:
+          - strong [ref=e1451]: Чоловік серед високої трави
+          - button "pexels:10678808" [ref=e1452]
+          - generic [ref=e1453]: pexels ·
+          - generic [ref=e1454]:
+            - text: "Автор:"
+            - link "cottonbro studio" [ref=e1455]:
+              - /url: https://www.pexels.com/@cottonbro
+      - article [ref=e1456] [cursor=pointer]:
+        - button "+" [ref=e1457]
+        - img "Чоловік сидить біля сріблястої тканини" [ref=e1458]
+        - generic [ref=e1459]:
+          - strong [ref=e1460]: Чоловік сидить біля сріблястої тканини
+          - button "pexels:38315337" [ref=e1461]
+          - generic [ref=e1462]: pexels ·
+          - generic [ref=e1463]:
+            - text: "Автор:"
+            - link "Umar Faruq" [ref=e1464]:
+              - /url: https://www.pexels.com/@umar-faruq-1662051319
+      - article [ref=e1465] [cursor=pointer]:
+        - button "+" [ref=e1466]
+        - img "Чоловік сидить на червоному тлі" [ref=e1467]
+        - generic [ref=e1468]:
+          - strong [ref=e1469]: Чоловік сидить на червоному тлі
+          - button "pexels:33524561" [ref=e1470]
+          - generic [ref=e1471]: pexels ·
+          - generic [ref=e1472]:
+            - text: "Автор:"
+            - link "OUR LORD BISHOP." [ref=e1473]:
+              - /url: https://www.pexels.com/@our-lord-bishop-2155024814
+      - article [ref=e1474] [cursor=pointer]:
+        - button "+" [ref=e1475]
+        - img "Чоловік сидить у студії з червоним світлом" [ref=e1476]
+        - generic [ref=e1477]:
+          - strong [ref=e1478]: Чоловік сидить у студії з червоним світлом
+          - button "pexels:33524565" [ref=e1479]
+          - generic [ref=e1480]: pexels ·
+          - generic [ref=e1481]:
+            - text: "Автор:"
+            - link "OUR LORD BISHOP." [ref=e1482]:
+              - /url: https://www.pexels.com/@our-lord-bishop-2155024814
+      - article [ref=e1483] [cursor=pointer]:
+        - button "+" [ref=e1484]
+        - img "Чоловік сидить у студії з червоним світлом" [ref=e1485]
+        - generic [ref=e1486]:
+          - strong [ref=e1487]: Чоловік сидить у студії з червоним світлом
+          - button "pexels:33539431" [ref=e1488]
+          - generic [ref=e1489]: pexels ·
+          - generic [ref=e1490]:
+            - text: "Автор:"
+            - link "OUR LORD BISHOP." [ref=e1491]:
+              - /url: https://www.pexels.com/@our-lord-bishop-2155024814
+      - article [ref=e1492] [cursor=pointer]:
+        - button "+" [ref=e1493]
+        - img "Чоловік сидить у темному модному портреті" [ref=e1494]
+        - generic [ref=e1495]:
+          - strong [ref=e1496]: Чоловік сидить у темному модному портреті
+          - button "pexels:38315335" [ref=e1497]
+          - generic [ref=e1498]: pexels ·
+          - generic [ref=e1499]:
+            - text: "Автор:"
+            - link "Umar Faruq" [ref=e1500]:
+              - /url: https://www.pexels.com/@umar-faruq-1662051319
+      - article [ref=e1501] [cursor=pointer]:
+        - button "+" [ref=e1502]
+        - img "Чоловік тримає білий кросівок біля обличчя" [ref=e1503]
+        - generic [ref=e1504]:
+          - strong [ref=e1505]: Чоловік тримає білий кросівок біля обличчя
+          - button "pexels:38209667" [ref=e1506]
+          - generic [ref=e1507]: pexels ·
+          - generic [ref=e1508]:
+            - text: "Автор:"
+            - link "Aj Collins Artistry" [ref=e1509]:
+              - /url: https://www.pexels.com/@aj-collins-artistry-1772576281
+      - article [ref=e1510] [cursor=pointer]:
+        - button "+" [ref=e1511]
+        - img "Чоловік тримає червону коробку з взуттям" [ref=e1512]
+        - generic [ref=e1513]:
+          - strong [ref=e1514]: Чоловік тримає червону коробку з взуттям
+          - button "pexels:38209666" [ref=e1515]
+          - generic [ref=e1516]: pexels ·
+          - generic [ref=e1517]:
+            - text: "Автор:"
+            - link "Aj Collins Artistry" [ref=e1518]:
+              - /url: https://www.pexels.com/@aj-collins-artistry-1772576281
+      - article [ref=e1519] [cursor=pointer]:
+        - button "+" [ref=e1520]
+        - img "Чоловік у бежевому пальті та сонцезахисних окулярах" [ref=e1521]
+        - generic [ref=e1522]:
+          - strong [ref=e1523]: Чоловік у бежевому пальті та сонцезахисних окулярах
+          - button "pexels:10679231" [ref=e1524]
+          - generic [ref=e1525]: pexels ·
+          - generic [ref=e1526]:
+            - text: "Автор:"
+            - link "cottonbro studio" [ref=e1527]:
+              - /url: https://www.pexels.com/@cottonbro
+      - article [ref=e1528] [cursor=pointer]:
+        - button "+" [ref=e1529]
+        - img "Чоловік у білій майці демонструє руку" [ref=e1530]
+        - generic [ref=e1531]:
+          - strong [ref=e1532]: Чоловік у білій майці демонструє руку
+          - button "pexels:38209663" [ref=e1533]
+          - generic [ref=e1534]: pexels ·
+          - generic [ref=e1535]:
+            - text: "Автор:"
+            - link "Aj Collins Artistry" [ref=e1536]:
+              - /url: https://www.pexels.com/@aj-collins-artistry-1772576281
+      - article [ref=e1537] [cursor=pointer]:
+        - button "+" [ref=e1538]
+        - img "Чоловік у білій масці й темних окулярах" [ref=e1539]
+        - generic [ref=e1540]:
+          - strong [ref=e1541]: Чоловік у білій масці й темних окулярах
+          - button "pexels:16310975" [ref=e1542]
+          - generic [ref=e1543]: pexels ·
+          - generic [ref=e1544]:
+            - text: "Автор:"
+            - link "Behrad Rouhi" [ref=e1545]:
+              - /url: https://www.pexels.com/@behrad-rouhi-510290506
+      - article [ref=e1546] [cursor=pointer]:
+        - button "+" [ref=e1547]
+        - img "Чоловік у білому вбранні сидить на траві" [ref=e1548]
+        - generic [ref=e1549]:
+          - strong [ref=e1550]: Чоловік у білому вбранні сидить на траві
+          - button "pexels:16247294" [ref=e1551]
+          - generic [ref=e1552]: pexels ·
+          - generic [ref=e1553]:
+            - text: "Автор:"
+            - link "Jacob Sierra" [ref=e1554]:
+              - /url: https://www.pexels.com/@jacob-sierra-419902407
+      - article [ref=e1555] [cursor=pointer]:
+        - button "+" [ref=e1556]
+        - img "Чоловік у кепці на червоному тлі" [ref=e1557]
+        - generic [ref=e1558]:
+          - strong [ref=e1559]: Чоловік у кепці на червоному тлі
+          - button "pexels:33539433" [ref=e1560]
+          - generic [ref=e1561]: pexels ·
+          - generic [ref=e1562]:
+            - text: "Автор:"
+            - link "OUR LORD BISHOP." [ref=e1563]:
+              - /url: https://www.pexels.com/@our-lord-bishop-2155024814
+      - article [ref=e1564] [cursor=pointer]:
+        - button "+" [ref=e1565]
+        - img "Чоловік у кепці та білій майці" [ref=e1566]
+        - generic [ref=e1567]:
+          - strong [ref=e1568]: Чоловік у кепці та білій майці
+          - button "pexels:38209662" [ref=e1569]
+          - generic [ref=e1570]: pexels ·
+          - generic [ref=e1571]:
+            - text: "Автор:"
+            - link "Aj Collins Artistry" [ref=e1572]:
+              - /url: https://www.pexels.com/@aj-collins-artistry-1772576281
+      - article [ref=e1573] [cursor=pointer]:
+        - button "+" [ref=e1574]
+        - img "Чоловік у костюмі та мотошоломі" [ref=e1575]
+        - generic [ref=e1576]:
+          - strong [ref=e1577]: Чоловік у костюмі та мотошоломі
+          - button "8d6bbe31-3b71-4bb6-9228-bf3fe8568a51" [ref=e1578]
+          - generic [ref=e1579]: unsplash ·
+          - generic [ref=e1580]:
+            - text: "Автор:"
+            - link "Amr Taha™" [ref=e1581]:
+              - /url: https://unsplash.com/@amr_taha
+      - article [ref=e1582] [cursor=pointer]:
+        - button "+" [ref=e1583]
+        - img "Чоловік у мотошоломі та синій куртці" [ref=e1584]
+        - generic [ref=e1585]:
+          - strong [ref=e1586]: Чоловік у мотошоломі та синій куртці
+          - button "360fd1e2-9675-4409-b102-85f4cb0fc956" [ref=e1587]
+          - generic [ref=e1588]: unsplash ·
+          - generic [ref=e1589]:
+            - text: "Автор:"
+            - link "Amr Taha™" [ref=e1590]:
+              - /url: https://unsplash.com/@amr_taha
+      - article [ref=e1591] [cursor=pointer]:
+        - button "+" [ref=e1592]
+        - img "Чоловік у світлому вбранні стоїть серед поля" [ref=e1593]
+        - generic [ref=e1594]:
+          - strong [ref=e1595]: Чоловік у світлому вбранні стоїть серед поля
+          - button "pexels:10679165" [ref=e1596]
+          - generic [ref=e1597]: pexels ·
+          - generic [ref=e1598]:
+            - text: "Автор:"
+            - link "cottonbro studio" [ref=e1599]:
+              - /url: https://www.pexels.com/@cottonbro
+      - article [ref=e1600] [cursor=pointer]:
+        - button "+" [ref=e1601]
+        - img "Чоловік у сонцезахисних окулярах на синьому тлі" [ref=e1602]
+        - generic [ref=e1603]:
+          - strong [ref=e1604]: Чоловік у сонцезахисних окулярах на синьому тлі
+          - button "pexels:39241307" [ref=e1605]
+          - generic [ref=e1606]: pexels ·
+          - generic [ref=e1607]:
+            - text: "Автор:"
+            - link "Maury Pires" [ref=e1608]:
+              - /url: https://www.pexels.com/@maury-pires-1662054371
+      - article [ref=e1609] [cursor=pointer]:
+        - button "+" [ref=e1610]
+        - img "Чоловік у сонцезахисних окулярах, що сидить на скелястому березі" [ref=e1611]
+        - generic [ref=e1612]:
+          - strong [ref=e1613]: Чоловік у сонцезахисних окулярах, що сидить на скелястому березі
+          - button "pexels:16811459" [ref=e1614]
+          - generic [ref=e1615]: pexels ·
+          - generic [ref=e1616]:
+            - text: "Автор:"
+            - link "Behrad Rouhi" [ref=e1617]:
+              - /url: https://www.pexels.com/@behrad-rouhi-510290506
+      - article [ref=e1618] [cursor=pointer]:
+        - button "+" [ref=e1619]
+        - img "Чоловік у темному одязі з ефектом розмиття руху" [ref=e1620]
+        - generic [ref=e1621]:
+          - strong [ref=e1622]: Чоловік у темному одязі з ефектом розмиття руху
+          - button "pexels:38909735" [ref=e1623]
+          - generic [ref=e1624]: pexels ·
+          - generic [ref=e1625]:
+            - text: "Автор:"
+            - link "Aj Collins Artistry" [ref=e1626]:
+              - /url: https://www.pexels.com/@aj-collins-artistry-1772576281
+      - article [ref=e1627] [cursor=pointer]:
+        - button "+" [ref=e1628]
+        - img "Чоловік у фіолетовій кепці на темному тлі" [ref=e1629]
+        - generic [ref=e1630]:
+          - strong [ref=e1631]: Чоловік у фіолетовій кепці на темному тлі
+          - button "pexels:38209696" [ref=e1632]
+          - generic [ref=e1633]: pexels ·
+          - generic [ref=e1634]:
+            - text: "Автор:"
+            - link "Aj Collins Artistry" [ref=e1635]:
+              - /url: https://www.pexels.com/@aj-collins-artistry-1772576281
+      - article [ref=e1636] [cursor=pointer]:
+        - button "+" [ref=e1637]
+        - img "чоловік у червоній шапці на фотографії у вибірковій кольоровій гамі" [ref=e1638]
+        - generic [ref=e1639]:
+          - strong [ref=e1640]: чоловік у червоній шапці на фотографії у вибірковій кольоровій гамі
+          - button "c939190d-c40f-4327-8c22-867563228302" [ref=e1641]
+          - generic [ref=e1642]: unsplash ·
+          - generic [ref=e1643]:
+            - text: "Автор:"
+            - link "David Hurley" [ref=e1644]:
+              - /url: https://unsplash.com/@davidhurley
+      - article [ref=e1645] [cursor=pointer]:
+        - button "+" [ref=e1646]
+        - img "Чоловік у шоломі та протигазі" [ref=e1647]
+        - generic [ref=e1648]:
+          - strong [ref=e1649]: Чоловік у шоломі та протигазі
+          - button "68099c26-638f-4c74-a766-ad64eaa4df9e" [ref=e1650]
+          - generic [ref=e1651]: unsplash ·
+          - generic [ref=e1652]:
+            - text: "Автор:"
+            - link "Levi Stute" [ref=e1653]:
+              - /url: https://unsplash.com/@levi_stute_cinematography
+      - article [ref=e1654] [cursor=pointer]:
+        - button "+" [ref=e1655]
+        - img "Чоловік у шоломі PlayStation VR" [ref=e1656]
+        - generic [ref=e1657]:
+          - strong [ref=e1658]: Чоловік у шоломі PlayStation VR
+          - button "5cea3f7e-963e-4621-bb67-e0058e6ec0fb" [ref=e1659]
+          - generic [ref=e1660]: unsplash ·
+          - generic [ref=e1661]:
+            - text: "Автор:"
+            - link "Uriel Soberanes" [ref=e1662]:
+              - /url: https://unsplash.com/@soberanes
+      - article [ref=e1663] [cursor=pointer]:
+        - button "+" [ref=e1664]
+        - img "Чоловік у VR-гарнітурі" [ref=e1665]
+        - generic [ref=e1666]:
+          - strong [ref=e1667]: Чоловік у VR-гарнітурі
+          - button "42670185-469c-474f-beee-08c7b54d831c" [ref=e1668]
+          - generic [ref=e1669]: unsplash ·
+          - generic [ref=e1670]:
+            - text: "Автор:"
+            - link "Minh Pham" [ref=e1671]:
+              - /url: https://unsplash.com/@minhphamdesign
+      - article [ref=e1672] [cursor=pointer]:
+        - button "+" [ref=e1673]
+        - img "Чоловік, який їде на електричному мотоциклі вночі" [ref=e1674]
+        - generic [ref=e1675]:
+          - strong [ref=e1676]: Чоловік, який їде на електричному мотоциклі вночі
+          - button "43a842ab-6483-4fbc-816f-1d385c328d00" [ref=e1677]
+          - generic [ref=e1678]: unsplash ·
+          - generic [ref=e1679]:
+            - text: "Автор:"
+            - link "LOGAN WEAVER | @LGNWVR" [ref=e1680]:
+              - /url: https://unsplash.com/@lgnwvr
+      - article [ref=e1681] [cursor=pointer]:
+        - button "+" [ref=e1682]
+        - img "Шпалери, які вам сподобаються" [ref=e1683]
+        - generic [ref=e1684]:
+          - strong [ref=e1685]: Шпалери, які вам сподобаються
+          - button "89549bfa-a294-42fb-bf3a-7bb89a549063" [ref=e1686]
+          - generic [ref=e1687]: unsplash ·
+          - generic [ref=e1688]:
+            - text: "Автор:"
+            - link "sebastiaan stam" [ref=e1689]:
+              - /url: https://unsplash.com/@sebastiaanstam
+      - article [ref=e1690] [cursor=pointer]:
+        - button "+" [ref=e1691]
+        - img "du_FPpt4cBU" [ref=e1692]
+        - generic [ref=e1693]:
+          - strong [ref=e1694]: du_FPpt4cBU
+          - button "6fd7d8dd-3932-4635-b849-d9ab908395a1" [ref=e1695]
+          - generic [ref=e1696]: unsplash ·
+          - generic [ref=e1697]:
+            - text: "Автор:"
+            - link "David Hurley" [ref=e1698]:
+              - /url: https://unsplash.com/@davidhurley
+      - article [ref=e1699] [cursor=pointer]:
+        - button "+" [ref=e1700]
+        - img "w68isOp82lQ" [ref=e1701]
+        - generic [ref=e1702]:
+          - strong [ref=e1703]: w68isOp82lQ
+          - button "9722dbf6-50f1-4666-8990-edf23448ab87" [ref=e1704]
+          - generic [ref=e1705]: unsplash ·
+          - generic [ref=e1706]:
+            - text: "Автор:"
+            - link "Shubhankar Joshi" [ref=e1707]:
+              - /url: https://unsplash.com/@shubhankar57

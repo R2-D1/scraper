@@ -17,7 +17,7 @@ import {
   type SyncInventoryItem,
 } from "./sync-images-plan";
 import { mediaSettings } from "../config/media-settings";
-import { MEDIA_DELETE_LIST_PATH } from "../config/paths";
+import { MEDIA_DELETE_LIST_PATH, RELATED_IMAGE_GROUPS_PATH } from "../config/paths";
 import { readMediaDeleteList, writeMediaDeleteList } from "./media-delete-list";
 
 const ROOT = path.resolve(__dirname, "..", "..");
@@ -212,6 +212,7 @@ async function listFiles(root: string): Promise<string[]> {
     for (const entry of (
       await fs.readdir(directory, { withFileTypes: true })
     ).sort((a, b) => a.name.localeCompare(b.name, "en"))) {
+      if (entry.name.startsWith("._")) continue;
       const target = path.join(directory, entry.name);
       if (entry.isDirectory()) await visit(target);
       else if (entry.isFile()) found.push(target);
@@ -642,8 +643,16 @@ export function buildPlan(
 export function metadataForBatch(
   meta: Record<string, unknown>,
   includeCollectionPreviews: boolean,
+  completeRelatedGroups?: ReadonlySet<string>,
 ): Record<string, unknown> {
-  if (includeCollectionPreviews) return meta;
+  if (includeCollectionPreviews) {
+    const relatedGroup = meta.relatedGroup as { key?: string } | undefined;
+    if (relatedGroup && completeRelatedGroups && !completeRelatedGroups.has(relatedGroup.key ?? "")) {
+      const { relatedGroup: _relatedGroup, ...withoutRelatedGroup } = meta;
+      return withoutRelatedGroup;
+    }
+    return meta;
+  }
   const { relatedGroup: _relatedGroup, ...withoutRelatedGroup } = meta;
   if (!Array.isArray(meta.collections)) return withoutRelatedGroup;
   return {
@@ -671,7 +680,10 @@ async function createArchive(
   await fs.mkdir(packages, { recursive: true });
   const archive = path.join(packages, `${batch.id}.zip`);
   const orphans = (await fs.readdir(packages)).filter(
-    (name) => name.endsWith(".zip") && name !== path.basename(archive),
+    (name) =>
+      !name.startsWith("._") &&
+      name.endsWith(".zip") &&
+      name !== path.basename(archive),
   );
   if (orphans.length)
     throw new Error(
@@ -681,6 +693,18 @@ async function createArchive(
   await fs.rm(directory, { recursive: true, force: true });
   await fs.mkdir(directory, { recursive: true });
   try {
+    const completeRelatedGroups = new Set<string>();
+    if (batch.mode === "collection-previews") {
+      const registry = JSON.parse(
+        await fs.readFile(RELATED_IMAGE_GROUPS_PATH, "utf8"),
+      ) as { groups: Record<string, { mediaKeys: string[] }> };
+      const includedMediaKeys = new Set(batch.assets.map((asset) => asset.mediaKey));
+      for (const [key, group] of Object.entries(registry.groups)) {
+        if (group.mediaKeys.every((mediaKey) => includedMediaKeys.has(mediaKey))) {
+          completeRelatedGroups.add(key);
+        }
+      }
+    }
     for (const asset of batch.assets) {
       const target = path.join(directory, asset.slug);
       await fs.mkdir(target, { recursive: true });
@@ -692,6 +716,7 @@ async function createArchive(
         const preparedMetadata = metadataForBatch(
           sourceMetadata(meta),
           includeCollectionPreviews,
+          completeRelatedGroups,
         );
         await fs.writeFile(
           path.join(target, META),
