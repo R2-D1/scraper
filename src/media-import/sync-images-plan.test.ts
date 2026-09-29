@@ -1,410 +1,165 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import {
-  assertResumePlan,
-  buildFullSyncSelection,
-  buildSyncPrepareOptions,
-  buildSyncSelection,
-  classifyPreparedAssetFiles,
-  chunk,
-  includeFilesForMetadata,
-  mergeMediaDeleteList,
-  parseGitNameStatus,
-  runCheckpointedSync,
-  runSequentially,
-} from "./sync-images-plan";
 import { buildPlan, metadataForBatch, type Asset } from "./sync-images";
+import { classifyPreparedAssetFiles, runCheckpointedSync } from "./sync-images-plan";
+import {
+  confirmHistoricalFileVersions,
+  emptyMediaSyncState,
+  recordExplicitDeletions,
+  recordSuccessfulBatch,
+  seedTargetFromInventory,
+  selectPendingMedia,
+} from "./media-sync-state";
 
-const preparedAsset = (slug: string, hasCollectionPreviews = false): Asset => ({
+const asset = (slug: string, overrides: Partial<Asset> = {}): Asset => ({
   slug,
   mediaKey: `${slug}-key`,
-  contentHash: `${slug}-hash`,
-  metadataHash: `${slug}-meta-hash`,
+  contentHash: `${slug}-content`,
+  metadataHash: `${slug}-metadata`,
   directory: `/tmp/${slug}`,
-  hasCollectionPreviews,
+  hasCollectionPreviews: false,
+  needsFinalization: false,
   sizeBytes: 10,
+  ...overrides,
 });
 
-test("classifies metadata, new files, changed files and deletions", () => {
-  const changes = parseGitNameStatus(
-    [
-      "M\tlibrary/unsplash/images/meta-only/media-meta.json",
-      "A\tlibrary/unsplash/images/new-one/new-one.jpg",
-      "M\tlibrary/custom-images/images/replaced/replaced.png",
-      "A\tlibrary/lummi/images/lummi-new/lummi-new.png",
-      "D\tlibrary/unsplash/illustrations/removed/media-meta.json",
-    ].join("\n"),
-  );
-  const selection = buildSyncSelection(changes, [
-    "meta-only",
-    "new-one",
-    "replaced",
-    "lummi-new",
-  ]);
-
-  assert.deepEqual(Object.fromEntries(selection.assets), {
-    "meta-only": "metadata",
-    "new-one": "new-file",
-    replaced: "changed-file",
-    "lummi-new": "new-file",
-  });
-  assert.deepEqual(selection.deletions, ["removed"]);
+test("each environment independently selects new, changed file and changed metadata", () => {
+  const state = emptyMediaSyncState();
+  const first = asset("first");
+  assert.equal(selectPendingMedia([first], state, "dev").assets.get("first"), "new-file");
+  recordSuccessfulBatch(state, "dev", { mode: "files", assets: [first], tombstones: [] });
+  assert.equal(selectPendingMedia([first], state, "dev").assets.size, 0);
+  assert.equal(selectPendingMedia([first], state, "stage").assets.get("first"), "new-file");
+  assert.equal(selectPendingMedia([{ ...first, metadataHash: "new-metadata" }], state, "dev").assets.get("first"), "metadata");
+  assert.equal(selectPendingMedia([{ ...first, contentHash: "new-content" }], state, "dev").assets.get("first"), "changed-file");
 });
 
-test("orchestration waits for terminal success and stops before the next package on failure", async () => {
-  const events: string[] = [];
-  let finishFirst: (() => void) | undefined;
-  const firstTerminal = new Promise<void>((resolve) => {
-    finishFirst = resolve;
-  });
-  const running = runSequentially(["first", "second"], async (item) => {
-    events.push(`start:${item}`);
-    if (item === "first") await firstTerminal;
-    events.push(`finish:${item}`);
-  });
-  await Promise.resolve();
-  assert.deepEqual(events, ["start:first"]);
-  finishFirst?.();
-  await running;
-  assert.deepEqual(events, [
-    "start:first",
-    "finish:first",
-    "start:second",
-    "finish:second",
-  ]);
-
-  const failed: string[] = [];
-  await assert.rejects(() =>
-    runSequentially(["first", "second"], async (item) => {
-      failed.push(item);
-      throw new Error("worker failed");
-    }),
-  );
-  assert.deepEqual(failed, ["first"]);
+test("metadata requiring finalization stays pending until its final package succeeds", () => {
+  const state = emptyMediaSyncState();
+  const first = asset("first", { needsFinalization: true, hasCollectionPreviews: true });
+  recordSuccessfulBatch(state, "stage", { mode: "files", assets: [first], tombstones: [] });
+  assert.equal(selectPendingMedia([first], state, "stage").assets.get("first"), "metadata");
+  recordSuccessfulBatch(state, "stage", { mode: "collection-previews", assets: [first], tombstones: [] });
+  assert.equal(selectPendingMedia([first], state, "stage").assets.size, 0);
 });
 
-test("full sync updates existing metadata and uploads only missing file sets", () => {
-  const selection = buildFullSyncSelection(
-    [
-      {
-        slug: "same",
-        mediaKey: "same-key",
-        contentHash: "hash-a",
-        metadataHash: "meta-a",
-      },
-      {
-        slug: "missing",
-        mediaKey: "missing-key",
-        contentHash: "hash-b",
-        metadataHash: "meta-b",
-      },
-      {
-        slug: "record-without-file",
-        mediaKey: "without-file-key",
-        contentHash: "hash-c",
-        metadataHash: "meta-c",
-      },
-    ],
-    [
-      { mediaKey: "same-key", hasFile: true, metadataHash: "meta-a" },
-      { mediaKey: "without-file-key", hasFile: false },
-    ],
-  );
-
-  assert.deepEqual(Object.fromEntries(selection.assets), {
-    missing: "new-file",
-    "record-without-file": "changed-file",
-  });
+test("deletions are confirmed per environment and persist for the others", () => {
+  const state = emptyMediaSyncState();
+  const first = asset("first");
+  for (const target of ["dev", "stage", "prod"] as const) {
+    recordSuccessfulBatch(state, target, { mode: "files", assets: [first], tombstones: [] });
+  }
+  recordExplicitDeletions(state, [first.mediaKey]);
+  const tombstone = { mode: "tombstones" as const, assets: [], tombstones: [first.mediaKey] };
+  recordSuccessfulBatch(state, "stage", tombstone);
+  assert.deepEqual(selectPendingMedia([], state, "stage").deletions, []);
+  assert.deepEqual(selectPendingMedia([], state, "dev").deletions, [first.mediaKey]);
+  assert.deepEqual(selectPendingMedia([], state, "prod").deletions, [first.mediaKey]);
 });
 
-test("collection previews are finalized only after every ordinary package", () => {
-  const referenced = preparedAsset("referenced");
-  const declaring = preparedAsset("declaring", true);
-  const assets = new Map([
-    [referenced.slug, referenced],
-    [declaring.slug, declaring],
-  ]);
-  const plan = buildPlan(
-    {
-      assets: new Map([
-        [referenced.slug, "new-file"],
-        [declaring.slug, "metadata"],
-      ]),
-      deletions: [],
-    },
-    assets,
-    1,
-    "source-commit",
+test("a queued deletion cannot silently remove media still in the library", () => {
+  const state = emptyMediaSyncState();
+  const first = asset("first");
+  assert.throws(() => selectPendingMedia([first], state, "dev", [first.mediaKey]));
+});
+
+test("unprepared live media is never mistaken for a deletion", () => {
+  const state = emptyMediaSyncState();
+  const first = asset("oversize");
+  recordSuccessfulBatch(state, "dev", { mode: "files", assets: [first], tombstones: [] });
+  assert.deepEqual(selectPendingMedia([], state, "dev", [], new Set([first.mediaKey])).deletions, []);
+});
+
+test("bootstrap trusts only server inventory and confirmed file packages", () => {
+  const state = emptyMediaSyncState();
+  const count = seedTargetFromInventory(
+    state,
     "stage",
-  );
-
-  assert.deepEqual(
-    plan.batches.map((batch) => batch.mode),
-    ["metadata", "files", "collection-previews"],
-  );
-  assert.deepEqual(
-    plan.batches.at(-1)?.assets.map((asset) => asset.slug),
-    ["declaring"],
-  );
-});
-
-test("file packages are bounded by total bytes as well as item count", () => {
-  const first = { ...preparedAsset("first"), sizeBytes: 70 };
-  const second = { ...preparedAsset("second"), sizeBytes: 70 };
-  const assets = new Map([
-    [first.slug, first],
-    [second.slug, second],
-  ]);
-  const plan = buildPlan(
-    {
-      assets: new Map([
-        [first.slug, "new-file"],
-        [second.slug, "new-file"],
-      ]),
-      deletions: [],
-    },
-    assets,
-    100,
-    "source-commit",
-    "dev",
-    100,
-  );
-
-  assert.deepEqual(
-    plan.batches.map((batch) => batch.assets.map((asset) => asset.slug)),
-    [["first"], ["second"]],
-  );
-});
-
-test("ordinary packages omit collection previews and related groups; finalization preserves them", () => {
-  const metadata = {
-    slug: "declaring",
-    relatedGroup: { key: "group-a", position: 0 },
-    collections: [
-      { slug: "architecture", previewMediaKeys: ["referenced-key"] },
-      { slug: "abstract" },
+    [{ mediaKey: "a", hasFile: true, metadataHash: "remote-meta" }, { mediaKey: "b", hasFile: false }, { mediaKey: "unmanaged", hasFile: true }],
+    new Set(["a", "b"]),
+    { completed: false, results: { ok: { status: "completed", failed: 0 } } },
+    [
+      { id: "ok", mode: "files", assets: [{ mediaKey: "a", contentHash: "hash-a" }] },
+      { id: "pending", mode: "files", assets: [{ mediaKey: "b", contentHash: "hash-b" }] },
     ],
-  };
-
-  assert.deepEqual(metadataForBatch(metadata, false), {
-    slug: "declaring",
-    collections: [{ slug: "architecture" }, { slug: "abstract" }],
-  });
-  assert.deepEqual(metadataForBatch(metadata, true), metadata);
-  assert.deepEqual(metadataForBatch(metadata, true, new Set(["group-a"])), metadata);
-  assert.deepEqual(metadataForBatch(metadata, true, new Set()), {
-    slug: "declaring",
-    collections: metadata.collections,
-  });
-});
-
-test("resume rejects a different plan hash but accepts the same plan", () => {
-  assert.doesNotThrow(() =>
-    assertResumePlan({ completed: false, planHash: "same" }, "same"),
   );
-  assert.throws(() =>
-    assertResumePlan({ completed: false, planHash: "old" }, "new"),
+  assert.equal(count, 1);
+  assert.deepEqual(state.assets.a.stage, { contentHash: "hash-a", metadataHash: null });
+  assert.deepEqual(state.assets.b.stage, { contentHash: null, metadataHash: null });
+  assert.equal(state.assets.unmanaged, undefined);
+  assert.equal(state.bootstrapped.stage, true);
+});
+
+test("historical results recover only an unambiguous confirmed file version", () => {
+  const state = emptyMediaSyncState();
+  state.assets.a = { dev: { contentHash: null, metadataHash: "m" } };
+  state.assets.b = { dev: { contentHash: null, metadataHash: "m" } };
+  const count = confirmHistoricalFileVersions(
+    state, "dev", [{ mediaKey: "a", hasFile: true }, { mediaKey: "b", hasFile: true }],
+    [
+      { assets: [{ mediaKey: "a", contentHash: "same" }, { mediaKey: "b", contentHash: "old" }] },
+      { assets: [{ mediaKey: "a", contentHash: "same" }, { mediaKey: "b", contentHash: "new" }] },
+    ],
   );
+  assert.equal(count, 1);
+  assert.equal(state.assets.a.dev?.contentHash, "same");
+  assert.equal(state.assets.b.dev?.contentHash, null);
 });
 
-test("global collection changes select all current assets as metadata-only", () => {
-  const selection = buildSyncSelection(
-    [{ status: "M", path: "library/collections.json" }],
-    ["first", "second"],
-  );
-
-  assert.deepEqual(Object.fromEntries(selection.assets), {
-    first: "metadata",
-    second: "metadata",
-  });
-});
-
-test("chunks deterministically and rejects invalid sizes", () => {
-  assert.deepEqual(chunk(["a", "b", "c"], 2), [["a", "b"], ["c"]]);
-  assert.throws(() => chunk(["a"], 0));
-});
-
-test("can include files for metadata-only bootstrap without overwriting changed files", () => {
-  const selection = includeFilesForMetadata({
-    assets: new Map([
-      ["metadata-only", "metadata"],
-      ["changed", "changed-file"],
-    ]),
-    deletions: ["removed"],
-  });
-
-  assert.deepEqual(Object.fromEntries(selection.assets), {
-    "metadata-only": "new-file",
-    changed: "changed-file",
-  });
-  assert.deepEqual(selection.deletions, ["removed"]);
-});
-
-test("merges explicit media delete requests into tombstones without selecting assets", () => {
-  const selection = mergeMediaDeleteList(
-    {
-      assets: new Map([["kept", "metadata"]]),
-      deletions: ["old-key"],
+test("partial failure keeps only confirmed packages in local state", async () => {
+  const state = emptyMediaSyncState();
+  const first = asset("first");
+  const second = asset("second");
+  const checkpoint = { results: {} as Record<string, { batchId: string; status: "completed"; failed: number }>, reindex: "pending" as const, completed: false };
+  const batches = [
+    { id: "first", mode: "files" as const, assets: [first], tombstones: [] },
+    { id: "second", mode: "files" as const, assets: [second], tombstones: [] },
+  ];
+  await assert.rejects(() => runCheckpointedSync(batches, checkpoint, {
+    processBatch: async (batch) => ({ batchId: batch.id, status: "completed" as const, failed: batch.id === "second" ? 1 : 0 }),
+    persist: async (next) => {
+      if (next.results.first) recordSuccessfulBatch(state, "dev", batches[0]);
     },
-    ["new-key", "old-key"],
+    reindex: async () => { throw new Error("should not reindex"); },
+  }));
+  assert.equal(selectPendingMedia([first, second], state, "dev").assets.has("first"), false);
+  assert.equal(selectPendingMedia([first, second], state, "dev").assets.get("second"), "new-file");
+  assert.deepEqual(Object.keys(checkpoint.results), ["first"]);
+});
+
+test("plan bounds file packages and finalizes metadata after ordinary packages", () => {
+  const first = asset("first", { sizeBytes: 70 });
+  const second = asset("second", { sizeBytes: 70, needsFinalization: true });
+  const plan = buildPlan(
+    { assets: new Map([["first", "new-file"], ["second", "new-file"]]), deletions: [] },
+    new Map([["first", first], ["second", second]]),
+    100, "source", "dev", 100,
   );
-
-  assert.deepEqual(Object.fromEntries(selection.assets), { kept: "metadata" });
-  assert.deepEqual(selection.deletions, ["new-key", "old-key"]);
+  assert.deepEqual(plan.batches.map((batch) => batch.mode), ["files", "files", "collection-previews"]);
+  assert.deepEqual(plan.batches.at(-1)?.assets.map((item) => item.slug), ["second"]);
 });
 
-test("sync preserves prepared files and only fills missing assets", () => {
-  const options = buildSyncPrepareOptions("/tmp/prepared-images", {
-    assets: new Map([["missing", "new-file"]]),
-    deletions: [],
-  });
-
-  assert.equal(options.keep, true);
-  assert.equal(options.createArchive, false);
-  assert.deepEqual(Array.from(options.includeSlugs ?? []), ["missing"]);
+test("finalization includes every member of a selected related group", () => {
+  const first = asset("first", { needsFinalization: true, relatedGroupKey: "group" });
+  const second = asset("second", { needsFinalization: true, relatedGroupKey: "group" });
+  const plan = buildPlan(
+    { assets: new Map([["first", "metadata"]]), deletions: [] },
+    new Map([["first", first], ["second", second]]),
+    100, "source", "dev",
+  );
+  assert.deepEqual(plan.batches.at(-1)?.assets.map((item) => item.slug), ["first", "second"]);
 });
 
-test("classifies the canonical flat prepared image file layout", () => {
+test("ordinary package omits group and preview metadata", () => {
+  const metadata = { slug: "x", relatedGroup: { key: "g" }, collections: [{ slug: "images", previewMediaKeys: ["y"] }] };
+  assert.deepEqual(metadataForBatch(metadata, false), { slug: "x", collections: [{ slug: "images" }] });
+  assert.deepEqual(metadataForBatch(metadata, true, new Set(["g"])), metadata);
+});
+
+test("prepared file layout recognizes main, thumbnail and variants", () => {
   assert.deepEqual(
-    classifyPreparedAssetFiles(
-      [
-        "/tmp/asset/asset.webp",
-        "/tmp/asset/asset_thumb.webp",
-        "/tmp/asset/asset_w1600.webp",
-        "/tmp/asset/asset_w512.webp",
-      ],
-      "asset",
-      "_thumb",
-    ),
-    {
-      main: ["/tmp/asset/asset.webp"],
-      thumbnails: ["/tmp/asset/asset_thumb.webp"],
-      variants: ["/tmp/asset/asset_w512.webp", "/tmp/asset/asset_w1600.webp"],
-    },
+    classifyPreparedAssetFiles(["/x/a.webp", "/x/a_thumb.webp", "/x/a_w640.webp"], "a", "_thumb"),
+    { main: ["/x/a.webp"], thumbnails: ["/x/a_thumb.webp"], variants: ["/x/a_w640.webp"] },
   );
-});
-
-const terminal = (batchId: string) => ({
-  batchId,
-  status: "completed" as const,
-  failed: 0,
-});
-
-const checkpoint = () => ({
-  results: {} as Record<string, ReturnType<typeof terminal>>,
-  reindex: "pending" as const,
-  completed: false,
-});
-
-test("lost response resumes the same batch from its terminal server result", async () => {
-  const state = checkpoint();
-  let attempts = 0;
-  let serverResult: ReturnType<typeof terminal> | null = null;
-  const processBatch = async ({ id }: { id: string }) => {
-    attempts += 1;
-    if (!serverResult) {
-      serverResult = terminal(id);
-      throw new Error("response lost");
-    }
-    return serverResult;
-  };
-  await assert.rejects(() =>
-    runCheckpointedSync([{ id: "batch-1" }], state, {
-      processBatch,
-      persist: async () => undefined,
-      reindex: async () => undefined,
-    }),
-  );
-  assert.deepEqual(state.results, {});
-
-  await runCheckpointedSync([{ id: "batch-1" }], state, {
-    processBatch,
-    persist: async () => undefined,
-    reindex: async () => undefined,
-  });
-  assert.equal(attempts, 2);
-  assert.equal(state.completed, true);
-});
-
-test("checkpoint write failure does not advance in-memory progress and retries safely", async () => {
-  const state = checkpoint();
-  let attempts = 0;
-  await assert.rejects(() =>
-    runCheckpointedSync([{ id: "batch-1" }], state, {
-      processBatch: async ({ id }) => {
-        attempts += 1;
-        return terminal(id);
-      },
-      persist: async () => {
-        throw new Error("checkpoint write failed");
-      },
-      reindex: async () => undefined,
-    }),
-  );
-  assert.deepEqual(state.results, {});
-
-  await runCheckpointedSync([{ id: "batch-1" }], state, {
-    processBatch: async ({ id }) => {
-      attempts += 1;
-      return terminal(id);
-    },
-    persist: async () => undefined,
-    reindex: async () => undefined,
-  });
-  assert.equal(attempts, 2);
-  assert.equal(state.completed, true);
-});
-
-test("retry after reindex failure skips completed batches and only reindexes", async () => {
-  const state = {
-    results: { "batch-1": terminal("batch-1") },
-    reindex: "pending" as const,
-    completed: false,
-  };
-  let batches = 0;
-  let reindexes = 0;
-  await assert.rejects(() =>
-    runCheckpointedSync([{ id: "batch-1" }], state, {
-      processBatch: async ({ id }) => {
-        batches += 1;
-        return terminal(id);
-      },
-      persist: async () => undefined,
-      reindex: async () => {
-        reindexes += 1;
-        throw new Error("reindex failed");
-      },
-    }),
-  );
-  await runCheckpointedSync([{ id: "batch-1" }], state, {
-    processBatch: async ({ id }) => {
-      batches += 1;
-      return terminal(id);
-    },
-    persist: async () => undefined,
-    reindex: async () => {
-      reindexes += 1;
-    },
-  });
-  assert.equal(batches, 0);
-  assert.equal(reindexes, 2);
-  assert.equal(state.completed, true);
-});
-
-test("enqueue failure stops before the next package and does not advance checkpoint", async () => {
-  const state = checkpoint();
-  const attempted: string[] = [];
-  await assert.rejects(() =>
-    runCheckpointedSync([{ id: "batch-1" }, { id: "batch-2" }], state, {
-      processBatch: async ({ id }): Promise<ReturnType<typeof terminal>> => {
-        attempted.push(id);
-        throw new Error("enqueue failed");
-      },
-      persist: async () => undefined,
-      reindex: async () => undefined,
-    }),
-  );
-  assert.deepEqual(attempted, ["batch-1"]);
-  assert.deepEqual(state.results, {});
 });

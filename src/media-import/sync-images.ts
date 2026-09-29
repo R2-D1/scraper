@@ -1,23 +1,28 @@
 import { spawn } from "node:child_process";
 import { createHash } from "node:crypto";
 import { promises as fs } from "node:fs";
+import os from "node:os";
 import path from "node:path";
 
 import {
-  buildFullSyncSelection,
-  assertResumePlan,
-  buildSyncSelection,
   classifyPreparedAssetFiles,
   chunk,
-  includeFilesForMetadata,
-  mergeMediaDeleteList,
-  parseGitNameStatus,
   runCheckpointedSync,
   type SyncAssetKind,
   type SyncInventoryItem,
 } from "./sync-images-plan";
+import {
+  confirmHistoricalFileVersions,
+  readMediaSyncState,
+  recordExplicitDeletions,
+  recordSuccessfulBatch,
+  seedTargetFromInventory,
+  selectPendingMedia,
+  writeMediaSyncState,
+  type MediaSyncState,
+} from "./media-sync-state";
 import { mediaSettings } from "../config/media-settings";
-import { MEDIA_DELETE_LIST_PATH, RELATED_IMAGE_GROUPS_PATH } from "../config/paths";
+import { LIBRARY_ROOT, MEDIA_DELETE_LIST_PATH, RELATED_IMAGE_GROUPS_PATH } from "../config/paths";
 import { readMediaDeleteList, writeMediaDeleteList } from "./media-delete-list";
 
 const ROOT = path.resolve(__dirname, "..", "..");
@@ -28,18 +33,16 @@ const TRANSPORT = path.join(ROOT, "scripts", "divnex-media-sync-transport.sh");
 const META = "media-meta.json";
 const OVERSIZE_MANIFEST = path.join(ROOT, "tmp", "oversize.json");
 const RESULT_PREFIX = "MEDIA_SYNC_RESULT=";
+const STATE_FILE = path.join(ROOT, "media-sync-state.json");
 
 type Target = "dev" | "stage" | "prod";
 type Options = {
   send: boolean;
-  full: boolean;
+  bootstrap: boolean;
   target: Target;
   divnexProject?: string;
-  baseRef?: string;
   batchSize: number;
   batchMaxBytes: number;
-  fromBatch: number;
-  withFiles: boolean;
 };
 export type Asset = {
   slug: string;
@@ -49,6 +52,8 @@ export type Asset = {
   metadataHash: string;
   directory: string;
   hasCollectionPreviews: boolean;
+  needsFinalization: boolean;
+  relatedGroupKey?: string;
   sizeBytes: number;
 };
 export type Batch = {
@@ -70,7 +75,7 @@ type BatchResult = {
   archiveChecksum?: string;
 };
 type Checkpoint = {
-  version: 1;
+  version: 1 | 2;
   target: Target;
   sourceCommit: string;
   baseCommit: string | null;
@@ -105,52 +110,45 @@ const planFile = (target: Target, planHash: string) =>
 function parseArgs(argv: readonly string[]): Options {
   const value: Options = {
     send: false,
-    full: false,
+    bootstrap: false,
     target: "dev",
     batchSize: 100,
     batchMaxBytes: 256 * 1024 * 1024,
-    fromBatch: 1,
-    withFiles: false,
   };
   for (let i = 0; i < argv.length; i += 1) {
     const arg = argv[i];
     if (arg === "--") continue;
     if (arg === "--send") value.send = true;
-    else if (arg === "--full") value.full = true;
-    else if (arg === "--with-files") value.withFiles = true;
+    else if (arg === "--bootstrap") value.bootstrap = true;
     else if (arg === "--target") {
       const target = argv[++i];
       if (target !== "dev" && target !== "stage" && target !== "prod")
         throw new Error("Невірний target.");
       value.target = target;
     } else if (arg === "--divnex-project") value.divnexProject = argv[++i];
-    else if (arg === "--base" || arg === "--since") value.baseRef = argv[++i];
     else if (
       arg === "--batch-size" ||
-      arg === "--from-batch" ||
       arg === "--batch-max-bytes"
     ) {
       const parsed = Number(argv[++i]);
       if (!Number.isInteger(parsed) || parsed < 1)
         throw new Error(`${arg} має бути додатним числом.`);
       if (arg === "--batch-size") value.batchSize = parsed;
-      else if (arg === "--batch-max-bytes") value.batchMaxBytes = parsed;
-      else value.fromBatch = parsed;
+      else value.batchMaxBytes = parsed;
     } else if (arg === "--help" || arg === "-h") {
       console.log(
         [
           "Використання:",
           "  pnpm run media:sync:images -- --target dev|stage|prod --divnex-project <path> [--send]",
-          "  Додай --full для повного metadata sync із файлами лише для відсутніх assets; звичайний запуск бере Git diff від checkpoint.",
-          "  Додатково: --base <commit>, --batch-size <n>, --from-batch <n>, --with-files.",
-          "  У повному режимі з --with-files план містить лише растрові зображення та їхні collection previews; SVG і відео не додаються.",
+          "  Перший раз для кожного середовища виконай --bootstrap --target <target> --divnex-project <path>.",
+          "  Додатково: --batch-size <n>, --batch-max-bytes <n>.",
         ].join("\n"),
       );
       process.exit(0);
     } else throw new Error(`Невідомий аргумент "${arg}".`);
   }
-  if (value.full && value.baseRef)
-    throw new Error("--full не можна поєднувати з --base.");
+  if (value.bootstrap && value.send)
+    throw new Error("--bootstrap не можна поєднувати з --send.");
   return value;
 }
 
@@ -285,7 +283,7 @@ function metadataHash(meta: Record<string, unknown>): string {
     .digest("hex");
 }
 
-async function readAssets(): Promise<Map<string, Asset>> {
+async function readAssets(liveKeys: ReadonlyMap<string, string>): Promise<Map<string, Asset>> {
   const result = new Map<string, Asset>();
   for (const entry of (
     await fs.readdir(PREPARED, { withFileTypes: true })
@@ -300,10 +298,13 @@ async function readAssets(): Promise<Map<string, Asset>> {
       collections?: Array<{ previewMediaKeys?: unknown }>;
     } & Record<string, unknown>;
     const slug = meta.slug?.trim() || entry.name;
+    const mediaKey = meta.mediaKey?.trim() || slug;
+    if (liveKeys.get(mediaKey) !== slug) continue;
+    if (result.has(slug)) throw new Error(`Дубль slug у prepared assets: ${slug}`);
     const content = await readAssetContent(directory, slug);
     result.set(slug, {
       slug,
-      mediaKey: meta.mediaKey?.trim() || slug,
+      mediaKey,
       mediaType: content.mediaType,
       directory,
       contentHash: content.hash,
@@ -315,10 +316,47 @@ async function readAssets(): Promise<Map<string, Asset>> {
             collection.previewMediaKeys.length > 0,
         ),
       ),
+      relatedGroupKey: typeof (meta.relatedGroup as { key?: unknown } | undefined)?.key === "string"
+        ? (meta.relatedGroup as { key: string }).key : undefined,
+      needsFinalization: Boolean(
+        meta.collections?.some((collection) =>
+          Array.isArray(collection.previewMediaKeys) && collection.previewMediaKeys.length > 0,
+        ) || (meta.relatedGroup as { key?: unknown } | undefined)?.key,
+      ),
       sizeBytes: await assetSizeBytes(directory),
     });
   }
   return result;
+}
+
+async function readLiveMediaKeys(): Promise<Map<string, string>> {
+  const roots = [
+    "unsplash/images", "unsplash/Illustration", "pexels/images", "pexels/videos",
+    "lummi/images", "custom-images/images", "custom-images/illustrations",
+    "ctrlv/illustrations", "undraw/illustrations",
+  ];
+  const keys = new Map<string, string>();
+  for (const root of roots) {
+    const directory = path.join(LIBRARY_ROOT, root);
+    const entries = await fs.readdir(directory, { withFileTypes: true }).catch((error) => {
+      if ((error as NodeJS.ErrnoException).code === "ENOENT") return [];
+      throw error;
+    });
+    for (const entry of entries) {
+      if (!entry.isDirectory()) continue;
+      const raw = await fs.readFile(path.join(directory, entry.name, META), "utf8").catch((error) => {
+        if ((error as NodeJS.ErrnoException).code === "ENOENT") return null;
+        throw error;
+      });
+      if (!raw) continue;
+      const meta = JSON.parse(raw) as { mediaKey?: string; slug?: string };
+      const key = meta.mediaKey?.trim() || meta.slug?.trim() || entry.name;
+      const slug = meta.slug?.trim() || entry.name;
+      if (keys.has(key)) throw new Error(`Дубль mediaKey у бібліотеці: ${key}`);
+      keys.set(key, slug);
+    }
+  }
+  return keys;
 }
 
 async function readRejectedAssetSlugs(): Promise<Set<string>> {
@@ -339,21 +377,6 @@ async function readRejectedAssetSlugs(): Promise<Set<string>> {
       .map((asset) => (typeof asset.slug === "string" ? asset.slug.trim() : ""))
       .filter(Boolean),
   );
-}
-
-async function assertCommittedLibrarySnapshot(): Promise<void> {
-  const dirty = await git([
-    "status",
-    "--porcelain",
-    "--untracked-files=all",
-    "--",
-    "library",
-  ]);
-  if (dirty) {
-    throw new Error(
-      "Remote sync потребує чистого закоміченого library snapshot; sourceCommit не може описувати незакомічені дані.",
-    );
-  }
 }
 
 async function readStoredPlan(
@@ -434,6 +457,92 @@ async function saveCheckpoint(value: Checkpoint) {
   await fs.rename(temporary, target);
 }
 
+async function bootstrapState(
+  options: Options,
+  config: NodeJS.ProcessEnv,
+  state: MediaSyncState,
+): Promise<void> {
+  if (state.bootstrapped[options.target]) {
+    throw new Error(`${options.target} уже перенесено до локального реєстру.`);
+  }
+  const inventory = await transport<{ assets: SyncInventoryItem[] }>(
+    options, config, "inventory",
+  );
+  const live = await readLiveMediaKeys();
+  const prior = await readCheckpoint(options.target);
+  const stored = prior ? await readStoredPlan(options.target, prior.planHash) : null;
+  if (prior && !stored) {
+    throw new Error(`Немає plan для checkpoint ${options.target}; перенесення зупинено.`);
+  }
+  const confirmedFiles = seedTargetFromInventory(
+    state, options.target, inventory.assets, new Set(live.keys()),
+    prior, stored?.batches ?? [],
+  );
+  if (prior && !prior.completed && stored) {
+    const byKey = new Map(inventory.assets.map((item) => [item.mediaKey, item]));
+    for (const batch of stored.batches) {
+      if ((batch.mode !== "files" && batch.mode !== "metadata") ||
+          prior.results[batch.id]?.status !== "completed" ||
+          prior.results[batch.id]?.failed !== 0) continue;
+      for (const asset of batch.assets) {
+        if (asset.hasCollectionPreviews) continue;
+        const version = state.assets[asset.mediaKey]?.[options.target];
+        const hash = byKey.get(asset.mediaKey)?.metadataHash;
+        if (!version || !hash) continue;
+        const raw = await fs.readFile(path.join(PREPARED, asset.slug, META), "utf8").catch((error) => {
+          if ((error as NodeJS.ErrnoException).code === "ENOENT") return null;
+          throw error;
+        });
+        if (!raw || (JSON.parse(raw) as { relatedGroup?: { key?: string } }).relatedGroup?.key) continue;
+        version.metadataHash = hash;
+      }
+    }
+  }
+  const plansRoot = targetPackagesRoot(options.target);
+  const planDirectories = await fs.readdir(plansRoot, { withFileTypes: true }).catch((error) => {
+    if ((error as NodeJS.ErrnoException).code === "ENOENT") return [];
+    throw error;
+  });
+  const candidateBatches = new Map<string, StoredPlan["batches"][number]>();
+  for (const entry of planDirectories) {
+    if (!entry.isDirectory()) continue;
+    const plan = await readStoredPlan(options.target, entry.name);
+    for (const batch of plan?.batches ?? []) {
+      if (batch.mode !== "files") continue;
+      if (batch.assets.some((asset) => state.assets[asset.mediaKey]?.[options.target]?.contentHash === null)) {
+        candidateBatches.set(batch.id, batch);
+      }
+    }
+  }
+  const historicalSuccesses: Array<{ assets: StoredPlan["batches"][number]["assets"] }> = [];
+  const pending = Array.from(candidateBatches.values());
+  const readHistoricalResult = async (id: string): Promise<BatchResult | null> => {
+    const workspace = config.MEDIA_IMPORT_WORKSPACE_ROOT || config.MEDIA_WORKSPACE_ROOT || "./tmp/media";
+    const file = path.join(path.resolve(options.divnexProject as string, workspace), "imports", "sync-results", `${id}.json`);
+    const raw = await fs.readFile(file, "utf8").catch((error) => {
+      if ((error as NodeJS.ErrnoException).code === "ENOENT") return null;
+      throw error;
+    });
+    return raw ? JSON.parse(raw) as BatchResult : null;
+  };
+  for (let index = 0; options.target === "dev" && index < pending.length; index += 4) {
+    const results = await Promise.all(pending.slice(index, index + 4).map(async (batch) => ({
+      batch,
+      result: await readHistoricalResult(batch.id),
+    })));
+    for (const { batch, result } of results) {
+      if (result?.status === "completed" && result.failed === 0) {
+        historicalSuccesses.push({ assets: batch.assets });
+      }
+    }
+  }
+  const recoveredFiles = confirmHistoricalFileVersions(
+    state, options.target, inventory.assets, historicalSuccesses,
+  );
+  await writeMediaSyncState(STATE_FILE, state);
+  console.log(`[images] ${options.target}: ${confirmedFiles + recoveredFiles} підтверджених версій файлів перенесено.`);
+}
+
 async function transport<T>(
   options: Options,
   config: NodeJS.ProcessEnv,
@@ -468,58 +577,6 @@ async function transport<T>(
   return JSON.parse(line.slice(RESULT_PREFIX.length)) as T;
 }
 
-async function incrementalSelection(base: string, slugs: readonly string[]) {
-  await git(["rev-parse", "--verify", `${base}^{commit}`]);
-  const diff = await git([
-    "diff",
-    "--name-status",
-    "--find-renames",
-    base,
-    "HEAD",
-    "--",
-    "library/unsplash",
-    "library/pexels",
-    "library/lummi",
-    "library/custom-images",
-    "library/collections.json",
-    "library/related-image-groups.json",
-  ]);
-  const changes = parseGitNameStatus(diff);
-  const selection = buildSyncSelection(changes, slugs);
-  selection.deletions = await Promise.all(
-    selection.deletions.map(async (slug) => {
-      const candidates = changes.flatMap((change) => [
-        change.previousPath,
-        change.path,
-      ]);
-      const root = candidates
-        .filter((value): value is string => Boolean(value))
-        .map((value) => value.replace(/\\/g, "/"))
-        .find(
-          (value) =>
-            value.includes(`/${slug}/`) &&
-            /^library\/(?:unsplash|pexels|lummi|custom-images)\/(?:images|illustrations|videos)\//.test(
-              value,
-            ),
-        )
-        ?.match(
-          /^(library\/(?:unsplash|pexels|lummi|custom-images)\/(?:images|illustrations|videos)\/[^/]+)\//,
-        )?.[1];
-      if (!root)
-        throw new Error(`Не знайдено base metadata для tombstone "${slug}".`);
-      const raw = await git(["show", `${base}:${root}/${META}`]);
-      const meta = JSON.parse(raw) as { mediaKey?: unknown };
-      if (typeof meta.mediaKey !== "string" || !meta.mediaKey.trim()) {
-        throw new Error(
-          `Base metadata не містить mediaKey для tombstone "${slug}".`,
-        );
-      }
-      return meta.mediaKey.trim();
-    }),
-  );
-  return selection;
-}
-
 function rawBatchId(
   value: Omit<Batch, "id" | "number">,
   source: string,
@@ -550,7 +607,7 @@ export function buildPlan(
     slugs: string[];
   }> = [
     { mode: "metadata", overwriteFiles: false, slugs: [] },
-    { mode: "files", overwriteFiles: false, slugs: [] },
+    { mode: "files", overwriteFiles: true, slugs: [] },
     { mode: "files", overwriteFiles: true, slugs: [] },
   ];
   for (const [slug, kind] of selection.assets)
@@ -603,14 +660,17 @@ export function buildPlan(
       tombstones: keys,
     }),
   );
-  const previewAssets = Array.from(selection.assets.keys())
-    .sort((left, right) => left.localeCompare(right, "en"))
-    .map((slug) => {
-      const asset = assets.get(slug);
-      if (!asset) throw new Error(`Не знайдено prepared asset "${slug}".`);
-      return asset;
-    })
-    .filter((asset) => asset.hasCollectionPreviews);
+  const selectedGroups = new Set(
+    Array.from(selection.assets.keys())
+      .map((slug) => assets.get(slug)?.relatedGroupKey)
+      .filter((key): key is string => Boolean(key)),
+  );
+  const previewAssets = Array.from(assets.values())
+    .filter((asset) =>
+      (selection.assets.has(asset.slug) && asset.needsFinalization) ||
+      Boolean(asset.relatedGroupKey && selectedGroups.has(asset.relatedGroupKey)),
+    )
+    .sort((left, right) => left.slug.localeCompare(right.slug, "en"));
   if (previewAssets.length) {
     raw.push({
       mode: "collection-previews",
@@ -671,6 +731,19 @@ export function metadataForBatch(
   };
 }
 
+async function completeRelatedGroupsForBatch(batch: Batch): Promise<Set<string>> {
+  const complete = new Set<string>();
+  if (batch.mode !== "collection-previews") return complete;
+  const registry = JSON.parse(
+    await fs.readFile(RELATED_IMAGE_GROUPS_PATH, "utf8"),
+  ) as { groups: Record<string, { mediaKeys: string[] }> };
+  const included = new Set(batch.assets.map((asset) => asset.mediaKey));
+  for (const [key, group] of Object.entries(registry.groups)) {
+    if (group.mediaKeys.every((mediaKey) => included.has(mediaKey))) complete.add(key);
+  }
+  return complete;
+}
+
 async function createArchive(
   batch: Batch,
   sourceCommit: string,
@@ -693,18 +766,7 @@ async function createArchive(
   await fs.rm(directory, { recursive: true, force: true });
   await fs.mkdir(directory, { recursive: true });
   try {
-    const completeRelatedGroups = new Set<string>();
-    if (batch.mode === "collection-previews") {
-      const registry = JSON.parse(
-        await fs.readFile(RELATED_IMAGE_GROUPS_PATH, "utf8"),
-      ) as { groups: Record<string, { mediaKeys: string[] }> };
-      const includedMediaKeys = new Set(batch.assets.map((asset) => asset.mediaKey));
-      for (const [key, group] of Object.entries(registry.groups)) {
-        if (group.mediaKeys.every((mediaKey) => includedMediaKeys.has(mediaKey))) {
-          completeRelatedGroups.add(key);
-        }
-      }
-    }
+    const completeRelatedGroups = await completeRelatedGroupsForBatch(batch);
     for (const asset of batch.assets) {
       const target = path.join(directory, asset.slug);
       await fs.mkdir(target, { recursive: true });
@@ -757,18 +819,26 @@ async function createArchive(
   };
 }
 
-async function main() {
+async function run(options: Options) {
   const startedAt = Date.now();
-  const options = parseArgs(process.argv.slice(2));
-  const prior = await readCheckpoint(options.target);
+  const state = await readMediaSyncState(STATE_FILE);
   const config = options.divnexProject
     ? await readEnv(path.join(path.resolve(options.divnexProject), ".env"))
     : {};
+  if (options.bootstrap) {
+    await bootstrapState(options, config, state);
+    return;
+  }
+  if (!state.bootstrapped[options.target]) {
+    throw new Error(`Спочатку виконай --bootstrap для ${options.target}.`);
+  }
+  const previousCheckpoint = await readCheckpoint(options.target);
+  const prior = previousCheckpoint?.version === 2 ? previousCheckpoint : null;
   let packages: string;
   let recoveredBatches = 0;
   let plan: { batches: Batch[]; hash: string };
   let sourceCommit: string;
-  let base: string | null;
+  const base: string | null = null;
 
   if (options.send && prior && !prior.completed) {
     const stored = await readStoredPlan(options.target, prior.planHash);
@@ -778,21 +848,11 @@ async function main() {
       );
     plan = await hydrateStoredPlan(stored, prior);
     sourceCommit = stored.sourceCommit;
-    base = stored.baseCommit;
     packages = packagesFor(options.target, plan.hash);
     console.log(
-      `[images] Відновлено plan ${plan.hash} без prepare та inventory.`,
+      `[images] Відновлено plan ${plan.hash} без повторної підготовки.`,
     );
   } else {
-    base = options.full
-      ? null
-      : (options.baseRef ?? prior?.sourceCommit ?? null);
-    if (!options.full && !base) {
-      throw new Error(
-        "Немає checkpoint. Для першого повного sync використай --full.",
-      );
-    }
-    if (options.send) await assertCommittedLibrarySnapshot();
     sourceCommit = await git(["rev-parse", "HEAD"]);
     if (options.send) {
       await transport<{ status: string }>(options, config, "cleanup");
@@ -803,40 +863,13 @@ async function main() {
       ROOT,
       process.env,
     );
-    const assets = await readAssets();
+    const liveKeys = await readLiveMediaKeys();
+    const assets = await readAssets(liveKeys);
     const rejectedAssetSlugs = await readRejectedAssetSlugs();
-    let selection;
-    if (options.full) {
-      const inventory = await transport<{ assets: SyncInventoryItem[] }>(
-        options,
-        config,
-        "inventory",
-      );
-      selection = buildFullSyncSelection(
-        Array.from(assets.values()),
-        inventory.assets,
-      );
-      if (options.withFiles) {
-        for (const slug of selection.assets.keys()) {
-          if (assets.get(slug)?.mediaType !== "raster") {
-            selection.assets.delete(slug);
-          }
-        }
-        for (const asset of assets.values()) {
-          if (asset.mediaType === "raster") {
-            selection.assets.set(asset.slug, "changed-file");
-          }
-        }
-      }
-    } else {
-      selection = await incrementalSelection(
-        base as string,
-        Array.from(assets.keys()),
-      );
-      if (options.withFiles) selection = includeFilesForMetadata(selection);
-    }
     const deleteList = await readMediaDeleteList(MEDIA_DELETE_LIST_PATH);
-    selection = mergeMediaDeleteList(selection, deleteList);
+    const selection = selectPendingMedia(
+      Array.from(assets.values()), state, options.target, deleteList, new Set(liveKeys.keys()),
+    );
     const rejectedSelected = Array.from(selection.assets.keys()).filter(
       (slug) => rejectedAssetSlugs.has(slug),
     );
@@ -845,6 +878,11 @@ async function main() {
       console.log(
         `[images] Gate відхилив ${rejectedSelected.length} assets; їх виключено з sync plan: ${rejectedSelected.join(", ")}.`,
       );
+    }
+    if (options.send && deleteList.length) {
+      recordExplicitDeletions(state, deleteList);
+      await writeMediaSyncState(STATE_FILE, state);
+      await writeMediaDeleteList([], MEDIA_DELETE_LIST_PATH);
     }
     plan = buildPlan(
       selection,
@@ -897,12 +935,18 @@ async function main() {
     console.log("[images] Відправку не виконано.");
     return;
   }
-  assertResumePlan(prior, plan.hash);
+  if (prior && !prior.completed && prior.planHash !== plan.hash) {
+    throw new Error("Незавершений checkpoint належить іншому плану.");
+  }
+  if (!plan.batches.length) {
+    console.log(`[images] Для ${options.target} немає змін.`);
+    return;
+  }
   const checkpoint: Checkpoint =
     prior?.planHash === plan.hash
       ? prior
       : {
-          version: 1,
+          version: 2,
           target: options.target,
           sourceCommit,
           baseCommit: base,
@@ -912,6 +956,7 @@ async function main() {
           completed: false,
         };
   await saveCheckpoint(checkpoint);
+  const appliedResults = new Set(Object.keys(checkpoint.results));
   await runCheckpointedSync(plan.batches, checkpoint, {
     processBatch: async (batch) => {
       let result = await transport<BatchResult | null>(
@@ -928,11 +973,6 @@ async function main() {
           `[images] Пакет ${batch.number}/${plan.batches.length} відновлено з durable result.`,
         );
         return result;
-      }
-      if (batch.number < options.fromBatch) {
-        throw new Error(
-          `--from-batch не може пропустити пакет без terminal success: ${batch.id}.`,
-        );
       }
       try {
         if (batch.mode === "tombstones") {
@@ -990,7 +1030,20 @@ async function main() {
       );
       return result;
     },
-    persist: saveCheckpoint,
+    persist: async (next) => {
+      for (const batch of plan.batches) {
+        if (!next.results[batch.id] || appliedResults.has(batch.id)) continue;
+        recordSuccessfulBatch(
+          state,
+          options.target,
+          batch,
+          await completeRelatedGroupsForBatch(batch),
+        );
+      }
+      await writeMediaSyncState(STATE_FILE, state);
+      await saveCheckpoint(next);
+      for (const id of Object.keys(next.results)) appliedResults.add(id);
+    },
     reindex: async () => {
       const result = await transport<{ status: string }>(
         options,
@@ -1001,7 +1054,6 @@ async function main() {
         throw new Error("Переіндексація не завершена.");
     },
   });
-  await writeMediaDeleteList([], MEDIA_DELETE_LIST_PATH);
   const totals = Object.values(checkpoint.results).reduce(
     (sum, item) => ({
       imported: sum.imported + item.imported,
@@ -1015,6 +1067,39 @@ async function main() {
   console.log(
     `[images] Sync завершено: ${JSON.stringify({ target: options.target, planHash: plan.hash, recoveredBatches, ...totals, packages: Object.keys(checkpoint.results).length, reindex: checkpoint.reindex, durationMs: Date.now() - startedAt })}`,
   );
+}
+
+async function main() {
+  const options = parseArgs(process.argv.slice(2));
+  const lockFile = `${STATE_FILE}.lock`;
+  let lock: Awaited<ReturnType<typeof fs.open>>;
+  for (;;) {
+    try {
+      lock = await fs.open(lockFile, "wx");
+      break;
+    } catch (error) {
+      if ((error as NodeJS.ErrnoException).code !== "EEXIST") throw error;
+      const raw = await fs.readFile(lockFile, "utf8").catch(() => "");
+      const owner = raw ? JSON.parse(raw) as { pid?: number; host?: string } : {};
+      if (owner.host !== os.hostname() || !owner.pid) {
+        throw new Error("Інший процес використовує реєстр синхронізації.");
+      }
+      try {
+        process.kill(owner.pid, 0);
+        throw new Error("Інший процес використовує реєстр синхронізації.");
+      } catch (probeError) {
+        if ((probeError as NodeJS.ErrnoException).code !== "ESRCH") throw probeError;
+        await fs.rm(lockFile, { force: true });
+      }
+    }
+  }
+  try {
+    await lock.writeFile(JSON.stringify({ pid: process.pid, host: os.hostname() }));
+    await run(options);
+  } finally {
+    await lock.close();
+    await fs.rm(lockFile, { force: true });
+  }
 }
 
 if (require.main === module)

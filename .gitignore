@@ -13,3 +13,4 @@ tmp/*
 /intake/lummi/*
 !/intake/lummi/.gitkeep
 ._*
+/media-sync-state.json.lock
