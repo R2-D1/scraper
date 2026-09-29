@@ -1,5 +1,6 @@
 import { promises as fs, Dirent } from 'node:fs';
 import path from 'node:path';
+import { markMediaPendingForMetadata } from '../media-import/media-sync-state';
 
 import { getUnsplashMediaDir, UNSPLASH_INTAKE_ROOT, UNSPLASH_MISSING_DOWNLOADS_PATH, UnsplashMediaKind } from '../config/paths';
 import {
@@ -392,6 +393,7 @@ async function main(): Promise<void> {
     assertImageDisplayNames(meta, `Unsplash "${slug}"`);
     const metaPath = path.join(outputDir, 'media-meta.json');
     await fs.writeFile(metaPath, `${JSON.stringify(meta, null, 2)}\n`, 'utf-8');
+    await markMediaPendingForMetadata(metaPath, 'file');
 
     await Promise.all([tagStore.writeMissingRecords(), nameStore.writeMissingRecords()]);
 

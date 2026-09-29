@@ -1,5 +1,6 @@
 import { promises as fs, Dirent } from 'node:fs';
 import path from 'node:path';
+import { markMediaPendingForMetadata } from '../media-import/media-sync-state';
 
 import { TAG_TRANSLATIONS_PATH } from '../config/paths';
 import { dedupeStrings, moveCyrillicTokensToUk, normalizeToken } from '../i18n/utils';
@@ -306,6 +307,7 @@ async function main(): Promise<void> {
 
     if (!options.dryRun) {
       await fs.writeFile(metaPath, `${JSON.stringify(nextMeta, null, 2)}\n`, 'utf-8');
+      await markMediaPendingForMetadata(metaPath, 'metadata');
     }
     updated += 1;
   }

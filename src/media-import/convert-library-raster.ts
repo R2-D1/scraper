@@ -1,5 +1,6 @@
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
+import { markMediaPendingForMetadata } from './media-sync-state';
 
 import sharp from 'sharp';
 
@@ -72,6 +73,7 @@ async function convertOne(sourcePath: string, apply: boolean): Promise<{ changed
     if ((error as NodeJS.ErrnoException).code !== 'ENOENT') throw error;
   }
   if (targetPath !== sourcePath) await fs.rm(sourcePath);
+  await markMediaPendingForMetadata(metaPath, 'file');
   return { changed: true, saved: original.length - candidate.buffer.length };
 }
 

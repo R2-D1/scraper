@@ -2,11 +2,10 @@ import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
 import {
-  MEDIA_DELETE_LIST_PATH,
   RELATED_IMAGE_GROUPS_PATH,
   PEXELS_IMAGES_ROOT,
 } from '../config/paths';
-import { readMediaDeleteList, writeMediaDeleteList } from '../media-import/media-delete-list';
+import { markMediaPendingInProject } from '../media-import/media-sync-state';
 import {
   loadRelatedImageGroupRegistry,
   normalizeRelatedImageGroup,
@@ -39,11 +38,8 @@ async function main(): Promise<void> {
     }
   }
 
-  const deleteListPath = path.join(PROJECT_ROOT, path.relative(PROJECT_ROOT, MEDIA_DELETE_LIST_PATH));
-  const existingDeleteList = await readMediaDeleteList(deleteListPath);
-  await writeMediaDeleteList([...existingDeleteList, ...matched.map(item => item.mediaKey)], deleteListPath);
-
   for (const item of matched) {
+    await markMediaPendingInProject(PROJECT_ROOT, item.mediaKey, 'delete');
     await fs.rm(item.dir, { recursive: true, force: true });
     await fs.rm(path.join(PROJECT_ROOT, 'tmp', 'images', item.slug), { recursive: true, force: true });
   }
@@ -51,6 +47,13 @@ async function main(): Promise<void> {
   const groupsPath = path.join(PROJECT_ROOT, path.relative(PROJECT_ROOT, RELATED_IMAGE_GROUPS_PATH));
   const groups = await loadRelatedImageGroupRegistry(groupsPath);
   const removedKeys = new Set(matched.map(item => item.mediaKey));
+  for (const group of groups.values()) {
+    if (group.mediaKeys.some(key => removedKeys.has(key))) {
+      for (const key of group.mediaKeys) {
+        if (!removedKeys.has(key)) await markMediaPendingInProject(PROJECT_ROOT, key, 'metadata');
+      }
+    }
+  }
   const nextGroups = new Map<string, ReturnType<typeof normalizeRelatedImageGroup>>();
   for (const [key, group] of groups) {
     const mediaKeys = group.mediaKeys.filter(mediaKey => !removedKeys.has(mediaKey));

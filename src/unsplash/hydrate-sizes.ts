@@ -1,5 +1,6 @@
 import { promises as fs, Dirent } from 'node:fs';
 import path from 'node:path';
+import { markMediaPendingForMetadata } from '../media-import/media-sync-state';
 
 import sharp from 'sharp';
 
@@ -135,6 +136,7 @@ async function hydrateMeta(metaPath: string): Promise<HydrationResult> {
 
   const serialized = `${JSON.stringify(next, null, 2)}\n`;
   await fs.writeFile(metaPath, serialized, 'utf-8');
+  await markMediaPendingForMetadata(metaPath, 'metadata');
   return 'updated';
 }
 

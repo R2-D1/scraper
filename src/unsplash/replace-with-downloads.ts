@@ -1,5 +1,6 @@
 import { promises as fs, Dirent, Stats } from 'node:fs';
 import path from 'node:path';
+import { markMediaPendingForMetadata } from '../media-import/media-sync-state';
 
 import { UNSPLASH_INTAKE_ROOT } from '../config/paths';
 import { MEDIA_META_FILE, findMediaDir, listLibraryEntries } from './library-paths';
@@ -259,6 +260,7 @@ async function processEntry(
 
   console.log(`• ${slug}: знайдено ${match.name} (розмір ${match.size} байт), заміна ${path.basename(targetPath)}.`);
   await copyFileWithLogging(match.path, targetPath, apply);
+  if (apply) await markMediaPendingForMetadata(path.join(mediaDir, 'media-meta.json'), 'file');
 }
 
 async function main(): Promise<void> {

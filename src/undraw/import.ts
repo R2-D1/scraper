@@ -1,6 +1,7 @@
 import { randomUUID } from "node:crypto";
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { markMediaPendingForMetadata } from "../media-import/media-sync-state";
 
 import { UNDRAW_ILLUSTRATIONS_ROOT } from "../config/paths";
 import { updateImageTranslations } from "../scripts/update-unsplash-translations";
@@ -181,6 +182,7 @@ async function writeItem(item: UndrawItem): Promise<ImportResult> {
   await fs.mkdir(dir, { recursive: true });
   await fs.writeFile(path.join(dir, `${slug}.svg`), `${svg}\n`, "utf8");
   await fs.writeFile(path.join(dir, "media-meta.json"), `${JSON.stringify(metadata, null, 2)}\n`, "utf8");
+  await markMediaPendingForMetadata(path.join(dir, "media-meta.json"), "file");
   return { slug };
 }
 

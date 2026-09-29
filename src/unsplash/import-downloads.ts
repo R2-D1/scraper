@@ -1,6 +1,7 @@
 import { promises as fs, Dirent } from 'node:fs';
 import { execFile } from 'node:child_process';
 import path from 'node:path';
+import { markMediaPendingForMetadata } from '../media-import/media-sync-state';
 import { promisify } from 'node:util';
 
 import {
@@ -387,6 +388,7 @@ async function processDownloadFile(
 
   const metaPath = path.join(outputDir, MEDIA_META_FILE);
   await fs.writeFile(metaPath, `${JSON.stringify(meta, null, 2)}\n`, 'utf-8');
+  await markMediaPendingForMetadata(metaPath, 'file');
 
   // Додаємо посилання у відповідний файл ресурсів
   await appendToLibraryFile(photo.links.html, libraryKind);

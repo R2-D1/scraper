@@ -1,5 +1,6 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { markMediaPendingForMetadata } from "../media-import/media-sync-state";
 
 import {
   getPexelsVideoDir,
@@ -233,6 +234,7 @@ async function writeAsset(
     "utf8",
   );
   await fs.rename(temporary, metaPath);
+  await markMediaPendingForMetadata(metaPath, "file");
   return "downloaded";
 }
 

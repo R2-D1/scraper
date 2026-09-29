@@ -1,15 +1,18 @@
 import assert from "node:assert/strict";
 import test from "node:test";
+import { promises as fs } from "node:fs";
+import os from "node:os";
+import path from "node:path";
 
 import { buildPlan, metadataForBatch, type Asset } from "./sync-images";
 import { classifyPreparedAssetFiles, runCheckpointedSync } from "./sync-images-plan";
 import {
-  confirmHistoricalFileVersions,
   emptyMediaSyncState,
-  recordExplicitDeletions,
+  markMediaPending,
+  readMediaSyncState,
   recordSuccessfulBatch,
-  seedTargetFromInventory,
   selectPendingMedia,
+  updateMediaSyncState,
 } from "./media-sync-state";
 
 const asset = (slug: string, overrides: Partial<Asset> = {}): Asset => ({
@@ -24,93 +27,76 @@ const asset = (slug: string, overrides: Partial<Asset> = {}): Asset => ({
   ...overrides,
 });
 
-test("each environment independently selects new, changed file and changed metadata", () => {
+test("new and changed media are tracked only while environments need them", () => {
   const state = emptyMediaSyncState();
-  const first = asset("first");
-  assert.equal(selectPendingMedia([first], state, "dev").assets.get("first"), "new-file");
-  recordSuccessfulBatch(state, "dev", { mode: "files", assets: [first], tombstones: [] });
-  assert.equal(selectPendingMedia([first], state, "dev").assets.size, 0);
-  assert.equal(selectPendingMedia([first], state, "stage").assets.get("first"), "new-file");
-  assert.equal(selectPendingMedia([{ ...first, metadataHash: "new-metadata" }], state, "dev").assets.get("first"), "metadata");
-  assert.equal(selectPendingMedia([{ ...first, contentHash: "new-content" }], state, "dev").assets.get("first"), "changed-file");
+  const first = asset("first", { syncRevision: 1 });
+  markMediaPending(state, first.mediaKey, "file");
+  assert.deepEqual(Object.keys(state.pending), [first.mediaKey]);
+  for (const target of ["dev", "stage", "prod"] as const) {
+    assert.equal(selectPendingMedia([first], state, target).assets.get("first"), "changed-file");
+    recordSuccessfulBatch(state, target, { mode: "files", assets: [first], tombstones: [] });
+  }
+  assert.deepEqual(state.pending, {});
+  markMediaPending(state, first.mediaKey, "metadata");
+  assert.equal(selectPendingMedia([first], state, "dev").assets.get("first"), "metadata");
+  assert.equal(selectPendingMedia([first], state, "stage").assets.get("first"), "metadata");
 });
 
 test("metadata requiring finalization stays pending until its final package succeeds", () => {
   const state = emptyMediaSyncState();
-  const first = asset("first", { needsFinalization: true, hasCollectionPreviews: true });
+  const first = asset("first", { syncRevision: 1, needsFinalization: true, hasCollectionPreviews: true });
+  markMediaPending(state, first.mediaKey, "file");
   recordSuccessfulBatch(state, "stage", { mode: "files", assets: [first], tombstones: [] });
   assert.equal(selectPendingMedia([first], state, "stage").assets.get("first"), "metadata");
   recordSuccessfulBatch(state, "stage", { mode: "collection-previews", assets: [first], tombstones: [] });
   assert.equal(selectPendingMedia([first], state, "stage").assets.size, 0);
 });
 
-test("deletions are confirmed per environment and persist for the others", () => {
+test("deletions are confirmed separately and removed after the last environment", () => {
   const state = emptyMediaSyncState();
-  const first = asset("first");
+  markMediaPending(state, "deleted-key", "delete");
+  const tombstone = { mode: "tombstones" as const, assets: [], tombstones: ["deleted-key"] };
   for (const target of ["dev", "stage", "prod"] as const) {
-    recordSuccessfulBatch(state, target, { mode: "files", assets: [first], tombstones: [] });
+    assert.deepEqual(selectPendingMedia([], state, target).deletions, ["deleted-key"]);
+    recordSuccessfulBatch(state, target, tombstone, new Set(), { "deleted-key": 1 });
   }
-  recordExplicitDeletions(state, [first.mediaKey]);
-  const tombstone = { mode: "tombstones" as const, assets: [], tombstones: [first.mediaKey] };
-  recordSuccessfulBatch(state, "stage", tombstone);
-  assert.deepEqual(selectPendingMedia([], state, "stage").deletions, []);
-  assert.deepEqual(selectPendingMedia([], state, "dev").deletions, [first.mediaKey]);
-  assert.deepEqual(selectPendingMedia([], state, "prod").deletions, [first.mediaKey]);
+  assert.deepEqual(state.pending, {});
 });
 
-test("a queued deletion cannot silently remove media still in the library", () => {
+test("editing during an in-flight package keeps the new revision pending", () => {
   const state = emptyMediaSyncState();
-  const first = asset("first");
-  assert.throws(() => selectPendingMedia([first], state, "dev", [first.mediaKey]));
-});
-
-test("unprepared live media is never mistaken for a deletion", () => {
-  const state = emptyMediaSyncState();
-  const first = asset("oversize");
+  const first = asset("first", { syncRevision: 1 });
+  markMediaPending(state, first.mediaKey, "file");
+  markMediaPending(state, first.mediaKey, "metadata");
   recordSuccessfulBatch(state, "dev", { mode: "files", assets: [first], tombstones: [] });
-  assert.deepEqual(selectPendingMedia([], state, "dev", [], new Set([first.mediaKey])).deletions, []);
+  assert.equal(selectPendingMedia([first], state, "dev").assets.get("first"), "changed-file");
 });
 
-test("bootstrap trusts only server inventory and confirmed file packages", () => {
-  const state = emptyMediaSyncState();
-  const count = seedTargetFromInventory(
-    state,
-    "stage",
-    [{ mediaKey: "a", hasFile: true, metadataHash: "remote-meta" }, { mediaKey: "b", hasFile: false }, { mediaKey: "unmanaged", hasFile: true }],
-    new Set(["a", "b"]),
-    { completed: false, results: { ok: { status: "completed", failed: 0 } } },
-    [
-      { id: "ok", mode: "files", assets: [{ mediaKey: "a", contentHash: "hash-a" }] },
-      { id: "pending", mode: "files", assets: [{ mediaKey: "b", contentHash: "hash-b" }] },
-    ],
-  );
-  assert.equal(count, 1);
-  assert.deepEqual(state.assets.a.stage, { contentHash: "hash-a", metadataHash: null });
-  assert.deepEqual(state.assets.b.stage, { contentHash: null, metadataHash: null });
-  assert.equal(state.assets.unmanaged, undefined);
-  assert.equal(state.bootstrapped.stage, true);
+test("concurrent edits merge into the small pending queue", async () => {
+  const root = await fs.mkdtemp(path.join(os.tmpdir(), "media-sync-state-"));
+  const file = path.join(root, "media-sync-state.json");
+  try {
+    await Promise.all(Array.from({ length: 10 }, (_, index) =>
+      updateMediaSyncState(file, (state) => markMediaPending(state, `asset-${index}`, "metadata"))));
+    assert.equal(Object.keys((await readMediaSyncState(file)).pending).length, 10);
+  } finally {
+    await fs.rm(root, { recursive: true, force: true });
+  }
 });
 
-test("historical results recover only an unambiguous confirmed file version", () => {
-  const state = emptyMediaSyncState();
-  state.assets.a = { dev: { contentHash: null, metadataHash: "m" } };
-  state.assets.b = { dev: { contentHash: null, metadataHash: "m" } };
-  const count = confirmHistoricalFileVersions(
-    state, "dev", [{ mediaKey: "a", hasFile: true }, { mediaKey: "b", hasFile: true }],
-    [
-      { assets: [{ mediaKey: "a", contentHash: "same" }, { mediaKey: "b", contentHash: "old" }] },
-      { assets: [{ mediaKey: "a", contentHash: "same" }, { mediaKey: "b", contentHash: "new" }] },
-    ],
-  );
-  assert.equal(count, 1);
-  assert.equal(state.assets.a.dev?.contentHash, "same");
-  assert.equal(state.assets.b.dev?.contentHash, null);
-});
-
-test("partial failure keeps only confirmed packages in local state", async () => {
+test("a queued deletion cannot remove media still in the library", () => {
   const state = emptyMediaSyncState();
   const first = asset("first");
-  const second = asset("second");
+  markMediaPending(state, first.mediaKey, "delete");
+  assert.throws(() => selectPendingMedia([first], state, "dev"));
+});
+
+test("partial failure keeps only unfinished records in the queue", async () => {
+  const state = emptyMediaSyncState();
+  const first = asset("first", { syncRevision: 1 });
+  const second = asset("second", { syncRevision: 1 });
+  markMediaPending(state, first.mediaKey, "file");
+  markMediaPending(state, second.mediaKey, "file");
   const checkpoint = { results: {} as Record<string, { batchId: string; status: "completed"; failed: number }>, reindex: "pending" as const, completed: false };
   const batches = [
     { id: "first", mode: "files" as const, assets: [first], tombstones: [] },
@@ -124,7 +110,7 @@ test("partial failure keeps only confirmed packages in local state", async () =>
     reindex: async () => { throw new Error("should not reindex"); },
   }));
   assert.equal(selectPendingMedia([first, second], state, "dev").assets.has("first"), false);
-  assert.equal(selectPendingMedia([first, second], state, "dev").assets.get("second"), "new-file");
+  assert.equal(selectPendingMedia([first, second], state, "dev").assets.get("second"), "changed-file");
   assert.deepEqual(Object.keys(checkpoint.results), ["first"]);
 });
 

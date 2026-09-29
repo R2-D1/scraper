@@ -1,6 +1,7 @@
 import { randomUUID } from "node:crypto";
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { markMediaPendingForMetadata } from "../media-import/media-sync-state";
 
 import { CTRLV_ILLUSTRATIONS_ROOT } from "../config/paths";
 import { updateImageTranslations } from "../scripts/update-unsplash-translations";
@@ -174,6 +175,7 @@ async function writeRecord(item: CtrlvIllustration, slug: string, svg: string, c
   await fs.mkdir(dir, { recursive: true });
   await fs.writeFile(path.join(dir, `${slug}.svg`), svg, "utf8");
   await fs.writeFile(path.join(dir, "media-meta.json"), `${JSON.stringify(metadata, null, 2)}\n`, "utf8");
+  await markMediaPendingForMetadata(path.join(dir, "media-meta.json"), "file");
 }
 
 async function main(): Promise<void> {

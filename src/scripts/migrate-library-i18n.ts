@@ -1,6 +1,7 @@
 import { randomUUID } from "node:crypto";
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { markMediaPendingForMetadata } from "../media-import/media-sync-state";
 
 import {
   ICONIFY_LIBRARY_ROOT,
@@ -325,6 +326,7 @@ async function migrateUnsplash(options: CliOptions): Promise<void> {
         `${JSON.stringify(next, null, 2)}\n`,
         "utf-8",
       );
+      await markMediaPendingForMetadata(metaPath, "metadata");
     }
     updated += 1;
   }

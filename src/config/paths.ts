@@ -11,10 +11,6 @@ export const RELATED_IMAGE_GROUPS_PATH = path.join(
   LIBRARY_ROOT,
   "related-image-groups.json",
 );
-export const MEDIA_DELETE_LIST_PATH = path.join(
-  LIBRARY_ROOT,
-  "media-delete-list.json",
-);
 export const UNSPLASH_AUTHOR_BLACKLIST_PATH = path.join(
   LIBRARY_ROOT,
   "unsplash-author-blacklist.json",

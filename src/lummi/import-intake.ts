@@ -1,6 +1,7 @@
 import { randomUUID } from "node:crypto";
 import { promises as fs, Dirent } from "node:fs";
 import path from "node:path";
+import { markMediaPendingForMetadata } from "../media-import/media-sync-state";
 
 import { getLummiMediaDir, LUMMI_INTAKE_ROOT, MEDIA_COLLECTION_REGISTRY_PATH } from "../config/paths";
 import { assertImageDisplayNames } from "../media-import/image-name-validation";
@@ -335,6 +336,7 @@ async function main(): Promise<void> {
       collectionAssignments += 1;
     }
     await fs.writeFile(path.join(outputDir, MEDIA_META_FILE), `${JSON.stringify(metadata, null, 2)}\n`, "utf8");
+    await markMediaPendingForMetadata(path.join(outputDir, MEDIA_META_FILE), "file");
     imported.push({ slug, jsonPath: item.jsonPath });
     cleanupPaths.push(item.jsonPath, ...item.duplicateJsonPaths);
     console.log(`✔ Завантажено та імпортовано Lummi ${slug}.`);
@@ -346,6 +348,7 @@ async function main(): Promise<void> {
   }
   for (const { outputDir, metadata } of stagedExistingMetadata) {
     await fs.writeFile(path.join(outputDir, MEDIA_META_FILE), `${JSON.stringify(metadata, null, 2)}\n`, "utf8");
+    await markMediaPendingForMetadata(path.join(outputDir, MEDIA_META_FILE), "metadata");
   }
   for (const jsonPath of cleanupPaths) {
     await fs.rm(jsonPath, { force: true });

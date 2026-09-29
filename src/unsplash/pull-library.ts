@@ -1,11 +1,14 @@
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
+import { markMediaPendingInProject } from '../media-import/media-sync-state';
+import { loadRelatedImageGroupRegistry } from '../media-import/related-image-groups';
 import { spawn } from 'node:child_process';
 
 import {
   UNSPLASH_ILLUSTRATIONS_LIBRARY_LIST_PATH,
   UNSPLASH_LIBRARY_LIST_PATH,
   UNSPLASH_MISSING_DOWNLOADS_PATH,
+  RELATED_IMAGE_GROUPS_PATH,
 } from '../config/paths';
 import { MEDIA_META_FILE, findMediaDir, listLibraryEntries } from './library-paths';
 import { extractPhotoSlugFromUrl, sanitizeSegment } from './utils';
@@ -219,11 +222,22 @@ async function mediaAlreadyComplete(slug: string, missingSlugs: Set<string>): Pr
 async function removeUnlistedMedia(keepSlugs: Set<string>): Promise<string[]> {
   const removed: string[] = [];
   const entries = await listLibraryEntries();
+  const groups = await loadRelatedImageGroupRegistry(RELATED_IMAGE_GROUPS_PATH);
   for (const entry of entries) {
     if (keepSlugs.has(entry.slug)) {
       continue;
     }
 
+    const meta = JSON.parse(await fs.readFile(path.join(entry.dir, MEDIA_META_FILE), 'utf8')) as { mediaKey?: string; slug?: string };
+    const mediaKey = meta.mediaKey || meta.slug || entry.slug;
+    await markMediaPendingInProject(PROJECT_ROOT, mediaKey, 'delete');
+    for (const group of groups.values()) {
+      if (group.mediaKeys.includes(mediaKey)) {
+        for (const peer of group.mediaKeys) {
+          if (peer !== mediaKey) await markMediaPendingInProject(PROJECT_ROOT, peer, 'metadata');
+        }
+      }
+    }
     await fs.rm(entry.dir, { recursive: true, force: true });
     removed.push(entry.slug);
   }

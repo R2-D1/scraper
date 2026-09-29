@@ -1,5 +1,6 @@
 import { promises as fs, Dirent } from 'node:fs';
 import path from 'node:path';
+import { markMediaPendingForMetadata } from '../media-import/media-sync-state';
 
 import {
   UNSPLASH_ILLUSTRATIONS_ROOT,
@@ -198,6 +199,7 @@ async function main(): Promise<void> {
       }
       if (!options.dryRun) {
         await fs.writeFile(metaPath, `${JSON.stringify(next, null, 2)}\n`, 'utf-8');
+        await markMediaPendingForMetadata(metaPath, 'metadata');
       }
       updated += 1;
     } catch (error) {

@@ -2,7 +2,7 @@ import { createServer, IncomingMessage, ServerResponse } from 'node:http';
 import { promises as fs, createReadStream } from 'node:fs';
 import path from 'node:path';
 
-import { CTRLV_LIBRARY_ROOT, LUMMI_IMAGES_ROOT, MEDIA_DELETE_LIST_PATH, PEXELS_IMAGES_ROOT, RELATED_IMAGE_GROUPS_PATH, UNDRAW_LIBRARY_ROOT } from '../config/paths';
+import { CTRLV_LIBRARY_ROOT, LUMMI_IMAGES_ROOT, PEXELS_IMAGES_ROOT, RELATED_IMAGE_GROUPS_PATH, UNDRAW_LIBRARY_ROOT } from '../config/paths';
 import {
   buildRelatedImageGroupByMediaKey,
   createRelatedImageGroupKey,
@@ -14,7 +14,7 @@ import {
   type RelatedImageGroupDefinition,
   type RelatedImageGroupRegistry,
 } from '../media-import/related-image-groups';
-import { readMediaDeleteList, writeMediaDeleteList } from '../media-import/media-delete-list';
+import { markMediaPendingInProject } from '../media-import/media-sync-state';
 
 const PROJECT_ROOT = path.resolve(__dirname, '..', '..');
 const DEFAULT_PUBLIC_ROOT = path.join(PROJECT_ROOT, 'src', 'media-library-viewer', 'public');
@@ -154,6 +154,7 @@ async function updateItem(item: MediaItem, input: Record<string, unknown>, colle
   next.i18n = { ...(next.i18n ?? {}), name: { en: en.trim(), uk: uk.trim() } };
   const previousTranslationPath = path.join(root, 'translations', 'images', 'name-translations.json');
   let previousTranslations: string | undefined;
+  await markMediaPendingInProject(root, item.mediaKey, 'metadata');
   try {
     if (item.source === 'unsplash' || item.source === 'pexels' || item.source === 'lummi') {
       previousTranslations = await fs.readFile(previousTranslationPath, 'utf8');
@@ -174,8 +175,14 @@ async function deleteItem(
   relatedGroups: RelatedImageGroupRegistry,
   root: string,
 ): Promise<void> {
-  const deleteList = await readMediaDeleteList(path.join(root, path.relative(PROJECT_ROOT, MEDIA_DELETE_LIST_PATH)));
-  await writeMediaDeleteList([...deleteList, item.mediaKey], path.join(root, path.relative(PROJECT_ROOT, MEDIA_DELETE_LIST_PATH)));
+  await markMediaPendingInProject(root, item.mediaKey, 'delete');
+  for (const group of relatedGroups.values()) {
+    if (group.mediaKeys.includes(item.mediaKey)) {
+      for (const mediaKey of group.mediaKeys) {
+        if (mediaKey !== item.mediaKey) await markMediaPendingInProject(root, mediaKey, 'metadata');
+      }
+    }
+  }
   await fs.rm(path.dirname(item.metaPath), { recursive: true, force: true });
   await fs.rm(path.join(root, 'tmp', 'images', item.slug), { recursive: true, force: true });
   await fs.rm(path.join(root, 'tmp', 'custom-images', 'images', item.slug), { recursive: true, force: true });
@@ -280,6 +287,15 @@ export function createViewerServer(options: ViewerOptions = {}) {
           mediaKey: item.mediaKey,
           category: item.category?.key ?? '',
         })));
+        const affected = new Set<string>();
+        for (const groupKey of new Set([...relatedGroups.keys(), ...nextGroups.keys()])) {
+          if (JSON.stringify(relatedGroups.get(groupKey)) === JSON.stringify(nextGroups.get(groupKey))) continue;
+          for (const mediaKey of relatedGroups.get(groupKey)?.mediaKeys ?? []) affected.add(mediaKey);
+          for (const mediaKey of nextGroups.get(groupKey)?.mediaKeys ?? []) affected.add(mediaKey);
+        }
+        for (const mediaKey of affected) {
+          await markMediaPendingInProject(root, mediaKey, 'metadata');
+        }
         await writeAtomic(relatedGroupsPath, serializeRelatedImageGroups(nextGroups));
         relatedGroupsCache = undefined;
         return json(res, 200, { key });
@@ -292,6 +308,7 @@ export function createViewerServer(options: ViewerOptions = {}) {
         }
         const nextGroups = new Map(relatedGroups);
         nextGroups.delete(key);
+        for (const mediaKey of relatedGroups.get(key)?.mediaKeys ?? []) await markMediaPendingInProject(root, mediaKey, 'metadata');
         await writeAtomic(relatedGroupsPath, serializeRelatedImageGroups(nextGroups));
         relatedGroupsCache = undefined;
         return json(res, 200, { ok: true });
@@ -313,6 +330,9 @@ export function createViewerServer(options: ViewerOptions = {}) {
         const collectionsPath = path.join(root, 'library', 'collections.json');
         const raw = await readJson<{ schemaVersion: number; collections: Record<string, Record<string, unknown>> }>(collectionsPath);
         raw.collections[collectionSlug] = { ...raw.collections[collectionSlug], previewMediaKeys: [item.mediaKey] };
+        for (const member of media.filter(candidate => candidate.collectionSlugs?.includes(collectionSlug))) {
+          await markMediaPendingInProject(root, member.mediaKey, 'metadata');
+        }
         await writeAtomic(collectionsPath, `${JSON.stringify(raw, null, 2)}\n`);
         collectionsCache = undefined;
         return json(res, 200, { ok: true, collectionSlug, mediaKey: item.mediaKey });
@@ -350,6 +370,7 @@ export function createViewerServer(options: ViewerOptions = {}) {
         if (targetCollections.some(collection => collection!.category !== category) || selected.some(item => item.category?.key !== category)) throw new Error('Колекції мають відповідати категорії зображень.');
         if (fromCollectionSlug && collections.get(fromCollectionSlug)?.category !== category) throw new Error('Початкова колекція має відповідати категорії зображень.');
         const previous = await Promise.all(selected.map(async item => ({ item, raw: await fs.readFile(item.metaPath, 'utf8') })));
+        for (const item of selected) await markMediaPendingInProject(root, item.mediaKey, 'metadata');
         try {
           for (const { item } of previous) {
             const next = { ...item, collectionSlugs: [...new Set([...(item.collectionSlugs ?? []).filter(slug => slug !== fromCollectionSlug), ...collectionSlugs])] };

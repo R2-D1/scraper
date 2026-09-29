@@ -1,11 +1,14 @@
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
+import { markMediaPendingInProject } from '../media-import/media-sync-state';
+import { loadRelatedImageGroupRegistry } from '../media-import/related-image-groups';
 
 import { listLibraryEntries, MEDIA_META_FILE } from './library-paths';
 import {
   UNSPLASH_ILLUSTRATIONS_LIBRARY_LIST_PATH,
   UNSPLASH_LIBRARY_LIST_PATH,
   UNSPLASH_MISSING_DOWNLOADS_PATH,
+  RELATED_IMAGE_GROUPS_PATH,
 } from '../config/paths';
 import { MediaMetadata } from './import-utils';
 
@@ -23,6 +26,7 @@ type LibraryIndexEntry = {
   slug: string;
   dir: string;
   source: string;
+  mediaKey: string;
 };
 
 async function readDeleteList(): Promise<string[]> {
@@ -54,7 +58,7 @@ async function buildLibraryIndex(): Promise<Map<string, LibraryIndexEntry>> {
         continue;
       }
       if (!index.has(source)) {
-        index.set(source, { slug: entry.slug, dir: entry.dir, source });
+        index.set(source, { slug: entry.slug, dir: entry.dir, source, mediaKey: meta.mediaKey || entry.slug });
       }
     } catch {
       continue;
@@ -65,6 +69,7 @@ async function buildLibraryIndex(): Promise<Map<string, LibraryIndexEntry>> {
 }
 
 async function removeLibraryEntry(entry: LibraryIndexEntry): Promise<void> {
+  await markMediaPendingInProject(PROJECT_ROOT, entry.mediaKey, 'delete');
   await fs.rm(entry.dir, { recursive: true, force: true });
   const preparedDir = path.join(IMPORT_IMAGES_DIR, entry.slug);
   await fs.rm(preparedDir, { recursive: true, force: true });
@@ -100,6 +105,7 @@ async function main(): Promise<void> {
   }
 
   const index = await buildLibraryIndex();
+  const groups = await loadRelatedImageGroupRegistry(RELATED_IMAGE_GROUPS_PATH);
   let removed = 0;
   let notFound = 0;
 
@@ -114,6 +120,13 @@ async function main(): Promise<void> {
       console.warn(`Не знайдено ресурс для ${url}.`);
       await scrubUrlFromLists(url);
       continue;
+    }
+    for (const group of groups.values()) {
+      if (group.mediaKeys.includes(entry.mediaKey)) {
+        for (const peer of group.mediaKeys) {
+          if (peer !== entry.mediaKey) await markMediaPendingInProject(PROJECT_ROOT, peer, 'metadata');
+        }
+      }
     }
     await removeLibraryEntry(entry);
     removed += 1;

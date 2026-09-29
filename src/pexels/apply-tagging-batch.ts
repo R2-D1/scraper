@@ -1,5 +1,6 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { markMediaPendingForMetadata } from "../media-import/media-sync-state";
 
 import {
   IMAGE_TAG_KEY_BLACKLIST_PATH,
@@ -236,6 +237,7 @@ async function main(): Promise<void> {
         "utf-8",
       );
       await fs.rename(temporaryPath, metadataPath);
+      await markMediaPendingForMetadata(metadataPath, "metadata");
       changedSlugs.push(item.slug);
     }
     await tagStore.writeMissingRecords();

@@ -1,6 +1,7 @@
 import { promises as fs, Dirent } from 'node:fs';
 import { createHash } from 'node:crypto';
 import path from 'node:path';
+import { markMediaPendingForMetadata } from './media-sync-state';
 
 import { CUSTOM_IMAGES_INTAKE_ROOT, CUSTOM_IMAGES_ROOT, MEDIA_COLLECTION_REGISTRY_PATH } from '../config/paths';
 import { normalizeCustomImageAsset } from './custom-image-normalizer';
@@ -370,6 +371,7 @@ export async function ingestCustomImageAssetFolder(options: CustomImageFolderOpt
     }
     await adoptImage(item.filePath, targetDir, item.slug);
     await fs.writeFile(path.join(targetDir, CUSTOM_IMAGE_META_FILE), `${JSON.stringify(next, null, 2)}\n`, 'utf-8');
+    await markMediaPendingForMetadata(path.join(targetDir, CUSTOM_IMAGE_META_FILE), 'file');
     reports.push({
       collectionSlugs: item.collectionSlugs,
       items: 1,

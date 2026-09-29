@@ -1,5 +1,6 @@
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
+import { markMediaPendingForMetadata } from '../media-import/media-sync-state';
 
 import { getPexelsMediaDir, MEDIA_COLLECTION_REGISTRY_PATH, PEXELS_IMAGES_ROOT } from '../config/paths';
 import { loadMediaCollectionRegistry, type MediaCollectionDefinition } from '../media-import/media-collections';
@@ -321,6 +322,7 @@ async function main(): Promise<void> {
       const tempPath = `${metaPath}.${process.pid}.tmp`;
       await fs.writeFile(tempPath, `${JSON.stringify(metadata, null, 2)}\n`, 'utf-8');
       await fs.rename(tempPath, metaPath);
+      await markMediaPendingForMetadata(metaPath, 'file');
       console.log(`  ${existing ? 'Оновлено колекції' : 'Імпортовано'} ${slug} → ${metadata.collectionSlugs?.join(', ')}`);
     }
 

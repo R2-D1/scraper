@@ -88,11 +88,17 @@ async function main(): Promise<void> {
     assert.equal(firstRecord.meta.pinned, true);
     assert.deepEqual(firstRecord.meta.i18n.tags, [{ key: 'person', i18n: { en: 'Person', uk: 'Людина' } }]);
     assert.deepEqual(firstRecord.meta.i18n.keywords, { en: ['Person'], uk: ['Людина'] });
+    let syncState = JSON.parse(await fs.readFile(path.join(root, 'media-sync-state.json'), 'utf8'));
+    assert.equal(Object.keys(syncState.pending).length, 2);
+    assert.deepEqual(syncState.pending[firstRecord.meta.mediaKey].file, ['dev', 'stage', 'prod']);
+    assert.equal(syncState.pending[firstRecord.meta.mediaKey].reprepare, true);
 
     const repeat = await ingestCustomImageAssetFolder({ folderDir: root, targetRoot, registryPath });
     assert.equal(repeat.reduce((total, report) => total + report.created, 0), 0);
     assert.equal(repeat.reduce((total, report) => total + report.renamed, 0), 0);
     assert.equal((await loadCustomImageLibrary(targetRoot, registryPath)).images.length, 2);
+    syncState = JSON.parse(await fs.readFile(path.join(root, 'media-sync-state.json'), 'utf8'));
+    assert.equal(Object.keys(syncState.pending).length, 2);
 
     await fs.writeFile(path.join(root, 'generated-001.png.manifest.json'), `${JSON.stringify(manifest('Girl with tablet', 'Дівчина з планшетом'), null, 2)}\n`, 'utf-8');
     const renamed = await ingestCustomImageAssetFolder({ folderDir: root, targetRoot, registryPath });
@@ -110,6 +116,8 @@ async function main(): Promise<void> {
     library = await loadCustomImageLibrary(targetRoot, registryPath);
     assert.equal(library.images.length, 3);
     assert.equal(library.images.some(item => item.meta.mediaKey === contentMediaKey(changedRaw)), true);
+    syncState = JSON.parse(await fs.readFile(path.join(root, 'media-sync-state.json'), 'utf8'));
+    assert.equal(Object.keys(syncState.pending).length, 3);
   } finally {
     await fs.rm(root, { recursive: true, force: true });
   }

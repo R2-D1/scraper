@@ -126,17 +126,21 @@ test('Save validates collections and updates metadata plus Unsplash translation'
     const meta = JSON.parse(await fs.readFile(path.join(root, 'library', 'unsplash', 'images', 'forest', 'media-meta.json'), 'utf8'));
     const translations = JSON.parse(await fs.readFile(path.join(root, 'translations', 'images', 'name-translations.json'), 'utf8'));
     assert.equal(meta.pinned, true); assert.equal(meta.i18n.name.uk, 'Густий ліс'); assert.equal(translations.forest, 'Густий ліс');
+    const syncState = JSON.parse(await fs.readFile(path.join(root, 'media-sync-state.json'), 'utf8'));
+    assert.deepEqual(syncState.pending['unsplash:forest'].metadata, ['dev', 'stage', 'prod']);
+    assert.deepEqual(syncState.pending['unsplash:forest'].file, []);
     const invalid = await fetch(`${base}/api/media/unsplash/forest`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ name: { en: 'x', uk: 'x' }, pinned: false, collectionSlugs: [] }) });
     assert.equal(invalid.status, 400);
   } finally { server.close(); }
 });
 
-test('Delete queues a media key and removes the local asset', async () => {
+test('Delete queues a media key in sync state and removes the local asset', async () => {
   const root = await fixture(); const { server, base } = await running(root);
   try {
     const response = await fetch(`${base}/api/media/unsplash/forest`, { method: 'DELETE' });
     assert.equal(response.status, 200);
-    assert.deepEqual(JSON.parse(await fs.readFile(path.join(root, 'library', 'media-delete-list.json'), 'utf8')), { schemaVersion: 1, mediaKeys: ['unsplash:forest'] });
+    const state = JSON.parse(await fs.readFile(path.join(root, 'media-sync-state.json'), 'utf8'));
+    assert.deepEqual(state.pending['unsplash:forest'].delete, ['dev', 'stage', 'prod']);
     await assert.rejects(() => fs.access(path.join(root, 'library', 'unsplash', 'images', 'forest')));
     assert.equal((await (await fetch(`${base}/api/media`)).json() as unknown[]).length, 2);
   } finally { server.close(); }
@@ -156,6 +160,8 @@ test('Related image groups can be created, updated and disbanded', async () => {
     assert.equal(created.status, 200);
     const { key } = await created.json() as { key: string };
     assert.match(key, /^group-[a-f0-9]{16}$/);
+    const syncState = JSON.parse(await fs.readFile(path.join(root, 'media-sync-state.json'), 'utf8'));
+    assert.deepEqual(Object.keys(syncState.pending).sort(), ['custom-images:portrait', 'unsplash:forest']);
 
     const groups = await (await fetch(`${base}/api/related-image-groups`)).json() as Array<{
       key: string;

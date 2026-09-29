@@ -1,6 +1,7 @@
 import { randomUUID } from 'node:crypto';
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
+import { markMediaPendingForMetadata } from '../media-import/media-sync-state';
 
 import { CUSTOM_IMAGES_ROOT, IMAGE_NAME_TRANSLATIONS_PATH, TAG_TRANSLATIONS_PATH } from '../config/paths';
 import { MEDIA_META_FILE, findMediaDir, listCtrlvLibraryEntries, listCustomImageLibraryEntries, listLibraryEntries, listLummiLibraryEntries, listPexelsLibraryEntries, listUndrawLibraryEntries } from '../unsplash/library-paths';
@@ -398,6 +399,7 @@ async function processMetaFile(
     return false;
   }
   await fs.writeFile(filePath, serialized, 'utf-8');
+  await markMediaPendingForMetadata(filePath, 'metadata');
   return true;
 }
 

@@ -1,6 +1,7 @@
 import { createHash } from 'node:crypto';
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
+import { markMediaPendingForMetadata } from './media-sync-state';
 
 import { CUSTOM_IMAGES_ROOT, MEDIA_COLLECTION_REGISTRY_PATH } from '../config/paths';
 import { normalizeCustomImageAsset } from './custom-image-normalizer';
@@ -235,6 +236,7 @@ export async function ingestCustomCollectionFolder(options: {
       if (item.existingDir && item.existingDir !== targetDir) await fs.rename(item.existingDir, targetDir);
       await normalizeCustomImageAsset(item.sourcePath, targetDir, item.slug);
       await fs.writeFile(path.join(targetDir, CUSTOM_IMAGE_META_FILE), `${JSON.stringify(item.meta, null, 2)}\n`, 'utf-8');
+      await markMediaPendingForMetadata(path.join(targetDir, CUSTOM_IMAGE_META_FILE), 'file');
     }
   }
   return {
