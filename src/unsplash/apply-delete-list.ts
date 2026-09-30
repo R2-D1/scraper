@@ -69,7 +69,7 @@ async function buildLibraryIndex(): Promise<Map<string, LibraryIndexEntry>> {
 }
 
 async function removeLibraryEntry(entry: LibraryIndexEntry): Promise<void> {
-  await markMediaPendingInProject(PROJECT_ROOT, entry.mediaKey, 'delete');
+  await markMediaPendingInProject(PROJECT_ROOT, entry.mediaKey, 'delete', path.join(entry.dir, MEDIA_META_FILE));
   await fs.rm(entry.dir, { recursive: true, force: true });
   const preparedDir = path.join(IMPORT_IMAGES_DIR, entry.slug);
   await fs.rm(preparedDir, { recursive: true, force: true });

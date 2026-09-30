@@ -39,7 +39,7 @@ async function main(): Promise<void> {
   }
 
   for (const item of matched) {
-    await markMediaPendingInProject(PROJECT_ROOT, item.mediaKey, 'delete');
+    await markMediaPendingInProject(PROJECT_ROOT, item.mediaKey, 'delete', path.join(item.dir, MEDIA_META_FILE));
     await fs.rm(item.dir, { recursive: true, force: true });
     await fs.rm(path.join(PROJECT_ROOT, 'tmp', 'images', item.slug), { recursive: true, force: true });
   }

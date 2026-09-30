@@ -9,11 +9,13 @@ import { classifyPreparedAssetFiles, runCheckpointedSync } from "./sync-images-p
 import {
   emptyMediaSyncState,
   markMediaPending,
+  markMediaPendingForMetadata,
   readMediaSyncState,
   recordSuccessfulBatch,
   selectPendingMedia,
   updateMediaSyncState,
 } from "./media-sync-state";
+import { mediaSettings } from "../config/media-settings";
 
 const asset = (slug: string, overrides: Partial<Asset> = {}): Asset => ({
   slug,
@@ -25,6 +27,29 @@ const asset = (slug: string, overrides: Partial<Asset> = {}): Asset => ({
   needsFinalization: false,
   sizeBytes: 10,
   ...overrides,
+});
+
+test("oversized SVG stays in the library without a sync queue entry", async () => {
+  const root = await fs.mkdtemp(path.join(os.tmpdir(), "media-sync-svg-"));
+  try {
+    const directory = path.join(root, "library", "unsplash", "Illustration", "sample");
+    await fs.mkdir(directory, { recursive: true });
+    const metadataPath = path.join(directory, "media-meta.json");
+    const svgPath = path.join(directory, "sample.svg");
+    await fs.writeFile(metadataPath, JSON.stringify({ mediaKey: "sample-key", slug: "sample" }));
+    await fs.writeFile(svgPath, Buffer.alloc(mediaSettings.maxSvgBytes + 1));
+    await markMediaPendingForMetadata(metadataPath, "file");
+    assert.deepEqual((await readMediaSyncState(path.join(root, "media-sync-state.json"))).pending, {});
+    await fs.writeFile(svgPath, Buffer.alloc(mediaSettings.maxSvgBytes));
+    await markMediaPendingForMetadata(metadataPath, "file");
+    assert.ok((await readMediaSyncState(path.join(root, "media-sync-state.json"))).pending["sample-key"]);
+    await fs.writeFile(svgPath, Buffer.alloc(mediaSettings.maxSvgBytes + 1));
+    await markMediaPendingForMetadata(metadataPath, "metadata");
+    assert.deepEqual((await readMediaSyncState(path.join(root, "media-sync-state.json"))).pending, {});
+    assert.equal((await fs.stat(svgPath)).size, mediaSettings.maxSvgBytes + 1);
+  } finally {
+    await fs.rm(root, { recursive: true, force: true });
+  }
 });
 
 test("new and changed media are tracked only while environments need them", () => {

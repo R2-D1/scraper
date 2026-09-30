@@ -230,7 +230,7 @@ async function removeUnlistedMedia(keepSlugs: Set<string>): Promise<string[]> {
 
     const meta = JSON.parse(await fs.readFile(path.join(entry.dir, MEDIA_META_FILE), 'utf8')) as { mediaKey?: string; slug?: string };
     const mediaKey = meta.mediaKey || meta.slug || entry.slug;
-    await markMediaPendingInProject(PROJECT_ROOT, mediaKey, 'delete');
+    await markMediaPendingInProject(PROJECT_ROOT, mediaKey, 'delete', path.join(entry.dir, MEDIA_META_FILE));
     for (const group of groups.values()) {
       if (group.mediaKeys.includes(mediaKey)) {
         for (const peer of group.mediaKeys) {

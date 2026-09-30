@@ -17,6 +17,7 @@ import { collectMetaFiles, hydrateSizes } from "../unsplash/hydrate-sizes";
 import type { MediaMetadata } from "../unsplash/import-utils";
 import { mediaSettings } from "../config/media-settings";
 import { appendCustomImagesToExport } from "./prepare-custom-images";
+import { updateMediaSyncState } from "./media-sync-state";
 import { assertImageDisplayNames } from "./image-name-validation";
 import {
   archiveMediaCollection,
@@ -561,7 +562,7 @@ async function processMediaFile(
           oversizeSize: existingStat.size,
         };
       }
-      return { meta };
+      return { meta, oversizeSize: existingStat.size };
     }
     const { width, height } = await measureMedia(existingPrimary, meta);
     return {
@@ -600,7 +601,7 @@ async function processMediaFile(
         oversizeSize: candidateOutcome.oversizeSize,
       };
     }
-    return { meta };
+    return { meta, oversizeSize: candidateOutcome.oversizeSize };
   }
 
   const finalCandidate = candidateOutcome.candidate;
@@ -732,10 +733,14 @@ export async function prepareImages(
   const oversizeAssets: Array<{ slug: string; source: string; size: number }> =
     [];
   const oversizeSet = new Set<string>();
+  const oversizeKeys = new Set<string>();
   const processMetaFile = async (metaPath: string): Promise<void> => {
     try {
       const { result, meta, oversizeSource, oversizeSize } =
         await processMediaFile(metaPath, options.outDir);
+      if (typeof oversizeSize === "number") {
+        oversizeKeys.add(meta.mediaKey || meta.slug || path.basename(path.dirname(metaPath)));
+      }
       if (oversizeSource) {
         const weight =
           typeof oversizeSize === "number"
@@ -816,6 +821,12 @@ export async function prepareImages(
     throw new Error(
       `Експорт зупинено: ${failed} зображень мають невалідні метадані.`,
     );
+  }
+
+  if (oversizeKeys.size > 0) {
+    await updateMediaSyncState(path.join(PROJECT_ROOT, "media-sync-state.json"), (state) => {
+      for (const key of oversizeKeys) delete state.pending[key];
+    });
   }
 
   const customResult = await appendCustomImagesToExport({

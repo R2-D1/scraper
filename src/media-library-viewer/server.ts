@@ -154,7 +154,7 @@ async function updateItem(item: MediaItem, input: Record<string, unknown>, colle
   next.i18n = { ...(next.i18n ?? {}), name: { en: en.trim(), uk: uk.trim() } };
   const previousTranslationPath = path.join(root, 'translations', 'images', 'name-translations.json');
   let previousTranslations: string | undefined;
-  await markMediaPendingInProject(root, item.mediaKey, 'metadata');
+  await markMediaPendingInProject(root, item.mediaKey, 'metadata', item.metaPath);
   try {
     if (item.source === 'unsplash' || item.source === 'pexels' || item.source === 'lummi') {
       previousTranslations = await fs.readFile(previousTranslationPath, 'utf8');
@@ -174,12 +174,13 @@ async function deleteItem(
   item: MediaItem,
   relatedGroups: RelatedImageGroupRegistry,
   root: string,
+  media: MediaItem[],
 ): Promise<void> {
-  await markMediaPendingInProject(root, item.mediaKey, 'delete');
+  await markMediaPendingInProject(root, item.mediaKey, 'delete', item.metaPath);
   for (const group of relatedGroups.values()) {
     if (group.mediaKeys.includes(item.mediaKey)) {
       for (const mediaKey of group.mediaKeys) {
-        if (mediaKey !== item.mediaKey) await markMediaPendingInProject(root, mediaKey, 'metadata');
+        if (mediaKey !== item.mediaKey) await markMediaPendingInProject(root, mediaKey, 'metadata', media.find(candidate => candidate.mediaKey === mediaKey)?.metaPath);
       }
     }
   }
@@ -294,7 +295,7 @@ export function createViewerServer(options: ViewerOptions = {}) {
           for (const mediaKey of nextGroups.get(groupKey)?.mediaKeys ?? []) affected.add(mediaKey);
         }
         for (const mediaKey of affected) {
-          await markMediaPendingInProject(root, mediaKey, 'metadata');
+          await markMediaPendingInProject(root, mediaKey, 'metadata', media.find(item => item.mediaKey === mediaKey)?.metaPath);
         }
         await writeAtomic(relatedGroupsPath, serializeRelatedImageGroups(nextGroups));
         relatedGroupsCache = undefined;
@@ -308,7 +309,7 @@ export function createViewerServer(options: ViewerOptions = {}) {
         }
         const nextGroups = new Map(relatedGroups);
         nextGroups.delete(key);
-        for (const mediaKey of relatedGroups.get(key)?.mediaKeys ?? []) await markMediaPendingInProject(root, mediaKey, 'metadata');
+        for (const mediaKey of relatedGroups.get(key)?.mediaKeys ?? []) await markMediaPendingInProject(root, mediaKey, 'metadata', media.find(item => item.mediaKey === mediaKey)?.metaPath);
         await writeAtomic(relatedGroupsPath, serializeRelatedImageGroups(nextGroups));
         relatedGroupsCache = undefined;
         return json(res, 200, { ok: true });
@@ -331,7 +332,7 @@ export function createViewerServer(options: ViewerOptions = {}) {
         const raw = await readJson<{ schemaVersion: number; collections: Record<string, Record<string, unknown>> }>(collectionsPath);
         raw.collections[collectionSlug] = { ...raw.collections[collectionSlug], previewMediaKeys: [item.mediaKey] };
         for (const member of media.filter(candidate => candidate.collectionSlugs?.includes(collectionSlug))) {
-          await markMediaPendingInProject(root, member.mediaKey, 'metadata');
+          await markMediaPendingInProject(root, member.mediaKey, 'metadata', member.metaPath);
         }
         await writeAtomic(collectionsPath, `${JSON.stringify(raw, null, 2)}\n`);
         collectionsCache = undefined;
@@ -370,7 +371,7 @@ export function createViewerServer(options: ViewerOptions = {}) {
         if (targetCollections.some(collection => collection!.category !== category) || selected.some(item => item.category?.key !== category)) throw new Error('Колекції мають відповідати категорії зображень.');
         if (fromCollectionSlug && collections.get(fromCollectionSlug)?.category !== category) throw new Error('Початкова колекція має відповідати категорії зображень.');
         const previous = await Promise.all(selected.map(async item => ({ item, raw: await fs.readFile(item.metaPath, 'utf8') })));
-        for (const item of selected) await markMediaPendingInProject(root, item.mediaKey, 'metadata');
+        for (const item of selected) await markMediaPendingInProject(root, item.mediaKey, 'metadata', item.metaPath);
         try {
           for (const { item } of previous) {
             const next = { ...item, collectionSlugs: [...new Set([...(item.collectionSlugs ?? []).filter(slug => slug !== fromCollectionSlug), ...collectionSlugs])] };
@@ -398,7 +399,7 @@ export function createViewerServer(options: ViewerOptions = {}) {
       if (itemMatch && req.method === 'DELETE') {
         const item = media.find(entry => entry.source === decodeURIComponent(itemMatch[1]) && entry.slug === decodeURIComponent(itemMatch[2]));
         if (!item) return json(res, 404, { error: 'Зображення не знайдено.' });
-        await deleteItem(item, relatedGroups, root);
+        await deleteItem(item, relatedGroups, root, media);
         collectionsCache = undefined; mediaCache = undefined; relatedGroupsCache = undefined;
         return json(res, 200, { ok: true, mediaKey: item.mediaKey });
       }

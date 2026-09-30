@@ -10,6 +10,7 @@ import {
   RELATED_IMAGE_GROUPS_PATH,
 } from '../config/paths';
 import { mediaSettings } from '../config/media-settings';
+import { updateMediaSyncState } from './media-sync-state';
 import { CUSTOM_IMAGE_META_FILE, loadCustomImageLibrary, type CustomImageMeta } from './custom-images';
 import {
   archiveMediaCollection,
@@ -178,6 +179,7 @@ export async function appendCustomImagesToExport(options: CustomImageExportOptio
   const collections = new Map(library.collections.map(collection => [collection.slug, collection]));
 
   let copied = 0;
+  const oversizedKeys = new Set<string>();
   const selectedImages = options.includeSlugs
     ? library.images.filter(record => options.includeSlugs?.has(record.meta.slug))
     : library.images;
@@ -186,6 +188,11 @@ export async function appendCustomImagesToExport(options: CustomImageExportOptio
       throw new Error(`Custom image "${record.meta.slug}" ще не завершив локалізацію.`);
     }
     const sourcePath = await findPrimary(record.sourceDir, record.meta.slug);
+    if (path.extname(sourcePath).toLowerCase() === '.svg' && (await fs.stat(sourcePath)).size > maxSvgBytes) {
+      console.log(`  ⚠ Пропускаємо завеликий SVG: ${record.meta.slug}.`);
+      oversizedKeys.add(record.meta.mediaKey);
+      continue;
+    }
     const target = path.join(options.outDir, record.meta.slug);
     let prepared: PreparedImage;
     try {
@@ -225,6 +232,11 @@ export async function appendCustomImagesToExport(options: CustomImageExportOptio
       height: prepared.height,
     }, null, 2)}\n`, 'utf-8');
     copied += 1;
+  }
+  if (!options.root && oversizedKeys.size > 0) {
+    await updateMediaSyncState(path.join(PROJECT_ROOT, 'media-sync-state.json'), state => {
+      for (const key of oversizedKeys) delete state.pending[key];
+    });
   }
   return { copied, total: selectedImages.length };
 }

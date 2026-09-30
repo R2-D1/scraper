@@ -1,5 +1,6 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { mediaSettings } from "../config/media-settings";
 
 import type { SyncAssetKind, SyncSelection } from "./sync-images-plan";
 
@@ -107,9 +108,23 @@ export async function markMediaPendingInProject(
   root: string,
   key: string,
   kind: "file" | "metadata" | "delete",
+  metadataPath?: string,
 ): Promise<void> {
+  if (metadataPath && await isOversizedSvg(metadataPath)) {
+    await updateMediaSyncState(path.join(root, "media-sync-state.json"), (state) => {
+      delete state.pending[key];
+    });
+    return;
+  }
   await updateMediaSyncState(path.join(root, "media-sync-state.json"), (state) =>
     markMediaPending(state, key, kind));
+}
+
+export async function isOversizedSvg(metadataPath: string): Promise<boolean> {
+  const directory = path.dirname(metadataPath);
+  const svg = (await fs.readdir(directory)).find((name) => path.extname(name).toLowerCase() === ".svg");
+  if (!svg) return false;
+  return (await fs.stat(path.join(directory, svg))).size > mediaSettings.maxSvgBytes;
 }
 
 export async function markMediaPendingForMetadata(
@@ -124,7 +139,7 @@ export async function markMediaPendingForMetadata(
   const meta = JSON.parse(await fs.readFile(resolved, "utf8")) as { mediaKey?: string; slug?: string };
   const key = meta.mediaKey?.trim() || meta.slug?.trim();
   if (!key) throw new Error(`Медіа без ключа: ${resolved}`);
-  await markMediaPendingInProject(root, key, kind);
+  await markMediaPendingInProject(root, key, kind, resolved);
 }
 
 export function selectPendingMedia(
