@@ -1,0 +1,90 @@
+{
+  "slug": "legal-settlement",
+  "mediaKey": "dae1ed93-1025-456a-ab2a-5cce675ae752",
+  "i18n": {
+    "name": {
+      "en": "Settlement",
+      "uk": "Розрахунок"
+    },
+    "alt": {
+      "en": "Settlement",
+      "uk": "Розрахунок"
+    },
+    "tags": [
+      {
+        "key": "legal",
+        "i18n": {
+          "en": "legal",
+          "uk": "юридичний"
+        }
+      },
+      {
+        "key": "settlement",
+        "i18n": {
+          "en": "settlement",
+          "uk": "розселення"
+        }
+      },
+      {
+        "key": "handshake",
+        "i18n": {
+          "en": "handshake",
+          "uk": "рукостискання"
+        }
+      },
+      {
+        "key": "agreement",
+        "i18n": {
+          "en": "agreement",
+          "uk": "угода"
+        }
+      },
+      {
+        "key": "deal",
+        "i18n": {
+          "en": "deal",
+          "uk": "угода"
+        }
+      },
+      {
+        "key": "lawyer",
+        "i18n": {
+          "en": "lawyer",
+          "uk": "юрист"
+        }
+      },
+      {
+        "key": "client",
+        "i18n": {
+          "en": "client",
+          "uk": "клієнт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/legal-settlement",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

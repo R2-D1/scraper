@@ -1,0 +1,90 @@
+{
+  "slug": "podcast-mic",
+  "mediaKey": "3056b067-d072-47fd-91e2-1fd0f1475bc9",
+  "i18n": {
+    "name": {
+      "en": "Podcast Studio",
+      "uk": "Студія подкастів"
+    },
+    "alt": {
+      "en": "Podcast Studio",
+      "uk": "Студія подкастів"
+    },
+    "tags": [
+      {
+        "key": "podcast",
+        "i18n": {
+          "en": "podcast",
+          "uk": "подкаст"
+        }
+      },
+      {
+        "key": "microphone",
+        "i18n": {
+          "en": "microphone",
+          "uk": "мікрофон"
+        }
+      },
+      {
+        "key": "audio",
+        "i18n": {
+          "en": "audio",
+          "uk": "аудіо"
+        }
+      },
+      {
+        "key": "recording",
+        "i18n": {
+          "en": "recording",
+          "uk": "записування"
+        }
+      },
+      {
+        "key": "radio",
+        "i18n": {
+          "en": "radio",
+          "uk": "радіо"
+        }
+      },
+      {
+        "key": "voice",
+        "i18n": {
+          "en": "voice",
+          "uk": "голос"
+        }
+      },
+      {
+        "key": "content-creator",
+        "i18n": {
+          "en": "content creator",
+          "uk": "контент-кріейтор"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/podcast-mic",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 512,
+  "height": 384
+}

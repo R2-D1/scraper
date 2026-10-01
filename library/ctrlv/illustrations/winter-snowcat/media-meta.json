@@ -1,0 +1,83 @@
+{
+  "slug": "winter-snowcat",
+  "mediaKey": "6b8dec65-0372-48d5-8b48-5c8d31ca1466",
+  "i18n": {
+    "name": {
+      "en": "Mountain Snowcat",
+      "uk": "Гірський снігохід"
+    },
+    "alt": {
+      "en": "Mountain Snowcat",
+      "uk": "Гірський снігохід"
+    },
+    "tags": [
+      {
+        "key": "winter",
+        "i18n": {
+          "en": "winter",
+          "uk": "зима"
+        }
+      },
+      {
+        "key": "snow",
+        "i18n": {
+          "en": "snow",
+          "uk": "сніг"
+        }
+      },
+      {
+        "key": "snowcat",
+        "i18n": {
+          "en": "snowcat",
+          "uk": "снігохід"
+        }
+      },
+      {
+        "key": "mountain",
+        "i18n": {
+          "en": "mountain",
+          "uk": "гора"
+        }
+      },
+      {
+        "key": "cold",
+        "i18n": {
+          "en": "cold",
+          "uk": "холод"
+        }
+      },
+      {
+        "key": "machine",
+        "i18n": {
+          "en": "machine",
+          "uk": "машина"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/winter-snowcat",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

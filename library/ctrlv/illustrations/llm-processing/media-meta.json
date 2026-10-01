@@ -1,0 +1,90 @@
+{
+  "slug": "llm-processing",
+  "mediaKey": "03fb5461-f7c1-4228-b90c-dc7d0a773827",
+  "i18n": {
+    "name": {
+      "en": "LLM Processing",
+      "uk": "Обробка даних LLM"
+    },
+    "alt": {
+      "en": "LLM Processing",
+      "uk": "Обробка даних LLM"
+    },
+    "tags": [
+      {
+        "key": "llm",
+        "i18n": {
+          "en": "llm",
+          "uk": "llm"
+        }
+      },
+      {
+        "key": "chat",
+        "i18n": {
+          "en": "chat",
+          "uk": "чат"
+        }
+      },
+      {
+        "key": "gpt",
+        "i18n": {
+          "en": "gpt",
+          "uk": "gpt"
+        }
+      },
+      {
+        "key": "language",
+        "i18n": {
+          "en": "language",
+          "uk": "мова"
+        }
+      },
+      {
+        "key": "processing",
+        "i18n": {
+          "en": "processing",
+          "uk": "обробка"
+        }
+      },
+      {
+        "key": "tokens",
+        "i18n": {
+          "en": "tokens",
+          "uk": "токени"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/llm-processing",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

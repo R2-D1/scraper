@@ -1,0 +1,83 @@
+{
+  "slug": "marketing-influencer",
+  "mediaKey": "d7cfd3c8-a545-4532-a4e0-ff3876d36855",
+  "i18n": {
+    "name": {
+      "en": "Influencer Collaboration",
+      "uk": "Співпраця з інфлюенсерами"
+    },
+    "alt": {
+      "en": "Influencer Collaboration",
+      "uk": "Співпраця з інфлюенсерами"
+    },
+    "tags": [
+      {
+        "key": "marketing",
+        "i18n": {
+          "en": "marketing",
+          "uk": "маркетинг"
+        }
+      },
+      {
+        "key": "influencer",
+        "i18n": {
+          "en": "influencer",
+          "uk": "інфлюенсер"
+        }
+      },
+      {
+        "key": "collaboration",
+        "i18n": {
+          "en": "collaboration",
+          "uk": "співпраця"
+        }
+      },
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      },
+      {
+        "key": "stars",
+        "i18n": {
+          "en": "stars",
+          "uk": "зірки"
+        }
+      },
+      {
+        "key": "people",
+        "i18n": {
+          "en": "people",
+          "uk": "люди"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/marketing-influencer",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

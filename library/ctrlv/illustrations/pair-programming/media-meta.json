@@ -1,0 +1,83 @@
+{
+  "slug": "pair-programming",
+  "mediaKey": "57477569-b0b2-465e-b364-46f7c1f63087",
+  "i18n": {
+    "name": {
+      "en": "Pair Programming",
+      "uk": "Парне програмування"
+    },
+    "alt": {
+      "en": "Pair Programming",
+      "uk": "Парне програмування"
+    },
+    "tags": [
+      {
+        "key": "pair",
+        "i18n": {
+          "en": "pair",
+          "uk": "пара"
+        }
+      },
+      {
+        "key": "coding",
+        "i18n": {
+          "en": "coding",
+          "uk": "програмування"
+        }
+      },
+      {
+        "key": "team",
+        "i18n": {
+          "en": "team",
+          "uk": "команда"
+        }
+      },
+      {
+        "key": "collaboration",
+        "i18n": {
+          "en": "collaboration",
+          "uk": "співпраця"
+        }
+      },
+      {
+        "key": "developers",
+        "i18n": {
+          "en": "developers",
+          "uk": "розробники"
+        }
+      },
+      {
+        "key": "peer",
+        "i18n": {
+          "en": "peer",
+          "uk": "одноліток"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/pair-programming",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

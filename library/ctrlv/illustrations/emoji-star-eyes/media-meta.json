@@ -1,0 +1,76 @@
+{
+  "slug": "emoji-star-eyes",
+  "mediaKey": "50f22c48-1163-4d58-af7c-86100c8c74f0",
+  "i18n": {
+    "name": {
+      "en": "Star Eyes Emoji",
+      "uk": "Емодзі «Зіркові очі»"
+    },
+    "alt": {
+      "en": "Star Eyes Emoji",
+      "uk": "Емодзі «Зіркові очі»"
+    },
+    "tags": [
+      {
+        "key": "emoji",
+        "i18n": {
+          "en": "emoji",
+          "uk": "емодзі"
+        }
+      },
+      {
+        "key": "star",
+        "i18n": {
+          "en": "star",
+          "uk": "зірка"
+        }
+      },
+      {
+        "key": "eyes",
+        "i18n": {
+          "en": "eyes",
+          "uk": "очі"
+        }
+      },
+      {
+        "key": "face",
+        "i18n": {
+          "en": "face",
+          "uk": "обличчя"
+        }
+      },
+      {
+        "key": "excited",
+        "i18n": {
+          "en": "excited",
+          "uk": "захоплений"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emoji-star-eyes",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

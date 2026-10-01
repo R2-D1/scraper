@@ -1,0 +1,97 @@
+{
+  "slug": "history-samurai",
+  "mediaKey": "154c3dc6-bea2-4cb2-a653-5f80be506c4c",
+  "i18n": {
+    "name": {
+      "en": "Samurai Armor",
+      "uk": "Самурайські обладунки"
+    },
+    "alt": {
+      "en": "Samurai Armor",
+      "uk": "Самурайські обладунки"
+    },
+    "tags": [
+      {
+        "key": "history",
+        "i18n": {
+          "en": "history",
+          "uk": "історії"
+        }
+      },
+      {
+        "key": "japan",
+        "i18n": {
+          "en": "japan",
+          "uk": "Японія"
+        }
+      },
+      {
+        "key": "samurai",
+        "i18n": {
+          "en": "samurai",
+          "uk": "самурай"
+        }
+      },
+      {
+        "key": "armor",
+        "i18n": {
+          "en": "armor",
+          "uk": "броня"
+        }
+      },
+      {
+        "key": "warrior",
+        "i18n": {
+          "en": "warrior",
+          "uk": "воїн"
+        }
+      },
+      {
+        "key": "helmet",
+        "i18n": {
+          "en": "helmet",
+          "uk": "шолом"
+        }
+      },
+      {
+        "key": "sword",
+        "i18n": {
+          "en": "sword",
+          "uk": "меч"
+        }
+      },
+      {
+        "key": "katana",
+        "i18n": {
+          "en": "katana",
+          "uk": "катана"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/history-samurai",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

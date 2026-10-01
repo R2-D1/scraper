@@ -1,0 +1,104 @@
+{
+  "slug": "medical-dentist",
+  "mediaKey": "90b7af0b-d629-4035-b02c-ee01ce581c49",
+  "i18n": {
+    "name": {
+      "en": "Dentistry",
+      "uk": "Стоматологія"
+    },
+    "alt": {
+      "en": "Dentistry",
+      "uk": "Стоматологія"
+    },
+    "tags": [
+      {
+        "key": "medical",
+        "i18n": {
+          "en": "medical",
+          "uk": "медичний"
+        }
+      },
+      {
+        "key": "hospital",
+        "i18n": {
+          "en": "hospital",
+          "uk": "лікарня"
+        }
+      },
+      {
+        "key": "health",
+        "i18n": {
+          "en": "health",
+          "uk": "здоров'я"
+        }
+      },
+      {
+        "key": "dentist",
+        "i18n": {
+          "en": "dentist",
+          "uk": "стоматолог"
+        }
+      },
+      {
+        "key": "tooth",
+        "i18n": {
+          "en": "tooth",
+          "uk": "зуб"
+        }
+      },
+      {
+        "key": "teeth",
+        "i18n": {
+          "en": "teeth",
+          "uk": "зуби"
+        }
+      },
+      {
+        "key": "dental",
+        "i18n": {
+          "en": "dental",
+          "uk": "стоматологічний"
+        }
+      },
+      {
+        "key": "mirror",
+        "i18n": {
+          "en": "mirror",
+          "uk": "дзеркало"
+        }
+      },
+      {
+        "key": "care",
+        "i18n": {
+          "en": "care",
+          "uk": "догляд"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/medical-dentist",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

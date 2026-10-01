@@ -1,0 +1,76 @@
+{
+  "slug": "game-controller",
+  "mediaKey": "fb5e2ac5-b49a-47f0-9b91-c3f948832b76",
+  "i18n": {
+    "name": {
+      "en": "Pro Gamer",
+      "uk": "Професійний геймер"
+    },
+    "alt": {
+      "en": "Pro Gamer",
+      "uk": "Професійний геймер"
+    },
+    "tags": [
+      {
+        "key": "gaming",
+        "i18n": {
+          "en": "gaming",
+          "uk": "ігри"
+        }
+      },
+      {
+        "key": "esports",
+        "i18n": {
+          "en": "esports",
+          "uk": "кіберспорт"
+        }
+      },
+      {
+        "key": "controller",
+        "i18n": {
+          "en": "controller",
+          "uk": "контролер"
+        }
+      },
+      {
+        "key": "play",
+        "i18n": {
+          "en": "play",
+          "uk": "грати"
+        }
+      },
+      {
+        "key": "hobby",
+        "i18n": {
+          "en": "hobby",
+          "uk": "хобі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/game-controller",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

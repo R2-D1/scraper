@@ -1,0 +1,97 @@
+{
+  "slug": "char-wizard",
+  "mediaKey": "6d57d475-cbae-4ba6-8500-c2416baf5140",
+  "i18n": {
+    "name": {
+      "en": "Wizard / Mage",
+      "uk": "Чарівник / Маг"
+    },
+    "alt": {
+      "en": "Wizard / Mage",
+      "uk": "Чарівник / Маг"
+    },
+    "tags": [
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      },
+      {
+        "key": "wizard",
+        "i18n": {
+          "en": "wizard",
+          "uk": "майстер налаштування"
+        }
+      },
+      {
+        "key": "mage",
+        "i18n": {
+          "en": "mage",
+          "uk": "маг"
+        }
+      },
+      {
+        "key": "magic",
+        "i18n": {
+          "en": "magic",
+          "uk": "магія"
+        }
+      },
+      {
+        "key": "spell",
+        "i18n": {
+          "en": "spell",
+          "uk": "заклинання"
+        }
+      },
+      {
+        "key": "fantasy",
+        "i18n": {
+          "en": "fantasy",
+          "uk": "фентезі"
+        }
+      },
+      {
+        "key": "wand",
+        "i18n": {
+          "en": "wand",
+          "uk": "паличка"
+        }
+      },
+      {
+        "key": "sorcerer",
+        "i18n": {
+          "en": "sorcerer",
+          "uk": "чаклун"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/char-wizard",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

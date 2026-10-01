@@ -1,0 +1,97 @@
+{
+  "slug": "emotion-grief",
+  "mediaKey": "f5caf9a4-2dbf-4395-8efb-8f823ded716f",
+  "i18n": {
+    "name": {
+      "en": "Grief",
+      "uk": "Скорбота"
+    },
+    "alt": {
+      "en": "Grief",
+      "uk": "Скорбота"
+    },
+    "tags": [
+      {
+        "key": "emotion",
+        "i18n": {
+          "en": "emotion",
+          "uk": "емоція"
+        }
+      },
+      {
+        "key": "grief",
+        "i18n": {
+          "en": "grief",
+          "uk": "горе"
+        }
+      },
+      {
+        "key": "mourning",
+        "i18n": {
+          "en": "mourning",
+          "uk": "траур"
+        }
+      },
+      {
+        "key": "sorrow",
+        "i18n": {
+          "en": "sorrow",
+          "uk": "смуток"
+        }
+      },
+      {
+        "key": "devastated",
+        "i18n": {
+          "en": "devastated",
+          "uk": "спустошений"
+        }
+      },
+      {
+        "key": "heartbreak",
+        "i18n": {
+          "en": "heartbreak",
+          "uk": "розбите серце"
+        }
+      },
+      {
+        "key": "loss",
+        "i18n": {
+          "en": "loss",
+          "uk": "втрата"
+        }
+      },
+      {
+        "key": "weeping",
+        "i18n": {
+          "en": "weeping",
+          "uk": "плач"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emotion-grief",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

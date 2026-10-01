@@ -1,0 +1,97 @@
+{
+  "slug": "future-quantum-chip",
+  "mediaKey": "6c764333-8a74-4354-a617-49ddc6cee145",
+  "i18n": {
+    "name": {
+      "en": "Quantum Computing",
+      "uk": "Квантові обчислення"
+    },
+    "alt": {
+      "en": "Quantum Computing",
+      "uk": "Квантові обчислення"
+    },
+    "tags": [
+      {
+        "key": "future",
+        "i18n": {
+          "en": "future",
+          "uk": "майбутнє"
+        }
+      },
+      {
+        "key": "quantum",
+        "i18n": {
+          "en": "quantum",
+          "uk": "квант"
+        }
+      },
+      {
+        "key": "chip",
+        "i18n": {
+          "en": "chip",
+          "uk": "чіп"
+        }
+      },
+      {
+        "key": "processor",
+        "i18n": {
+          "en": "processor",
+          "uk": "процесор"
+        }
+      },
+      {
+        "key": "computing",
+        "i18n": {
+          "en": "computing",
+          "uk": "обчислення"
+        }
+      },
+      {
+        "key": "technology",
+        "i18n": {
+          "en": "technology",
+          "uk": "технологія"
+        }
+      },
+      {
+        "key": "hardware",
+        "i18n": {
+          "en": "hardware",
+          "uk": "апаратне забезпечення"
+        }
+      },
+      {
+        "key": "cpu",
+        "i18n": {
+          "en": "cpu",
+          "uk": "процесор"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/future-quantum-chip",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "space-ufo",
+  "mediaKey": "80fd3397-bb03-4735-ae99-e3fbad3f1eb8",
+  "i18n": {
+    "name": {
+      "en": "UFO Abduction",
+      "uk": "Викрадення НЛО"
+    },
+    "alt": {
+      "en": "UFO Abduction",
+      "uk": "Викрадення НЛО"
+    },
+    "tags": [
+      {
+        "key": "space",
+        "i18n": {
+          "en": "space",
+          "uk": "космос"
+        }
+      },
+      {
+        "key": "ufo",
+        "i18n": {
+          "en": "ufo",
+          "uk": "НЛО"
+        }
+      },
+      {
+        "key": "alien",
+        "i18n": {
+          "en": "alien",
+          "uk": "інопланетянин"
+        }
+      },
+      {
+        "key": "abduction",
+        "i18n": {
+          "en": "abduction",
+          "uk": "викрадення"
+        }
+      },
+      {
+        "key": "flying-saucer",
+        "i18n": {
+          "en": "flying saucer",
+          "uk": "літаюча тарілка"
+        }
+      },
+      {
+        "key": "ship",
+        "i18n": {
+          "en": "ship",
+          "uk": "корабель"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/space-ufo",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

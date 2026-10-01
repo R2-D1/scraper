@@ -1,0 +1,97 @@
+{
+  "slug": "athens-parthenon",
+  "mediaKey": "de03c174-4f7c-414d-b1a9-c652fb4c751e",
+  "i18n": {
+    "name": {
+      "en": "Athens, Greece",
+      "uk": "Афіни, Греція"
+    },
+    "alt": {
+      "en": "Athens, Greece",
+      "uk": "Афіни, Греція"
+    },
+    "tags": [
+      {
+        "key": "athens",
+        "i18n": {
+          "en": "athens",
+          "uk": "Ілюстрація: athens"
+        }
+      },
+      {
+        "key": "greece",
+        "i18n": {
+          "en": "greece",
+          "uk": "греція"
+        }
+      },
+      {
+        "key": "parthenon",
+        "i18n": {
+          "en": "parthenon",
+          "uk": "Парфенон"
+        }
+      },
+      {
+        "key": "temple",
+        "i18n": {
+          "en": "temple",
+          "uk": "храм"
+        }
+      },
+      {
+        "key": "ruins",
+        "i18n": {
+          "en": "ruins",
+          "uk": "руїни"
+        }
+      },
+      {
+        "key": "history",
+        "i18n": {
+          "en": "history",
+          "uk": "історії"
+        }
+      },
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "landmark",
+        "i18n": {
+          "en": "landmark",
+          "uk": "орієнтир"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/athens-parthenon",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "space-telescope",
+  "mediaKey": "b3c38ea2-90f8-42c2-8188-f924464ef257",
+  "i18n": {
+    "name": {
+      "en": "Space Telescope",
+      "uk": "Космічний телескоп"
+    },
+    "alt": {
+      "en": "Space Telescope",
+      "uk": "Космічний телескоп"
+    },
+    "tags": [
+      {
+        "key": "space",
+        "i18n": {
+          "en": "space",
+          "uk": "космос"
+        }
+      },
+      {
+        "key": "telescope",
+        "i18n": {
+          "en": "telescope",
+          "uk": "телескоп"
+        }
+      },
+      {
+        "key": "stars",
+        "i18n": {
+          "en": "stars",
+          "uk": "зірки"
+        }
+      },
+      {
+        "key": "observatory",
+        "i18n": {
+          "en": "observatory",
+          "uk": "обсерваторія"
+        }
+      },
+      {
+        "key": "look",
+        "i18n": {
+          "en": "look",
+          "uk": "подивіться"
+        }
+      },
+      {
+        "key": "astronomy",
+        "i18n": {
+          "en": "astronomy",
+          "uk": "астрономія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/space-telescope",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

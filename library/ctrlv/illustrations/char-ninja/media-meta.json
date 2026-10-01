@@ -1,0 +1,97 @@
+{
+  "slug": "char-ninja",
+  "mediaKey": "ee54389e-e4d1-45e4-9af6-9fe0298e410e",
+  "i18n": {
+    "name": {
+      "en": "Ninja",
+      "uk": "Ніндзя"
+    },
+    "alt": {
+      "en": "Ninja",
+      "uk": "Ніндзя"
+    },
+    "tags": [
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      },
+      {
+        "key": "ninja",
+        "i18n": {
+          "en": "ninja",
+          "uk": "ніндзя"
+        }
+      },
+      {
+        "key": "stealth",
+        "i18n": {
+          "en": "stealth",
+          "uk": "стелс"
+        }
+      },
+      {
+        "key": "sword",
+        "i18n": {
+          "en": "sword",
+          "uk": "меч"
+        }
+      },
+      {
+        "key": "katana",
+        "i18n": {
+          "en": "katana",
+          "uk": "катана"
+        }
+      },
+      {
+        "key": "assassin",
+        "i18n": {
+          "en": "assassin",
+          "uk": "асасин"
+        }
+      },
+      {
+        "key": "martial-arts",
+        "i18n": {
+          "en": "martial arts",
+          "uk": "бойові мистецтва"
+        }
+      },
+      {
+        "key": "japan",
+        "i18n": {
+          "en": "japan",
+          "uk": "Японія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/char-ninja",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

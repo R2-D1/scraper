@@ -1,0 +1,90 @@
+{
+  "slug": "biz-term-churn",
+  "mediaKey": "41344086-896c-4e7d-86c4-c51b4be8c0a5",
+  "i18n": {
+    "name": {
+      "en": "Churn Rate",
+      "uk": "Коефіцієнт відтоку клієнтів"
+    },
+    "alt": {
+      "en": "Churn Rate",
+      "uk": "Коефіцієнт відтоку клієнтів"
+    },
+    "tags": [
+      {
+        "key": "business",
+        "i18n": {
+          "en": "business",
+          "uk": "бізнес"
+        }
+      },
+      {
+        "key": "terminology",
+        "i18n": {
+          "en": "terminology",
+          "uk": "термінологія"
+        }
+      },
+      {
+        "key": "churn",
+        "i18n": {
+          "en": "churn",
+          "uk": "відтік клієнтів"
+        }
+      },
+      {
+        "key": "loss",
+        "i18n": {
+          "en": "loss",
+          "uk": "втрата"
+        }
+      },
+      {
+        "key": "leak",
+        "i18n": {
+          "en": "leak",
+          "uk": "витік"
+        }
+      },
+      {
+        "key": "funnel",
+        "i18n": {
+          "en": "funnel",
+          "uk": "воронка"
+        }
+      },
+      {
+        "key": "retention",
+        "i18n": {
+          "en": "retention",
+          "uk": "утримання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/biz-term-churn",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

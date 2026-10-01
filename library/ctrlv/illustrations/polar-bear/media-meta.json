@@ -1,0 +1,76 @@
+{
+  "slug": "polar-bear",
+  "mediaKey": "e934e30f-b120-42c4-8500-98b81c3ee030",
+  "i18n": {
+    "name": {
+      "en": "Polar Bear",
+      "uk": "Полярний ведмідь"
+    },
+    "alt": {
+      "en": "Polar Bear",
+      "uk": "Полярний ведмідь"
+    },
+    "tags": [
+      {
+        "key": "bear",
+        "i18n": {
+          "en": "bear",
+          "uk": "ведмідь"
+        }
+      },
+      {
+        "key": "polar",
+        "i18n": {
+          "en": "polar",
+          "uk": "полярний"
+        }
+      },
+      {
+        "key": "arctic",
+        "i18n": {
+          "en": "arctic",
+          "uk": "Арктика"
+        }
+      },
+      {
+        "key": "animal",
+        "i18n": {
+          "en": "animal",
+          "uk": "тварина"
+        }
+      },
+      {
+        "key": "ice",
+        "i18n": {
+          "en": "ice",
+          "uk": "лід"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/polar-bear",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

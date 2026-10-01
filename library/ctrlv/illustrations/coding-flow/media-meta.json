@@ -1,0 +1,90 @@
+{
+  "slug": "coding-flow",
+  "mediaKey": "a1ace193-25fb-48fe-949c-f2301400a36d",
+  "i18n": {
+    "name": {
+      "en": "The Developer's Mind",
+      "uk": "Мислення розробника"
+    },
+    "alt": {
+      "en": "The Developer's Mind",
+      "uk": "Мислення розробника"
+    },
+    "tags": [
+      {
+        "key": "code",
+        "i18n": {
+          "en": "code",
+          "uk": "код"
+        }
+      },
+      {
+        "key": "developer",
+        "i18n": {
+          "en": "developer",
+          "uk": "розробник"
+        }
+      },
+      {
+        "key": "mind",
+        "i18n": {
+          "en": "mind",
+          "uk": "розум"
+        }
+      },
+      {
+        "key": "brain",
+        "i18n": {
+          "en": "brain",
+          "uk": "мозок"
+        }
+      },
+      {
+        "key": "focus",
+        "i18n": {
+          "en": "focus",
+          "uk": "фокус"
+        }
+      },
+      {
+        "key": "flow",
+        "i18n": {
+          "en": "flow",
+          "uk": "потік"
+        }
+      },
+      {
+        "key": "terminal",
+        "i18n": {
+          "en": "terminal",
+          "uk": "термінал"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/coding-flow",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

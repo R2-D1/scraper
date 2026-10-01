@@ -1,0 +1,97 @@
+{
+  "slug": "movie-clapperboard",
+  "mediaKey": "8b05477e-7a25-4f2d-aa0b-48bc14607f03",
+  "i18n": {
+    "name": {
+      "en": "Action Clapperboard",
+      "uk": "Клап-борд для зйомок"
+    },
+    "alt": {
+      "en": "Action Clapperboard",
+      "uk": "Клап-борд для зйомок"
+    },
+    "tags": [
+      {
+        "key": "movie",
+        "i18n": {
+          "en": "movie",
+          "uk": "фільм"
+        }
+      },
+      {
+        "key": "clapperboard",
+        "i18n": {
+          "en": "clapperboard",
+          "uk": "хлопавка"
+        }
+      },
+      {
+        "key": "action",
+        "i18n": {
+          "en": "action",
+          "uk": "дія"
+        }
+      },
+      {
+        "key": "cut",
+        "i18n": {
+          "en": "cut",
+          "uk": "вирізати"
+        }
+      },
+      {
+        "key": "film",
+        "i18n": {
+          "en": "film",
+          "uk": "плівка"
+        }
+      },
+      {
+        "key": "production",
+        "i18n": {
+          "en": "production",
+          "uk": "виробництво"
+        }
+      },
+      {
+        "key": "director",
+        "i18n": {
+          "en": "director",
+          "uk": "директор"
+        }
+      },
+      {
+        "key": "cinema",
+        "i18n": {
+          "en": "cinema",
+          "uk": "кіно"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/movie-clapperboard",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

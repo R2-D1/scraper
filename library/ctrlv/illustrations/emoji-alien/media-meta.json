@@ -1,0 +1,90 @@
+{
+  "slug": "emoji-alien",
+  "mediaKey": "92eab504-f458-432d-86cd-e3a474063a5e",
+  "i18n": {
+    "name": {
+      "en": "Alien Emoji",
+      "uk": "Інопланетні емодзі"
+    },
+    "alt": {
+      "en": "Alien Emoji",
+      "uk": "Інопланетні емодзі"
+    },
+    "tags": [
+      {
+        "key": "emoji",
+        "i18n": {
+          "en": "emoji",
+          "uk": "емодзі"
+        }
+      },
+      {
+        "key": "alien",
+        "i18n": {
+          "en": "alien",
+          "uk": "інопланетянин"
+        }
+      },
+      {
+        "key": "face",
+        "i18n": {
+          "en": "face",
+          "uk": "обличчя"
+        }
+      },
+      {
+        "key": "extraterrestrial",
+        "i18n": {
+          "en": "extraterrestrial",
+          "uk": "позаземний"
+        }
+      },
+      {
+        "key": "space",
+        "i18n": {
+          "en": "space",
+          "uk": "космос"
+        }
+      },
+      {
+        "key": "ufo",
+        "i18n": {
+          "en": "ufo",
+          "uk": "НЛО"
+        }
+      },
+      {
+        "key": "martian",
+        "i18n": {
+          "en": "martian",
+          "uk": "марсіанин"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emoji-alien",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

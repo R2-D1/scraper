@@ -1,0 +1,76 @@
+{
+  "slug": "sheesh-wow",
+  "mediaKey": "e4c4606a-0e39-4ef3-b86d-3cccf3eb598f",
+  "i18n": {
+    "name": {
+      "en": "Sheesh",
+      "uk": "Ой-ой-ой"
+    },
+    "alt": {
+      "en": "Sheesh",
+      "uk": "Ой-ой-ой"
+    },
+    "tags": [
+      {
+        "key": "sheesh",
+        "i18n": {
+          "en": "sheesh",
+          "uk": "ой-ой-ой"
+        }
+      },
+      {
+        "key": "impressive",
+        "i18n": {
+          "en": "impressive",
+          "uk": "вражаючий"
+        }
+      },
+      {
+        "key": "slang",
+        "i18n": {
+          "en": "slang",
+          "uk": "сленг"
+        }
+      },
+      {
+        "key": "genz",
+        "i18n": {
+          "en": "genz",
+          "uk": "Ілюстрація: genz"
+        }
+      },
+      {
+        "key": "abbreviation",
+        "i18n": {
+          "en": "abbreviation",
+          "uk": "скорочення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/sheesh-wow",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

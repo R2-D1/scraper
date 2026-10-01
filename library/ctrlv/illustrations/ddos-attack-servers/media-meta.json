@@ -1,0 +1,83 @@
+{
+  "slug": "ddos-attack-servers",
+  "mediaKey": "7cee63b1-2703-41c6-ba87-a5f4fa757c9f",
+  "i18n": {
+    "name": {
+      "en": "DDoS Attack Servers",
+      "uk": "Сервери для DDoS-атак"
+    },
+    "alt": {
+      "en": "DDoS Attack Servers",
+      "uk": "Сервери для DDoS-атак"
+    },
+    "tags": [
+      {
+        "key": "ddos",
+        "i18n": {
+          "en": "DDoS",
+          "uk": "DDoS"
+        }
+      },
+      {
+        "key": "attack",
+        "i18n": {
+          "en": "attack",
+          "uk": "атака"
+        }
+      },
+      {
+        "key": "servers",
+        "i18n": {
+          "en": "servers",
+          "uk": "сервери"
+        }
+      },
+      {
+        "key": "cybersecurity",
+        "i18n": {
+          "en": "cybersecurity",
+          "uk": "кібербезпека"
+        }
+      },
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      },
+      {
+        "key": "threat",
+        "i18n": {
+          "en": "threat",
+          "uk": "загроза"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/ddos-attack-servers",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

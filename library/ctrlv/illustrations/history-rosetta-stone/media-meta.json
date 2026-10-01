@@ -1,0 +1,90 @@
+{
+  "slug": "history-rosetta-stone",
+  "mediaKey": "9c5edf78-df00-4b3e-a725-e56fdd819dc8",
+  "i18n": {
+    "name": {
+      "en": "Rosetta Stone",
+      "uk": "«Розета-Стоун»"
+    },
+    "alt": {
+      "en": "Rosetta Stone",
+      "uk": "«Розета-Стоун»"
+    },
+    "tags": [
+      {
+        "key": "history",
+        "i18n": {
+          "en": "history",
+          "uk": "історії"
+        }
+      },
+      {
+        "key": "egypt",
+        "i18n": {
+          "en": "egypt",
+          "uk": "єгипет"
+        }
+      },
+      {
+        "key": "rosetta-stone",
+        "i18n": {
+          "en": "rosetta stone",
+          "uk": "камінь Розети"
+        }
+      },
+      {
+        "key": "language",
+        "i18n": {
+          "en": "language",
+          "uk": "мова"
+        }
+      },
+      {
+        "key": "translation",
+        "i18n": {
+          "en": "translation",
+          "uk": "переклад"
+        }
+      },
+      {
+        "key": "artifact",
+        "i18n": {
+          "en": "artifact",
+          "uk": "артефакт"
+        }
+      },
+      {
+        "key": "museum",
+        "i18n": {
+          "en": "museum",
+          "uk": "музей"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/history-rosetta-stone",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

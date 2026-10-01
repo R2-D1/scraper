@@ -1,0 +1,83 @@
+{
+  "slug": "agile-method",
+  "mediaKey": "3742c1fd-4e12-4942-952e-c9698e5e461a",
+  "i18n": {
+    "name": {
+      "en": "Agile Board",
+      "uk": "Дошка Agile"
+    },
+    "alt": {
+      "en": "Agile Board",
+      "uk": "Дошка Agile"
+    },
+    "tags": [
+      {
+        "key": "agile",
+        "i18n": {
+          "en": "agile",
+          "uk": "гнучкий"
+        }
+      },
+      {
+        "key": "scrum",
+        "i18n": {
+          "en": "scrum",
+          "uk": "скрам"
+        }
+      },
+      {
+        "key": "kanban",
+        "i18n": {
+          "en": "kanban",
+          "uk": "канбан"
+        }
+      },
+      {
+        "key": "sticky-notes",
+        "i18n": {
+          "en": "sticky notes",
+          "uk": "стікери-замітки"
+        }
+      },
+      {
+        "key": "teamwork",
+        "i18n": {
+          "en": "teamwork",
+          "uk": "командна робота"
+        }
+      },
+      {
+        "key": "productivity",
+        "i18n": {
+          "en": "productivity",
+          "uk": "продуктивність"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/agile-method",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

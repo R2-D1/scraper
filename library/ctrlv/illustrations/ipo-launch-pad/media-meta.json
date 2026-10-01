@@ -1,0 +1,83 @@
+{
+  "slug": "ipo-launch-pad",
+  "mediaKey": "96774f3b-f2fd-4aa2-9f64-cff00714221f",
+  "i18n": {
+    "name": {
+      "en": "Stock IPO",
+      "uk": "Первинне розміщення акцій (IPO)"
+    },
+    "alt": {
+      "en": "Stock IPO",
+      "uk": "Первинне розміщення акцій (IPO)"
+    },
+    "tags": [
+      {
+        "key": "ipo",
+        "i18n": {
+          "en": "ipo",
+          "uk": "IPO"
+        }
+      },
+      {
+        "key": "launch",
+        "i18n": {
+          "en": "launch",
+          "uk": "запуск"
+        }
+      },
+      {
+        "key": "stock",
+        "i18n": {
+          "en": "stock",
+          "uk": "запас"
+        }
+      },
+      {
+        "key": "invest",
+        "i18n": {
+          "en": "invest",
+          "uk": "інвестувати"
+        }
+      },
+      {
+        "key": "finance",
+        "i18n": {
+          "en": "finance",
+          "uk": "фінанси"
+        }
+      },
+      {
+        "key": "public",
+        "i18n": {
+          "en": "public",
+          "uk": "публічний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/ipo-launch-pad",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

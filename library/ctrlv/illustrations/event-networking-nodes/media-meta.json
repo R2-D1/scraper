@@ -1,0 +1,97 @@
+{
+  "slug": "event-networking-nodes",
+  "mediaKey": "164f319a-62d6-4606-b72d-434f4ad749ef",
+  "i18n": {
+    "name": {
+      "en": "Networking",
+      "uk": "Мережеві технології"
+    },
+    "alt": {
+      "en": "Networking",
+      "uk": "Мережеві технології"
+    },
+    "tags": [
+      {
+        "key": "event",
+        "i18n": {
+          "en": "event",
+          "uk": "подія"
+        }
+      },
+      {
+        "key": "networking",
+        "i18n": {
+          "en": "networking",
+          "uk": "мережі"
+        }
+      },
+      {
+        "key": "connections",
+        "i18n": {
+          "en": "connections",
+          "uk": "з'єднання"
+        }
+      },
+      {
+        "key": "nodes",
+        "i18n": {
+          "en": "nodes",
+          "uk": "вузли"
+        }
+      },
+      {
+        "key": "community",
+        "i18n": {
+          "en": "community",
+          "uk": "громада"
+        }
+      },
+      {
+        "key": "interaction",
+        "i18n": {
+          "en": "interaction",
+          "uk": "взаємодія"
+        }
+      },
+      {
+        "key": "contact",
+        "i18n": {
+          "en": "contact",
+          "uk": "контакт"
+        }
+      },
+      {
+        "key": "links",
+        "i18n": {
+          "en": "links",
+          "uk": "посилання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/event-networking-nodes",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

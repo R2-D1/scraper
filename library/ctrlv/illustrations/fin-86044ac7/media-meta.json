@@ -1,0 +1,90 @@
+{
+  "slug": "fin-86044ac7",
+  "mediaKey": "0dbaac3e-a67c-474f-95a1-d9ba638b1874",
+  "i18n": {
+    "name": {
+      "en": "Shopping Receipt",
+      "uk": "Чек із магазину"
+    },
+    "alt": {
+      "en": "Shopping Receipt",
+      "uk": "Чек із магазину"
+    },
+    "tags": [
+      {
+        "key": "shopping",
+        "i18n": {
+          "en": "shopping",
+          "uk": "покупки"
+        }
+      },
+      {
+        "key": "receipt",
+        "i18n": {
+          "en": "receipt",
+          "uk": "квитанція"
+        }
+      },
+      {
+        "key": "invoice",
+        "i18n": {
+          "en": "invoice",
+          "uk": "рахунок-фактура"
+        }
+      },
+      {
+        "key": "transaction",
+        "i18n": {
+          "en": "transaction",
+          "uk": "угода"
+        }
+      },
+      {
+        "key": "payment",
+        "i18n": {
+          "en": "payment",
+          "uk": "оплата"
+        }
+      },
+      {
+        "key": "ecommerce",
+        "i18n": {
+          "en": "ecommerce",
+          "uk": "електронна комерція"
+        }
+      },
+      {
+        "key": "finance",
+        "i18n": {
+          "en": "finance",
+          "uk": "фінанси"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/fin-86044ac7",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

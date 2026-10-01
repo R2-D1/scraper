@@ -1,0 +1,90 @@
+{
+  "slug": "security-phishing",
+  "mediaKey": "d76c6cbd-9473-4471-8fae-8c056a4a1f33",
+  "i18n": {
+    "name": {
+      "en": "Phishing",
+      "uk": "Фішинг"
+    },
+    "alt": {
+      "en": "Phishing",
+      "uk": "Фішинг"
+    },
+    "tags": [
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "phishing",
+        "i18n": {
+          "en": "phishing",
+          "uk": "фішинг"
+        }
+      },
+      {
+        "key": "email",
+        "i18n": {
+          "en": "email",
+          "uk": "електронна пошта"
+        }
+      },
+      {
+        "key": "hook",
+        "i18n": {
+          "en": "hook",
+          "uk": "гачок"
+        }
+      },
+      {
+        "key": "scam",
+        "i18n": {
+          "en": "scam",
+          "uk": "шахрайство"
+        }
+      },
+      {
+        "key": "spam",
+        "i18n": {
+          "en": "spam",
+          "uk": "спам"
+        }
+      },
+      {
+        "key": "fraud",
+        "i18n": {
+          "en": "fraud",
+          "uk": "шахрайство"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/security-phishing",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

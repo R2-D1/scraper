@@ -1,0 +1,76 @@
+{
+  "slug": "e-learning-cap",
+  "mediaKey": "e432895c-0c7c-44be-9baa-5d9306db2e99",
+  "i18n": {
+    "name": {
+      "en": "E-Learning",
+      "uk": "Електронне навчання"
+    },
+    "alt": {
+      "en": "E-Learning",
+      "uk": "Електронне навчання"
+    },
+    "tags": [
+      {
+        "key": "elearning",
+        "i18n": {
+          "en": "elearning",
+          "uk": "онлайн-навчання"
+        }
+      },
+      {
+        "key": "study",
+        "i18n": {
+          "en": "study",
+          "uk": "навчання"
+        }
+      },
+      {
+        "key": "graduate",
+        "i18n": {
+          "en": "graduate",
+          "uk": "випускник"
+        }
+      },
+      {
+        "key": "tablet",
+        "i18n": {
+          "en": "tablet",
+          "uk": "планшет"
+        }
+      },
+      {
+        "key": "edu",
+        "i18n": {
+          "en": "edu",
+          "uk": "edu"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/e-learning-cap",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

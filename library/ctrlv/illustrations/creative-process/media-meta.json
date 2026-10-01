@@ -1,0 +1,90 @@
+{
+  "slug": "creative-process",
+  "mediaKey": "b7f8d3de-ea42-42d3-be94-782bf2923091",
+  "i18n": {
+    "name": {
+      "en": "Creative Spark",
+      "uk": "Творча іскра"
+    },
+    "alt": {
+      "en": "Creative Spark",
+      "uk": "Творча іскра"
+    },
+    "tags": [
+      {
+        "key": "creative",
+        "i18n": {
+          "en": "creative",
+          "uk": "креативний"
+        }
+      },
+      {
+        "key": "process",
+        "i18n": {
+          "en": "process",
+          "uk": "процес"
+        }
+      },
+      {
+        "key": "ideas",
+        "i18n": {
+          "en": "ideas",
+          "uk": "ідеї"
+        }
+      },
+      {
+        "key": "lightbulb",
+        "i18n": {
+          "en": "lightbulb",
+          "uk": "лампочка"
+        }
+      },
+      {
+        "key": "innovation",
+        "i18n": {
+          "en": "innovation",
+          "uk": "інновація"
+        }
+      },
+      {
+        "key": "brainstorm",
+        "i18n": {
+          "en": "brainstorm",
+          "uk": "мозковий штурм"
+        }
+      },
+      {
+        "key": "edu",
+        "i18n": {
+          "en": "edu",
+          "uk": "edu"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/creative-process",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

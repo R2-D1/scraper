@@ -1,0 +1,83 @@
+{
+  "slug": "na-dash",
+  "mediaKey": "7935b2a0-f382-484c-bb04-3cae2ac72e4c",
+  "i18n": {
+    "name": {
+      "en": "N/A",
+      "uk": "Немає даних"
+    },
+    "alt": {
+      "en": "N/A",
+      "uk": "Немає даних"
+    },
+    "tags": [
+      {
+        "key": "n-a",
+        "i18n": {
+          "en": "n/a",
+          "uk": "не вказано"
+        }
+      },
+      {
+        "key": "not-applicable",
+        "i18n": {
+          "en": "not applicable",
+          "uk": "не застосовується"
+        }
+      },
+      {
+        "key": "empty",
+        "i18n": {
+          "en": "empty",
+          "uk": "порожній"
+        }
+      },
+      {
+        "key": "pro",
+        "i18n": {
+          "en": "pro",
+          "uk": "професіонал"
+        }
+      },
+      {
+        "key": "slang",
+        "i18n": {
+          "en": "slang",
+          "uk": "сленг"
+        }
+      },
+      {
+        "key": "abbreviation",
+        "i18n": {
+          "en": "abbreviation",
+          "uk": "скорочення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/na-dash",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

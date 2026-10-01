@@ -1,0 +1,76 @@
+{
+  "slug": "disco-ball",
+  "mediaKey": "eb5ddb70-efc7-4392-af9b-6c7e722fd56e",
+  "i18n": {
+    "name": {
+      "en": "Dance Floor",
+      "uk": "Танцювальний майданчик"
+    },
+    "alt": {
+      "en": "Dance Floor",
+      "uk": "Танцювальний майданчик"
+    },
+    "tags": [
+      {
+        "key": "disco",
+        "i18n": {
+          "en": "disco",
+          "uk": "диско"
+        }
+      },
+      {
+        "key": "party",
+        "i18n": {
+          "en": "party",
+          "uk": "вечірка"
+        }
+      },
+      {
+        "key": "dance",
+        "i18n": {
+          "en": "dance",
+          "uk": "танець"
+        }
+      },
+      {
+        "key": "music",
+        "i18n": {
+          "en": "music",
+          "uk": "музика"
+        }
+      },
+      {
+        "key": "nightlife",
+        "i18n": {
+          "en": "nightlife",
+          "uk": "нічне життя"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/disco-ball",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

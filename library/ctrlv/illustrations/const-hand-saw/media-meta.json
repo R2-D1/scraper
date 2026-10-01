@@ -1,0 +1,90 @@
+{
+  "slug": "const-hand-saw",
+  "mediaKey": "8aa6d2c7-e719-4cb9-935e-3bdbc047571f",
+  "i18n": {
+    "name": {
+      "en": "Hand Saw",
+      "uk": "Ручна пилка"
+    },
+    "alt": {
+      "en": "Hand Saw",
+      "uk": "Ручна пилка"
+    },
+    "tags": [
+      {
+        "key": "construction",
+        "i18n": {
+          "en": "construction",
+          "uk": "будівництво"
+        }
+      },
+      {
+        "key": "saw",
+        "i18n": {
+          "en": "saw",
+          "uk": "пила"
+        }
+      },
+      {
+        "key": "wood",
+        "i18n": {
+          "en": "wood",
+          "uk": "деревина"
+        }
+      },
+      {
+        "key": "carpentry",
+        "i18n": {
+          "en": "carpentry",
+          "uk": "столярство"
+        }
+      },
+      {
+        "key": "cut",
+        "i18n": {
+          "en": "cut",
+          "uk": "вирізати"
+        }
+      },
+      {
+        "key": "timber",
+        "i18n": {
+          "en": "timber",
+          "uk": "деревина"
+        }
+      },
+      {
+        "key": "blade",
+        "i18n": {
+          "en": "blade",
+          "uk": "лезо"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/const-hand-saw",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

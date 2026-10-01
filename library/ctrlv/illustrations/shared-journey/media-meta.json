@@ -1,0 +1,90 @@
+{
+  "slug": "shared-journey",
+  "mediaKey": "11a72d6d-52b6-47ae-9806-27abd162a56d",
+  "i18n": {
+    "name": {
+      "en": "Shared Journey",
+      "uk": "Спільна подорож"
+    },
+    "alt": {
+      "en": "Shared Journey",
+      "uk": "Спільна подорож"
+    },
+    "tags": [
+      {
+        "key": "family",
+        "i18n": {
+          "en": "family",
+          "uk": "родина"
+        }
+      },
+      {
+        "key": "journey",
+        "i18n": {
+          "en": "journey",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "van",
+        "i18n": {
+          "en": "van",
+          "uk": "фургон"
+        }
+      },
+      {
+        "key": "trip",
+        "i18n": {
+          "en": "trip",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "moving",
+        "i18n": {
+          "en": "moving",
+          "uk": "рух"
+        }
+      },
+      {
+        "key": "together",
+        "i18n": {
+          "en": "together",
+          "uk": "разом"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/shared-journey",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

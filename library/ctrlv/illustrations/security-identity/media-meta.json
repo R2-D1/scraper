@@ -1,0 +1,90 @@
+{
+  "slug": "security-identity",
+  "mediaKey": "23dc5bf4-27b0-4e0c-8a7e-a7222fd9b408",
+  "i18n": {
+    "name": {
+      "en": "Identity Protection",
+      "uk": "Захист особистих даних"
+    },
+    "alt": {
+      "en": "Identity Protection",
+      "uk": "Захист особистих даних"
+    },
+    "tags": [
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "identity",
+        "i18n": {
+          "en": "identity",
+          "uk": "ідентичність"
+        }
+      },
+      {
+        "key": "protection",
+        "i18n": {
+          "en": "protection",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "privacy",
+        "i18n": {
+          "en": "privacy",
+          "uk": "конфіденційність"
+        }
+      },
+      {
+        "key": "mask",
+        "i18n": {
+          "en": "mask",
+          "uk": "маска"
+        }
+      },
+      {
+        "key": "anonymous",
+        "i18n": {
+          "en": "anonymous",
+          "uk": "анонімний"
+        }
+      },
+      {
+        "key": "user",
+        "i18n": {
+          "en": "user",
+          "uk": "користувача"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/security-identity",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

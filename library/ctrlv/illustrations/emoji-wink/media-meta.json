@@ -1,0 +1,83 @@
+{
+  "slug": "emoji-wink",
+  "mediaKey": "269bfa19-9f75-4fd2-b30c-e48619bccf2c",
+  "i18n": {
+    "name": {
+      "en": "Wink Emoji",
+      "uk": "Емодзі «підморгування»"
+    },
+    "alt": {
+      "en": "Wink Emoji",
+      "uk": "Емодзі «підморгування»"
+    },
+    "tags": [
+      {
+        "key": "emoji",
+        "i18n": {
+          "en": "emoji",
+          "uk": "емодзі"
+        }
+      },
+      {
+        "key": "wink",
+        "i18n": {
+          "en": "wink",
+          "uk": "підморгувати"
+        }
+      },
+      {
+        "key": "face",
+        "i18n": {
+          "en": "face",
+          "uk": "обличчя"
+        }
+      },
+      {
+        "key": "playful",
+        "i18n": {
+          "en": "playful",
+          "uk": "грайливий"
+        }
+      },
+      {
+        "key": "cheeky",
+        "i18n": {
+          "en": "cheeky",
+          "uk": "нахабний"
+        }
+      },
+      {
+        "key": "joke",
+        "i18n": {
+          "en": "joke",
+          "uk": "жарт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emoji-wink",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

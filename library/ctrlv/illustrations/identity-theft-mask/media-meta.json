@@ -1,0 +1,83 @@
+{
+  "slug": "identity-theft-mask",
+  "mediaKey": "4957362e-73dc-4e53-b812-4fa744b056e2",
+  "i18n": {
+    "name": {
+      "en": "Identity Theft Mask",
+      "uk": "Маска для приховування особи"
+    },
+    "alt": {
+      "en": "Identity Theft Mask",
+      "uk": "Маска для приховування особи"
+    },
+    "tags": [
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "privacy",
+        "i18n": {
+          "en": "privacy",
+          "uk": "конфіденційність"
+        }
+      },
+      {
+        "key": "theft",
+        "i18n": {
+          "en": "theft",
+          "uk": "крадіжка"
+        }
+      },
+      {
+        "key": "mask",
+        "i18n": {
+          "en": "mask",
+          "uk": "маска"
+        }
+      },
+      {
+        "key": "cybersecurity",
+        "i18n": {
+          "en": "cybersecurity",
+          "uk": "кібербезпека"
+        }
+      },
+      {
+        "key": "abstract",
+        "i18n": {
+          "en": "abstract",
+          "uk": "абстракція"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/identity-theft-mask",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

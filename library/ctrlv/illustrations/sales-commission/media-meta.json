@@ -1,0 +1,90 @@
+{
+  "slug": "sales-commission",
+  "mediaKey": "8eea9b0f-9674-4116-aa1b-c320b9dcabcc",
+  "i18n": {
+    "name": {
+      "en": "Commission",
+      "uk": "Комісія"
+    },
+    "alt": {
+      "en": "Commission",
+      "uk": "Комісія"
+    },
+    "tags": [
+      {
+        "key": "sales",
+        "i18n": {
+          "en": "sales",
+          "uk": "продажі"
+        }
+      },
+      {
+        "key": "commission",
+        "i18n": {
+          "en": "commission",
+          "uk": "комісія"
+        }
+      },
+      {
+        "key": "bonus",
+        "i18n": {
+          "en": "bonus",
+          "uk": "бонус"
+        }
+      },
+      {
+        "key": "money",
+        "i18n": {
+          "en": "money",
+          "uk": "гроші"
+        }
+      },
+      {
+        "key": "bag",
+        "i18n": {
+          "en": "bag",
+          "uk": "сумка"
+        }
+      },
+      {
+        "key": "pay",
+        "i18n": {
+          "en": "pay",
+          "uk": "платити"
+        }
+      },
+      {
+        "key": "reward",
+        "i18n": {
+          "en": "reward",
+          "uk": "нагорода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/sales-commission",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

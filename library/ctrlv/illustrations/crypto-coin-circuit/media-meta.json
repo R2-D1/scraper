@@ -1,0 +1,83 @@
+{
+  "slug": "crypto-coin-circuit",
+  "mediaKey": "32f44e88-8041-4a40-bc0e-71d1a8f2f4a1",
+  "i18n": {
+    "name": {
+      "en": "Crypto Assets",
+      "uk": "Криптоактиви"
+    },
+    "alt": {
+      "en": "Crypto Assets",
+      "uk": "Криптоактиви"
+    },
+    "tags": [
+      {
+        "key": "crypto",
+        "i18n": {
+          "en": "crypto",
+          "uk": "криптовалюта"
+        }
+      },
+      {
+        "key": "bitcoin",
+        "i18n": {
+          "en": "bitcoin",
+          "uk": "біткойн"
+        }
+      },
+      {
+        "key": "blockchain",
+        "i18n": {
+          "en": "blockchain",
+          "uk": "блокчейн"
+        }
+      },
+      {
+        "key": "invest",
+        "i18n": {
+          "en": "invest",
+          "uk": "інвестувати"
+        }
+      },
+      {
+        "key": "digital",
+        "i18n": {
+          "en": "digital",
+          "uk": "цифровий"
+        }
+      },
+      {
+        "key": "finance",
+        "i18n": {
+          "en": "finance",
+          "uk": "фінанси"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/crypto-coin-circuit",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

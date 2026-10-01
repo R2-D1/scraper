@@ -1,0 +1,76 @@
+{
+  "slug": "baking-bread",
+  "mediaKey": "ea5c681c-6d35-4442-bca2-2a78b350d2c6",
+  "i18n": {
+    "name": {
+      "en": "Warm Bread",
+      "uk": "Теплий хліб"
+    },
+    "alt": {
+      "en": "Warm Bread",
+      "uk": "Теплий хліб"
+    },
+    "tags": [
+      {
+        "key": "baking",
+        "i18n": {
+          "en": "baking",
+          "uk": "випічка"
+        }
+      },
+      {
+        "key": "food",
+        "i18n": {
+          "en": "food",
+          "uk": "їжа"
+        }
+      },
+      {
+        "key": "kitchen",
+        "i18n": {
+          "en": "kitchen",
+          "uk": "кухня"
+        }
+      },
+      {
+        "key": "hobby",
+        "i18n": {
+          "en": "hobby",
+          "uk": "хобі"
+        }
+      },
+      {
+        "key": "bread",
+        "i18n": {
+          "en": "bread",
+          "uk": "хліб"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/baking-bread",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

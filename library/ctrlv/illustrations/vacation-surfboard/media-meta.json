@@ -1,0 +1,90 @@
+{
+  "slug": "vacation-surfboard",
+  "mediaKey": "76328a19-1e54-4dfd-82e3-b1ca2f0b00f2",
+  "i18n": {
+    "name": {
+      "en": "Surfboard",
+      "uk": "Дошка для серфінгу"
+    },
+    "alt": {
+      "en": "Surfboard",
+      "uk": "Дошка для серфінгу"
+    },
+    "tags": [
+      {
+        "key": "vacation",
+        "i18n": {
+          "en": "vacation",
+          "uk": "відпустка"
+        }
+      },
+      {
+        "key": "surfboard",
+        "i18n": {
+          "en": "surfboard",
+          "uk": "дошка для серфінгу"
+        }
+      },
+      {
+        "key": "surf",
+        "i18n": {
+          "en": "surf",
+          "uk": "серфінг"
+        }
+      },
+      {
+        "key": "waves",
+        "i18n": {
+          "en": "waves",
+          "uk": "хвилі"
+        }
+      },
+      {
+        "key": "beach",
+        "i18n": {
+          "en": "beach",
+          "uk": "пляж"
+        }
+      },
+      {
+        "key": "ocean",
+        "i18n": {
+          "en": "ocean",
+          "uk": "океан"
+        }
+      },
+      {
+        "key": "ride",
+        "i18n": {
+          "en": "ride",
+          "uk": "поїздка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/vacation-surfboard",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "emoji-tongue-out",
+  "mediaKey": "bf6801e7-b2cb-4753-9051-e9e396cd5ca4",
+  "i18n": {
+    "name": {
+      "en": "Tongue Out Emoji",
+      "uk": "Емодзі «Висунутий язик»"
+    },
+    "alt": {
+      "en": "Tongue Out Emoji",
+      "uk": "Емодзі «Висунутий язик»"
+    },
+    "tags": [
+      {
+        "key": "emoji",
+        "i18n": {
+          "en": "emoji",
+          "uk": "емодзі"
+        }
+      },
+      {
+        "key": "tongue",
+        "i18n": {
+          "en": "tongue",
+          "uk": "язик"
+        }
+      },
+      {
+        "key": "out",
+        "i18n": {
+          "en": "out",
+          "uk": "поза"
+        }
+      },
+      {
+        "key": "face",
+        "i18n": {
+          "en": "face",
+          "uk": "обличчя"
+        }
+      },
+      {
+        "key": "silly",
+        "i18n": {
+          "en": "silly",
+          "uk": "дурне"
+        }
+      },
+      {
+        "key": "cheeky",
+        "i18n": {
+          "en": "cheeky",
+          "uk": "нахабний"
+        }
+      },
+      {
+        "key": "joke",
+        "i18n": {
+          "en": "joke",
+          "uk": "жарт"
+        }
+      },
+      {
+        "key": "funny",
+        "i18n": {
+          "en": "funny",
+          "uk": "смішний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emoji-tongue-out",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

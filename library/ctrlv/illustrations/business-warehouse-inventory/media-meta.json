@@ -1,0 +1,97 @@
+{
+  "slug": "business-warehouse-inventory",
+  "mediaKey": "66269cb8-83e6-4c7f-ba0c-5f0db5d52881",
+  "i18n": {
+    "name": {
+      "en": "Warehouse Inventory",
+      "uk": "Запаси на складі"
+    },
+    "alt": {
+      "en": "Warehouse Inventory",
+      "uk": "Запаси на складі"
+    },
+    "tags": [
+      {
+        "key": "business",
+        "i18n": {
+          "en": "business",
+          "uk": "бізнес"
+        }
+      },
+      {
+        "key": "warehouse",
+        "i18n": {
+          "en": "warehouse",
+          "uk": "склад"
+        }
+      },
+      {
+        "key": "inventory",
+        "i18n": {
+          "en": "inventory",
+          "uk": "інвентар"
+        }
+      },
+      {
+        "key": "boxes",
+        "i18n": {
+          "en": "boxes",
+          "uk": "коробки"
+        }
+      },
+      {
+        "key": "racks",
+        "i18n": {
+          "en": "racks",
+          "uk": "стелажі"
+        }
+      },
+      {
+        "key": "storage",
+        "i18n": {
+          "en": "storage",
+          "uk": "сховище"
+        }
+      },
+      {
+        "key": "logistics",
+        "i18n": {
+          "en": "logistics",
+          "uk": "логістика"
+        }
+      },
+      {
+        "key": "barcode",
+        "i18n": {
+          "en": "barcode",
+          "uk": "штрих-код"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/business-warehouse-inventory",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

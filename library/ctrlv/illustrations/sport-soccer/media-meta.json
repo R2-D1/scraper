@@ -1,0 +1,90 @@
+{
+  "slug": "sport-soccer",
+  "mediaKey": "fd5ac536-7492-4576-9cd9-09ba9ddf92bf",
+  "i18n": {
+    "name": {
+      "en": "The Winning Goal",
+      "uk": "Переможний гол"
+    },
+    "alt": {
+      "en": "The Winning Goal",
+      "uk": "Переможний гол"
+    },
+    "tags": [
+      {
+        "key": "soccer",
+        "i18n": {
+          "en": "soccer",
+          "uk": "футбол"
+        }
+      },
+      {
+        "key": "football",
+        "i18n": {
+          "en": "football",
+          "uk": "футбол"
+        }
+      },
+      {
+        "key": "sport",
+        "i18n": {
+          "en": "sport",
+          "uk": "спорт"
+        }
+      },
+      {
+        "key": "goal",
+        "i18n": {
+          "en": "goal",
+          "uk": "гол"
+        }
+      },
+      {
+        "key": "kick",
+        "i18n": {
+          "en": "kick",
+          "uk": "Kick"
+        }
+      },
+      {
+        "key": "champion",
+        "i18n": {
+          "en": "champion",
+          "uk": "чемпіон"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/sport-soccer",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

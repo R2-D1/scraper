@@ -1,0 +1,97 @@
+{
+  "slug": "portrait-einstein",
+  "mediaKey": "aad001e8-5048-4384-9cde-5f2834cc4b27",
+  "i18n": {
+    "name": {
+      "en": "Einstein Portrait",
+      "uk": "Портрет Ейнштейна"
+    },
+    "alt": {
+      "en": "Einstein Portrait",
+      "uk": "Портрет Ейнштейна"
+    },
+    "tags": [
+      {
+        "key": "portrait",
+        "i18n": {
+          "en": "portrait",
+          "uk": "портрет"
+        }
+      },
+      {
+        "key": "scientist",
+        "i18n": {
+          "en": "scientist",
+          "uk": "вчений"
+        }
+      },
+      {
+        "key": "einstein",
+        "i18n": {
+          "en": "einstein",
+          "uk": "Ейнштейн"
+        }
+      },
+      {
+        "key": "face",
+        "i18n": {
+          "en": "face",
+          "uk": "обличчя"
+        }
+      },
+      {
+        "key": "relativity",
+        "i18n": {
+          "en": "relativity",
+          "uk": "відносність"
+        }
+      },
+      {
+        "key": "hair",
+        "i18n": {
+          "en": "hair",
+          "uk": "волосся"
+        }
+      },
+      {
+        "key": "physics",
+        "i18n": {
+          "en": "physics",
+          "uk": "фізика"
+        }
+      },
+      {
+        "key": "genius",
+        "i18n": {
+          "en": "genius",
+          "uk": "геній"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/portrait-einstein",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

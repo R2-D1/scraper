@@ -1,0 +1,83 @@
+{
+  "slug": "piggy-bank-coin",
+  "mediaKey": "23994619-d5f8-48fe-8d7c-aa44df7b7f86",
+  "i18n": {
+    "name": {
+      "en": "Piggy Bank",
+      "uk": "Скарбничка"
+    },
+    "alt": {
+      "en": "Piggy Bank",
+      "uk": "Скарбничка"
+    },
+    "tags": [
+      {
+        "key": "piggy-bank",
+        "i18n": {
+          "en": "piggy bank",
+          "uk": "скарбничка"
+        }
+      },
+      {
+        "key": "savings",
+        "i18n": {
+          "en": "savings",
+          "uk": "заощадження"
+        }
+      },
+      {
+        "key": "invest",
+        "i18n": {
+          "en": "invest",
+          "uk": "інвестувати"
+        }
+      },
+      {
+        "key": "money",
+        "i18n": {
+          "en": "money",
+          "uk": "гроші"
+        }
+      },
+      {
+        "key": "child",
+        "i18n": {
+          "en": "child",
+          "uk": "дитина"
+        }
+      },
+      {
+        "key": "bank",
+        "i18n": {
+          "en": "bank",
+          "uk": "банку"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/piggy-bank-coin",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

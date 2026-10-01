@@ -1,0 +1,90 @@
+{
+  "slug": "biz-term-bandwidth",
+  "mediaKey": "5db932b6-4378-4018-b3e7-57a113e3372f",
+  "i18n": {
+    "name": {
+      "en": "Bandwidth",
+      "uk": "Пропускна здатність"
+    },
+    "alt": {
+      "en": "Bandwidth",
+      "uk": "Пропускна здатність"
+    },
+    "tags": [
+      {
+        "key": "business",
+        "i18n": {
+          "en": "business",
+          "uk": "бізнес"
+        }
+      },
+      {
+        "key": "terminology",
+        "i18n": {
+          "en": "terminology",
+          "uk": "термінологія"
+        }
+      },
+      {
+        "key": "bandwidth",
+        "i18n": {
+          "en": "bandwidth",
+          "uk": "пропускна здатність"
+        }
+      },
+      {
+        "key": "capacity",
+        "i18n": {
+          "en": "capacity",
+          "uk": "місткість"
+        }
+      },
+      {
+        "key": "flow",
+        "i18n": {
+          "en": "flow",
+          "uk": "потік"
+        }
+      },
+      {
+        "key": "resource",
+        "i18n": {
+          "en": "resource",
+          "uk": "ресурс"
+        }
+      },
+      {
+        "key": "load",
+        "i18n": {
+          "en": "load",
+          "uk": "навантаження"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/biz-term-bandwidth",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

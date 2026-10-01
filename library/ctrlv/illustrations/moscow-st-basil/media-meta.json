@@ -1,0 +1,83 @@
+{
+  "slug": "moscow-st-basil",
+  "mediaKey": "6d017939-94af-45db-bd0e-523ee8ec65fd",
+  "i18n": {
+    "name": {
+      "en": "Moscow, Russia",
+      "uk": "Москва, Росія"
+    },
+    "alt": {
+      "en": "Moscow, Russia",
+      "uk": "Москва, Росія"
+    },
+    "tags": [
+      {
+        "key": "moscow",
+        "i18n": {
+          "en": "moscow",
+          "uk": "Москва"
+        }
+      },
+      {
+        "key": "basil",
+        "i18n": {
+          "en": "basil",
+          "uk": "базилік"
+        }
+      },
+      {
+        "key": "cathedral",
+        "i18n": {
+          "en": "cathedral",
+          "uk": "собор"
+        }
+      },
+      {
+        "key": "snow",
+        "i18n": {
+          "en": "snow",
+          "uk": "сніг"
+        }
+      },
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "landmark",
+        "i18n": {
+          "en": "landmark",
+          "uk": "орієнтир"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/moscow-st-basil",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

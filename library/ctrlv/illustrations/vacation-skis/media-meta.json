@@ -1,0 +1,97 @@
+{
+  "slug": "vacation-skis",
+  "mediaKey": "225a9cb7-6534-40f7-8ba1-e086bb76b3d9",
+  "i18n": {
+    "name": {
+      "en": "Skis & Poles",
+      "uk": "Лижі та палиці"
+    },
+    "alt": {
+      "en": "Skis & Poles",
+      "uk": "Лижі та палиці"
+    },
+    "tags": [
+      {
+        "key": "vacation",
+        "i18n": {
+          "en": "vacation",
+          "uk": "відпустка"
+        }
+      },
+      {
+        "key": "skis",
+        "i18n": {
+          "en": "skis",
+          "uk": "лижі"
+        }
+      },
+      {
+        "key": "poles",
+        "i18n": {
+          "en": "poles",
+          "uk": "полюси"
+        }
+      },
+      {
+        "key": "winter",
+        "i18n": {
+          "en": "winter",
+          "uk": "зима"
+        }
+      },
+      {
+        "key": "snow",
+        "i18n": {
+          "en": "snow",
+          "uk": "сніг"
+        }
+      },
+      {
+        "key": "skiing",
+        "i18n": {
+          "en": "skiing",
+          "uk": "лижі"
+        }
+      },
+      {
+        "key": "mountain",
+        "i18n": {
+          "en": "mountain",
+          "uk": "гора"
+        }
+      },
+      {
+        "key": "holiday",
+        "i18n": {
+          "en": "holiday",
+          "uk": "свято"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/vacation-skis",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

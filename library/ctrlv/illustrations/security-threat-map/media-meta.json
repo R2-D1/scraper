@@ -1,0 +1,90 @@
+{
+  "slug": "security-threat-map",
+  "mediaKey": "06c4ca64-b1f8-4581-a253-708197bc6498",
+  "i18n": {
+    "name": {
+      "en": "Threat Map",
+      "uk": "Карта загроз"
+    },
+    "alt": {
+      "en": "Threat Map",
+      "uk": "Карта загроз"
+    },
+    "tags": [
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "threat",
+        "i18n": {
+          "en": "threat",
+          "uk": "загроза"
+        }
+      },
+      {
+        "key": "map",
+        "i18n": {
+          "en": "map",
+          "uk": "карта"
+        }
+      },
+      {
+        "key": "globe",
+        "i18n": {
+          "en": "globe",
+          "uk": "глобус"
+        }
+      },
+      {
+        "key": "attack",
+        "i18n": {
+          "en": "attack",
+          "uk": "атака"
+        }
+      },
+      {
+        "key": "cyber",
+        "i18n": {
+          "en": "cyber",
+          "uk": "кібер"
+        }
+      },
+      {
+        "key": "global",
+        "i18n": {
+          "en": "global",
+          "uk": "глобальний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/security-threat-map",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

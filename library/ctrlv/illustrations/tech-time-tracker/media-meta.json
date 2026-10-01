@@ -1,0 +1,97 @@
+{
+  "slug": "tech-time-tracker",
+  "mediaKey": "fcdc3e80-d6ab-4487-8c71-956bf98d8442",
+  "i18n": {
+    "name": {
+      "en": "Time Tracker",
+      "uk": "Лічильник часу"
+    },
+    "alt": {
+      "en": "Time Tracker",
+      "uk": "Лічильник часу"
+    },
+    "tags": [
+      {
+        "key": "productivity",
+        "i18n": {
+          "en": "productivity",
+          "uk": "продуктивність"
+        }
+      },
+      {
+        "key": "time",
+        "i18n": {
+          "en": "time",
+          "uk": "час"
+        }
+      },
+      {
+        "key": "clock",
+        "i18n": {
+          "en": "clock",
+          "uk": "годинник"
+        }
+      },
+      {
+        "key": "tracker",
+        "i18n": {
+          "en": "tracker",
+          "uk": "трекер"
+        }
+      },
+      {
+        "key": "pomodoro",
+        "i18n": {
+          "en": "pomodoro",
+          "uk": "помодоро"
+        }
+      },
+      {
+        "key": "timer",
+        "i18n": {
+          "en": "timer",
+          "uk": "таймер"
+        }
+      },
+      {
+        "key": "schedule",
+        "i18n": {
+          "en": "schedule",
+          "uk": "розклад"
+        }
+      },
+      {
+        "key": "deadline",
+        "i18n": {
+          "en": "deadline",
+          "uk": "дедлайн"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/tech-time-tracker",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

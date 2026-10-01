@@ -1,0 +1,83 @@
+{
+  "slug": "marketing-analytics",
+  "mediaKey": "68e34454-6332-435e-9aad-4539562a2826",
+  "i18n": {
+    "name": {
+      "en": "Web Analytics",
+      "uk": "Веб-аналітика"
+    },
+    "alt": {
+      "en": "Web Analytics",
+      "uk": "Веб-аналітика"
+    },
+    "tags": [
+      {
+        "key": "marketing",
+        "i18n": {
+          "en": "marketing",
+          "uk": "маркетинг"
+        }
+      },
+      {
+        "key": "analytics",
+        "i18n": {
+          "en": "analytics",
+          "uk": "аналітика"
+        }
+      },
+      {
+        "key": "dashboard",
+        "i18n": {
+          "en": "dashboard",
+          "uk": "приладова панель"
+        }
+      },
+      {
+        "key": "charts",
+        "i18n": {
+          "en": "charts",
+          "uk": "діаграми"
+        }
+      },
+      {
+        "key": "graphs",
+        "i18n": {
+          "en": "graphs",
+          "uk": "графіки"
+        }
+      },
+      {
+        "key": "web",
+        "i18n": {
+          "en": "web",
+          "uk": "веб"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/marketing-analytics",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

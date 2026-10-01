@@ -1,0 +1,97 @@
+{
+  "slug": "emotion-jealousy",
+  "mediaKey": "1ba66ab9-9dea-4102-9ded-ed6f46887292",
+  "i18n": {
+    "name": {
+      "en": "Jealousy",
+      "uk": "Ревнощі"
+    },
+    "alt": {
+      "en": "Jealousy",
+      "uk": "Ревнощі"
+    },
+    "tags": [
+      {
+        "key": "emotion",
+        "i18n": {
+          "en": "emotion",
+          "uk": "емоція"
+        }
+      },
+      {
+        "key": "jealousy",
+        "i18n": {
+          "en": "jealousy",
+          "uk": "ревнощі"
+        }
+      },
+      {
+        "key": "envy",
+        "i18n": {
+          "en": "envy",
+          "uk": "заздрість"
+        }
+      },
+      {
+        "key": "covetous",
+        "i18n": {
+          "en": "covetous",
+          "uk": "жадібний"
+        }
+      },
+      {
+        "key": "green-eyed",
+        "i18n": {
+          "en": "green-eyed",
+          "uk": "зеленоокий"
+        }
+      },
+      {
+        "key": "resentful",
+        "i18n": {
+          "en": "resentful",
+          "uk": "обурений"
+        }
+      },
+      {
+        "key": "possessive",
+        "i18n": {
+          "en": "possessive",
+          "uk": "присвійний"
+        }
+      },
+      {
+        "key": "bitter",
+        "i18n": {
+          "en": "bitter",
+          "uk": "гіркий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emotion-jealousy",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

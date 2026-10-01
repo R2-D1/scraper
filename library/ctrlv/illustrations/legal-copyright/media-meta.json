@@ -1,0 +1,90 @@
+{
+  "slug": "legal-copyright",
+  "mediaKey": "13acefad-ee39-4365-8769-91a426fa781b",
+  "i18n": {
+    "name": {
+      "en": "Copyright & IP",
+      "uk": "Авторські права та інтелектуальна власність"
+    },
+    "alt": {
+      "en": "Copyright & IP",
+      "uk": "Авторські права та інтелектуальна власність"
+    },
+    "tags": [
+      {
+        "key": "legal",
+        "i18n": {
+          "en": "legal",
+          "uk": "юридичний"
+        }
+      },
+      {
+        "key": "copyright",
+        "i18n": {
+          "en": "copyright",
+          "uk": "авторське право"
+        }
+      },
+      {
+        "key": "ip",
+        "i18n": {
+          "en": "ip",
+          "uk": "ip"
+        }
+      },
+      {
+        "key": "intellectual",
+        "i18n": {
+          "en": "intellectual",
+          "uk": "інтелектуальний"
+        }
+      },
+      {
+        "key": "property",
+        "i18n": {
+          "en": "property",
+          "uk": "властивість"
+        }
+      },
+      {
+        "key": "trademark",
+        "i18n": {
+          "en": "trademark",
+          "uk": "товарний знак"
+        }
+      },
+      {
+        "key": "symbol",
+        "i18n": {
+          "en": "symbol",
+          "uk": "символ"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/legal-copyright",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

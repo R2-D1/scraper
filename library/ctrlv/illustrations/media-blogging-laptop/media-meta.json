@@ -1,0 +1,90 @@
+{
+  "slug": "media-blogging-laptop",
+  "mediaKey": "e3b6aca7-f572-43c6-ade0-e4c05ed751b4",
+  "i18n": {
+    "name": {
+      "en": "Blogging",
+      "uk": "Блогінг"
+    },
+    "alt": {
+      "en": "Blogging",
+      "uk": "Блогінг"
+    },
+    "tags": [
+      {
+        "key": "media",
+        "i18n": {
+          "en": "media",
+          "uk": "медіа"
+        }
+      },
+      {
+        "key": "blog",
+        "i18n": {
+          "en": "blog",
+          "uk": "блог"
+        }
+      },
+      {
+        "key": "writing",
+        "i18n": {
+          "en": "writing",
+          "uk": "написання"
+        }
+      },
+      {
+        "key": "content",
+        "i18n": {
+          "en": "content",
+          "uk": "вміст"
+        }
+      },
+      {
+        "key": "laptop",
+        "i18n": {
+          "en": "laptop",
+          "uk": "ноутбук"
+        }
+      },
+      {
+        "key": "article",
+        "i18n": {
+          "en": "article",
+          "uk": "стаття"
+        }
+      },
+      {
+        "key": "keyboard",
+        "i18n": {
+          "en": "keyboard",
+          "uk": "клавіатура"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/media-blogging-laptop",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

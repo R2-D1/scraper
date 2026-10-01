@@ -1,0 +1,90 @@
+{
+  "slug": "wonder-eiffel-tower",
+  "mediaKey": "9a526bd8-60e3-4a0e-9a0e-db8a0b5d3bae",
+  "i18n": {
+    "name": {
+      "en": "Eiffel Tower",
+      "uk": "Ейфелева вежа"
+    },
+    "alt": {
+      "en": "Eiffel Tower",
+      "uk": "Ейфелева вежа"
+    },
+    "tags": [
+      {
+        "key": "wonder",
+        "i18n": {
+          "en": "wonder",
+          "uk": "подив"
+        }
+      },
+      {
+        "key": "france",
+        "i18n": {
+          "en": "france",
+          "uk": "франція"
+        }
+      },
+      {
+        "key": "paris",
+        "i18n": {
+          "en": "paris",
+          "uk": "Париж"
+        }
+      },
+      {
+        "key": "eiffel-tower",
+        "i18n": {
+          "en": "eiffel tower",
+          "uk": "Ейфелева вежа"
+        }
+      },
+      {
+        "key": "tower",
+        "i18n": {
+          "en": "tower",
+          "uk": "вежа"
+        }
+      },
+      {
+        "key": "landmark",
+        "i18n": {
+          "en": "landmark",
+          "uk": "орієнтир"
+        }
+      },
+      {
+        "key": "europe",
+        "i18n": {
+          "en": "europe",
+          "uk": "європа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/wonder-eiffel-tower",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "history-telegraph",
+  "mediaKey": "a33a6c53-52e1-41b1-9d44-1c4b2c435296",
+  "i18n": {
+    "name": {
+      "en": "Telegraph Machine",
+      "uk": "Телеграфний апарат"
+    },
+    "alt": {
+      "en": "Telegraph Machine",
+      "uk": "Телеграфний апарат"
+    },
+    "tags": [
+      {
+        "key": "history",
+        "i18n": {
+          "en": "history",
+          "uk": "історії"
+        }
+      },
+      {
+        "key": "telegraph",
+        "i18n": {
+          "en": "telegraph",
+          "uk": "телеграф"
+        }
+      },
+      {
+        "key": "communication",
+        "i18n": {
+          "en": "communication",
+          "uk": "комунікація"
+        }
+      },
+      {
+        "key": "morse-code",
+        "i18n": {
+          "en": "morse code",
+          "uk": "азбука Морзе"
+        }
+      },
+      {
+        "key": "machine",
+        "i18n": {
+          "en": "machine",
+          "uk": "машина"
+        }
+      },
+      {
+        "key": "invention",
+        "i18n": {
+          "en": "invention",
+          "uk": "винахід"
+        }
+      },
+      {
+        "key": "wire",
+        "i18n": {
+          "en": "wire",
+          "uk": "дріт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/history-telegraph",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

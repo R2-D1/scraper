@@ -1,0 +1,97 @@
+{
+  "slug": "food-waffle",
+  "mediaKey": "e57935b8-2ef5-42a0-9eb1-9880540072d0",
+  "i18n": {
+    "name": {
+      "en": "Belgian Waffle",
+      "uk": "Бельгійський вафель"
+    },
+    "alt": {
+      "en": "Belgian Waffle",
+      "uk": "Бельгійський вафель"
+    },
+    "tags": [
+      {
+        "key": "food",
+        "i18n": {
+          "en": "food",
+          "uk": "їжа"
+        }
+      },
+      {
+        "key": "waffle",
+        "i18n": {
+          "en": "waffle",
+          "uk": "вафля"
+        }
+      },
+      {
+        "key": "belgium",
+        "i18n": {
+          "en": "belgium",
+          "uk": "бельгія"
+        }
+      },
+      {
+        "key": "cuisine",
+        "i18n": {
+          "en": "cuisine",
+          "uk": "кухня"
+        }
+      },
+      {
+        "key": "breakfast",
+        "i18n": {
+          "en": "breakfast",
+          "uk": "сніданок"
+        }
+      },
+      {
+        "key": "sweet",
+        "i18n": {
+          "en": "sweet",
+          "uk": "солодкий"
+        }
+      },
+      {
+        "key": "dessert",
+        "i18n": {
+          "en": "dessert",
+          "uk": "десерт"
+        }
+      },
+      {
+        "key": "syrup",
+        "i18n": {
+          "en": "syrup",
+          "uk": "сироп"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/food-waffle",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

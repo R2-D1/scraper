@@ -1,0 +1,83 @@
+{
+  "slug": "fashion-high-heels",
+  "mediaKey": "c637c34a-8afa-4e20-90df-9e22f7c4f5f1",
+  "i18n": {
+    "name": {
+      "en": "High Heels",
+      "uk": "Високі підбори"
+    },
+    "alt": {
+      "en": "High Heels",
+      "uk": "Високі підбори"
+    },
+    "tags": [
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "shoes",
+        "i18n": {
+          "en": "shoes",
+          "uk": "взуття"
+        }
+      },
+      {
+        "key": "heels",
+        "i18n": {
+          "en": "heels",
+          "uk": "підбори"
+        }
+      },
+      {
+        "key": "footwear",
+        "i18n": {
+          "en": "footwear",
+          "uk": "взуття"
+        }
+      },
+      {
+        "key": "elegant",
+        "i18n": {
+          "en": "elegant",
+          "uk": "елегантний"
+        }
+      },
+      {
+        "key": "style",
+        "i18n": {
+          "en": "style",
+          "uk": "стиль"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/fashion-high-heels",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

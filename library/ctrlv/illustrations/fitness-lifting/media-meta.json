@@ -1,0 +1,83 @@
+{
+  "slug": "fitness-lifting",
+  "mediaKey": "eb9b304d-8c1b-44df-9415-348887303fcd",
+  "i18n": {
+    "name": {
+      "en": "Heavy Lifting",
+      "uk": "Підйом важких вантажів"
+    },
+    "alt": {
+      "en": "Heavy Lifting",
+      "uk": "Підйом важких вантажів"
+    },
+    "tags": [
+      {
+        "key": "fitness",
+        "i18n": {
+          "en": "fitness",
+          "uk": "фітнес"
+        }
+      },
+      {
+        "key": "gym",
+        "i18n": {
+          "en": "gym",
+          "uk": "спортзал"
+        }
+      },
+      {
+        "key": "barbell",
+        "i18n": {
+          "en": "barbell",
+          "uk": "штанга"
+        }
+      },
+      {
+        "key": "weights",
+        "i18n": {
+          "en": "weights",
+          "uk": "гири"
+        }
+      },
+      {
+        "key": "workout",
+        "i18n": {
+          "en": "workout",
+          "uk": "тренування"
+        }
+      },
+      {
+        "key": "strength",
+        "i18n": {
+          "en": "strength",
+          "uk": "сила"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/fitness-lifting",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

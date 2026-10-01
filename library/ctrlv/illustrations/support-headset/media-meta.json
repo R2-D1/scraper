@@ -1,0 +1,104 @@
+{
+  "slug": "support-headset",
+  "mediaKey": "f10a05a5-5bfb-47f3-ae82-7f73c92c9cf0",
+  "i18n": {
+    "name": {
+      "en": "Support Headset",
+      "uk": "Служба підтримки навушників"
+    },
+    "alt": {
+      "en": "Support Headset",
+      "uk": "Служба підтримки навушників"
+    },
+    "tags": [
+      {
+        "key": "support",
+        "i18n": {
+          "en": "support",
+          "uk": "підтримка"
+        }
+      },
+      {
+        "key": "headset",
+        "i18n": {
+          "en": "headset",
+          "uk": "навушники"
+        }
+      },
+      {
+        "key": "customer",
+        "i18n": {
+          "en": "customer",
+          "uk": "клієнт"
+        }
+      },
+      {
+        "key": "service",
+        "i18n": {
+          "en": "service",
+          "uk": "обслуговування"
+        }
+      },
+      {
+        "key": "audio",
+        "i18n": {
+          "en": "audio",
+          "uk": "аудіо"
+        }
+      },
+      {
+        "key": "listen",
+        "i18n": {
+          "en": "listen",
+          "uk": "слухати"
+        }
+      },
+      {
+        "key": "call",
+        "i18n": {
+          "en": "call",
+          "uk": "виклик"
+        }
+      },
+      {
+        "key": "agent",
+        "i18n": {
+          "en": "agent",
+          "uk": "агент"
+        }
+      },
+      {
+        "key": "microphone",
+        "i18n": {
+          "en": "microphone",
+          "uk": "мікрофон"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/support-headset",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

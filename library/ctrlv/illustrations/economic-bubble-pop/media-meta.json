@@ -1,0 +1,83 @@
+{
+  "slug": "economic-bubble-pop",
+  "mediaKey": "6c7d89d3-356a-4439-b8a0-a5eff108d1c7",
+  "i18n": {
+    "name": {
+      "en": "Economic Bubble",
+      "uk": "Економічна бульбашка"
+    },
+    "alt": {
+      "en": "Economic Bubble",
+      "uk": "Економічна бульбашка"
+    },
+    "tags": [
+      {
+        "key": "bubble",
+        "i18n": {
+          "en": "bubble",
+          "uk": "міхур"
+        }
+      },
+      {
+        "key": "pop",
+        "i18n": {
+          "en": "pop",
+          "uk": "поп"
+        }
+      },
+      {
+        "key": "crash",
+        "i18n": {
+          "en": "crash",
+          "uk": "аварія"
+        }
+      },
+      {
+        "key": "invest",
+        "i18n": {
+          "en": "invest",
+          "uk": "інвестувати"
+        }
+      },
+      {
+        "key": "market",
+        "i18n": {
+          "en": "market",
+          "uk": "ринок"
+        }
+      },
+      {
+        "key": "mania",
+        "i18n": {
+          "en": "mania",
+          "uk": "манія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/economic-bubble-pop",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

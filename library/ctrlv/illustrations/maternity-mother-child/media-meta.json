@@ -1,0 +1,97 @@
+{
+  "slug": "maternity-mother-child",
+  "mediaKey": "c2a58cee-f046-4dc4-ba71-15526f95fddc",
+  "i18n": {
+    "name": {
+      "en": "Maternity",
+      "uk": "Материнство"
+    },
+    "alt": {
+      "en": "Maternity",
+      "uk": "Материнство"
+    },
+    "tags": [
+      {
+        "key": "maternity",
+        "i18n": {
+          "en": "maternity",
+          "uk": "материнство"
+        }
+      },
+      {
+        "key": "mother",
+        "i18n": {
+          "en": "mother",
+          "uk": "мати"
+        }
+      },
+      {
+        "key": "child",
+        "i18n": {
+          "en": "child",
+          "uk": "дитина"
+        }
+      },
+      {
+        "key": "mom",
+        "i18n": {
+          "en": "mom",
+          "uk": "мама"
+        }
+      },
+      {
+        "key": "toddler",
+        "i18n": {
+          "en": "toddler",
+          "uk": "малюк"
+        }
+      },
+      {
+        "key": "love",
+        "i18n": {
+          "en": "love",
+          "uk": "кохання"
+        }
+      },
+      {
+        "key": "family",
+        "i18n": {
+          "en": "family",
+          "uk": "родина"
+        }
+      },
+      {
+        "key": "bonding",
+        "i18n": {
+          "en": "bonding",
+          "uk": "емоційний звʼязок"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/maternity-mother-child",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "fashion-dress",
+  "mediaKey": "7e2abd64-bab1-4bdc-9189-bdb8d4a2e623",
+  "i18n": {
+    "name": {
+      "en": "Elegant Dress",
+      "uk": "Елегантна сукня"
+    },
+    "alt": {
+      "en": "Elegant Dress",
+      "uk": "Елегантна сукня"
+    },
+    "tags": [
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "clothing",
+        "i18n": {
+          "en": "clothing",
+          "uk": "одяг"
+        }
+      },
+      {
+        "key": "dress",
+        "i18n": {
+          "en": "dress",
+          "uk": "сукня"
+        }
+      },
+      {
+        "key": "evening",
+        "i18n": {
+          "en": "evening",
+          "uk": "вечір"
+        }
+      },
+      {
+        "key": "gown",
+        "i18n": {
+          "en": "gown",
+          "uk": "сукня"
+        }
+      },
+      {
+        "key": "apparel",
+        "i18n": {
+          "en": "apparel",
+          "uk": "одяг"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/fashion-dress",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

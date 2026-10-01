@@ -1,0 +1,90 @@
+{
+  "slug": "vintage-classic-car",
+  "mediaKey": "0cafb2be-7cac-43bb-8961-b0c9ccbb4829",
+  "i18n": {
+    "name": {
+      "en": "Classic Car",
+      "uk": "Класичний автомобіль"
+    },
+    "alt": {
+      "en": "Classic Car",
+      "uk": "Класичний автомобіль"
+    },
+    "tags": [
+      {
+        "key": "vintage",
+        "i18n": {
+          "en": "vintage",
+          "uk": "вінтажний"
+        }
+      },
+      {
+        "key": "retro",
+        "i18n": {
+          "en": "retro",
+          "uk": "ретро"
+        }
+      },
+      {
+        "key": "car",
+        "i18n": {
+          "en": "car",
+          "uk": "автомобіль"
+        }
+      },
+      {
+        "key": "classic-car",
+        "i18n": {
+          "en": "classic car",
+          "uk": "класичний автомобіль"
+        }
+      },
+      {
+        "key": "automobile",
+        "i18n": {
+          "en": "automobile",
+          "uk": "автомобіль"
+        }
+      },
+      {
+        "key": "cruiser",
+        "i18n": {
+          "en": "cruiser",
+          "uk": "крейсер"
+        }
+      },
+      {
+        "key": "50s",
+        "i18n": {
+          "en": "50s",
+          "uk": "50-ті роки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/vintage-classic-car",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

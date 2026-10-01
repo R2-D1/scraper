@@ -1,0 +1,83 @@
+{
+  "slug": "moat-castle",
+  "mediaKey": "bb84a642-da9a-47ee-867a-89e777377922",
+  "i18n": {
+    "name": {
+      "en": "Economic Moat",
+      "uk": "Економічний захисний вал"
+    },
+    "alt": {
+      "en": "Economic Moat",
+      "uk": "Економічний захисний вал"
+    },
+    "tags": [
+      {
+        "key": "moat",
+        "i18n": {
+          "en": "moat",
+          "uk": "рів"
+        }
+      },
+      {
+        "key": "castle",
+        "i18n": {
+          "en": "castle",
+          "uk": "замок"
+        }
+      },
+      {
+        "key": "competitive-advantage",
+        "i18n": {
+          "en": "competitive advantage",
+          "uk": "конкурентна перевага"
+        }
+      },
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "protect",
+        "i18n": {
+          "en": "protect",
+          "uk": "захистити"
+        }
+      },
+      {
+        "key": "invest",
+        "i18n": {
+          "en": "invest",
+          "uk": "інвестувати"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/moat-castle",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

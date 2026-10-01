@@ -1,0 +1,90 @@
+{
+  "slug": "security-secure-payment",
+  "mediaKey": "3ac0fd06-775d-4665-9839-b06a369e999e",
+  "i18n": {
+    "name": {
+      "en": "Secure Payment",
+      "uk": "Безпечна оплата"
+    },
+    "alt": {
+      "en": "Secure Payment",
+      "uk": "Безпечна оплата"
+    },
+    "tags": [
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "secure",
+        "i18n": {
+          "en": "secure",
+          "uk": "безпечно"
+        }
+      },
+      {
+        "key": "payment",
+        "i18n": {
+          "en": "payment",
+          "uk": "оплата"
+        }
+      },
+      {
+        "key": "credit",
+        "i18n": {
+          "en": "credit",
+          "uk": "кредит"
+        }
+      },
+      {
+        "key": "card",
+        "i18n": {
+          "en": "card",
+          "uk": "картка"
+        }
+      },
+      {
+        "key": "vault",
+        "i18n": {
+          "en": "vault",
+          "uk": "сховище"
+        }
+      },
+      {
+        "key": "transaction",
+        "i18n": {
+          "en": "transaction",
+          "uk": "угода"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/security-secure-payment",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

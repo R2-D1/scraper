@@ -1,0 +1,76 @@
+{
+  "slug": "film-reel",
+  "mediaKey": "c76b05a5-6f17-4aae-8ec2-97a495d573ee",
+  "i18n": {
+    "name": {
+      "en": "Cinema Reel",
+      "uk": "Кінокотушка"
+    },
+    "alt": {
+      "en": "Cinema Reel",
+      "uk": "Кінокотушка"
+    },
+    "tags": [
+      {
+        "key": "film",
+        "i18n": {
+          "en": "film",
+          "uk": "плівка"
+        }
+      },
+      {
+        "key": "movies",
+        "i18n": {
+          "en": "movies",
+          "uk": "фільми"
+        }
+      },
+      {
+        "key": "cinema",
+        "i18n": {
+          "en": "cinema",
+          "uk": "кіно"
+        }
+      },
+      {
+        "key": "entertainment",
+        "i18n": {
+          "en": "entertainment",
+          "uk": "розваги"
+        }
+      },
+      {
+        "key": "history",
+        "i18n": {
+          "en": "history",
+          "uk": "історії"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/film-reel",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

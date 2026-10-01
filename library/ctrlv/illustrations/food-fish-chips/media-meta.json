@@ -1,0 +1,97 @@
+{
+  "slug": "food-fish-chips",
+  "mediaKey": "91c1ab3e-3f18-4a35-a0e7-26c831c5b815",
+  "i18n": {
+    "name": {
+      "en": "British Fish & Chips",
+      "uk": "Британська риба з картоплею фрі"
+    },
+    "alt": {
+      "en": "British Fish & Chips",
+      "uk": "Британська риба з картоплею фрі"
+    },
+    "tags": [
+      {
+        "key": "food",
+        "i18n": {
+          "en": "food",
+          "uk": "їжа"
+        }
+      },
+      {
+        "key": "fish-and-chips",
+        "i18n": {
+          "en": "fish and chips",
+          "uk": "риба з картоплею фрі"
+        }
+      },
+      {
+        "key": "uk",
+        "i18n": {
+          "en": "uk",
+          "uk": "велика британія"
+        }
+      },
+      {
+        "key": "british",
+        "i18n": {
+          "en": "british",
+          "uk": "британський"
+        }
+      },
+      {
+        "key": "cuisine",
+        "i18n": {
+          "en": "cuisine",
+          "uk": "кухня"
+        }
+      },
+      {
+        "key": "seafood",
+        "i18n": {
+          "en": "seafood",
+          "uk": "морепродукти"
+        }
+      },
+      {
+        "key": "fries",
+        "i18n": {
+          "en": "fries",
+          "uk": "картопля фрі"
+        }
+      },
+      {
+        "key": "dinner",
+        "i18n": {
+          "en": "dinner",
+          "uk": "вечеря"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/food-fish-chips",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

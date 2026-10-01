@@ -1,0 +1,83 @@
+{
+  "slug": "clinking-glasses",
+  "mediaKey": "74545427-bf52-4c6e-9d2b-648cdae7baa1",
+  "i18n": {
+    "name": {
+      "en": "Cheers",
+      "uk": "Здоров!"
+    },
+    "alt": {
+      "en": "Cheers",
+      "uk": "Здоров!"
+    },
+    "tags": [
+      {
+        "key": "toast",
+        "i18n": {
+          "en": "toast",
+          "uk": "спливаюче повідомлення"
+        }
+      },
+      {
+        "key": "celebration",
+        "i18n": {
+          "en": "celebration",
+          "uk": "святкування"
+        }
+      },
+      {
+        "key": "drink",
+        "i18n": {
+          "en": "drink",
+          "uk": "напій"
+        }
+      },
+      {
+        "key": "social",
+        "i18n": {
+          "en": "social",
+          "uk": "соціальні"
+        }
+      },
+      {
+        "key": "cheers",
+        "i18n": {
+          "en": "cheers",
+          "uk": "ура"
+        }
+      },
+      {
+        "key": "glasses",
+        "i18n": {
+          "en": "glasses",
+          "uk": "окуляри"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/clinking-glasses",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

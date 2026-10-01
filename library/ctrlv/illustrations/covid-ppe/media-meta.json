@@ -1,0 +1,97 @@
+{
+  "slug": "covid-ppe",
+  "mediaKey": "a1fbdebe-ac9a-4c22-9c1d-2fbf48df56ea",
+  "i18n": {
+    "name": {
+      "en": "Biohazard / PPE Suit",
+      "uk": "Костюм для захисту від біологічних небезпек / засоби індивідуального захисту"
+    },
+    "alt": {
+      "en": "Biohazard / PPE Suit",
+      "uk": "Костюм для захисту від біологічних небезпек / засоби індивідуального захисту"
+    },
+    "tags": [
+      {
+        "key": "covid",
+        "i18n": {
+          "en": "covid",
+          "uk": "ковід"
+        }
+      },
+      {
+        "key": "ppe",
+        "i18n": {
+          "en": "ppe",
+          "uk": "засоби індивідуального захисту"
+        }
+      },
+      {
+        "key": "biohazard",
+        "i18n": {
+          "en": "biohazard",
+          "uk": "біологічна небезпека"
+        }
+      },
+      {
+        "key": "hazmat",
+        "i18n": {
+          "en": "hazmat",
+          "uk": "небезпечні речовини"
+        }
+      },
+      {
+        "key": "suit",
+        "i18n": {
+          "en": "suit",
+          "uk": "костюм"
+        }
+      },
+      {
+        "key": "protection",
+        "i18n": {
+          "en": "protection",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "virus",
+        "i18n": {
+          "en": "virus",
+          "uk": "вірус"
+        }
+      },
+      {
+        "key": "safety",
+        "i18n": {
+          "en": "safety",
+          "uk": "безпека"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/covid-ppe",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

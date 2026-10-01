@@ -1,0 +1,90 @@
+{
+  "slug": "paris-eiffel",
+  "mediaKey": "087118b8-22f0-4356-86f4-e75508a2eae4",
+  "i18n": {
+    "name": {
+      "en": "Paris, France",
+      "uk": "Париж, Франція"
+    },
+    "alt": {
+      "en": "Paris, France",
+      "uk": "Париж, Франція"
+    },
+    "tags": [
+      {
+        "key": "paris",
+        "i18n": {
+          "en": "paris",
+          "uk": "Париж"
+        }
+      },
+      {
+        "key": "france",
+        "i18n": {
+          "en": "france",
+          "uk": "франція"
+        }
+      },
+      {
+        "key": "eiffel",
+        "i18n": {
+          "en": "eiffel",
+          "uk": "Ейфель"
+        }
+      },
+      {
+        "key": "tower",
+        "i18n": {
+          "en": "tower",
+          "uk": "вежа"
+        }
+      },
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "landmark",
+        "i18n": {
+          "en": "landmark",
+          "uk": "орієнтир"
+        }
+      },
+      {
+        "key": "europe",
+        "i18n": {
+          "en": "europe",
+          "uk": "європа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/paris-eiffel",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "sales-presentation",
+  "mediaKey": "8ff16a22-2e73-40d5-9b52-f7ec7a7c7258",
+  "i18n": {
+    "name": {
+      "en": "Sales Pitch",
+      "uk": "Рекламна презентація"
+    },
+    "alt": {
+      "en": "Sales Pitch",
+      "uk": "Рекламна презентація"
+    },
+    "tags": [
+      {
+        "key": "sales",
+        "i18n": {
+          "en": "sales",
+          "uk": "продажі"
+        }
+      },
+      {
+        "key": "pitch",
+        "i18n": {
+          "en": "pitch",
+          "uk": "пітч"
+        }
+      },
+      {
+        "key": "presentation",
+        "i18n": {
+          "en": "presentation",
+          "uk": "презентація"
+        }
+      },
+      {
+        "key": "easel",
+        "i18n": {
+          "en": "easel",
+          "uk": "мольберт"
+        }
+      },
+      {
+        "key": "board",
+        "i18n": {
+          "en": "board",
+          "uk": "дошка"
+        }
+      },
+      {
+        "key": "chart",
+        "i18n": {
+          "en": "chart",
+          "uk": "діаграма"
+        }
+      },
+      {
+        "key": "strategy",
+        "i18n": {
+          "en": "strategy",
+          "uk": "стратегія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/sales-presentation",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

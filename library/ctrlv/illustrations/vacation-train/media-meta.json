@@ -1,0 +1,90 @@
+{
+  "slug": "vacation-train",
+  "mediaKey": "03332ef0-a299-478c-ab5c-bc01910e819a",
+  "i18n": {
+    "name": {
+      "en": "Scenic Train",
+      "uk": "Мальовничий поїзд"
+    },
+    "alt": {
+      "en": "Scenic Train",
+      "uk": "Мальовничий поїзд"
+    },
+    "tags": [
+      {
+        "key": "vacation",
+        "i18n": {
+          "en": "vacation",
+          "uk": "відпустка"
+        }
+      },
+      {
+        "key": "train",
+        "i18n": {
+          "en": "train",
+          "uk": "поїзд"
+        }
+      },
+      {
+        "key": "railway",
+        "i18n": {
+          "en": "railway",
+          "uk": "залізниця"
+        }
+      },
+      {
+        "key": "trip",
+        "i18n": {
+          "en": "trip",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "scenic",
+        "i18n": {
+          "en": "scenic",
+          "uk": "мальовничий"
+        }
+      },
+      {
+        "key": "journey",
+        "i18n": {
+          "en": "journey",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "locomotive",
+        "i18n": {
+          "en": "locomotive",
+          "uk": "локомотив"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/vacation-train",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

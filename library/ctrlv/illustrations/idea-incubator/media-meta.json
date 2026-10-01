@@ -1,0 +1,97 @@
+{
+  "slug": "idea-incubator",
+  "mediaKey": "a99d2fe8-6eb7-4852-b360-53a8844bed95",
+  "i18n": {
+    "name": {
+      "en": "Idea Incubator",
+      "uk": "Інкубатор ідей"
+    },
+    "alt": {
+      "en": "Idea Incubator",
+      "uk": "Інкубатор ідей"
+    },
+    "tags": [
+      {
+        "key": "idea",
+        "i18n": {
+          "en": "idea",
+          "uk": "ідея"
+        }
+      },
+      {
+        "key": "incubator",
+        "i18n": {
+          "en": "incubator",
+          "uk": "інкубатор"
+        }
+      },
+      {
+        "key": "egg",
+        "i18n": {
+          "en": "egg",
+          "uk": "яйце"
+        }
+      },
+      {
+        "key": "hatch",
+        "i18n": {
+          "en": "hatch",
+          "uk": "люк"
+        }
+      },
+      {
+        "key": "create",
+        "i18n": {
+          "en": "create",
+          "uk": "створити"
+        }
+      },
+      {
+        "key": "grow",
+        "i18n": {
+          "en": "grow",
+          "uk": "рости"
+        }
+      },
+      {
+        "key": "innovation",
+        "i18n": {
+          "en": "innovation",
+          "uk": "інновація"
+        }
+      },
+      {
+        "key": "energy",
+        "i18n": {
+          "en": "energy",
+          "uk": "енергія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/idea-incubator",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

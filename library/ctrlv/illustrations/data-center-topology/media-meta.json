@@ -1,0 +1,90 @@
+{
+  "slug": "data-center-topology",
+  "mediaKey": "e30c5491-e1fd-47b4-a72a-82b850257f48",
+  "i18n": {
+    "name": {
+      "en": "Network Topology",
+      "uk": "Топологія мережі"
+    },
+    "alt": {
+      "en": "Network Topology",
+      "uk": "Топологія мережі"
+    },
+    "tags": [
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      },
+      {
+        "key": "topology",
+        "i18n": {
+          "en": "topology",
+          "uk": "топологія"
+        }
+      },
+      {
+        "key": "tree",
+        "i18n": {
+          "en": "tree",
+          "uk": "дерево"
+        }
+      },
+      {
+        "key": "mesh",
+        "i18n": {
+          "en": "mesh",
+          "uk": "сітка"
+        }
+      },
+      {
+        "key": "connections",
+        "i18n": {
+          "en": "connections",
+          "uk": "з'єднання"
+        }
+      },
+      {
+        "key": "nodes",
+        "i18n": {
+          "en": "nodes",
+          "uk": "вузли"
+        }
+      },
+      {
+        "key": "graph",
+        "i18n": {
+          "en": "graph",
+          "uk": "графік"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/data-center-topology",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

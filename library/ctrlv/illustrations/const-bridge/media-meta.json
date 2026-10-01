@@ -1,0 +1,97 @@
+{
+  "slug": "const-bridge",
+  "mediaKey": "9ece01e7-630a-4dc6-a931-2610cf90f5d2",
+  "i18n": {
+    "name": {
+      "en": "Bridge Blueprint",
+      "uk": "План мосту"
+    },
+    "alt": {
+      "en": "Bridge Blueprint",
+      "uk": "План мосту"
+    },
+    "tags": [
+      {
+        "key": "architecture",
+        "i18n": {
+          "en": "architecture",
+          "uk": "архітектура"
+        }
+      },
+      {
+        "key": "bridge",
+        "i18n": {
+          "en": "bridge",
+          "uk": "міст"
+        }
+      },
+      {
+        "key": "suspend",
+        "i18n": {
+          "en": "suspend",
+          "uk": "призупинити"
+        }
+      },
+      {
+        "key": "civil",
+        "i18n": {
+          "en": "civil",
+          "uk": "цивільний"
+        }
+      },
+      {
+        "key": "engineering",
+        "i18n": {
+          "en": "engineering",
+          "uk": "інженерія"
+        }
+      },
+      {
+        "key": "connect",
+        "i18n": {
+          "en": "connect",
+          "uk": "підключити"
+        }
+      },
+      {
+        "key": "span",
+        "i18n": {
+          "en": "span",
+          "uk": "проліт"
+        }
+      },
+      {
+        "key": "structure",
+        "i18n": {
+          "en": "structure",
+          "uk": "структура"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/const-bridge",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

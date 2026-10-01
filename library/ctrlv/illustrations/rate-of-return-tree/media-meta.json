@@ -1,0 +1,83 @@
+{
+  "slug": "rate-of-return-tree",
+  "mediaKey": "387f94e7-6c89-4755-b7e3-6bd21a9bcf24",
+  "i18n": {
+    "name": {
+      "en": "Rate of Return",
+      "uk": "Норма прибутковості"
+    },
+    "alt": {
+      "en": "Rate of Return",
+      "uk": "Норма прибутковості"
+    },
+    "tags": [
+      {
+        "key": "rate-of-return",
+        "i18n": {
+          "en": "rate of return",
+          "uk": "норма прибутку"
+        }
+      },
+      {
+        "key": "ror",
+        "i18n": {
+          "en": "ror",
+          "uk": "рор"
+        }
+      },
+      {
+        "key": "growth",
+        "i18n": {
+          "en": "growth",
+          "uk": "ріст"
+        }
+      },
+      {
+        "key": "invest",
+        "i18n": {
+          "en": "invest",
+          "uk": "інвестувати"
+        }
+      },
+      {
+        "key": "profit",
+        "i18n": {
+          "en": "profit",
+          "uk": "прибуток"
+        }
+      },
+      {
+        "key": "yield",
+        "i18n": {
+          "en": "yield",
+          "uk": "пропустити"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/rate-of-return-tree",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

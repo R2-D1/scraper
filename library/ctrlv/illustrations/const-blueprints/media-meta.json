@@ -1,0 +1,97 @@
+{
+  "slug": "const-blueprints",
+  "mediaKey": "215ec9db-28a7-43df-a68b-ce32988f1629",
+  "i18n": {
+    "name": {
+      "en": "Blueprints",
+      "uk": "Креслення"
+    },
+    "alt": {
+      "en": "Blueprints",
+      "uk": "Креслення"
+    },
+    "tags": [
+      {
+        "key": "architecture",
+        "i18n": {
+          "en": "architecture",
+          "uk": "архітектура"
+        }
+      },
+      {
+        "key": "blueprint",
+        "i18n": {
+          "en": "blueprint",
+          "uk": "проект"
+        }
+      },
+      {
+        "key": "plan",
+        "i18n": {
+          "en": "plan",
+          "uk": "план"
+        }
+      },
+      {
+        "key": "drafting",
+        "i18n": {
+          "en": "drafting",
+          "uk": "креслення"
+        }
+      },
+      {
+        "key": "design",
+        "i18n": {
+          "en": "design",
+          "uk": "дизайн"
+        }
+      },
+      {
+        "key": "paper",
+        "i18n": {
+          "en": "paper",
+          "uk": "папір"
+        }
+      },
+      {
+        "key": "rolled",
+        "i18n": {
+          "en": "rolled",
+          "uk": "скручений"
+        }
+      },
+      {
+        "key": "ruler",
+        "i18n": {
+          "en": "ruler",
+          "uk": "лінійка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/const-blueprints",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "const-level-tool",
+  "mediaKey": "af5648b6-c2f6-42db-81e5-295cb90c2f56",
+  "i18n": {
+    "name": {
+      "en": "Spirit Level",
+      "uk": "Рівень"
+    },
+    "alt": {
+      "en": "Spirit Level",
+      "uk": "Рівень"
+    },
+    "tags": [
+      {
+        "key": "construction",
+        "i18n": {
+          "en": "construction",
+          "uk": "будівництво"
+        }
+      },
+      {
+        "key": "level",
+        "i18n": {
+          "en": "level",
+          "uk": "рівень"
+        }
+      },
+      {
+        "key": "bubble",
+        "i18n": {
+          "en": "bubble",
+          "uk": "міхур"
+        }
+      },
+      {
+        "key": "balance",
+        "i18n": {
+          "en": "balance",
+          "uk": "баланс"
+        }
+      },
+      {
+        "key": "flat",
+        "i18n": {
+          "en": "flat",
+          "uk": "плоский"
+        }
+      },
+      {
+        "key": "carpentry",
+        "i18n": {
+          "en": "carpentry",
+          "uk": "столярство"
+        }
+      },
+      {
+        "key": "measure",
+        "i18n": {
+          "en": "measure",
+          "uk": "міра"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/const-level-tool",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "vehicle-airplane",
+  "mediaKey": "d5cdf668-e6cd-4814-8b55-3e3d190d5bea",
+  "i18n": {
+    "name": {
+      "en": "Commercial Airplane",
+      "uk": "Комерційний літак"
+    },
+    "alt": {
+      "en": "Commercial Airplane",
+      "uk": "Комерційний літак"
+    },
+    "tags": [
+      {
+        "key": "airplane",
+        "i18n": {
+          "en": "airplane",
+          "uk": "літак"
+        }
+      },
+      {
+        "key": "aircraft",
+        "i18n": {
+          "en": "aircraft",
+          "uk": "літак"
+        }
+      },
+      {
+        "key": "flight",
+        "i18n": {
+          "en": "flight",
+          "uk": "політ"
+        }
+      },
+      {
+        "key": "jet",
+        "i18n": {
+          "en": "jet",
+          "uk": "реактивний"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "airport",
+        "i18n": {
+          "en": "airport",
+          "uk": "аеропорт"
+        }
+      },
+      {
+        "key": "aviation",
+        "i18n": {
+          "en": "aviation",
+          "uk": "авіація"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/vehicle-airplane",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

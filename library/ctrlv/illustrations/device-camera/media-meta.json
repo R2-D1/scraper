@@ -1,0 +1,76 @@
+{
+  "slug": "device-camera",
+  "mediaKey": "5d5882ca-aab2-42bc-bb43-2028506cc5fe",
+  "i18n": {
+    "name": {
+      "en": "Digital Camera",
+      "uk": "Цифрова камера"
+    },
+    "alt": {
+      "en": "Digital Camera",
+      "uk": "Цифрова камера"
+    },
+    "tags": [
+      {
+        "key": "camera",
+        "i18n": {
+          "en": "camera",
+          "uk": "камера"
+        }
+      },
+      {
+        "key": "photography",
+        "i18n": {
+          "en": "photography",
+          "uk": "фотографія"
+        }
+      },
+      {
+        "key": "lens",
+        "i18n": {
+          "en": "lens",
+          "uk": "обʼєктив"
+        }
+      },
+      {
+        "key": "picture",
+        "i18n": {
+          "en": "picture",
+          "uk": "малюнок"
+        }
+      },
+      {
+        "key": "gadget",
+        "i18n": {
+          "en": "gadget",
+          "uk": "гаджет"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/device-camera",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

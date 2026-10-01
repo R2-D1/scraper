@@ -1,0 +1,76 @@
+{
+  "slug": "cloud-sync",
+  "mediaKey": "15161fb0-0e51-4214-b49c-0befa4f52cfe",
+  "i18n": {
+    "name": {
+      "en": "Omnipresent Cloud",
+      "uk": "Усюдиприсутня хмара"
+    },
+    "alt": {
+      "en": "Omnipresent Cloud",
+      "uk": "Усюдиприсутня хмара"
+    },
+    "tags": [
+      {
+        "key": "cloud",
+        "i18n": {
+          "en": "cloud",
+          "uk": "хмара"
+        }
+      },
+      {
+        "key": "sync",
+        "i18n": {
+          "en": "sync",
+          "uk": "синхронізація"
+        }
+      },
+      {
+        "key": "upload",
+        "i18n": {
+          "en": "upload",
+          "uk": "завантажити"
+        }
+      },
+      {
+        "key": "weather",
+        "i18n": {
+          "en": "weather",
+          "uk": "погода"
+        }
+      },
+      {
+        "key": "server",
+        "i18n": {
+          "en": "server",
+          "uk": "сервер"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/cloud-sync",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

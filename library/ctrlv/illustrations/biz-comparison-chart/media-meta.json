@@ -1,0 +1,90 @@
+{
+  "slug": "biz-comparison-chart",
+  "mediaKey": "5d1f5f31-8511-47c7-a309-ba441024e929",
+  "i18n": {
+    "name": {
+      "en": "Comparison Chart",
+      "uk": "Порівняльна таблиця"
+    },
+    "alt": {
+      "en": "Comparison Chart",
+      "uk": "Порівняльна таблиця"
+    },
+    "tags": [
+      {
+        "key": "chart",
+        "i18n": {
+          "en": "chart",
+          "uk": "діаграма"
+        }
+      },
+      {
+        "key": "comparison",
+        "i18n": {
+          "en": "comparison",
+          "uk": "порівняння"
+        }
+      },
+      {
+        "key": "compare",
+        "i18n": {
+          "en": "compare",
+          "uk": "порівняти"
+        }
+      },
+      {
+        "key": "ab-test",
+        "i18n": {
+          "en": "ab test",
+          "uk": "A/B-тестування"
+        }
+      },
+      {
+        "key": "split",
+        "i18n": {
+          "en": "split",
+          "uk": "розкол"
+        }
+      },
+      {
+        "key": "versus",
+        "i18n": {
+          "en": "versus",
+          "uk": "проти"
+        }
+      },
+      {
+        "key": "different",
+        "i18n": {
+          "en": "different",
+          "uk": "інший"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/biz-comparison-chart",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

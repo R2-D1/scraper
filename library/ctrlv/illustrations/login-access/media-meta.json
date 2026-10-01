@@ -1,0 +1,83 @@
+{
+  "slug": "login-access",
+  "mediaKey": "9f330b23-eba5-4087-9090-ddebacd66ad5",
+  "i18n": {
+    "name": {
+      "en": "Secure Login",
+      "uk": "Безпечний вхід"
+    },
+    "alt": {
+      "en": "Secure Login",
+      "uk": "Безпечний вхід"
+    },
+    "tags": [
+      {
+        "key": "login",
+        "i18n": {
+          "en": "login",
+          "uk": "логін"
+        }
+      },
+      {
+        "key": "access",
+        "i18n": {
+          "en": "access",
+          "uk": "доступ"
+        }
+      },
+      {
+        "key": "auth",
+        "i18n": {
+          "en": "auth",
+          "uk": "авт"
+        }
+      },
+      {
+        "key": "account",
+        "i18n": {
+          "en": "account",
+          "uk": "акаунт"
+        }
+      },
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/login-access",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

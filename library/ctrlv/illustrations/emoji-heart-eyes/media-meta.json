@@ -1,0 +1,83 @@
+{
+  "slug": "emoji-heart-eyes",
+  "mediaKey": "6a5e033b-2481-4fee-8126-3f71f41cbc57",
+  "i18n": {
+    "name": {
+      "en": "Heart Eyes Emoji",
+      "uk": "Емодзі «сердечні очі»"
+    },
+    "alt": {
+      "en": "Heart Eyes Emoji",
+      "uk": "Емодзі «сердечні очі»"
+    },
+    "tags": [
+      {
+        "key": "emoji",
+        "i18n": {
+          "en": "emoji",
+          "uk": "емодзі"
+        }
+      },
+      {
+        "key": "heart",
+        "i18n": {
+          "en": "heart",
+          "uk": "серце"
+        }
+      },
+      {
+        "key": "love",
+        "i18n": {
+          "en": "love",
+          "uk": "кохання"
+        }
+      },
+      {
+        "key": "eyes",
+        "i18n": {
+          "en": "eyes",
+          "uk": "очі"
+        }
+      },
+      {
+        "key": "face",
+        "i18n": {
+          "en": "face",
+          "uk": "обличчя"
+        }
+      },
+      {
+        "key": "adore",
+        "i18n": {
+          "en": "adore",
+          "uk": "обожнювати"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emoji-heart-eyes",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

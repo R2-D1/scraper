@@ -1,0 +1,90 @@
+{
+  "slug": "biz-adj-global",
+  "mediaKey": "caada4fe-3577-4a82-b5dd-cf17c8c5a839",
+  "i18n": {
+    "name": {
+      "en": "Global",
+      "uk": "Глобальний"
+    },
+    "alt": {
+      "en": "Global",
+      "uk": "Глобальний"
+    },
+    "tags": [
+      {
+        "key": "business",
+        "i18n": {
+          "en": "business",
+          "uk": "бізнес"
+        }
+      },
+      {
+        "key": "adjective",
+        "i18n": {
+          "en": "adjective",
+          "uk": "прикметник"
+        }
+      },
+      {
+        "key": "global",
+        "i18n": {
+          "en": "global",
+          "uk": "глобальний"
+        }
+      },
+      {
+        "key": "worldwide",
+        "i18n": {
+          "en": "worldwide",
+          "uk": "по всьому світу"
+        }
+      },
+      {
+        "key": "earth",
+        "i18n": {
+          "en": "earth",
+          "uk": "земля"
+        }
+      },
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      },
+      {
+        "key": "connect",
+        "i18n": {
+          "en": "connect",
+          "uk": "підключити"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/biz-adj-global",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "vacation-selfie",
+  "mediaKey": "d0055c9e-3eae-41c9-9f57-133713ae60a8",
+  "i18n": {
+    "name": {
+      "en": "Travel Selfie",
+      "uk": "Селфі з подорожі"
+    },
+    "alt": {
+      "en": "Travel Selfie",
+      "uk": "Селфі з подорожі"
+    },
+    "tags": [
+      {
+        "key": "vacation",
+        "i18n": {
+          "en": "vacation",
+          "uk": "відпустка"
+        }
+      },
+      {
+        "key": "selfie",
+        "i18n": {
+          "en": "selfie",
+          "uk": "селфі"
+        }
+      },
+      {
+        "key": "holiday",
+        "i18n": {
+          "en": "holiday",
+          "uk": "свято"
+        }
+      },
+      {
+        "key": "camera",
+        "i18n": {
+          "en": "camera",
+          "uk": "камера"
+        }
+      },
+      {
+        "key": "travel",
+        "i18n": {
+          "en": "travel",
+          "uk": "подорож"
+        }
+      },
+      {
+        "key": "tourism",
+        "i18n": {
+          "en": "tourism",
+          "uk": "туризм"
+        }
+      },
+      {
+        "key": "social",
+        "i18n": {
+          "en": "social",
+          "uk": "соціальні"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/vacation-selfie",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

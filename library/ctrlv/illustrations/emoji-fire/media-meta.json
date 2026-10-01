@@ -1,0 +1,83 @@
+{
+  "slug": "emoji-fire",
+  "mediaKey": "d1db1a4a-1e8c-4d06-b88d-ec47098576df",
+  "i18n": {
+    "name": {
+      "en": "Fire Emoji",
+      "uk": "Емодзі «вогонь»"
+    },
+    "alt": {
+      "en": "Fire Emoji",
+      "uk": "Емодзі «вогонь»"
+    },
+    "tags": [
+      {
+        "key": "emoji",
+        "i18n": {
+          "en": "emoji",
+          "uk": "емодзі"
+        }
+      },
+      {
+        "key": "fire",
+        "i18n": {
+          "en": "fire",
+          "uk": "вогонь"
+        }
+      },
+      {
+        "key": "flame",
+        "i18n": {
+          "en": "flame",
+          "uk": "полум'я"
+        }
+      },
+      {
+        "key": "hot",
+        "i18n": {
+          "en": "hot",
+          "uk": "гарячий"
+        }
+      },
+      {
+        "key": "lit",
+        "i18n": {
+          "en": "lit",
+          "uk": "літ."
+        }
+      },
+      {
+        "key": "burn",
+        "i18n": {
+          "en": "burn",
+          "uk": "опік"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emoji-fire",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

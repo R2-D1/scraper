@@ -1,0 +1,83 @@
+{
+  "slug": "future-autonomous-car",
+  "mediaKey": "d604d5ee-1438-465d-ac2e-8f33b623cbf7",
+  "i18n": {
+    "name": {
+      "en": "Autonomous Vehicle",
+      "uk": "Автономний транспортний засіб"
+    },
+    "alt": {
+      "en": "Autonomous Vehicle",
+      "uk": "Автономний транспортний засіб"
+    },
+    "tags": [
+      {
+        "key": "future",
+        "i18n": {
+          "en": "future",
+          "uk": "майбутнє"
+        }
+      },
+      {
+        "key": "car",
+        "i18n": {
+          "en": "car",
+          "uk": "автомобіль"
+        }
+      },
+      {
+        "key": "autonomous",
+        "i18n": {
+          "en": "autonomous",
+          "uk": "автономний"
+        }
+      },
+      {
+        "key": "self-driving",
+        "i18n": {
+          "en": "self-driving",
+          "uk": "безпілотний"
+        }
+      },
+      {
+        "key": "transportation",
+        "i18n": {
+          "en": "transportation",
+          "uk": "транспорт"
+        }
+      },
+      {
+        "key": "electric",
+        "i18n": {
+          "en": "electric",
+          "uk": "електричний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/future-autonomous-car",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

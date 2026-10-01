@@ -1,0 +1,90 @@
+{
+  "slug": "vintage-classic-radio",
+  "mediaKey": "dbcd2b4f-7b2d-46e0-9c57-afc1306de19a",
+  "i18n": {
+    "name": {
+      "en": "Classic Radio",
+      "uk": "Класичне радіо"
+    },
+    "alt": {
+      "en": "Classic Radio",
+      "uk": "Класичне радіо"
+    },
+    "tags": [
+      {
+        "key": "vintage",
+        "i18n": {
+          "en": "vintage",
+          "uk": "вінтажний"
+        }
+      },
+      {
+        "key": "retro",
+        "i18n": {
+          "en": "retro",
+          "uk": "ретро"
+        }
+      },
+      {
+        "key": "radio",
+        "i18n": {
+          "en": "radio",
+          "uk": "радіо"
+        }
+      },
+      {
+        "key": "audio",
+        "i18n": {
+          "en": "audio",
+          "uk": "аудіо"
+        }
+      },
+      {
+        "key": "music",
+        "i18n": {
+          "en": "music",
+          "uk": "музика"
+        }
+      },
+      {
+        "key": "broadcast",
+        "i18n": {
+          "en": "broadcast",
+          "uk": "трансляція"
+        }
+      },
+      {
+        "key": "transistor",
+        "i18n": {
+          "en": "transistor",
+          "uk": "транзистор"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/vintage-classic-radio",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

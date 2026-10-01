@@ -1,0 +1,90 @@
+{
+  "slug": "vehicle-helicopter",
+  "mediaKey": "b4ee5715-cdf7-4010-8794-3a0f899016a2",
+  "i18n": {
+    "name": {
+      "en": "Helicopter",
+      "uk": "Вертоліт"
+    },
+    "alt": {
+      "en": "Helicopter",
+      "uk": "Вертоліт"
+    },
+    "tags": [
+      {
+        "key": "helicopter",
+        "i18n": {
+          "en": "helicopter",
+          "uk": "вертоліт"
+        }
+      },
+      {
+        "key": "aircraft",
+        "i18n": {
+          "en": "aircraft",
+          "uk": "літак"
+        }
+      },
+      {
+        "key": "rotor",
+        "i18n": {
+          "en": "rotor",
+          "uk": "ротор"
+        }
+      },
+      {
+        "key": "transport",
+        "i18n": {
+          "en": "transport",
+          "uk": "транспорт"
+        }
+      },
+      {
+        "key": "air",
+        "i18n": {
+          "en": "air",
+          "uk": "повітря"
+        }
+      },
+      {
+        "key": "flight",
+        "i18n": {
+          "en": "flight",
+          "uk": "політ"
+        }
+      },
+      {
+        "key": "aviation",
+        "i18n": {
+          "en": "aviation",
+          "uk": "авіація"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/vehicle-helicopter",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

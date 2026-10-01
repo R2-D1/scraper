@@ -1,0 +1,83 @@
+{
+  "slug": "device-smartwatch",
+  "mediaKey": "44ceda53-56d1-4afc-af1a-b743d2dc9ef7",
+  "i18n": {
+    "name": {
+      "en": "Smartwatch",
+      "uk": "Розумний годинник"
+    },
+    "alt": {
+      "en": "Smartwatch",
+      "uk": "Розумний годинник"
+    },
+    "tags": [
+      {
+        "key": "smartwatch",
+        "i18n": {
+          "en": "smartwatch",
+          "uk": "розумний годинник"
+        }
+      },
+      {
+        "key": "wearable",
+        "i18n": {
+          "en": "wearable",
+          "uk": "носимий пристрій"
+        }
+      },
+      {
+        "key": "clock",
+        "i18n": {
+          "en": "clock",
+          "uk": "годинник"
+        }
+      },
+      {
+        "key": "fitness",
+        "i18n": {
+          "en": "fitness",
+          "uk": "фітнес"
+        }
+      },
+      {
+        "key": "watch",
+        "i18n": {
+          "en": "watch",
+          "uk": "дивитися"
+        }
+      },
+      {
+        "key": "technology",
+        "i18n": {
+          "en": "technology",
+          "uk": "технологія"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/device-smartwatch",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "const-electric-drill",
+  "mediaKey": "6fc25a69-7711-4638-9c31-680533cf0896",
+  "i18n": {
+    "name": {
+      "en": "Power Drill",
+      "uk": "Електрична дриль"
+    },
+    "alt": {
+      "en": "Power Drill",
+      "uk": "Електрична дриль"
+    },
+    "tags": [
+      {
+        "key": "construction",
+        "i18n": {
+          "en": "construction",
+          "uk": "будівництво"
+        }
+      },
+      {
+        "key": "drill",
+        "i18n": {
+          "en": "drill",
+          "uk": "дриль"
+        }
+      },
+      {
+        "key": "power",
+        "i18n": {
+          "en": "power",
+          "uk": "сила"
+        }
+      },
+      {
+        "key": "electric",
+        "i18n": {
+          "en": "electric",
+          "uk": "електричний"
+        }
+      },
+      {
+        "key": "screws",
+        "i18n": {
+          "en": "screws",
+          "uk": "гвинти"
+        }
+      },
+      {
+        "key": "builder",
+        "i18n": {
+          "en": "builder",
+          "uk": "будівельник"
+        }
+      },
+      {
+        "key": "rotary",
+        "i18n": {
+          "en": "rotary",
+          "uk": "поворотний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/const-electric-drill",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

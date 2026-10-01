@@ -1,0 +1,97 @@
+{
+  "slug": "tech-deployment-pipeline",
+  "mediaKey": "4a20c893-54cd-457b-b03e-518f3d57daf1",
+  "i18n": {
+    "name": {
+      "en": "Deployment",
+      "uk": "Розгортання"
+    },
+    "alt": {
+      "en": "Deployment",
+      "uk": "Розгортання"
+    },
+    "tags": [
+      {
+        "key": "cloud",
+        "i18n": {
+          "en": "cloud",
+          "uk": "хмара"
+        }
+      },
+      {
+        "key": "deploy",
+        "i18n": {
+          "en": "deploy",
+          "uk": "розгорнути"
+        }
+      },
+      {
+        "key": "pipeline",
+        "i18n": {
+          "en": "pipeline",
+          "uk": "конвеєр"
+        }
+      },
+      {
+        "key": "rocket",
+        "i18n": {
+          "en": "rocket",
+          "uk": "ракета"
+        }
+      },
+      {
+        "key": "ci-cd",
+        "i18n": {
+          "en": "ci/cd",
+          "uk": "ci/cd"
+        }
+      },
+      {
+        "key": "workflow",
+        "i18n": {
+          "en": "workflow",
+          "uk": "робочий процес"
+        }
+      },
+      {
+        "key": "automation",
+        "i18n": {
+          "en": "automation",
+          "uk": "автоматизація"
+        }
+      },
+      {
+        "key": "devops",
+        "i18n": {
+          "en": "devops",
+          "uk": "DevOps"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/tech-deployment-pipeline",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

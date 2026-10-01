@@ -1,0 +1,97 @@
+{
+  "slug": "photo-tripod",
+  "mediaKey": "05151016-cab3-4ade-84fc-e8feb9be4b97",
+  "i18n": {
+    "name": {
+      "en": "Tripod",
+      "uk": "Штатив"
+    },
+    "alt": {
+      "en": "Tripod",
+      "uk": "Штатив"
+    },
+    "tags": [
+      {
+        "key": "photography",
+        "i18n": {
+          "en": "photography",
+          "uk": "фотографія"
+        }
+      },
+      {
+        "key": "tripod",
+        "i18n": {
+          "en": "tripod",
+          "uk": "штатив"
+        }
+      },
+      {
+        "key": "stand",
+        "i18n": {
+          "en": "stand",
+          "uk": "підставка"
+        }
+      },
+      {
+        "key": "stabilizer",
+        "i18n": {
+          "en": "stabilizer",
+          "uk": "стабілізатор"
+        }
+      },
+      {
+        "key": "camera",
+        "i18n": {
+          "en": "camera",
+          "uk": "камера"
+        }
+      },
+      {
+        "key": "mount",
+        "i18n": {
+          "en": "mount",
+          "uk": "гора"
+        }
+      },
+      {
+        "key": "shoot",
+        "i18n": {
+          "en": "shoot",
+          "uk": "знімати"
+        }
+      },
+      {
+        "key": "equipment",
+        "i18n": {
+          "en": "equipment",
+          "uk": "обладнання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/photo-tripod",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "fitness-stats",
+  "mediaKey": "14a6db83-8de5-4ce7-80bb-34ca49a6ad85",
+  "i18n": {
+    "name": {
+      "en": "Fitness Progress",
+      "uk": "Прогрес у фітнесі"
+    },
+    "alt": {
+      "en": "Fitness Progress",
+      "uk": "Прогрес у фітнесі"
+    },
+    "tags": [
+      {
+        "key": "fitness",
+        "i18n": {
+          "en": "fitness",
+          "uk": "фітнес"
+        }
+      },
+      {
+        "key": "stats",
+        "i18n": {
+          "en": "stats",
+          "uk": "статистика"
+        }
+      },
+      {
+        "key": "watch",
+        "i18n": {
+          "en": "watch",
+          "uk": "дивитися"
+        }
+      },
+      {
+        "key": "smartwatch",
+        "i18n": {
+          "en": "smartwatch",
+          "uk": "розумний годинник"
+        }
+      },
+      {
+        "key": "health",
+        "i18n": {
+          "en": "health",
+          "uk": "здоров'я"
+        }
+      },
+      {
+        "key": "workout",
+        "i18n": {
+          "en": "workout",
+          "uk": "тренування"
+        }
+      },
+      {
+        "key": "progress",
+        "i18n": {
+          "en": "progress",
+          "uk": "прогрес"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/fitness-stats",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

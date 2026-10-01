@@ -1,0 +1,90 @@
+{
+  "slug": "sanfrancisco-golden-gate",
+  "mediaKey": "2b675ca4-c25b-4cf1-be8e-90750f9d6db3",
+  "i18n": {
+    "name": {
+      "en": "San Francisco, USA",
+      "uk": "Сан-Франциско, США"
+    },
+    "alt": {
+      "en": "San Francisco, USA",
+      "uk": "Сан-Франциско, США"
+    },
+    "tags": [
+      {
+        "key": "san-francisco",
+        "i18n": {
+          "en": "san francisco",
+          "uk": "Сан-Франциско"
+        }
+      },
+      {
+        "key": "usa",
+        "i18n": {
+          "en": "usa",
+          "uk": "США"
+        }
+      },
+      {
+        "key": "golden-gate",
+        "i18n": {
+          "en": "golden gate",
+          "uk": "Золоті ворота"
+        }
+      },
+      {
+        "key": "bridge",
+        "i18n": {
+          "en": "bridge",
+          "uk": "міст"
+        }
+      },
+      {
+        "key": "bay",
+        "i18n": {
+          "en": "bay",
+          "uk": "затока"
+        }
+      },
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "landmark",
+        "i18n": {
+          "en": "landmark",
+          "uk": "орієнтир"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/sanfrancisco-golden-gate",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

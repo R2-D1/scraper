@@ -1,0 +1,97 @@
+{
+  "slug": "emotion-boredom",
+  "mediaKey": "496c965b-4429-4133-a0d7-857b1ef3c81a",
+  "i18n": {
+    "name": {
+      "en": "Boredom",
+      "uk": "Нудьга"
+    },
+    "alt": {
+      "en": "Boredom",
+      "uk": "Нудьга"
+    },
+    "tags": [
+      {
+        "key": "emotion",
+        "i18n": {
+          "en": "emotion",
+          "uk": "емоція"
+        }
+      },
+      {
+        "key": "boredom",
+        "i18n": {
+          "en": "boredom",
+          "uk": "нудьга"
+        }
+      },
+      {
+        "key": "dull",
+        "i18n": {
+          "en": "dull",
+          "uk": "нудний"
+        }
+      },
+      {
+        "key": "tedious",
+        "i18n": {
+          "en": "tedious",
+          "uk": "нудний"
+        }
+      },
+      {
+        "key": "uninterested",
+        "i18n": {
+          "en": "uninterested",
+          "uk": "байдужий"
+        }
+      },
+      {
+        "key": "apathy",
+        "i18n": {
+          "en": "apathy",
+          "uk": "апатія"
+        }
+      },
+      {
+        "key": "listless",
+        "i18n": {
+          "en": "listless",
+          "uk": "апатичний"
+        }
+      },
+      {
+        "key": "monotone",
+        "i18n": {
+          "en": "monotone",
+          "uk": "монотонний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emotion-boredom",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "party-balloons",
+  "mediaKey": "73c63faf-2bd9-426e-bf42-fecefc6515d8",
+  "i18n": {
+    "name": {
+      "en": "Celebration Balloons",
+      "uk": "Святкові повітряні кульки"
+    },
+    "alt": {
+      "en": "Celebration Balloons",
+      "uk": "Святкові повітряні кульки"
+    },
+    "tags": [
+      {
+        "key": "party",
+        "i18n": {
+          "en": "party",
+          "uk": "вечірка"
+        }
+      },
+      {
+        "key": "celebration",
+        "i18n": {
+          "en": "celebration",
+          "uk": "святкування"
+        }
+      },
+      {
+        "key": "balloons",
+        "i18n": {
+          "en": "balloons",
+          "uk": "кульки"
+        }
+      },
+      {
+        "key": "event",
+        "i18n": {
+          "en": "event",
+          "uk": "подія"
+        }
+      },
+      {
+        "key": "fun",
+        "i18n": {
+          "en": "fun",
+          "uk": "розвага"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/party-balloons",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

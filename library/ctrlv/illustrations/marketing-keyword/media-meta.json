@@ -1,0 +1,83 @@
+{
+  "slug": "marketing-keyword",
+  "mediaKey": "09dd216c-06aa-4086-9cf8-341e9159e506",
+  "i18n": {
+    "name": {
+      "en": "Keyword Analysis",
+      "uk": "Аналіз ключових слів"
+    },
+    "alt": {
+      "en": "Keyword Analysis",
+      "uk": "Аналіз ключових слів"
+    },
+    "tags": [
+      {
+        "key": "marketing",
+        "i18n": {
+          "en": "marketing",
+          "uk": "маркетинг"
+        }
+      },
+      {
+        "key": "keyword",
+        "i18n": {
+          "en": "keyword",
+          "uk": "ключове слово"
+        }
+      },
+      {
+        "key": "analysis",
+        "i18n": {
+          "en": "analysis",
+          "uk": "аналіз"
+        }
+      },
+      {
+        "key": "search",
+        "i18n": {
+          "en": "search",
+          "uk": "пошук"
+        }
+      },
+      {
+        "key": "seo",
+        "i18n": {
+          "en": "seo",
+          "uk": "SEO"
+        }
+      },
+      {
+        "key": "magnifying-glass",
+        "i18n": {
+          "en": "magnifying glass",
+          "uk": "лупа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/marketing-keyword",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

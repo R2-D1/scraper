@@ -1,0 +1,83 @@
+{
+  "slug": "security-breach",
+  "mediaKey": "237b1157-f853-4b43-9d90-309d10a7cc31",
+  "i18n": {
+    "name": {
+      "en": "Data Breach",
+      "uk": "Витік даних"
+    },
+    "alt": {
+      "en": "Data Breach",
+      "uk": "Витік даних"
+    },
+    "tags": [
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "breach",
+        "i18n": {
+          "en": "breach",
+          "uk": "порушення"
+        }
+      },
+      {
+        "key": "leak",
+        "i18n": {
+          "en": "leak",
+          "uk": "витік"
+        }
+      },
+      {
+        "key": "hack",
+        "i18n": {
+          "en": "hack",
+          "uk": "хак"
+        }
+      },
+      {
+        "key": "cracked",
+        "i18n": {
+          "en": "cracked",
+          "uk": "тріснутий"
+        }
+      },
+      {
+        "key": "vulnerability",
+        "i18n": {
+          "en": "vulnerability",
+          "uk": "вразливість"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/security-breach",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

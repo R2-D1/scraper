@@ -1,0 +1,90 @@
+{
+  "slug": "rio-christ",
+  "mediaKey": "3c800caa-3896-4e05-af13-3fbc6db7d8fa",
+  "i18n": {
+    "name": {
+      "en": "Rio de Janeiro, Brazil",
+      "uk": "Ріо-де-Жанейро, Бразилія"
+    },
+    "alt": {
+      "en": "Rio de Janeiro, Brazil",
+      "uk": "Ріо-де-Жанейро, Бразилія"
+    },
+    "tags": [
+      {
+        "key": "rio",
+        "i18n": {
+          "en": "rio",
+          "uk": "ріо"
+        }
+      },
+      {
+        "key": "brazil",
+        "i18n": {
+          "en": "brazil",
+          "uk": "бразилія"
+        }
+      },
+      {
+        "key": "corcovado",
+        "i18n": {
+          "en": "corcovado",
+          "uk": "Корковадо"
+        }
+      },
+      {
+        "key": "christ",
+        "i18n": {
+          "en": "christ",
+          "uk": "христос"
+        }
+      },
+      {
+        "key": "statue",
+        "i18n": {
+          "en": "statue",
+          "uk": "статуя"
+        }
+      },
+      {
+        "key": "city",
+        "i18n": {
+          "en": "city",
+          "uk": "місто"
+        }
+      },
+      {
+        "key": "landmark",
+        "i18n": {
+          "en": "landmark",
+          "uk": "орієнтир"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/rio-christ",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

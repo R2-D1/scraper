@@ -1,0 +1,90 @@
+{
+  "slug": "legal-book",
+  "mediaKey": "a5124217-f34c-4f97-859b-4fa00d29d4c5",
+  "i18n": {
+    "name": {
+      "en": "Law Book",
+      "uk": "Книга з права"
+    },
+    "alt": {
+      "en": "Law Book",
+      "uk": "Книга з права"
+    },
+    "tags": [
+      {
+        "key": "legal",
+        "i18n": {
+          "en": "legal",
+          "uk": "юридичний"
+        }
+      },
+      {
+        "key": "book",
+        "i18n": {
+          "en": "book",
+          "uk": "книга"
+        }
+      },
+      {
+        "key": "law",
+        "i18n": {
+          "en": "law",
+          "uk": "закон"
+        }
+      },
+      {
+        "key": "rules",
+        "i18n": {
+          "en": "rules",
+          "uk": "правила"
+        }
+      },
+      {
+        "key": "justice",
+        "i18n": {
+          "en": "justice",
+          "uk": "правосуддя"
+        }
+      },
+      {
+        "key": "code",
+        "i18n": {
+          "en": "code",
+          "uk": "код"
+        }
+      },
+      {
+        "key": "guide",
+        "i18n": {
+          "en": "guide",
+          "uk": "керівництво"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/legal-book",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

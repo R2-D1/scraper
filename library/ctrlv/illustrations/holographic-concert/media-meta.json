@@ -1,0 +1,83 @@
+{
+  "slug": "holographic-concert",
+  "mediaKey": "92035c75-a466-4f5b-90b7-0be330459478",
+  "i18n": {
+    "name": {
+      "en": "Holographic Concert",
+      "uk": "Голографічний концерт"
+    },
+    "alt": {
+      "en": "Holographic Concert",
+      "uk": "Голографічний концерт"
+    },
+    "tags": [
+      {
+        "key": "hologram",
+        "i18n": {
+          "en": "hologram",
+          "uk": "голограма"
+        }
+      },
+      {
+        "key": "concert",
+        "i18n": {
+          "en": "concert",
+          "uk": "концерт"
+        }
+      },
+      {
+        "key": "music",
+        "i18n": {
+          "en": "music",
+          "uk": "музика"
+        }
+      },
+      {
+        "key": "stage",
+        "i18n": {
+          "en": "stage",
+          "uk": "сцена"
+        }
+      },
+      {
+        "key": "dj",
+        "i18n": {
+          "en": "dj",
+          "uk": "діджей"
+        }
+      },
+      {
+        "key": "sound",
+        "i18n": {
+          "en": "sound",
+          "uk": "звук"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/holographic-concert",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

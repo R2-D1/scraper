@@ -1,0 +1,83 @@
+{
+  "slug": "ai-brain",
+  "mediaKey": "f643fec4-376b-4749-b1fe-df39840962f4",
+  "i18n": {
+    "name": {
+      "en": "Artificial Intelligence",
+      "uk": "Штучний інтелект"
+    },
+    "alt": {
+      "en": "Artificial Intelligence",
+      "uk": "Штучний інтелект"
+    },
+    "tags": [
+      {
+        "key": "ai",
+        "i18n": {
+          "en": "ai",
+          "uk": "ai"
+        }
+      },
+      {
+        "key": "artificial-intelligence",
+        "i18n": {
+          "en": "artificial intelligence",
+          "uk": "штучний інтелект"
+        }
+      },
+      {
+        "key": "brain",
+        "i18n": {
+          "en": "brain",
+          "uk": "мозок"
+        }
+      },
+      {
+        "key": "neural",
+        "i18n": {
+          "en": "neural",
+          "uk": "нейронний"
+        }
+      },
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      },
+      {
+        "key": "tech",
+        "i18n": {
+          "en": "tech",
+          "uk": "технології"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/ai-brain",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "tech-encrypted-mail",
+  "mediaKey": "a1c3fd29-99fa-4eef-8abe-fce7f953a24f",
+  "i18n": {
+    "name": {
+      "en": "Encrypted Mail",
+      "uk": "Зашифрована пошта"
+    },
+    "alt": {
+      "en": "Encrypted Mail",
+      "uk": "Зашифрована пошта"
+    },
+    "tags": [
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "mail",
+        "i18n": {
+          "en": "mail",
+          "uk": "пошта"
+        }
+      },
+      {
+        "key": "envelope",
+        "i18n": {
+          "en": "envelope",
+          "uk": "конверт"
+        }
+      },
+      {
+        "key": "encrypted",
+        "i18n": {
+          "en": "encrypted",
+          "uk": "зашифровано"
+        }
+      },
+      {
+        "key": "secure",
+        "i18n": {
+          "en": "secure",
+          "uk": "безпечно"
+        }
+      },
+      {
+        "key": "private",
+        "i18n": {
+          "en": "private",
+          "uk": "приватний"
+        }
+      },
+      {
+        "key": "shield",
+        "i18n": {
+          "en": "shield",
+          "uk": "щит"
+        }
+      },
+      {
+        "key": "msg",
+        "i18n": {
+          "en": "msg",
+          "uk": "повідомлення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/tech-encrypted-mail",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

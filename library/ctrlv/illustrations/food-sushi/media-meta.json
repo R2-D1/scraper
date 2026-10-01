@@ -1,0 +1,97 @@
+{
+  "slug": "food-sushi",
+  "mediaKey": "bcf50b28-c1ab-4e8f-be2c-8ff3e15eb1e1",
+  "i18n": {
+    "name": {
+      "en": "Japanese Sushi",
+      "uk": "Японські суші"
+    },
+    "alt": {
+      "en": "Japanese Sushi",
+      "uk": "Японські суші"
+    },
+    "tags": [
+      {
+        "key": "food",
+        "i18n": {
+          "en": "food",
+          "uk": "їжа"
+        }
+      },
+      {
+        "key": "sushi",
+        "i18n": {
+          "en": "sushi",
+          "uk": "суші"
+        }
+      },
+      {
+        "key": "japan",
+        "i18n": {
+          "en": "japan",
+          "uk": "Японія"
+        }
+      },
+      {
+        "key": "cuisine",
+        "i18n": {
+          "en": "cuisine",
+          "uk": "кухня"
+        }
+      },
+      {
+        "key": "nigiri",
+        "i18n": {
+          "en": "nigiri",
+          "uk": "нігірі"
+        }
+      },
+      {
+        "key": "salmon",
+        "i18n": {
+          "en": "salmon",
+          "uk": "лосось"
+        }
+      },
+      {
+        "key": "rice",
+        "i18n": {
+          "en": "rice",
+          "uk": "рис"
+        }
+      },
+      {
+        "key": "seafood",
+        "i18n": {
+          "en": "seafood",
+          "uk": "морепродукти"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/food-sushi",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

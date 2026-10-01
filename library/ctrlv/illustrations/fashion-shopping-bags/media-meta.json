@@ -1,0 +1,83 @@
+{
+  "slug": "fashion-shopping-bags",
+  "mediaKey": "2a7412cb-9136-48a8-9ded-533c63dcb84b",
+  "i18n": {
+    "name": {
+      "en": "Shopping Bags",
+      "uk": "Покупкові сумки"
+    },
+    "alt": {
+      "en": "Shopping Bags",
+      "uk": "Покупкові сумки"
+    },
+    "tags": [
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "shopping",
+        "i18n": {
+          "en": "shopping",
+          "uk": "покупки"
+        }
+      },
+      {
+        "key": "bags",
+        "i18n": {
+          "en": "bags",
+          "uk": "сумки"
+        }
+      },
+      {
+        "key": "retail",
+        "i18n": {
+          "en": "retail",
+          "uk": "ритейл"
+        }
+      },
+      {
+        "key": "luxury",
+        "i18n": {
+          "en": "luxury",
+          "uk": "розкіш"
+        }
+      },
+      {
+        "key": "store",
+        "i18n": {
+          "en": "store",
+          "uk": "зберігати"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/fashion-shopping-bags",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

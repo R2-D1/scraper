@@ -1,0 +1,83 @@
+{
+  "slug": "hacker-laptop",
+  "mediaKey": "f993ac4f-7319-48dd-a6be-af7eb28e35d0",
+  "i18n": {
+    "name": {
+      "en": "Hacker Laptop",
+      "uk": "Ноутбук хакера"
+    },
+    "alt": {
+      "en": "Hacker Laptop",
+      "uk": "Ноутбук хакера"
+    },
+    "tags": [
+      {
+        "key": "hacker",
+        "i18n": {
+          "en": "hacker",
+          "uk": "хакер"
+        }
+      },
+      {
+        "key": "laptop",
+        "i18n": {
+          "en": "laptop",
+          "uk": "ноутбук"
+        }
+      },
+      {
+        "key": "cybersecurity",
+        "i18n": {
+          "en": "cybersecurity",
+          "uk": "кібербезпека"
+        }
+      },
+      {
+        "key": "terminal",
+        "i18n": {
+          "en": "terminal",
+          "uk": "термінал"
+        }
+      },
+      {
+        "key": "tech",
+        "i18n": {
+          "en": "tech",
+          "uk": "технології"
+        }
+      },
+      {
+        "key": "code",
+        "i18n": {
+          "en": "code",
+          "uk": "код"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/hacker-laptop",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

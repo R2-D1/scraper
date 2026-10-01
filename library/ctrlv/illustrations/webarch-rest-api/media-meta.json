@@ -1,0 +1,104 @@
+{
+  "slug": "webarch-rest-api",
+  "mediaKey": "b86e1651-6c07-4eab-9ab4-ffb2142a15c7",
+  "i18n": {
+    "name": {
+      "en": "RESTful API",
+      "uk": "RESTful API"
+    },
+    "alt": {
+      "en": "RESTful API",
+      "uk": "RESTful API"
+    },
+    "tags": [
+      {
+        "key": "web",
+        "i18n": {
+          "en": "web",
+          "uk": "веб"
+        }
+      },
+      {
+        "key": "rest",
+        "i18n": {
+          "en": "rest",
+          "uk": "відпочинок"
+        }
+      },
+      {
+        "key": "api",
+        "i18n": {
+          "en": "api",
+          "uk": "API"
+        }
+      },
+      {
+        "key": "endpoint",
+        "i18n": {
+          "en": "endpoint",
+          "uk": "кінцева точка"
+        }
+      },
+      {
+        "key": "http",
+        "i18n": {
+          "en": "http",
+          "uk": "http"
+        }
+      },
+      {
+        "key": "get",
+        "i18n": {
+          "en": "get",
+          "uk": "отримати"
+        }
+      },
+      {
+        "key": "post",
+        "i18n": {
+          "en": "post",
+          "uk": "стовп"
+        }
+      },
+      {
+        "key": "json",
+        "i18n": {
+          "en": "json",
+          "uk": "json"
+        }
+      },
+      {
+        "key": "architecture",
+        "i18n": {
+          "en": "architecture",
+          "uk": "архітектура"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/webarch-rest-api",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

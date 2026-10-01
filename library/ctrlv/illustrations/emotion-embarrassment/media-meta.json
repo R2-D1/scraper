@@ -1,0 +1,97 @@
+{
+  "slug": "emotion-embarrassment",
+  "mediaKey": "189fdfdf-5567-4dee-9573-1427f5c6e01d",
+  "i18n": {
+    "name": {
+      "en": "Embarrassment",
+      "uk": "Збентеження"
+    },
+    "alt": {
+      "en": "Embarrassment",
+      "uk": "Збентеження"
+    },
+    "tags": [
+      {
+        "key": "emotion",
+        "i18n": {
+          "en": "emotion",
+          "uk": "емоція"
+        }
+      },
+      {
+        "key": "embarrassed",
+        "i18n": {
+          "en": "embarrassed",
+          "uk": "збентежений"
+        }
+      },
+      {
+        "key": "blush",
+        "i18n": {
+          "en": "blush",
+          "uk": "рум'янець"
+        }
+      },
+      {
+        "key": "ashamed",
+        "i18n": {
+          "en": "ashamed",
+          "uk": "соромно"
+        }
+      },
+      {
+        "key": "self-conscious",
+        "i18n": {
+          "en": "self-conscious",
+          "uk": "сором’язливий"
+        }
+      },
+      {
+        "key": "awkward",
+        "i18n": {
+          "en": "awkward",
+          "uk": "незграбність"
+        }
+      },
+      {
+        "key": "shy",
+        "i18n": {
+          "en": "shy",
+          "uk": "сором'язливий"
+        }
+      },
+      {
+        "key": "sheepish",
+        "i18n": {
+          "en": "sheepish",
+          "uk": "сором'язливий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emotion-embarrassment",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

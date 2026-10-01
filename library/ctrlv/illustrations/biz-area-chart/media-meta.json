@@ -1,0 +1,90 @@
+{
+  "slug": "biz-area-chart",
+  "mediaKey": "5d42e8fd-0871-435e-9880-656160bf54a4",
+  "i18n": {
+    "name": {
+      "en": "Area Chart",
+      "uk": "Діаграма площ"
+    },
+    "alt": {
+      "en": "Area Chart",
+      "uk": "Діаграма площ"
+    },
+    "tags": [
+      {
+        "key": "chart",
+        "i18n": {
+          "en": "chart",
+          "uk": "діаграма"
+        }
+      },
+      {
+        "key": "area",
+        "i18n": {
+          "en": "area",
+          "uk": "область"
+        }
+      },
+      {
+        "key": "layers",
+        "i18n": {
+          "en": "layers",
+          "uk": "шари"
+        }
+      },
+      {
+        "key": "overlap",
+        "i18n": {
+          "en": "overlap",
+          "uk": "перекривання"
+        }
+      },
+      {
+        "key": "growth",
+        "i18n": {
+          "en": "growth",
+          "uk": "ріст"
+        }
+      },
+      {
+        "key": "stack",
+        "i18n": {
+          "en": "stack",
+          "uk": "стек"
+        }
+      },
+      {
+        "key": "graph",
+        "i18n": {
+          "en": "graph",
+          "uk": "графік"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/biz-area-chart",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

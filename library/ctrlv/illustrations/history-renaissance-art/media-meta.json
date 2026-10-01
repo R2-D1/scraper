@@ -1,0 +1,83 @@
+{
+  "slug": "history-renaissance-art",
+  "mediaKey": "4a84dbc6-b04b-4af8-84f1-ebd2713835a2",
+  "i18n": {
+    "name": {
+      "en": "Renaissance Art",
+      "uk": "Мистецтво епохи Відродження"
+    },
+    "alt": {
+      "en": "Renaissance Art",
+      "uk": "Мистецтво епохи Відродження"
+    },
+    "tags": [
+      {
+        "key": "history",
+        "i18n": {
+          "en": "history",
+          "uk": "історії"
+        }
+      },
+      {
+        "key": "renaissance",
+        "i18n": {
+          "en": "renaissance",
+          "uk": "Ілюстрація: renaissance"
+        }
+      },
+      {
+        "key": "art",
+        "i18n": {
+          "en": "art",
+          "uk": "мистецтво"
+        }
+      },
+      {
+        "key": "mona-lisa",
+        "i18n": {
+          "en": "mona lisa",
+          "uk": "«Мона Ліза»"
+        }
+      },
+      {
+        "key": "frame",
+        "i18n": {
+          "en": "frame",
+          "uk": "рамка"
+        }
+      },
+      {
+        "key": "culture",
+        "i18n": {
+          "en": "culture",
+          "uk": "культура"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/history-renaissance-art",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

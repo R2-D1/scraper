@@ -1,0 +1,90 @@
+{
+  "slug": "blockchain-tech",
+  "mediaKey": "31900a31-89d3-429f-a744-6c40ffbdc123",
+  "i18n": {
+    "name": {
+      "en": "The Infinite Ledger",
+      "uk": "«Нескінченна книга рахунків»"
+    },
+    "alt": {
+      "en": "The Infinite Ledger",
+      "uk": "«Нескінченна книга рахунків»"
+    },
+    "tags": [
+      {
+        "key": "blockchain",
+        "i18n": {
+          "en": "blockchain",
+          "uk": "блокчейн"
+        }
+      },
+      {
+        "key": "crypto",
+        "i18n": {
+          "en": "crypto",
+          "uk": "криптовалюта"
+        }
+      },
+      {
+        "key": "nodes",
+        "i18n": {
+          "en": "nodes",
+          "uk": "вузли"
+        }
+      },
+      {
+        "key": "ledger",
+        "i18n": {
+          "en": "ledger",
+          "uk": "бухгалтерська книга"
+        }
+      },
+      {
+        "key": "chain",
+        "i18n": {
+          "en": "chain",
+          "uk": "ланцюг"
+        }
+      },
+      {
+        "key": "hexagons",
+        "i18n": {
+          "en": "hexagons",
+          "uk": "шестикутники"
+        }
+      },
+      {
+        "key": "cubes",
+        "i18n": {
+          "en": "cubes",
+          "uk": "куби"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/blockchain-tech",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

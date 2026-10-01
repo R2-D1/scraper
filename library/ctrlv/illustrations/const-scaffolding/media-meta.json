@@ -1,0 +1,97 @@
+{
+  "slug": "const-scaffolding",
+  "mediaKey": "d25d7e9b-d73a-4a2d-bc3b-3b8719b298ba",
+  "i18n": {
+    "name": {
+      "en": "Scaffolding",
+      "uk": "Будівельні риштування"
+    },
+    "alt": {
+      "en": "Scaffolding",
+      "uk": "Будівельні риштування"
+    },
+    "tags": [
+      {
+        "key": "construction",
+        "i18n": {
+          "en": "construction",
+          "uk": "будівництво"
+        }
+      },
+      {
+        "key": "scaffold",
+        "i18n": {
+          "en": "scaffold",
+          "uk": "риштування"
+        }
+      },
+      {
+        "key": "structure",
+        "i18n": {
+          "en": "structure",
+          "uk": "структура"
+        }
+      },
+      {
+        "key": "support",
+        "i18n": {
+          "en": "support",
+          "uk": "підтримка"
+        }
+      },
+      {
+        "key": "poles",
+        "i18n": {
+          "en": "poles",
+          "uk": "полюси"
+        }
+      },
+      {
+        "key": "platform",
+        "i18n": {
+          "en": "platform",
+          "uk": "платформа"
+        }
+      },
+      {
+        "key": "build",
+        "i18n": {
+          "en": "build",
+          "uk": "будівництво"
+        }
+      },
+      {
+        "key": "grid",
+        "i18n": {
+          "en": "grid",
+          "uk": "сітка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/const-scaffolding",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

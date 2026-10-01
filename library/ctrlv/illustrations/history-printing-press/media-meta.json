@@ -1,0 +1,90 @@
+{
+  "slug": "history-printing-press",
+  "mediaKey": "9d2dcc5f-51f7-4ffa-9aef-b364a46d0431",
+  "i18n": {
+    "name": {
+      "en": "Printing Press",
+      "uk": "Друкарня"
+    },
+    "alt": {
+      "en": "Printing Press",
+      "uk": "Друкарня"
+    },
+    "tags": [
+      {
+        "key": "history",
+        "i18n": {
+          "en": "history",
+          "uk": "історії"
+        }
+      },
+      {
+        "key": "printing",
+        "i18n": {
+          "en": "printing",
+          "uk": "друк"
+        }
+      },
+      {
+        "key": "press",
+        "i18n": {
+          "en": "press",
+          "uk": "преса"
+        }
+      },
+      {
+        "key": "gutenberg",
+        "i18n": {
+          "en": "gutenberg",
+          "uk": "Гютенберг"
+        }
+      },
+      {
+        "key": "books",
+        "i18n": {
+          "en": "books",
+          "uk": "книги"
+        }
+      },
+      {
+        "key": "invention",
+        "i18n": {
+          "en": "invention",
+          "uk": "винахід"
+        }
+      },
+      {
+        "key": "machine",
+        "i18n": {
+          "en": "machine",
+          "uk": "машина"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/history-printing-press",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "sales-funnel",
+  "mediaKey": "eeb751a0-c59e-401a-990d-70832fe20e4f",
+  "i18n": {
+    "name": {
+      "en": "Sales Funnel",
+      "uk": "Воронка продажів"
+    },
+    "alt": {
+      "en": "Sales Funnel",
+      "uk": "Воронка продажів"
+    },
+    "tags": [
+      {
+        "key": "sales",
+        "i18n": {
+          "en": "sales",
+          "uk": "продажі"
+        }
+      },
+      {
+        "key": "funnel",
+        "i18n": {
+          "en": "funnel",
+          "uk": "воронка"
+        }
+      },
+      {
+        "key": "conversion",
+        "i18n": {
+          "en": "conversion",
+          "uk": "конверсія"
+        }
+      },
+      {
+        "key": "leads",
+        "i18n": {
+          "en": "leads",
+          "uk": "проводить"
+        }
+      },
+      {
+        "key": "marketing",
+        "i18n": {
+          "en": "marketing",
+          "uk": "маркетинг"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/sales-funnel",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "const-timber",
+  "mediaKey": "3247c7b6-a025-4a97-b5ad-83201d6efc7d",
+  "i18n": {
+    "name": {
+      "en": "Timber Planks",
+      "uk": "Дерев'яні дошки"
+    },
+    "alt": {
+      "en": "Timber Planks",
+      "uk": "Дерев'яні дошки"
+    },
+    "tags": [
+      {
+        "key": "construction",
+        "i18n": {
+          "en": "construction",
+          "uk": "будівництво"
+        }
+      },
+      {
+        "key": "timber",
+        "i18n": {
+          "en": "timber",
+          "uk": "деревина"
+        }
+      },
+      {
+        "key": "wood",
+        "i18n": {
+          "en": "wood",
+          "uk": "деревина"
+        }
+      },
+      {
+        "key": "lumber",
+        "i18n": {
+          "en": "lumber",
+          "uk": "пиломатеріали"
+        }
+      },
+      {
+        "key": "planks",
+        "i18n": {
+          "en": "planks",
+          "uk": "дошки"
+        }
+      },
+      {
+        "key": "materials",
+        "i18n": {
+          "en": "materials",
+          "uk": "матеріали"
+        }
+      },
+      {
+        "key": "stack",
+        "i18n": {
+          "en": "stack",
+          "uk": "стек"
+        }
+      },
+      {
+        "key": "boards",
+        "i18n": {
+          "en": "boards",
+          "uk": "дошки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/const-timber",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

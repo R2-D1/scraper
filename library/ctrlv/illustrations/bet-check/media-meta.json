@@ -1,0 +1,83 @@
+{
+  "slug": "bet-check",
+  "mediaKey": "e3d6c757-8be9-437e-ae94-8ea25990e19b",
+  "i18n": {
+    "name": {
+      "en": "Bet",
+      "uk": "Ставка"
+    },
+    "alt": {
+      "en": "Bet",
+      "uk": "Ставка"
+    },
+    "tags": [
+      {
+        "key": "bet",
+        "i18n": {
+          "en": "bet",
+          "uk": "ставка"
+        }
+      },
+      {
+        "key": "agree",
+        "i18n": {
+          "en": "agree",
+          "uk": "погоджуватися"
+        }
+      },
+      {
+        "key": "okay",
+        "i18n": {
+          "en": "okay",
+          "uk": "гаразд"
+        }
+      },
+      {
+        "key": "slang",
+        "i18n": {
+          "en": "slang",
+          "uk": "сленг"
+        }
+      },
+      {
+        "key": "genz",
+        "i18n": {
+          "en": "genz",
+          "uk": "Ілюстрація: genz"
+        }
+      },
+      {
+        "key": "abbreviation",
+        "i18n": {
+          "en": "abbreviation",
+          "uk": "скорочення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/bet-check",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

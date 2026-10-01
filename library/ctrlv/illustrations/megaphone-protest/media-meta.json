@@ -1,0 +1,76 @@
+{
+  "slug": "megaphone-protest",
+  "mediaKey": "d5009468-5e3f-47e3-841e-91b7309acdd9",
+  "i18n": {
+    "name": {
+      "en": "Activism",
+      "uk": "Активізм"
+    },
+    "alt": {
+      "en": "Activism",
+      "uk": "Активізм"
+    },
+    "tags": [
+      {
+        "key": "protest",
+        "i18n": {
+          "en": "protest",
+          "uk": "протест"
+        }
+      },
+      {
+        "key": "voice",
+        "i18n": {
+          "en": "voice",
+          "uk": "голос"
+        }
+      },
+      {
+        "key": "speech",
+        "i18n": {
+          "en": "speech",
+          "uk": "мовлення"
+        }
+      },
+      {
+        "key": "activism",
+        "i18n": {
+          "en": "activism",
+          "uk": "активізм"
+        }
+      },
+      {
+        "key": "rally",
+        "i18n": {
+          "en": "rally",
+          "uk": "раллі"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/megaphone-protest",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

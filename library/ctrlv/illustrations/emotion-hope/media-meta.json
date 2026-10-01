@@ -1,0 +1,97 @@
+{
+  "slug": "emotion-hope",
+  "mediaKey": "d8a33c57-75cd-4646-923f-df30b2b55c73",
+  "i18n": {
+    "name": {
+      "en": "Hope",
+      "uk": "Надія"
+    },
+    "alt": {
+      "en": "Hope",
+      "uk": "Надія"
+    },
+    "tags": [
+      {
+        "key": "emotion",
+        "i18n": {
+          "en": "emotion",
+          "uk": "емоція"
+        }
+      },
+      {
+        "key": "hope",
+        "i18n": {
+          "en": "hope",
+          "uk": "надія"
+        }
+      },
+      {
+        "key": "optimism",
+        "i18n": {
+          "en": "optimism",
+          "uk": "оптимізм"
+        }
+      },
+      {
+        "key": "aspiration",
+        "i18n": {
+          "en": "aspiration",
+          "uk": "прагнення"
+        }
+      },
+      {
+        "key": "inspired",
+        "i18n": {
+          "en": "inspired",
+          "uk": "натхненний"
+        }
+      },
+      {
+        "key": "faith",
+        "i18n": {
+          "en": "faith",
+          "uk": "віра"
+        }
+      },
+      {
+        "key": "future",
+        "i18n": {
+          "en": "future",
+          "uk": "майбутнє"
+        }
+      },
+      {
+        "key": "wishful",
+        "i18n": {
+          "en": "wishful",
+          "uk": "мрійливий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emotion-hope",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "big-yikes-sweat",
+  "mediaKey": "a1812841-a1b5-4017-8133-296f177bbde2",
+  "i18n": {
+    "name": {
+      "en": "Big Yikes",
+      "uk": "Ой-ой-ой!"
+    },
+    "alt": {
+      "en": "Big Yikes",
+      "uk": "Ой-ой-ой!"
+    },
+    "tags": [
+      {
+        "key": "big-yikes",
+        "i18n": {
+          "en": "big yikes",
+          "uk": "ой-ой-ой"
+        }
+      },
+      {
+        "key": "embarrassing",
+        "i18n": {
+          "en": "embarrassing",
+          "uk": "незручний"
+        }
+      },
+      {
+        "key": "oops",
+        "i18n": {
+          "en": "oops",
+          "uk": "ой"
+        }
+      },
+      {
+        "key": "slang",
+        "i18n": {
+          "en": "slang",
+          "uk": "сленг"
+        }
+      },
+      {
+        "key": "genz",
+        "i18n": {
+          "en": "genz",
+          "uk": "Ілюстрація: genz"
+        }
+      },
+      {
+        "key": "abbreviation",
+        "i18n": {
+          "en": "abbreviation",
+          "uk": "скорочення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/big-yikes-sweat",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

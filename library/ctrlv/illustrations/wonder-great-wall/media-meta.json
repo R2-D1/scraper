@@ -1,0 +1,76 @@
+{
+  "slug": "wonder-great-wall",
+  "mediaKey": "48eb85ac-fd76-46fb-bb9c-7cb9145a28a8",
+  "i18n": {
+    "name": {
+      "en": "Great Wall of China",
+      "uk": "Великий китайський мур"
+    },
+    "alt": {
+      "en": "Great Wall of China",
+      "uk": "Великий китайський мур"
+    },
+    "tags": [
+      {
+        "key": "wonder",
+        "i18n": {
+          "en": "wonder",
+          "uk": "подив"
+        }
+      },
+      {
+        "key": "china",
+        "i18n": {
+          "en": "china",
+          "uk": "Китай"
+        }
+      },
+      {
+        "key": "asia",
+        "i18n": {
+          "en": "asia",
+          "uk": "Азія"
+        }
+      },
+      {
+        "key": "landmark",
+        "i18n": {
+          "en": "landmark",
+          "uk": "орієнтир"
+        }
+      },
+      {
+        "key": "history",
+        "i18n": {
+          "en": "history",
+          "uk": "історії"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/wonder-great-wall",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

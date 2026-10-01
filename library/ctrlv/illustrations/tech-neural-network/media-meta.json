@@ -1,0 +1,90 @@
+{
+  "slug": "tech-neural-network",
+  "mediaKey": "41c49886-0148-4fe4-a333-4554fcc492d3",
+  "i18n": {
+    "name": {
+      "en": "Neural Network",
+      "uk": "Нейронна мережа"
+    },
+    "alt": {
+      "en": "Neural Network",
+      "uk": "Нейронна мережа"
+    },
+    "tags": [
+      {
+        "key": "ai",
+        "i18n": {
+          "en": "ai",
+          "uk": "ai"
+        }
+      },
+      {
+        "key": "neural",
+        "i18n": {
+          "en": "neural",
+          "uk": "нейронний"
+        }
+      },
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      },
+      {
+        "key": "nodes",
+        "i18n": {
+          "en": "nodes",
+          "uk": "вузли"
+        }
+      },
+      {
+        "key": "intelligence",
+        "i18n": {
+          "en": "intelligence",
+          "uk": "інтелект"
+        }
+      },
+      {
+        "key": "learning",
+        "i18n": {
+          "en": "learning",
+          "uk": "навчання"
+        }
+      },
+      {
+        "key": "connections",
+        "i18n": {
+          "en": "connections",
+          "uk": "з'єднання"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/tech-neural-network",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

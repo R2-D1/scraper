@@ -1,0 +1,104 @@
+{
+  "slug": "scientist-franklin",
+  "mediaKey": "21f8fb38-c316-47fc-882e-68e377cefcfe",
+  "i18n": {
+    "name": {
+      "en": "DNA Double Helix",
+      "uk": "Подвійна спіраль ДНК"
+    },
+    "alt": {
+      "en": "DNA Double Helix",
+      "uk": "Подвійна спіраль ДНК"
+    },
+    "tags": [
+      {
+        "key": "science",
+        "i18n": {
+          "en": "science",
+          "uk": "наука"
+        }
+      },
+      {
+        "key": "scientist",
+        "i18n": {
+          "en": "scientist",
+          "uk": "вчений"
+        }
+      },
+      {
+        "key": "franklin",
+        "i18n": {
+          "en": "franklin",
+          "uk": "Франклін"
+        }
+      },
+      {
+        "key": "biology",
+        "i18n": {
+          "en": "biology",
+          "uk": "біологія"
+        }
+      },
+      {
+        "key": "dna",
+        "i18n": {
+          "en": "dna",
+          "uk": "ДНК"
+        }
+      },
+      {
+        "key": "helix",
+        "i18n": {
+          "en": "helix",
+          "uk": "спіраль"
+        }
+      },
+      {
+        "key": "genetics",
+        "i18n": {
+          "en": "genetics",
+          "uk": "генетика"
+        }
+      },
+      {
+        "key": "x-ray",
+        "i18n": {
+          "en": "x-ray",
+          "uk": "рентген"
+        }
+      },
+      {
+        "key": "structure",
+        "i18n": {
+          "en": "structure",
+          "uk": "структура"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/scientist-franklin",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "vehicle-speedboat",
+  "mediaKey": "6e6f7464-a7c7-4baf-92a6-58bd207cc21a",
+  "i18n": {
+    "name": {
+      "en": "Speedboat",
+      "uk": "Швидкісний катер"
+    },
+    "alt": {
+      "en": "Speedboat",
+      "uk": "Швидкісний катер"
+    },
+    "tags": [
+      {
+        "key": "speedboat",
+        "i18n": {
+          "en": "speedboat",
+          "uk": "швидкісний катер"
+        }
+      },
+      {
+        "key": "powerboat",
+        "i18n": {
+          "en": "powerboat",
+          "uk": "моторний катер"
+        }
+      },
+      {
+        "key": "boat",
+        "i18n": {
+          "en": "boat",
+          "uk": "човен"
+        }
+      },
+      {
+        "key": "ocean",
+        "i18n": {
+          "en": "ocean",
+          "uk": "океан"
+        }
+      },
+      {
+        "key": "sea",
+        "i18n": {
+          "en": "sea",
+          "uk": "море"
+        }
+      },
+      {
+        "key": "race",
+        "i18n": {
+          "en": "race",
+          "uk": "гонка"
+        }
+      },
+      {
+        "key": "water",
+        "i18n": {
+          "en": "water",
+          "uk": "вода"
+        }
+      },
+      {
+        "key": "fast",
+        "i18n": {
+          "en": "fast",
+          "uk": "швидкий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/vehicle-speedboat",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

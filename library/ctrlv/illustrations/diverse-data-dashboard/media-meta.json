@@ -1,0 +1,90 @@
+{
+  "slug": "diverse-data-dashboard",
+  "mediaKey": "e9c3ebb8-377d-459d-a1c7-7bf58ce7e6fc",
+  "i18n": {
+    "name": {
+      "en": "Data Dashboard",
+      "uk": "Панель даних"
+    },
+    "alt": {
+      "en": "Data Dashboard",
+      "uk": "Панель даних"
+    },
+    "tags": [
+      {
+        "key": "diverse",
+        "i18n": {
+          "en": "diverse",
+          "uk": "різноманітний"
+        }
+      },
+      {
+        "key": "dashboard",
+        "i18n": {
+          "en": "dashboard",
+          "uk": "приладова панель"
+        }
+      },
+      {
+        "key": "analytics",
+        "i18n": {
+          "en": "analytics",
+          "uk": "аналітика"
+        }
+      },
+      {
+        "key": "mining",
+        "i18n": {
+          "en": "mining",
+          "uk": "майнінг"
+        }
+      },
+      {
+        "key": "metrics",
+        "i18n": {
+          "en": "metrics",
+          "uk": "метрики"
+        }
+      },
+      {
+        "key": "chart",
+        "i18n": {
+          "en": "chart",
+          "uk": "діаграма"
+        }
+      },
+      {
+        "key": "graphs",
+        "i18n": {
+          "en": "graphs",
+          "uk": "графіки"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/diverse-data-dashboard",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

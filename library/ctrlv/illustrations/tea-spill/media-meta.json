@@ -1,0 +1,83 @@
+{
+  "slug": "tea-spill",
+  "mediaKey": "146ed4d3-a3b9-4a90-9b31-c4dfa5edc12a",
+  "i18n": {
+    "name": {
+      "en": "Tea",
+      "uk": "Чай"
+    },
+    "alt": {
+      "en": "Tea",
+      "uk": "Чай"
+    },
+    "tags": [
+      {
+        "key": "tea",
+        "i18n": {
+          "en": "tea",
+          "uk": "чай"
+        }
+      },
+      {
+        "key": "gossip",
+        "i18n": {
+          "en": "gossip",
+          "uk": "плітки"
+        }
+      },
+      {
+        "key": "truth",
+        "i18n": {
+          "en": "truth",
+          "uk": "правда"
+        }
+      },
+      {
+        "key": "slang",
+        "i18n": {
+          "en": "slang",
+          "uk": "сленг"
+        }
+      },
+      {
+        "key": "genz",
+        "i18n": {
+          "en": "genz",
+          "uk": "Ілюстрація: genz"
+        }
+      },
+      {
+        "key": "abbreviation",
+        "i18n": {
+          "en": "abbreviation",
+          "uk": "скорочення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/tea-spill",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

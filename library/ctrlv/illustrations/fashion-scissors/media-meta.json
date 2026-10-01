@@ -1,0 +1,83 @@
+{
+  "slug": "fashion-scissors",
+  "mediaKey": "7e1e7806-308b-4fbf-9c18-a85536db7798",
+  "i18n": {
+    "name": {
+      "en": "Scissors",
+      "uk": "Ножиці"
+    },
+    "alt": {
+      "en": "Scissors",
+      "uk": "Ножиці"
+    },
+    "tags": [
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "scissors",
+        "i18n": {
+          "en": "scissors",
+          "uk": "ножиці"
+        }
+      },
+      {
+        "key": "shears",
+        "i18n": {
+          "en": "shears",
+          "uk": "ножиці"
+        }
+      },
+      {
+        "key": "cut",
+        "i18n": {
+          "en": "cut",
+          "uk": "вирізати"
+        }
+      },
+      {
+        "key": "fabric",
+        "i18n": {
+          "en": "fabric",
+          "uk": "тканина"
+        }
+      },
+      {
+        "key": "tailor",
+        "i18n": {
+          "en": "tailor",
+          "uk": "кравець"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/fashion-scissors",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

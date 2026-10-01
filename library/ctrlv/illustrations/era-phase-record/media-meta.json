@@ -1,0 +1,83 @@
+{
+  "slug": "era-phase-record",
+  "mediaKey": "ce30b6fb-6a89-475d-8152-808a7215bc3c",
+  "i18n": {
+    "name": {
+      "en": "Era",
+      "uk": "Епоха"
+    },
+    "alt": {
+      "en": "Era",
+      "uk": "Епоха"
+    },
+    "tags": [
+      {
+        "key": "era",
+        "i18n": {
+          "en": "era",
+          "uk": "епоха"
+        }
+      },
+      {
+        "key": "phase",
+        "i18n": {
+          "en": "phase",
+          "uk": "фаза"
+        }
+      },
+      {
+        "key": "style",
+        "i18n": {
+          "en": "style",
+          "uk": "стиль"
+        }
+      },
+      {
+        "key": "slang",
+        "i18n": {
+          "en": "slang",
+          "uk": "сленг"
+        }
+      },
+      {
+        "key": "genz",
+        "i18n": {
+          "en": "genz",
+          "uk": "Ілюстрація: genz"
+        }
+      },
+      {
+        "key": "abbreviation",
+        "i18n": {
+          "en": "abbreviation",
+          "uk": "скорочення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/era-phase-record",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

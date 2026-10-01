@@ -1,0 +1,97 @@
+{
+  "slug": "char-musician",
+  "mediaKey": "567be798-22fc-42ed-91f2-04bc599ceaf1",
+  "i18n": {
+    "name": {
+      "en": "Musician",
+      "uk": "Музикант"
+    },
+    "alt": {
+      "en": "Musician",
+      "uk": "Музикант"
+    },
+    "tags": [
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      },
+      {
+        "key": "musician",
+        "i18n": {
+          "en": "musician",
+          "uk": "музикант"
+        }
+      },
+      {
+        "key": "music",
+        "i18n": {
+          "en": "music",
+          "uk": "музика"
+        }
+      },
+      {
+        "key": "guitar",
+        "i18n": {
+          "en": "guitar",
+          "uk": "гітара"
+        }
+      },
+      {
+        "key": "rock",
+        "i18n": {
+          "en": "rock",
+          "uk": "скеля"
+        }
+      },
+      {
+        "key": "concert",
+        "i18n": {
+          "en": "concert",
+          "uk": "концерт"
+        }
+      },
+      {
+        "key": "singer",
+        "i18n": {
+          "en": "singer",
+          "uk": "співак"
+        }
+      },
+      {
+        "key": "band",
+        "i18n": {
+          "en": "band",
+          "uk": "гурт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/char-musician",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

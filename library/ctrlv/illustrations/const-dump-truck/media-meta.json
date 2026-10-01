@@ -1,0 +1,90 @@
+{
+  "slug": "const-dump-truck",
+  "mediaKey": "d1b24f5f-331b-4290-834e-281067e08f8f",
+  "i18n": {
+    "name": {
+      "en": "Dump Truck",
+      "uk": "Самоскид"
+    },
+    "alt": {
+      "en": "Dump Truck",
+      "uk": "Самоскид"
+    },
+    "tags": [
+      {
+        "key": "construction",
+        "i18n": {
+          "en": "construction",
+          "uk": "будівництво"
+        }
+      },
+      {
+        "key": "truck",
+        "i18n": {
+          "en": "truck",
+          "uk": "вантажівка"
+        }
+      },
+      {
+        "key": "dump",
+        "i18n": {
+          "en": "dump",
+          "uk": "звалище"
+        }
+      },
+      {
+        "key": "tipper",
+        "i18n": {
+          "en": "tipper",
+          "uk": "самоскид"
+        }
+      },
+      {
+        "key": "rubble",
+        "i18n": {
+          "en": "rubble",
+          "uk": "уламки"
+        }
+      },
+      {
+        "key": "hauling",
+        "i18n": {
+          "en": "hauling",
+          "uk": "перевезення"
+        }
+      },
+      {
+        "key": "lift",
+        "i18n": {
+          "en": "lift",
+          "uk": "ліфт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/const-dump-truck",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

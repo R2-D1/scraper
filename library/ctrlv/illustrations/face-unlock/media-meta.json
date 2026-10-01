@@ -1,0 +1,83 @@
+{
+  "slug": "face-unlock",
+  "mediaKey": "47d182c2-5f06-4829-9ee1-9a2dd03fe15e",
+  "i18n": {
+    "name": {
+      "en": "Face Unlock",
+      "uk": "Розблокування за допомогою розпізнавання обличчя"
+    },
+    "alt": {
+      "en": "Face Unlock",
+      "uk": "Розблокування за допомогою розпізнавання обличчя"
+    },
+    "tags": [
+      {
+        "key": "face-unlock",
+        "i18n": {
+          "en": "face unlock",
+          "uk": "розблокування за допомогою розпізнавання обличчя"
+        }
+      },
+      {
+        "key": "biometrics",
+        "i18n": {
+          "en": "biometrics",
+          "uk": "біометрія"
+        }
+      },
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "scan",
+        "i18n": {
+          "en": "scan",
+          "uk": "скан"
+        }
+      },
+      {
+        "key": "privacy",
+        "i18n": {
+          "en": "privacy",
+          "uk": "конфіденційність"
+        }
+      },
+      {
+        "key": "mobile",
+        "i18n": {
+          "en": "mobile",
+          "uk": "мобільний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/face-unlock",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

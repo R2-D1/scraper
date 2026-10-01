@@ -1,0 +1,90 @@
+{
+  "slug": "movie-projector",
+  "mediaKey": "147b367d-bab1-480d-9bea-1edafbffc835",
+  "i18n": {
+    "name": {
+      "en": "Classic Projector",
+      "uk": "Класичний проектор"
+    },
+    "alt": {
+      "en": "Classic Projector",
+      "uk": "Класичний проектор"
+    },
+    "tags": [
+      {
+        "key": "movie",
+        "i18n": {
+          "en": "movie",
+          "uk": "фільм"
+        }
+      },
+      {
+        "key": "projector",
+        "i18n": {
+          "en": "projector",
+          "uk": "проектор"
+        }
+      },
+      {
+        "key": "cinema",
+        "i18n": {
+          "en": "cinema",
+          "uk": "кіно"
+        }
+      },
+      {
+        "key": "film",
+        "i18n": {
+          "en": "film",
+          "uk": "плівка"
+        }
+      },
+      {
+        "key": "watch",
+        "i18n": {
+          "en": "watch",
+          "uk": "дивитися"
+        }
+      },
+      {
+        "key": "theater",
+        "i18n": {
+          "en": "theater",
+          "uk": "театр"
+        }
+      },
+      {
+        "key": "light",
+        "i18n": {
+          "en": "light",
+          "uk": "світло"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/movie-projector",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

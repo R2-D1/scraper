@@ -1,0 +1,83 @@
+{
+  "slug": "sales-discount",
+  "mediaKey": "540b6aa7-7133-4fa7-b8a3-e70a6a62f44a",
+  "i18n": {
+    "name": {
+      "en": "Discount Tag",
+      "uk": "Етикетка зі знижкою"
+    },
+    "alt": {
+      "en": "Discount Tag",
+      "uk": "Етикетка зі знижкою"
+    },
+    "tags": [
+      {
+        "key": "sales",
+        "i18n": {
+          "en": "sales",
+          "uk": "продажі"
+        }
+      },
+      {
+        "key": "discount",
+        "i18n": {
+          "en": "discount",
+          "uk": "знижка"
+        }
+      },
+      {
+        "key": "tag",
+        "i18n": {
+          "en": "tag",
+          "uk": "тег"
+        }
+      },
+      {
+        "key": "promo",
+        "i18n": {
+          "en": "promo",
+          "uk": "промо"
+        }
+      },
+      {
+        "key": "coupon",
+        "i18n": {
+          "en": "coupon",
+          "uk": "купон"
+        }
+      },
+      {
+        "key": "percentage",
+        "i18n": {
+          "en": "percentage",
+          "uk": "відсоток"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/sales-discount",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

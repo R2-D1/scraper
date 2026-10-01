@@ -1,0 +1,76 @@
+{
+  "slug": "fin-8fb270ab",
+  "mediaKey": "96ba4b81-c9fa-41ec-8a16-abdc84f36203",
+  "i18n": {
+    "name": {
+      "en": "Interest Rate",
+      "uk": "Процентна ставка"
+    },
+    "alt": {
+      "en": "Interest Rate",
+      "uk": "Процентна ставка"
+    },
+    "tags": [
+      {
+        "key": "finance",
+        "i18n": {
+          "en": "finance",
+          "uk": "фінанси"
+        }
+      },
+      {
+        "key": "interest-rate",
+        "i18n": {
+          "en": "interest rate",
+          "uk": "процентна ставка"
+        }
+      },
+      {
+        "key": "economics",
+        "i18n": {
+          "en": "economics",
+          "uk": "економіка"
+        }
+      },
+      {
+        "key": "banking",
+        "i18n": {
+          "en": "banking",
+          "uk": "банкінг"
+        }
+      },
+      {
+        "key": "chart",
+        "i18n": {
+          "en": "chart",
+          "uk": "діаграма"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/fin-8fb270ab",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

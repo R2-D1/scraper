@@ -1,0 +1,97 @@
+{
+  "slug": "const-cement-mixer",
+  "mediaKey": "3de29db1-9924-4f00-9285-9a5fb6ab7fbd",
+  "i18n": {
+    "name": {
+      "en": "Cement Mixer",
+      "uk": "Бетонозмішувач"
+    },
+    "alt": {
+      "en": "Cement Mixer",
+      "uk": "Бетонозмішувач"
+    },
+    "tags": [
+      {
+        "key": "construction",
+        "i18n": {
+          "en": "construction",
+          "uk": "будівництво"
+        }
+      },
+      {
+        "key": "cement",
+        "i18n": {
+          "en": "cement",
+          "uk": "цемент"
+        }
+      },
+      {
+        "key": "mixer",
+        "i18n": {
+          "en": "mixer",
+          "uk": "мікшер"
+        }
+      },
+      {
+        "key": "truck",
+        "i18n": {
+          "en": "truck",
+          "uk": "вантажівка"
+        }
+      },
+      {
+        "key": "concrete",
+        "i18n": {
+          "en": "concrete",
+          "uk": "бетон"
+        }
+      },
+      {
+        "key": "heavy",
+        "i18n": {
+          "en": "heavy",
+          "uk": "важкий"
+        }
+      },
+      {
+        "key": "machinery",
+        "i18n": {
+          "en": "machinery",
+          "uk": "техніка"
+        }
+      },
+      {
+        "key": "transport",
+        "i18n": {
+          "en": "transport",
+          "uk": "транспорт"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/const-cement-mixer",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

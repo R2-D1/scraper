@@ -1,0 +1,69 @@
+{
+  "slug": "dog",
+  "mediaKey": "b45cc51c-f16b-45ba-9795-e41f5cc9ddf6",
+  "i18n": {
+    "name": {
+      "en": "Dog",
+      "uk": "Собака"
+    },
+    "alt": {
+      "en": "Dog",
+      "uk": "Собака"
+    },
+    "tags": [
+      {
+        "key": "dog",
+        "i18n": {
+          "en": "dog",
+          "uk": "собака"
+        }
+      },
+      {
+        "key": "pet",
+        "i18n": {
+          "en": "pet",
+          "uk": "домашня тварина"
+        }
+      },
+      {
+        "key": "animal",
+        "i18n": {
+          "en": "animal",
+          "uk": "тварина"
+        }
+      },
+      {
+        "key": "cute",
+        "i18n": {
+          "en": "cute",
+          "uk": "милий"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/dog",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

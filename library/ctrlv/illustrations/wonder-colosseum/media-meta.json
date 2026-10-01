@@ -1,0 +1,90 @@
+{
+  "slug": "wonder-colosseum",
+  "mediaKey": "653e7ecb-5ab6-4f01-abcf-82e7f4be0135",
+  "i18n": {
+    "name": {
+      "en": "Colosseum, Rome",
+      "uk": "Колізей, Рим"
+    },
+    "alt": {
+      "en": "Colosseum, Rome",
+      "uk": "Колізей, Рим"
+    },
+    "tags": [
+      {
+        "key": "wonder",
+        "i18n": {
+          "en": "wonder",
+          "uk": "подив"
+        }
+      },
+      {
+        "key": "rome",
+        "i18n": {
+          "en": "rome",
+          "uk": "Рим"
+        }
+      },
+      {
+        "key": "italy",
+        "i18n": {
+          "en": "italy",
+          "uk": "Італія"
+        }
+      },
+      {
+        "key": "colosseum",
+        "i18n": {
+          "en": "colosseum",
+          "uk": "колізей"
+        }
+      },
+      {
+        "key": "amphitheater",
+        "i18n": {
+          "en": "amphitheater",
+          "uk": "амфітеатр"
+        }
+      },
+      {
+        "key": "landmark",
+        "i18n": {
+          "en": "landmark",
+          "uk": "орієнтир"
+        }
+      },
+      {
+        "key": "europe",
+        "i18n": {
+          "en": "europe",
+          "uk": "європа"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/wonder-colosseum",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

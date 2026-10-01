@@ -1,0 +1,83 @@
+{
+  "slug": "fin-80c81316",
+  "mediaKey": "5c614e31-af0e-42e8-954b-56301cbd98c0",
+  "i18n": {
+    "name": {
+      "en": "Blockchain Network",
+      "uk": "Мережа блокчейн"
+    },
+    "alt": {
+      "en": "Blockchain Network",
+      "uk": "Мережа блокчейн"
+    },
+    "tags": [
+      {
+        "key": "blockchain",
+        "i18n": {
+          "en": "blockchain",
+          "uk": "блокчейн"
+        }
+      },
+      {
+        "key": "network",
+        "i18n": {
+          "en": "network",
+          "uk": "мережа"
+        }
+      },
+      {
+        "key": "crypto",
+        "i18n": {
+          "en": "crypto",
+          "uk": "криптовалюта"
+        }
+      },
+      {
+        "key": "decentralized",
+        "i18n": {
+          "en": "decentralized",
+          "uk": "децентралізований"
+        }
+      },
+      {
+        "key": "nodes",
+        "i18n": {
+          "en": "nodes",
+          "uk": "вузли"
+        }
+      },
+      {
+        "key": "web3",
+        "i18n": {
+          "en": "web3",
+          "uk": "web3"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/fin-80c81316",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

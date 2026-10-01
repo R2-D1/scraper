@@ -1,0 +1,90 @@
+{
+  "slug": "vehicle-motorcycle",
+  "mediaKey": "e9abd186-83d0-44b5-bc15-f39b08abed90",
+  "i18n": {
+    "name": {
+      "en": "Motorcycle",
+      "uk": "Мотоцикл"
+    },
+    "alt": {
+      "en": "Motorcycle",
+      "uk": "Мотоцикл"
+    },
+    "tags": [
+      {
+        "key": "motorcycle",
+        "i18n": {
+          "en": "motorcycle",
+          "uk": "мотоцикл"
+        }
+      },
+      {
+        "key": "motorbike",
+        "i18n": {
+          "en": "motorbike",
+          "uk": "мотоцикл"
+        }
+      },
+      {
+        "key": "bike",
+        "i18n": {
+          "en": "bike",
+          "uk": "велосипед"
+        }
+      },
+      {
+        "key": "sport",
+        "i18n": {
+          "en": "sport",
+          "uk": "спорт"
+        }
+      },
+      {
+        "key": "transport",
+        "i18n": {
+          "en": "transport",
+          "uk": "транспорт"
+        }
+      },
+      {
+        "key": "ride",
+        "i18n": {
+          "en": "ride",
+          "uk": "поїздка"
+        }
+      },
+      {
+        "key": "speed",
+        "i18n": {
+          "en": "speed",
+          "uk": "швидкість"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/vehicle-motorcycle",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

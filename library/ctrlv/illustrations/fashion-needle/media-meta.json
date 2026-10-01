@@ -1,0 +1,90 @@
+{
+  "slug": "fashion-needle",
+  "mediaKey": "1bf8b2a4-9085-4d5d-8c72-4c3f3cfb77b3",
+  "i18n": {
+    "name": {
+      "en": "Needle & Thread",
+      "uk": "Голка та нитка"
+    },
+    "alt": {
+      "en": "Needle & Thread",
+      "uk": "Голка та нитка"
+    },
+    "tags": [
+      {
+        "key": "fashion",
+        "i18n": {
+          "en": "fashion",
+          "uk": "мода"
+        }
+      },
+      {
+        "key": "needle",
+        "i18n": {
+          "en": "needle",
+          "uk": "голка"
+        }
+      },
+      {
+        "key": "thread",
+        "i18n": {
+          "en": "thread",
+          "uk": "нитка"
+        }
+      },
+      {
+        "key": "sewing",
+        "i18n": {
+          "en": "sewing",
+          "uk": "шиття"
+        }
+      },
+      {
+        "key": "stitch",
+        "i18n": {
+          "en": "stitch",
+          "uk": "стібок"
+        }
+      },
+      {
+        "key": "tailor",
+        "i18n": {
+          "en": "tailor",
+          "uk": "кравець"
+        }
+      },
+      {
+        "key": "craft",
+        "i18n": {
+          "en": "craft",
+          "uk": "Craft"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/fashion-needle",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

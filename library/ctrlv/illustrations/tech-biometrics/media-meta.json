@@ -1,0 +1,97 @@
+{
+  "slug": "tech-biometrics",
+  "mediaKey": "e2b1d0da-a6c6-4dab-a522-aa4daaf074c1",
+  "i18n": {
+    "name": {
+      "en": "Biometrics",
+      "uk": "Біометрія"
+    },
+    "alt": {
+      "en": "Biometrics",
+      "uk": "Біометрія"
+    },
+    "tags": [
+      {
+        "key": "security",
+        "i18n": {
+          "en": "security",
+          "uk": "захист"
+        }
+      },
+      {
+        "key": "fingerprint",
+        "i18n": {
+          "en": "fingerprint",
+          "uk": "відбиток пальця"
+        }
+      },
+      {
+        "key": "biometric",
+        "i18n": {
+          "en": "biometric",
+          "uk": "біометрія"
+        }
+      },
+      {
+        "key": "scan",
+        "i18n": {
+          "en": "scan",
+          "uk": "скан"
+        }
+      },
+      {
+        "key": "identity",
+        "i18n": {
+          "en": "identity",
+          "uk": "ідентичність"
+        }
+      },
+      {
+        "key": "iris",
+        "i18n": {
+          "en": "iris",
+          "uk": "ірис"
+        }
+      },
+      {
+        "key": "access",
+        "i18n": {
+          "en": "access",
+          "uk": "доступ"
+        }
+      },
+      {
+        "key": "tech",
+        "i18n": {
+          "en": "tech",
+          "uk": "технології"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/tech-biometrics",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

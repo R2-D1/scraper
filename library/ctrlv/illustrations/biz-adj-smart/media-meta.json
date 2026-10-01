@@ -1,0 +1,83 @@
+{
+  "slug": "biz-adj-smart",
+  "mediaKey": "af00b9e9-3c8c-4030-8e2d-359e5a947fa2",
+  "i18n": {
+    "name": {
+      "en": "Smart",
+      "uk": "Розумний"
+    },
+    "alt": {
+      "en": "Smart",
+      "uk": "Розумний"
+    },
+    "tags": [
+      {
+        "key": "business",
+        "i18n": {
+          "en": "business",
+          "uk": "бізнес"
+        }
+      },
+      {
+        "key": "adjective",
+        "i18n": {
+          "en": "adjective",
+          "uk": "прикметник"
+        }
+      },
+      {
+        "key": "intelligent",
+        "i18n": {
+          "en": "intelligent",
+          "uk": "інтелектуальний"
+        }
+      },
+      {
+        "key": "brain",
+        "i18n": {
+          "en": "brain",
+          "uk": "мозок"
+        }
+      },
+      {
+        "key": "tech",
+        "i18n": {
+          "en": "tech",
+          "uk": "технології"
+        }
+      },
+      {
+        "key": "ai",
+        "i18n": {
+          "en": "ai",
+          "uk": "ai"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/biz-adj-smart",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

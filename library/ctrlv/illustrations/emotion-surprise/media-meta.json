@@ -1,0 +1,97 @@
+{
+  "slug": "emotion-surprise",
+  "mediaKey": "ace3db40-753a-4cae-9845-3b1ae41f339b",
+  "i18n": {
+    "name": {
+      "en": "Surprise",
+      "uk": "Сюрприз"
+    },
+    "alt": {
+      "en": "Surprise",
+      "uk": "Сюрприз"
+    },
+    "tags": [
+      {
+        "key": "emotion",
+        "i18n": {
+          "en": "emotion",
+          "uk": "емоція"
+        }
+      },
+      {
+        "key": "surprise",
+        "i18n": {
+          "en": "surprise",
+          "uk": "сюрприз"
+        }
+      },
+      {
+        "key": "shock",
+        "i18n": {
+          "en": "shock",
+          "uk": "шок"
+        }
+      },
+      {
+        "key": "amazed",
+        "i18n": {
+          "en": "amazed",
+          "uk": "вражений"
+        }
+      },
+      {
+        "key": "astonished",
+        "i18n": {
+          "en": "astonished",
+          "uk": "приголомшений"
+        }
+      },
+      {
+        "key": "startled",
+        "i18n": {
+          "en": "startled",
+          "uk": "здивований"
+        }
+      },
+      {
+        "key": "wonder",
+        "i18n": {
+          "en": "wonder",
+          "uk": "подив"
+        }
+      },
+      {
+        "key": "unexpected",
+        "i18n": {
+          "en": "unexpected",
+          "uk": "несподіваний"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/emotion-surprise",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

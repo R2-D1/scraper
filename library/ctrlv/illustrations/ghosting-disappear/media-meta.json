@@ -1,0 +1,83 @@
+{
+  "slug": "ghosting-disappear",
+  "mediaKey": "22da89d6-9e07-4ad6-a720-29af01923561",
+  "i18n": {
+    "name": {
+      "en": "Ghosting",
+      "uk": "Ігнорування"
+    },
+    "alt": {
+      "en": "Ghosting",
+      "uk": "Ігнорування"
+    },
+    "tags": [
+      {
+        "key": "ghosting",
+        "i18n": {
+          "en": "ghosting",
+          "uk": "ігнорування"
+        }
+      },
+      {
+        "key": "disappear",
+        "i18n": {
+          "en": "disappear",
+          "uk": "зникнення"
+        }
+      },
+      {
+        "key": "chat",
+        "i18n": {
+          "en": "chat",
+          "uk": "чат"
+        }
+      },
+      {
+        "key": "slang",
+        "i18n": {
+          "en": "slang",
+          "uk": "сленг"
+        }
+      },
+      {
+        "key": "genz",
+        "i18n": {
+          "en": "genz",
+          "uk": "Ілюстрація: genz"
+        }
+      },
+      {
+        "key": "abbreviation",
+        "i18n": {
+          "en": "abbreviation",
+          "uk": "скорочення"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/ghosting-disappear",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "biz-donut-chart",
+  "mediaKey": "18685465-9093-419f-a4a3-0ebfc128da55",
+  "i18n": {
+    "name": {
+      "en": "Donut Chart",
+      "uk": "Кругова діаграма"
+    },
+    "alt": {
+      "en": "Donut Chart",
+      "uk": "Кругова діаграма"
+    },
+    "tags": [
+      {
+        "key": "chart",
+        "i18n": {
+          "en": "chart",
+          "uk": "діаграма"
+        }
+      },
+      {
+        "key": "donut",
+        "i18n": {
+          "en": "donut",
+          "uk": "пончик"
+        }
+      },
+      {
+        "key": "doughnut",
+        "i18n": {
+          "en": "doughnut",
+          "uk": "пончик"
+        }
+      },
+      {
+        "key": "ring",
+        "i18n": {
+          "en": "ring",
+          "uk": "кільце"
+        }
+      },
+      {
+        "key": "percentage",
+        "i18n": {
+          "en": "percentage",
+          "uk": "відсоток"
+        }
+      },
+      {
+        "key": "circle",
+        "i18n": {
+          "en": "circle",
+          "uk": "коло"
+        }
+      },
+      {
+        "key": "metrics",
+        "i18n": {
+          "en": "metrics",
+          "uk": "метрики"
+        }
+      },
+      {
+        "key": "share",
+        "i18n": {
+          "en": "share",
+          "uk": "частка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/biz-donut-chart",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

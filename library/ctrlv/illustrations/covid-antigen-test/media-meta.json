@@ -1,0 +1,97 @@
+{
+  "slug": "covid-antigen-test",
+  "mediaKey": "f6e4159e-d7ad-4410-b144-53228763695f",
+  "i18n": {
+    "name": {
+      "en": "Rapid Antigen Test",
+      "uk": "Експрес-тест на антигени"
+    },
+    "alt": {
+      "en": "Rapid Antigen Test",
+      "uk": "Експрес-тест на антигени"
+    },
+    "tags": [
+      {
+        "key": "covid",
+        "i18n": {
+          "en": "covid",
+          "uk": "ковід"
+        }
+      },
+      {
+        "key": "test",
+        "i18n": {
+          "en": "test",
+          "uk": "тест"
+        }
+      },
+      {
+        "key": "antigen",
+        "i18n": {
+          "en": "antigen",
+          "uk": "антиген"
+        }
+      },
+      {
+        "key": "rapid",
+        "i18n": {
+          "en": "rapid",
+          "uk": "швидкий"
+        }
+      },
+      {
+        "key": "positive",
+        "i18n": {
+          "en": "positive",
+          "uk": "позитивний"
+        }
+      },
+      {
+        "key": "negative",
+        "i18n": {
+          "en": "negative",
+          "uk": "негативний"
+        }
+      },
+      {
+        "key": "swab",
+        "i18n": {
+          "en": "swab",
+          "uk": "тампон"
+        }
+      },
+      {
+        "key": "health",
+        "i18n": {
+          "en": "health",
+          "uk": "здоров'я"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/covid-antigen-test",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

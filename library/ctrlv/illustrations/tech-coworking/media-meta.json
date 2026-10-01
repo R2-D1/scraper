@@ -1,0 +1,97 @@
+{
+  "slug": "tech-coworking",
+  "mediaKey": "589257b2-a139-4ac5-8755-80abd22efe83",
+  "i18n": {
+    "name": {
+      "en": "Collaboration",
+      "uk": "Співпраця"
+    },
+    "alt": {
+      "en": "Collaboration",
+      "uk": "Співпраця"
+    },
+    "tags": [
+      {
+        "key": "productivity",
+        "i18n": {
+          "en": "productivity",
+          "uk": "продуктивність"
+        }
+      },
+      {
+        "key": "cowork",
+        "i18n": {
+          "en": "cowork",
+          "uk": "коворк"
+        }
+      },
+      {
+        "key": "collaboration",
+        "i18n": {
+          "en": "collaboration",
+          "uk": "співпраця"
+        }
+      },
+      {
+        "key": "shared",
+        "i18n": {
+          "en": "shared",
+          "uk": "спільний"
+        }
+      },
+      {
+        "key": "editing",
+        "i18n": {
+          "en": "editing",
+          "uk": "редагування"
+        }
+      },
+      {
+        "key": "multiplayer",
+        "i18n": {
+          "en": "multiplayer",
+          "uk": "багатокористувацький режим"
+        }
+      },
+      {
+        "key": "realtime",
+        "i18n": {
+          "en": "realtime",
+          "uk": "у реальному часі"
+        }
+      },
+      {
+        "key": "team",
+        "i18n": {
+          "en": "team",
+          "uk": "команда"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/tech-coworking",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

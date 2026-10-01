@@ -1,0 +1,90 @@
+{
+  "slug": "biz-line-chart",
+  "mediaKey": "3613b873-1e3f-4fc8-ab77-6ead1ee7ed4c",
+  "i18n": {
+    "name": {
+      "en": "Line Chart",
+      "uk": "Лінійний графік"
+    },
+    "alt": {
+      "en": "Line Chart",
+      "uk": "Лінійний графік"
+    },
+    "tags": [
+      {
+        "key": "chart",
+        "i18n": {
+          "en": "chart",
+          "uk": "діаграма"
+        }
+      },
+      {
+        "key": "line",
+        "i18n": {
+          "en": "line",
+          "uk": "Line"
+        }
+      },
+      {
+        "key": "trend",
+        "i18n": {
+          "en": "trend",
+          "uk": "тренд"
+        }
+      },
+      {
+        "key": "graph",
+        "i18n": {
+          "en": "graph",
+          "uk": "графік"
+        }
+      },
+      {
+        "key": "progress",
+        "i18n": {
+          "en": "progress",
+          "uk": "прогрес"
+        }
+      },
+      {
+        "key": "analytics",
+        "i18n": {
+          "en": "analytics",
+          "uk": "аналітика"
+        }
+      },
+      {
+        "key": "time",
+        "i18n": {
+          "en": "time",
+          "uk": "час"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/biz-line-chart",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

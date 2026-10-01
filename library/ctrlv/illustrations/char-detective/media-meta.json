@@ -1,0 +1,97 @@
+{
+  "slug": "char-detective",
+  "mediaKey": "aff40c86-0450-49fa-9556-439b93a49016",
+  "i18n": {
+    "name": {
+      "en": "Detective",
+      "uk": "Детектив"
+    },
+    "alt": {
+      "en": "Detective",
+      "uk": "Детектив"
+    },
+    "tags": [
+      {
+        "key": "character",
+        "i18n": {
+          "en": "character",
+          "uk": "персонаж"
+        }
+      },
+      {
+        "key": "detective",
+        "i18n": {
+          "en": "detective",
+          "uk": "детектив"
+        }
+      },
+      {
+        "key": "sleuth",
+        "i18n": {
+          "en": "sleuth",
+          "uk": "детектив"
+        }
+      },
+      {
+        "key": "investigator",
+        "i18n": {
+          "en": "investigator",
+          "uk": "слідчий"
+        }
+      },
+      {
+        "key": "mystery",
+        "i18n": {
+          "en": "mystery",
+          "uk": "таємниця"
+        }
+      },
+      {
+        "key": "magnifying-glass",
+        "i18n": {
+          "en": "magnifying glass",
+          "uk": "лупа"
+        }
+      },
+      {
+        "key": "crime",
+        "i18n": {
+          "en": "crime",
+          "uk": "злочин"
+        }
+      },
+      {
+        "key": "clue",
+        "i18n": {
+          "en": "clue",
+          "uk": "підказка"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/char-detective",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

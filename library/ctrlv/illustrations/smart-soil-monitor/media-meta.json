@@ -1,0 +1,83 @@
+{
+  "slug": "smart-soil-monitor",
+  "mediaKey": "c0167297-d43e-4a77-b5bf-590853536ab0",
+  "i18n": {
+    "name": {
+      "en": "Smart Soil Monitor",
+      "uk": "Інтелектуальний монітор стану ґрунту"
+    },
+    "alt": {
+      "en": "Smart Soil Monitor",
+      "uk": "Інтелектуальний монітор стану ґрунту"
+    },
+    "tags": [
+      {
+        "key": "agriculture",
+        "i18n": {
+          "en": "agriculture",
+          "uk": "сільське господарство"
+        }
+      },
+      {
+        "key": "soil",
+        "i18n": {
+          "en": "soil",
+          "uk": "ґрунт"
+        }
+      },
+      {
+        "key": "monitor",
+        "i18n": {
+          "en": "monitor",
+          "uk": "монітор"
+        }
+      },
+      {
+        "key": "sensor",
+        "i18n": {
+          "en": "sensor",
+          "uk": "датчик"
+        }
+      },
+      {
+        "key": "farming",
+        "i18n": {
+          "en": "farming",
+          "uk": "фермерство"
+        }
+      },
+      {
+        "key": "tech",
+        "i18n": {
+          "en": "tech",
+          "uk": "технології"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/smart-soil-monitor",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}

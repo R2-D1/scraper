@@ -1,0 +1,90 @@
+{
+  "slug": "upi-payment",
+  "mediaKey": "b42ce19d-4b8f-4ecd-bd47-69dc15ad1643",
+  "i18n": {
+    "name": {
+      "en": "UPI Payment",
+      "uk": "Оплата через UPI"
+    },
+    "alt": {
+      "en": "UPI Payment",
+      "uk": "Оплата через UPI"
+    },
+    "tags": [
+      {
+        "key": "upi",
+        "i18n": {
+          "en": "upi",
+          "uk": "upi"
+        }
+      },
+      {
+        "key": "payment",
+        "i18n": {
+          "en": "payment",
+          "uk": "оплата"
+        }
+      },
+      {
+        "key": "scan",
+        "i18n": {
+          "en": "scan",
+          "uk": "скан"
+        }
+      },
+      {
+        "key": "qr-code",
+        "i18n": {
+          "en": "qr code",
+          "uk": "QR-код"
+        }
+      },
+      {
+        "key": "mobile-pay",
+        "i18n": {
+          "en": "mobile pay",
+          "uk": "мобільні платежі"
+        }
+      },
+      {
+        "key": "india",
+        "i18n": {
+          "en": "india",
+          "uk": "індія"
+        }
+      },
+      {
+        "key": "finance",
+        "i18n": {
+          "en": "finance",
+          "uk": "фінанси"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/upi-payment",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 512,
+  "height": 384
+}

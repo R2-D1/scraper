@@ -1,0 +1,83 @@
+{
+  "slug": "candlestick-chart-trade",
+  "mediaKey": "7c669a60-86c7-4a0e-9244-5ed54e9519f6",
+  "i18n": {
+    "name": {
+      "en": "Trading Chart",
+      "uk": "Торговий графік"
+    },
+    "alt": {
+      "en": "Trading Chart",
+      "uk": "Торговий графік"
+    },
+    "tags": [
+      {
+        "key": "candlestick",
+        "i18n": {
+          "en": "candlestick",
+          "uk": "свічник"
+        }
+      },
+      {
+        "key": "chart",
+        "i18n": {
+          "en": "chart",
+          "uk": "діаграма"
+        }
+      },
+      {
+        "key": "trading",
+        "i18n": {
+          "en": "trading",
+          "uk": "трейдинг"
+        }
+      },
+      {
+        "key": "invest",
+        "i18n": {
+          "en": "invest",
+          "uk": "інвестувати"
+        }
+      },
+      {
+        "key": "stock",
+        "i18n": {
+          "en": "stock",
+          "uk": "запас"
+        }
+      },
+      {
+        "key": "finance",
+        "i18n": {
+          "en": "finance",
+          "uk": "фінанси"
+        }
+      }
+    ],
+    "keywords": {
+      "en": [],
+      "uk": []
+    }
+  },
+  "category": {
+    "key": "illustrations",
+    "en": "Illustrations",
+    "uk": "Ілюстрації"
+  },
+  "collectionSlugs": [
+    "ctrlv-illustrations"
+  ],
+  "pinned": false,
+  "source": "https://ctrlv.design/i/candlestick-chart-trade",
+  "sourceName": "CtrlV",
+  "authorName": "CtrlV",
+  "authorUrl": "https://ctrlv.design/",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://ctrlv.design/LICENSE",
+  "tier": "free",
+  "downloadSource": "ctrlv",
+  "taggingStatus": "complete",
+  "mimeType": "image/svg+xml",
+  "width": 400,
+  "height": 300
+}
