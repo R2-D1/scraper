@@ -1,7 +1,0 @@
-<svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg"><style><![CDATA[*{animation:none!important}]]></style>
-            <g class="anim-float">
-                <rect x="140" y="140" width="120" height="90" rx="5" fill="#6366f1"/>
-                <path class="anim-draw" d="M160 140 V100 C160 80 240 80 240 100 V140" stroke="#f43f5e" stroke-width="12" fill="none" stroke-linecap="round"/>
-                <circle class="anim-pulse" cx="200" cy="180" r="10" fill="#ffffff"/>
-            </g>
-          </svg>
